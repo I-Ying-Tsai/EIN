@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "#关注俄乌局势最新进展#乌克兰战场实况，战场可是开不了一点玩笑的 欸西西的微博视频 ",
+        "time": "22-2-24 17:23",
+        "user id": "1650926392",
+        "tweet id": "LgYgpb9YV",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "6172563905",
+            "user name": "热水得加糖",
+            "content": "这是早几年黎巴嫩港口的硝酸铵爆炸",
+            "time": "22-2-24 17:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "3298050301",
+            "user name": "没什么可叫的1",
+            "content": "哈哈哈哈哈",
+            "time": "22-2-24 21:46",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "5633615717",
+            "user name": "我想做个笨蛋",
+            "content": "假的！！！！",
+            "time": "22-2-24 17:31",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "6171306781",
+            "user name": "KRIMIS-华强北小F",
+            "content": "瞎造谣~",
+            "time": "22-2-24 17:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "1976901947",
+            "user name": "乌哩马岔_",
+            "content": "这特么是立陶宛上次港口爆炸吧，乱放视频",
+            "time": "22-2-24 17:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "1976901947",
+            "user name": "乌哩马岔_",
+            "content": "嗯嗯",
+            "time": "22-2-24 20:14",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                5
+            ],
+            "user id": "7462241958",
+            "user name": "路远且行12138",
+            "content": "黎巴嫩",
+            "time": "22-2-24 18:12",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "2411028572",
+            "user name": "Mr教徒",
+            "content": "造谣也要用点脑子好吗",
+            "time": "22-2-24 17:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5229546746",
+            "user name": "摇摇摇摇光",
+            "content": "这不是黎巴嫩港口么",
+            "time": "22-2-24 17:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5819697465",
+            "user name": "钓鱼要到岛上钓_lM",
+            "content": "取关举报一气呵成 这当互联网没有记忆啊",
+            "time": "22-2-24 17:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2698281513",
+            "user name": "大步向前的飞翔",
+            "content": "假视频",
+            "time": "22-2-24 17:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "6392263646",
+            "user name": "見江椽",
+            "content": "举报吧",
+            "time": "22-2-24 23:24",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "2370622410",
+            "user name": "翻滚五条悟",
+            "content": "已举报",
+            "time": "22-2-24 19:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

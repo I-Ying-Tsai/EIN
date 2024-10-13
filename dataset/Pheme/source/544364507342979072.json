@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "In case of queries about Indian nationals following  events in Sydney contact Dr Viond Bahade Dy Consul General at phone +61 481 453550",
+        "user id": 441636351,
+        "tweet id": "544364507342979072",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MEAIndia In case of queries abt Indian nationals following events in Sydney contact Dr Viond Bahade Dy Consul General at ph: +61 481 453550",
+            "user id": 378459997,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "In case of queries abt Indians following events in Sydney contact Dr Viond Bahade Dy Consul General phone +61 481453550 via @MEAIndia \"@ndtv",
+            "user id": 239875508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

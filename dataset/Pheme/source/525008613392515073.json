@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "A Canadian soldier who was standing on guard for thee is gone. Our thoughts are w everyone affected by the shootings in Ottawa #CanadaStrong",
+        "user id": 913135650,
+        "tweet id": "525008613392515073",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@weday it's so sad 😭😭😭😭😭😭😭",
+            "user id": 2756609176,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@weday RT \"We are all infidels\" #outlawIslam #cdnpoli",
+            "user id": 19111502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

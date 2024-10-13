@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Our thoughts are with the people of Sydney tonight. Let's hope we all wake up to a good news story tomorrow ❤️ http://t.co/mOVpLscH4w",
+        "user id": 122539413,
+        "tweet id": "544474153646956547",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@shazamtop20 ❤️",
+            "user id": 1513074930,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@shazamtop20 watching it in Rv right now, so scary 😟 praying for them xx",
+            "user id": 857641099,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@shazamtop20 on tv*",
+            "user id": 857641099,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@shazamtop20 #PrayForSydney Your hope is the world's hope. http://t.co/HC4HzToXiw",
+            "user id": 588141542,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@shazamtop20 &lt;3 &lt;3",
+            "user id": 39705367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@shazamtop20 @90sirwinftcraic yeah same here :)",
+            "user id": 2279000466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@shazamtop20 Ameen...",
+            "user id": 559347868,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@shazamtop20 this quote was stuck in my head all day. Relevant http://t.co/nNGbtA2V89",
+            "user id": 334068019,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "VIDEO: Prince to perform a surprise show in Toronto http://t.co/nBkcvGZeg3 http://t.co/NTsPuCpKUa",
+        "user id": 22930902,
+        "tweet id": "529638205013123073",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BTtoronto very cool",
+            "user id": 1500437611,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BTtoronto Uh. I guess it isn't a surprise show any more.",
+            "user id": 24089166,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BTtoronto Not such a surprise anymore, is it?",
+            "user id": 439502873,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BTtoronto damn.  I gotta work at 2 to 11.. That sucks.  But prince ain't going to pay my bills",
+            "user id": 33520555,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BTtoronto #birthdaygirl #prince  it's my Birthday ohhhh I would love to see my all time fav ❤️❤️❤️please get me in!",
+            "user id": 430880741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

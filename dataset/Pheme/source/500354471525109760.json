@@ -1,0 +1,175 @@
+{
+    "source": {
+        "content": "#MikeBrown's family calls it \"devious\" the way the police chief released info meant to \"assassinate\" their son's character. #Ferguson",
+        "user id": 16145763,
+        "tweet id": "500354471525109760",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "why? he did what he did, may ALL truth come out, on both sides only way to heal this .@tjholmes",
+            "user id": 118953812,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@regressivesRUs @tjholmes \"he did what he did,\" but what he did had nothing to do with why he was stopped therefore it's irrelevant",
+            "user id": 288791720,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes Things must and will change.  Tell everyone to get out the Vote. http://t.co/cEEy0Mn2zC",
+            "user id": 17270046,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@tjholmes this is troubling because this could have been disclosed in the beginning.",
+            "user id": 387883426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@Michelle_WXYZ @tjholmes ...and we're all left to wonder why it wasn't.",
+            "user id": 302204027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes It is but it's not unprecedented as we all know",
+            "user id": 557129196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes We are DONE|. with #FERGUSON Police Chief THOMAS JACKSON http://t.co/gCRXtcsdev #THOMASJACKSONMUSTGONOW\nhttp://t.co/RjHB8HRieZ",
+            "user id": 15347644,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes he is caught on camera stealing and assaulting. That's his character",
+            "user id": 1177749511,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes That's what devils do!",
+            "user id": 107143385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes  Unfortunately, this young  man assassinated his own character",
+            "user id": 1035152924,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes DISCUSSION HAPPENING NOW http://t.co/BbOiXbMCGK - call in 1-888-400-5574 http://t.co/dmlkNBoTjS",
+            "user id": 15832394,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "check this out.. very interesting take https://t.co/vq3OlAqKdg .@Listen2ThisBrit .@tjholmes",
+            "user id": 118953812,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@RealityEmission @tjholmes I know that's the scary part. It like a bate and switch. Or, wag the dog. It takes the focus off of the officer.",
+            "user id": 387883426,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

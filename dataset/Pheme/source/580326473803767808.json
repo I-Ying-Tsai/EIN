@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "#BREAKING: Germanwings jetliner has crashed in Southeastern France, according to officials. All 148 on board are feared dead.",
+        "user id": 26282046,
+        "tweet id": "580326473803767808",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HLNTV  My condolences to the families of the passengers and crew of the Germanwings Jetliner that crashed in France.😢",
+            "user id": 1470944226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

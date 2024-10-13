@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Today is exhausting on everyone's emotions - please know we are here for you 24/7 in #ottawa &amp; surroundings areas 613-238-3311",
+        "user id": 564807258,
+        "tweet id": "524993166651318273",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@DistressCentreO  I don't live in Ottawa.. but want to say \"ThankYou\" for providing such an important service at this time. #Ottawa",
+            "user id": 20917723,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@DonnaGillis you're welcome #PrayForOttawa",
+            "user id": 564807258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

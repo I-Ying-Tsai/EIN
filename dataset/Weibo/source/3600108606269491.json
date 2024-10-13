@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "朋友传来的消息:帮忙！ 求扩散，今天上午女孩在大润发超市附近被人拐走了，小女孩三岁多，能准确说出她爸爸的手机号码，这是我们朋友女儿的照片，从监控上看是被一个四十多岁男人抱走了，现大人都急疯了，有知情者请告之，万分感谢！",
+        "user id": 2245603891,
+        "tweet id": "3600108606269491",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "转发",
+            "user id": 1746877477,
+            "user name": "岳崟鸣",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                7,
+                12,
+                13
+            ],
+            "content": "转发微博",
+            "user id": 1958181754,
+            "user name": "876交通之声",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@福州大学城 @福州那点事儿 @福州圈 @海峡都市报 @913福建汽车音乐调频",
+            "user id": 2146255712,
+            "user name": "缺少的那丝勇气",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "转",
+            "user id": 1869081503,
+            "user name": "泥巴雨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@福州身边事儿 @福州那点事儿 @福州街头巷尾 @福州同城会",
+            "user id": 1296053821,
+            "user name": "小鈴鈴1",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "这和火花塞在油箱上的微博一样是你的专利[笑哈哈]",
+            "user id": 1649459104,
+            "user name": "啊华田",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "转起来",
+            "user id": 2624979822,
+            "user name": "李锋微bo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "[围观][围观][围观]",
+            "user id": 2790808217,
+            "user name": "田淑萍-不是谁的谁谁谁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "惊！大家快扩散开！",
+            "user id": 1733412910,
+            "user name": "Don你到底闹哪样啊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "[爱心传递][爱心传递][围观][围观]",
+            "user id": 2808893520,
+            "user name": "蘇金花--姓苏不姓炸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "可怜的孩子，大家一起帮忙吧@福州搜房网 @福州那点事儿 @如行人 @随手拍福州 @这里是福州 @金帝仁文江语城",
+            "user id": 2410922942,
+            "user name": "小烂板",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "找到了么？可恶的人贩子！",
+            "user id": 2816326610,
+            "user name": "刘now",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [],
+            "content": "扩散、扩散",
+            "user id": 2658087835,
+            "user name": "天天妈冬冬",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 1,
+            "children": [],
+            "content": "要看好孩子",
+            "user id": 1921600457,
+            "user name": "食道风味府",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

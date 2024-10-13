@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "#MikeBrown wanted to walk down the street. And he is dead. And the #Ferguson PD is using his silence in death to make him a criminal.",
+        "user id": 172869874,
+        "tweet id": "500281094239817728",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@scATX it's sound like they may have been racially profiling him as a suspect",
+            "user id": 14372270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@scATX You are supposed to not be biased when you're a journalist. Glad you can come up with that decision without knowing all the facts",
+            "user id": 411814682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@scATX If they were criminals why did the police not arrest his friend right away?They shot one robber &amp; let the other go #MikeBrown",
+            "user id": 768514130,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@scATX @taiping2 a story that continues to repeat itself, over and over and over in America. #Ferguson",
+            "user id": 253647516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@scATX no he was walking IN the street big difference",
+            "user id": 384401129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

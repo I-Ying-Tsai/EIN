@@ -1,0 +1,169 @@
+{
+    "source": {
+        "content": "Why it's Charlie Hebdo's right to draw Muhammad http://t.co/GlF9dgwFS0 http://t.co/Vkfw5ZbmvC",
+        "user id": 16973333,
+        "tweet id": "552791203432103937",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "Because free speech &amp; democracy. Now piss off @Independent \"Why it's Charlie Hebdo's right to draw Muhammad\"",
+            "user id": 129024290,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@anarchic_teapot @Independent read the article, it says just that...",
+            "user id": 463227494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@anarchic_teapot @Independent it's not asking \"why is it?\" It's saying it IS their right",
+            "user id": 463227494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent that was quick!!!",
+            "user id": 72588786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "I can't believe how filthy is the @Independent: http://t.co/DAvZiXrsDp http://t.co/q0VI2WERjF”",
+            "user id": 486632518,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Note #Hollande's statement about Russian relations? #Zionism ignites global race wars, a divide and rule strategy @hrw @amnesty",
+            "user id": 2464329458,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: Why it's Charlie Hebdo's right to draw Muhammad http://t.co/ITCl7Z5YWA http://t.co/lAjEVEtGNV”\n\nYou got in quick",
+            "user id": 568119166,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@Independent we r living in a different world today, away from the Western-centred worldview?",
+            "user id": 20488488,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@JosephineKoh @Independent http://t.co/Zx6QBC0Bhh",
+            "user id": 475736463,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @alphonso1234x yes and we should all retweet his cartoons",
+            "user id": 2939440823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [
+                11
+            ],
+            "content": "@ChrisArmsby @Independent I'm sure it does. An entire article is not required to say that. Cashing in.",
+            "user id": 129024290,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@anarchic_teapot @Independent it was written on the 2nd of January 2013",
+            "user id": 463227494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

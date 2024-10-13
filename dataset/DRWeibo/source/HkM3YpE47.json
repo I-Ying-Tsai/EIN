@@ -1,0 +1,181 @@
+{
+    "source": {
+        "content": "#埃航坠机最后十秒的视频# 埃航坠机最后十秒，活着就是最大的幸运，没那么多的事和人值得你去计较，人赤祼祼的来到这个世界，也赤裸裸的离开，保持一份好心情，去见你想见的人，去做你想做的事，趁阳光正好，趁微风不噪，活在當下，珍惜感恩.  陈晓东杭州豪宅别墅董事长的秒拍视频 ",
+        "time": "19-3-13 22:43",
+        "user id": "1872728614",
+        "tweet id": "HkM3YpE47",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "user id": "1913186813",
+            "user name": "longbowalk",
+            "content": "是模拟视频",
+            "time": "19-3-13 22:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "3171373567",
+            "user name": "二哲君",
+            "content": "你去看看新闻就会明白！",
+            "time": "19-3-27 11:54",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "3298419865",
+            "user name": "予枝丶",
+            "content": "从那么高天上掉下来两秒？能不能学学数学",
+            "time": "19-3-25 13:50",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "3171373567",
+            "user name": "二哲君",
+            "content": "假的 坠机过程总共2秒",
+            "time": "19-3-19 00:49",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "6575416713",
+            "user name": "网名长能撩妹儿",
+            "content": "假的",
+            "time": "19-3-19 00:21",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "user id": "7004031142",
+            "user name": "jgamaj",
+            "content": "不像模拟的",
+            "time": "19-3-16 21:22",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "6445161345",
+            "user name": "不欧气哦好气哦",
+            "content": "说的对。。。。",
+            "time": "19-3-14 14:02",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "6445161345",
+            "user name": "不欧气哦好气哦",
+            "content": "恐怖死了啊",
+            "time": "19-3-14 14:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5413775514",
+            "user name": "怪物史莱克海鱼",
+            "content": "刺激",
+            "time": "19-3-19 10:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "5497008545",
+            "user name": "烟烟罗转转转",
+            "content": "假的吧@梁某人1994",
+            "time": "19-3-16 20:07",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "1915567331",
+            "user name": "梁某人1994",
+            "content": "肯定假的，根据飞行数据模拟出来的吧",
+            "time": "19-3-17 12:22",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "3298419865",
+            "user name": "予枝丶",
+            "content": "真的",
+            "time": "19-3-25 13:50",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

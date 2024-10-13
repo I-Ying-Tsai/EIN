@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#Germanwings Airbus A320 flight was travelling from Spain to Germany when it crashed. http://t.co/EDoH4hAD7w http://t.co/ODxFHTAWY9",
+        "user id": 12848262,
+        "tweet id": "580328297462140928",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar so sad.",
+            "user id": 1889861756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar 😥",
+            "user id": 3074089481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

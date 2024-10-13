@@ -1,0 +1,166 @@
+{
+    "source": {
+        "content": "Maybe Massey Hall was just a decoy location and Prince has actually loaded all his gear into the El Mocambo. Maybe he BOUGHT the El Mo.",
+        "user id": 458285383,
+        "tweet id": "529728291545284608",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@IhateBenRayner Join the flock my good man, tweeted similar thing earlier. Sinead is opening.",
+            "user id": 160639932,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ihatebenrayner you're the third person in the last half hour to nod to the elmo on my timeline. it can't be long before it snowballs.",
+            "user id": 21900425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@michaelknewton Fingers crossed!",
+            "user id": 458285383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@IhateBenRayner #staywoke",
+            "user id": 281231779,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@IhateBenRayner dammit Ben now people are running w that story in the line..",
+            "user id": 24407801,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@thisisthetruth My goal was to see it on the evening news.",
+            "user id": 458285383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@IhateBenRayner Starting this rumour right now.",
+            "user id": 23736104,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@TanisFowler I want a mob forming on Spadina within the hour. A violent mob.",
+            "user id": 458285383,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@IhateBenRayner easily the best tweet so far today",
+            "user id": 2738314259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@IhateBenRayner I said this too! lol!",
+            "user id": 349829359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@TheRealChozn1 Great minds think alike. We can't help it.",
+            "user id": 458285383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@IhateBenRayner every press release says no concert \"at Massey Hall\". And there are pics of the stage being set. Maybe just somewhere else?",
+            "user id": 349829359,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

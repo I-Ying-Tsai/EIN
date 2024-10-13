@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "It could be better to have zero pilots in a cockpit instead of one: http://t.co/ig0Z2boPOn #Germanwings http://t.co/JbA8I3MuKk",
+        "user id": 15164565,
+        "tweet id": "581258923065389056",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Slate this is the Slateist of all Slate headlines.",
+            "user id": 14679482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Slate the whole cockpit deal has always been scary...this makes it even more scary...and 150 innocent people are dead...CAMERAS in the cp.",
+            "user id": 371302314,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mpmaddog @Slate 2codes 2enter 2override. Pilot AND Copilot must act in unison 2 disengage. Backup ground &amp;sat sigs 2force safe hover",
+            "user id": 20494522,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Slate god shut up.",
+            "user id": 323344335,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Slate This kind of thing might speed the development",
+            "user id": 20494522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Slate Yes of course, hand our lives over to robots",
+            "user id": 1015035295,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Slate Are planes that can scan obstructions a mile out/below not possible? Seems like overriding pilot control would not be that difficult?",
+            "user id": 33679137,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "The scene at the War Memorial in Ottawa http://t.co/wZoQFDtZAo http://t.co/crY3JEx5sI",
+        "user id": 14216661,
+        "tweet id": "524925600318754816",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Pull together for fallen soldier “@nationalpost: The scene at the War Memorial in Ottawa http://t.co/HioCUgnfQy http://t.co/Oda7LAKgrS”",
+            "user id": 14337431,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost Praying for you!",
+            "user id": 2728468209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost Awesome tweet!",
+            "user id": 2728383208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost it is time to round up the extremist traitors and intern them and their supporters.",
+            "user id": 774733530,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost FUCK",
+            "user id": 2808700942,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost @micu70 Praying for the soldier, their family and everyone there!! @carnevaleward4",
+            "user id": 179636041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "“@nationalpost: The scene at the War Memorial in Ottawa http://t.co/7x3RctvbUB http://t.co/97VZFzfgsw”what a shame\"",
+            "user id": 818218662,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "Senseless",
+            "user id": 818218662,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost My twitter app shwos Ottawa shotting http://t.co/VlcPC99uBJ",
+            "user id": 11462742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost @MsMelanie That photo deserves the front page!",
+            "user id": 16017664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost @chrissymfae Very Very sad indeed.",
+            "user id": 379420143,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

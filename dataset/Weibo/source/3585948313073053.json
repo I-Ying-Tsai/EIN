@@ -1,0 +1,147 @@
+{
+    "source": {
+        "content": "帮忙接力下： 陈女士在18中附近捡到一个叫李亚成的高考准考证，望李亚成看到后与陈女士联系。联系电话：13453112081 大家帮忙转起来，高考临近希望他能顺利参加高考。",
+        "user id": 2035413034,
+        "tweet id": "3585948313073053",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "帮帮@赵晓好中国梦之声",
+            "user id": 2239798824,
+            "user name": "赵晓好全球歌迷会",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[抓狂]",
+            "user id": 1407025090,
+            "user name": "goodlife",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1969332337,
+            "user name": "F_xiaoxia",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "[话筒]",
+            "user id": 1834856034,
+            "user name": "李炜全球后援海南分会",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "扩",
+            "user id": 2402582942,
+            "user name": "山坂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "[话筒][话筒]",
+            "user id": 2287263693,
+            "user name": "和李小炜的第4个1206",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "海口有十八中吗?",
+            "user id": 1608789681,
+            "user name": "骑狼的青年",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "百度没搜到，地图没搜到。。",
+            "user id": 2694890514,
+            "user name": "领口与袖口",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@海口四中-Tree-Hole",
+            "user id": 2471656114,
+            "user name": "_海超人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "爱心无限大",
+            "user id": 3118035815,
+            "user name": "slin少玲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "急坏了都",
+            "user id": 3010343121,
+            "user name": "千面弈啊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

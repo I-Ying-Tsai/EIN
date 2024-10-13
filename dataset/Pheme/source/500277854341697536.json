@@ -1,0 +1,119 @@
+{
+    "source": {
+        "content": "Haven’t seen a police chief run from a microphone that fast since Commissioner Gordon said the Joker was threatening Gotham City #Ferguson",
+        "user id": 15871416,
+        "tweet id": "500277854341697536",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@alpha1906 SIR!!  You are a fool",
+            "user id": 2600277932,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@alpha1906 You did warn me though when I followed lol",
+            "user id": 2600277932,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@alpha1906 I tried not to laugh and failed.",
+            "user id": 126525252,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@alpha1906 no time for jokes frat.",
+            "user id": 580118481,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "RT @ZMDMcGregor @alpha1906 no time for jokes frat.&lt;Always time for jokes. Never NOT a time for jokes.",
+            "user id": 15871416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@alpha1906 anybody who didn't think that was funny really needs to ease up!",
+            "user id": 150413878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@Chicovia_S LOL",
+            "user id": 15871416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@Chicovia_S Yep! LOL",
+            "user id": 15871416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

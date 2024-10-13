@@ -1,0 +1,189 @@
+{
+    "source": {
+        "content": "Paris Mayor Anne Hidalgo rushing to scene of hostage situation in Porte de Vincennes area of Paris: http://t.co/qB4b5cKvPg",
+        "user id": 2097571,
+        "tweet id": "553542245966958592",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni सबै भन्छन म मा हिम्मत\n\nhttp://t.co/a6I60AssKZ",
+            "user id": 2935809620,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@cnni where are the Arab countries condemning these attacks and fighting against terrorist?  Why is it only America doing everything?? @CNN",
+            "user id": 1004906407,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@miami305fan @cnni @CNN Arabs r the cause. U can bet Massad is working to end this fast.",
+            "user id": 287183523,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Do the police really need politicians arriving on the scene and meddling",
+            "user id": 18975311,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni http://t.co/gB4ImNnfs7\n#JeSuisCharlie #CharlieHebdo #islamisnotterrorism #IslamIsNotTheProblem http://t.co/AWtcTrbc3P",
+            "user id": 81216823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Muslims are terrorist , Islam is a trash religion - its a sick cult ..",
+            "user id": 586306101,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni why would anyone convert to this trash religion who was founded by a sick man Mohammed who had sex with a child ??",
+            "user id": 586306101,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnni: Paris Mayor Anne Hidalgo rushing to scene of hostage situation in Porte de Vincennes area of Paris: http://t.co/xh2g9JSXxj”",
+            "user id": 62155958,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni @cnnbrk who cares! bring in Massad they will end this. Then as mayor sign the decree to deport ALL islam (moooslims) to the arabdesert",
+            "user id": 287183523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni @cnnbrk funny to see French on their knees by some muslims 😝😝",
+            "user id": 1857982483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Not in my country. No governor",
+            "user id": 1098782046,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Not possible in my country Nigeria.",
+            "user id": 1098782046,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "@cnni @tolu_dr: And Jonathan sat \"holed-up\" in Abuja.",
+            "user id": 479603297,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@ajulu23 @cnni For once he never visited a trouble spot, just like POTUS or Kerry will into Iraq or Afghanistan. Utterly disappointed",
+            "user id": 1098782046,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni @cnnbrk what the hell us gonna do there?",
+            "user id": 206287437,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

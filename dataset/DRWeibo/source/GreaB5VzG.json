@@ -1,0 +1,160 @@
+{
+    "source": {
+        "content": "#方舟子微博#问下方大儿子？你妈被强奸没有怀孕是不是不算强奸？无效疫苗后果是不是害人性命？无效疫苗不是毒疫苗，不毒药还毒！你这个中国的败类，呼吁大家吃不健康转基因食品现在在这里发谬论是假疫苗不是害人的药！看着一肚子窝火！中国的败类！  ",
+        "time": "18-7-23 10:34",
+        "user id": "3518880354",
+        "tweet id": "GreaB5VzG",
+        "label": 0,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "6032581118",
+            "user name": "失落之城啊",
+            "content": "无效疫苗不是毒疫苗这是科学术语，无效疫苗会带来很大问题这是日常用语，这俩句话都对，不对的是人生攻击",
+            "time": "18-7-26 10:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "3518880354",
+            "user name": "群众周加成",
+            "content": "你看看他这两年的微博",
+            "time": "18-7-27 14:27",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "5675937179",
+            "user name": "走Ayoung了这么久",
+            "content": "16年的，你家村里刚通网不会判断信息？",
+            "time": "18-7-23 10:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "3518880354",
+            "user name": "群众周加成",
+            "content": "麻烦你看清楚最后一张照片。",
+            "time": "18-7-23 10:50",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "5802945744",
+            "user name": "xun衣草的花香",
+            "content": "方舟子有微博么，想狠狠痛骂一番",
+            "time": "18-7-25 11:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "2087932303",
+            "user name": "非正常人类疯言疯语的Zombie",
+            "content": "方狗逼的最新微博是@新语丝之光00l",
+            "time": "18-7-26 22:42",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "6275406169",
+            "user name": "与知共遇",
+            "content": "方舟子什么时候死？",
+            "time": "18-7-24 18:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "2087932303",
+            "user name": "非正常人类疯言疯语的Zombie",
+            "content": "方狗逼的微博 @新语丝之光00l  方狗逼不得好死",
+            "time": "18-7-26 22:42",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "6470052135",
+            "user name": "偕行劳保",
+            "content": "方骗子还没死哈  老天真不长眼",
+            "time": "18-10-18 11:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "6357558189",
+            "user name": "straw_DH",
+            "content": "骂的好",
+            "time": "18-7-25 18:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "6510192107",
+            "user name": "大头6510192107",
+            "content": "25万只假疫苗 建议都用在方舟子的后代身上 循环打 打断气为止",
+            "time": "18-7-23 15:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

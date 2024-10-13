@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Germanwings passenger plane crashes in France: http://t.co/BSJhGgMChG",
+        "user id": 7744592,
+        "tweet id": "580323060533764097",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "#BREAKING “@TODAYshow: #Germanwings passenger plane crashes in France: http://t.co/gcXaIMM25k” #planecrash",
+            "user id": 27991457,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@KellyNBC6 @TODAYshow RIP",
+            "user id": 766208030,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

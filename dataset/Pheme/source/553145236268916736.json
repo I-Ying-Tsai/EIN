@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "#Paris #CDG air traffic controllers end ATIS message with \"I AM CHARLIE\" #CharlieHebdo #avgeek http://t.co/Pq9Sp6MCN7",
+        "user id": 330866062,
+        "tweet id": "553145236268916736",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@FlynKangaroo This made me have a little sob... :'-/",
+            "user id": 84074624,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@solamiga received via @GeeK_Aviation",
+            "user id": 330866062,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FlynKangaroo Great #travel post! Why Not post on http://t.co/tXGMBRYHGX Proximity Based Travel Network? http://t.co/yXal3scyrI",
+            "user id": 551551599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Fantastic. RT @FlynKangaroo: #Paris air traffic controllers end message with \"I AM CHARLIE\" #CharlieHebdo #avgeek http://t.co/nzzebWdaz2",
+            "user id": 16334480,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@dora_gerber @flynkangaroo Cartoons drawn for Charlie Hebdo: http://t.co/Wjbxph6AcV  #CharlieHebdo #ParisShooting",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@rob_coppinger @flynkangaroo Cartoons drawn for Charlie Hebdo: http://t.co/Wjbxph6AcV  #CharlieHebdo #ParisShooting",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@kinglobjaw @flynkangaroo Cartoons drawn for Charlie Hebdo: http://t.co/Wjbxph6AcV  #CharlieHebdo #ParisShooting",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@elitemarine @flynkangaroo Cartoons drawn for Charlie Hebdo: http://t.co/Wjbxph6AcV  #CharlieHebdo #ParisShooting",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@FlynKangaroo @GeeK_Aviation Yes, I noticed :)",
+            "user id": 84074624,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

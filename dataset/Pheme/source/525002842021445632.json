@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Condolences to the family of the fallen officer in #Ottawa He was a hero who bravely stood in defence of our country and our freedoms",
+        "user id": 18207168,
+        "tweet id": "525002842021445632",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@suzanneanton @cbcnews Murdered soldier.",
+            "user id": 117237568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SuzanneAnton. How is guarding a statue heroic??? Merely being dead doesn't make you a hero........",
+            "user id": 2264490360,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

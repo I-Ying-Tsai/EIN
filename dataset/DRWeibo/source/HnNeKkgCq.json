@@ -1,0 +1,170 @@
+{
+    "source": {
+        "content": "有在朋友圈传:\n青海赛马会与汽车相撞视频实况\n        以后 赛马期间，应该禁止一切动力车在赛道运行。教训啊！\n太惨重了！现场视频#青海赛马会##赛马##汽车##交通事故# 广州招聘网络主播网红模特演艺赐的秒拍视频 ",
+        "time": "19-4-2 19:13",
+        "user id": "2987504061",
+        "tweet id": "HnNeKkgCq",
+        "label": 1,
+        "theme": "文体娱乐"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "3216330805",
+            "user name": "艾·喆芷谮濹锉布锴勒",
+            "content": "青海省迪拜市？ ",
+            "time": "19-4-17 09:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "2987504061",
+            "user name": "广州招聘网络主播网红模特演艺赐",
+            "content": "恩，在群看到，看能否删除",
+            "time": "19-5-3 20:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "1927016090",
+            "user name": "哒哒哒哒沃日",
+            "content": "这人会不会赔光家产坐牢",
+            "time": "19-4-3 08:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "1064289982",
+            "user name": "贾馬尓",
+            "content": "这估计保安人员",
+            "time": "19-4-8 12:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "2406250120",
+            "user name": "欢乐的TOM2002",
+            "content": "阿拉伯国家的吧？看警车上文字、扎的头巾。",
+            "time": "19-4-12 15:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "5729209968",
+            "user name": "行走的读者",
+            "content": "心瞎是真的瞎",
+            "time": "19-4-20 18:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "3232483772",
+            "user name": "天涯尼丹小",
+            "content": "又一个瞎子。。。",
+            "time": "19-4-16 21:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5575684027",
+            "user name": "Shadoal影子爱人",
+            "content": "这是2017年发生在阿拉伯的事儿，不是青海",
+            "time": "19-4-16 08:07",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "3265337324",
+            "user name": "晨曦sysmm",
+            "content": "发布不实信息会被请喝茶的，这是17年的视频，麻烦核实完毕再转发",
+            "time": "19-4-15 17:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1871311554",
+            "user name": "勤劳的漫画书",
+            "content": "惨不忍睹",
+            "time": "19-4-12 00:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "3612291011",
+            "user name": "我闺女她爹可帅了",
+            "content": "说这是青海的都瞎？自己没脑子？不会看？",
+            "time": "19-4-19 09:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "6454224938",
+            "user name": "骄傲的豆沙包688",
+            "content": "可怜这些马不如先治治脑子",
+            "time": "19-4-19 12:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

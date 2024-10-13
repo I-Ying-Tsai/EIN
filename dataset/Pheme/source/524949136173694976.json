@@ -1,0 +1,245 @@
+{
+    "source": {
+        "content": "No matter where you are in #Ottawa, there's a 100% chance your Mom is worried. Text/email/call your family.",
+        "user id": 331998971,
+        "tweet id": "524949136173694976",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@LukeBrizazzle Brown (grand)parents are at 100% worry at the best of times; today, closer to 600%.",
+            "user id": 271117979,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                12
+            ],
+            "content": "@arun_smith @LukeBrizazzle In the middle of my message of \"turn on the news please\" mom picks up \"ARE YOU IN YOUR ROOM PLEASE SAY YOU ARE\"",
+            "user id": 166005460,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeBrizazzle @Marc_Aubin already done thanks #OttawaStrong",
+            "user id": 495115403,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@LukeBrizazzle my stupid brother hasn't gotten back to me!  :(",
+            "user id": 902706038,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@JenniferBadach Cell service is really limited. No one can make voice calls. Give it time, try email.",
+            "user id": 331998971,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeBrizazzle Police also say not to tie up phone and internet.",
+            "user id": 561435104,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "!!!! “@LukeBrizazzle: No matter where you are in #Ottawa, there's a 100% chance your Mom is worried. Text/email/call your family.”",
+            "user id": 301030450,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeBrizazzle Don't call. Text.",
+            "user id": 228273211,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "RT@LukeBrizazzle: No matter where you are in #Ottawa, there's a 100% chance your Mom is worried. Text/email/call your family.",
+            "user id": 80850991,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeBrizazzle @Givopoly First thing I did this morning when this all started. Thankfully, she wasn't listening to the news...",
+            "user id": 425845163,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "My daughter (in TO!) did. MT @LukeBrizazzle No matter where you are in #Ottawa, there's a 100% chance your Mom is worried. Text/email/call.",
+            "user id": 23226236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeBrizazzle @thisisjesschin nicely put, agreed.. but probably applies to parents of any gender",
+            "user id": 227190223,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [
+                14,
+                15
+            ],
+            "content": "@sunrayshining @LukeBrizazzle I got a worried email telling me that I'm not allowed to go downtown today... as if that wasn't common sense.",
+            "user id": 271117979,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 4,
+            "children": [
+                16
+            ],
+            "content": "@LukeBrizazzle he JUST texted me!  Phew!  He with classmates watching it on the news and saddened for his city",
+            "user id": 902706038,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@arun_smith @LukeBrizazzle I also got the \"today is not the day to go shopping\" talk ..... yes i realize.",
+            "user id": 166005460,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 12,
+            "children": [
+                17
+            ],
+            "content": "@arun_smith @sunrayshining Mother's warnings &gt; RCMP warnings",
+            "user id": 331998971,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [],
+            "content": "@JenniferBadach Good to hear",
+            "user id": 331998971,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [],
+            "content": "@LukeBrizazzle @sunrayshining Agreed.",
+            "user id": 271117979,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#BREAKING: A sixth hostage has escaped from the café in #MartinPl. #SydneySiege #9News",
+        "user id": 22993014,
+        "tweet id": "544508666724876288",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Via @9NewsAUS: #BREAKING: A sixth hostage has escaped from the café in #MartinPl. #SydneySiege #9News”",
+            "user id": 583122991,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS BLESS",
+            "user id": 450436433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@9NewsAUS: #BREAKING: A sixth hostage has escaped from the café in #MartinPl. #SydneySiege #9News” 😊",
+            "user id": 507794602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS @TheTodayShow come on  more can make it out",
+            "user id": 2690688206,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "Ottawa police correct their info. No shooting at the Rideau shopping centre. Everything now points to one gunman in two locations.",
+        "user id": 29518466,
+        "tweet id": "524983050187579393",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV \"everything now points\" is an interesting phrase under extant circumstances @jenditchburn @kady @CBCTerry",
+            "user id": 2398593854,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV who was down in parliament then?",
+            "user id": 576476896,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@DonMartinCTV: Ottawa police correct their info. No shooting at Rideau shopping centre. Everything now points to 1 gunman in 2 locations.”",
+            "user id": 248336073,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV Early this am had indicated BLACK vehicle w man with gun leaving downtown area. This doesn't jibe with Beige/Coffee Toyota???",
+            "user id": 281574433,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV @DerekMacEwen that is good news, well less horrible news",
+            "user id": 1552882350,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV @CTVAtlantic Um, two people left the car.. Still looking for one",
+            "user id": 17521748,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV The media is doing the outrageous speculating not the police. Don't point a finger at them for your sensationalism pls.",
+            "user id": 222168247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV @NadineBoudreau The reporters upset with lack of answers watch too much US news; this is Canada. We have different rules here.",
+            "user id": 473116327,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@DonMartinCTV @trishyorke Trish, our love and prayers are with you and all Canadians.🙏",
+            "user id": 116537423,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@DonMartinCTV @JulietONeill  But several witnesses saw two men emerge from parked car without plates",
+            "user id": 30672522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@RayHeard @DonMartinCTV @JulietONeill wanting to keep 'vigilance' w/o saying some crazed terrorist got away, maybe on a motorbike..",
+            "user id": 275219058,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

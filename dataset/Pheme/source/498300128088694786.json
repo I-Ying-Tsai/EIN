@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "NOTICE: 0 evidence of \"kill the police\" chant in #Ferguson but all news outlets report it, yet pics of lifeless victim? \"Alleged shooting.\"",
+        "user id": 30599768,
+        "tweet id": "498300128088694786",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@lolitasaywhat @SarahTheRebel But the reported Looting and general Chaos is cool tho right?",
+            "user id": 30023164,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@lolitasaywhat @SarahTheRebel crazy here right now",
+            "user id": 217478361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

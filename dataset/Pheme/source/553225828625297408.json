@@ -1,0 +1,95 @@
+{
+    "source": {
+        "content": "Here are some short profiles of the four cartoonists who were killed yesterday at Charlie Hebdo: http://t.co/q0cPbnxtBz",
+        "user id": 90034304,
+        "tweet id": "553225828625297408",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "\"@ravisomaiya: Here are some short profiles of the four cartoonists who were killed yesterday at Charlie Hebdo: http://t.co/kLIulZPVuX\"",
+            "user id": 37636652,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@ravisomaiya @nytimes The cartoons you ran are mild compared to what made them a target. Google Search shows far more drawings aimed at ...",
+            "user id": 2382931142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4,
+                5
+            ],
+            "content": ".@ravisomaiya @nytimes ...muslims. Beginning to doubt the reports of how even-handed the humorous attacks were. No excuse for violence, but",
+            "user id": 2382931142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ravisomaiya @nytimes The world is under threat of Islamist Jihadis! Do d important world leaders have the guts to wipe out these nuisance??",
+            "user id": 1242956682,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": ".@ravisomaiya @nytimes I'm not sure I see these guys as heroes.\"He just wanted to express.\" -- Not a great justification for what ...",
+            "user id": 2382931142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": ".@ravisomaiya @nytimes ...some consider hate speech. We all need to exercise restraint at times.",
+            "user id": 2382931142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

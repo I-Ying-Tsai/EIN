@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "Shooting locks down Canadian parliament; one suspect reported dead http://t.co/H3Z4PtvSuU",
+        "user id": 1652541,
+        "tweet id": "524954630279925760",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters تبي ينلحس مخك ؟ تعال هالحساب - @Question_arab",
+            "user id": 1286090778,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Reuters Possible five shooters.",
+            "user id": 2453850531,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Reuters Soldier who has been shot is alive in the hospital",
+            "user id": 2453850531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@Reuters: Shooting locks down Canadian parliament; 1 suspect reported dead..\" #GodIsUrTerrorist #HidingWontHelp #LiftTheBan #CanadaNeedsWBC",
+            "user id": 1273480106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "oMG \"@Reuters: Shooting locks down Canadian parliament; one suspect reported dead http://t.co/NWInhJlq4B”",
+            "user id": 177187090,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "Canada kan nu definitef v mijn lijst als veilig land om heen te vluchten wanneer het hier uit de hand gaat lopen #aanslagen #jihad @Reuters",
+            "user id": 846068634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@Francolinie @putainovitsj @Reuters  zuid America heb je weer andere ellende maar allah zal daar niets voor elkaar krijgen #SchietenTerug",
+            "user id": 133677123,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters It wld surely some paki inspired by the way they had attacked Indian parliament, Canadian govt need to control this rats",
+            "user id": 2511071191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Now I am SURE the entire world has gone bonkers...  “@Reuters: Shooting locks down Canadian parliament;  http://t.co/0KgfE5TBWm”",
+            "user id": 427261364,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AristeguiOnline “@Reuters: Shooting locks down Canadian parliament; one suspect reported dead http://t.co/uhSd68EKkV”",
+            "user id": 100780738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters soldier in uniform dead🎺",
+            "user id": 237488620,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Our thoughts are with those in Ottawa and everyone affected by today's events.",
+        "user id": 26577824,
+        "tweet id": "525018288330272768",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Avalanche  we are with you.",
+            "user id": 35238152,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@Avalanche: Our thoughts are with those in Ottawa and everyone affected by today's events.”",
+            "user id": 387387526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Avalanche thank you #AvsFam",
+            "user id": 217546426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Avalanche Living in a city with a military base in Canada and not hearing planes flying, very creepy and eerily quiet #CanadaStrong",
+            "user id": 553916053,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Avalanche \n\nThank you guys.",
+            "user id": 327564136,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@JesseBarber87 @Avalanche Thank you http://t.co/EEGphpzljO",
+            "user id": 193163270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Avalanche today, we are Team @Senators",
+            "user id": 320589250,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Vigil for shooting victim Mike Brown will be held at 8pm Sunday at Canfield Green apartment complex in #Ferguson",
+        "user id": 11265832,
+        "tweet id": "498524570593140736",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@FOX2now: Vigil for shooting victim Mike Brown will be held at 8pm Sunday at Canfield Green apartment complex in #Ferguson” DM me to join",
+            "user id": 122794755,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FOX2now 1st thing you do when a cop tells you to comply is resist! That's the only message some will send. #sadbuttrue",
+            "user id": 54938749,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FOX2now",
+            "user id": 801823849,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

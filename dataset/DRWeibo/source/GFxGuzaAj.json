@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "【家长#询问成绩被老师说有病# 并让孩子转学】近日，因孩子语文成绩不理想，陕西汉中一家长在班级微信群询问老师全班平均成绩，并希望老师能够分析学生为何出错，不料被老师辱骂并让“转学”。家长说：“孩子贪玩，成绩不理想也很正常，但我在群里询问后没想到老师会这么说话，我认为还是和老师沟通太少。”\n老师表示，自己教书快20年，这位家长在群里要代表全班三分之二的家长，直接质疑她的教学能力，导致她情绪激动，转学一说完全是气话，本来一次单元检测有高有低很正常。目前校方已对当事老师进行批评，家长老师双方达成谅解，互致歉意。",
+        "time": "18-10-25 13:59",
+        "user id": "5659237191",
+        "tweet id": "GFxGuzaAj",
+        "label": 0,
+        "theme": "教育考试"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "1087994855",
+            "user name": "弦空1087994855",
+            "content": "这是未来发生的事吗，十月总结十一月的事，这个学校太厉害了。。。",
+            "time": "18-10-25 14:07",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5659237191",
+            "user name": "爱问医生都市健康",
+            "content": "",
+            "time": "18-10-25 14:23",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "3248209313",
+            "user name": "回逆云溯",
+            "content": "有意思",
+            "time": "18-10-29 11:20",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "1659957994",
+            "user name": "混沌默默",
+            "content": "我觉得家长问的很客气没毛病呀",
+            "time": "18-10-25 14:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "5372063686",
+            "user name": "wower兔子郁",
+            "content": "家长也是做过老师的，他错在不应该站在老师的角度去发问，老师有点自己的权威被挑衅了的感觉，所以出言无忌了，要我说，家长错两分，老师错八分。说到底还是沟通的问题。",
+            "time": "18-10-29 11:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "2168578060",
+            "user name": "Ada家有小布",
+            "content": "呵呵，怎么叫向数学老师询问语文第一次考试成绩呢，什么乱七八糟的，这个学校也有问题",
+            "time": "18-10-25 14:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "6347756753",
+            "user name": "ai莫小婷",
+            "content": "，",
+            "time": "18-10-28 09:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "1438409053",
+            "user name": "右鞋套在左脚上",
+            "content": "这个家长不会做人 老师的戾气太重",
+            "time": "18-10-29 10:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1050105172",
+            "user name": "南方梅雨",
+            "content": "这家长是有点毛病，不能私信沟通吗",
+            "time": "18-10-25 14:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "3283698597",
+            "user name": "跌入灰烬的时光",
+            "content": "觉得家长说话没毛病啊，现在家长就得当孙子，趴在群里被老师训得跟个孙子，也不能给老师提提意见！现在的老师真是太厉害了",
+            "time": "18-10-26 14:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

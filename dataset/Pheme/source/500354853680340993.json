@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Boom RT @newsneighbor Why was #Ferguson PD still looking for the suspect 7 hours after Michael Brown had been killed? http://t.co/4TH5aFsge2",
+        "user id": 112641607,
+        "tweet id": "500354853680340993",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@emma_fRhost2 @newsneighbor maybe you ought to educate yourself on police procedures before insinuating things you know nothing about",
+            "user id": 2241978667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@emma_fRhost2 @raread @newsneighbor yep, this says it all",
+            "user id": 174847568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@emma_fRhost2 @newsneighbor they didn't know they already got the thief.",
+            "user id": 329286285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@emma_fRhost2 @DNLee5 @newsneighbor Ummmm, I'm guessing bc they realized they didn't have the right person? Just a guess. #EyeRoll",
+            "user id": 22272625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@emma_fRhost2 @PragObots @newsneighbor Because they are LIARS.. Thing is not all cops are bad.  But Ferguson's Police are clearly the worse!",
+            "user id": 125000580,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "Awful. 11 shot dead in an assault on a Paris magazine. http://t.co/xxINS8etDB #CharlieHebdo http://t.co/as3YoLthcx",
+        "user id": 16012783,
+        "tweet id": "552799317602615297",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast Will the Islamaphobia never end?  Blame Foreign policy? Zionist Conspiracy? or wickedness &amp; savagery of Islam?",
+            "user id": 2242421732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast yeah those covers are one way to get people worked up, sheesh. How could they think that was ok to publish?",
+            "user id": 336263077,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast BREAKING NEWS: Deadly gun attack @ office of French magazine Charlie Hebdo !! http://t.co/UDPM6OZ9NZ",
+            "user id": 194619305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast the violent cult marches on. Somebody want to translate?",
+            "user id": 1561412683,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast @TOdessaKane13 This is beyond sad! But then people have always feared freedom of speech.",
+            "user id": 1531290481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "Europeans AND THE REST OF THE WESTERN WORLD SHOULD KNOW THAT RACIST HUMOR SHOULD NOT BE OK. RACISM IS UGLY @thedailybeast",
+            "user id": 2926388692,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@spiritmefree1 @thedailybeast imho: if you are not trolling, then you are practically BEGGING to get trolled :/",
+            "user id": 270592010,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@thedailybeast: Cartoons prompted worst terror attack in recent French history http://t.co/7HllnqfoQP #CharlieHebdo http://t.co/iwnPNGsGm7”",
+            "user id": 14705053,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast @ebabahan http://t.co/pU9CgcMxUP",
+            "user id": 1503342588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast:Awful.11 shot dead in an assault on a Paris magazine. http://t.co/A3iKrauKcu #CharlieHebdo http://t.co/oD06Dvp15G Catch them!",
+            "user id": 460513085,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast #fuckterrorism Anyone who feels that freedom of thought &amp; expression should be surrendered to  fanatics is the real enemy.",
+            "user id": 42055251,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

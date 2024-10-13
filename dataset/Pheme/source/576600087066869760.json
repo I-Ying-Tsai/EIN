@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Where's Putin? My money on him being in America auditioning to be Fox News first ever shirtless news anchor.  #putinumer #PutinMissing",
+        "user id": 2752307136,
+        "tweet id": "576600087066869760",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JimJBollocks The house speaker is inviting him to address congress to call out Obama.",
+            "user id": 260848405,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JimJBollocks @Sylvaners #PUTIN You might be unto something We won't have to look far FOX attracts Aliens of the 3rd Kind..",
+            "user id": 419064940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

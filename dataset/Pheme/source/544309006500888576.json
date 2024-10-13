@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "UPDATE: The latest footage from Sydney #siege shows a man holding a female hostage as a human shield. #9News http://t.co/HlvsOlSjmn",
+        "user id": 171802941,
+        "tweet id": "544309006500888576",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd you are feeding the terrorists right? Lmao",
+            "user id": 2509403656,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "… @9NewsSyd ENOUGH IMAGES &amp; VIDS!!! Respect @nswpolice’s request. They could be misinterpreted and cause things to escalate. #SydneySeige",
+            "user id": 92100648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "can @9NewsSyd  stop reporting photos? Or are you guys immune to police directions?",
+            "user id": 274890757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@michaelaarghh @9NewsSyd i don't think they understand the repercussions of this.",
+            "user id": 18864531,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @9NewsAUS bloody cowards that's what they are. They are not a representation of Islam.",
+            "user id": 604379788,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @fabricedp #Cowards #ScumOfTheEarth",
+            "user id": 78898625,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @9NewsBrisbane low act!",
+            "user id": 712284151,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

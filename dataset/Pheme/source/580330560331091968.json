@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "We are now tracking helicopters in the area where #4U9525 went down http://t.co/ylSF3zHgYa",
+        "user id": 100936791,
+        "tweet id": "580330560331091968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@planefinder That's quite far from the last ADS-B position",
+            "user id": 58913244,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@planefinder are now tracking helicopters in the area where #4U9525 went down http://t.co/o0i2XbL53r”",
+            "user id": 492125261,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@planefinder now tracking reacue helicopters in area where #4U9525 went down @Lebeaucarnews @TODAYshow @msnbc @Morning_Joe @tomcostellonbc",
+            "user id": 137037404,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@planefinder @Missilito Its too far away from the crash site",
+            "user id": 18015844,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@planefinder @Missilito And to be precise we might not see anything bcz of the mountains, crash seems to have happened at 2700m",
+            "user id": 18015844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

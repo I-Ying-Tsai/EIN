@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#BREAKING Reported hostage-taking incident unfolding in Sydney http://t.co/Ur9ec3DtkI",
+        "user id": 15754281,
+        "tweet id": "544294639805923328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @USATODAY: #BREAKING Reported hostage-taking incident unfolding in Sydney http://t.co/C733MelD1G",
+            "user id": 23973831,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY edit: \"Sydney Opera House\" not \"Operate\"",
+            "user id": 15754900,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Oh nooooo...\"@USATODAY: #BREAKING Reported hostage-taking incident unfolding in Sydney http://t.co/Iiiq84HWmz”",
+            "user id": 31761198,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY #2a #NRA #p2 #tcot\nWhat happens after the government takes away your guns!",
+            "user id": 1921507278,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

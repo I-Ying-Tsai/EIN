@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "@NSWAmbulance Praying for the safety of all emergency services involved in the @nswpolice operation in Sydney CBD &amp; those inside the cafe",
+        "user id": 83687045,
+        "tweet id": "544293739221368832",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NSWAmbulance @nswpolice Ambulance Chaplains praying for the safety of all those involved especially our Police and specialist operatives",
+            "user id": 996551924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NSWAmbulance @nswpolice well that's one thing guaranteed not to make a difference #MartinPlaceSiege",
+            "user id": 23030127,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NSWAmbulance praying that all that is required by ambos is stand by.",
+            "user id": 379069348,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

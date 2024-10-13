@@ -1,0 +1,173 @@
+{
+    "source": {
+        "content": "LIVE video from scene of deadly attack on Paris offices of satirical weekly Charlie Hebdo: http://t.co/h3uQuxHeTF http://t.co/MzzOMR19ve",
+        "user id": 15108702,
+        "tweet id": "552850603714826241",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive Ce ASTT de rechange plus",
+            "user id": 2806879372,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters Do we really need a livestream? What does that add to peoples lives other than feeding sensationalism?",
+            "user id": 1427311280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@ReutersLive: LIVE video from scene of deadly attack on Paris offices of satirical weekly Charlie Hebdo: http://t.co/pEh1N2wrHo”",
+            "user id": 1030435626,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@reuterslive this is a very sad day for journalist &amp; also world entirely...",
+            "user id": 1217590153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters",
+            "user id": 572575684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": ".@ReutersLive   The European leaders are too Wishy-Washy and terrified to recognize the enemies living in abundance among them; wake up!",
+            "user id": 22518101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "ชมรอยเตอร์รายงานสดจากปารีส คะ      “@ReutersLive: LIVE video from scene of attack on Paris offices of Charlie Hebdo http://t.co/fslhYvRm5R”",
+            "user id": 66640423,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@nuntida_nna @can_nw @ReutersLive",
+            "user id": 91151488,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters Islamic ideology =ShariaLaw=Hamas=ISIS= Boko Haram=Hezbollah - not a relationship with God http://t.co/iGruhR0p1K",
+            "user id": 2495613440,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @sahernandeza Bad religion",
+            "user id": 1172352422,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "Islam is filled w/terrorists “@ReutersLive deadly attack Paris satirical weekly Charlie Hebdo: http://t.co/FzHMVJdPr1 http://t.co/ZcBYsiVdHQ",
+            "user id": 149286219,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@intellwatch @ReutersLive @PARDONMYHASHTAG BASTARD ALQUAEDA..ONGOING NEWS REUTERS PARIS ATTACK",
+            "user id": 2725109187,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@intellwatch @ReutersLive @PARDONMYHASHTAG @DoctorPete",
+            "user id": 2725109187,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

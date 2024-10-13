@@ -1,0 +1,111 @@
+{
+    "source": {
+        "content": "“There are causes worth dying for, but none worth killing for.” ~ Albert Camus\n#CharlieHebdo",
+        "user id": 98627870,
+        "tweet id": "552827825603219456",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@craigstone_ @felicianista #CharlieHebdo Try telling that2George Bushx2, Donald Rumsfeld, Dick Chaney&amp; Barrak Obama. Bin Ladin can't be told",
+            "user id": 1118788734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@craigstone_: “There are causes worth dying for, but none worth killing for.” ~ Albert Camus\n#CharlieHebdo” 🙌",
+            "user id": 578201402,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@craigstone_ no need to die.we need to fuck religion in the ass",
+            "user id": 335871995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@craigstone_ Houellebecq's new novel \"Subjugation\" (title guessed). To read or not to read?",
+            "user id": 375560433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@MiasBeck I love Houellebecq. Atomised is possibly my favourite book. He claims 'total irresponsibility' for Subjucation. I'll read it.",
+            "user id": 98627870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@craigstone_ So will I. I suppose this book will become a mega-seller.",
+            "user id": 375560433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@MiasBeck No doubt. I'll likely disagree with it, but read it for the perspective. He is talented. Creepy, divisive, horrific, but talented.",
+            "user id": 98627870,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "#大同身边事# 城区社保中心开通社保卡办理绿色通道。\n　　近日，城区社保中心为老弱病残孕开通办理社保卡“绿色通道”，提供人性化便捷周到服务，受到广泛好评。\n　　\n　　今年，城区成为我市首家实行居民医疗缴费新模式的县区，彻底改变了过去手工作业和现金缴费的陈旧方式，市医保中心推行持卡就医、划卡结算的新方式，带来了办理社保卡人流量井喷式局面。仅10月份17个工作日，城区社保中心6个窗口，新办卡11704张，开通12085张。\n　　\n　　为了避免因业务办理人流过大带来的安全隐患，着力服务好特殊人群，在窗口业务紧张的情况下，城区社保中心开辟了一个新窗口，专门为老弱病残孕服务，这样该类群体不需排队即可办理。",
+        "time": "17-12-13 10:19",
+        "user id": "5976314997",
+        "tweet id": "FzqEt15bp",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                3,
+                4
+            ],
+            "user id": "6095822561",
+            "user name": "原来孟一场",
+            "content": "我想知道大同社保局的电话，要一个能打通的，我打了一上午的官网电话，不是没人接就是空号，或者有地址的都可以给我留一下，谢谢大家",
+            "time": "17-12-20 10:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "6095822561",
+            "user name": "原来孟一场",
+            "content": "城区只有这一个地方么？今天可以去么？",
+            "time": "17-12-20 10:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "5976314997",
+            "user name": "开心虎",
+            "content": "南环桥武警部队对面",
+            "time": "17-12-20 10:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "6095822561",
+            "user name": "原来孟一场",
+            "content": "城区的居民医疗保险",
+            "time": "17-12-20 10:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "5976314997",
+            "user name": "开心虎",
+            "content": "你问的是哪项保险，职工的还是居民的？城区的还是哪的？",
+            "time": "17-12-20 10:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "3856802213",
+            "user name": "瘋狂又霸道鍀胖紙",
+            "content": "哪个大同银行分行的卡都能缴吧",
+            "time": "17-12-15 10:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "user id": "1958696940",
+            "user name": "煙有毒幸福",
+            "content": "就三个窗口好吧",
+            "time": "17-12-13 23:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "3856802213",
+            "user name": "瘋狂又霸道鍀胖紙",
+            "content": "地址在哪儿？知道吗",
+            "time": "17-12-14 22:09",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "user id": "1958696940",
+            "user name": "煙有毒幸福",
+            "content": "武警支队对面",
+            "time": "17-12-14 23:15",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

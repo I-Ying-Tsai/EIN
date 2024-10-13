@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "A loud bang was reportedly heard moments before a group of hostages fled the cafe http://t.co/IxPuyIrNy2 #sydneysiege http://t.co/PjH3lFYdNW",
+        "user id": 7587032,
+        "tweet id": "544510827433558016",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews put your hands in the air like the party don' stop!",
+            "user id": 1021883684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@SkyNews @ulh_ nice Hollywood story in Sydney",
+            "user id": 52915212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Tahvakol @SkyNews i dont know what to think anymore.",
+            "user id": 132676483,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "God bless #Austrlia. RT@skynews",
+            "user id": 2173233478,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@SkyNews @ulh_ the  scenario of this  ugly movie is written by Zionists and their allies. #sydneysiege",
+            "user id": 52915212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Tahvakol it is highly probable",
+            "user id": 132676483,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Well done for putting in a 30 second delay when things became charged... Your editors clearly thought about this in advance.. Wise.",
+            "user id": 6575472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": ".@SkyNews @ulh_ There will be only one dead: the hostage taker. The End. Welcome to Hollywood in Sydney #sydneysiege",
+            "user id": 52915212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews HOW MANY TIMES IS THE WORLD GONNA FALL FOR CIA BLACK OPS BEFORE WE JUST ALL LAUGH AT THEM? READ CIA #TORTUREREPORT ARRESTCHENEY",
+            "user id": 17436585,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @EmilyLuisaPat http://t.co/rwZv0K8O3q",
+            "user id": 238749905,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

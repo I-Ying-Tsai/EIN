@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "There's a town that's a no-fly-zone with a media blackout right in the middle of our country. Let that sink in. #Ferguson",
+        "user id": 18066812,
+        "tweet id": "499377813758443520",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@jrzygirlinfla compete BS let us have our American \"Fall\" like the Arabic Spring",
+            "user id": 330517336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@SteveMarxen That's exactly where we're headed.",
+            "user id": 18066812,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@jrzygirlinfla why the no fly zone?",
+            "user id": 24652488,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Spackrn Don't want media planes/copters televising.",
+            "user id": 18066812,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jrzygirlinfla @jbreezn Not good",
+            "user id": 17449766,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jrzygirlinfla really???",
+            "user id": 38124709,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@jrzygirlinfla How does this happen? Where's the state? Where are the feds? Why do they let this happen? How is this legal? I just...",
+            "user id": 36096541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@jrzygirlinfla This is amazing. Thanks, @shepkeegs, for RTing. Back when I was dissertating, I knew EVERYTHING going on. But with a job... .",
+            "user id": 102219727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jrzygirlinfla This country is being taken from us all its near the end of true freedom.",
+            "user id": 392314419,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@jrzygirlinfla @StormyVNV That's Using PariMilitary Equipment. Dress n Equipment. Why? Persecuting Minorities Pays Off In Federal Arms Cash.",
+            "user id": 393771226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@jrzygirlinfla @CloudContact What are they doing that they don't want us to see?  #MilitarizedPolice",
+            "user id": 411898004,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [
+                12
+            ],
+            "content": "@jrzygirlinfla I can be there armed!",
+            "user id": 330517336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@SteveMarxen I think this is a watershed moment. People will wait for investigation.",
+            "user id": 18066812,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

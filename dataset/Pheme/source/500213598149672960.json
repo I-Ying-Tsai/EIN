@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Thousands shut down Times Square last night in support of #Ferguson US where police shot unarmed teen #MikeBrown http://t.co/t2rNDX3Hju",
+        "user id": 366066427,
+        "tweet id": "500213598149672960",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RiotfromWrong Mike Browns MURDER will b ruled \"justfied\" because NO WAY IN HELL will a judge or D.A. hold any PIG accountable!",
+            "user id": 277670569,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@RiotfromWrong When black ppl stop calling themselves black, which is a color, then things will change...think #mikebrown #ferguson",
+            "user id": 2402036280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@AFTERHOURSFLOW @RiotfromWrong When \"ALL\" humans stop using a color to describe..... #allmatter",
+            "user id": 464329417,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RiotfromWrong it doesn't look shut down to me. It looks pretty open.",
+            "user id": 130365843,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RiotfromWrong two young black unarmed males shot &amp; killed by #Police  #London #UK &amp; #Ferguson US #Duggan #MikeBrown http://t.co/HPMNEo8I7C",
+            "user id": 366066427,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RiotfromWrong pls Share it if you against POLICE BRUTALITY http://t.co/h7d42nZKkZ",
+            "user id": 192896660,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RiotfromWrong What about all the murders taking place everywhere in this nation?? Chicago, LA, NYC, Atlanta, Detroit, Dallas....#whynotall",
+            "user id": 464329417,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RiotfromWrong @LionelMedia That makes a lot of sense.",
+            "user id": 26302594,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@RiotfromWrong respect to all these people! But it is important not to stop until you restored  justice! they must hear you out!",
+            "user id": 2473615692,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

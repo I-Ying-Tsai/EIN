@@ -1,0 +1,392 @@
+{
+    "source": {
+        "content": "來了來了啦~~~這張我覺得有 \"清新自然\"的感覺 @羅志祥",
+        "user id": 1729022320,
+        "tweet id": "3493572253028860",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "嫩X茶嗎[哈哈][哈哈]",
+            "user id": 1784774383,
+            "user name": "SFC黃小皮",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "跟你一樣詞彙不多的我潔得很貼切！[嘻嘻]",
+            "user id": 1793135062,
+            "user name": "Late_happy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                7,
+                15
+            ],
+            "content": "轉發微博",
+            "user id": 1722243200,
+            "user name": "jumpjumptiger",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "小清新男倫 [花心]",
+            "user id": 2605064207,
+            "user name": "思繘喔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[好爱哦][好爱哦]~",
+            "user id": 1785585014,
+            "user name": "爱羅志祥_不用說",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "給你說的好像在拍\"女性用品\"廣告耶!!! [汗] ~~~ [哈哈]",
+            "user id": 1763828144,
+            "user name": "aldy_敏",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 2108269621,
+            "user name": "GD羅志祥我哈你",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "飄哥！[哈哈][哈哈]",
+            "user id": 1805543287,
+            "user name": "XYXY汐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "回覆@紫岑TzuTsen: [吃驚] 真的嗎??? 我還以為~~~ [偷笑]",
+            "user id": 1763828144,
+            "user name": "aldy_敏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                10
+            ],
+            "content": "",
+            "user id": 1769510985,
+            "user name": "HKSFC_阿玲ling",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11,
+                14,
+                17,
+                22
+            ],
+            "content": "",
+            "user id": 1917698103,
+            "user name": "情人比不上我老羅c",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "飘飘然。",
+            "user id": 1919613992,
+            "user name": "璐阿璐Lu-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "轉發微博。",
+            "user id": 1750036352,
+            "user name": "盈楹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "[帅]",
+            "user id": 1067700144,
+            "user name": "Mina爱猪猪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [],
+            "content": "[爱你][爱你][爱你]",
+            "user id": 1878612214,
+            "user name": "SFClzxlzh521_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 2,
+            "children": [],
+            "content": "",
+            "user id": 1811034017,
+            "user name": "Lara-Show",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "content": "[抓狂]",
+            "user id": 1739501154,
+            "user name": "SJH的獅子窩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 10,
+            "children": [],
+            "content": "",
+            "user id": 1797693293,
+            "user name": "qing_幸福罗",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "content": "轉發微博",
+            "user id": 1785279821,
+            "user name": "YunCing_Wu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "content": "",
+            "user id": 1850707142,
+            "user name": "很想在看一次老羅的-阿詩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": 16,
+            "children": [
+                21
+            ],
+            "content": "我有一种。。那个奔向光明未来的感觉。。",
+            "user id": 1879788464,
+            "user name": "要做煎蛋的畢業生阿小",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "content": "[爱你]",
+            "user id": 1940640527,
+            "user name": "SFC_西岚花",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 22,
+            "parent": 10,
+            "children": [
+                23
+            ],
+            "content": "",
+            "user id": 1929619060,
+            "user name": "SFC-莺宝贝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [
+                24,
+                26
+            ],
+            "content": "",
+            "user id": 2956548824,
+            "user name": "SFC_凱絲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "content": "",
+            "user id": 1666886482,
+            "user name": "我是帅逼啊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "content": "轉發微博",
+            "user id": 2538746811,
+            "user name": "米米_Akemi牙奇米",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 23,
+            "children": [
+                27
+            ],
+            "content": "",
+            "user id": 1811034017,
+            "user name": "Lara-Show",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 27,
+            "parent": 26,
+            "children": [],
+            "content": "",
+            "user id": 1793490370,
+            "user name": "Erikaz_2K",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 28,
+            "parent": 25,
+            "children": [],
+            "content": "",
+            "user id": 2102369047,
+            "user name": "萌翻兒唷丶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "George Orwell: “If liberty means anything at all, it means the right to tell people what they do not want to hear.\" #CharlieHebdo",
+        "user id": 150400398,
+        "tweet id": "552815091331366912",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@StewartWood Liverpool's wealth is founded in slavery and your team is shit.",
+            "user id": 566972320,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@StewartWood They don't have to listen, though, just not penalise you for it.",
+            "user id": 397300397,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

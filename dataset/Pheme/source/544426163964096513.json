@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Sydney residents pledge on twitter  #illridewithyou on public transport to keep Muslims safe against possible reprisals over #sydneysiege",
+        "user id": 14765253,
+        "tweet id": "544426163964096513",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nzherald oh, my heart 💛💛💛",
+            "user id": 1477141614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nzherald And what about the victims?",
+            "user id": 1111221290,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

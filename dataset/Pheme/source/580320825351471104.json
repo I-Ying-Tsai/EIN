@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "BREAKING NEWS #A320 crashed could be Germanwings flight #4U9525 from Barcelona to Dusseldorf. (140 passengers)",
+        "user id": 220343896,
+        "tweet id": "580320825351471104",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraTimes",
+            "user id": 2821649724,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SaraTimes",
+            "user id": 346641676,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@salmanfariz4 @SaraTimes",
+            "user id": 2366202804,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraTimes are you sure",
+            "user id": 2214384427,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraTimes really?",
+            "user id": 24436559,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraTimes good",
+            "user id": 873655771,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@SaraTimes: BREAKING NEWS #A320 crashed could be Germanwings flight #4U9525 from Barcelona to Dusseldorf. (140 passengers)” Heartbreaking",
+            "user id": 46797966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraTimes important to check in #flightradar24",
+            "user id": 74795588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraTimes It's true unfortunately and no survivors are expected",
+            "user id": 1244702984,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraTimes that's crazy",
+            "user id": 1838477268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

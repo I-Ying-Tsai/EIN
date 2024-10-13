@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Please join me in prayer for those held hostage in Martin Place, Sydney, and for the police who are trying to resolve the situation.",
+        "user id": 956604620,
+        "tweet id": "544312876245057536",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyFisherOP @Deadly_Thoughts prayers for those taken.",
+            "user id": 39528614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@AnthonyFisherOP can you guarantee your particular brand of prayer magic is more potent that the terrorist's?",
+            "user id": 43041200,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyFisherOP @KKeneally to whose mythical god? Theirs, Christians, Jews? Such BS. Gods are the fucking problem.",
+            "user id": 487913950,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyFisherOP @KKeneally",
+            "user id": 149139048,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@AnthonyFisherOP prayers for sure",
+            "user id": 1007575651,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@AnthonyFisherOP @sue_sandrews @chrisgreywitt horrible situation in need of prayers",
+            "user id": 1007575651,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyFisherOP @DeborahFStuart @CNN May God bless them in their efforts.",
+            "user id": 587917576,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyFisherOP @FrAdrianSharp Where is Allah?\nhttp://t.co/V44IDJH3Lt?\n\n Belief in God\n\nhttp://t.co/0tI9Xnzyu8",
+            "user id": 2851464451,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

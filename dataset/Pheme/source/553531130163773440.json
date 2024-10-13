@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING: Reports that an armed man has taken a hostage in eastern Paris in a third attack #ParisShooting http://t.co/f30TSVt1yN",
+        "user id": 16973333,
+        "tweet id": "553531130163773440",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent http://t.co/E3vLWhRxrJ",
+            "user id": 1234987687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent مسلح يحتجز رهينه في متجر شرق باريس في ثالث هجوم في باريس !!",
+            "user id": 2898115168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

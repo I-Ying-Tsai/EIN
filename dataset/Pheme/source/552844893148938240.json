@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "RT@davpope\nCan't sleep tonight, thoughts with French cartooning colleagues, their families &amp; loved ones #CharlieHebdo http://t.co/b73Ni09utE",
+        "user id": 1962860390,
+        "tweet id": "552844893148938240",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CRNetInt Saving that tweet! It's now featured on http://t.co/iex9cYlWH6",
+            "user id": 222867129,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "MT \"@CRNetInt: RT@davpope\nthoughts with French cartooning colleagues, families &amp; loved ones #CharlieHebdo http://t.co/fCxi5bHzzE” #cninow",
+            "user id": 16664790,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@CRNetInt @roystoncartoons @davpope beautifully put. Thoughts with them all.",
+            "user id": 23082043,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@Qingart @CRNetInt @davpope Isn't it? Even today good cartoonists can still come up with the perfect comment. Tough one to beat.",
+            "user id": 28087652,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@CRNetInt @CDechavanne @davpope #NkinoG \nNever kill in name of God",
+            "user id": 112279795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@CRNetInt @CDechavanne @davpope",
+            "user id": 112279795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CRNetInt @YLeBolloch @davpope http://t.co/QTIUcM42F3",
+            "user id": 491213307,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CRNetInt @sweetrhythms @davpope Tremendo.",
+            "user id": 2410738633,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CRNetInt @sweetrhythms @davpope  True. No enthusiasm for tweets other than to demand the eradication of these hideous creatures.Disgusting,",
+            "user id": 2522916284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CRNetInt @CDechavanne @davpope So true... Thank you !",
+            "user id": 381361198,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@roystoncartoons @CRNetInt @davpope exactly. Beautiful and says so much more than 3 words.",
+            "user id": 23082043,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

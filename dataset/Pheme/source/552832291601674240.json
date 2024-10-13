@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "Over 65k Twitter users show solidarity with French satirical magazine #CharlieHebdo http://t.co/Rgy00SExUr http://t.co/GdRMUbB9c6",
+        "user id": 21866939,
+        "tweet id": "552832291601674240",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews I hope France gets the vermin",
+            "user id": 18975311,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@itvnews: Over 65k Twitter users show solidarity with French satirical magazine #CharlieHebdo http://t.co/EPEyLg5BgZ http://t.co/7KMFGdFiX0",
+            "user id": 342697424,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@KatieMagnet @countcol @itvnews 😚💔😭",
+            "user id": 2754994200,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews Vive la France,Vive la Liberty! How horrible this attack on civilisation by this rabid cult! We stand with you,we grieve with you.",
+            "user id": 2951345235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews",
+            "user id": 281597390,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews https://t.co/LkOBc2i0Fx",
+            "user id": 104462388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews Done I may not always agree but I will defend your right to express your point of view",
+            "user id": 271606307,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews",
+            "user id": 12528592,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews",
+            "user id": 331265038,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "RT@itvnews Over 65k Twitter users show solidarity with French satirical magazine #CharlieHebdo http://t.co/aTQckS5lSV http://t.co/0wpMYXfEPO",
+            "user id": 171287153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "A #PRAYER TO #PROTECT THE #WORLD FROM #VIOLENT #HARM\n\n卐 🔀 https://t.co/GQioSZRC5C\n\n@KatieMagnet \n@itvnews \n@001harry http://t.co/SaJcpTONum",
+            "user id": 2668571772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews Justin Bieber Strips &amp; Gets Booed at at Fashion Rocks 2014 NYFW http://t.co/n3RdXFZCpS",
+            "user id": 2260150651,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews  #JeSuisCharlie  please RT",
+            "user id": 2740357726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 2,
+            "children": [],
+            "content": "@Waikikifrance @countcol @itvnews 😥💔💔💔",
+            "user id": 342697424,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

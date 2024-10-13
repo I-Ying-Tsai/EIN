@@ -1,0 +1,207 @@
+{
+    "source": {
+        "content": "The TTC says it has “implemented heightened security across the entire transit system” in light of the shootings in Ottawa.",
+        "user id": 19636948,
+        "tweet id": "524979925343014912",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: The TTC says it has “implemented heightened security across the entire transit system” in light of the shootings in Ottawa.” Wow",
+            "user id": 310426895,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "content": "In statement, the TTC says customers will see increased visibility of transit enforcement officers and cops on subway trains and stations.",
+            "user id": 19636948,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9,
+                10,
+                11
+            ],
+            "content": "The statement also notes that \"there is no credible threat to public transit in Toronto.\"",
+            "user id": 19636948,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@CP24 @nguyenvivian93 we shall see",
+            "user id": 24815044,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                12
+            ],
+            "content": "@CP24 just lovely. More security theatre.",
+            "user id": 6278102,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 @TTCnotices why? I understand the event is tragic but it is in Ottawa, not Toronto.",
+            "user id": 38076460,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "whoa rt “@CP24: The TTC says it has “implemented heightened security across the entire transit system” in light of the shootings in Ottawa.”",
+            "user id": 259509975,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 wake up canada .... if terror comes here ... WORLD is doomed",
+            "user id": 269777701,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: The TTC says it has “implemented heightened security across the entire transit system” in light of the shootings in Ottawa.” Why 😐",
+            "user id": 112002199,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [],
+            "content": "“@CP24: The statement also notes that \"there is no credible threat to public transit in Toronto.\"” But you never know.",
+            "user id": 167918900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                13
+            ],
+            "content": "@CP24 The best way to fight terrorism is for the TTC to be consistently on time.",
+            "user id": 77083292,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [],
+            "content": "“@CP24: The statement also notes that \"there is no credible threat to public transit in Toronto.\"”",
+            "user id": 26759726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [
+                14
+            ],
+            "content": "@jigmedatse better than your body blown in half",
+            "user id": 1091058638,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@AdrianD_ @CP24 stop thisssss I can't with you lmao",
+            "user id": 169750416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@JlaSilver Didn't someone say, \"those who will give up freedom, for security, deserve neither.\" You also get neither.",
+            "user id": 6278102,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

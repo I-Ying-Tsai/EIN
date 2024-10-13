@@ -1,0 +1,131 @@
+{
+    "source": {
+        "content": "For those confused: gunmen have taken hostages in a Sydney cafe holding a Shahada flag (NOT THE SAME AS ISIS) http://t.co/i9VVwyqN1G",
+        "user id": 136191905,
+        "tweet id": "544283387087691776",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ruckuslike im confused, why isn't it the Isis flag? I'm seeing it being claimed an Isis flag all over the news",
+            "user id": 88905743,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ruckuslike apparently that have things set up all over the city",
+            "user id": 1592876274,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4,
+                5
+            ],
+            "content": "@ruckuslike this is horrible, I hoped stuff like this would only ever happen in America",
+            "user id": 2354019098,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@platformstroye @ruckuslike we don't want this crap in America!! We don't want it in Sydney either. Watch what you say!! California",
+            "user id": 392376250,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@platformstroye @ruckuslike You're a moron wishing this shit on any country.",
+            "user id": 2771466718,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@platformstroye @ruckuslike Moronic!!",
+            "user id": 392376250,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@ruckuslike is this not an Islamic flag?",
+            "user id": 2878025172,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@lmaonade_ @ruckuslike Of course it is the Islamic flag.  It represents ALL muslims including ISIS",
+            "user id": 337007151,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@ToneLazzaro @lmaonade_ it's not an Islamic state flag you fuckwit",
+            "user id": 136191905,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

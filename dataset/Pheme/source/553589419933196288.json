@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#CharlieHebdo suspects killed, according to @AP. http://t.co/BDmxXKlbZG",
+        "user id": 972651,
+        "tweet id": "553589419933196288",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@mashable: #CharlieHebdo suspects killed, according to @AP. http://t.co/1XzWtmbUIg”",
+            "user id": 32952592,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable @AP Chance lost to bring them to big trial and exposure to the world. A pitty they were not caught alive! Now they are martirs!",
+            "user id": 1165979425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable @AP #ThankG-D!",
+            "user id": 2958990716,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

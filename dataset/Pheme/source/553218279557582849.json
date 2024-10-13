@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Kudos to Google for donating €250,000 to help Charlie Hebdo publish next week http://t.co/QnmfLssRtf",
+        "user id": 824157,
+        "tweet id": "553218279557582849",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mathewi @glynmoody \n\nGood work! If there ever was a defender of privacy,free speech and democracy, its Google ! That's what friends are for",
+            "user id": 338356730,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mathewi If stupidity is not to win, those who knows open a fund rising account named to Charlie Hebdo",
+            "user id": 284316129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mathewi Did you read the article? \"Financed [by a fine] but not managed by Google that money will go to support the survival of the weekly\"",
+            "user id": 9864482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

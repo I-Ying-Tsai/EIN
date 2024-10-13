@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "World pays tribute to victims of #CharlieHebdo massacre http://t.co/icVVi6l4Gv http://t.co/UqlhSjPBMq",
+        "user id": 15438913,
+        "tweet id": "553189024941481985",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline \n******************* 144,000",
+            "user id": 1648509805,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline JE SUIS CHARLIE",
+            "user id": 2201812604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @ukrpravda_news lol",
+            "user id": 570620958,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline https://t.co/TtiTicGrwW",
+            "user id": 1022707310,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline I was disgusted to see videos of the attacks. Why didn't these people  pick up rifles instead of cameras?",
+            "user id": 49715388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "祝自己十七岁生日快乐😜😜😜。谢谢那些一直陪在我身边的好朋友。还有我的所有好兄弟们。星期六回去，你们懂得。[酷][酷][酷][鼓掌][鼓掌][鼓掌][蛋糕][蛋糕][蛋糕]",
+        "user id": 2654457272,
+        "tweet id": "3507704809629389",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "生曰快乐",
+            "user id": 1942271181,
+            "user name": "原点起步_fight",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "谢了。[哈哈][哈哈]",
+            "user id": 2654457272,
+            "user name": "蔡志枫-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "昨晚没到12点就睡着了。[嘻嘻][嘻嘻]生日快乐。[兔子][礼物][蛋糕][蛋糕][蛋糕][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][蜡烛][绿丝带][绿丝带]",
+            "user id": 2236873243,
+            "user name": "罗振威_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "枫哥，，生日快乐[蛋糕][蛋糕][蛋糕]",
+            "user id": 2115153503,
+            "user name": "蔡泽疯疯疯疯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "可耻。哈哈。[爱你][爱你][哈哈]",
+            "user id": 2654457272,
+            "user name": "蔡志枫-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "谢了。[爱你][嘻嘻]",
+            "user id": 2654457272,
+            "user name": "蔡志枫-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "👏Happy birthday to Odom!!!👏[偷笑]🎂🎂🎂",
+            "user id": 1837325802,
+            "user name": "田宇杰_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "THANK YOU VERY MUCH。[哈哈][爱你]",
+            "user id": 2654457272,
+            "user name": "蔡志枫-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "生日快乐[蛋糕][蛋糕][蛋糕] 兄弟！",
+            "user id": 2305135675,
+            "user name": "_-_振华Cai",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "嗯嗯，谢了，好兄弟。",
+            "user id": 2654457272,
+            "user name": "蔡志枫-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "再次谢谢今天送给我祝福的所以朋友、和我的好兄弟们。我一定会好好的。",
+            "user id": 2654457272,
+            "user name": "蔡志枫-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

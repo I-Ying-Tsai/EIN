@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Anticipating backlash, Australians start #illridewithyou campaign to support Muslims http://t.co/OwlpLBy32e http://t.co/G0ri6QlEW8",
+        "user id": 125944392,
+        "tweet id": "544482233038286848",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@etribune O madam! Don't be deceived , that person with gun inside the cafe is cia agent and doing this drama with police coordination!!",
+            "user id": 2785202708,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@etribune beauty",
+            "user id": 1080276308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@etribune degag",
+            "user id": 2330911112,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

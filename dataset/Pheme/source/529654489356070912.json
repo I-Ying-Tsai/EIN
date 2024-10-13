@@ -1,0 +1,78 @@
+{
+    "source": {
+        "content": "STORY: Prince to reportedly play a pop up show in Toronto TONIGHT\nhttp://t.co/bXRByk5iWg http://t.co/qabWu3qMH6",
+        "user id": 176930329,
+        "tweet id": "529654489356070912",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@dave_bradley @BillRowse1 will be there",
+            "user id": 441341395,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "content": "@joelrobtv @BillRowse1 Without question. Underwear ready to throw on stage.",
+            "user id": 176930329,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@dave_bradley @joelrobtv giddy up !!!!!",
+            "user id": 2591679415,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@BillRowse1 @joelrobtv Too late Bill! The show is scratched.",
+            "user id": 176930329,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

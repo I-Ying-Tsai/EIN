@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "#沈阳 巨响# 给你们配个图，找找是沈阳哪里，  ",
+        "time": "20-6-23 12:08",
+        "user id": "3976171329",
+        "tweet id": "J7WZN4aVi",
+        "label": 1,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "6247717780",
+            "user name": "魂魄yao梦_",
+            "content": "真的假的",
+            "time": "20-6-23 12:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2037997880",
+            "user name": "一拾贰三",
+            "content": "估计不懂造谣啥后果",
+            "time": "20-6-23 12:11",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "6198016512",
+            "user name": "小宁没有心",
+            "content": "假",
+            "time": "20-6-23 12:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "2181794601",
+            "user name": "曲末離殤",
+            "content": "全网就这一张图，就感觉这是假的了",
+            "time": "20-6-23 12:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "2037997880",
+            "user name": "一拾贰三",
+            "content": "造谣啥后果还不知道？",
+            "time": "20-6-23 12:09",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "6191061210",
+            "user name": "你在想屁吃h",
+            "content": "好久以前的网图了",
+            "time": "20-6-23 12:09",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "5484713915",
+            "user name": "小人鱼湘湘",
+            "content": "你可小心造谣生事",
+            "time": "20-6-23 12:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "6405572015",
+            "user name": "残妆4768",
+            "content": "是假的不",
+            "time": "20-6-23 12:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5484713915",
+            "user name": "小人鱼湘湘",
+            "content": "真的假的",
+            "time": "20-6-23 12:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5404083394",
+            "user name": "小栗的二三心事",
+            "content": "这是哪啊",
+            "time": "20-6-23 12:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "6657950338",
+            "user name": "BarrY_HDL",
+            "content": "憋搁这配了，这一会看到好几张一样的图了，咋的，坐你腿上拍的照片呗",
+            "time": "20-6-23 12:12",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "1608923817",
+            "user name": "Maegidius",
+            "content": "造谣入刑",
+            "time": "20-6-23 12:09",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "6185330583",
+            "user name": "ll--Lei雷",
+            "content": "我在大东北大营听到了",
+            "time": "20-6-23 12:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "5706647779",
+            "user name": "小米公司雪军",
+            "content": "祝你成功😊😊😊",
+            "time": "20-6-23 12:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

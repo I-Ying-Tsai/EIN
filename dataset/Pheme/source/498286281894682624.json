@@ -1,0 +1,108 @@
+{
+    "source": {
+        "content": "What year are we in again? This is looking like the 50s #Ferguson http://t.co/TeLcT3d3yh",
+        "user id": 35866054,
+        "tweet id": "498286281894682624",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@PresidentPat @andie_walsh What country are we in again? This is not looking like the USA.",
+            "user id": 2465381742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@StuartFJones @PresidentPat @andie_walsh This is not looking like the WHITE USA. Always been the Black one though.",
+            "user id": 16713322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@PresidentPat @JShahryar Why bring the damn dog anyway?  It's a bad visual no matter the context.",
+            "user id": 311828651,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Abdallah_172 @JShahryar RIGHT! That's my thing!! Dogs are completely unnecessary.",
+            "user id": 35866054,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Wow. RT “@PresidentPat: What year are we in again? This is looking like the 50s #Ferguson http://t.co/Th1ljoiWmu”",
+            "user id": 1118349978,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@Witchsistah @StuartFJones @andie_walsh Say that again!",
+            "user id": 35866054,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@Witchsistah @PresidentPat @andie_walsh Touché. Shame on me for forgetting that.",
+            "user id": 2465381742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

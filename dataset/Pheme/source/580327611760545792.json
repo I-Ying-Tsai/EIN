@@ -1,0 +1,161 @@
+{
+    "source": {
+        "content": "DEVELOPING: Flight log of GWI9525's Airbus A320 last recorded movements #Germanwings http://t.co/gkBze2MTkx",
+        "user id": 16973333,
+        "tweet id": "580327611760545792",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@independent",
+            "user id": 1445819197,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent German?! Bloody hell!!!",
+            "user id": 20361510,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "I will not fly Airbus - Their wings rust from the inside out  - and is hard to detect it @Independent",
+            "user id": 1145792010,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": "@TheJanSimpson @Independent THEY DONT RUST THEY R PLASTIC AND CRACK UP AND FALL OFF",
+            "user id": 953315940,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@TheJanSimpson @Independent BRING BACK DUR-ALUMINIUM",
+            "user id": 953315940,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: DEVELOPING: Flight log of GWI9525's Airbus A320 last recorded movements #Germanwings http://t.co/gNt9nKyVbX” horrible news",
+            "user id": 2990802156,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent just heard on bbc dat lufthansa's CEO is likely on the flight #Germanwings",
+            "user id": 394572841,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent WHO ON EARTH WOULD DESIGN A PLANE WITH PLASTIC WINGS",
+            "user id": 953315940,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent PLASTIC DETERIORATES MUCH FASTER THAN ANY OTHER MATERIAL, PLANE MATERIAL MORE THAN 25 YEARS OLD,SUGGEST WE CHECK ALL COMPOSITES",
+            "user id": 953315940,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @AmyLouiseHanna why are you doing this",
+            "user id": 731478738,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [],
+            "content": "No - the wings are aluminum and they rust from the inside out: http://t.co/nmprbsmXfV and http://t.co/78Sr8cEywr @RobMcGuire4 @Independent",
+            "user id": 1145792010,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

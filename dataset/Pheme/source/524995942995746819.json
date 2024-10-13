@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Our thoughts are with all those affected by today's events in Ottawa.",
+        "user id": 40878677,
+        "tweet id": "524995942995746819",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NHLDevils  Thank you so much for caring about us. It means alot to know we are not alone.",
+            "user id": 582255987,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@BrendaLalonde1 @NHLDevils amen , thank you American friends #bestfriendsanyonecouldaskfor 😘🍁🇺🇸 I love New Jersey",
+            "user id": 2174282087,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NHLDevils Thoughts??? Prayers work. Enough said.",
+            "user id": 1685967536,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NHLDevils Thank You",
+            "user id": 870723726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NHLDevils thanks devils",
+            "user id": 2314617431,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

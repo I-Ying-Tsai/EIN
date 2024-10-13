@@ -1,0 +1,191 @@
+{
+    "source": {
+        "content": "Update: Five hostages escape as a gunman continues siege in Sydney cafe http://t.co/srN4LP5972 http://t.co/JRXqBzBVEH",
+        "user id": 14173315,
+        "tweet id": "544401675789033473",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NBCNews Bastard cops. How dare they help her.",
+            "user id": 2850249772,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11,
+                12
+            ],
+            "content": "@JHolmsted @NBCNews Not all cops are bad.. Their are bad ones just like there is bad humans out there carrying guns legally. stop w/sarcasm.",
+            "user id": 282390088,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Is it escaped or released? Appreciate some clarity on that. @NBCNews",
+            "user id": 2601118704,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@DAJSamarasinghe its NBC......",
+            "user id": 183832473,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews Bless her!",
+            "user id": 2389777327,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews thanks God they escape",
+            "user id": 965524621,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @KING5Seattle this is sad news.",
+            "user id": 277147330,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@NBCNews: Update: Five hostages escape as a gunman continues siege in Sydney cafe http://t.co/21vu2rTNBL http://t.co/LEz8khSaN4” epidemic",
+            "user id": 377555729,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews i had some very, helpful wonderful policemen ...that helped me when the car broke-down\n\nGood to kniw",
+            "user id": 53440950,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "How scary. \"@NBCNews: Update: Five hostages escape as a gunman continues siege in Sydney cafe http://t.co/CsAMmED3Gb http://t.co/lkRfEjYaWe”",
+            "user id": 29870604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@NBCNews: Update: Five hostages escape as a gunman continues siege in Sydney cafe http://t.co/d0Qxdwmd27 http://t.co/p9glWzVC9J”",
+            "user id": 43521065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@SMoKeeGyRL @NBCNews Umm it's Twitter. I will \"sarcasm\" all I want to. Because freedom. Or some shit.",
+            "user id": 2850249772,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [],
+            "content": "@SMoKeeGyRL @NBCNews Also, it's \"THERE are bad ones\" &amp; \"just like there ARE bad humans\" #spellcheck #grammar",
+            "user id": 2850249772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@JHolmsted @SMoKeeGyRL @NBCNews Didn't occur to me that it might not be sarcasm. Was obvious, I thought. The lady has been through hell.",
+            "user id": 587935398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Police in #Ottawa call situation 'fluid,' 'dynamic,' 'unfolding.' Confirm deaths of soldier, gunman. #cdnpoli",
+        "user id": 19038934,
+        "tweet id": "524989654995849216",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts what about the other confirmed gunmen?",
+            "user id": 2588988638,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Basically, police won't disclose anything more than what we've already pieced together for ourselves.",
+            "user id": 1336660494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Keep the situation in Ottawa in your prayers.",
+            "user id": 594343447,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts ans tmorrow lits raining ,badluck",
+            "user id": 1706564274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts is the situation over or is it still \"unfloding\"?",
+            "user id": 2352684726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @CBCEdmonton Another bad guy in Rideau Hull RCMP friend confirms",
+            "user id": 1155091850,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Web strongly condemn this terrorist attack on the Charlie Hebdo\nhttp://t.co/cB3mSZwiaE http://t.co/zaZAXvOkv9",
+        "user id": 420314328,
+        "tweet id": "552836444835037184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JWFoundation_ @ihsanylmz condemn yaparken Avrupa'nın da proaktif tutumlar a Hz peygamber le ilgili izin vermemesi gerektiğini de yazın.",
+            "user id": 301349001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Web strongly condemn this terrorist attack on the C.Hebdo\n\nhttp://t.co/cvNScMmvQX @JWFoundation_ \n#MüslümanTeröristTeröristMüslümanOlamaz",
+            "user id": 256968538,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

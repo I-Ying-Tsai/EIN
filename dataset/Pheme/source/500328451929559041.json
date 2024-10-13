@@ -1,0 +1,146 @@
+{
+    "source": {
+        "content": "#Ferguson #WeArePeace Met a young man who told me, \"We aren't here for colors. Black isn't a color, We are all Equal  http://t.co/yO18uiiOPZ",
+        "user id": 1381926373,
+        "tweet id": "500328451929559041",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal @OpFerguson can I hit that blunt tho",
+            "user id": 2181655057,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal @OpFerguson Nah Iont like that shit",
+            "user id": 25429361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@YourAnonGlobal m.brown robbed and ran from police and the EQUALLY distributed bullets on his body. end of story!",
+            "user id": 1437193112,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@midwaymm @YourAnonGlobal Even if he did, you cretin, that's not a capital offence, is it? They don't get to shoot him like a dog.",
+            "user id": 387142925,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal https://t.co/NgVhdF0zmt",
+            "user id": 464329417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@youranonglobal Contradicts the hundreds yesterday praying the cop was white. bunch of racists.",
+            "user id": 237985142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@KateVasey @YourAnonGlobal yes they do!! criminals GIVE UP THEIR RIGHTS when they rob and run from police and become a menace! LOL",
+            "user id": 1437193112,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@KateVasey @YourAnonGlobal i am sure your lily white pussy gets smashed and robbed your the first one crying for police to do something! LOL",
+            "user id": 1437193112,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@midwaymm @YourAnonGlobal You are wrong, in far too many ways to fit in a tweet. You should watch less Fox News, mate. Try reading a book.",
+            "user id": 387142925,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@midwaymm @YourAnonGlobal Surely even you can see that police officers cannot also be judge and executioner? Do you think you're immune?",
+            "user id": 387142925,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

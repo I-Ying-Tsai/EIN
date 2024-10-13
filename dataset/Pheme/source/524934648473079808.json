@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "A reminder for those observing the shooting on Parliament Hill: DO NOT tweet police locations and movements #ottcity #ottawa",
+        "user id": 42887031,
+        "tweet id": "524934648473079808",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@k9kazoo A reminder for those observing the shooting on Parliament Hill: DO NOT tweet police locations and movements #parliament #ottawa",
+            "user id": 14793439,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@K9kazoo but you JUST tweeted \"the shooting @ parliament hill??😲",
+            "user id": 2871346958,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@nicksangsterr but I didn't provide positions,  movements or photos of locations... Opsec intact.",
+            "user id": 42887031,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@K9kazoo True, your right i apologize i wasn't thinking! Very sad. R.I.P Nathan",
+            "user id": 2871346958,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

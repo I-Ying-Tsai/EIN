@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#4U9525: Robin names Andreas Lubitz as the copilot in the flight deck who crashed the aircraft.",
+        "user id": 5943072,
+        "tweet id": "581063377226637312",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn @mschenk",
+            "user id": 234684092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn Have they named the pilot?",
+            "user id": 727879477,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

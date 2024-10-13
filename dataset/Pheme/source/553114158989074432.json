@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "After #CharlieHebdo attack, satirists express solidarity and vow that fun would never die. http://t.co/XcTHtsVSCa http://t.co/1EVgl9Apfx",
+        "user id": 3108351,
+        "tweet id": "553114158989074432",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@WSJ 17 journalists massacred by terrorist #Israel in #Gaza! Didn't get this kind of coverage!Wonder why? http://t.co/BAlkNZKFus",
+            "user id": 38385875,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@anyteambutBCN @WSJ oh... israel of course now :-) dam, you're so funny",
+            "user id": 112669391,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @WSJ: After #CharlieHebdo, satirists express solidarity and vow that fun would never die. http://t.co/vIF3EtI7J8 http://t.co/N9xypRu0w7",
+            "user id": 127625962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @birgittaj will the WSJ reprint Hebdo's cartoons in English?",
+            "user id": 15372043,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @birgittaj It may have more to do with French military policy than cartoons, but that's still a cute sentiment.",
+            "user id": 2431432212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@LawofBetsalel @WSJ LOL No not funny! Simply Not brainwashed &amp; do go further for the truth ! Don't depend on Rupert Murdoch for falsely info",
+            "user id": 38385875,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@LawofBetsalel @WSJ biased info!  What is funny though is that u misspelled DAMN!LOL",
+            "user id": 38385875,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@anyteambutBCN @WSJ your stupidy is funny at least",
+            "user id": 112669391,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

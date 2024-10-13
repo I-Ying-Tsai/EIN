@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "The #Ferguson police have NOT interviewed the primary eye witness to Michael Brown's murder &amp; they won't release how many times he was shot.",
+        "user id": 755113,
+        "tweet id": "499368426931228672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ShaunKing They haven't interviewed him because he doesn't want them to interview him. He's waiting for the feds to interview him.",
+            "user id": 1451102844,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@StevePellegrino @ShaunKing WRONG..His attorney offered the police to interview him and they declined",
+            "user id": 56128708,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing So they're not going to release the Cops name anymore?",
+            "user id": 322382035,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing @RedwoodGirl It was reported on MSNBC crawl (by someone on twitter) that FBI have interviewed him.",
+            "user id": 869049313,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing @andrewhume they're scum!\n#murderers",
+            "user id": 615325753,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing @andrewhume 1 witness said 2x in chest under surrender. Both hands in the air!\n#Ferguson #FergusonShooting #Fergusonmurder",
+            "user id": 615325753,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing maybe because they are still trying to stop people from looting stores and burning them down",
+            "user id": 2727951092,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing @Crutch4 2BUSY TRYIN 2Come Up With A Logical EXPLAINATION 4 Killing An Unarmed Man 4 Jaywalking? I Really Think Thats It. Excuses",
+            "user id": 393771226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing police chief, mayor, and a number of police officers need to resign, apoligize first, then resign.",
+            "user id": 492946623,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing @hthompsn Saw the same reported on MSNBC by @chrislhayes .  @TheRevAl was on location in #Ferguson intvwd by @Lawrence. #AUDACITY",
+            "user id": 138455912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ShaunKing Responding to the Michael Brown Case! http://t.co/iUvk8DhMuW",
+            "user id": 155285081,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

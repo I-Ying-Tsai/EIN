@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "四川藏区需要4一10岁小孩的衣服和鞋子，新旧不限。，洗干净就可以。地址：四川省甘孜藏族石渠县西区长沙贡马乡小学， 邮编：627350 校长：达洼15884044467 如果没有合适的衣服可以邮寄，帮忙转一下贴也好，也许您的一下简单复制，就能给孩子们一个幸福的明天。天气冷替孩子们感谢了！",
+        "user id": 1796610021,
+        "tweet id": "3521891396337049",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "帮忙转发",
+            "user id": 2306692161,
+            "user name": "小盾牌的围脖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "~~",
+            "user id": 1622018754,
+            "user name": "Dive的小号",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "转转",
+            "user id": 1195555977,
+            "user name": "木艮俱乐部",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "[good]",
+            "user id": 2115319694,
+            "user name": "可爱晴啨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "大家献点爱吧",
+            "user id": 1421779381,
+            "user name": "大小姐lisa_wong",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "转发微博",
+            "user id": 1113775303,
+            "user name": "王屹耳de",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "",
+            "user id": 1405588841,
+            "user name": "小嘛小巴嘎",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "我们捐的都到哪了？",
+            "user id": 2530865934,
+            "user name": "鲨猪老",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

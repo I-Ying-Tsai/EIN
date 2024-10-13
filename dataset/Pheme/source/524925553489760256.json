@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "So I am locked down in Centre Block on Parliament Hill after at least one shooter burst in and opened fire",
+        "user id": 164075542,
+        "tweet id": "524925553489760256",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@josh_wingrove Stay safe sir.",
+            "user id": 182690569,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@josh_wingrove Burst in? Into HOC?",
+            "user id": 34745101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "In Ottawa.  RT @josh_wingrove: So I am locked down in Centre Block on Parliament Hill after at least one shooter burst in and opened fire",
+            "user id": 303525188,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@josh_wingrove Burst into where?",
+            "user id": 5765512,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@alainparadis @josh_wingrove ummm Centre Block on Parliament Hill? Like he just said?",
+            "user id": 165194579,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@josh_wingrove: So I am locked down in Centre Block on Parliament Hill after at least one shooter burst in and opened fire” @normwilner",
+            "user id": 40491446,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@josh_wingrove: So I am locked down in Centre Block on Parliament Hill after at least one shooter burst in and opened fire”",
+            "user id": 138999399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@josh_wingrove @journodave stay safe",
+            "user id": 8460462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Follow for details MT @josh_wingrove: I'm locked down in Centre Block on Parliament Hill after at least one shooter burst in and opened fire",
+            "user id": 420084978,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

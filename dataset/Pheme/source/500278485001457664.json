@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING: #Ferguson police have identified Darren Wilson as the cop who shot and killed Michael Brown. More details to come...",
+        "user id": 256596567,
+        "tweet id": "500278485001457664",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ComplexPop @ComplexMag that guy is going to die.",
+            "user id": 238632962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@ComplexPop: BREAKING: #Ferguson police have identified Darren Wilson as cop who shot and killed Michael Brown\"\nDude better go into hiding",
+            "user id": 291474498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

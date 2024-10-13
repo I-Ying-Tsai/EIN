@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "Liberal journos say don't label these guys Muslim terrorists because this is such a rare incident. #CharlieHebdo http://t.co/jAeC3PrD3Z",
+        "user id": 2811909217,
+        "tweet id": "553558611306090496",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@IMZ_Politics @billpostmus Yeah! And probably JV also! Give me a break!",
+            "user id": 2839576867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@IMZ_Politics and #JIHAD IS Muslims ... right ?",
+            "user id": 133330131,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@IMZ_Politics Morts @MojcaJereb They were also men and with dark hair. Should we jail them all?",
+            "user id": 27955696,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "@gpaccardo @IMZ_Politics @MojcaJereb Oh shut the fuck up. Moron. Geez, what is it with you idiot libs? Do you have to show ur stupidity???",
+            "user id": 54466090,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@IMZ_Politics and 100% of them had 2 legs too; let's blame the people with 2 legs because why not? Aren't we totally dumb?",
+            "user id": 40158371,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@IMZ_Politics Liberals around the world wake up! Got your heads shoved right up your assholes.  These MUSLIMS have a very clear agenda!",
+            "user id": 235520398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@IMZ_Politics @SoCalEdgyGal HEY !!! You stole this pic from me, after I stole it from someone else !!! BWAHAHAHAHA !!!!!",
+            "user id": 54466090,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@IMZ_Politics @SoCalEdgyGal Peshawar, 170+ dead kids, from mooslims. Thank you mohammed. http://t.co/P5oZN8XXYF",
+            "user id": 54466090,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@IMZ_Politics @EuclidRedux have you made a list with all Christian terrorist attacks too? and all Jewish terrorist attacks? Budhist? Hindu?",
+            "user id": 845754786,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [],
+            "content": "@Thunderstixx @IMZ_Politics @MojcaJereb What woud your point be?",
+            "user id": 27955696,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

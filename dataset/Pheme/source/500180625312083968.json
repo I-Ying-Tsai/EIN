@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "@eyeFLOODpanties RT @iFalasteen: The oppressed stands with the oppressed.\n\n#Palestine stands with #Ferguson. http://t.co/vzR0xVk60Y",
+        "user id": 264518387,
+        "tweet id": "500180625312083968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@WallyBeamin @eyeFLOODpanties @iFalasteen Palestine...the oppressed. HA!",
+            "user id": 206494015,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@iKazed yes. The most oppressed in the world as a matter of fact. For the last 60 years. Nothing funny about that. Beat it troll.",
+            "user id": 264518387,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WallyBeamin @eyeFLOODpanties @iFalasteen realest ever.",
+            "user id": 41895420,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@WallyBeamin Was he serious? That couldn't have been real. No one can possibly be that ignorant.",
+            "user id": 26804437,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

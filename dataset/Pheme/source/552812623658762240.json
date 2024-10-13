@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "\"I do not agree with what you have to say, but I'll defend to the death your right to say it.\" -Voltaire #FreeSpeech  #JeSuisCharlie",
+        "user id": 540628749,
+        "tweet id": "552812623658762240",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyMKreis @Ozilad Pssst, it wasn't Voltaire, it was Evelyn Beatrice Hall who wrote that.\n\n#illridewithcharlie",
+            "user id": 340279079,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyMKreis http://t.co/6NMW41eVqq",
+            "user id": 260814449,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@AnthonyMKreis @CaseyFahey Tea Party Version: I do not agree with what you have to say, &amp; I'll defend to the death my right to silence you.",
+            "user id": 19747720,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AnthonyMKreis \"I do not agree with what you have to say, but I'll defend to the death your right to say it.\" -Voltaire #JeSuisCharlie",
+            "user id": 166249016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@AnthonyMKreis @ElisDe #hoax http://t.co/3WNUCZ3sty",
+            "user id": 27512434,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@elimeur @AnthonyMKreis Rendons à Evelyn Beatrice Hall ce qui appartient à Evelyn Beatrice Hall!",
+            "user id": 113690997,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AnthonyMKreis Today we are all French. #JeSuisCharlie",
+            "user id": 510695688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

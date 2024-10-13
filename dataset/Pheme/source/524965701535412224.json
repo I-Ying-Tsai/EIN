@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "We have no idea who is responsible for the #ottawashooting so why are instant commentators talking about #ISIS? Please stop politics of fear",
+        "user id": 1205111988,
+        "tweet id": "524965701535412224",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Biometricstate It is because a call to arms by ISIS to attack soldiers.",
+            "user id": 24529508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Biometricstate Don't be in a bubble about this. It would be too coincidental for it to not be related after Canada joins ISIS fight.",
+            "user id": 424003766,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "Be careful @Sheena_Brady Oklahoma City bombing was \"too coincidental\" not to be Arab terrorism. It was Tim McVeigh #dontjumptoconclusions",
+            "user id": 1205111988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Biometricstate @smsaideman More like politics of limited memory/attention span.",
+            "user id": 166782000,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Biometricstate same day our planes fly out and the honorary citizenship is to take place. How can we not assume until we know more",
+            "user id": 419535630,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Biometricstate it is insane that an \"ex-CIA member\" is reporting to Fox News (and I used \"news\" lightly) that this is an ISIS attack.",
+            "user id": 38076460,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Biometricstate Thank you Ben !!! No one knows anything just yet, as it is too soon !!",
+            "user id": 1555394582,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Biometricstate ISIS captured heavy US-weapons which supposed being for kurds\nhttp://t.co/83UH2fDy2j",
+            "user id": 2444982048,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@Biometricstate Educated guess. Tell me you will be shocked if/when ISIS is implicated.",
+            "user id": 2871683072,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "@moonshyne1975 \"Educated\" is a liberal use of the term from what I've heard today and guessing only serves to encourage hysteria",
+            "user id": 1205111988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Biometricstate Eyewitness report: \"He had dark, longish hair, facial hair and a black and white Palestinian type head scarf over his face.\"",
+            "user id": 125157681,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                12
+            ],
+            "content": "@Biometricstate well looks like the guess is accurate in this case ,ask Michael Zehaf-Bibeau the recent Islam convert responsible.",
+            "user id": 2871683072,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@moonshyne1975 We still know next to nothing. Bibeau has long criminal record &amp; Islam seems irrelevant. Self-fulfilling prophecy ≠ knowledge",
+            "user id": 1205111988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

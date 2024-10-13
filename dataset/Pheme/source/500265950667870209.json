@@ -1,0 +1,177 @@
+{
+    "source": {
+        "content": "\"Hands up! Don't shoot!\" #Ferguson, MO, protests spread to nearby Clayton. http://t.co/s7KHztwXeq http://t.co/9Ww2erUujj",
+        "user id": 9411482,
+        "tweet id": "500265950667870209",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport Inscription SVP .. https://t.co/MN3VKsEXsP",
+            "user id": 601352811,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@cnnireport @CNN Amazing how police force does not reflect demographics of a community.  Look at Police with gear on.  Nazi Germany again.",
+            "user id": 2560422002,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@SoAmericano12 @cnnireport @CNN @cnnireport @CNN  If it did \"reflect demographics of community.\" all would be well. Like Detroit... right?",
+            "user id": 2405122247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@SoAmericano12 In Clayton that looks exactly like the general demographics. Very large percentage of total population is white.",
+            "user id": 884770814,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @CNN baby carriage, sleeping in bed, walking to the store, wearing my sneakers, working, wearing a certain color, don't shoot",
+            "user id": 772529887,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @CNN where are all these protestors when kids are killing kids everyday? Hypocrites.",
+            "user id": 772529887,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @CNN 🙌🔫👮",
+            "user id": 44272969,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @CNN seems that all the racist drama queens are out",
+            "user id": 21930092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @cnn Too bad none of them have jobs to go to",
+            "user id": 1278505596,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @CNN Gillette might want to talk to her.... #justsaying",
+            "user id": 16857957,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @CNN do you feel like this is doing anything besides making you look ridiculous? It's not. Go home.",
+            "user id": 2411614278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @allys_sons Where are the people saying \"Don't Loot\"?",
+            "user id": 178888741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport Why Fuel The Hate! No More Riots and Looting!",
+            "user id": 564693984,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@cnnireport @CNN how do you protest a shooting by robbing stores? Excuse to riot",
+            "user id": 2301966008,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

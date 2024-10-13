@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "People DEBATING whether #MikeBrown shoplifted or not-- IT DOESN'T MATTER.\nShoplifting isn't punishable by DEATH IN THE STREET. #Ferguson",
+        "user id": 138168339,
+        "tweet id": "498355319979143168",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@VABVOX \nReports are saying HE STOLE NOTHING. Reports say, He was walking in the street with friends and the cop got pissed...",
+            "user id": 37796609,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@commonman80 I was just responding to all the people saying he'd shoplifted. It wouldn't matter if he had. You don't shoot unarmed kids.",
+            "user id": 138168339,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

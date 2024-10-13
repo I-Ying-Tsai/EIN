@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "Pencil sketch tribute... #JeSuisCharlie http://t.co/nFESx847MA",
+        "user id": 353796254,
+        "tweet id": "553194557316542465",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@DarrenBirdie fantastic simplistic piece Darren, great message though",
+            "user id": 709438744,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@DarrenBirdie Beautifully done.",
+            "user id": 597021549,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@DarrenBirdie it's a lovely drawing.. Except the flag should be half staffed out of honor for him. I'm js 😊👌",
+            "user id": 485321354,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@DarrenBirdie https://t.co/kvj71lxQ8i in 14 modern #languages &amp; #Greek #dialects http://t.co/LoUHsgGUzj",
+            "user id": 240114180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@DarrenBirdie  https://t.co/kvj71lxQ8i in 14 modern #languages &amp; #Greek #dialects @vallance22 #Canada http://t.co/UZSeFPAhep",
+            "user id": 240114180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@DarrenBirdie: Pencil sketch tribute... #JeSuisCharlie http://t.co/SJ77pD9gtb” 🇫🇷",
+            "user id": 2327389232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@DarrenBirdie @JPSPENCER1980 that's brilliant that mate....well done",
+            "user id": 2264043567,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "“@DarrenBirdie: Pencil sketch tribute... #JeSuisCharlie http://t.co/Gx9edhntod” The best tribute I've seen so far.. Brilliant",
+            "user id": 29471238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@bagshaw2112 @DarrenBirdie Wow.",
+            "user id": 392272849,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@DarrenBirdie Nice touch for #JeSuisCharlie",
+            "user id": 2363135388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@DarrenBirdie interestingly, have you see this? RT: https://t.co/hwDYvQ0PDa",
+            "user id": 151108000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@RuaTrindade Yes I saw it this morning! great minds think alike hey... :)",
+            "user id": 353796254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "content": "@DarrenBirdie makes for a fantastic cover.",
+            "user id": 151108000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@RuaTrindade Happy with all the RT's &amp; Fav's I received! Do hope I'll get the chance to illustrate to an even larger audience myself one day",
+            "user id": 353796254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

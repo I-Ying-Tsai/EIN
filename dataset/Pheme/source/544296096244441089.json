@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "UPDATE: Reports a gunman is requesting to speak to Australian leaders on live radio, as specialist officers work to make contact. #9News",
+        "user id": 171802941,
+        "tweet id": "544296096244441089",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @9NewsSyd: Reports a gunman is requesting to speak to Australian leaders on live radio, as specialist officers work to make contact.",
+            "user id": 187815608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@9NewsSyd Such a stupid &amp; inappropriate question by your commentator 'How much money will your business lose today?' Honestly!",
+            "user id": 2889282044,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@jodieotoole @9NewsSyd I thought so too! Like that matters when people are still being held hostage, seriously!",
+            "user id": 2899209283,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @TheTodayShow this guy you just had talking has just added to the panic. So much for responsible media coverage.",
+            "user id": 591391805,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @9NewsMelb",
+            "user id": 401789022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

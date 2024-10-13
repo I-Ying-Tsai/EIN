@@ -1,0 +1,124 @@
+{
+    "source": {
+        "content": "Looks like #Ferguson PD spent their whole week on a smear campaign against #MikeBrown instead of investigating or being at all helpful.",
+        "user id": 17175457,
+        "tweet id": "500293872162205697",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@itsthatseanguy",
+            "user id": 2687912623,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@itsthatseanguy Yeah especially how they got a dead guy to pose for PICTURES \"pretending\" to rob someone????",
+            "user id": 2233662300,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@itsthatseanguy @alexachula they blew it. Simple fact checking blows their story up. The robber wore shorts/sandals. Mike had pants/gymshoes",
+            "user id": 37339807,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@buffblkwell my bf tryna tell me that was him. Saying his shoes and clothes match. I'm like I can't say for 💯 that was him #fuckthat #nothim",
+            "user id": 265870656,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@itsthatseanguy Because, you know, after you hold up a store you definitely don't want to change your clothes.",
+            "user id": 172021570,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@MMac26111 Not even the police department is saying that those photos are of him. Come now…",
+            "user id": 17175457,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@itsthatseanguy Lol. Of course they aren't saying it.",
+            "user id": 172021570,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@MMac26111 So what’s your point?",
+            "user id": 17175457,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

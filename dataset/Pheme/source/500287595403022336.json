@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "Cops were extra aggressive to incite fear and cause chaos, giving the #Ferguson PD time to destroy and/or manufacture any \"evidence\" needed",
+        "user id": 46562247,
+        "tweet id": "500287595403022336",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SnottieDrippen you hit the motherfucking nail!",
+            "user id": 34361010,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SnottieDrippen #truth #message!",
+            "user id": 2643626105,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SnottieDrippen @RemarkablyDope this is all one big coverup and I don't care what \"my\" race says, can't shoot someone with hands up 🙌",
+            "user id": 514397514,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@SnottieDrippen Was it the Illuminati? Or the Free-Masons? Or maybe it was Dick Cheney and Haliburton? I do love a good conspiracy theory!",
+            "user id": 1074822361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7,
+                8
+            ],
+            "content": "Ferguson PD. Idiot. RT @ClosedPress: @SnottieDrippen Was it the Illuminati? Or the Free-Masons? Or maybe it was Dick Cheney and Haliburton?",
+            "user id": 46562247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SnottieDrippen @addhdgamer #runtelldat That makes a LOT of sense!",
+            "user id": 15153648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SnottieDrippen might not hear this way my understandn the cop was cluless abt brown cigar shit that's why he at first said get off the road",
+            "user id": 448043662,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@SnottieDrippen Just want to make sure who is behind this massive conspiracy! I would hate to spout non-sense based on per-conceived notions",
+            "user id": 1074822361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@SnottieDrippen @ClosedPress already blocking him and reporting his dumbass as spam. \"Press\" FOH",
+            "user id": 310101666,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@M_Orea1 @SnottieDrippen Why? Im on your side...we need to get to the bottom of this, and not let things like \"facts\" get in our way!",
+            "user id": 1074822361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

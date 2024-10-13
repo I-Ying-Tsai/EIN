@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Brilliant. #JeSuisCharlie via @lectrr http://t.co/CSe2EN1Fxg",
+        "user id": 585612126,
+        "tweet id": "553172769819852800",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@XopheRobin @lectrr Brilliant!",
+            "user id": 1616756011,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@XopheRobin: Brilliant. #JeSuisCharlie via @lectrr http://t.co/6KpyuurnrE” OUTstanding!!",
+            "user id": 32391705,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@XopheRobin @lectrr A complete GIF guide to Muslims Denouncing terrorism. http://t.co/s9rGMNFzda",
+            "user id": 234912898,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@XopheRobin @lectrr Et il vas encore plus, le devenir ! \nCe crayon vas devenir la pire arme contre le sunnisme fascisme.",
+            "user id": 1870629380,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@XopheRobin @ElectreIsMore @lectrr plus il devient petit aussi et jusqu’à disparaitre, bof y a mieux...",
+            "user id": 204888009,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@RainHeart69 @ElectreIsMore @lectrr Il ressemble à Astérix le Gaulois, non? Petit, droit, aiguisé &amp; résistant. Très bien ce cartoon. :)",
+            "user id": 585612126,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@XopheRobin: Brilliant. #JeSuisCharlie via @lectrr http://t.co/UR9WN5tN8a”",
+            "user id": 69608138,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@XopheRobin: Brilliant. #JeSuisCharlie via @lectrr http://t.co/16fwbENQSQ”",
+            "user id": 571714677,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@XopheRobin: Brilliant. #JeSuisCharlie via @lectrr http://t.co/xmX1M0zUeQ”",
+            "user id": 847018728,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

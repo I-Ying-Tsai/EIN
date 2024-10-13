@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Some hostages seen leaving Paris kosher market after police raid http://t.co/mavZxj17F7 http://t.co/arlafQgjK0",
+        "user id": 972651,
+        "tweet id": "553592023392202752",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable @Varneyco great work.",
+            "user id": 54882415,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@mashable @DailymotionUSA Here the site of the second space of hostage in PARIS !! &lt;33",
+            "user id": 1274388504,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mashable @DailymotionUSA @yuka120700",
+            "user id": 1274388504,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable @DailymotionUSA CT win FUCK ISLAM",
+            "user id": 262852497,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@mashable: Some hostages seen leaving Paris kosher market after police raid http://t.co/nUHx717N1y http://t.co/Wy6BSePuTz”",
+            "user id": 268061821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable @Varneyco The time has come for work to begin on Keystone XL, in spite of Obama's stonewalling. One man cannot block this project.",
+            "user id": 178078681,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable http://t.co/8lSzs5XoWn\nhttp://t.co/xHGAydawQD\nhttp://t.co/QglsY8mprY\nhttp://t.co/d4g2QawXfI\nhttp://t.co/6l10yaC24X",
+            "user id": 2931865497,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "Powerful photo of the day MT “@mashable: hostages leaving Paris kosher mkt after police raid http://t.co/htHVyw8rq3 http://t.co/xVcMQAO6n0”",
+            "user id": 30935427,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable prayers and thoughts are with every victim the bastards tormented. ..",
+            "user id": 2956554429,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

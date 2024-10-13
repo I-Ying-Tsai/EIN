@@ -1,0 +1,209 @@
+{
+    "source": {
+        "content": "The #SydneySiege has been going on for over 13 hours. It is now 11:05pm local time in Sydney.",
+        "user id": 7744592,
+        "tweet id": "544463201875025921",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow it's awful. Poor hostages and their families",
+            "user id": 385919935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@TODAYshow: The #SydneySiege has been going on for over 13 hours. It is now 11:05pm local time in Sydney.” Praying for a safe end to this.",
+            "user id": 950869819,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow the fact that these people are seriously going to be inside there, dealing with this overnight is heartbreaking.",
+            "user id": 2406957578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow please don't blame all. #Muslims \rCuzz we love peace... Yeah some ppls are bad but not everyone.",
+            "user id": 2329582889,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@TODAYshow Great reporting by @SaraJamesAus!  What a class act!",
+            "user id": 27863698,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                11
+            ],
+            "content": "“@BobNBC4: @TODAYshow Great reporting by @SaraJamesAus!  What a class act!” Thanks for those kind words.",
+            "user id": 2337682316,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow #SydneySiege If the Austrailian Police Snipers had a clear shot Y didn't they take him out? Are the rules of engagement different",
+            "user id": 609112360,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "“@TODAYshow: The #SydneySiege has been going on for over 13 hours. It is now 11:05pm local time in Sydney.” 😢",
+            "user id": 567336756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@jodiessi @TODAYshow Try 14 and its midnight",
+            "user id": 1211349950,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow 😞😞😞🙏🙏🙏",
+            "user id": 626674509,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow @MalloryHBrooks maybe if they wouldn't have taken their gun rights away someone with a CCW would have take. Him out by now",
+            "user id": 628636580,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 5,
+            "children": [],
+            "content": "@SaraJamesAus @TODAYshow Kind and factual.",
+            "user id": 27863698,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [
+                13
+            ],
+            "content": "@AC_VeniVidiVici this is terrible :/",
+            "user id": 567336756,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "content": "@jodiessi Yep pray tonight! #sydneysiege",
+            "user id": 1211349950,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@AC_VeniVidiVici i will",
+            "user id": 567336756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

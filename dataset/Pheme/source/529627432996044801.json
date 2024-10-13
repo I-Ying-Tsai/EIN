@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Rumours that Prince is playing Massey Hall tonight - listen for details in 5 mins: http://t.co/IByVwVORFh #MusicNerd",
+        "user id": 501293202,
+        "tweet id": "529627432996044801",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Indie88Toronto damn not near a radio!",
+            "user id": 331026320,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@Indie88Toronto: Rumours that Prince is playing Massey Hall tonight - listen for details in 5 mins: http://t.co/nfG0pxOvyy ” @samanthadjb",
+            "user id": 133151405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@fashionfood Thanks Jen :) Been hearing rumbling since yesterday...ahhh.",
+            "user id": 72648916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@Indie88Toronto: Rumours that Prince is playing Massey Hall tonight - listen for details in 5 mins: http://t.co/4jn2QEha2D #MusicNerd” what",
+            "user id": 2191405329,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

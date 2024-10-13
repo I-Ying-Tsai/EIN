@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "One explanation for building site on #moscow Red Square it prevents helos landing for a coup. #Putin has returned to shadows whence he came.",
+        "user id": 459310999,
+        "tweet id": "576641067317096448",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@johnsweeneyroar like Lukashenka closing square for 'snow clearing' or Yanukovych trying to stop Maidan by building a Christmas tree",
+            "user id": 49408574,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@johnsweeneyroar hmm, nothing on @BBCr4today as yet about this John, strange though.",
+            "user id": 2883921829,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@johnsweeneyroar this report says journos warned of impending announcement https://t.co/5Moa5O1Avd",
+            "user id": 2288506494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

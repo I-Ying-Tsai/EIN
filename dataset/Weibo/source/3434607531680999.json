@@ -1,0 +1,2359 @@
+{
+    "source": {
+        "content": "新华社报道，美国加州一个餐馆因使用不卫生餐具，造成两百多名食客腹泻住院，但其中来自中国的食客，不仅没有感到任何不适，还参与了抢救工作，在场的美国记者感慨道：“中国人东亚病夫的时代一去不复返。”…… （转发）",
+        "user id": 2395064247,
+        "tweet id": "3434607531680999",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "在中国已经修炼过了，百毒不侵了",
+            "user id": 2352006647,
+            "user name": "天生就会散步",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2,
+                3,
+                6
+            ],
+            "content": "搞笑新闻？",
+            "user id": 1750587680,
+            "user name": "亲子周报",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "靠，咱食物里就是抗生素，谁敢跟咱叫板",
+            "user id": 2482078141,
+            "user name": "袋袋凌",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "太强了！",
+            "user id": 2063026961,
+            "user name": "都督33号",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                125
+            ],
+            "content": "转发微博",
+            "user id": 1890883171,
+            "user name": "顾真权少爷一世",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "抵抗力来自生活的日积月累，强烈建议美国人民到中国大陆磨砺自己身体的应对能力。",
+            "user id": 2035907974,
+            "user name": "惹花不拈草",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "百毒不侵",
+            "user id": 2194398470,
+            "user name": "-咕叽咕叽-",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                9,
+                13
+            ],
+            "content": "[哈哈][哈哈][哈哈]",
+            "user id": 2034808223,
+            "user name": "清风浮云明月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "太讽刺了囧rz",
+            "user id": 2043833785,
+            "user name": "出出猫熊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                10,
+                11
+            ],
+            "content": "\"百毒教\"蓝教主终于可以含笑九泉了:本教教众遍布中华，杀人于无形的施毒秘技发扬光大，人人施毒，解毒本领炉火纯青。",
+            "user id": 1498007015,
+            "user name": "邓继红",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                12
+            ],
+            "content": "[威武]",
+            "user id": 2034808223,
+            "user name": "清风浮云明月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "[汗]真的假的？！",
+            "user id": 1444678465,
+            "user name": "东方神琦琦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "天朝子民含泪转发……谢主龙恩……@王全慧 @彩云之南山",
+            "user id": 1650617770,
+            "user name": "零点钟咖啡",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 7,
+            "children": [
+                14,
+                15
+            ],
+            "content": "咱们都百毒不侵",
+            "user id": 1686747251,
+            "user name": "网事记者",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "威武",
+            "user id": 1974510815,
+            "user name": "苏9汉烟龙井茶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [
+                16,
+                17,
+                18,
+                22,
+                23,
+                24,
+                26,
+                29,
+                31,
+                32,
+                35,
+                36,
+                38,
+                40,
+                41,
+                43,
+                44,
+                45,
+                46,
+                47,
+                49,
+                50,
+                51,
+                52,
+                55,
+                58,
+                59,
+                61,
+                62,
+                63,
+                68,
+                69,
+                70,
+                74,
+                75,
+                76,
+                79,
+                80,
+                81,
+                83,
+                87,
+                90,
+                91,
+                93,
+                95,
+                99,
+                100,
+                101,
+                103,
+                106,
+                108,
+                116,
+                124,
+                145,
+                149,
+                154,
+                160,
+                182
+            ],
+            "content": "在恶劣的食品安全与生态环境下，中国人基本都被迫提前加速进化了！",
+            "user id": 1221741654,
+            "user name": "赵世龙1967",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "content": "看来地沟油立功了，强健了俺们的体质",
+            "user id": 2407364022,
+            "user name": "燕娃娃归来",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [
+                19
+            ],
+            "content": "",
+            "user id": 1418305004,
+            "user name": "迪迪他爹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 15,
+            "children": [],
+            "content": "[悲催]",
+            "user id": 1046024450,
+            "user name": "镇江国珍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 19,
+            "parent": 17,
+            "children": [],
+            "content": "哦，克拉克，你怎么忘了穿红裤衩了？",
+            "user id": 1712097064,
+            "user name": "冷俊123",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "content": "中国人已经练就了百毒不侵的神功[哈哈]",
+            "user id": 1413199835,
+            "user name": "黑夜明月夜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                34
+            ],
+            "content": "",
+            "user id": 2656169497,
+            "user name": "仙妹妹妹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": 15,
+            "children": [
+                155
+            ],
+            "content": "",
+            "user id": 1412801014,
+            "user name": "二当家79",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 15,
+            "children": [],
+            "content": "欧耶",
+            "user id": 2256914303,
+            "user name": "joycedududu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 24,
+            "parent": 15,
+            "children": [],
+            "content": "有关部门在打一局很大很大的关于统一全球的麻将！",
+            "user id": 1669403587,
+            "user name": "关中的大侠",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "content": "每天一斤奶，强壮中国人",
+            "user id": 2541105857,
+            "user name": "周末多云",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 15,
+            "children": [
+                65
+            ],
+            "content": "",
+            "user id": 1877105773,
+            "user name": "粒粒许许",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈转发",
+            "user id": 2639649953,
+            "user name": "王亦君216",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "content": "走遍全球都不怕",
+            "user id": 1886464772,
+            "user name": "一汽-大众-LC",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": 15,
+            "children": [],
+            "content": "东亚病夫时代一去不复返[晕][晕][晕]",
+            "user id": 1791763625,
+            "user name": "Sandra622",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的？",
+            "user id": 1432224077,
+            "user name": "顽皮老虎",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": 15,
+            "children": [],
+            "content": "[笑哈哈]",
+            "user id": 1407332343,
+            "user name": "任鸟飞飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 32,
+            "parent": 15,
+            "children": [],
+            "content": "哈哈，哭笑不得",
+            "user id": 1277787045,
+            "user name": "豇豆小红",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "content": "[兔子]这盘棋下得太大了",
+            "user id": 1748835503,
+            "user name": "根红苗歪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": 21,
+            "children": [],
+            "content": "[哈哈][哈哈][哈哈][嘻嘻]",
+            "user id": 1445946204,
+            "user name": "了无痕qz",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 35,
+            "parent": 15,
+            "children": [],
+            "content": "黑色幽默",
+            "user id": 2281157525,
+            "user name": "展翅猫猫007",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 36,
+            "parent": 15,
+            "children": [],
+            "content": "真值得骄傲",
+            "user id": 2179128354,
+            "user name": "迅雷掩耳之刚才",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博。",
+            "user id": 2154760883,
+            "user name": "满目青山望不尽",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": 15,
+            "children": [],
+            "content": "",
+            "user id": 1442895604,
+            "user name": "陆奕JELUN",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "content": "国人经己练就百毐不侵的本领，感激食品![耶][good]",
+            "user id": 2466470347,
+            "user name": "品茗人生cdc",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": 15,
+            "children": [
+                77
+            ],
+            "content": "There is few poison a Chinese can't handle.",
+            "user id": 1925508794,
+            "user name": "Patrickmove",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 41,
+            "parent": 15,
+            "children": [
+                54
+            ],
+            "content": "感谢Zf感谢D[哈哈]",
+            "user id": 1213192220,
+            "user name": "乌衣夏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "content": "草，真tmd自豪牙",
+            "user id": 1797871354,
+            "user name": "冷眼围观世界",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": 15,
+            "children": [],
+            "content": "可悲可叹！",
+            "user id": 2128650817,
+            "user name": "-第三只眼-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 44,
+            "parent": 15,
+            "children": [
+                66
+            ],
+            "content": "[哈哈]",
+            "user id": 1867090001,
+            "user name": "奥灶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 45,
+            "parent": 15,
+            "children": [],
+            "content": "[威武]",
+            "user id": 1911812657,
+            "user name": "深山的土人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 46,
+            "parent": 15,
+            "children": [],
+            "content": "哭笑不得啊[委屈]",
+            "user id": 2015424081,
+            "user name": "春江土人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 47,
+            "parent": 15,
+            "children": [],
+            "content": "无语了。",
+            "user id": 1874917781,
+            "user name": "nineteensixteen",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "content": "世界末日来临，世界上一切生物均灭亡，只剩小强和中国人",
+            "user id": 1764416440,
+            "user name": "或重或轻的痛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": 15,
+            "children": [],
+            "content": "国人体内植入了老鼠基因，最有抵抗和适应机能。中国人之伟大，千年之体制，扛到了我们现在的新时代，而且活的更有滋味了。不有老鼠基因，是再难存活下来的。国外有断代，我们千年照旧。",
+            "user id": 1738464557,
+            "user name": "老鬼大哥大",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 50,
+            "parent": 15,
+            "children": [],
+            "content": " 俺们中国人早进化成小强了~~",
+            "user id": 1263597153,
+            "user name": "边走边看2012",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 51,
+            "parent": 15,
+            "children": [],
+            "content": "// @赵世龙1967 :在恶劣的食品安全与生态环境下，中国人基本都被迫提前加速进化了！",
+            "user id": 1707052335,
+            "user name": "小_蚊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 52,
+            "parent": 15,
+            "children": [],
+            "content": "也不看看我们是吃什么长大的。",
+            "user id": 1285716947,
+            "user name": "小意达的葡萄园",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [],
+            "content": "[哈哈][哈哈][哈哈][奥特曼][猪头][酷]我们要不断挑战人类极限！",
+            "user id": 1497452373,
+            "user name": "阳阳的成长围脖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 54,
+            "parent": 41,
+            "children": [],
+            "content": "[哈哈][哈哈][干杯]",
+            "user id": 2034808223,
+            "user name": "清风浮云明月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 55,
+            "parent": 15,
+            "children": [],
+            "content": "坏事变好事?",
+            "user id": 1674440935,
+            "user name": "DamaoWoo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [],
+            "content": "中国人免疫力强，早就具备百毒不侵的功力[哈哈][哈哈][哈哈]",
+            "user id": 1226960695,
+            "user name": "老平平的微博",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "content": "这个提神！[哈哈]",
+            "user id": 2031323705,
+            "user name": "樟小团",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": 15,
+            "children": [
+                104
+            ],
+            "content": "所以我们会成为未来的宇宙战士吗。。。",
+            "user id": 1282837762,
+            "user name": "秋芸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 59,
+            "parent": 15,
+            "children": [],
+            "content": "优越感油然而生",
+            "user id": 1732555741,
+            "user name": "Miserables_Les",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [],
+            "content": "中国人是世界上最牛b的人种！",
+            "user id": 1766205343,
+            "user name": "浮光掠影的影2015",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": 15,
+            "children": [],
+            "content": "[奥特曼][奥特曼][奥特曼]",
+            "user id": 2098998987,
+            "user name": "用力飞能飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 62,
+            "parent": 15,
+            "children": [
+                71
+            ],
+            "content": "基因改变了",
+            "user id": 1736409064,
+            "user name": "外星人鲁凯婕",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 63,
+            "parent": 15,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 1686804842,
+            "user name": "zzg021",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 64,
+            "parent": -1,
+            "children": [],
+            "content": "真的？看来也有好处！",
+            "user id": 2044306317,
+            "user name": "我们要与时俱进",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 65,
+            "parent": 26,
+            "children": [
+                72
+            ],
+            "content": "",
+            "user id": 1541415775,
+            "user name": "蝎子的LP",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 66,
+            "parent": 44,
+            "children": [],
+            "content": "[汗]",
+            "user id": 2253599883,
+            "user name": "麻辣葱油小鸡丝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [],
+            "content": "谁说猪坚强，中国人才坚强！",
+            "user id": 1409922375,
+            "user name": "stephengsh",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 68,
+            "parent": 15,
+            "children": [],
+            "content": "咱真成小强了？",
+            "user id": 2095304533,
+            "user name": "红火的石头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 69,
+            "parent": 15,
+            "children": [],
+            "content": "[挖鼻屎]",
+            "user id": 1821123183,
+            "user name": "生如夏花April",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 70,
+            "parent": 15,
+            "children": [],
+            "content": "// @赵世龙1967: 在恶劣的食品安全与生态环境下，中国人基本都被迫提前加速进化了！",
+            "user id": 1829123437,
+            "user name": "没粮",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 71,
+            "parent": 62,
+            "children": [],
+            "content": "国人都有无比强大的胃，百毒不侵",
+            "user id": 2178488347,
+            "user name": "旎小兔纸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 72,
+            "parent": 65,
+            "children": [],
+            "content": "耐药性。",
+            "user id": 1819114081,
+            "user name": "孟颖Maggie",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 73,
+            "parent": -1,
+            "children": [
+                86
+            ],
+            "content": "转发微博",
+            "user id": 2405033294,
+            "user name": "NoNo普赛克",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 74,
+            "parent": 15,
+            "children": [],
+            "content": "小意思[哈哈]",
+            "user id": 1998380157,
+            "user name": "丁丁2537",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 75,
+            "parent": 15,
+            "children": [],
+            "content": "哈哈！太平军啊！刀枪不入！",
+            "user id": 1736808017,
+            "user name": "iPhone0786",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 76,
+            "parent": 15,
+            "children": [
+                78
+            ],
+            "content": "再过些年我们就连核战也不怕都是超能战士",
+            "user id": 2244534652,
+            "user name": "徐烨-家乡哈尔滨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 77,
+            "parent": 40,
+            "children": [],
+            "content": "抗毒能力就是强[赞]",
+            "user id": 2527468930,
+            "user name": "Jen_He",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 78,
+            "parent": 76,
+            "children": [],
+            "content": "[哈哈][威武][耶]",
+            "user id": 2034808223,
+            "user name": "清风浮云明月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 79,
+            "parent": 15,
+            "children": [],
+            "content": "中国人是吃着添加剂、有毒食品长大的，害怕你餐具不卫生？",
+            "user id": 1692946920,
+            "user name": "yueshenga",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 80,
+            "parent": 15,
+            "children": [],
+            "content": "中国人病菌已深植体内。",
+            "user id": 1707179055,
+            "user name": "任真真",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 81,
+            "parent": 15,
+            "children": [
+                82
+            ],
+            "content": "这就是超强的读碟纠错能力[偷笑]",
+            "user id": 1870659125,
+            "user name": "我家小美人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 82,
+            "parent": 81,
+            "children": [],
+            "content": "哦，明白了！原来这些年出的食品安全问题都为了我们好！为了摆脱东亚病夫的称号！",
+            "user id": 1314245477,
+            "user name": "甜心_小超人",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 83,
+            "parent": 15,
+            "children": [],
+            "content": "新华社这是做正面新闻宣传呐：社会主义民众的身体抗毒能力比资本主义民众有很大先进性。。。。哈哈",
+            "user id": 1653054963,
+            "user name": "梁哥",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 84,
+            "parent": -1,
+            "children": [
+                89
+            ],
+            "content": "有了抗体就平安无事啦[哈哈]",
+            "user id": 1853337505,
+            "user name": "杰森FANG",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 85,
+            "parent": -1,
+            "children": [],
+            "content": "[偷笑]自嘲一下，还参与抢救工作.",
+            "user id": 1620255153,
+            "user name": "赛納兒",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 86,
+            "parent": 73,
+            "children": [],
+            "content": "百毒不侵的国人[good]",
+            "user id": 1775575901,
+            "user name": "苍蝇飞飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 87,
+            "parent": 15,
+            "children": [],
+            "content": "感謝兲巢，中国人东亚病夫的时代一去不复返[赞]",
+            "user id": 2328504357,
+            "user name": "Futharker",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 88,
+            "parent": -1,
+            "children": [],
+            "content": "[哈哈]百毒不侵啊",
+            "user id": 1898662103,
+            "user name": "茜茜三日",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 89,
+            "parent": 84,
+            "children": [],
+            "content": "以毒攻毒",
+            "user id": 1909130632,
+            "user name": "GRACE_WONG佳佳",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 90,
+            "parent": 15,
+            "children": [],
+            "content": ":[哈哈][哈哈][哈哈]",
+            "user id": 1064210031,
+            "user name": "海石---",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 91,
+            "parent": 15,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 2216900634,
+            "user name": "堃倫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 92,
+            "parent": -1,
+            "children": [],
+            "content": "好牛叉啊 我很自豪！",
+            "user id": 1773944975,
+            "user name": "爱看大秦帝国的杨小二",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 93,
+            "parent": 15,
+            "children": [],
+            "content": "谁说达尔文进化论过时了？！",
+            "user id": 1928790062,
+            "user name": "老豆子088",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 94,
+            "parent": -1,
+            "children": [],
+            "content": "天朝威武。",
+            "user id": 1400916830,
+            "user name": "天生喜欢蓝320",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 95,
+            "parent": 15,
+            "children": [
+                96
+            ],
+            "content": "哈哈哈哈",
+            "user id": 2495233873,
+            "user name": "靖宇皇帝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 96,
+            "parent": 95,
+            "children": [],
+            "content": "2012中国人一定会有最多的船票，这么强的免疫力，太适合人类种族延续了。。。",
+            "user id": 2133351751,
+            "user name": "吴伟雄先生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 97,
+            "parent": -1,
+            "children": [],
+            "content": "厉害",
+            "user id": 2265481015,
+            "user name": "TOM金波",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 98,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈",
+            "user id": 2295467512,
+            "user name": "foxhju",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 99,
+            "parent": 15,
+            "children": [],
+            "content": "确实提前进化了，太可怕了",
+            "user id": 1771724927,
+            "user name": "春冬有愛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 100,
+            "parent": 15,
+            "children": [
+                107
+            ],
+            "content": "",
+            "user id": 1489007824,
+            "user name": "冰淇淋味的包子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 101,
+            "parent": 15,
+            "children": [],
+            "content": "自豪感油然而生",
+            "user id": 1606722834,
+            "user name": "翁获丰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 102,
+            "parent": -1,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 2186998657,
+            "user name": "迎雪寒梅2011",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 103,
+            "parent": 15,
+            "children": [
+                121
+            ],
+            "content": "",
+            "user id": 1872317484,
+            "user name": "Dagrrrrr",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 104,
+            "parent": 58,
+            "children": [],
+            "content": "国家良苦用心，我们坚决拥护党的决定",
+            "user id": 1880078737,
+            "user name": "futiworld",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 105,
+            "parent": -1,
+            "children": [
+                132
+            ],
+            "content": "国人如今可都是魔鬼筋肉人！",
+            "user id": 1403810561,
+            "user name": "zy0355",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 106,
+            "parent": 15,
+            "children": [],
+            "content": "深以为然",
+            "user id": 2288217340,
+            "user name": "热血未冷927",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 107,
+            "parent": 100,
+            "children": [],
+            "content": "你们现在才知道什么叫用心良苦了吗",
+            "user id": 1312870590,
+            "user name": "狐狸猫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 108,
+            "parent": 15,
+            "children": [
+                109
+            ],
+            "content": "真的假的？",
+            "user id": 2416637802,
+            "user name": "粤老007",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 109,
+            "parent": 108,
+            "children": [],
+            "content": "真的假的？",
+            "user id": 1960793102,
+            "user name": "金融风月",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 110,
+            "parent": -1,
+            "children": [
+                130
+            ],
+            "content": "转发微博",
+            "user id": 2089573517,
+            "user name": "Wei-DING",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 111,
+            "parent": -1,
+            "children": [],
+            "content": "百毒不侵的中国人",
+            "user id": 2472916471,
+            "user name": "杰麟驿站",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 112,
+            "parent": -1,
+            "children": [
+                117
+            ],
+            "content": "未来生化大战，我朝必胜[笑哈哈]",
+            "user id": 1562793367,
+            "user name": "流氓兔ho",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 113,
+            "parent": -1,
+            "children": [],
+            "content": "就差刀枪不入了。",
+            "user id": 2129756422,
+            "user name": "我爱鲜花玫瑰",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 114,
+            "parent": -1,
+            "children": [
+                127
+            ],
+            "content": "尼玛…无语[怒]",
+            "user id": 1834386250,
+            "user name": "ghana_xu",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 115,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2277550813,
+            "user name": "luyuxia",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 116,
+            "parent": 15,
+            "children": [],
+            "content": "英勇无敌的中国人意气风发走进新时代……",
+            "user id": 1908260020,
+            "user name": "毒龙吐珠",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 117,
+            "parent": 112,
+            "children": [
+                120
+            ],
+            "content": "系囯內食惯啦，小儿科",
+            "user id": 2247680380,
+            "user name": "胡鸡仔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 118,
+            "parent": -1,
+            "children": [
+                119
+            ],
+            "content": "转发微博",
+            "user id": 2127240200,
+            "user name": "锅巴菜饭",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 119,
+            "parent": 118,
+            "children": [],
+            "content": "[偷笑]",
+            "user id": 2001347003,
+            "user name": "浪漫瑶瑶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 120,
+            "parent": 117,
+            "children": [
+                123
+            ],
+            "content": "碎料",
+            "user id": 1772792964,
+            "user name": "kenhin",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 121,
+            "parent": 103,
+            "children": [
+                122,
+                136
+            ],
+            "content": "中国人民从此站起来了",
+            "user id": 1845540111,
+            "user name": "QGoo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 122,
+            "parent": 121,
+            "children": [],
+            "content": "这…真的假的啊…",
+            "user id": 2462722913,
+            "user name": "i瀛宝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 123,
+            "parent": 120,
+            "children": [],
+            "content": "哈哈！我们天天面对地沟油等，我们免疫能力如此强大“[威武]”[挖鼻屎]",
+            "user id": 2035015085,
+            "user name": "侽人魅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 124,
+            "parent": 15,
+            "children": [],
+            "content": "厉害，五毒教",
+            "user id": 1960106267,
+            "user name": "每天5公里",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 125,
+            "parent": 4,
+            "children": [],
+            "content": "中国基因改造工程成功了[耶]",
+            "user id": 2119780377,
+            "user name": "Jin-daxiang",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 126,
+            "parent": -1,
+            "children": [
+                129
+            ],
+            "content": "哈哈哈",
+            "user id": 1801840182,
+            "user name": "我是贝西",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 127,
+            "parent": 114,
+            "children": [
+                128
+            ],
+            "content": "无语啊",
+            "user id": 1041863677,
+            "user name": "忽而今夏天",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 128,
+            "parent": 127,
+            "children": [],
+            "content": "这是去年的新闻，你还转",
+            "user id": 2594392660,
+            "user name": "winter往事随风",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 129,
+            "parent": 126,
+            "children": [],
+            "content": "太讽刺了",
+            "user id": 2097311565,
+            "user name": "myJKY",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 130,
+            "parent": 110,
+            "children": [
+                157
+            ],
+            "content": "",
+            "user id": 2136865142,
+            "user name": "重岩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 131,
+            "parent": -1,
+            "children": [],
+            "content": "我们进化啦！",
+            "user id": 2684391412,
+            "user name": "此木水灵灵2005",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 132,
+            "parent": 105,
+            "children": [
+                133,
+                137,
+                147,
+                156
+            ],
+            "content": "肿么会这样？ [汗]",
+            "user id": 1781431835,
+            "user name": "鸿威的旅程",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 133,
+            "parent": 132,
+            "children": [
+                135
+            ],
+            "content": "国人真是又有爱又心酸呐",
+            "user id": 1882374907,
+            "user name": "想改名又不知道叫什么",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 134,
+            "parent": -1,
+            "children": [],
+            "content": "中国人民百毒不侵~~~[哈哈]",
+            "user id": 1884818415,
+            "user name": "未知绮罗香",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 135,
+            "parent": 133,
+            "children": [
+                153
+            ],
+            "content": "",
+            "user id": 1402158337,
+            "user name": "我的狗叫欧迪",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 136,
+            "parent": 121,
+            "children": [],
+            "content": "百毒不侵[哈哈][哈哈][哈哈]",
+            "user id": 1402879880,
+            "user name": "_瑞敏_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 137,
+            "parent": 132,
+            "children": [
+                139
+            ],
+            "content": "该高兴还是悲哀呢[汗]",
+            "user id": 1415949517,
+            "user name": "thymelvli",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 138,
+            "parent": -1,
+            "children": [
+                140
+            ],
+            "content": "我们地沟油不是白吃的，三聚氰胺也不是白喝的，等的就是这一天[挖鼻屎]",
+            "user id": 1227553810,
+            "user name": "冲动de心",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 139,
+            "parent": 137,
+            "children": [
+                151
+            ],
+            "content": "原来国人现在天天＂自杀＂就是为了丢掉东亚病夫的帽子？[书呆子]",
+            "user id": 2286881035,
+            "user name": "Sunny_one刘",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 140,
+            "parent": 138,
+            "children": [
+                143
+            ],
+            "content": "[泪流满面]",
+            "user id": 1969433662,
+            "user name": "机器口袋",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 141,
+            "parent": -1,
+            "children": [
+                142,
+                144
+            ],
+            "content": "转发微博",
+            "user id": 1400219334,
+            "user name": "老软件工程师",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 142,
+            "parent": 141,
+            "children": [],
+            "content": "从小三鹿奶粉，长大苏丹红加地沟油加牛肉精加。。。等，锻炼出来了",
+            "user id": 2057234671,
+            "user name": "长岛海胆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 143,
+            "parent": 140,
+            "children": [],
+            "content": "超人啊",
+            "user id": 2110413783,
+            "user name": "老冉sisr_BNU",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 144,
+            "parent": 141,
+            "children": [],
+            "content": "感谢地沟油，感谢苏丹红，感谢三聚氰胺，还有感谢皮鞋",
+            "user id": 1652871830,
+            "user name": "三教慧海",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 145,
+            "parent": 15,
+            "children": [
+                146
+            ],
+            "content": "",
+            "user id": 1980481147,
+            "user name": "盘和林",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 146,
+            "parent": 145,
+            "children": [
+                150
+            ],
+            "content": "我们同学20人在美国待半年，几乎没人生病，回到中国后却纷纷大病一场，主要是呼吸道疾病",
+            "user id": 1747922853,
+            "user name": "不代表任何单位",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 147,
+            "parent": 132,
+            "children": [],
+            "content": "悲喜交加！",
+            "user id": 2596916474,
+            "user name": "叶悠悠的晴天",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 148,
+            "parent": -1,
+            "children": [],
+            "content": "牛",
+            "user id": 1891553421,
+            "user name": "赤耳先生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 149,
+            "parent": 15,
+            "children": [],
+            "content": "钢铁般的肠胃",
+            "user id": 1679032962,
+            "user name": "银莲花-ssdk",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 150,
+            "parent": 146,
+            "children": [],
+            "content": "刘主任，这周我回广州，我们聚聚。",
+            "user id": 1980481147,
+            "user name": "盘和林",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 151,
+            "parent": 139,
+            "children": [],
+            "content": "超人胸前的S该换成C",
+            "user id": 1592253102,
+            "user name": "_可以吸的CC_",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 152,
+            "parent": -1,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1919691557,
+            "user name": "lilysm",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 153,
+            "parent": 135,
+            "children": [],
+            "content": "感谢我们伟大的祖国啊[左哼哼]",
+            "user id": 1776051361,
+            "user name": "cc泡沫之夏cc",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 154,
+            "parent": 15,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 1877401265,
+            "user name": "小珍珠pearl2011",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 155,
+            "parent": 22,
+            "children": [],
+            "content": "咱百素毒不侵拉!!!",
+            "user id": 1829107310,
+            "user name": "奇宝娘",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 156,
+            "parent": 132,
+            "children": [],
+            "content": "强大的中国人是适应未来发展的",
+            "user id": 2648876635,
+            "user name": "醍醐要灌顶",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 157,
+            "parent": 130,
+            "children": [],
+            "content": " @Soophiee殿下 @小sheep88 中国人百毒不侵！小sheep你就差羊肉了[嘻嘻]",
+            "user id": 2167563212,
+            "user name": "草泥马牌大哥大",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 158,
+            "parent": -1,
+            "children": [
+                159
+            ],
+            "content": "",
+            "user id": 2515447963,
+            "user name": "刚哥爱微博",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 159,
+            "parent": 158,
+            "children": [],
+            "content": "东亚病夫？那还不是拜你们的鸦片所赐，傻逼才会觉得这是赞国人的",
+            "user id": 2058828810,
+            "user name": "yang咩-咩",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 160,
+            "parent": 15,
+            "children": [
+                161
+            ],
+            "content": "读比情不自禁振臂高呼：祖国万岁！",
+            "user id": 2027551841,
+            "user name": "逐风的浆糊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 161,
+            "parent": 160,
+            "children": [
+                162
+            ],
+            "content": "感动......",
+            "user id": 1876511897,
+            "user name": "P民福利2015",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 162,
+            "parent": 161,
+            "children": [],
+            "content": "长毛们平时太缺乏忧患意识和素质断粮了",
+            "user id": 1496996757,
+            "user name": "vici_vici",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 163,
+            "parent": -1,
+            "children": [],
+            "content": "自豪！",
+            "user id": 1469162020,
+            "user name": "打死我也不火",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 164,
+            "parent": -1,
+            "children": [],
+            "content": "地沟油不是白吃的，三聚青氨不是白喝的，我们已经百毒不侵。牛吧！",
+            "user id": 2124510177,
+            "user name": "益味人生",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 165,
+            "parent": -1,
+            "children": [
+                166,
+                167,
+                168
+            ],
+            "content": "@朱雀cz 一个朋友的老公从北美某国归来，生怕在国内吃得拉肚子。我心想这大哥身材魁梧却如此胆小，他却解释外国人食品太安全了反而抵抗能力差。他说社区有小伙子吃过花生去吻女友，因花生过敏导致女友死亡。估计我就是吃了双皮鞋去亲老婆，都会双双精神振奋！[酷]",
+            "user id": 1400697323,
+            "user name": "应龙何画",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 166,
+            "parent": 165,
+            "children": [],
+            "content": "这洋猴子干脆就说中国人已进化成人得了",
+            "user id": 1884285224,
+            "user name": "水寿_wellppt",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 167,
+            "parent": 165,
+            "children": [],
+            "content": "唉…",
+            "user id": 1405596341,
+            "user name": "crowfei",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 168,
+            "parent": 165,
+            "children": [
+                169,
+                174,
+                176
+            ],
+            "content": "果断转发。中国人东亚病夫的时代一去不复返了！",
+            "user id": 1424876027,
+            "user name": "探长",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 169,
+            "parent": 168,
+            "children": [
+                170,
+                171,
+                172
+            ],
+            "content": "哈哈哈，上下的故事都好搞[偷笑][偷笑][偷笑]",
+            "user id": 2069170731,
+            "user name": "Yan_Zhao丰色",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 170,
+            "parent": 169,
+            "children": [],
+            "content": "\"威武\"!",
+            "user id": 1800093587,
+            "user name": "阳光里的HAN",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 171,
+            "parent": 169,
+            "children": [
+                173
+            ],
+            "content": "[奥特曼]",
+            "user id": 2052623324,
+            "user name": "kkjiejie",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 172,
+            "parent": 169,
+            "children": [],
+            "content": "笑得好无奈",
+            "user id": 1739315117,
+            "user name": "Vi薯",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 173,
+            "parent": 171,
+            "children": [
+                178
+            ],
+            "content": "哈哈笑死我了",
+            "user id": 1825287742,
+            "user name": "雪柜啦啦",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 174,
+            "parent": 168,
+            "children": [
+                175
+            ],
+            "content": "[哈哈]",
+            "user id": 1864920540,
+            "user name": "木独猪猪猪猪",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 175,
+            "parent": 174,
+            "children": [
+                179
+            ],
+            "content": "@LILY爱熙熙",
+            "user id": 1937081887,
+            "user name": "旺财的米粒",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 176,
+            "parent": 168,
+            "children": [
+                177
+            ],
+            "content": "哈哈皮鞋/@探长:果断转发。中国人东亚病夫的时代一去不复返了！",
+            "user id": 1909962691,
+            "user name": "番茄雪梨",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 177,
+            "parent": 176,
+            "children": [],
+            "content": "中国人[威武][威武]",
+            "user id": 1707066873,
+            "user name": "Lilian_莉莉安",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 178,
+            "parent": 173,
+            "children": [
+                180
+            ],
+            "content": "",
+            "user id": 1843736170,
+            "user name": "bT_LJ",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 179,
+            "parent": 175,
+            "children": [
+                181
+            ],
+            "content": "[哈哈]",
+            "user id": 2078029045,
+            "user name": "Minko_Z",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 180,
+            "parent": 178,
+            "children": [],
+            "content": "我们炼就百毒不侵之躯",
+            "user id": 1770719197,
+            "user name": "Clivia-K",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 181,
+            "parent": 179,
+            "children": [],
+            "content": " @旺财的米粒 @朱雀cz 一个朋友的老公从北美某国归来，生怕在国内吃得拉肚子。他解释外国人食品太安全了反而抵抗能力差。他说社区有小伙子吃过花生去吻女友，因花生过敏导致女友死亡。估计我就是吃了双皮鞋去亲老婆，都会双双精神振奋！[酷]",
+            "user id": 1842620953,
+            "user name": "LILY爱熙熙",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 182,
+            "parent": 15,
+            "children": [],
+            "content": "我们国人好生厉害",
+            "user id": 1975018953,
+            "user name": "桥头暮雨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 183,
+            "parent": -1,
+            "children": [],
+            "content": "咳...这算好消息吗",
+            "user id": 1434200333,
+            "user name": "赶鱼",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 184,
+            "parent": -1,
+            "children": [
+                185
+            ],
+            "content": "转发微博。",
+            "user id": 2275392953,
+            "user name": "洋气的后面",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 185,
+            "parent": 184,
+            "children": [
+                186,
+                187,
+                188
+            ],
+            "content": "看来中国的毒奶粉、地沟油等对“提升”中国公民的身体素质确有好处。",
+            "user id": 2642678441,
+            "user name": "蒋儒标",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 186,
+            "parent": 185,
+            "children": [],
+            "content": "又见到处传播的假新闻[衰]",
+            "user id": 2045142137,
+            "user name": "OSSCA张凯盛",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 187,
+            "parent": 185,
+            "children": [],
+            "content": "可能是假新闻，也但愿是假新闻。",
+            "user id": 2642678441,
+            "user name": "蒋儒标",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 188,
+            "parent": 185,
+            "children": [
+                189
+            ],
+            "content": "这才是常态！",
+            "user id": 2642678441,
+            "user name": "蒋儒标",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 189,
+            "parent": 188,
+            "children": [],
+            "content": "我们早练就百毒不侵的绝世武功了[呵呵]",
+            "user id": 2294083444,
+            "user name": "快乐大少爷188",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 190,
+            "parent": -1,
+            "children": [
+                191
+            ],
+            "content": "一个朋友说，她每次回到大陆，要肚泻一个月才能适应。在大陆的我们都要感谢政府：天将降大任于是人也，必先……，曾益其所不能。",
+            "user id": 1735009284,
+            "user name": "吴行妙",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 191,
+            "parent": 190,
+            "children": [],
+            "content": "感谢地沟油，感谢毒牛奶。。。。。。",
+            "user id": 1761062064,
+            "user name": "邱武梁",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 35,
+            "state_1": 16
+        },
+        "2-hop": {
+            "state_0": 14,
+            "state_1": 8
+        },
+        "3-hop": {
+            "state_0": 10,
+            "state_1": 12
+        },
+        "4-hop": {
+            "state_0": 58,
+            "state_1": 11
+        },
+        "5-hop": {
+            "state_0": 14,
+            "state_1": 6
+        },
+        "6-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Update: Reuters reports a witness who says police chased a suspect into Candian parliament in #Ottawa &amp; then heard 30 shots fired inside",
+        "user id": 87416722,
+        "tweet id": "524935758143324160",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak only 30....",
+            "user id": 503507177,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak shouts of \"I'm not your buddy,guy !\" Were heard",
+            "user id": 304339385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak  \nbetter updates here http://t.co/s7O7kPgd5i",
+            "user id": 42719424,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak bit weird  a witness counting the shots and being specific with that number. Most people would be hiding for cover? Hmmmm?",
+            "user id": 483998751,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

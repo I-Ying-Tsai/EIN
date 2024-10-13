@@ -1,0 +1,259 @@
+{
+    "source": {
+        "content": "杭州市视频会议刚结束，今晚开始不能回杭州，已上高速的立马下高速返回，杭州和余杭高速口都已封闭，已返杭州高速口的都劝返返回，不准下高速，请朋友互相转告！！！松阳超话杭州超话  ",
+        "time": "20-2-3 18:05",
+        "user id": "2363138850",
+        "tweet id": "Isvxgv5zu",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                3,
+                5
+            ],
+            "user id": "1797200273",
+            "user name": "guigui730",
+            "content": "造谣要负法律责任哦  博主确定是事实吗？",
+            "time": "20-2-3 19:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 3,
+            "children": [],
+            "user id": "1797200273",
+            "user name": "guigui730",
+            "content": "散播谣言是很爽还是咋地…",
+            "time": "20-2-3 20:03",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "1797200273",
+            "user name": "guigui730",
+            "content": "去看看@浙江新闻频道   你这就是谣言 还在这里传播 想吃牢饭吗",
+            "time": "20-2-3 20:01",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "2363138850",
+            "user name": "松阳归客",
+            "content": "嗯，再晚一步就关了",
+            "time": "20-2-3 19:52",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [],
+            "user id": "1797200273",
+            "user name": "guigui730",
+            "content": "我刚从绍兴开到江干区",
+            "time": "20-2-3 19:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "user id": "2363138850",
+            "user name": "松阳归客",
+            "content": "你可以开到杭州试试",
+            "time": "20-2-3 19:48",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "2457710455",
+            "user name": "JYY半糖",
+            "content": "假的吧",
+            "time": "20-2-3 19:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "2363138850",
+            "user name": "松阳归客",
+            "content": "真的",
+            "time": "20-2-3 19:45",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                11
+            ],
+            "user id": "5462357972",
+            "user name": "小地瓜哇",
+            "content": "湖北温州的不让进杭州了？是不是高速口就劝返？",
+            "time": "20-2-3 19:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "2363138850",
+            "user name": "松阳归客",
+            "content": "好的，你可以去投诉",
+            "time": "20-2-3 19:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [],
+            "user id": "1797200273",
+            "user name": "guigui730",
+            "content": "少造谣",
+            "time": "20-2-3 19:49",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "2363138850",
+            "user name": "松阳归客",
+            "content": "是的，杭州以外户口的进不了杭州",
+            "time": "20-2-3 19:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "2363138850",
+            "user name": "松阳归客",
+            "content": "图片评论 ",
+            "time": "20-2-3 19:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "2759968531",
+            "user name": "金旭根",
+            "content": "造谣的",
+            "time": "20-2-3 19:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "2673090395",
+            "user name": "Boom_hjy",
+            "content": "图片评论 ",
+            "time": "20-2-3 20:02",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "5227858647",
+            "user name": "1008Real",
+            "content": "已举报",
+            "time": "20-2-3 20:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "7225844643",
+            "user name": "星河璀璨6868",
+            "content": "我也！",
+            "time": "20-2-4 00:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "1683992691",
+            "user name": "Violadrey",
+            "content": "真的假的",
+            "time": "20-2-3 19:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

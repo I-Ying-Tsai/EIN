@@ -1,0 +1,173 @@
+{
+    "source": {
+        "content": "寻人启事:13940292999。有线索酬金10万\n帮忙扩散，今天上午一个三岁多小女孩在锦绣花园小区附近被人拐走了，小女孩能说出她爸爸的手机号码 从监控上看是被一个四十多岁男人抱走了现大人都急疯了 有知情者请告之，感谢！看到信息的兄弟姐妹留意一下   宁继春13940292999 微博视频 ",
+        "time": "19-2-10 22:58",
+        "user id": "2113191125",
+        "tweet id": "Hg3ULlLjF",
+        "label": 1,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "2113191125",
+            "user name": "Tequila-1990",
+            "content": "麻烦大家帮忙转发。",
+            "time": "19-2-10 23:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "6980148236",
+            "user name": "-炉钩子",
+            "content": "我很认真的告诉你，这个是假的！",
+            "time": "19-2-11 08:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "5301505086",
+            "user name": "名字要长长长才厉害",
+            "content": "谣言",
+            "time": "19-2-10 23:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "5853916345",
+            "user name": "小乔吃桃_",
+            "content": "这孩子！咋老丢！！一点不省心！ 还有那个四十多岁的那个男的我也想批评他几句奥   这么多年了就不能长点心  一定要在监控下偷小孩？？一定要偷三岁多的？一定要偷能说出他爸电话号码的小孩？  最主要一点奥！！能不能换个小区  锦绣家园孩子多还是咋的？？！",
+            "time": "19-2-10 23:34",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "5034313531",
+            "user name": "大震说",
+            "content": "假的，不要转发，",
+            "time": "19-2-11 00:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "5992421102",
+            "user name": "双鱼座的山杉",
+            "content": "我朋友圈有人发，突发奇想上微博一搜，居然是2015年的谣言",
+            "time": "19-2-10 23:15",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "1889874427",
+            "user name": "小丑同學_ing",
+            "content": "",
+            "time": "19-2-11 00:09",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "3263422050",
+            "user name": "宝宝爱豆汁",
+            "content": "图片评论 ",
+            "time": "19-2-11 03:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1586697225",
+            "user name": "seeyazz",
+            "content": "假的",
+            "time": "19-2-10 23:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "6972692025",
+            "user name": "再抱紧潘叔",
+            "content": "假的，删掉吧，几年前的了",
+            "time": "19-2-10 23:47",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "2827599637",
+            "user name": "54号考生",
+            "content": "警方辟谣3岁女孩锦绣花园被拐 “宁继春”在全国各地丢孩子",
+            "time": "19-2-10 23:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "2827599637",
+            "user name": "54号考生",
+            "content": "点开链接，你会发现这是一条谣言。",
+            "time": "19-2-10 23:03",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

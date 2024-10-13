@@ -1,0 +1,303 @@
+{
+    "source": {
+        "content": ".@flightradar24 altitude &amp; speed chart of #4U9525. Aircraft entered a steep but constant descent. http://t.co/Hl7IVhZCmy",
+        "user id": 58913244,
+        "tweet id": "580326398620934144",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AirlineFlyer @RunwayGirl @flightradar24 And it was really really fast. Doesn't seem to be a controlled descent.",
+            "user id": 15997281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "MORE: altitude &amp; speed chart of #4U9525. Plane was in a steep, constant descent. http://t.co/HqXsTXsr3W via @AirlineFlyer/@flightradar24",
+            "user id": 240279011,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "“@JMichaelsNews:altitude &amp; speed chart of #4U9525. Plane was in steep descent http://t.co/lO3yaPhf1w via @AirlineFlyer/@flightradar24” @necn",
+            "user id": 247323151,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Scary “@AirlineFlyer @flightradar24 altitude &amp; speed chart of #4U9525. Aircraft entered a steep but constant descent. http://t.co/uZxXpq4xYl",
+            "user id": 27589515,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AirlineFlyer @RunwayGirl @flightradar24 looks like a cabin depressurisation and emerg descent below MSA unfortunately!",
+            "user id": 29191525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AirlineFlyer @flightradar24 - not the footprints of  catastrophic failure ?",
+            "user id": 128819708,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@AirlineFlyer @flightradar24 Terminal speed shows no acceleration or deceleration while altitude drops dramatically. Thoughts ?",
+            "user id": 128819708,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                15
+            ],
+            "content": "@Donegal777 Not dramatically - ca. 5,5 m/s @AirlineFlyer",
+            "user id": 11640112,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@AirlineFlyer good graphic",
+            "user id": 20983376,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@zbw_atc that's such an odd drop...",
+            "user id": 58913244,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@AirlineFlyer @flightradar24 according graphics the plane entered a decent after 30 minutes, not 5 minutes",
+            "user id": 352198967,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@cornelio1147 that's what this chart shows",
+            "user id": 58913244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@AirlineFlyer the #A320 must have been gliding ie no engine power. It had a speed of 400kts whilst descending 18,000 ft/ 5 mins ratio 1:10",
+            "user id": 425297281,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@pan_kokkalis Many questions to be answered here. If gliding (no engine power), how did transponder keep transmitting ADS-B. APU? RAT?",
+            "user id": 58913244,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [
+                16
+            ],
+            "content": "@AirlineFlyer Because it has onboard generator (APU?) that can give power to instruments and transponders.",
+            "user id": 425297281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 7,
+            "children": [
+                17
+            ],
+            "content": "@ckwadrat @Donegal777 @AirlineFlyer \nIt's 17 m/s...",
+            "user id": 117746126,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [
+                18
+            ],
+            "content": "@pan_kokkalis We likely would have seen a pause between power loss and APU start up in the ADS-B feed. And if APU on, why no control",
+            "user id": 58913244,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [
+                19
+            ],
+            "content": "@aerotic__de @ckwadrat @AirlineFlyer quick, not catastrophic ?",
+            "user id": 128819708,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [
+                20
+            ],
+            "content": "@AirlineFlyer not sure if A320 has ram air turbine and not use APU.",
+            "user id": 425297281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 19,
+            "parent": 17,
+            "children": [],
+            "content": "@Donegal777 @ckwadrat @AirlineFlyer 6 m/s equals jump from a hight of 2 meters.",
+            "user id": 117746126,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 20,
+            "parent": 18,
+            "children": [
+                21
+            ],
+            "content": "@pan_kokkalis The A320 should have a RAT, but would be used when all else fails",
+            "user id": 58913244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "content": "@AirlineFlyer Maybe all else did fail!",
+            "user id": 425297281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

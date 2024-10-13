@@ -1,0 +1,128 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Gunfire and explosions heard at the warehouse in north-east Paris where a hostage is being held.",
+        "user id": 292777349,
+        "tweet id": "553581612588605440",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed http://t.co/N89zSzVnkW",
+            "user id": 418332255,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@PzFeed Those hostages are going to die :(",
+            "user id": 729193195,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@cutprintcheck @PzFeed gonna die anyway, this actually is the higher chance of survival for the hostage if they can take advantage of the",
+            "user id": 1859273077,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "@cutprintcheck @PzFeed hysteria and escape such as in Sydney for example",
+            "user id": 1859273077,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@PzFeed: BREAKING NEWS: Gunfire and explosions heard at the warehouse in north-east Paris where a hostage is being held.”\n\nOh god",
+            "user id": 2277924686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT @PzFeed: BREAKING NEWS: Gunfire and explosions heard at the warehouse in north-east Paris where a hostage is being held.",
+            "user id": 250393818,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@PzFeed: BREAKING NEWS: Gunfire and explosions heard at the warehouse in north-east Paris where a hostage is being held.” no fucking way :(",
+            "user id": 201478313,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @roballendorf The Malachi Brothers are all done",
+            "user id": 54661105,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "@pshnazz @PzFeed At least one hostage in Sidney was killed by Police cross fire.",
+            "user id": 729193195,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "source": {
+        "content": "At the #Ferguson police dept headquarters https://t.co/jIaKhelaAk",
+        "user id": 14090948,
+        "tweet id": "498303769915191297",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "IM TIRED OF THE NEED FOR THESE PROTESTS \"@AntonioFrench: At the #Ferguson police dept headquarters https://t.co/STn7gPYuom” #MikeBrown",
+            "user id": 287839361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "content": "@AntonioFrench @Blabbeando where is this",
+            "user id": 1355675563,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@teamlgbtbot Missouri http://t.co/wJ4vyiuJ4t",
+            "user id": 14641516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                14
+            ],
+            "content": "@teamlgbtbot @AntonioFrench @Blabbeando in AMERICA",
+            "user id": 386984261,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@teamlgbtbot Ferguson, mo.",
+            "user id": 2353401257,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "“@AntonioFrench: At the #Ferguson police dept headquarters https://t.co/0xF2LvXji5” YAS",
+            "user id": 356614120,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "“@SuperflySista_: “@AntonioFrench: At the #Ferguson police dept headquarters https://t.co/wmpv6fLfWL” YAS” I GOT CHILLS!!!!!! YES OMFG",
+            "user id": 215404049,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench wanna interview for my radio show sir.",
+            "user id": 116219141,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "thats what i'm talking about !\"@AntonioFrench: At the #Ferguson police dept headquarters https://t.co/31E4wqfbbO”",
+            "user id": 911423191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: At the #Ferguson police dept headquarters https://t.co/3vCjQK6WUx” That's what I'm talking about. 👏🙌✊",
+            "user id": 545607985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @Ronc99 Protesting obviously does no good.",
+            "user id": 1911726020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench http://t.co/VjQ2GNAmdI",
+            "user id": 329329813,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Tu",
+            "user id": 1164694218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench don't try to steal a cops gun and you wont get shot... common sense",
+            "user id": 530993509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 3,
+            "children": [],
+            "content": "@rostakela @AntonioFrench @Blabbeando  Just learning of the story. Very tragic.",
+            "user id": 1355675563,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

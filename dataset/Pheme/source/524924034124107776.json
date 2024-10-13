@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Witness says say three or four shots fired at #Ottawa's War Memorial, Soldier wounded, being treated by several paramedics.",
+        "user id": 19038934,
+        "tweet id": "524924034124107776",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Horrible. RT @CBCAlerts Three or four shots fired at #Ottawa's War Memorial, Soldier wounded, being treated by several paramedics.",
+            "user id": 19769774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MrsLoulou just terrible!",
+            "user id": 155295992,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Glad paramedics on the scene. First aid critical! Hope our soldier is okay.",
+            "user id": 2641197996,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts So sad💔 Do we have video surveillance there? If not, then Canada needs to beef up it's surveillance in public places",
+            "user id": 1080892105,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts praying for the soldier and his family.",
+            "user id": 256596656,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @dexybailman Let me guess... It was the Canadian Tea Party.",
+            "user id": 320967163,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: Witness says say three or four shots fired at #Ottawa's War Memorial, Soldier wounded, being treated by paramedics.” @SofiitaVN",
+            "user id": 70043481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: Witness says say three or four shots fired at #Ottawa's War Memorial, Soldier wounded, being treated by paramedics @lineman1960",
+            "user id": 70043481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

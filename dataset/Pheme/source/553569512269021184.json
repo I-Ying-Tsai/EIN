@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Political cartoonists are mourning #CharlieHebdo by retaliating the only way they know how. On pen and paper. http://t.co/TayzuY743E",
+        "user id": 487600344,
+        "tweet id": "553569512269021184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism the pen is mightier then the sword. With Pens we sign these bogus policies, that create these wars",
+            "user id": 462552106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism Charlie Hebdo shooting: Who are the suspects? #JeSuisCharlie http://t.co/rHqCJl5hp6",
+            "user id": 2249449765,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism All cartoons.  All the time.  Until their heads explode.  #CharlieHebdo",
+            "user id": 1231811838,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Bipartisanism Only Muslims kill over a cartoon.",
+            "user id": 19888921,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@Murphy45 @Bipartisanism No. Only extremist idiots kill over a cartoon.",
+            "user id": 18849210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "I particularly like the 3rd one. #PencilSharpener @Bipartisanism",
+            "user id": 38868552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism and with cowardice, they should be drawing Muhammad",
+            "user id": 19355955,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism @cberrl My fav is the 4th one",
+            "user id": 2414913756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

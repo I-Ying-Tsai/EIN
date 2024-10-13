@@ -1,0 +1,302 @@
+{
+    "source": {
+        "content": "请转起来！[闭嘴]",
+        "user id": 1563901390,
+        "tweet id": "3487581708809960",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "[鄙视]",
+            "user id": 1742503492,
+            "user name": "BB小华",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "虽然我吾睇但都要转！转！",
+            "user id": 1989478397,
+            "user name": "丽敏-ME",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                5,
+                9
+            ],
+            "content": "转发微博",
+            "user id": 1730389362,
+            "user name": "Eva刘静",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "转发微博。",
+            "user id": 1791005961,
+            "user name": "IM小辛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "请不要去看这个日本电影！",
+            "user id": 1848022177,
+            "user name": "宝宝喵E",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "果断转",
+            "user id": 2237893222,
+            "user name": "囡囡0111",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "反正我系唔会去睇既啦！！",
+            "user id": 1848562940,
+            "user name": "fanny卉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博。",
+            "user id": 1735310882,
+            "user name": "M1ss_KaRy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "content": "转发微博",
+            "user id": 1751678391,
+            "user name": "ANGELKOKO",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "",
+            "user id": 1787269504,
+            "user name": "小小小小小小小吉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "转起来",
+            "user id": 1146890584,
+            "user name": "samson欧",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "呼吁呼吁！",
+            "user id": 1786151873,
+            "user name": "Eunice-Shum",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "content": "不需要任何言论，不容置疑！系中国人就请转走！[怒][怒]",
+            "user id": 1563901390,
+            "user name": "芭曲-JAY生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "勿忘国耻总得先知道国耻是什么吧我说？！这贴都被人鄙视多久了还有人发有人转？？？！！！",
+            "user id": 1429516560,
+            "user name": "丁大头丁",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [
+                15
+            ],
+            "content": "系统自动转发",
+            "user id": 1753218461,
+            "user name": "龚洁影",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": " @白星_lifely @珠江第一线饮早茶 @关注信宜-飞粤",
+            "user id": 2767206893,
+            "user name": "林林林天祥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 8,
+            "children": [
+                17
+            ],
+            "content": "请动动指公转一下.不转不是中国人",
+            "user id": 2557614873,
+            "user name": "AC-stevenkong",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                19
+            ],
+            "content": "",
+            "user id": 1814322401,
+            "user name": "Daniel-Lueng",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "我绝对不看----",
+            "user id": 2646969801,
+            "user name": "最爱的耀耀宝贝",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 17,
+            "children": [],
+            "content": "",
+            "user id": 2137170371,
+            "user name": "伊莎貝拉啵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1149643692,
+            "user name": "秋水_zhong",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1738796001,
+            "user name": "满月蕾",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "支持··这个可以有",
+            "user id": 1777000431,
+            "user name": "钟思的思是思念的思",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

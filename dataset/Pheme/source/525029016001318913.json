@@ -1,0 +1,761 @@
+{
+    "source": {
+        "content": "CTV News has confirmed the name Canadian authorities provided to U.S. authorities is Michael Zehaf-Bibeau. #OttawaShooting",
+        "user id": 203123011,
+        "tweet id": "525029016001318913",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@CTVNews here's a picture of him found on an ISIS media http://t.co/lzlf4MhyuG",
+            "user id": 2453850531,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@JWadeMoses @daryldavis41 @CTVNews  Daryl, Did they get him ?",
+            "user id": 15681714,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@JWadeMoses @CTVNews \nCBS &amp; Dailymail conf his name.",
+            "user id": 1048468734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@CTVNews Anyone who is suspected of ties with ISIS should be deported. Stop the political correctness!! Enough is enough!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                10
+            ],
+            "content": "@cdnmickeyfan @CTVNews How can you deport them when they ARE  canadian??? Deport them where?",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@cdnmickeyfan @CTVNews I think you are implying that this person is of Arabic background.. That's kinda prejudice don't u think?",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @garretmeikle Michael Zehaf-Bibeau's name is Ukranian-French, not middle-eastern. Bibeau is a French surname.",
+            "user id": 21850237,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @garretmeikle Jonathan, that photo is fake, put up be trolls and fearmongers. NO photo has been released by police yet. Get a clue!",
+            "user id": 21850237,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [
+                12
+            ],
+            "content": "@Slater363 @daryldavis41 @CTVNews He was killed at the Parliament.",
+            "user id": 2453850531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@Slater363 @JWadeMoses @CTVNews Yes he was shot dead...",
+            "user id": 28786871,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [
+                14,
+                15
+            ],
+            "content": "@yensidltaw @CTVNews They're not Canadians who were born here. They do not deserve to be Canadian. Back where they/their family came from.",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 5,
+            "children": [
+                16
+            ],
+            "content": "@TheBeast_175 @CTVNews Nope, not prejudiced just a fact. Sorry if that FACT bothers you!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [],
+            "content": "@JWadeMoses @daryldavis41 @CTVNews  Thank you for the info !",
+            "user id": 15681714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 9,
+            "children": [
+                17
+            ],
+            "content": "@daryldavis41 @JWadeMoses @CTVNews  Good ! Do they know if he acted alone ?",
+            "user id": 15681714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [
+                18,
+                19
+            ],
+            "content": "@cdnmickeyfan @CTVNews Actually, you are wrong. They ARE born here. And they ARE bred here. So they ARE canadian just like you and me!",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 10,
+            "children": [
+                20
+            ],
+            "content": "@cdnmickeyfan @CTVNews + even if they were not born here, they hold a cdn citizenship so they're canadian. There's not 2 class of citizens.",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 11,
+            "children": [
+                21
+            ],
+            "content": "@cdnmickeyfan nope doesn't bother me any. Just wanted to confirm your ignorance, and I did. Thanks!",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 13,
+            "children": [
+                22
+            ],
+            "content": "@Slater363 @JWadeMoses @CTVNews not sure.....still fluid situation",
+            "user id": 28786871,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 18,
+            "parent": 14,
+            "children": [
+                23,
+                24
+            ],
+            "content": "@yensidltaw @CTVNews Nope. They don't deserve that right. I can't believe you stand behind these people. Are you for real??  Very sad!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 19,
+            "parent": 14,
+            "children": [
+                25
+            ],
+            "content": "@yensidltaw @CTVNews Did that soldier deserve to die!!?? Whose rights are you for?? Hope your friends and family know where you stand.",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 20,
+            "parent": 15,
+            "children": [
+                26
+            ],
+            "content": "@yensidltaw @CTVNews who cares what they hold. They don't deserve to hold it and should be stripped of it. WOW",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 21,
+            "parent": 16,
+            "children": [
+                27
+            ],
+            "content": "@TheBeast_175 Glad you think my loyalty to my country and peaceful citizens is ignorance. You're a loser!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 22,
+            "parent": 17,
+            "children": [],
+            "content": "@daryldavis41 @JWadeMoses @CTVNews  I guess at this point that makes sense. Thank you for the info, I appreciate it.",
+            "user id": 15681714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 23,
+            "parent": 18,
+            "children": [
+                28
+            ],
+            "content": "@cdnmickeyfan @CTVNews I don't stand behind them, but i don't believe in 2 types of citizens. if you are cdn you are cdn.",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 24,
+            "parent": 18,
+            "children": [
+                29
+            ],
+            "content": "@cdnmickeyfan @CTVNews you will face they canadian law like any citizen if you commit a crime period",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 25,
+            "parent": 19,
+            "children": [
+                30
+            ],
+            "content": "@cdnmickeyfan @CTVNews Of course that soldier did not deserve to die. They same way someone killed in a robbery does not deserve to die.",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 26,
+            "parent": 20,
+            "children": [
+                31
+            ],
+            "content": "@cdnmickeyfan @CTVNews I disagree on this. So when You commit a crime, should i strip you of your citizenship?",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 27,
+            "parent": 21,
+            "children": [
+                32
+            ],
+            "content": "@cdnmickeyfan he was a Canadian citizen dumbshit. What's your definition of being Canadian???",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 28,
+            "parent": 23,
+            "children": [],
+            "content": "@yensidltaw @CTVNews Sorry. Not if you're a terrorist!!! Unbelievable!!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 29,
+            "parent": 24,
+            "children": [],
+            "content": "@yensidltaw @CTVNews That's a joke!!!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 30,
+            "parent": 25,
+            "children": [
+                33
+            ],
+            "content": "@yensidltaw @CTVNews Not the same thing at all. You're quite ignorant!!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 31,
+            "parent": 26,
+            "children": [
+                34
+            ],
+            "content": "@yensidltaw @CTVNews You are so ridiculous. Just listen to yourself!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 32,
+            "parent": 27,
+            "children": [
+                35,
+                36,
+                37
+            ],
+            "content": "@TheBeast_175 Not being a terrorist you dumb fuck!!! Glad you stand behind these people!! What about the soldier that died? Is that a joke?",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [],
+            "content": "@cdnmickeyfan @CTVNews Sure, of course i'm ignorant. The fact is there're laws, u commit a crime, u are punished. not striped of ur ctzship",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 34,
+            "parent": 31,
+            "children": [
+                38
+            ],
+            "content": "@cdnmickeyfan @CTVNews Me being ridiculous is your opinion. I just don't agree with your opinion. A candian is Canadian not matter what.",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 35,
+            "parent": 32,
+            "children": [],
+            "content": "@cdnmickeyfan wow u seriously need to learn to read and stop jumping topics. I grieve for the fallen solider and his family, but your poor..",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 36,
+            "parent": 32,
+            "children": [],
+            "content": "@cdnmickeyfan choice of words like \"deport them\" is the issue here. The gunman was a Canadian, how do you deport someone who is from here??",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 37,
+            "parent": 32,
+            "children": [
+                39
+            ],
+            "content": "@cdnmickeyfan oh I get it your definition of being Canadian is one that doesn't include people of mid-east descent #thatsprejudice",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 38,
+            "parent": 34,
+            "children": [
+                40
+            ],
+            "content": "@yensidltaw @CTVNews And that's your bleeding heart opinion. Good bye!!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 39,
+            "parent": 37,
+            "children": [
+                41,
+                42
+            ],
+            "content": "@TheBeast_175 @cdnmickeyfan I sincerely hope that is NOT  his definition of being Canadian.",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 40,
+            "parent": 38,
+            "children": [
+                43
+            ],
+            "content": "@cdnmickeyfan @CTVNews bye",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 41,
+            "parent": 39,
+            "children": [
+                44
+            ],
+            "content": "@yensidltaw @cdnmickeyfan something tells me he's an idiot and that something are his tweets lol",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 42,
+            "parent": 39,
+            "children": [
+                45,
+                46,
+                47
+            ],
+            "content": "@yensidltaw @TheBeast_175 My definition of being Canadian is to love this country and it's citizens. Very sad yours is NOT!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 43,
+            "parent": 40,
+            "children": [
+                48,
+                49,
+                50
+            ],
+            "content": "@yensidltaw @cdnmickeyfan judging from his responses, i think he has a hard time comprehending what he reads. Forgive him.",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 44,
+            "parent": 41,
+            "children": [
+                51
+            ],
+            "content": "@TheBeast_175  oh and you definitely aren't a \"good dude\".",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 45,
+            "parent": 42,
+            "children": [],
+            "content": "@cdnmickeyfan @yensidltaw lol who taught you English in school?? They need to be fired. One of the dumbest ppl I've seen on twitter hahaha",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 46,
+            "parent": 42,
+            "children": [],
+            "content": "@cdnmickeyfan @TheBeast_175 Sorry just saw this\nWhat u just defined is being patriotic. Which is different from citizenship (at least to me)",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 47,
+            "parent": 42,
+            "children": [],
+            "content": "@cdnmickeyfan To be clear I love my Country &amp; the people who fight for it\nI'll not condone prejudice nor the notion of 2nd grade citizens",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 48,
+            "parent": 43,
+            "children": [
+                52
+            ],
+            "content": "@TheBeast_175 @cdnmickeyfan I seriously don't get that shortcut.  I say he can't deport them and all of a sudden I'm a behind criminals...",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 49,
+            "parent": 43,
+            "children": [],
+            "content": "@TheBeast_175 @yensidltaw First of all you idiot I'm a female. Second maybe you will read yours and ask yourself how Canadian you really are",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 50,
+            "parent": 43,
+            "children": [],
+            "content": "@TheBeast_175 @yensidltaw You're an ignorant asshole. I have no problem with comprehension!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 51,
+            "parent": 44,
+            "children": [],
+            "content": "@cdnmickeyfan I think you are slightly demented, just slightly. You hop topics faster than you hop dicks. So have a bad day and FUCK YOU",
+            "user id": 531775406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 52,
+            "parent": 48,
+            "children": [
+                53,
+                54
+            ],
+            "content": "@yensidltaw @TheBeast_175 Robbing a bank and being a terrorist are two totally separate things.",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 53,
+            "parent": 52,
+            "children": [],
+            "content": "@cdnmickeyfan @TheBeast_175 Killing someone no matter ur intentions behind the killing is the same to me.  U commit a crime, u face the law.",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 14
+        },
+        {
+            "comment id": 54,
+            "parent": 52,
+            "children": [],
+            "content": "@cdnmickeyfan @TheBeast_175 You are not stripped of your citizenship in either cases.",
+            "user id": 2441072361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 14
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "5-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "7-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "9-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "11-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "12-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "13-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "14-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "What we know so far about the #CharlieHebdo attack and the double hostage-takings in France http://t.co/LBvRssNtSm http://t.co/ElujGekOkC",
+        "user id": 50348344,
+        "tweet id": "553575803733426176",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsGraphics @BBCNews Eiffel Tower In Paris Wallpapers\n\nhttp://t.co/ml5NeBIb1d",
+            "user id": 1667791363,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "“@BBCNewsGraphics: What we know so far about the #CharlieHebdo attack and the double hostage-takings in France http://t.co/gP6SpgI4l1”",
+            "user id": 1030435626,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@vrin11 @BBCNewsGraphics please dont diffuse incorrect information..",
+            "user id": 469360443,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@vrin11 @BBCNewsGraphics the \"5.\" is not concerned by the same people.",
+            "user id": 469360443,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsGraphics That you seriously milking this one to it's bones",
+            "user id": 2915138085,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsGraphics @BBCWorld http://t.co/obI16loOyc",
+            "user id": 2891832976,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsGraphics http://t.co/ilsRarZOUi",
+            "user id": 2814170438,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsGraphics @BBCWorld sad incidence but strange when the jews killing the palestinians on daily basis why not highlighted them?",
+            "user id": 1400619084,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsGraphics @BBCWorld The end of Islam in in Europe is near.",
+            "user id": 1498709924,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsGraphics Added your tweet to my @RebelMouse http://t.co/WHsm4drmbo",
+            "user id": 118737912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING Germanwings says 144 passengers and 6 crew on crashed plane http://t.co/wFg8KTSve2 http://t.co/qTYmopB5aj",
+        "user id": 2280470022,
+        "tweet id": "580347360959717376",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@airlivenet: BREAKING Germanwings says 144 passengers and 6 crew on crashed plane http://t.co/IwREl0uMdh http://t.co/KiP2LazOJQ” So sad🙏😔",
+            "user id": 63512083,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @DaoodButt -Rest In Peace",
+            "user id": 244436308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

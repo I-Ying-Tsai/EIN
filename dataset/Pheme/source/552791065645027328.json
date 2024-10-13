@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "LIVE - 11 dead in shooting at HQ of satirical weekly @Charlie_Hebdo_ in Paris (police source)  https://t.co/4yt6nafpIg #CharlieHebdo",
+        "user id": 1994321,
+        "tweet id": "552791065645027328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @Charlie_Hebdo_ Fucking jihadist!",
+            "user id": 2209486785,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @IndyMatters @Charlie_Hebdo_ if this is over the cartoons lets all retweet the hell out of them show them we cant be silenced",
+            "user id": 2939440823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @Charlie_Hebdo_ But you have a different program on. Maybe wrong link?",
+            "user id": 187109275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Watch LIVE @FRANCE24 - 11 dead in shooting at HQ of satirical weekly @Charlie_Hebdo_ in Paris https://t.co/2QFjOCQ1ZK #CharlieHebdo",
+            "user id": 187109275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "Live on @YouTube: @FRANCE24 11 dead in shooting at HQ of satirical weekly @Charlie_Hebdo_ in Paris https://t.co/w9Z5BM8sCS #CharlieHebdo",
+            "user id": 17316885,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@DavidClinchNews @wblau @YouTube @FRANCE24 @Charlie_Hebdo_ \"Live Streaming ist wegen Rechteproblemen in Deutschland leider nicht möglich.\"",
+            "user id": 58422829,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "An important time to watch @FRANCE24 streaming live on @YouTube - https://t.co/rFogEvMxu1 #CharlieHebdo",
+            "user id": 160547588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @Charlie_Hebdo_ not a surprise when we take a look at the trend of the jihadists going to or coming from Syria and Iraq...",
+            "user id": 87704545,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

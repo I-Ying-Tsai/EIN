@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "UPDATE: Hostages fleeing #Sydney cafe held by Iranian gunman as explosions, gunshots are heard: http://t.co/WrPVZSJHlX",
+        "user id": 1367531,
+        "tweet id": "544512910538838016",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Hopefully they turned him into swiss cheese.",
+            "user id": 2731852156,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@FoxNews: Hostages fleeing #Sydney cafe held by Iranian gunman as explosions, gunshots are heard: http://t.co/NSv8EBl6AC” #TurningPoint",
+            "user id": 566973108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@anjalisidebar is it safe anywhere?",
+            "user id": 1348029342,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Looks like it's over.",
+            "user id": 1551514550,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews I hope the customers get free chocolate for life because of this spineless thugs actions.",
+            "user id": 472083714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews - Just think if they allowed their people to carry guns. He would have been dead 5 minutes after taking hostages.  #GunsSaveLives",
+            "user id": 234814707,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Let's Go #Aussies! Send that dude to #HELL",
+            "user id": 2691032407,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews any update on PA shooting?",
+            "user id": 2922814893,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews  Was he saying \"hands up don't shoot\"? Police overreaction? People are glad the police are there when they are in trouble.",
+            "user id": 1610215518,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews I hope they kill him",
+            "user id": 2895624665,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews If only we could have got a sniper rifle aimed on his head idiots just don't know how to make things much better.",
+            "user id": 179579790,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews religion of peace.",
+            "user id": 431282205,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews  More work place violence!",
+            "user id": 1498965000,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 2,
+            "children": [],
+            "content": "@Bernhardtbeach doesn't seem like it. But people are resilient &amp; again will get through this. #Sydneyseige",
+            "user id": 566973108,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "#sydneysiege #sydneycafesiege our thoughts and prayers r w all Australians tonight. America will NEVER forget that u stood w us after 9/11",
+        "user id": 28096105,
+        "tweet id": "544292798887784449",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Montel_Williams TY Montel i may live here now but my heart and soul will always belong to Australia.",
+            "user id": 722653,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Montel_Williams Unfortunately the O in the WH might.",
+            "user id": 2239722660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "\"@Montel_Williams:  # our thoughts and prayers r w all Australians tonight. America will NEVER forget that u stood w us after 9/11\"",
+            "user id": 1138527853,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Montel_Williams I can verify that.  Trained and,served with many an aussie.  Royal gurkhas(sp?) too.",
+            "user id": 950736588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Montel_Williams @johnmknox Seems 2 me muslim #isis has such a hateful jel of the western world-like it's our fault they haven't moved on-NO",
+            "user id": 351195189,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@Montel_Williams Thank you, Australia will always stand with our great friends America.",
+            "user id": 2857657243,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@Hist73 @Montel_Williams is it ISIS that has taken these innocent victim's hostage?",
+            "user id": 1715933432,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@TrishDawnLove @Montel_Williams Authorities are not confirming yet, but Islamic flags have been seen in the windows of the Cafe.",
+            "user id": 2857657243,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@Hist73 @Montel_Williams 😢 God please no!",
+            "user id": 1715933432,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "Shocked &amp; appalled by senseless attack at 'Charlie Hebdo' - London stands with Paris &amp; the people of France against this horrific scourge",
+        "user id": 14700117,
+        "tweet id": "552797828977029120",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon Merci Monsieur Johnson",
+            "user id": 223382695,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon Wild West Politics: Western Europe is suffering from its internal contradictions; welcome to tribal politics of the future.",
+            "user id": 25472797,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon condemn islamic doctrine then. Be honest and say Mohamed did terror as a matter of course. http://t.co/kEMTaIYCFi",
+            "user id": 2484423203,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon scourge of islam?",
+            "user id": 243376460,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon @plbrocks Stop your crocodile tears, Boris Johnson, and stop schmusing the muslims of the UK. Protect YOUR OWN PEOPLE.",
+            "user id": 225970425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon Boris you have been attacking us the poor ppl for years,you dont seem very worried about that do u",
+            "user id": 884724864,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon Boris stop representing the interest of the rich for once",
+            "user id": 884724864,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@MayorofLondon @LondonHistorian Hardly senseless. They went for #CharlieHebdo for a reason. Horrific, yes.",
+            "user id": 816398888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                14
+            ],
+            "content": "@londononthemap @MayorofLondon Indeed, but I wished not to edit Boris: I may not RT him ever again, who knows.",
+            "user id": 182942957,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon  condemned who ever did it!",
+            "user id": 253550874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon @frasermatthew Thanks French will Resist #FRANCE #FREEDOM",
+            "user id": 493524550,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon will you be at the vigil?",
+            "user id": 18727283,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon @FranceintheUK \nMore garbage from Johnson, it was not anyway senseless if it was carried out by Islamists.",
+            "user id": 48401114,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@MayorofLondon @margatelady should have said horrific Islamic terrorist/terrorism.",
+            "user id": 324908191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 8,
+            "children": [],
+            "content": "@LondonHistorian @MayorofLondon Oh I'm not blaming you but I am tired of people (politicians) calling this sort of thing senseless.",
+            "user id": 816398888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

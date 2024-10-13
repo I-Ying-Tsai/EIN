@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "DEVELOPING: Pilot locked out of cockpit in @Germanwings Alps crash: report. http://t.co/CcqpToOQTn http://t.co/XlNXG8Rz3v",
+        "user id": 9763482,
+        "tweet id": "580883727624065024",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NYDailyNews @germanwings WTF?",
+            "user id": 365052236,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NYDailyNews @germanwings told you.  Terrorism",
+            "user id": 93428407,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Oops RT @NYDailyNews DEVELOPING Pilot locked out of cockpit in @Germanwings Alps crash report. http://t.co/OXpY9IgLaD http://t.co/lwkG5hWXUi",
+            "user id": 17911609,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NYDailyNews @germanwings is it true that the crush was due to a terrorist related incident?",
+            "user id": 2453668783,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NYDailyNews @germanwings could it be possible that instead of a decline by plane it was an incline in topography?",
+            "user id": 220445035,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@NYDailyNews @maggiebeauchamp @germanwings Name the pilots. Therein may lie a clue.",
+            "user id": 1599761660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@Snigglewhip @NYDailyNews @germanwings Yes, all of this is very shocking! 150 wonderful people killed! Most students and working people",
+            "user id": 372875229,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "不求，朋友成群，但求知己一人；不求，财富无数，但求够花够用；不求，万人怜惜，但求一人的懂得；不求，房子多大，但求一家温暖；不求，车子豪华，但求一生平安；不求，衣着华丽，但求，穿着合体；不求才高八斗，但求思想丰富；不求地位显赫，但求工作顺心；不求，人生辉煌，但求一生无悔。",
+        "user id": 3428827754,
+        "tweet id": "3911617139865476",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@川医大2014级中西医第4团支部 @川医大中西医2014级团学会 @共青团四川医科大学委员会微博 @川医大中西医团学会 ",
+            "user id": 5370271868,
+            "user name": "恩A磊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "很多人一辈子的追求，但没有几人能求到",
+            "user id": 3182916225,
+            "user name": "梦梦3182916225",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@咚咚咚的的的 ",
+            "user id": 5626060556,
+            "user name": "你好魏佳楠",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "喜欢图",
+            "user id": 3261909105,
+            "user name": "宝宝叫咔咔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "经典",
+            "user id": 5743985827,
+            "user name": "生活阳光201510",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "我会是这个幸运儿吗……",
+            "user id": 3933725614,
+            "user name": "春意盎然金牛座",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[微笑]",
+            "user id": 5508018189,
+            "user name": "雨落曦晨润汝生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "[心]@Ha--花水木 ",
+            "user id": 2574868795,
+            "user name": "刘小橙的简单生活_869",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "转发微博",
+            "user id": 3898701011,
+            "user name": "梦荨千茴",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "好美。我是指图片。",
+            "user id": 1782727147,
+            "user name": "瞳夂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "干了这碗鸡汤",
+            "user id": 3874031772,
+            "user name": "一世纷扰任逍遥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "夕阳下的美",
+            "user id": 5310572966,
+            "user name": "郑含松",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

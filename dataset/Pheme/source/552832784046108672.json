@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "If Hindus were not tolerant, this would have been the fate of Hirani &amp; Aamir. #CharlieHebdo\n#ParisShooting http://t.co/tIF56s3Pho",
+        "user id": 949254890,
+        "tweet id": "552832784046108672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@iSupportBJP @Narendramodi_G bilkul sahi kaha \nJis thali me khate ha usi me ched karte ha \nOr jo thoda virodh hua b usme media ne roti seki",
+            "user id": 2956313503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@iSupportBJP @Narendramodi_G shame on you.....",
+            "user id": 100132150,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@iSupportBJP @TejasviHindu yes @taslimanasreen has already tweeted abt dis \n\nPak me agar aisa hota to Aamir khan ka b vajood nahi rehta",
+            "user id": 594284261,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@iSupportBJP @TigerNaMo and MF hussain",
+            "user id": 84113812,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@sritrader @iSupportBJP @TigerNaMo oh yes MF Husain that b*******",
+            "user id": 2346674622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@iSupportBJP @TigerNaMo True, Hindus n Christians are more liberal n tolerant, these low brain Muslims don't even understand a joke",
+            "user id": 2346674622,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@iSupportBJP @Indiaspeaks2014 Not tolerant. say If Hindus were not  timid.......",
+            "user id": 994632128,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@iSupportBJP @TigerNaMo India with majority Hindu population has largest number of mosques in world.... Extremists Hindus we are alas!..",
+            "user id": 545738541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@iSupportBJP  Indians in general and Hindus in particular are too tolerant. The time has come to lower the tolerance threshold.",
+            "user id": 2605446289,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

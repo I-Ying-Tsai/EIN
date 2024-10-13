@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "NSW Police: \"Police urge the media to be responsible in their reporting. Speculation can cause unnecessary alarm.\" #SydneySiege",
+        "user id": 21548431,
+        "tweet id": "544295960449265664",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@_AdamTodd: NSW Police: \"Police urge the media to be responsible in their reporting. Speculation can cause unnecessary alarm.” @cokeefe9",
+            "user id": 434542305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@_AdamTodd @theprojecttv And stop broadcasting police movements live!",
+            "user id": 190521289,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@_AdamTodd @JohnMcPhilbin the @nswpolice should also be giving truthful accounts.Not always the case",
+            "user id": 379246522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

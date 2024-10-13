@@ -1,0 +1,101 @@
+{
+    "source": {
+        "content": "Forget truth, today even satire is unacceptable.\n#CharlieHebdo",
+        "user id": 50306637,
+        "tweet id": "552803413583360001",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@gchikermane @NMenonRao तो सत्यमेव जयते का क्या होगा ..झूठमेव जयते ,,बेशर्ममेव जयते",
+            "user id": 210348129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@gchikermane u r right; but racists like u hv no place to speak; MUMBAI not racist colonial B-word;wonder if @NickKristof shares yr racism",
+            "user id": 28593036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@gchikermane  after 67 yrs Brit-Indians remain sick &amp; racist against their own people - shame on u &amp; on @NickKristof for retweeting yr twits",
+            "user id": 28593036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@gchikermane @janlokpal the peaceful religion.",
+            "user id": 75489265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@gchikermane @Robert2909 yes. now governments not only can't protect citizens, they put them at risk, because they're in denial of problem.",
+            "user id": 286801248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@bob682 @gchikermane \nThey just don't understand the problem- it's too complicated for them and they don't dare ask for help in solving that",
+            "user id": 256471324,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@gchikermane The first such attack in India, in my memory, is the one on Deccan Herald about 15-20 years (cont) http://t.co/x6Nvv4sEHT",
+            "user id": 250784913,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

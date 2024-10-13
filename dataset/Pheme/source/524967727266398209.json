@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Ottawa hospital says it's treating three patients, two in stable condition, after shooting incident. http://t.co/1cKIHwuCzl",
+        "user id": 1652541,
+        "tweet id": "524967727266398209",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@Reuters: #Ottawa hosp says it's treating 3patients, 2in stable condition, after shooting incident\nhttp://t.co/y86Y50JoNS",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters هههههه الوليد بن طلال متابع هالحساب ليش ؟ @Question_arab",
+            "user id": 2820517345,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters قليل من يستحق المتابعه مثل هالحساب - @Question_arab",
+            "user id": 1247654684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters",
+            "user id": 16662272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "'Stand easy, brother': Soldier killed in Ottawa identified as Cpl. Nathan Frank Cirillo http://t.co/y43xMQlWMr http://t.co/dIdgjptqUb",
+        "user id": 203123011,
+        "tweet id": "525040545870385153",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews rip brave soldier...",
+            "user id": 30028642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews This is so so sad....",
+            "user id": 2566265229,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews #RIP Soldier.😣",
+            "user id": 493487022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @CTVAtlantic  thank you for not showing the footage of them working on him over and over other outlets were NOT as classy #respect",
+            "user id": 71160274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews thank u Cpl. Cirillo for ur service may u rest in peace.",
+            "user id": 240468757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @CTVAtlantic condolences to family, friends, community and Country.",
+            "user id": 2653536275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews Remember this Face. This was the Face of Freedom..... :(",
+            "user id": 29750634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @CTVMercedes RIP soldier. Our nation's heart aches this evening.",
+            "user id": 272185225,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews TY for a face to call a hero, let's not even publish the shooters name so we never remember his poor choices, just this man!!",
+            "user id": 515516074,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews rest in peace brother",
+            "user id": 27442711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews my condolences to the family",
+            "user id": 2468044729,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "@CTVNews @angiemoshonas How sad.",
+            "user id": 145855451,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@SamanthaJaneS @CTVNews terrible 😪",
+            "user id": 1880980032,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "content": "@CTVNews if this was ISIS , I hope Canada declares war , walking into our capital is not tolerable .",
+            "user id": 303421529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@CTVNews canadians are nice , but this boils my blood . Let's protect us Canadians .",
+            "user id": 303421529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews R.I.P.",
+            "user id": 1915178569,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 14,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

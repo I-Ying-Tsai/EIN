@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Stay Strong Canada.  #ottawashooting http://t.co/7gVWfXh0AC",
+        "user id": 2518331167,
+        "tweet id": "524966565788520448",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ONTSpecialNeeds @arishOKhappy что случилось?",
+            "user id": 1524804000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@_chubby_bunny  не знаю, пишут что стрельба",
+            "user id": 880372986,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@ONTSpecialNeeds: Stay Strong Canada.  #ottawashooting http://t.co/unce3jhghW”",
+            "user id": 562264738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ONTSpecialNeeds @TeddyUKIPClark CANADA kick all of them out rids your country of the lot you are not tied to the EU or be like the UK",
+            "user id": 2821421962,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ONTSpecialNeeds @BigDave74Tex stay strong against barbarism and terror",
+            "user id": 2428107624,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@ONTSpecialNeeds: Stay Strong Canada.  #ottawashooting http://t.co/StzystZeXx” We are with you 100%",
+            "user id": 91058396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ONTSpecialNeeds @Cats_lmbo \nAlways and forever☝❕",
+            "user id": 1872488730,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@arishOKhappy Оу... Ну, спасибо, теперь я хоть что-то знаю",
+            "user id": 1524804000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

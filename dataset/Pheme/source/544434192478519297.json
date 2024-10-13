@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "A female hostage stands by the front entrance of the cafe as she turns the lights off in Sydney. #sydneysiege http://t.co/qNfCMv9yZt",
+        "user id": 55186601,
+        "tweet id": "544434192478519297",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NST_Online the police have asked the media not to show this photo or the photos of hostages #shameonyou",
+            "user id": 29981164,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NST_Online Dear God.. plz help and keep them safe.. #PrayForSydney #PrayForAustralia xoxo from Malaysia",
+            "user id": 145729940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NST_Online disgusting that you would go against the police wishes and show this image online",
+            "user id": 94205731,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NST_Online what has DAP @cmlimguaneng got to say for this?",
+            "user id": 31146305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "Via \"@NST_Online: A hostage stands by the entrance of the cafe as she turns the lights off in Sydney. #sydneysiege http://t.co/aManzYtVnc\"",
+            "user id": 2601118704,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@DAJSamarasinghe @NST_Online",
+            "user id": 26187263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

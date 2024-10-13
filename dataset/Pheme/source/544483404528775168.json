@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Hostage situation ongoing in Sydney business district.\n\nUPDATES: http://t.co/PD7pVfU9pQ\nLIVE: http://t.co/j1ljDbazOw http://t.co/Q3ECKnYfPV",
+        "user id": 28785486,
+        "tweet id": "544483404528775168",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Will Abbot shirtfront terrorist?",
+            "user id": 267906861,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Whoever this guy is, I feel like using all the damning curse words for him. He's a belligerent fool who has no right to live.",
+            "user id": 2737829545,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @Paula_Dockery Another crazed person promoting ISIS,by taking hostages and spreading fear.",
+            "user id": 342893331,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

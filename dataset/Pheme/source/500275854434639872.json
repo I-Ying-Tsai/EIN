@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/mrCwhINAXf #Ferguson",
+        "user id": 72073289,
+        "tweet id": "500275854434639872",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@RapGenius: Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/rNeiPJuD5d #Ferguson”\n 👆",
+            "user id": 283484692,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@RapGenius: Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/tJ1OxExLtD #Ferguson”",
+            "user id": 2548972602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@RapGenius: Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/y26uelhw2D #Ferguson” @lordcoon_",
+            "user id": 241154445,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@FuckMarie @RapGenius @JColeNC HAHAHAHAHACI KNEW IT",
+            "user id": 311679908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@RapGenius: Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/lcH84hdYI5 #Ferguson” bruh",
+            "user id": 896203538,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@RapGenius: Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/xvyJdMHMu2 #Ferguson” @Who_is_ABIV",
+            "user id": 218981277,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@RapGenius: Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/C9BTOMXDU8 #Ferguson” the pain runs deep",
+            "user id": 493562261,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RapGenius @JColeNC FOLLOW ME..ILL FOLLOW BACK ASAP.. #promise (not spam)!",
+            "user id": 68036352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@RapGenius: Oh, this new @JColeNC is very emotional, I suggest you take a listen. http://t.co/LgZCibnGuY #Ferguson” I got chills.",
+            "user id": 320318106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@RapGenius K-Von - #DontShoot (Mike Brown Tribute) https://t.co/CmLw7aUIJF RT &amp; let's raise awareness!",
+            "user id": 59619358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

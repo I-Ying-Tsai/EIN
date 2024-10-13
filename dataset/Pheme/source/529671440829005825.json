@@ -1,0 +1,67 @@
+{
+    "source": {
+        "content": "Is Prince playing a surprise show at Massey Hall tonight? http://t.co/mv0Ca9ro6a",
+        "user id": 87029364,
+        "tweet id": "529671440829005825",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@CBC_TOCommunity ThatDepends~NoDiaper~WhetherI.AM.Invited?OhWhatWouldIWear?KarlIsNotHere...IHaven'tSleptInTooManyHoursSoHowBeeIBeginANapNow?",
+            "user id": 433675700,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@CBC_TOCommunity IWon'tFitMyClothesYeahNeverAgainPlayingNoFrumpyCharactersGonnaTake3Mths2TakeOFF30LbsAgainYeahWeLLTheROLERequiredROLLSMUFFIN",
+            "user id": 433675700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@CBC_TOCommunity OHLetMeTakeLongNap\nI.AM.LooKINg4WHO?2BRiNGWHAT?\nUhOH!\n#RoYaLPuRPLeNeSSa\nIReallyNeed2GetALiFEDON'TCHAThinkUKNOW?LedgeOutSide",
+            "user id": 433675700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBC_TOCommunity That's the Q needs an A. right? If anyone can figure it out, its @CBCNews! #FALLforCBC",
+            "user id": 439502873,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

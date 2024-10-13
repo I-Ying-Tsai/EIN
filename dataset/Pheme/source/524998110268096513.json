@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Just received email message from @OttawaPolice Chief Charles Bordeleau #ottshooting #OttawaShooting http://t.co/4vJoP2YO11",
+        "user id": 69042501,
+        "tweet id": "524998110268096513",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@kanataimam @OttawaPolice A well intentioned gesture. The feeling resonates with many of us. We stand strong together. &lt;3 #ottshooting",
+            "user id": 17490432,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@christellasays @OttawaPolice Yes, thank you @ChiefBordeleau @OttawaPolice @rcmpgrcpolice @CanadianForces for protecting all Canadians",
+            "user id": 69042501,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@kanataimam I truly hope that citizens of Ottawa do not place any blame on your community in relation to this event. Peace to you and yours.",
+            "user id": 16969907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@kanataimam @OttawaPolice it's time to take back our city  and keep our country free. Stand on guard for thee.",
+            "user id": 2210569433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@kanataimam @OttawaPolice",
+            "user id": 278672578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@kanataimam @MorganCrockett @OttawaPolice That's beautiful.",
+            "user id": 40328332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "This is my Canada 👏👏 “@kanataimam: Just received email message from @OttawaPolice Chief Charles Bordeleau  http://t.co/uW9Ehurw9T”",
+            "user id": 302044030,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "#CommunityPolicing RT @kanataimam: Just received email message from @OttawaPolice Chief Charles Bordeleau http://t.co/55BjVSuFld",
+            "user id": 23721448,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@kanataimam @OttawaPolice Much love, thank you all!",
+            "user id": 17257021,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

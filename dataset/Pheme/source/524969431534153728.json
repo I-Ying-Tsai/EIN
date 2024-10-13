@@ -1,0 +1,79 @@
+{
+    "source": {
+        "content": "Ottawa youth: If you need to talk: 24/7 Crisis Line\n613-260-2360 or 1-877-377-7775 (toll free for Eastern Ontario)\ncrisis@ysb.on.ca",
+        "user id": 331051303,
+        "tweet id": "524969431534153728",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "MT @ysb_bsj: Ottawa youth: If you need to talk 24/7 Crisis Line\n613-260-2360 1-877-377-7775 (tollfree East Ont)crisis@ysb.on.ca",
+            "user id": 1216557152,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "MT @ysb_bsj: Ottawa youth: If you need to talk 24/7 Crisis Line\n613-260-2360 1-877-377-7775 (tollfree East Ont)crisis@ysb.on.ca",
+            "user id": 14096428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@missfish Thanks Andrea.",
+            "user id": 18682889,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ysb_bsj @knightessrouge nice tought of you. I'm just a couple of km from there !",
+            "user id": 89621840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@pdesrivieres @ysb_bsj Take care, Patrice! :(",
+            "user id": 494921508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Germanwings crash plane 'lost signal at 6,800 feet', flight radar shows http://t.co/AjQxaENYSb http://t.co/cgU1GqKYqK",
+        "user id": 21866939,
+        "tweet id": "580327692765151232",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews that's not high for that amount of airtime plans quickly climb pass 6,000 feet within a few minutes normally.",
+            "user id": 426740892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@itvnews: Germanwings crash plane 'lost signal at 6,800 feet', flight radar shows http://t.co/AReLIUb7kq http://t.co/JDK05GKwug”",
+            "user id": 295510001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews Possible explanation? #incapacitated #aerotoxic http://t.co/lc8B2vIsx0",
+            "user id": 261297837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

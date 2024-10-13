@@ -1,0 +1,56 @@
+{
+    "source": {
+        "content": "PRINCE doing surprise show at Massey Hall in Toronto today! Wristbands at 6, show at 8.  @3RDEYEGIRL http://t.co/Z7vaVDAYKX",
+        "user id": 19329568,
+        "tweet id": "529643568873230337",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "Surprise Prince show!!!! Ticket lineup is still pretty short... @ChezRobb @3RDEYEGIRL http://t.co/nCPoywd1hw",
+            "user id": 29010099,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@tonylepage amaze!!",
+            "user id": 62353753,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@tonylepage so handsome tony!! :-)",
+            "user id": 572235094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

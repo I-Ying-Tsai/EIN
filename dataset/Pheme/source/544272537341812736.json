@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "SYDNEY SIEGE: Gunman forces hostages to hold up ISIS flag in window http://t.co/9K3XXEiSFa http://t.co/cATxCjYXpy",
+        "user id": 1960878613,
+        "tweet id": "544272537341812736",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@dailymailau @mailonline MT @ottomanscribe: These not the same. 1st Shahadah flag, 2nd is specifically claimed by IS. http://t.co/1ODZtFn9CR",
+            "user id": 33012903,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU @drpiotrowski Took me 2 sec to google ISIS flag and see this wasn't it. Your research budget that bad?",
+            "user id": 1739973012,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@DailyMailAU @AmericnElephant \n\nGuess Sydney's off our list.....",
+            "user id": 373601625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@beebobaby well, not today, for sure.",
+            "user id": 123728862,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU @MailOnline If they only knew that ISIS was created by the American government.",
+            "user id": 17654625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU: SYDNEY SIEGE Gunman forces hostages to hold up ISIS flag in window http://t.co/RdtBRtSsaq http://t.co/aKTlO1K48O @BarackObama",
+            "user id": 48155944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@DailyMailAU: SYDNEY SIEGE: Gunman forces hostages to hold up ISIS flag in window http://t.co/BdcfCDqxbE http://t.co/gs9nljJBkk” wtf",
+            "user id": 229186118,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@DailyMailAU Are you sure they have guns ?? Australia has banned a lot of them ??",
+            "user id": 357841916,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                11
+            ],
+            "content": "@Richard_Maunder @DailyMailAU okay… just because guns are banned doesn't mean people don't have them please be aware of that",
+            "user id": 2302371967,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU \nRT @RealAlexJones: #ISIS and #IslamicState work for #CIA claims former #al-Qaeda commander. \nhttp://t.co/EWPEYP2cHI",
+            "user id": 20715638,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU Oh dear!  PRAY for these innocent people in Sydney who are being held up in a Cafe just before Christmas!  Good Lord Almighty!",
+            "user id": 69032114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@makeshiftmgc @DailyMailAU Yes I know that hand gun crime is up 55% where I live and they are banned ! :(",
+            "user id": 357841916,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

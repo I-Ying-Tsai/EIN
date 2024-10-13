@@ -1,0 +1,2017 @@
+{
+    "source": {
+        "content": "沸腾了，成都春熙路景象。。。",
+        "user id": 2179567480,
+        "tweet id": "3491611545989751",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "我的天 这密密麻麻的都是什么",
+            "user id": 1841481500,
+            "user name": "北北Cri",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "转发微博。",
+            "user id": 1231558842,
+            "user name": "小草草心儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "足以证明我四川人口确实很多、[黑線]",
+            "user id": 2313767123,
+            "user name": "张小芸_Cri",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                28
+            ],
+            "content": "轉發微博",
+            "user id": 1915264422,
+            "user name": "-糖果云云",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "臥槽！！！！我敢保證這麼多人裡面沒幾個是成！都！本！地！的！",
+            "user id": 2620933427,
+            "user name": "榎本_靜",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "+1",
+            "user id": 1583509885,
+            "user name": "等明年con的黑麦面包",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8,
+                9,
+                43
+            ],
+            "content": "这是哪？怎么拍的？",
+            "user id": 1019838384,
+            "user name": "哈哈曲艺社田海龙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                55,
+                92
+            ],
+            "content": "介也？！太。。。。",
+            "user id": 1891606961,
+            "user name": "Hello_Mia_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                50,
+                105
+            ],
+            "content": "天啊！日本人看了会吓死的",
+            "user id": 2177437857,
+            "user name": "郑州一二一喜剧坊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "[威武][威武][给力][给力]",
+            "user id": 1956111673,
+            "user name": "王鹏小飞飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                11,
+                145
+            ],
+            "content": "密集恐惧症[衰]",
+            "user id": 1893519672,
+            "user name": "Cri-Haley-蕾",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                13,
+                14,
+                22,
+                24,
+                36,
+                51,
+                57,
+                63
+            ],
+            "content": "好多",
+            "user id": 1735438117,
+            "user name": "猫猫Sukscat",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                15,
+                16,
+                17,
+                19,
+                20,
+                21,
+                23,
+                26,
+                29,
+                30,
+                31,
+                33,
+                34,
+                35,
+                37,
+                39,
+                40,
+                44,
+                45,
+                49,
+                56,
+                60,
+                62,
+                64,
+                67,
+                72,
+                73,
+                74,
+                76,
+                77,
+                78,
+                80,
+                86,
+                90,
+                101,
+                114,
+                138,
+                144
+            ],
+            "content": "造谣！这不是成都！希望在这样的时候不要造谣惑众！去过春熙路的人都知道这不是！！",
+            "user id": 1517916214,
+            "user name": "米瑞蓉",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                58
+            ],
+            "content": "",
+            "user id": 2745867471,
+            "user name": "唯我独尊SUK",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [
+                38
+            ],
+            "content": "[生病]对不起~太恶心了~",
+            "user id": 1922436262,
+            "user name": "筷子姐姐的总是萌萌哒",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 12,
+            "children": [
+                103
+            ],
+            "content": "假滴哦",
+            "user id": 1406044971,
+            "user name": "狗贱",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 12,
+            "children": [],
+            "content": "造谣可耻！",
+            "user id": 2717740757,
+            "user name": "加里生姜吉格斯",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": 12,
+            "children": [],
+            "content": "这个是湖南衡阳，请不要造谣..",
+            "user id": 1839693384,
+            "user name": "范范贩饭永久退博",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "造谣！！！这不是成都，这是08年深圳火炬传递。",
+            "user id": 1808059720,
+            "user name": "草原翱鹰",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 12,
+            "children": [],
+            "content": "真是闲的，又有什么企图？！",
+            "user id": 2735236133,
+            "user name": "海淀区日月",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": 12,
+            "children": [],
+            "content": "向米总致敬！大是大非问题上必须说真话，这和我们平时批评政府是两码事！@米瑞蓉",
+            "user id": 2644643811,
+            "user name": "老龙的故事",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": 12,
+            "children": [],
+            "content": "这哪里是春熙路嘛,莫球造谣哦!",
+            "user id": 2272146841,
+            "user name": "非洲来的老白脸",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": 11,
+            "children": [
+                46
+            ],
+            "content": "[晕][晕][黑线]",
+            "user id": 1317078132,
+            "user name": "贝贝的理想是保洁大妈",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 23,
+            "parent": 12,
+            "children": [],
+            "content": "是成都人都晓得不是春熙路。",
+            "user id": 1931814223,
+            "user name": "咚不隆咚戗",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 24,
+            "parent": 11,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1930324393,
+            "user name": "old兔鳗",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "content": "哪个城市？这场面，晶啊",
+            "user id": 1688152355,
+            "user name": "青蛙呀青蛙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 12,
+            "children": [],
+            "content": "[赞]",
+            "user id": 1283394183,
+            "user name": "任一柯",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "content": "居心叵测，转，让政府查办",
+            "user id": 2073324275,
+            "user name": "一夜道道道",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": 3,
+            "children": [],
+            "content": "這是要幹嘛@左腳踏麒麟 @我木明",
+            "user id": 1784253592,
+            "user name": "康晋宇",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 29,
+            "parent": 12,
+            "children": [],
+            "content": "明显ps,这不是成都,春熙路很好，只是车不能进，害怕有人捣乱。",
+            "user id": 2412622141,
+            "user name": "盛开的水晶花1",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": 12,
+            "children": [],
+            "content": "这个图不晓得好老的了，并且不是成都，没那么大的口子",
+            "user id": 1407420613,
+            "user name": "Michelle慧敏",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 31,
+            "parent": 12,
+            "children": [],
+            "content": "春熙路有天桥。@恒乐雅卓",
+            "user id": 1850364432,
+            "user name": "沽上春好",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "content": "不像是在俺的成都！",
+            "user id": 1914026850,
+            "user name": "魅力成都-严蓉",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": 12,
+            "children": [],
+            "content": "成都春熙路没这么宽",
+            "user id": 1907562224,
+            "user name": "lichunqin",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": 12,
+            "children": [],
+            "content": "不是成都市春熙路。",
+            "user id": 1684237371,
+            "user name": "蓝语ABC",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 35,
+            "parent": 12,
+            "children": [],
+            "content": "这图是假的",
+            "user id": 2618026357,
+            "user name": "共好期刊-杨延龙",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 36,
+            "parent": 11,
+            "children": [
+                41
+            ],
+            "content": "如同一大群蚂蚁，真的很密集，鸡皮疙瘩都有了",
+            "user id": 1895524661,
+            "user name": "Suk-水墨鸢",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 37,
+            "parent": 12,
+            "children": [],
+            "content": "成都公交车没这么多彩…",
+            "user id": 1760057235,
+            "user name": "叶思仁",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": 14,
+            "children": [
+                42,
+                48,
+                52,
+                68
+            ],
+            "content": "我有密集恐惧症啊，这情况，蚂蚁都塞不进吧",
+            "user id": 1248629187,
+            "user name": "噶比_Cri",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 39,
+            "parent": 12,
+            "children": [],
+            "content": "是哪里？",
+            "user id": 2757596727,
+            "user name": "sheg明华",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 40,
+            "parent": 12,
+            "children": [],
+            "content": "这哪儿是成都哦，莫乱说哈",
+            "user id": 2024045961,
+            "user name": "朱峰在成都",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": 36,
+            "children": [],
+            "content": "啊啊啊！",
+            "user id": 2660315321,
+            "user name": "SUK_NONO",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 42,
+            "parent": 38,
+            "children": [
+                61,
+                65,
+                75,
+                97,
+                108,
+                116,
+                118,
+                146
+            ],
+            "content": "这这这。。。[晕][晕][晕]",
+            "user id": 2349396470,
+            "user name": "Suk_Daisy文艺张",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 43,
+            "parent": 6,
+            "children": [],
+            "content": "堵的那么多？p过没有？",
+            "user id": 2614422987,
+            "user name": "lizzy教主",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 44,
+            "parent": 12,
+            "children": [
+                110
+            ],
+            "content": "造谣！",
+            "user id": 1497678564,
+            "user name": "平凡的哲思",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 45,
+            "parent": 12,
+            "children": [],
+            "content": "这是08年地震照片!",
+            "user id": 2319895225,
+            "user name": "桃李无言2319895225",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 46,
+            "parent": 22,
+            "children": [],
+            "content": "要不要这么多人。。。。[挖鼻屎]",
+            "user id": 2519510324,
+            "user name": "Delia_cri",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 2705633073,
+            "user name": "普通人-SUK",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": 38,
+            "children": [
+                53,
+                85
+            ],
+            "content": "[衰]这不是广州嘛~刚才看到说是广州啊~",
+            "user id": 1153057814,
+            "user name": "Angelia淡_cri",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 49,
+            "parent": 12,
+            "children": [],
+            "content": "请不要造谣",
+            "user id": 1543641425,
+            "user name": "H爱摄影工作室",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 50,
+            "parent": 8,
+            "children": [],
+            "content": "这场景，还有十三亿啊。估计把日本也踩平。/@一二一喜剧坊---红旭:天啊！日本人看了会吓死的",
+            "user id": 2628741915,
+            "user name": "Media王晓磊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 51,
+            "parent": 11,
+            "children": [
+                130
+            ],
+            "content": "额。。。。。。天！！！！！",
+            "user id": 1763215684,
+            "user name": "稀饭稀饭我是泡菜",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 52,
+            "parent": 38,
+            "children": [],
+            "content": "[熊猫]",
+            "user id": 2210823443,
+            "user name": "GIGI_肖琪琪cri",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 53,
+            "parent": 48,
+            "children": [],
+            "content": "太恐怖了吧~[给力]",
+            "user id": 1913672451,
+            "user name": "Suk_Cri_阿喵",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 54,
+            "parent": -1,
+            "children": [],
+            "content": "吓人[吃惊]",
+            "user id": 2621121651,
+            "user name": "Emotiona纯语",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 55,
+            "parent": 7,
+            "children": [
+                152
+            ],
+            "content": " @威武的番茄女王",
+            "user id": 1418757982,
+            "user name": "香岸杨婕",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 56,
+            "parent": 12,
+            "children": [],
+            "content": "这些人唯恐天下不乱，乱了对谁也没有好处。",
+            "user id": 2540943502,
+            "user name": "开心妈咪7755",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 57,
+            "parent": 11,
+            "children": [],
+            "content": "[汗]人多得像小蚂蚁一样...",
+            "user id": 2857147824,
+            "user name": "飞鱼-Cri",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 58,
+            "parent": 13,
+            "children": [],
+            "content": "春熙路？？？春熙路长这个样子吗？胡扯啦！",
+            "user id": 2322672714,
+            "user name": "我不是李叶",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 59,
+            "parent": -1,
+            "children": [],
+            "content": "娘们是何居心？造假是要大家操作你自己？还是唯恐天下不乱？瓜婆娘！[鄙视][鄙视][鄙视]",
+            "user id": 1648036051,
+            "user name": "点滴裂变",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 60,
+            "parent": 12,
+            "children": [],
+            "content": "冷静分析，莫添乱",
+            "user id": 1768232842,
+            "user name": "桃花汛",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 61,
+            "parent": 42,
+            "children": [],
+            "content": "[衰]走的出去吗？",
+            "user id": 1831102437,
+            "user name": "Cri婧婧-jingyi",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 62,
+            "parent": 12,
+            "children": [],
+            "content": "草你M！造谣个叼啊！春熙路近都不能进！",
+            "user id": 1768059201,
+            "user name": "刘浩玩微博",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 63,
+            "parent": 11,
+            "children": [],
+            "content": "[群体围观]",
+            "user id": 1659234945,
+            "user name": "evelyn-Cri",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 64,
+            "parent": 12,
+            "children": [],
+            "content": "成都人一看就知道这不是春熙路！",
+            "user id": 2062400243,
+            "user name": "筱日月",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 65,
+            "parent": 42,
+            "children": [],
+            "content": "假的假的假的",
+            "user id": 1463937422,
+            "user name": "ABline_九九",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [],
+            "content": "好多人 真的假的？！",
+            "user id": 2140819693,
+            "user name": "讨厌我也是花儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 67,
+            "parent": 12,
+            "children": [],
+            "content": "这不是成都春熙路",
+            "user id": 1861097713,
+            "user name": "韵致之",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 68,
+            "parent": 38,
+            "children": [
+                79
+            ],
+            "content": "假的吧，我在成都怎么不知道",
+            "user id": 1351178220,
+            "user name": "M蜕变精灵angelaM",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [
+                70,
+                139
+            ],
+            "content": "哇塞",
+            "user id": 1740812582,
+            "user name": "文西-Man",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 70,
+            "parent": 69,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 2302941170,
+            "user name": "Dahqy2",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 71,
+            "parent": -1,
+            "children": [
+                132
+            ],
+            "content": "这哪儿是春熙路啊",
+            "user id": 1972606275,
+            "user name": "momo-cri",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 72,
+            "parent": 12,
+            "children": [],
+            "content": "骗那些没去过春熙路的人还差不多。。。",
+            "user id": 1370361560,
+            "user name": "谢言碎语",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 73,
+            "parent": 12,
+            "children": [],
+            "content": "妖言惑众[鄙视] @微博辟谣",
+            "user id": 1239224295,
+            "user name": "飘舞的雪花0165",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 74,
+            "parent": 12,
+            "children": [
+                107
+            ],
+            "content": "春熙路啥时候长了这么多树出来?",
+            "user id": 1080478483,
+            "user name": "眼镜蛇哥哥",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 75,
+            "parent": 42,
+            "children": [],
+            "content": " @本殿-陌问 [奥特曼]",
+            "user id": 2671192964,
+            "user name": "从前有个包子被付蓉吃掉了V",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 76,
+            "parent": 12,
+            "children": [],
+            "content": "这就是那些想制造混乱，抵毁成都的别有用心的人散布的，成都人是理智的",
+            "user id": 1982573704,
+            "user name": "海云天玺",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 77,
+            "parent": 12,
+            "children": [],
+            "content": "确实造谣，我们都在春熙路上班",
+            "user id": 2607113565,
+            "user name": "CuiCui翠儿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 78,
+            "parent": 12,
+            "children": [],
+            "content": "这图也同时出现在深圳！",
+            "user id": 2637525881,
+            "user name": "小蔓1209",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 79,
+            "parent": 68,
+            "children": [],
+            "content": "这是假的",
+            "user id": 1804581617,
+            "user name": "木子Lee_cri",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 80,
+            "parent": 12,
+            "children": [
+                81,
+                87,
+                93
+            ],
+            "content": "是哪呢？",
+            "user id": 2080661993,
+            "user name": "律师赵春燕",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 81,
+            "parent": 80,
+            "children": [],
+            "content": "这个游行太恐怖了[汗]",
+            "user id": 1180069767,
+            "user name": "Wonchchi",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 82,
+            "parent": -1,
+            "children": [
+                94,
+                95
+            ],
+            "content": "锤子哦，这儿根本就不是春熙路，你娃传谣嗦！！[怒][怒][怒]",
+            "user id": 2767328165,
+            "user name": "麻辣袍哥",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 83,
+            "parent": -1,
+            "children": [
+                84,
+                96,
+                104
+            ],
+            "content": "此为造谣图片，请勿传谣，后果自负。",
+            "user id": 2157728427,
+            "user name": "四川公安交警网",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 84,
+            "parent": 83,
+            "children": [
+                88
+            ],
+            "content": "造谣要不得！",
+            "user id": 1834041127,
+            "user name": "陈琦业",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 85,
+            "parent": 48,
+            "children": [
+                98
+            ],
+            "content": "",
+            "user id": 2214853135,
+            "user name": "梦梦梦梦斯",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 86,
+            "parent": 12,
+            "children": [],
+            "content": "打假！",
+            "user id": 2310712472,
+            "user name": "马昭Nowhere",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 87,
+            "parent": 80,
+            "children": [
+                99
+            ],
+            "content": "此次转发只为提醒看到该图片的人，图片并非918成都景象，广州公安局也辟谣称该照片并非广州场景。感谢理性而不盲从的公民为社会秩序的贡献！",
+            "user id": 1949460681,
+            "user name": "普通青年L",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 88,
+            "parent": 84,
+            "children": [],
+            "content": "该图片是2008年奥运火炬在我市天河体育中心附近传递时的照片",
+            "user id": 1736092687,
+            "user name": "巴洛蜀黍",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 89,
+            "parent": -1,
+            "children": [],
+            "content": "手机没电，照片都没有",
+            "user id": 1997799487,
+            "user name": "羊子i-can",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 90,
+            "parent": 12,
+            "children": [],
+            "content": "应该追究造谣者！",
+            "user id": 2718738141,
+            "user name": "ciscy2012",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 91,
+            "parent": -1,
+            "children": [
+                109
+            ],
+            "content": "沸腾个屁，假照片满天飞！",
+            "user id": 1088165155,
+            "user name": "钟佩良",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 92,
+            "parent": 7,
+            "children": [
+                154
+            ],
+            "content": "成都不是这公交车哦。",
+            "user id": 1744098072,
+            "user name": "诚二凤",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 93,
+            "parent": 80,
+            "children": [
+                100
+            ],
+            "content": "造谣可耻",
+            "user id": 1959596415,
+            "user name": "拓九爷",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 94,
+            "parent": 82,
+            "children": [],
+            "content": "深圳火车站好多保安，武警。",
+            "user id": 2809686072,
+            "user name": "小平爷爷的背后",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 95,
+            "parent": 82,
+            "children": [],
+            "content": "向敢于戳穿美帝阴谋的炮哥致敬",
+            "user id": 1661197997,
+            "user name": "土匪腊肉",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 96,
+            "parent": 83,
+            "children": [],
+            "content": "坚决抵制造假者",
+            "user id": 1699315932,
+            "user name": "高原牧马人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 97,
+            "parent": 42,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 2352098763,
+            "user name": "我知硕心",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 98,
+            "parent": 85,
+            "children": [],
+            "content": "太密集了！！！",
+            "user id": 2918249301,
+            "user name": "Cri2918249301",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 99,
+            "parent": 87,
+            "children": [
+                128
+            ],
+            "content": "",
+            "user id": 1821136873,
+            "user name": "FrancescoWu",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 100,
+            "parent": 93,
+            "children": [
+                158
+            ],
+            "content": "造谣可耻！",
+            "user id": 1497604940,
+            "user name": "柠檬头",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 101,
+            "parent": 12,
+            "children": [],
+            "content": "这是广州正佳广场！",
+            "user id": 2406234387,
+            "user name": "大灰-0755",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 102,
+            "parent": -1,
+            "children": [],
+            "content": "居心叵测",
+            "user id": 2398736031,
+            "user name": "汇合天恒辛楠",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 103,
+            "parent": 15,
+            "children": [],
+            "content": "绝对假的",
+            "user id": 2700870662,
+            "user name": "Brad妈妈",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 104,
+            "parent": 83,
+            "children": [],
+            "content": "本来就烦，还要造谣[怒]",
+            "user id": 1862988934,
+            "user name": "哒哒David",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 105,
+            "parent": 8,
+            "children": [],
+            "content": "把小日本拍死在沙滩上！",
+            "user id": 2550098017,
+            "user name": "戏迷小王",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 106,
+            "parent": -1,
+            "children": [
+                127
+            ],
+            "content": "一看吓一跳。。。原来爱国人士还真是多啊。。",
+            "user id": 1693260453,
+            "user name": "潘峰_面包君",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 107,
+            "parent": 74,
+            "children": [],
+            "content": "太多人了麻",
+            "user id": 1798749725,
+            "user name": "小鱼吃大鱼FH",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 108,
+            "parent": 42,
+            "children": [
+                119
+            ],
+            "content": "密集恐惧症...",
+            "user id": 2129037231,
+            "user name": "fairy帆妮",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 109,
+            "parent": 91,
+            "children": [],
+            "content": "哪只眼睛看得出来这个是春熙路？！乱扯",
+            "user id": 1591199410,
+            "user name": "菡兔儿跳跳",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 110,
+            "parent": 44,
+            "children": [
+                115
+            ],
+            "content": "",
+            "user id": 1678624085,
+            "user name": "奶油太后",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 111,
+            "parent": -1,
+            "children": [
+                113
+            ],
+            "content": "你妹儿给你说这是春熙路！",
+            "user id": 1746566064,
+            "user name": "夏夏夏嘎嘎",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 112,
+            "parent": -1,
+            "children": [],
+            "content": "图片上不是成都吧！！！！！！乱说",
+            "user id": 2949985964,
+            "user name": "鳗鱼的权世界",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 113,
+            "parent": 111,
+            "children": [],
+            "content": "这是神马情况@张黎1983",
+            "user id": 1767097995,
+            "user name": "贫道法号-露娃子",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 114,
+            "parent": 12,
+            "children": [],
+            "content": "这些人唯恐天下不乱，乱了对谁也没有好处。",
+            "user id": 2540943502,
+            "user name": "开心妈咪7755",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 115,
+            "parent": 110,
+            "children": [],
+            "content": "不过我倒蛮好奇这是哪里因为什么而聚集有没有踩死人[草泥马]",
+            "user id": 1425840122,
+            "user name": "陈小X",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 116,
+            "parent": 42,
+            "children": [],
+            "content": "[晕][晕]",
+            "user id": 1870468350,
+            "user name": "愛xi_cri",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 117,
+            "parent": -1,
+            "children": [
+                121
+            ],
+            "content": "[吃惊]",
+            "user id": 2832609245,
+            "user name": "北碚巴黎春天摄影师浩子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 118,
+            "parent": 42,
+            "children": [],
+            "content": "天。。。",
+            "user id": 1787416291,
+            "user name": "瓜尔佳豆森",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 119,
+            "parent": 108,
+            "children": [
+                123
+            ],
+            "content": " @邓宇FisH // @fairy帆妮_cri :密集恐惧症...",
+            "user id": 1582370193,
+            "user name": "彻子",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 120,
+            "parent": -1,
+            "children": [],
+            "content": "浩大",
+            "user id": 2098971317,
+            "user name": "南彝组合阿萨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 121,
+            "parent": 117,
+            "children": [
+                125
+            ],
+            "content": "[吃惊][吃惊][吃惊][吃惊]",
+            "user id": 2834041883,
+            "user name": "达州金夫人芝芝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 122,
+            "parent": -1,
+            "children": [
+                124
+            ],
+            "content": "爱国人士真的有很多！",
+            "user id": 2952006265,
+            "user name": "-慕斯很纠结-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 123,
+            "parent": 119,
+            "children": [],
+            "content": "@彻子 你学车蛮悠闲啊，我男朋友当时电话都不接我的，看来是他对我态度不行啊",
+            "user id": 2129037231,
+            "user name": "fairy帆妮",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 124,
+            "parent": 122,
+            "children": [],
+            "content": " @本殿-陌问 你看右边是谁→_→",
+            "user id": 2671192964,
+            "user name": "从前有个包子被付蓉吃掉了V",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 125,
+            "parent": 121,
+            "children": [],
+            "content": "",
+            "user id": 2859120854,
+            "user name": "杨柳灬太子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 126,
+            "parent": -1,
+            "children": [],
+            "content": "太壮观了啊！这些人都不上班吗",
+            "user id": 1377915527,
+            "user name": "小薄Love_Jesus",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 127,
+            "parent": 106,
+            "children": [],
+            "content": "啪啪满啊",
+            "user id": 2246442280,
+            "user name": "兔斯基的萝卜耶夫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 128,
+            "parent": 99,
+            "children": [
+                129
+            ],
+            "content": "",
+            "user id": 1238880677,
+            "user name": "在云端的两只老鼠",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 129,
+            "parent": 128,
+            "children": [
+                131,
+                143
+            ],
+            "content": "下面的链接不能保证是这张图片的源头，但至少说明它和918无关。http://t.cn/zlzwqVp",
+            "user id": 1790763391,
+            "user name": "Sqr5",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 130,
+            "parent": 51,
+            "children": [],
+            "content": "这是在干什么啊？",
+            "user id": 2013115893,
+            "user name": "台湾团王子美妆馆",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 131,
+            "parent": 129,
+            "children": [
+                136,
+                140,
+                148,
+                149
+            ],
+            "content": "和918无关的图片~虚张声势用！",
+            "user id": 2664749873,
+            "user name": "龚龚龚欣然不知道说说说什么",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 132,
+            "parent": 71,
+            "children": [
+                133
+            ],
+            "content": "",
+            "user id": 2078908185,
+            "user name": "taoris佐twings",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 133,
+            "parent": 132,
+            "children": [
+                137
+            ],
+            "content": "",
+            "user id": 2004084615,
+            "user name": "金刀郎的佑菜板儿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 134,
+            "parent": -1,
+            "children": [],
+            "content": "这个是08.5.7奥运火炬传递",
+            "user id": 2957951180,
+            "user name": "Lin_h1991",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 135,
+            "parent": -1,
+            "children": [
+                151
+            ],
+            "content": "还是成都给力啊@向阳花花",
+            "user id": 2296744393,
+            "user name": "和尚恋经",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 136,
+            "parent": 131,
+            "children": [],
+            "content": "删了吧，明显PS过的图~有此人就是唯恐天下不乱……",
+            "user id": 1732522297,
+            "user name": "谢家雄律师",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 137,
+            "parent": 133,
+            "children": [],
+            "content": "滚出钓鱼岛！！",
+            "user id": 1586043907,
+            "user name": "我叫DPS_土豆",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 138,
+            "parent": 12,
+            "children": [],
+            "content": "造谣可耻!!!!",
+            "user id": 1948712930,
+            "user name": "左耳之家咖啡",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 139,
+            "parent": 69,
+            "children": [],
+            "content": "成人海市场",
+            "user id": 2137906803,
+            "user name": "丝苗米s",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 140,
+            "parent": 131,
+            "children": [],
+            "content": "这是P过的吗，怎么下班啊？？？",
+            "user id": 2172129454,
+            "user name": "JIALING-00",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 141,
+            "parent": -1,
+            "children": [],
+            "content": "[国旗]",
+            "user id": 2188764832,
+            "user name": "十年少shinianshao",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 142,
+            "parent": -1,
+            "children": [],
+            "content": " @吴娇925 求鉴定。@琥珀飞鸟 @四娃笑个 看下这个正仗",
+            "user id": 1725297594,
+            "user name": "筱桐雨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 143,
+            "parent": 129,
+            "children": [],
+            "content": "哗 甘搞比日本仔揾D人去搞搞米好易内战，恐怖。",
+            "user id": 1800514910,
+            "user name": "as3233",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 144,
+            "parent": 12,
+            "children": [],
+            "content": "春熙路的桥哪里去了？欺负外地人啊？",
+            "user id": 2116807010,
+            "user name": "邪佛-爱与尊重毛伙伴",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 145,
+            "parent": 10,
+            "children": [],
+            "content": "[衰]这也太多了吧~！",
+            "user id": 1909282307,
+            "user name": "cri_娜",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 146,
+            "parent": 42,
+            "children": [
+                153
+            ],
+            "content": "[吃惊]",
+            "user id": 1256380285,
+            "user name": "zhiisuk",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 147,
+            "parent": -1,
+            "children": [],
+            "content": "这几天好好待着吧！！广州好恐怖",
+            "user id": 2736358100,
+            "user name": "KoLu萍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 148,
+            "parent": 131,
+            "children": [
+                150
+            ],
+            "content": "这是成都嘛？[吃惊]// @龚龚龚欣然不知道说说说什么 :和918无关的图片~虚张声势用！",
+            "user id": 2138634987,
+            "user name": "Missin9阿凡",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 149,
+            "parent": 131,
+            "children": [],
+            "content": "给力      http://t.cn/SwVn7N ",
+            "user id": 2135894430,
+            "user name": "林中一湖",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 150,
+            "parent": 148,
+            "children": [],
+            "content": "再次说明，改图并非成都",
+            "user id": 1949460681,
+            "user name": "普通青年L",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 151,
+            "parent": 135,
+            "children": [],
+            "content": "成都不愧为麻辣城！",
+            "user id": 2697840335,
+            "user name": "公鱼国",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 152,
+            "parent": 55,
+            "children": [],
+            "content": " @小切_Cherub",
+            "user id": 1423829175,
+            "user name": "小茜_Rose",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 153,
+            "parent": 146,
+            "children": [],
+            "content": "啊?![吃惊]",
+            "user id": 1105017031,
+            "user name": "假行家4799",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 154,
+            "parent": 92,
+            "children": [
+                155,
+                156,
+                157
+            ],
+            "content": "我靠，这才叫@裙摆飘飘Ivy菁菁 @是serval @-白云朵朵- @-s_Smile肥肥 @",
+            "user id": 2462271565,
+            "user name": "安吉拉与艾米",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 155,
+            "parent": 154,
+            "children": [],
+            "content": "。。。。",
+            "user id": 1210137625,
+            "user name": "BioZ",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 156,
+            "parent": 154,
+            "children": [],
+            "content": " @paopaorou",
+            "user id": 2476148110,
+            "user name": "嘿maybe",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 157,
+            "parent": 154,
+            "children": [],
+            "content": "[吃惊][吃惊][吃惊]",
+            "user id": 1879138234,
+            "user name": "-Miss_S",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 158,
+            "parent": 100,
+            "children": [
+                159
+            ],
+            "content": "呵!!!!不热吗???",
+            "user id": 1912692565,
+            "user name": "喷气羽毛",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 159,
+            "parent": 158,
+            "children": [],
+            "content": "真心热血沸腾！",
+            "user id": 1461879100,
+            "user name": "Ms-Tang",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 160,
+            "parent": -1,
+            "children": [],
+            "content": "9.18天河正佳广场门前",
+            "user id": 1770202972,
+            "user name": "中魰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 161,
+            "parent": -1,
+            "children": [],
+            "content": "这到底是无锡？还是成都？！！！！",
+            "user id": 2190052091,
+            "user name": "蔚蓝色的天空下只剩我一个背影",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 21,
+            "state_1": 13
+        },
+        "2-hop": {
+            "state_0": 18,
+            "state_1": 41
+        },
+        "3-hop": {
+            "state_0": 6,
+            "state_1": 9
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 13
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "7-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "8-hop": {
+            "state_0": 4,
+            "state_1": 11
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

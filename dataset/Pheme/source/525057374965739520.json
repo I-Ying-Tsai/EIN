@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "COMING UP LIVE Ottawa shooting: Stephen Harper to address nation http://t.co/pGA98ONjKJ http://t.co/Jscp7Q9fBM",
+        "user id": 6433472,
+        "tweet id": "525057374965739520",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews what time?",
+            "user id": 19569126,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CBCNews where is out leader Stephan Harper? Already heard from Obama!",
+            "user id": 620417458,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@TracyBrooks15 @CBCNews 745 harper speaks",
+            "user id": 2430396417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@CBCNews Love the CBC ... keep up the good work!  You guys are the best network around. Always professional and ethical",
+            "user id": 2430396417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@SwansonBryon Thanks, Bryon. We appreciate your feedback.",
+            "user id": 6433472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@CBCNews can i stream this from outside canada? am in the uk but want to watch it live if possible",
+            "user id": 262648331,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@karenjavorski Yes you can, Karen! Here's the link to the livestream: http://t.co/pGA98ONjKJ PM Harper is expected to speak at 7:45pm ET",
+            "user id": 6433472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCNews: COMING UP LIVE Ottawa shooting: Stephen Harper to address nation http://t.co/I9uoc619Pq http://t.co/H1P4tvVSi0”",
+            "user id": 105240473,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews Too little, too late sadly. Their policy / policies have come back to bite them really!? #nocommunication #nofulldisclosure",
+            "user id": 94360519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@CBCNews Thanks for the warning. I shall prepare my vomit bag.\n#harper #cdnpoli",
+            "user id": 1945521565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@FluffyMcDeath @P_Wog @CBCNews Too late, I barfed already. #PMHarper #Lies #Dictator",
+            "user id": 2705721566,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

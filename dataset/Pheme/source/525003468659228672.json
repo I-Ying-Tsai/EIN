@@ -1,0 +1,226 @@
+{
+    "source": {
+        "content": "These are not timid colours; soldiers back guarding Tomb of Unknown Soldier after today's shooting #StandforCanada http://t.co/7KoW2xATKG",
+        "user id": 61597754,
+        "tweet id": "525003468659228672",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SeanOsmar @stephen_taylor Apparently a hoax. Best to take Tweet down.",
+            "user id": 142702117,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SeanOsmar @darrellbricker Not a hoax.  This is before the shooting",
+            "user id": 120655172,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                11
+            ],
+            "content": "@ArrogantHair @SeanOsmar @darrellbricker It's not a hoax, but it also wasn't taken *after* the shooting.",
+            "user id": 153182633,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SeanOsmar @stephen_taylor So honoured to serve as Honorary Colonel in reserves. Job is to honour citizen soldiers like these brave men.",
+            "user id": 242394241,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SeanOsmar This photo was taken this morning, before the shooting.",
+            "user id": 603341720,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SeanOsmar @graciestyle this matches the photo tweeted earlier today from a tourist who says it was taken moments before the shooting. 1/2",
+            "user id": 238856435,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@SeanOsmar @graciestyle I don't believe there are soldiers guarding this area right now. 2/2",
+            "user id": 238856435,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@JillKrop @SeanOsmar wondered as well. I've reached out to someone who would know just to confirm that. Hopefully get response soon.",
+            "user id": 23979828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@JillKrop @SeanOsmar @graciestyle That photo was taken before the attack.",
+            "user id": 15027467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SeanOsmar @mstoreshaw That’s the photo tweeted this morning claiming to be of the soldier who was killed.",
+            "user id": 7338202,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@SeanOsmar @mstoreshaw https://t.co/scTAINYe7Y",
+            "user id": 7338202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@JRMarlow @ArrogantHair @SeanOsmar Really? Why would somebody post this without saying that?  Twisted.",
+            "user id": 242394241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@darrellbricker @JRMarlow @SeanOsmar The soldier on the right is the one who http://t.co/o5JIIE8Vu9 taken by visitor moments before shooting",
+            "user id": 120655172,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "@darrellbricker @ArrogantHair Because people like @SeanOsmar love stealing other people's pics to get RTs.",
+            "user id": 153182633,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "@JRMarlow @darrellbricker @SeanOsmar That may be harsh.  He seems to be honouring. Just unaware of source.",
+            "user id": 120655172,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@ArrogantHair @darrellbricker @SeanOsmar Don't steal other people's pictures without attribution. Pretty simple.",
+            "user id": 153182633,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

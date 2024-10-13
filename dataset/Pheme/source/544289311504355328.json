@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Statement from Prime Minister Tony Abbott on Sydney hostage situation. http://t.co/MHkNRZFQWB",
+        "user id": 74361628,
+        "tweet id": "544289311504355328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Simon_Cullen @HalaJaber AU GOV and Tony Abbott is responsible for this mess!! AU Gov created the 'Rebels' Frankenstein in Syria!!",
+            "user id": 2202148326,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Simon_Cullen @DAVIDMDRAIMAN Urgh, the amount of lies that have come out of Abbott's mouth, his words of \"comfort\" mean nothing to us!",
+            "user id": 2393940180,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "#CharlieHebdo published a cartoon of the notorious #ISIS leader last week (They've just tweeted the pic again). http://t.co/YYyxzNaFFb",
+        "user id": 102420077,
+        "tweet id": "552788007603142656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah How is that relevant? Please don't do what everyone will do: hotchpotches :(",
+            "user id": 189118361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@RuwaydaMustafah IF the shooting linked to Muslims, it wont be due to this image but earlier ones insulting the Prophet (saw). (IF)",
+            "user id": 1577460577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                12
+            ],
+            "content": "@naheemsays How do you know?",
+            "user id": 102420077,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah الله يحفظك يا شيخ ذخر للإسلام تربي الملاحدة والم",
+            "user id": 2556715020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah @Peter_Fitz  @PhillipAdams_1  After gutless attack on French journalists lets retweet this in defiance of terror! #auspol",
+            "user id": 48684811,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah re-tweet and distribute it, no silence aboout islamist terror",
+            "user id": 1625816070,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah @AgentSaffron What does it mean?",
+            "user id": 2931887358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah @Dr_Afaq BREAKING: Paris: 10 dead in attack on satirical paper that poked fun at Mohammed http://t.co/9et92K8Pcd …",
+            "user id": 53641740,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah @FaithJupiter Imagine if one of your family lost their life for this crap, islam is destroying the world one body at a time",
+            "user id": 218460252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah fuck allah and your motherfucking islamism...",
+            "user id": 557475493,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah FACE IT ! THAT ISIS GUY IS A GOOFBALL MORON !! #FREE SPEECH !!!",
+            "user id": 2447771113,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@RuwaydaMustafah @mikeejoe \nFuck muhammad",
+            "user id": 46236196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 2,
+            "children": [
+                13
+            ],
+            "content": "@RuwaydaMustafah Baghdadi isnt a big deal and many mock him. Maybe I will be wrong but IF it has any links to Baghdadi I will be surprised.",
+            "user id": 1577460577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@RuwaydaMustafah Then again, ISIS are not sane",
+            "user id": 1577460577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

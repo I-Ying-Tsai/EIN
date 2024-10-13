@@ -1,0 +1,211 @@
+{
+    "source": {
+        "content": "The streets of Times Square have been taken over. Literally. #NMOS14 #ferguson https://t.co/ZnzqFhDdNI",
+        "user id": 203835503,
+        "tweet id": "500072334578159616",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Yup “@ReQCartier: The streets of Times Square have been taken over. Literally. #NMOS14 #ferguson https://t.co/jlMmMJ4sMX”",
+            "user id": 363452229,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ReQCartier Hello, it's BBC News here. Is this your footage from #NMOS14? If so, please may we use it with a name credit for you?",
+            "user id": 14154272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@BBC_HaveYourSay yes you may. My name is TreQuan Love",
+            "user id": 203835503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ReQCartier powerful!!",
+            "user id": 54061471,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@ReQCartier: The streets of Times Square have been taken over. Literally. #NMOS14 #ferguson https://t.co/7an6VAIZO8” - AWESOME SOLIDARITY!",
+            "user id": 120434850,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@ReQCartier: The streets of Times Square have been taken over. Literally. #NMOS14 #ferguson https://t.co/pQdtlBh2qL”",
+            "user id": 66268665,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@ReQCartier let's talk about how you're famous",
+            "user id": 26390995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                11
+            ],
+            "content": "Lol son basically every news outlet has hit me up RT @ArtistNamed_DS: @ReQCartier let's talk about how you're famous",
+            "user id": 203835503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@ReQCartier: The streets of Times Square have been taken over. Literally. #NMOS14 #ferguson https://t.co/82bW4vOd7l”🙌🙌",
+            "user id": 109951673,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "This is awesome!!!! RT“@ReQCartier: The streets of Times Square have been taken over. Literally. #NMOS14 #ferguson https://t.co/OCOmE1K660”",
+            "user id": 149925259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@ReQCartier Thank you.",
+            "user id": 14154272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [
+                13
+            ],
+            "content": "@ReQCartier lol. I seen your tweet rt on my timeline more than your actual tweets.",
+            "user id": 26390995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@BBC_HaveYourSay you're welcome",
+            "user id": 203835503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "@ArtistNamed_DS sonnnnn",
+            "user id": 203835503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@ReQCartier you're the active Lupe fiasco.",
+            "user id": 26390995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

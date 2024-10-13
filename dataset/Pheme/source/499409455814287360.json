@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Crowd peacefully dispersing at the QT tonight. #Ferguson",
+        "user id": 14090948,
+        "tweet id": "499409455814287360",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench I couldn't suffer anymore.",
+            "user id": 2741430611,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench thank God",
+            "user id": 2675114737,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @knollhoff What crowd were u looking at?",
+            "user id": 120860637,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Thank You Very Much.\n#Appreciated #Ferguson",
+            "user id": 402355096,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @NeoSoulPol Many prayers are being answered! I don't want to see anyone else get killed. #Ferguson #STLCounty",
+            "user id": 498955182,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @YourAnonCentral Police have thrown something at the crowd. Not sure what tho. Protester says \"they have enough bullets",
+            "user id": 287633965,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        }
+    }
+}

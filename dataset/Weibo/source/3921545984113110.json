@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "#新浪独家#【20年最晚中央经济工作会议召开，“任仲平”长文透露啥信息？】在“任仲平”这8000字的长文中人们得知20年来最晚的中央经济工作会议已经召开了。20年来“任仲平”为经济工作会议发过几次文章？这次8000字长文透露了什么信息？ 详见 http://t.cn/R4yishB （新浪新闻出品）",
+        "user id": 1618051664,
+        "tweet id": "3921545984113110",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "这个“独家”，就一条信息管用：今天，中央经济工作会议召开了。[嘻嘻]",
+            "user id": 1234865357,
+            "user name": "安崇民",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[思考]",
+            "user id": 1904585855,
+            "user name": "江南果蔬批发市场",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "[思考]",
+            "user id": 1904585855,
+            "user name": "江南果蔬批发市场",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "如果有报社搞好了我就去上班。[哈哈]",
+            "user id": 1230364981,
+            "user name": "雷新",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "[思考]",
+            "user id": 2125204557,
+            "user name": "尚待完成",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "[思考]",
+            "user id": 1230364981,
+            "user name": "雷新",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博！",
+            "user id": 2164005637,
+            "user name": "老县城李刚",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博！",
+            "user id": 2164005637,
+            "user name": "老县城李刚",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "#政在观察#来看看密切关系我们的经济工作会议有些什么内容？",
+            "user id": 1978837614,
+            "user name": "武汉大学政管院研究生会",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

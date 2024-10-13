@@ -1,0 +1,166 @@
+{
+    "source": {
+        "content": "\"Several men in black cagoules were heard to shout 'the Prophet has been avenged.'\" http://t.co/wu7XfGcZsM",
+        "user id": 283640557,
+        "tweet id": "552791182670327808",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley I'm so glad Hollande thinks Marine Le Pen and the Front National are France's greatest threat",
+            "user id": 855318254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley @DPJHodges Sounds like a Jewish / CIA conspiracy to me !.",
+            "user id": 1521762800,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley @JuliaHB1 - To be fair, these Muslims have never draw a cartoon/caricature of Jesus.Am sure there're Muslim mags out there!",
+            "user id": 159043829,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@timothy_stanley: \"Several men in black cagoules were heard to shout 'the Prophet has been avenged.'\" http://t.co/3O6Uqh56v2”",
+            "user id": 72588786,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@timothy_stanley Cagoulé means hooded or wearinga  ski mask, not wearing a cagoule",
+            "user id": 27313885,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@karnag my apologies - cut and pasted from article.",
+            "user id": 283640557,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@karnag @timothy_stanley #illsatirewithyou",
+            "user id": 259198272,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley are we sure about these cries or is this speculation as per usual from the sensationalist media?",
+            "user id": 305791287,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley @AnnaKarenina92 http://t.co/GQpVbrkImo",
+            "user id": 364538685,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley was it Lutherans?",
+            "user id": 1074162278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley @Michael_Heaver : I await the backlash from moderate Muslims.",
+            "user id": 2155001304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley If Allah is the so-called prophet, then it's clear that he's not God Almighty in that he needed scruffy rag-heads to kill.",
+            "user id": 108173110,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@timothy_stanley the Prophet (pbuh) would never ever call these terrorists fellow \"Muslims\"",
+            "user id": 18421211,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

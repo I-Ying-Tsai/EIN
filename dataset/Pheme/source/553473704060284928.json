@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Reports of shots fired, car chase northeast of Paris as French police hunt Charlie Hebdo attackers. http://t.co/yRb5bP0YV1",
+        "user id": 2097571,
+        "tweet id": "553473704060284928",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni \n\nIN UKRAINE HAVE GIVEN THE NAZI COUP, SUPPORTED BY NATO AND MEDIA COMMUNICATION,AS SEE PHOTO.\nhttp://t.co/tYCudKSLwr",
+            "user id": 2936694741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @cnni #BREAKING Reports of shots fired, car chase northeast of Paris -French police hunt Charlie Hebdo attackers. http://t.co/rEGsim1Ra9",
+            "user id": 36033359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

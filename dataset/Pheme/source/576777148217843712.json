@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "We've sussed it. The Kremlin's getting ready for St Patrick's Day ;) #putinmissing #putindead http://t.co/J4aOEUv4gl",
+        "user id": 2372174178,
+        "tweet id": "576777148217843712",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GorseFires Yes, and Putin and Medvedev are a couple of leprechauns.",
+            "user id": 3039217745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GorseFires No its #Putin's coming out parade #ukraine http://t.co/L0h2yUQZtp",
+            "user id": 938829744,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

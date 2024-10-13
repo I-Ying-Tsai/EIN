@@ -1,0 +1,206 @@
+{
+    "source": {
+        "content": "Police: Shooting in southern Paris wounds French police officer; too early to draw connection between this and Charlie Hebdo attack - @AP",
+        "user id": 6017542,
+        "tweet id": "553104503520890880",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": ".@BreakingNews @AP Why are you trying to 'draw a connection'.  It's worse if they are not connected.",
+            "user id": 628038157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@TheMadHessian @BreakingNews @AP why is it better or worse? And they're not \"trying\" to draw a connection. They're reporting facts.",
+            "user id": 23524389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @AP best of luck French forces, do your best.",
+            "user id": 75854948,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @AP The Government is paying for its policy to give residency to any Tom, Dick and Harry.",
+            "user id": 129691306,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @bourbonblondie @AP unless they guys know each other, there nothing in common?",
+            "user id": 2685015253,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                7,
+                8,
+                9,
+                10
+            ],
+            "content": ".@JPMcGlone @BreakingNews @AP Having two groups of armed attackers running around Paris is not worse?",
+            "user id": 628038157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [
+                11
+            ],
+            "content": ".@JPMcGlone @BreakingNews @AP Their tweet should read, \" Unknown if incident is related to yesterday's attack\"",
+            "user id": 628038157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@TheMadHessian @BreakingNews @AP shootings happen every day. It could be unrelated entirely. I hope it is.",
+            "user id": 23524389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "content": "@TheMadHessian @BreakingNews @AP if it's related it's either the same people or someone inspired by this. That's a bad sign.",
+            "user id": 23524389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 5,
+            "children": [],
+            "content": "@TheMadHessian if it's unrelated, it's just one of the unfortunate shootings that might have happened anyway today.",
+            "user id": 23524389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 5,
+            "children": [
+                12
+            ],
+            "content": "@TheMadHessian @BreakingNews @AP I prefer this not be an epidemic.",
+            "user id": 23524389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 6,
+            "children": [],
+            "content": "@TheMadHessian @BreakingNews @AP I thought the way they worded it was clear /shrug",
+            "user id": 23524389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": ".@JPMcGlone @BreakingNews @AP Agreed.  Its bad already and possibly really bad if its spreading.",
+            "user id": 628038157,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@TheMadHessian @BreakingNews @AP yea",
+            "user id": 23524389,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

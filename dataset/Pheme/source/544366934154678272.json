@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Islamic terrorist attack in Sydney. Hostages holding up a black flag with the Islamic creed on it. #SydneySiege http://t.co/8NE4o0coQ6",
+        "user id": 1695784514,
+        "tweet id": "544366934154678272",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ivivekbansal @Narendramodi_G Oh but terrorising has nothing to do with religion.Nothing at all.",
+            "user id": 100410807,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ivivekbansal @Modiarmy Hope #Australia beats the shit out of these Islamic Jihadis! @ritzy_jewels",
+            "user id": 2650226143,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ivivekbansal @Modiarmy these terrorrists are not islamic they are inhuman being!!",
+            "user id": 113306701,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

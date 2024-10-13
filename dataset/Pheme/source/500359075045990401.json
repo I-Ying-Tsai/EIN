@@ -1,0 +1,184 @@
+{
+    "source": {
+        "content": "BOMBSHELL: #Ferguson chief says the police officer might not have even known about the robbery when he shot and killed Michael Brown.",
+        "user id": 14722589,
+        "tweet id": "500359075045990401",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@michaelcalhoun @RonnieNotch so why release the robbery police report?! Just to slander the dead?",
+            "user id": 26137716,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@pr3130girl @michaelcalhoun exactly",
+            "user id": 19249855,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@fatachrestic @michaelcalhoun I don't get how it would be even 0% better if he had or hadn't.  No robbery justifies murder.  Ever. Period.",
+            "user id": 18134063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                13
+            ],
+            "content": "@Wooflepup @michaelcalhoun I agree. I think it is good to know just how blatantly the cops are lying.",
+            "user id": 165453873,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun Is FH telling these guys how to run PR? This is horrible",
+            "user id": 18119854,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": ".@michaelcalhoun @kmoxnews Isn't calling that a \"#BOMBSHELL\" projecting opinion in to your reporting?",
+            "user id": 2730153092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun Wouldn't be have heard in on his radio?",
+            "user id": 860230958,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @Paul1Singh There was no robbery.",
+            "user id": 3519681,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun no. An attempted robbery should not result in a summary execution - you guys are supposed to live in #america, not china",
+            "user id": 533578801,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @PRguitarman @GovJayNixon needs to fire literally all of them",
+            "user id": 16445051,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @ItsDevinMiles This shouldn't matter.A police officer is not the judge and jury.He's not god.  Btw what happened to a taser?",
+            "user id": 2233408590,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun I just listened to the broadcast of the highway patrol capt &amp; Nixon. I think they r trying to do a Saturday nite skit",
+            "user id": 152866740,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @Total_Irishness    Oh, yeah, then that's ok, right?    Holy fucking jeezes.",
+            "user id": 1520507035,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [],
+            "content": "@fatachrestic @michaelcalhoun Who knows what and whom to believe but it sure looks like murder to me.",
+            "user id": 18134063,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 10
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

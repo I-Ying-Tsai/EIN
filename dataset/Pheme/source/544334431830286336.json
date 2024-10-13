@@ -1,0 +1,155 @@
+{
+    "source": {
+        "content": "thoughts with the hostages and their families. prayers for a peaceful ending. #sydneysiege",
+        "user id": 23888081,
+        "tweet id": "544334431830286336",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@LoniLove Fuck Peacefull Kill all those ragheads now",
+            "user id": 15544922,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                9
+            ],
+            "content": "@Acaciavet @LoniLove https://t.co/UJcYpeWqxT the ppl who attack r extremists. remember not2 stereotype innocent ppl bcoz of violent nutcases",
+            "user id": 283921927,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@LoniLove #sidneysiege Amen, praying for a happy #ending.",
+            "user id": 2764248837,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@DivaT05 here's to hoping everyone makes it through this tragedy safely @ChangeTip",
+            "user id": 2371415304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@LoniLove here's to hoping everyone makes it through this tragedy safely @ChangeTip",
+            "user id": 2371415304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@LoniLove, @AdmiralLeviathn wants to send you a Bitcoin tip for 1 tragedy (2,855 bits/$1.00)! Collect ➔ http://t.co/aJfJegUpAs",
+            "user id": 2238411649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@LoniLove AMEN",
+            "user id": 2504544573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@LoniLove: thoughts with the hostages and their families. prayers for a peaceful ending. #sydneysiege”",
+            "user id": 31565022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@LoniLove 5 hostages escaped earlier today and a further 7 have just escaped. Gun shots firing NOW",
+            "user id": 283921927,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [],
+            "content": "@Rhi_Eve @LoniLove Their aint any Innocent ragheads",
+            "user id": 15544922,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@DivaT05, @AdmiralLeviathn wants to send you a Bitcoin tip for 1 tragedy (2,855 bits/$1.00)! Collect ➔ http://t.co/DLPNqGMpF5",
+            "user id": 2238411649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "12 people now known to have died after gunmen stormed the Paris HQ of magazine #CharlieHebdo http://t.co/ImgE2AACPw http://t.co/h2wgFokYVW",
+        "user id": 7587032,
+        "tweet id": "552804408233193473",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ":( RT @SkyNews: 12 people now known to have died after gunmen stormed the Paris HQ of magazine #CharlieHebdo http://t.co/SqDhH9qygA",
+            "user id": 21181417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: 12 people now known to have died after gunmen stormed the Paris HQ of magazine #CharlieHebdo http://t.co/DstZHw36KO madness",
+            "user id": 348584520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews there are some seriously sick people in this world nowadays 😞",
+            "user id": 2942267809,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

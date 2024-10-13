@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "The pen is mightier http://t.co/jyCLBL4qPX This is how cartoonists responded to #CharlieHebdo attack http://t.co/49HT4SmqAp",
+        "user id": 1562935142,
+        "tweet id": "553105942460760064",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCtrending don't forget to mention the bullets and weapons used by #ISIS are supplied in #NATO airdrops. Don't forget to draw that!",
+            "user id": 426038806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCtrending ISIS in Iraq stinks of CIA/NATO ‘dirty war’ op \nhttp://t.co/F7BFZj0D5B",
+            "user id": 180961394,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

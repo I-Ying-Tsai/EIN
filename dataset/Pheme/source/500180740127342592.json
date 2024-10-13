@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "You know things are out of control in #Ferguson when people in #Gaza are tweeting advice on how to cope http://t.co/HTovNvbOxv",
+        "user id": 225235528,
+        "tweet id": "500180740127342592",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps Also that Gazans are getting better news coverage on Ferguson than most Americans.",
+            "user id": 357069362,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AnonyOps: You know things are out of control in #Ferguson when people in #Gaza are tweeting advice on how to cope http://t.co/L5TJhNMCAq”",
+            "user id": 1663314774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps @JoyceTaylorKING All the while not a peep from the major media on the slaughter of Christians and non-Muslims in MidEast",
+            "user id": 1902604117,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps Scared rich people with guns, historically a great plan for everyone, especially when faced by angry, poor commoners.",
+            "user id": 498766399,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps I thank my brothers and sisters in Gaza for their support.  We, the people united can accomplish miracles.  TY.",
+            "user id": 1053271752,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps I do not like to hear people downplay the atrocities by the police in casting their actions as historical n they way it is.",
+            "user id": 1053271752,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps sorry to hear that news",
+            "user id": 2560298892,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "to all of those who aren't Australian, please be thinking of the hostages in Sydney tonight, just to spare a simple thought, it's terrifying",
+        "user id": 2429570119,
+        "tweet id": "544429467968339970",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thetommopics I hope everyone is\nEveryone here in Australia is freaking the fuck out\nIt's scaring me",
+            "user id": 823998564,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@thetommopics what happend? i just woke up, i don't know about anything :(",
+            "user id": 1093027568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@stylesnjhh @thetommopics same I'm so confused",
+            "user id": 2882792929,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thetommopics do you live in Sydney?",
+            "user id": 1328871954,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@thetommopics wait I just woke up what happened",
+            "user id": 2882792929,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@thetommopics could you tell me what happened ?",
+            "user id": 919134180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@thetommopics what happened I'm confused too",
+            "user id": 2890182226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@thetommopics what is happening?",
+            "user id": 1658214594,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

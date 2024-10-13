@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "French police launch assault at site north of Paris where two suspected Charlie Hebdo killers are holding a hostage http://t.co/WBAbocdrBQ",
+        "user id": 5402612,
+        "tweet id": "553584782987497474",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking  live on @cnn",
+            "user id": 465897557,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking But what about the weather??...",
+            "user id": 19939104,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Scene at site north of Paris where French police are launching assault http://t.co/jMOZXPaSOJ #CharlieHebdo http://t.co/puASv6vuuD",
+            "user id": 5402612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "RT @BBCBreaking: Scene at site north of Paris where French police are launching assault http://t.co/y3u2wrmMms http://t.co/1HP9jY4M8V",
+            "user id": 31609859,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @bbc5live 4 big explosions",
+            "user id": 15512979,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @ChaboiJoee I heard there were tanks too",
+            "user id": 813767851,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: French police launch assault at site north of Paris where two suspected Charlie Hebdo killers are holding a hostage!",
+            "user id": 244162041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @bbc5live yeh we were all watching it on TV when you decided to cut to the weather you utter wankers",
+            "user id": 78663641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

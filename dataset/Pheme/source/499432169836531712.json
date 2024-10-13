@@ -1,0 +1,138 @@
+{
+    "source": {
+        "content": "This is not Kiev, Ukraine. This is #Ferguson, Missouri right now. http://t.co/RXZ0xkaBrP",
+        "user id": 1381926373,
+        "tweet id": "499432169836531712",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@YourAnonGlobal someone give that man a medal",
+            "user id": 535958910,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal @cobitate too mad hes holdin a bag of chips at the same time",
+            "user id": 744368124,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@YourAnonGlobal: This is not Kiev, Ukraine. This is #Ferguson, Missouri right now. http://t.co/dlb7PPuDuT” shit look like the Purge 2",
+            "user id": 230073320,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal @AnonyPress if you need help for \"how to resist angst police brutality\",we can deliver some expertise http://t.co/azJb4cCza6",
+            "user id": 2415008065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@YourAnonGlobal: This is not Kiev, Ukraine. This is #Ferguson, Missouri right now. http://t.co/r1CuXX5Yty” @Kaine_Murray",
+            "user id": 413580056,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal and while also holding a bag of chips (?) lol, badass",
+            "user id": 261547866,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal good for him, its the real thugs in police costumes who r the ones that need to disperse",
+            "user id": 261547866,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@YourAnonGlobal there was no looting in Kiev",
+            "user id": 102271403,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "content": "@pentimento_ There wasn't looting in Kiev because Ukrainians are a civilized people, unlike the self-absorbed looters in Ferguson, MO.",
+            "user id": 36867249,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@erictinney also after tsunami there were no reports of looting.",
+            "user id": 102271403,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

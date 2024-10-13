@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#CharlieHebdo attack suspects take 1 person hostage North-East of Paris (police source) http://t.co/LdSF5QeCiv http://t.co/2y5fPwHXA7",
+        "user id": 1994321,
+        "tweet id": "553487544508493825",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 İsrailli Tümgeneral Aviv Koçavi: Türkiye’de üç El Kaide üssü var!\nhttp://t.co/tbC091JefY\nhttp://t.co/Qkqkx8wNDe",
+            "user id": 1637725969,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "😱“@FRANCE24: #CharlieHebdo suspects take 1 person hostage North-East of Paris (police source) http://t.co/31FBay3Pe3 http://t.co/ZxtzeylGP9”",
+            "user id": 198771331,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 はフランス報道専門ＴＶ局。英語でTWおよびビデオ、画像。#週間Charlie",
+            "user id": 121181892,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@FRANCE24: #CharlieHebdo attack suspects take 1 person hostage North-East of Paris http://t.co/3V5ju46eXX http://t.co/g0OYWFjC1h”",
+            "user id": 71463418,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

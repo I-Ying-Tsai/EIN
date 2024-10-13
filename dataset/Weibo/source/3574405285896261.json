@@ -1,0 +1,5415 @@
+{
+    "source": {
+        "content": "我们还要捐款吗？雅安总人口是153万，三星、苹果、富士康三家总共捐款160000000元，平均分给雅安市的每一个人是1050000元左右，而现在还在缺物质缺钱，各地方各单位个学校还在圈钱，钱去哪里了我真不该问!再加上一个加多宝的100000000，我只想问钱呢？给老百姓的钱呢？",
+        "user id": 1277937164,
+        "tweet id": "3574405285896261",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "算得不对",
+            "user id": 2267818061,
+            "user name": "刘亚强1010",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                3,
+                4,
+                9,
+                24,
+                40
+            ],
+            "content": "转发微博",
+            "user id": 1734574947,
+            "user name": "邱黯雄",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "算的不对",
+            "user id": 2267818061,
+            "user name": "刘亚强1010",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "",
+            "user id": 2232878117,
+            "user name": "翟倞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "",
+            "user id": 1848034592,
+            "user name": "湖北老家1",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                218
+            ],
+            "content": "谁动了雅安的“钱”",
+            "user id": 2614932102,
+            "user name": "ZCvogue",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "我操，这数学，，，",
+            "user id": 1184746117,
+            "user name": "于瀛YuYing",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "明知故问！！！",
+            "user id": 1442703482,
+            "user name": "W王往W",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [],
+            "content": "钱呢？",
+            "user id": 1877790377,
+            "user name": "田野龙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [
+                10,
+                12,
+                13,
+                185,
+                324,
+                328
+            ],
+            "content": "",
+            "user id": 1402755693,
+            "user name": "牟磊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1496864802,
+            "user name": "胡适之先生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "智商是硬伤",
+            "user id": 1741981273,
+            "user name": "乔巴人人",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [
+                21,
+                211
+            ],
+            "content": "",
+            "user id": 1708218332,
+            "user name": "温暖的骨头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 9,
+            "children": [
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                27,
+                29,
+                32,
+                43,
+                50,
+                54,
+                64,
+                67,
+                75,
+                83,
+                86,
+                88,
+                95,
+                97,
+                99,
+                102,
+                188,
+                321,
+                359,
+                386
+            ],
+            "content": "算术太差",
+            "user id": 1653491530,
+            "user name": "中年小饭",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                26,
+                53,
+                58
+            ],
+            "content": "",
+            "user id": 1498221733,
+            "user name": "格子里的夜晚",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "content": "扩大内需，增加消费",
+            "user id": 2088247443,
+            "user name": "知了哈哈笑",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [],
+            "content": "别拿这么多0来唬我阿，我知道我算术不好，很欣慰你比我还差[哈哈]。",
+            "user id": 1942806335,
+            "user name": "皇后大道东上虹彩哥哥爱的故事",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 13,
+            "children": [
+                271
+            ],
+            "content": "额啊！！！",
+            "user id": 1694464187,
+            "user name": "马囧琳",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 13,
+            "children": [],
+            "content": "可能在金融界干的太久了，用了10000倍杠杆率。",
+            "user id": 1669775591,
+            "user name": "蜘蛛猴",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 19,
+            "parent": 13,
+            "children": [
+                25
+            ],
+            "content": "智商太捉急了[晕]",
+            "user id": 1225694067,
+            "user name": "独孤高歌_瓦帝离家快乐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                22,
+                33,
+                37,
+                46,
+                49,
+                60,
+                63,
+                80,
+                89,
+                96,
+                146,
+                150,
+                156,
+                158,
+                311,
+                319,
+                431
+            ],
+            "content": "……博主很快会删除这条暴露他智商的微博吧，能把1.6亿分153万人算出每人可拿到105w的强者，小学数学老师肯定不是语文老师教的，怎么也得是体育老师啊。",
+            "user id": 1744833443,
+            "user name": "纵横-邪月",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 12,
+            "children": [
+                28,
+                31,
+                38,
+                41,
+                52,
+                55,
+                66,
+                69,
+                74,
+                127,
+                149,
+                235,
+                302
+            ],
+            "content": "他这个数学也是裁缝教的。",
+            "user id": 1400844280,
+            "user name": "杨樾杨樾",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 22,
+            "parent": 20,
+            "children": [],
+            "content": "笑死了[嘻嘻]",
+            "user id": 1662272393,
+            "user name": "大风天",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈哈，这数学是咋学的？连数钱都不会，还搞金融呢。。[爱你]",
+            "user id": 1888426193,
+            "user name": "三亚黄文致",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 1,
+            "children": [],
+            "content": "钱呢？",
+            "user id": 1854903240,
+            "user name": "花花-小和尚",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": 19,
+            "children": [],
+            "content": "数学课是学校门口看门大爷教的",
+            "user id": 1154504992,
+            "user name": "IndyQueen呵呵呵",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 26,
+            "parent": 14,
+            "children": [],
+            "content": "retest结果是人均105元，与po主出现巨大diff，需要进一步解释，初步怀疑是po主数学太差",
+            "user id": 1854874437,
+            "user name": "奥迪特艾尔迪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 27,
+            "parent": 13,
+            "children": [],
+            "content": "哪能你这么算。",
+            "user id": 2693212941,
+            "user name": "自负与偏执",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 28,
+            "parent": 21,
+            "children": [],
+            "content": "160,000,000/1,530,000=104.6。。。",
+            "user id": 1653791530,
+            "user name": "iXerol",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 29,
+            "parent": 13,
+            "children": [
+                440
+            ],
+            "content": "什么叫国难财?平常有什么理由?这事也算百年难遇。",
+            "user id": 1878422095,
+            "user name": "母飞鹏",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                35
+            ],
+            "content": "这算术[汗]",
+            "user id": 1769089620,
+            "user name": "一叶飘洋过海",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": 21,
+            "children": [
+                68
+            ],
+            "content": "钱都用哪了？捐的越多要得越多",
+            "user id": 1264805287,
+            "user name": "芒果之父",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 32,
+            "parent": 13,
+            "children": [],
+            "content": "钓鱼贴",
+            "user id": 1745997567,
+            "user name": "假装青文",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 33,
+            "parent": 20,
+            "children": [],
+            "content": "这是金融业？[偷笑]",
+            "user id": 1583671183,
+            "user name": "疑问多多萌大球",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "content": "好牛b的金融家呀。。。这数学～",
+            "user id": 1402295332,
+            "user name": "董礼董礼",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": 30,
+            "children": [],
+            "content": "哈哈，说得对，老子一分钱都特么的没捐！别说什么老子吝啬，老子小气，老子要捐都是直接去灾区亲手给老百姓，至于政府，那只能说，滚你玛的蛋吧。<好吧如花姐姐，我激动了，我悔过。。。>",
+            "user id": 2330512642,
+            "user name": "倾榭依",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "content": "钓鱼帖，大家不要笑，反正体育老师教我数学的时候我没逃课就是",
+            "user id": 1801847657,
+            "user name": "大头鱼N",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": 20,
+            "children": [
+                90
+            ],
+            "content": "",
+            "user id": 1684933097,
+            "user name": "红眸本尊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": 21,
+            "children": [],
+            "content": "怎么说人想出名呢，这哥们也是一腔良心",
+            "user id": 2154366962,
+            "user name": "LaurentDang",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "content": "真是奇葩，博主小学数学老师若是知道一定会气的吐血",
+            "user id": 1266607031,
+            "user name": "云河De洛神月",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": 1,
+            "children": [
+                45
+            ],
+            "content": "雅安的捐款够不够我不知道，不过这位@金融徐健博 ，麻烦您重新算一下好不，是105元左右好不……",
+            "user id": 1310301803,
+            "user name": "哪小色",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": 21,
+            "children": [],
+            "content": "我去…人才啊，这么大的数都能算出来，不愧是搞金融的[偷笑]",
+            "user id": 1922710957,
+            "user name": "QD_Gen",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "content": "脑残",
+            "user id": 1409745547,
+            "user name": "Bukit_Sari",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": 13,
+            "children": [],
+            "content": "人家还有金融前缀的",
+            "user id": 1674104817,
+            "user name": "o月亮o",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "content": "难道咱们国家做金融的就是这么一帮人？",
+            "user id": 1642177407,
+            "user name": "清凉自在天",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": 40,
+            "children": [
+                57
+            ],
+            "content": "真为不懂数学的金融师捉急",
+            "user id": 1683021927,
+            "user name": "刘楚痕",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 46,
+            "parent": 20,
+            "children": [],
+            "content": "为了显示钱多，用那么多的0，为什么不把人口也用那么多0表示呢？不然，不就不会害你体育老师中枪了。体育老师何其无辜[怒]",
+            "user id": 1427912934,
+            "user name": "大米饭团铺",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [],
+            "content": "看到bo主名字中那两个金光闪闪的金融二字，顿时哥给跪了。",
+            "user id": 2190761264,
+            "user name": "摇滚经典",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "content": "不会算数的的金融师真让人捉急[汗]",
+            "user id": 1266851897,
+            "user name": "一点都不淠俚氆氇的李小可",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": 20,
+            "children": [],
+            "content": "乍一看以为躺枪，仔细看原来在说我同事啊[酷]",
+            "user id": 2037636813,
+            "user name": "教你语文的体育老师",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 50,
+            "parent": 13,
+            "children": [],
+            "content": "不要脸",
+            "user id": 1629238232,
+            "user name": "到处都是油菜花",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [],
+            "content": "英语老师没教好…",
+            "user id": 1590756597,
+            "user name": "雨落半旬",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 52,
+            "parent": 21,
+            "children": [
+                56,
+                76,
+                77
+            ],
+            "content": "估计手指少掰不过来了",
+            "user id": 2074059950,
+            "user name": "乱桌",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 53,
+            "parent": 14,
+            "children": [],
+            "content": "原博还搞金融呢？数学是体育老师教的么？",
+            "user id": 1516290824,
+            "user name": "鱼块的云中漫步",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 54,
+            "parent": 13,
+            "children": [],
+            "content": "？？？",
+            "user id": 1354877255,
+            "user name": "岛上皮皮",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 55,
+            "parent": 21,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 2936951165,
+            "user name": "张越老师",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 56,
+            "parent": 52,
+            "children": [],
+            "content": "[阴险]又懂了............",
+            "user id": 1250304180,
+            "user name": "据小说",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 57,
+            "parent": 45,
+            "children": [
+                79
+            ],
+            "content": "[哈哈]",
+            "user id": 1734574947,
+            "user name": "邱黯雄",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 58,
+            "parent": 14,
+            "children": [
+                104
+            ],
+            "content": "",
+            "user id": 1591619982,
+            "user name": "上海架梁阿嫂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 59,
+            "parent": -1,
+            "children": [],
+            "content": "跪了.。这微博让我想起车贴一条，驾校除名，自学成才。",
+            "user id": 1049754243,
+            "user name": "四处作案",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 60,
+            "parent": 20,
+            "children": [
+                70,
+                101
+            ],
+            "content": "关键是人家还是玩金融的啊，我现在再次确认，金融业真不创造财富，他们只算出财富",
+            "user id": 2622858865,
+            "user name": "圣者晨雷2012",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "content": "大早晨的被笑醒了。他的数学肯定不是体育老师教的。",
+            "user id": 2313686633,
+            "user name": "汉汉路还长",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": -1,
+            "children": [],
+            "content": "就这算术还搞金融？真替你的客户捉急！",
+            "user id": 2858161135,
+            "user name": "易飞明",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 63,
+            "parent": 20,
+            "children": [],
+            "content": "智商捉急[汗]",
+            "user id": 2644633460,
+            "user name": "大家微博名字都那么长能忍吗",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 64,
+            "parent": 13,
+            "children": [
+                65,
+                93
+            ],
+            "content": "[哼]",
+            "user id": 1157819485,
+            "user name": "zhangchaosk",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 65,
+            "parent": 64,
+            "children": [],
+            "content": "低级公知，等进化了再来黑！",
+            "user id": 1254639077,
+            "user name": "豆芽虫",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 66,
+            "parent": 21,
+            "children": [],
+            "content": "健博啊 那个153后面还有个万字啊 下次看清楚",
+            "user id": 1664267497,
+            "user name": "张利伟de微博",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 67,
+            "parent": 13,
+            "children": [
+                87
+            ],
+            "content": "这个金融人真是好计算",
+            "user id": 2375096770,
+            "user name": "百无聊奈的Leon",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 68,
+            "parent": 31,
+            "children": [
+                71
+            ],
+            "content": "这哥们数学老师走得早。。。。",
+            "user id": 1951843755,
+            "user name": "Merlin-QD",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 69,
+            "parent": 21,
+            "children": [],
+            "content": "这人是有多想红啊? [熊猫]",
+            "user id": 1599162821,
+            "user name": "正牌举人",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 70,
+            "parent": 60,
+            "children": [
+                109
+            ],
+            "content": "上次貌似也见了个类似的帖子，机器人？",
+            "user id": 1046828983,
+            "user name": "震古烁今",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 71,
+            "parent": 68,
+            "children": [
+                81
+            ],
+            "content": "还好人口不是1千万",
+            "user id": 2103476153,
+            "user name": "Jackie_Julie",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 72,
+            "parent": -1,
+            "children": [],
+            "content": "计算器很贵么",
+            "user id": 1669612181,
+            "user name": "东边的邪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 73,
+            "parent": -1,
+            "children": [],
+            "content": "博主尊的是学金融的么。。。在银行工作不？明天找你取钱",
+            "user id": 2293564055,
+            "user name": "彩色铅笔4970",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 74,
+            "parent": 21,
+            "children": [],
+            "content": "真的是裁缝教的[哈哈][哈哈][哈哈]",
+            "user id": 1760413161,
+            "user name": "大玮巴瑜",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 75,
+            "parent": 13,
+            "children": [],
+            "content": "看到好多个圈圈，数不过来[晕]",
+            "user id": 1847182077,
+            "user name": "依伊hnv",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 76,
+            "parent": 52,
+            "children": [],
+            "content": "哈哈……",
+            "user id": 1847542215,
+            "user name": "diggdi",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 77,
+            "parent": 52,
+            "children": [],
+            "content": "哦，这样啊",
+            "user id": 1760816307,
+            "user name": "柒柒_y",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 78,
+            "parent": -1,
+            "children": [
+                348
+            ],
+            "content": "钱呢？",
+            "user id": 2291325682,
+            "user name": "marshallwu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 79,
+            "parent": 57,
+            "children": [],
+            "content": "有点丢人",
+            "user id": 1491591234,
+            "user name": "wwd81",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 80,
+            "parent": 20,
+            "children": [],
+            "content": "……",
+            "user id": 2474529140,
+            "user name": "禹景曦女票V_middle2菊长",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 81,
+            "parent": 71,
+            "children": [],
+            "content": "不知道他做什么金融的。急死人了。",
+            "user id": 1411659571,
+            "user name": "萝卜特_邱",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 82,
+            "parent": -1,
+            "children": [
+                332
+            ],
+            "content": "转发微博",
+            "user id": 1364964667,
+            "user name": "jdhebo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 83,
+            "parent": 13,
+            "children": [],
+            "content": "这货数学是体育老师教的吧。",
+            "user id": 2141397295,
+            "user name": "蘑菇凯鲁亚克",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 84,
+            "parent": -1,
+            "children": [],
+            "content": "[猪头]是人都知道",
+            "user id": 2071480595,
+            "user name": "中二魚羽",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 85,
+            "parent": -1,
+            "children": [
+                112
+            ],
+            "content": "你的数学是体育老师教的。[震惊]",
+            "user id": 1709741252,
+            "user name": "韬sir",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 86,
+            "parent": 13,
+            "children": [],
+            "content": " @KK愛伱 @徐力东",
+            "user id": 2884852590,
+            "user name": "么么ring",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 87,
+            "parent": 67,
+            "children": [
+                94,
+                160,
+                428
+            ],
+            "content": "呵呵，看了让子弹飞你就明白了。先让富豪捐，然后带动屁民捐，然后把钱还给富豪，最后对屁民的三七分账。",
+            "user id": 1295689665,
+            "user name": "demonho",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 88,
+            "parent": 13,
+            "children": [],
+            "content": "好玩",
+            "user id": 2576658957,
+            "user name": "高腾不二凡GodFrey",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 89,
+            "parent": 20,
+            "children": [],
+            "content": "哈哈，真会算账",
+            "user id": 2043765653,
+            "user name": "月禾境界",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 90,
+            "parent": 37,
+            "children": [
+                100
+            ],
+            "content": "数学老师死的早系列",
+            "user id": 1674528825,
+            "user name": "圣洁么",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 91,
+            "parent": -1,
+            "children": [
+                103
+            ],
+            "content": "我也想跟他混",
+            "user id": 1066698717,
+            "user name": "从不上网的小孩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 92,
+            "parent": -1,
+            "children": [
+                189
+            ],
+            "content": "转发微博",
+            "user id": 1402671800,
+            "user name": "老同志_柒柒捌捌玖肆伍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 93,
+            "parent": 64,
+            "children": [],
+            "content": "体育老师知道了肯定会跳楼的",
+            "user id": 3214591927,
+            "user name": "邓嫣然Ssssoo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 94,
+            "parent": 87,
+            "children": [],
+            "content": "真相帝",
+            "user id": 2797967390,
+            "user name": "顺达那些事儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 95,
+            "parent": 13,
+            "children": [],
+            "content": "可怜的孩子是160000000÷153算的…",
+            "user id": 1764285751,
+            "user name": "AlexLiuNew",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 96,
+            "parent": 20,
+            "children": [
+                133
+            ],
+            "content": "这学金融的数学得多好啊。。。。",
+            "user id": 2007874193,
+            "user name": "夜静鸣",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 97,
+            "parent": 13,
+            "children": [
+                111
+            ],
+            "content": "这个是冷笑话吗？",
+            "user id": 2392561314,
+            "user name": "大叔王小帅",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 98,
+            "parent": -1,
+            "children": [],
+            "content": "真捉急，等自删！",
+            "user id": 2190877624,
+            "user name": "aaaa橙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 99,
+            "parent": 13,
+            "children": [],
+            "content": "卧槽，金融门槛这么低了？？",
+            "user id": 2695458125,
+            "user name": "Yyyyyue_99",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 100,
+            "parent": 90,
+            "children": [
+                106,
+                107,
+                114,
+                349
+            ],
+            "content": "",
+            "user id": 1846607045,
+            "user name": "壮哉我龙空大托拉斯",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 101,
+            "parent": 60,
+            "children": [
+                105
+            ],
+            "content": "我擦，又来这种~骗转发？好吧，被骗了。",
+            "user id": 1689640111,
+            "user name": "泛东流",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 102,
+            "parent": 13,
+            "children": [],
+            "content": "数死早",
+            "user id": 1627759037,
+            "user name": "尼看起来很好吃",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 103,
+            "parent": 91,
+            "children": [],
+            "content": "说好的监督呢",
+            "user id": 2016333317,
+            "user name": "风一样的耗子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 104,
+            "parent": 58,
+            "children": [],
+            "content": "转",
+            "user id": 1456383240,
+            "user name": "张家阿四",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 105,
+            "parent": 101,
+            "children": [],
+            "content": "奇葩啊",
+            "user id": 1799386095,
+            "user name": "长生不老",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 106,
+            "parent": 100,
+            "children": [
+                163
+            ],
+            "content": "博主还是搞金融的？你是专门去骗钱的吧",
+            "user id": 1760315984,
+            "user name": "色色又空空",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 107,
+            "parent": 100,
+            "children": [],
+            "content": "钱全部给PO主这样的傻逼买药吃了",
+            "user id": 1760469072,
+            "user name": "纯洁善良的河马蜀黍",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 108,
+            "parent": -1,
+            "children": [],
+            "content": "请输入转发理由噗~~~这脑子，没治了",
+            "user id": 1974044531,
+            "user name": "永远听巴克",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 109,
+            "parent": 70,
+            "children": [
+                120
+            ],
+            "content": "嘛……这种贴子见过两三次之后就一点也不觉得意外 了喵……",
+            "user id": 1773245951,
+            "user name": "专业卖萌三十年的鱼丸",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 110,
+            "parent": -1,
+            "children": [],
+            "content": "坚决不＂捐＂",
+            "user id": 1563004865,
+            "user name": "龟兹流氓兔在北京",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 111,
+            "parent": 97,
+            "children": [
+                119,
+                237
+            ],
+            "content": "还金融。。。这家伙的数学肯定是体育老师教的。[汗]",
+            "user id": 1909112257,
+            "user name": "傅小JO呢",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 112,
+            "parent": 85,
+            "children": [],
+            "content": "零都看晕了",
+            "user id": 1756436671,
+            "user name": "某某璐大人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 113,
+            "parent": -1,
+            "children": [
+                147
+            ],
+            "content": "原来搞金融的门槛这么低。我的小学数学老师可以瞑目了。1.6亿除以153万得多少我还是会算滴。[耶][耶]",
+            "user id": 1914509834,
+            "user name": "燕小七的七舅姥爷",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 114,
+            "parent": 100,
+            "children": [
+                116,
+                125,
+                130,
+                134,
+                152,
+                194,
+                288
+            ],
+            "content": "就这数学水平还玩金融",
+            "user id": 1720873411,
+            "user name": "浩气长存蘑菇菇",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 115,
+            "parent": -1,
+            "children": [
+                117,
+                129
+            ],
+            "content": "博主你真是搞金融的？难怪中国金融巿场这么乱[哈哈]",
+            "user id": 2694559134,
+            "user name": "大极之王",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 116,
+            "parent": 114,
+            "children": [
+                124,
+                131,
+                132,
+                140,
+                144,
+                145,
+                161,
+                197,
+                232,
+                240,
+                245,
+                297,
+                343,
+                363,
+                394
+            ],
+            "content": "金融哭了",
+            "user id": 1901845284,
+            "user name": "鸡排快到碗里来",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 117,
+            "parent": 115,
+            "children": [
+                118,
+                121,
+                148
+            ],
+            "content": "[吃惊]我数学不好，别骗我",
+            "user id": 1619788813,
+            "user name": "特工傀儡梅姐夫",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 118,
+            "parent": 117,
+            "children": [
+                128,
+                135,
+                136,
+                137,
+                142,
+                143,
+                153,
+                170,
+                200,
+                258
+            ],
+            "content": "大家都太穷，要是每个人都能买得起计算器就好了",
+            "user id": 1258679960,
+            "user name": "纯洁善良潘帕斯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 119,
+            "parent": 111,
+            "children": [],
+            "content": "小学老师没教你，计算的时候单位要先统一吗？这2B",
+            "user id": 1210183963,
+            "user name": "小老盛",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 120,
+            "parent": 109,
+            "children": [],
+            "content": "智商堪忧/@纵横-邪月: 博主很快会删除这条暴露他智商的微博吧，能把1.6亿分153万人算出每人可拿到105w的强者，小学数学老师肯定不是语文老师教的，怎么也得是体育老师",
+            "user id": 1956118453,
+            "user name": "不给力王子",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 121,
+            "parent": 117,
+            "children": [],
+            "content": "博主没有统一运算单位，不会是故意钓鱼吧?",
+            "user id": 1405527204,
+            "user name": "练祁河",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 122,
+            "parent": -1,
+            "children": [],
+            "content": "这算术做得杠杠的……",
+            "user id": 2156165462,
+            "user name": "文艺女舞大刀",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 123,
+            "parent": -1,
+            "children": [],
+            "content": "財富就是這樣產生的。勞動是創造不出財富一一茅賊語。",
+            "user id": 2153250813,
+            "user name": "琼的了哒哒滴",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 124,
+            "parent": 116,
+            "children": [
+                339
+            ],
+            "content": "数学哭了",
+            "user id": 1593385581,
+            "user name": "六旬狸花猫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 125,
+            "parent": 114,
+            "children": [],
+            "content": "艾玛这除法算的！太有水平了！除的时候那个万是汉字不是数字吧23333！",
+            "user id": 1376949070,
+            "user name": "滚茶叶蛋喵喵喵",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 126,
+            "parent": -1,
+            "children": [],
+            "content": "体育老师教得太好了！",
+            "user id": 1712050501,
+            "user name": "影子LEON",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 127,
+            "parent": 21,
+            "children": [],
+            "content": "哈哈，裁缝数学应该是很不错的，这人数学应该是音乐老师教的吧，明显把雅安人口当成153人了…",
+            "user id": 1829826803,
+            "user name": "张挠挠同学",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 128,
+            "parent": 118,
+            "children": [],
+            "content": "博主！别以为你输了几个0我们就数不过来了！",
+            "user id": 1575745553,
+            "user name": "既死魄_蟹黄小汤包",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 129,
+            "parent": 115,
+            "children": [
+                141
+            ],
+            "content": "这年头。。。",
+            "user id": 1885431282,
+            "user name": "培辰-味忠咸",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 130,
+            "parent": 114,
+            "children": [],
+            "content": "我倒想知道博主是研究金融哪个方面的以及哪个学校出来的……给自己学校丢人呢吧",
+            "user id": 1214851560,
+            "user name": "米凯尔坩埚牌杂拌糖说",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 131,
+            "parent": 116,
+            "children": [],
+            "content": "智商捉急",
+            "user id": 1880682404,
+            "user name": "兔子长期省电模式",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 132,
+            "parent": 116,
+            "children": [],
+            "content": "体育老师好忙啊什么都教",
+            "user id": 1726844072,
+            "user name": "tenacity2015lol",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 133,
+            "parent": 96,
+            "children": [],
+            "content": "这是搞笑贴？",
+            "user id": 2107117451,
+            "user name": "阿尔伯西诺",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 134,
+            "parent": 114,
+            "children": [],
+            "content": "最右别欺负体育老师",
+            "user id": 1270535230,
+            "user name": "每天都在纠结的米虫",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 135,
+            "parent": 118,
+            "children": [],
+            "content": "钱都当砖头垒了墙角…还远远不够呢[哈哈]",
+            "user id": 3217910737,
+            "user name": "百无一用情怀裆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 136,
+            "parent": 118,
+            "children": [],
+            "content": "故意的。太讨厌了",
+            "user id": 1496822657,
+            "user name": "张七公子HBU",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 137,
+            "parent": 118,
+            "children": [
+                191
+            ],
+            "content": "搞金融的不识数……",
+            "user id": 1764917340,
+            "user name": "贪玩又自由的风筝",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 138,
+            "parent": -1,
+            "children": [],
+            "content": "次贷产生的根本原因就是博主这样的吧",
+            "user id": 1040761037,
+            "user name": "四眼猫",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 139,
+            "parent": -1,
+            "children": [],
+            "content": "哟，原来不只有我数学是体育老师教的啊，买了个表！",
+            "user id": 1648889330,
+            "user name": "Even翁翁",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 140,
+            "parent": 116,
+            "children": [],
+            "content": "哈哈哈哈哈哈哈哈",
+            "user id": 1862978094,
+            "user name": "常务萎员长S爷_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 141,
+            "parent": 129,
+            "children": [],
+            "content": "貌似数死早都去搞金融了[汗]",
+            "user id": 2537050354,
+            "user name": "小胖纸努力增肥中",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 142,
+            "parent": 118,
+            "children": [
+                151
+            ],
+            "content": "博猪真不愧猪名。",
+            "user id": 1820239447,
+            "user name": "章小鱼吃小章鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 143,
+            "parent": 118,
+            "children": [],
+            "content": "[哈哈]PO主好段子",
+            "user id": 1805832500,
+            "user name": "大黄小样儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 144,
+            "parent": 116,
+            "children": [],
+            "content": "= =",
+            "user id": 2532791443,
+            "user name": "正直少年小啊炮",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 145,
+            "parent": 116,
+            "children": [],
+            "content": "……已经黑得不择手段了吗",
+            "user id": 1739583483,
+            "user name": "腐竹腐竹腐竹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 146,
+            "parent": 20,
+            "children": [
+                307
+            ],
+            "content": "围观[酷]",
+            "user id": 2618804942,
+            "user name": "五音音",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 147,
+            "parent": 113,
+            "children": [],
+            "content": "你只是没用心，你要是在数学上用了心哪儿还有他们什么事儿呀？[挖鼻屎]",
+            "user id": 2152492670,
+            "user name": "燕小七的七舅姥姥",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 148,
+            "parent": 117,
+            "children": [
+                154
+            ],
+            "content": "对比博主签名，更有喜感【有良心的随心所欲，有责任的天马行空，对无耻和黑暗桀骜不驯......】",
+            "user id": 1401434920,
+            "user name": "仰望星空看泥土",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 149,
+            "parent": 21,
+            "children": [],
+            "content": "他很明确，故意用153万人,而没用1530000人",
+            "user id": 2218204237,
+            "user name": "立即搜索",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 150,
+            "parent": 20,
+            "children": [],
+            "content": "←_←安慰一下博主",
+            "user id": 1645491384,
+            "user name": "青衣牧云恨不逢",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 151,
+            "parent": 142,
+            "children": [],
+            "content": "穷到买不起计算器的人也敢搞金融？不怕尸骨无存啊？",
+            "user id": 1458309703,
+            "user name": "夜語菲",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 152,
+            "parent": 114,
+            "children": [
+                397
+            ],
+            "content": "数死早",
+            "user id": 1824581233,
+            "user name": "cafe吉祥寺",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 153,
+            "parent": 118,
+            "children": [
+                216
+            ],
+            "content": "我们穷啊[泪]",
+            "user id": 2694559134,
+            "user name": "大极之王",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 154,
+            "parent": 148,
+            "children": [],
+            "content": "噗",
+            "user id": 1601672865,
+            "user name": "塔敏哈日勒--kyle",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 155,
+            "parent": -1,
+            "children": [],
+            "content": "我忍不住再转一次，笑死我了。。。哈哈哈哈~~~",
+            "user id": 2074059950,
+            "user name": "乱桌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 156,
+            "parent": 20,
+            "children": [],
+            "content": "这就是现实的财富论阿，你们这些人不懂不要乱讲，人家学金融的会不知道这个？博主这是在暗讽呢。",
+            "user id": 2294838747,
+            "user name": "小呆不花心",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 157,
+            "parent": -1,
+            "children": [
+                335
+            ],
+            "content": "金融危机啊[泪]",
+            "user id": 1406601421,
+            "user name": "一个历史",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 158,
+            "parent": 20,
+            "children": [],
+            "content": "我对自己的数学有自信了，搞金融绝对没问题! 起码比博主强[嘻嘻]",
+            "user id": 1436829940,
+            "user name": "臭屁娃娃该长大了",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 159,
+            "parent": -1,
+            "children": [
+                176
+            ],
+            "content": "那不得让领导先拿啊…不懂规矩",
+            "user id": 1758504363,
+            "user name": "时间无味道",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 160,
+            "parent": 87,
+            "children": [
+                256
+            ],
+            "content": "",
+            "user id": 1413166171,
+            "user name": "冰之零",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 161,
+            "parent": 116,
+            "children": [
+                236
+            ],
+            "content": "金融。。。",
+            "user id": 2521769441,
+            "user name": "程乐乐乐乐乐乐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 162,
+            "parent": -1,
+            "children": [
+                165
+            ],
+            "content": "天朝所谓的经济学家、金融专家，不少都是博主这样的货色。@许小年 @光远看经济 @陈志武",
+            "user id": 1047154571,
+            "user name": "内内斯塔",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 163,
+            "parent": 106,
+            "children": [],
+            "content": "智商是硬伤，古人诚不欺我！",
+            "user id": 2662324301,
+            "user name": "张梦宇Thomas",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 164,
+            "parent": -1,
+            "children": [],
+            "content": "蛤蛤蛤蛤我用计算器按照博主说的1050000x135W摁了一遍，连计算器都显示不出来了wwwwww#数死早##金融哭了#",
+            "user id": 2860950160,
+            "user name": "十月无序",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 165,
+            "parent": 162,
+            "children": [
+                166,
+                167,
+                168,
+                169,
+                171,
+                172,
+                173,
+                174,
+                179,
+                181,
+                182,
+                186,
+                192,
+                195,
+                202,
+                210,
+                227,
+                230,
+                250,
+                254,
+                284,
+                312,
+                314,
+                317,
+                327,
+                329,
+                334,
+                351,
+                356,
+                376,
+                425
+            ],
+            "content": "这金融专家的算术太NB了[弱]",
+            "user id": 1403497553,
+            "user name": "王小东",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 166,
+            "parent": 165,
+            "children": [
+                287
+            ],
+            "content": "吐了，我重读小学去",
+            "user id": 2203840350,
+            "user name": "nixi_说废话的",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 167,
+            "parent": 165,
+            "children": [
+                285,
+                367
+            ],
+            "content": "尼玛这还敢搞金融，我槽",
+            "user id": 1882341714,
+            "user name": "西山居杨林",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 168,
+            "parent": 165,
+            "children": [],
+            "content": "哈哈。要不通涨厉害呢。",
+            "user id": 2554541995,
+            "user name": "红酒年华",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 169,
+            "parent": 165,
+            "children": [
+                221
+            ],
+            "content": "本来觉得还好【数死早多到麻木了】，不小心看了一眼原po的id我就o(╯□╰)o了",
+            "user id": 1410430583,
+            "user name": "cloluo",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 170,
+            "parent": 118,
+            "children": [],
+            "content": "博主我相信你真是搞金融的……",
+            "user id": 2046537185,
+            "user name": "萌熊的号角",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 171,
+            "parent": 165,
+            "children": [],
+            "content": "知道经济学家的钱是怎么来的了吧，只要一个除法，立马增值万倍",
+            "user id": 1159011073,
+            "user name": "老师教案的宝宝",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 172,
+            "parent": 165,
+            "children": [],
+            "content": "这是我见到的第三个SB样本！",
+            "user id": 1219221432,
+            "user name": "山人乱语",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 173,
+            "parent": 165,
+            "children": [],
+            "content": "多了四个零…",
+            "user id": 1974956625,
+            "user name": "万物皆神",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 174,
+            "parent": 165,
+            "children": [],
+            "content": "博主绝对是卧底高级黑。",
+            "user id": 1069642750,
+            "user name": "秦汉牧",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 175,
+            "parent": -1,
+            "children": [
+                238
+            ],
+            "content": "我觉得是高级黑",
+            "user id": 1288212695,
+            "user name": "苑兴楠",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 176,
+            "parent": 159,
+            "children": [],
+            "content": "只可意会不能言传",
+            "user id": 1625798103,
+            "user name": "Luck翼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 177,
+            "parent": -1,
+            "children": [],
+            "content": "想起前天晚上在公交车上一男在计算85年的今年年纪是多少，十秒钟后答案出现“啊！85年的今年32岁！好年轻啊！”，我捂脸，甜甜扭头。噗~",
+            "user id": 1738005914,
+            "user name": "十月悦乐",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 178,
+            "parent": -1,
+            "children": [
+                180,
+                203
+            ],
+            "content": "这数学怎么算的？",
+            "user id": 1361448590,
+            "user name": "又矮又胖的裤子蜀黍",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 179,
+            "parent": 165,
+            "children": [],
+            "content": "大师可以超越底线！",
+            "user id": 1552645911,
+            "user name": "卢泰然的微博",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 180,
+            "parent": 178,
+            "children": [],
+            "content": "",
+            "user id": 3053788527,
+            "user name": "行動上海_五大信念",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 181,
+            "parent": 165,
+            "children": [],
+            "content": "作为一个数学出身的人，真诚表示他的数学是还给老师了！老师有罪，教出这样的学生！！！！！",
+            "user id": 2021776437,
+            "user name": "何立人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 182,
+            "parent": 165,
+            "children": [],
+            "content": "屁股坐错了地方，算啥就都不准了",
+            "user id": 2620241093,
+            "user name": "海底坚冰",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 183,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈哈哈。。。这是搞笑贴吧，还是体育老师下海去搞金融了？",
+            "user id": 1914744641,
+            "user name": "惨叫小毛驴",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 184,
+            "parent": -1,
+            "children": [],
+            "content": "博主那个万被你吃了，还是你根本就不会万以上的算术？你家祖宗八代的脸都被你丢尽了！",
+            "user id": 2900404395,
+            "user name": "方枪枪2",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 185,
+            "parent": 9,
+            "children": [],
+            "content": "这算术学的..",
+            "user id": 1113660350,
+            "user name": "海伦泥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 186,
+            "parent": 165,
+            "children": [],
+            "content": "这数学学得！",
+            "user id": 1904945900,
+            "user name": "另眼看历史",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 187,
+            "parent": -1,
+            "children": [],
+            "content": "这泥玛搞金融的咋净是跟体育老师学算数的 前几天有个皮世明是这样 今儿又来一位",
+            "user id": 1059085030,
+            "user name": "周东明",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 188,
+            "parent": 13,
+            "children": [],
+            "content": "[汗]",
+            "user id": 1267136152,
+            "user name": "我只是个搬砖滴",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 189,
+            "parent": 92,
+            "children": [],
+            "content": "不错，黑得有水平。",
+            "user id": 2167262691,
+            "user name": "老同志-斯诺",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 190,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈哈哈",
+            "user id": 1177881172,
+            "user name": "随遇而安闲自在所难免礼平身",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 191,
+            "parent": 137,
+            "children": [
+                364
+            ],
+            "content": "晕了晕了，博主在金融业做啥的？数都不会数？太坑爹了",
+            "user id": 2034063807,
+            "user name": "色拉不不",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 192,
+            "parent": 165,
+            "children": [],
+            "content": "嗯 ，钱可不是直接发给个人的，是要做日后重建资金的吧",
+            "user id": 2505791693,
+            "user name": "古渊齊道",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 193,
+            "parent": -1,
+            "children": [],
+            "content": "呵呵。这个金融砖家的算术是地理老师教的吧。",
+            "user id": 2257577255,
+            "user name": "wkl2008",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 194,
+            "parent": 114,
+            "children": [
+                231
+            ],
+            "content": "拿计算器算了下，得数……呵呵呵呵……PO主这样子玩金融会亏死吧",
+            "user id": 1765039040,
+            "user name": "果然爱凯源的铜子儿",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 195,
+            "parent": 165,
+            "children": [],
+            "content": "原博把“万”换成“0000”，就可以证明自己数学老师没死吗[偷笑]？",
+            "user id": 1393379504,
+            "user name": "壹壹DE一",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 196,
+            "parent": -1,
+            "children": [],
+            "content": "现在知道为啥金融专家干不过中国大妈了吧。[哈哈]",
+            "user id": 1840677985,
+            "user name": "龙二加三",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 197,
+            "parent": 116,
+            "children": [],
+            "content": "博主连小学生都会的计算器都不会用",
+            "user id": 2476926382,
+            "user name": "青苏柠檬",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 198,
+            "parent": -1,
+            "children": [],
+            "content": "楼主钓鱼也算是造谣",
+            "user id": 2071742645,
+            "user name": "午言豪放",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 199,
+            "parent": -1,
+            "children": [
+                206
+            ],
+            "content": "把你名字里的金融去掉吧，别丢人了",
+            "user id": 2063759851,
+            "user name": "驯猫能手阎方方",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 200,
+            "parent": 118,
+            "children": [
+                205,
+                209,
+                215
+            ],
+            "content": "艾玛~~~还在玩这手呐~~",
+            "user id": 2533906680,
+            "user name": "勾魂电眼李明博",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 201,
+            "parent": -1,
+            "children": [
+                207,
+                257,
+                293
+            ],
+            "content": "用脚子头算都不会算错的。还搞金融",
+            "user id": 1283373544,
+            "user name": "农民的学徒",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 202,
+            "parent": 165,
+            "children": [],
+            "content": "我真服了这帮脑残了,现在流行几千万的说法,是否也是这样弄出来的?",
+            "user id": 1689050671,
+            "user name": "拆出一个新中国",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 203,
+            "parent": 178,
+            "children": [],
+            "content": "金融業從業者素質啊[泪]",
+            "user id": 1938584834,
+            "user name": "生活本坑",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 204,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2143655912,
+            "user name": "归海一刀智",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 205,
+            "parent": 200,
+            "children": [],
+            "content": "谁有计算器啊，帮我算算。楼主写了太多的零",
+            "user id": 1913154271,
+            "user name": "衡王献寿青州府",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 206,
+            "parent": 199,
+            "children": [],
+            "content": "原谅他吧，隔行如隔山，金融专家不懂算术很正常",
+            "user id": 2687818850,
+            "user name": "王真实_字昋昊",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 207,
+            "parent": 201,
+            "children": [
+                248
+            ],
+            "content": "我是不想笑的",
+            "user id": 1874495457,
+            "user name": "吥務钲業",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 208,
+            "parent": -1,
+            "children": [],
+            "content": "LZ你确信你是金融业界人士？我终于明白华尔街是咋回事了[衰]",
+            "user id": 1752942737,
+            "user name": "善良的hechengg",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 209,
+            "parent": 200,
+            "children": [],
+            "content": "又见传说中的数体教，语死早。",
+            "user id": 1339795417,
+            "user name": "楚陶燕峯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 210,
+            "parent": 165,
+            "children": [
+                222,
+                223,
+                224,
+                226,
+                228,
+                239,
+                242,
+                246,
+                247,
+                255,
+                266,
+                267,
+                275,
+                276,
+                279,
+                291,
+                300,
+                305,
+                371,
+                408,
+                414
+            ],
+            "content": "你去看看他的其他微博吧，他属于鱼，不属于钓鱼",
+            "user id": 1403497553,
+            "user name": "王小东",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 211,
+            "parent": 12,
+            "children": [
+                253
+            ],
+            "content": "我也想知道！",
+            "user id": 2181058392,
+            "user name": "彭晖fatty",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 212,
+            "parent": -1,
+            "children": [
+                244
+            ],
+            "content": "没上小学直升大学！",
+            "user id": 2007284877,
+            "user name": "在上海的乡下人",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 213,
+            "parent": -1,
+            "children": [],
+            "content": "是153万，后面有个万……",
+            "user id": 2752017755,
+            "user name": "咖啡冲走了",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 214,
+            "parent": -1,
+            "children": [],
+            "content": "#数死早#",
+            "user id": 2040647810,
+            "user name": "挫把子猪猪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 215,
+            "parent": 200,
+            "children": [],
+            "content": "计算一下都有钱了",
+            "user id": 2642197813,
+            "user name": "迷人的常州物流人士",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 216,
+            "parent": 153,
+            "children": [
+                233
+            ],
+            "content": "特意点开博主的其他微博看了下，确定他不是钓鱼，而是真sb",
+            "user id": 1243838975,
+            "user name": "星璇絮落",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 217,
+            "parent": -1,
+            "children": [
+                272
+            ],
+            "content": "这货的数学老师要哭了",
+            "user id": 1225911892,
+            "user name": "怪蜀黍无名",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 218,
+            "parent": 5,
+            "children": [
+                259
+            ],
+            "content": "",
+            "user id": 1743811147,
+            "user name": "ink_饅頭_HeavyClub",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 219,
+            "parent": -1,
+            "children": [
+                263,
+                264
+            ],
+            "content": "就这数学能力做金融？小学生都比你强，傻逼……",
+            "user id": 1686404560,
+            "user name": "icore",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 220,
+            "parent": -1,
+            "children": [],
+            "content": "以数学老师的名义，我鄙视你……",
+            "user id": 2184373704,
+            "user name": "烟雨老曼",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 221,
+            "parent": 169,
+            "children": [],
+            "content": "天啊，怎么算的。",
+            "user id": 1822240034,
+            "user name": "托斯卡纳艳阳下是刘皓",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 222,
+            "parent": 210,
+            "children": [],
+            "content": "那么零啊！！！让我数 半天………[抓狂]………但想想还不够  红虱子会  买 车 的 ………………",
+            "user id": 3217584853,
+            "user name": "玛丽在三亚溜达",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 223,
+            "parent": 210,
+            "children": [],
+            "content": "中国的经济学家咋封的？是不是疯了才封上的？智商再一次触底？看来是无下限！",
+            "user id": 1980533781,
+            "user name": "潘东正能量",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 224,
+            "parent": 210,
+            "children": [],
+            "content": "算术水平捉急",
+            "user id": 1233928553,
+            "user name": "瀚海星云之水",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 225,
+            "parent": -1,
+            "children": [],
+            "content": "金融就是简单的加减乘除？",
+            "user id": 1914663271,
+            "user name": "流_世",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 226,
+            "parent": 210,
+            "children": [],
+            "content": "呵呵，哈哈哈，看右面一串经济学家，以为都写成零大家就不会算了~哈哈哈",
+            "user id": 1934210561,
+            "user name": "三反黄",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 227,
+            "parent": 165,
+            "children": [],
+            "content": "@金融徐健博:我是外婆教大的金融家[笑哈哈][围观]",
+            "user id": 2428950165,
+            "user name": "也来乐",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 228,
+            "parent": 210,
+            "children": [],
+            "content": "这算术是咋学的啊",
+            "user id": 1686205987,
+            "user name": "Ninomiya",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 229,
+            "parent": -1,
+            "children": [],
+            "content": "早早都对捐款失去信心了",
+            "user id": 1783867322,
+            "user name": "王阿狗EKKI",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 230,
+            "parent": 165,
+            "children": [],
+            "content": "算得一手好数",
+            "user id": 2662078275,
+            "user name": "yyymiss",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 231,
+            "parent": 194,
+            "children": [],
+            "content": "這是學金融發的？太優秀啦！贊~",
+            "user id": 2064720791,
+            "user name": "mini慧磊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 232,
+            "parent": 116,
+            "children": [],
+            "content": "这样的搞金融？",
+            "user id": 1810440404,
+            "user name": "叶叶烨烨烨叶叶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 233,
+            "parent": 216,
+            "children": [],
+            "content": "我也点开看是不是钓鱼党了，没想到是SB党[哈哈]",
+            "user id": 2694559134,
+            "user name": "大极之王",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 234,
+            "parent": -1,
+            "children": [],
+            "content": "@坐井观苍空 找亮点",
+            "user id": 2528652175,
+            "user name": "aqiao11",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 235,
+            "parent": 21,
+            "children": [],
+            "content": "啊哈哈右边神摧毁[哈哈]，原博估计很快就会”销毁证据”了~",
+            "user id": 3224224595,
+            "user name": "二次元的起名困难症患者",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 236,
+            "parent": 161,
+            "children": [
+                243,
+                426
+            ],
+            "content": "右边各种……[哈哈][哈哈]",
+            "user id": 1765811563,
+            "user name": "朱朱de中国梦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 237,
+            "parent": 111,
+            "children": [],
+            "content": "他是除了153这样子么😂😂😂",
+            "user id": 1871708715,
+            "user name": "明明叫阿萌却一点都不萌呢",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 238,
+            "parent": 175,
+            "children": [
+                274
+            ],
+            "content": "钱呢？！",
+            "user id": 1824008714,
+            "user name": "From猫本的喵",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 239,
+            "parent": 210,
+            "children": [
+                315
+            ],
+            "content": "",
+            "user id": 1433845104,
+            "user name": "蘑菇巴依",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 240,
+            "parent": 116,
+            "children": [
+                290
+            ],
+            "content": "噗",
+            "user id": 1864762582,
+            "user name": "禅花弦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 241,
+            "parent": -1,
+            "children": [
+                382
+            ],
+            "content": "博大。。。",
+            "user id": 1406393125,
+            "user name": "米兰虫子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 242,
+            "parent": 210,
+            "children": [],
+            "content": "我开始期待将外储和各种资产均分，哇，瞬间富了",
+            "user id": 2662078275,
+            "user name": "yyymiss",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 243,
+            "parent": 236,
+            "children": [],
+            "content": "[挖鼻屎]",
+            "user id": 1833632320,
+            "user name": "紫馨-香远亦沁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 244,
+            "parent": 212,
+            "children": [],
+            "content": "钱呢?靠!",
+            "user id": 1961668925,
+            "user name": "李乐濛",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 245,
+            "parent": 116,
+            "children": [],
+            "content": "噗",
+            "user id": 2883055292,
+            "user name": "今天开始要学做手工帝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 246,
+            "parent": 210,
+            "children": [],
+            "content": "又一个不会算数的经济学家。早上一个铜变金的，中午一个不会数零的。[猪头]",
+            "user id": 2274065954,
+            "user name": "想过平静生活",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 247,
+            "parent": 210,
+            "children": [],
+            "content": "jiba党",
+            "user id": 2491497531,
+            "user name": "水豆幺幺幺",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 248,
+            "parent": 207,
+            "children": [
+                326
+            ],
+            "content": "人才，绝对是少见的人才",
+            "user id": 1908671340,
+            "user name": "锋仔哥v",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 249,
+            "parent": -1,
+            "children": [],
+            "content": "就你这水平还搞金融呢，估计是投资什么亏什么。[弱]",
+            "user id": 1645275777,
+            "user name": "为我停留1645275777",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 250,
+            "parent": 165,
+            "children": [],
+            "content": "现在流行自虐式炒作。",
+            "user id": 1773633511,
+            "user name": "dongfang5816",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 251,
+            "parent": -1,
+            "children": [],
+            "content": "沉重悼念博主早死的数学老师…",
+            "user id": 1786273665,
+            "user name": "子銳子銳",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 252,
+            "parent": -1,
+            "children": [],
+            "content": "早上起来做算术题啦！@Antiahs @发怒的荷尔蒙 @snowjoy625 @-小跳妈 来看看做金融的是啥水平。",
+            "user id": 1413964223,
+            "user name": "醒了涂鸦",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 253,
+            "parent": 211,
+            "children": [],
+            "content": "[思考][思考]",
+            "user id": 1902005711,
+            "user name": "是Radium啦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 254,
+            "parent": 165,
+            "children": [],
+            "content": "这种经济学家还是送美国吧，华尔街需要你们。",
+            "user id": 1405598523,
+            "user name": "Goodgunner",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 255,
+            "parent": 210,
+            "children": [
+                260,
+                261,
+                262,
+                296,
+                430
+            ],
+            "content": "这样也能玩金融？153万人口，一人1万就是153亿。这算术是苹果教给你的？1.6亿分到153万人头上，每个人约105元，你大爷的你给那1049895元？@金融徐健博",
+            "user id": 3092829863,
+            "user name": "汉大赋2013",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 256,
+            "parent": 160,
+            "children": [],
+            "content": "居然还真有人上鱼钩的 智商堪忧",
+            "user id": 2704871243,
+            "user name": "城管炒蛋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 257,
+            "parent": 201,
+            "children": [
+                286,
+                390
+            ],
+            "content": "实在忍不住了[嘻嘻][嘻嘻][嘻嘻][嘻嘻]",
+            "user id": 1669917040,
+            "user name": "yesternight",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 258,
+            "parent": 118,
+            "children": [],
+            "content": "故意的。太讨厌了",
+            "user id": 1496822657,
+            "user name": "张七公子HBU",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 259,
+            "parent": 218,
+            "children": [],
+            "content": "会不会算数啊！！笑死人了",
+            "user id": 1737156040,
+            "user name": "HOLYCHIC_april",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 260,
+            "parent": 255,
+            "children": [],
+            "content": "博主是正宗的特色专家",
+            "user id": 1794440600,
+            "user name": "舟山定海",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 261,
+            "parent": 255,
+            "children": [
+                265
+            ],
+            "content": "怎么又出来一个，总是故意算错什么目的？",
+            "user id": 1421284691,
+            "user name": "血色浪漫Z",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 262,
+            "parent": 255,
+            "children": [],
+            "content": "改开“经济学家”都是大同小异",
+            "user id": 2501963842,
+            "user name": "松川寄语",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 263,
+            "parent": 219,
+            "children": [],
+            "content": "这不是推上一个#数死早#的段子么〜",
+            "user id": 1893516194,
+            "user name": "XA技术不宅",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 264,
+            "parent": 219,
+            "children": [
+                268,
+                299
+            ],
+            "content": "我擦，这个还把0直接写出来的必须是钓傻逼帖了吧",
+            "user id": 1434396922,
+            "user name": "giggham123",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 265,
+            "parent": 261,
+            "children": [],
+            "content": "[放假啦]",
+            "user id": 2978585764,
+            "user name": "zengfanyang",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 266,
+            "parent": 210,
+            "children": [],
+            "content": "草，二逼何其多，还尽是搞经济金融的！",
+            "user id": 2194143240,
+            "user name": "老_饕",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 267,
+            "parent": 210,
+            "children": [],
+            "content": "加上吴敬琏、郎咸平、@吕随启、张维迎等......",
+            "user id": 1234741273,
+            "user name": "24小时-",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 268,
+            "parent": 264,
+            "children": [],
+            "content": "窝巢，好爽",
+            "user id": 1951533123,
+            "user name": "K_oukun",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 269,
+            "parent": -1,
+            "children": [],
+            "content": "这是搞金融的吗？就这SB算术水平",
+            "user id": 2878377674,
+            "user name": "1977阿江",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 270,
+            "parent": -1,
+            "children": [],
+            "content": "用生命在自黑。。。九年义务教育还不够啊",
+            "user id": 1765060847,
+            "user name": "敢不敢再苦逼点",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 271,
+            "parent": 17,
+            "children": [],
+            "content": "(⊙o⊙)…",
+            "user id": 1306998684,
+            "user name": "Small丽莉的Li",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 272,
+            "parent": 217,
+            "children": [],
+            "content": "没上完小学？",
+            "user id": 1221407833,
+            "user name": "Kover様",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 273,
+            "parent": -1,
+            "children": [],
+            "content": "知道中国搞金融的都是些什么货了吧[哈哈]",
+            "user id": 1517012612,
+            "user name": "无雨蛙",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 274,
+            "parent": 238,
+            "children": [
+                292
+            ],
+            "content": "黑十字~~坑大",
+            "user id": 2484194413,
+            "user name": "zzg-刚",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 275,
+            "parent": 210,
+            "children": [],
+            "content": "数学天才",
+            "user id": 1769015197,
+            "user name": "郑明方",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 276,
+            "parent": 210,
+            "children": [],
+            "content": "搏主是在做另一个哥德巴赫猜想的数学题吗？哈哈哈",
+            "user id": 2308352517,
+            "user name": "坐看尘起尘灭",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 277,
+            "parent": -1,
+            "children": [],
+            "content": "数学老师死不瞑目",
+            "user id": 2161942921,
+            "user name": "猛吃香蕉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 278,
+            "parent": -1,
+            "children": [
+                280,
+                283
+            ],
+            "content": "傻逼你好！傻逼你吃旧屎了！",
+            "user id": 2206708995,
+            "user name": "水门冤案尼克松",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 279,
+            "parent": 210,
+            "children": [
+                303
+            ],
+            "content": " @milan柯南 博主是你师兄？芝加哥学派思密达",
+            "user id": 1827799052,
+            "user name": "丑逼还矫情罪该万死",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 280,
+            "parent": 278,
+            "children": [],
+            "content": "这样的数学水平还搞金融，难怪中国的金融搞成这副B样！",
+            "user id": 2479758690,
+            "user name": "Tiger雷-铁三自干五传播正能量",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 281,
+            "parent": -1,
+            "children": [],
+            "content": "帮数学天才转发",
+            "user id": 1403608084,
+            "user name": "内裤也是裤子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 282,
+            "parent": -1,
+            "children": [],
+            "content": "我艹，这年头搞金融的不学数学？@诚实不欺南方系-FYJS @飞扬军事云飞扬 @飞扬军事vcan-绝不躺枪小白兔 共赏",
+            "user id": 2257009114,
+            "user name": "国铁之父孙逸仙-FYJS",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 283,
+            "parent": 278,
+            "children": [],
+            "content": "我只是想知道这种智商的是做什么金融的？这货色即使是做黑社会收高利贷的人家恐怕也会嫌弃吧？",
+            "user id": 1376208121,
+            "user name": "天一阁园丁",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 284,
+            "parent": 165,
+            "children": [],
+            "content": "我记得广药在08年也捐了一亿？",
+            "user id": 1827799052,
+            "user name": "丑逼还矫情罪该万死",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 285,
+            "parent": 167,
+            "children": [
+                298
+            ],
+            "content": "不觉明厉 哪里不对的样子",
+            "user id": 2592998337,
+            "user name": "花小惑誓死要去开团",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 286,
+            "parent": 257,
+            "children": [],
+            "content": "唉，人家才没算错，成功出名了是不是？",
+            "user id": 1717841872,
+            "user name": "一株老柳",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 287,
+            "parent": 166,
+            "children": [
+                322,
+                362
+            ],
+            "content": "这鱼钓得水平一般般啊",
+            "user id": 1862770072,
+            "user name": "yyz生存以上",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 288,
+            "parent": 114,
+            "children": [],
+            "content": "知道为什么说人口打的是153w而不是1530000么，在对比后面的那一堆零不就能明白了么，因为大多数人不会认真去数有多少零的",
+            "user id": 1661280101,
+            "user name": "BIN等煤球成为大师",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 289,
+            "parent": -1,
+            "children": [],
+            "content": "中国九年义务教育普及率还不够啊",
+            "user id": 1869136540,
+            "user name": "张校长爱喝陈皮酸梅汤",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 290,
+            "parent": 240,
+            "children": [],
+            "content": "我7岁的时候和一个体育老师说：这么笨怪不得去教体育。后来他成了我的体育老师。。。",
+            "user id": 1820816241,
+            "user name": "狂奔是最好的治疗",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 291,
+            "parent": 210,
+            "children": [],
+            "content": "153万人=153了，不明觉厉！",
+            "user id": 2164368837,
+            "user name": "qingwab",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 292,
+            "parent": 274,
+            "children": [],
+            "content": "黑的不知道怎么说",
+            "user id": 2146696682,
+            "user name": "挚爱宝贝言言",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 293,
+            "parent": 201,
+            "children": [],
+            "content": "不算不知道，一算吓一跳。",
+            "user id": 1740962873,
+            "user name": "MG_WHL",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 294,
+            "parent": -1,
+            "children": [],
+            "content": "代表教育部郑重声明：博主的数学不是在中国学的，请勿以此为案例指责我部失职。",
+            "user id": 2418179934,
+            "user name": "飞扬南石",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 295,
+            "parent": -1,
+            "children": [],
+            "content": "中国就是让这群白痴的人弄成这样了，还尼玛金融呢！",
+            "user id": 3217961500,
+            "user name": "Penfa_L",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 296,
+            "parent": 255,
+            "children": [],
+            "content": "不知道这是个广告段子吗？[哈哈][哈哈]，防不胜防的广告啊。",
+            "user id": 1900620552,
+            "user name": "乐行居士红利哥",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 297,
+            "parent": 116,
+            "children": [],
+            "content": "又是一个老师死得早系列@蘑菇愿家国永安: 就这数学水平还玩金融",
+            "user id": 2059104950,
+            "user name": "离火九天",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 298,
+            "parent": 285,
+            "children": [],
+            "content": "钱到哪了呢",
+            "user id": 2309960711,
+            "user name": "wwz0210",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 299,
+            "parent": 264,
+            "children": [],
+            "content": "那不一定，天生数学差呢……不过这做金融的……",
+            "user id": 1686404560,
+            "user name": "icore",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 300,
+            "parent": 210,
+            "children": [],
+            "content": "我的个天哪，快来看傻逼@爱穿裙子的裤子",
+            "user id": 2560709181,
+            "user name": "点滴闯天涯",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 301,
+            "parent": -1,
+            "children": [],
+            "content": "晕，咋一看一个人分好多钱，再一想原来数死早啊。",
+            "user id": 1684179483,
+            "user name": "光年的夏",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 302,
+            "parent": 21,
+            "children": [],
+            "content": "果然人贱又博学，有这样的人搞金融何愁金融不危机@东邪fans @能不能木有昵称",
+            "user id": 1668515635,
+            "user name": "shaoshuai007",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 303,
+            "parent": 279,
+            "children": [
+                308
+            ],
+            "content": "",
+            "user id": 2317078015,
+            "user name": "carlvinson金牛",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 304,
+            "parent": -1,
+            "children": [],
+            "content": "还好意思说是故意写错，还尼玛金融，说得难听点，不要把爸妈的棺材本输掉了！",
+            "user id": 2120297775,
+            "user name": "雪山上的野草",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 305,
+            "parent": 210,
+            "children": [],
+            "content": "[偷笑]",
+            "user id": 1219537575,
+            "user name": "桃花舍主人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 306,
+            "parent": -1,
+            "children": [],
+            "content": "真是学金融的？",
+            "user id": 2015860307,
+            "user name": "slimnana",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 307,
+            "parent": 146,
+            "children": [],
+            "content": "笑而不语",
+            "user id": 2297294563,
+            "user name": "郝丷",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 308,
+            "parent": 303,
+            "children": [
+                318,
+                396,
+                423
+            ],
+            "content": "博主啊博猪[浮云]数学老师没教好不是你的错，出来吓人就是你的不对了…",
+            "user id": 2072359725,
+            "user name": "王贵东-gaton",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 309,
+            "parent": -1,
+            "children": [
+                323
+            ],
+            "content": "看了博主的其它微博，基本上就没什么人转，也没什么人评论，当然这道数学题除外！我可以感叹你这是在孤独的呐喊么[偷笑]当然，你这次出名的方式我很欣赏！以少有前人,罕有后人的方式放手一搏，不管名声如何，评价如何，至少这份勇气，值得我赞一个！[鼓掌]",
+            "user id": 2120297775,
+            "user name": "雪山上的野草",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 310,
+            "parent": -1,
+            "children": [],
+            "content": "po主的体育老师教的真好",
+            "user id": 2299482570,
+            "user name": "水生弥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 311,
+            "parent": 20,
+            "children": [],
+            "content": "po主的数学………………救命啊！！！！",
+            "user id": 1787019075,
+            "user name": "搞基力工",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 312,
+            "parent": 165,
+            "children": [],
+            "content": "小学毕业了吗？",
+            "user id": 1677866340,
+            "user name": "bob_dai",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 313,
+            "parent": -1,
+            "children": [],
+            "content": "砖家就是牛逼！看这帐算得多清楚，啧啧......[good][good]",
+            "user id": 2717968253,
+            "user name": "自言自语自娱自乐的老头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 314,
+            "parent": 165,
+            "children": [],
+            "content": "没文化太可怕！",
+            "user id": 1497917110,
+            "user name": "罗雀堂",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 315,
+            "parent": 239,
+            "children": [
+                320
+            ],
+            "content": "搞金融的，算数就是跟正常人不一样。",
+            "user id": 1572217384,
+            "user name": "Cmm独家",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 316,
+            "parent": -1,
+            "children": [],
+            "content": "他们说博主是拿直钩在钓鱼。",
+            "user id": 2717968253,
+            "user name": "自言自语自娱自乐的老头",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 317,
+            "parent": 165,
+            "children": [],
+            "content": "#数学是体育老师教的#",
+            "user id": 1688174825,
+            "user name": "炸里脊热爱金枕头",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 318,
+            "parent": 308,
+            "children": [],
+            "content": "钱呢？难不成这些捐的钱只是表面账？如果不是，钱呢？",
+            "user id": 1878059224,
+            "user name": "爱未央的世界",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 319,
+            "parent": 20,
+            "children": [],
+            "content": "之前就看过类似的微博，博主是故意的。",
+            "user id": 2458396582,
+            "user name": "一念花开-",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 320,
+            "parent": 315,
+            "children": [],
+            "content": "市政，道路，房屋…其实捐的款不是分到了人民手里…而是被用以各种的名义！可能也只有在中国政府才会如此的搞笑…",
+            "user id": 1718160730,
+            "user name": "贤宝儿是我老婆",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 321,
+            "parent": 13,
+            "children": [],
+            "content": "这算数…1560000",
+            "user id": 2720086175,
+            "user name": "相信等待归来",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 322,
+            "parent": 287,
+            "children": [],
+            "content": "要推广科学计数法",
+            "user id": 1934707820,
+            "user name": "我用智能ABC我自豪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 323,
+            "parent": 309,
+            "children": [],
+            "content": "[偷笑]",
+            "user id": 2802848941,
+            "user name": "懒人环球购",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 324,
+            "parent": 9,
+            "children": [
+                325
+            ],
+            "content": "",
+            "user id": 1822914302,
+            "user name": "DJ_BOBBY",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 325,
+            "parent": 324,
+            "children": [
+                341,
+                346
+            ],
+            "content": "确实不该问，问来干嘛？",
+            "user id": 1922131473,
+            "user name": "tang__216",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 326,
+            "parent": 248,
+            "children": [
+                380
+            ],
+            "content": "虽然数系算错，但是捐左甘多钱，请问去左边？",
+            "user id": 2244130844,
+            "user name": "Jason_哬崬泩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 327,
+            "parent": 165,
+            "children": [],
+            "content": "这些公知眼里只有私利，所以这就理所当然。公共这两个字早被他们玷污没了。",
+            "user id": 2499636925,
+            "user name": "楚江晚影",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 328,
+            "parent": 9,
+            "children": [],
+            "content": "[吃惊][吃惊][闭嘴][闭嘴][闭嘴][怒][怒][怒]",
+            "user id": 1694968255,
+            "user name": "CHONGSHANG娘子好白",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 329,
+            "parent": 165,
+            "children": [
+                330
+            ],
+            "content": "这金融专家的算术是体育老师教的[偷笑]",
+            "user id": 2293608444,
+            "user name": "amy刘思兰",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 330,
+            "parent": 329,
+            "children": [],
+            "content": "原来捐款的钱，是直接用来平分的啊[哈哈]",
+            "user id": 2009590021,
+            "user name": "马俊杰-军迷",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 331,
+            "parent": -1,
+            "children": [],
+            "content": "数死早系列经典~",
+            "user id": 1422385442,
+            "user name": "阿培是正版的",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 332,
+            "parent": 82,
+            "children": [],
+            "content": "美美有很多",
+            "user id": 1578952690,
+            "user name": "杨过爱美女1",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 333,
+            "parent": -1,
+            "children": [],
+            "content": "金融砖家就是牛，这数算的，连小学生都要佩服。",
+            "user id": 2072873715,
+            "user name": "甜瓜地里的小孩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 334,
+            "parent": 165,
+            "children": [],
+            "content": "小学没毕业的专家、丢人现眼。",
+            "user id": 1619161030,
+            "user name": "P民-老大哥",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 335,
+            "parent": 157,
+            "children": [],
+            "content": "利用灾害圈钱？不敢想。",
+            "user id": 1570178140,
+            "user name": "苏湘门第新人",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 336,
+            "parent": -1,
+            "children": [],
+            "content": "工作人员的收入如果从善款中抽取，每年的利息收益就不得了，居然还要管理费?太多疑问了",
+            "user id": 1981216851,
+            "user name": "修心无名",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 337,
+            "parent": -1,
+            "children": [],
+            "content": "这美国人写的，文化差异，他不认识“万”这个单位，如果加个ten thousand ，他就不会算错了，大家要理解。",
+            "user id": 1764316965,
+            "user name": "神思鬼想TEST",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 338,
+            "parent": -1,
+            "children": [],
+            "content": "这算术。。。感谢po主让我儿子找回自信[不好意思]",
+            "user id": 1401638394,
+            "user name": "左岸工人",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 339,
+            "parent": 124,
+            "children": [
+                340,
+                344
+            ],
+            "content": "我其实是学保险的……",
+            "user id": 1878203991,
+            "user name": "小D万岁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 340,
+            "parent": 339,
+            "children": [
+                342
+            ],
+            "content": "你不是金融保险吗",
+            "user id": 1848013281,
+            "user name": "YUKI-每月都在超支中",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 341,
+            "parent": 325,
+            "children": [],
+            "content": "",
+            "user id": 1634870157,
+            "user name": "顾琪瑶Soul",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 342,
+            "parent": 340,
+            "children": [
+                347
+            ],
+            "content": "摸下巴，其实什么都学过了，金融保险会计营销等等等等",
+            "user id": 1878203991,
+            "user name": "小D万岁",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 343,
+            "parent": 116,
+            "children": [],
+            "content": "体育老师躺着也中枪",
+            "user id": 1778595705,
+            "user name": "阿白哟",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 344,
+            "parent": 339,
+            "children": [],
+            "content": "小学数学没毕业就别出来现眼了，话说这是我见过的第二个用捐款来秀智商的SJB了",
+            "user id": 1763161214,
+            "user name": "猫儿木晰",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 345,
+            "parent": -1,
+            "children": [],
+            "content": "你数学是谁教的？",
+            "user id": 1863498622,
+            "user name": "认真的鱼2012",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 346,
+            "parent": 325,
+            "children": [
+                381
+            ],
+            "content": "抬头还敢加金融。你算过'重新修路造房的钱吗",
+            "user id": 1079599401,
+            "user name": "G哥带你飞到那桃花盛开的地方",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 347,
+            "parent": 342,
+            "children": [
+                350
+            ],
+            "content": "我们也学了营销啊，是不是每个专业都学的",
+            "user id": 1848013281,
+            "user name": "YUKI-每月都在超支中",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 348,
+            "parent": 78,
+            "children": [
+                353,
+                383
+            ],
+            "content": "钱呢？",
+            "user id": 1916546795,
+            "user name": "james0220",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 349,
+            "parent": 100,
+            "children": [],
+            "content": "太搞了……",
+            "user id": 1768903627,
+            "user name": "短刃",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 350,
+            "parent": 347,
+            "children": [
+                357
+            ],
+            "content": "和钱有关的基本都会学吧",
+            "user id": 1878203991,
+            "user name": "小D万岁",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 351,
+            "parent": 165,
+            "children": [],
+            "content": "挂着",
+            "user id": 2820152190,
+            "user name": "行走于边疆",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 352,
+            "parent": -1,
+            "children": [],
+            "content": "难道方式吧你还要为自己的错误找借口？有的事每个人都心知肚明，没必要为了要引人注目做出这样的事吧，不是每个能黑政府的人都会出名的，劝你还是换一种方式吧。",
+            "user id": 3217961500,
+            "user name": "Penfa_L",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 353,
+            "parent": 348,
+            "children": [],
+            "content": "钱呢？",
+            "user id": 1102059653,
+            "user name": "卿宝贝的小叶子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 354,
+            "parent": -1,
+            "children": [],
+            "content": "楼主这智商。。居然是搞金融的，真是奇葩",
+            "user id": 1616381761,
+            "user name": "大烟涛",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 355,
+            "parent": -1,
+            "children": [],
+            "content": "这算数，学徒裁缝教的吧，来我司做财报吧",
+            "user id": 2047529105,
+            "user name": "套马的小汉子",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 356,
+            "parent": 165,
+            "children": [],
+            "content": "又是一个不会数数的蠢货。",
+            "user id": 1693412513,
+            "user name": "股市漫游",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 357,
+            "parent": 350,
+            "children": [],
+            "content": "呃，见到数字就强迫症非得算一下。1亿6千万除以153万好像应该是105块，就算只给个人也还是杯水车薪，更何况还有那些城市基础设施的大头呢。",
+            "user id": 2048871425,
+            "user name": "逍遥八爪鱼",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 358,
+            "parent": -1,
+            "children": [],
+            "content": "@眠眠不觉晓_ @我是你的小花 跟这位挂“金融”头衔的公知比比，你们还会说你们数学不好么？",
+            "user id": 1564703952,
+            "user name": "iris欲说还休",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 359,
+            "parent": 13,
+            "children": [],
+            "content": "...数学确实捉急....",
+            "user id": 2936153317,
+            "user name": "豪不是林书豪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 360,
+            "parent": -1,
+            "children": [],
+            "content": "这是来黑金融界的吧。",
+            "user id": 2082236317,
+            "user name": "随风逐云9482",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 361,
+            "parent": -1,
+            "children": [],
+            "content": "我建议你把这个删了，国家没有这么不堪，你可以仔细算算，1.6E除以153万是多少？每人104块钱，这些钱只够地震人民吃几天？要是这样不会算，你可以考虑转行，学习下小学数学！别当神马金融师了！",
+            "user id": 1765785712,
+            "user name": "很胖很胖的Kiven",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 362,
+            "parent": 287,
+            "children": [
+                369
+            ],
+            "content": "我去，数体教",
+            "user id": 1637687977,
+            "user name": "徐文丰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 363,
+            "parent": 116,
+            "children": [
+                365
+            ],
+            "content": "最右不许侮辱体育老师！博主绝逼自学成才",
+            "user id": 1708218331,
+            "user name": "狗都没追过我",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 364,
+            "parent": 191,
+            "children": [],
+            "content": "他的数学是厨师教的",
+            "user id": 1409739174,
+            "user name": "西区毒药",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 365,
+            "parent": 363,
+            "children": [
+                366,
+                368,
+                373
+            ],
+            "content": "这跟之前那个少算四个零的二逼有的比话说你们是不是一伙的啊一个老师教的？博主请去监督壹基金",
+            "user id": 1752835622,
+            "user name": "八OOO",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 366,
+            "parent": 365,
+            "children": [],
+            "content": "今天暴露智商的人真不少……",
+            "user id": 2117474232,
+            "user name": "八口八口",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 367,
+            "parent": 167,
+            "children": [
+                372
+            ],
+            "content": "感觉我数学白学了。",
+            "user id": 1219122613,
+            "user name": "天方少年",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 368,
+            "parent": 365,
+            "children": [
+                370
+            ],
+            "content": "我为金融二字感到羞耻",
+            "user id": 1522806252,
+            "user name": "小怪兽求谢衣重生",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 369,
+            "parent": 362,
+            "children": [],
+            "content": "169.9",
+            "user id": 1227843724,
+            "user name": "火雨木头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 370,
+            "parent": 368,
+            "children": [],
+            "content": "这数学是生理卫生老是教的吧",
+            "user id": 1999044442,
+            "user name": "尺素-春困秋乏夏打盹",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 371,
+            "parent": 210,
+            "children": [],
+            "content": "[嘻嘻]",
+            "user id": 1400432311,
+            "user name": "坐看评论",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 372,
+            "parent": 367,
+            "children": [
+                377
+            ],
+            "content": "钱都被博主的数学老师贪污了",
+            "user id": 2323619952,
+            "user name": "HaKuNaMaTaTa_FC",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 373,
+            "parent": 365,
+            "children": [],
+            "content": "正确应该是人均约105块钱吧，这些都是小学单位换算没学好的吧，小学数学老师要哭了。。一个是万乘以万直接把后而万取消，一个是万除以万还保留一个。扶额",
+            "user id": 1713729871,
+            "user name": "如卿汝笑",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 374,
+            "parent": -1,
+            "children": [],
+            "content": "数学老师体弱多病死的早没少被代课",
+            "user id": 2063632764,
+            "user name": "有强迫症的少爷家大管家",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 375,
+            "parent": -1,
+            "children": [],
+            "content": "这个内容的微博好多人转发哪，全是没注意内容的准确率的，其实不是大家笨，只是有了一个习惯，看见了愤愤不平的内容就转发，造成了谣言四起。 不过我倒蛮想知道，这些文字的原创者是谁！[偷笑]",
+            "user id": 1608422455,
+            "user name": "扑瓦嘉",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 376,
+            "parent": 165,
+            "children": [
+                378,
+                379,
+                385
+            ],
+            "content": "金融专家[汗]",
+            "user id": 1832324531,
+            "user name": "驭酒者",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 377,
+            "parent": 372,
+            "children": [],
+            "content": "po主你老师死不瞑目啊",
+            "user id": 1633245441,
+            "user name": "SHEL-海鱼-萧玉霞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 378,
+            "parent": 376,
+            "children": [],
+            "content": "金融啊还专家啊",
+            "user id": 2714584875,
+            "user name": "一叶舟渡",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 379,
+            "parent": 376,
+            "children": [],
+            "content": "。。。",
+            "user id": 1705562530,
+            "user name": "皇帝狗狗",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 380,
+            "parent": 326,
+            "children": [],
+            "content": "所以话D死人贪官死佐家家烧爆竹先好伽，平时贪都吾话距了，哩D都贪，早死早着啊[怒][怒]",
+            "user id": 1767937317,
+            "user name": "-o搜索中o-",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 381,
+            "parent": 346,
+            "children": [],
+            "content": "G哥好精辟啊",
+            "user id": 2284872570,
+            "user name": "Yuer公子",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 382,
+            "parent": 241,
+            "children": [
+                392
+            ],
+            "content": "没算过，纯转",
+            "user id": 1850004990,
+            "user name": "徐能-Max",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 383,
+            "parent": 348,
+            "children": [],
+            "content": "我一毛不拔",
+            "user id": 1401495995,
+            "user name": "卿爸朱",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 384,
+            "parent": -1,
+            "children": [],
+            "content": "后面是我无心加上去的。给@方超_方大脸造成误会。",
+            "user id": 1442517001,
+            "user name": "Jameswang2008",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 385,
+            "parent": 376,
+            "children": [],
+            "content": "呵呵，原po数学老师死得早",
+            "user id": 1351535691,
+            "user name": "少侠好身手PhoeNiX_LoVeR",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 386,
+            "parent": 13,
+            "children": [
+                422
+            ],
+            "content": "这都能搞金融〜〜〜〜",
+            "user id": 1777679007,
+            "user name": "灰哦灰哦灰",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 387,
+            "parent": -1,
+            "children": [
+                388,
+                393
+            ],
+            "content": "我找153万个人，凑1.6亿元交给博主，转头你给我们每人100万，剩下的都归你，咋样？",
+            "user id": 1663298155,
+            "user name": "艾晓光1970",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 388,
+            "parent": 387,
+            "children": [],
+            "content": "算我一份！",
+            "user id": 1413578055,
+            "user name": "翘爸多多",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 389,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2092756445,
+            "user name": "爱飘的人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 390,
+            "parent": 257,
+            "children": [
+                391
+            ],
+            "content": "hk同胞的100000000貌似也打水漂了",
+            "user id": 1779895653,
+            "user name": "包哥哥888",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 391,
+            "parent": 390,
+            "children": [],
+            "content": "搞金融的就是厉害，105元给他一算就多了n个0[偷笑]",
+            "user id": 1839462764,
+            "user name": "幸福猩星",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 392,
+            "parent": 382,
+            "children": [],
+            "content": "慈善机构只知道慈祥和善的收钱，捐给寺院还能积德",
+            "user id": 1228137553,
+            "user name": "james_xie",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 393,
+            "parent": 387,
+            "children": [],
+            "content": "小学劣也生发宏论！你母亲喊你回家。",
+            "user id": 2656342332,
+            "user name": "诸葛武豪",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 394,
+            "parent": 116,
+            "children": [],
+            "content": "这数学！不堪入目！",
+            "user id": 3185614392,
+            "user name": "蛐蛐家的萧小羽是草莓味哒",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 395,
+            "parent": -1,
+            "children": [],
+            "content": "算数差的人还挺多，还是搞金融的",
+            "user id": 1410844701,
+            "user name": "风流云散",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 396,
+            "parent": 308,
+            "children": [
+                400
+            ],
+            "content": "",
+            "user id": 1870245121,
+            "user name": "RED1997",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 397,
+            "parent": 152,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 1862952400,
+            "user name": "御殿火",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 398,
+            "parent": -1,
+            "children": [
+                399,
+                407,
+                409
+            ],
+            "content": "看了此博主的其他微博，我不得不说，智商确实是硬伤，连一个拙劣的段子都要拾人牙慧。别谈什么贻笑大方了，简直不给自己的小学数学老师一个活着的面子。",
+            "user id": 2327647215,
+            "user name": "民族精神大本营",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 399,
+            "parent": 398,
+            "children": [],
+            "content": "这货还是搞金融的？[衰]数死早，今天很多例了，数学老师伤不起",
+            "user id": 2178433625,
+            "user name": "追逐梦想的行者",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 400,
+            "parent": 396,
+            "children": [
+                411
+            ],
+            "content": "",
+            "user id": 2001168971,
+            "user name": "whitefox1983",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 401,
+            "parent": -1,
+            "children": [
+                403
+            ],
+            "content": "体育老师教的数学？",
+            "user id": 1286272763,
+            "user name": "伍迪猿",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 402,
+            "parent": -1,
+            "children": [],
+            "content": "欢乐无极限",
+            "user id": 1403596717,
+            "user name": "音乐_盒子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 403,
+            "parent": 401,
+            "children": [],
+            "content": "不要侮辱体育老师啊。",
+            "user id": 2821519122,
+            "user name": "黑眼睛_白慕达",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 404,
+            "parent": -1,
+            "children": [],
+            "content": "贪得无厌的政府",
+            "user id": 2634363073,
+            "user name": "雨花大陆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 405,
+            "parent": -1,
+            "children": [],
+            "content": "同样的内容，今天发现的第三个蠢货。[挖鼻屎]",
+            "user id": 2683005723,
+            "user name": "云南的守山土狗",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 406,
+            "parent": -1,
+            "children": [],
+            "content": "我們雅安人们很當有！",
+            "user id": 1434801390,
+            "user name": "人笑他",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 407,
+            "parent": 398,
+            "children": [],
+            "content": "那家伙的小学数学老师觉得实在对不起孩子 。",
+            "user id": 2113309700,
+            "user name": "老布尔",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 408,
+            "parent": 210,
+            "children": [],
+            "content": "看看评论欢乐多",
+            "user id": 1086276482,
+            "user name": "金刚不坏铁骝子",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 409,
+            "parent": 398,
+            "children": [],
+            "content": "智商！[哈哈]简单算数都能算错，还玩金融！抓紧改行吧！",
+            "user id": 1858861710,
+            "user name": "习语言",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 410,
+            "parent": -1,
+            "children": [],
+            "content": "。。。。。",
+            "user id": 1623887665,
+            "user name": "尉涛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 411,
+            "parent": 400,
+            "children": [],
+            "content": "在我槽，这才叫专家",
+            "user id": 2196910107,
+            "user name": "咖啡色的coffee",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 412,
+            "parent": -1,
+            "children": [
+                418
+            ],
+            "content": "这些少年少女的数学真让人捉急啊[衰]……其实那个演员是copy&paste而已……无力吐槽@长安不再",
+            "user id": 1298874213,
+            "user name": "昔然-Cindy",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 413,
+            "parent": -1,
+            "children": [],
+            "content": "这种烂微博新浪小秘书怎么还不删掉，看清楚那153是万单位，除的时候后面有5个零，平均一个人也就几十块钱。你是美日帝国主义派来颠覆我们天朝的吧。",
+            "user id": 1460981011,
+            "user name": "深蓝羽翼mjx8",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 414,
+            "parent": 210,
+            "children": [],
+            "content": "高级黑吧",
+            "user id": 2049921660,
+            "user name": "沃思妮大业",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 415,
+            "parent": -1,
+            "children": [],
+            "content": "演员文化低数学差算不对情有可原，一个玩金融整天跟钱打交道的还能傻到这种程度，实在让人难以理解。[弱]",
+            "user id": 1647578187,
+            "user name": "航天民工-老刘-",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 416,
+            "parent": -1,
+            "children": [],
+            "content": "砖家！拍死人了！[泪]",
+            "user id": 3303999047,
+            "user name": "八月寅虎",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 417,
+            "parent": -1,
+            "children": [],
+            "content": "千万别学金融的佐证之一。",
+            "user id": 1699136375,
+            "user name": "英姿萌发马虎子",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 418,
+            "parent": 412,
+            "children": [],
+            "content": "[哈哈]@手机用户13816091039 @",
+            "user id": 1578848677,
+            "user name": "I琥珀川I",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 419,
+            "parent": -1,
+            "children": [
+                420,
+                421
+            ],
+            "content": "就这算术还搞金融……",
+            "user id": 2042925023,
+            "user name": "众神的黄昏_Zeiss",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 420,
+            "parent": 419,
+            "children": [],
+            "content": "这鸡巴毛算数水平",
+            "user id": 1363157842,
+            "user name": "陆张融",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 421,
+            "parent": 419,
+            "children": [],
+            "content": "现在说自己搞金融的一般都是做保险的，要理解。",
+            "user id": 1363157842,
+            "user name": "陆张融",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 422,
+            "parent": 386,
+            "children": [],
+            "content": "想当微博大V的节奏，可惜智商是黄鼠狼。。。",
+            "user id": 1675198693,
+            "user name": "oooDaLiooo",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 423,
+            "parent": 308,
+            "children": [],
+            "content": "[思考]",
+            "user id": 2739355931,
+            "user name": "汤静汤静",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 424,
+            "parent": -1,
+            "children": [],
+            "content": "小学没毕业的总出来玩算数，还搞金融，这金融真不是一般人能懂的",
+            "user id": 1935703102,
+            "user name": "上海_007",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 425,
+            "parent": 165,
+            "children": [],
+            "content": "[哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈][哈哈]笑死老子了！",
+            "user id": 2486074971,
+            "user name": "偏右自干五",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 426,
+            "parent": 236,
+            "children": [],
+            "content": "@沉默的风铃kelly again",
+            "user id": 1765811563,
+            "user name": "朱朱de中国梦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 427,
+            "parent": -1,
+            "children": [],
+            "content": "博猪出来走两步呗[挖鼻屎]",
+            "user id": 1974044531,
+            "user name": "永远听巴克",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 428,
+            "parent": 87,
+            "children": [],
+            "content": "如此高端黑呀〜",
+            "user id": 1931403564,
+            "user name": "Xunqi_Yuan",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 429,
+            "parent": -1,
+            "children": [],
+            "content": "笑死了[笑哈哈]",
+            "user id": 2670893192,
+            "user name": "劳资不打诳语",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 430,
+            "parent": 255,
+            "children": [],
+            "content": "操！丫的是广告贩子！[怒]",
+            "user id": 3092829863,
+            "user name": "汉大赋2013",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 431,
+            "parent": 20,
+            "children": [],
+            "content": "搞金融的计算方式和普通人不一样，你给他1元，他可以帮你赚一万",
+            "user id": 1575884302,
+            "user name": "伊梦青飞本尊",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 432,
+            "parent": -1,
+            "children": [],
+            "content": "新数学广记",
+            "user id": 1309357105,
+            "user name": "xlpy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 433,
+            "parent": -1,
+            "children": [
+                434,
+                441,
+                442
+            ],
+            "content": "金融危机就是这样诞生的",
+            "user id": 1407496443,
+            "user name": "熱風疾風",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 434,
+            "parent": 433,
+            "children": [
+                435
+            ],
+            "content": "怪不得中国金融这么操蛋……",
+            "user id": 1098883543,
+            "user name": "打2号院长的北上大人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 435,
+            "parent": 434,
+            "children": [
+                436,
+                437,
+                438
+            ],
+            "content": "砖家。。。",
+            "user id": 2031451121,
+            "user name": "小土豆的胖子",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 436,
+            "parent": 435,
+            "children": [],
+            "content": "这尼玛...吾等会计之楷模啊[偷笑]",
+            "user id": 1936977345,
+            "user name": "豪子-",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 437,
+            "parent": 435,
+            "children": [],
+            "content": "我从小数学就不好…",
+            "user id": 1937571287,
+            "user name": "saya-灵",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 438,
+            "parent": 435,
+            "children": [
+                439
+            ],
+            "content": "这数学怎么就那么难学呢？",
+            "user id": 1613236202,
+            "user name": "披着CC之名的大天落羽",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 439,
+            "parent": 438,
+            "children": [],
+            "content": "不转不是中国人！！！博主找到了致富新道路，找让我们捐钱给雅安，再让雅安捐还给我们，再捐钱给雅安，实现共同富裕！",
+            "user id": 2233504145,
+            "user name": "小精灵起不来了",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 440,
+            "parent": 29,
+            "children": [],
+            "content": "[怒]",
+            "user id": 1948511307,
+            "user name": "鸽心",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 441,
+            "parent": 433,
+            "children": [],
+            "content": "噗哧",
+            "user id": 1617148927,
+            "user name": "速冻Tony",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 442,
+            "parent": 433,
+            "children": [
+                443
+            ],
+            "content": "智商着急，这个数学水平啊！1亿六除以153万，居然得出结果是100多万。这是除以了153吧，哈哈哈~",
+            "user id": 1885596340,
+            "user name": "杨晨祎V",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 443,
+            "parent": 442,
+            "children": [],
+            "content": "想找点茬却被智商拖累[黑线]",
+            "user id": 2295580220,
+            "user name": "夏天殿下",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 444,
+            "parent": -1,
+            "children": [],
+            "content": "天了噜，原来金融界的智商门槛这么低吗？我立刻又重燃了搞金融的念头。",
+            "user id": 1686640043,
+            "user name": "狗头小军师",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 24,
+            "state_1": 98
+        },
+        "2-hop": {
+            "state_0": 28,
+            "state_1": 35
+        },
+        "3-hop": {
+            "state_0": 29,
+            "state_1": 32
+        },
+        "4-hop": {
+            "state_0": 31,
+            "state_1": 49
+        },
+        "5-hop": {
+            "state_0": 32,
+            "state_1": 20
+        },
+        "6-hop": {
+            "state_0": 15,
+            "state_1": 11
+        },
+        "7-hop": {
+            "state_0": 17,
+            "state_1": 5
+        },
+        "8-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "9-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "12-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "13-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

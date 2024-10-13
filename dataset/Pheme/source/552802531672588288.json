@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Parisian doctor: \"Let's all subscribe to #CharlieHebdo...It'll be in my waiting room until I retire.\" via @bourmeau http://t.co/3IjTQCk3o7",
+        "user id": 136359464,
+        "tweet id": "552802531672588288",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@laurenzcollins @bourmeau agreed",
+            "user id": 21441975,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@laurenzcollins @HarryAlffa @bourmeau yes that will help a lot *sigh* how about his president stops supporting these jihadist 'rebels' !",
+            "user id": 624557599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@laurenzcollins @Sathnam @bourmeau @DDupagne. You said the right thing, Dominique",
+            "user id": 83881300,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@michaeldweiss @laurenzcollins @bourmeau I'll do the same as a Turkish Muslim. That will be my partial repay at least  :(",
+            "user id": 2244103111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@m_y_1905 @liz727 @michaeldweiss @laurenzcollins @bourmeau  The future of all our children is in hands of  Muslims  prepared to speak &amp; act",
+            "user id": 142313535,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@laurenzcollins @W5Physio @bourmeau hey",
+            "user id": 2328909782,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

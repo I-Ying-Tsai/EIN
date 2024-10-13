@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "#sydneysiege: At least four people believed to have been injured after multiple shots fired. http://t.co/IxPuyIrNy2 http://t.co/6sGsUZ8QG5",
+        "user id": 7587032,
+        "tweet id": "544513517706305536",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews",
+            "user id": 49117684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews OMG NO",
+            "user id": 848351792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews abc news in australia providing exceptional coverage.",
+            "user id": 148699617,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews #sydneysiege fyi, this is not about religion but they are just the people out of devoid humanity &amp; collide hrv.",
+            "user id": 1874429234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews #FALSEFLAG FAKE FAKE CRISIS ACTORS THE PRESS IS IN ON IT! HERE'S THRE REAL TERRORISTS #TORTUREREPORT http://t.co/E8rzsU9m7r",
+            "user id": 17436585,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: #sydneysiege: At least four people believed to have been... http://t.co/FGQ51xuoqY http://t.co/qwZKlrOAsG” @deckmeehan",
+            "user id": 39780739,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

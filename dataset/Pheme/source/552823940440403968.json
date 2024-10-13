@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "French Justice Minister C.Taubira reacts outside of the headquarters of the satirical newspaper #CharlieHebdo #AFP http://t.co/CwvowQMR12",
+        "user id": 868112707,
+        "tweet id": "552823940440403968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AFPphoto @AFP what did they think was going to happen after 80 Thousand jihadis &amp; supporters marched screaming \"kill the jews\" in Paris?",
+            "user id": 25206663,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@righteousaxe @AFPphoto @AFP Go to Hell",
+            "user id": 1385677068,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto Un triste jour pour le peuple de #France. La presse et les journalistes sont attaqués plus que jamais. #CharlieHebdo",
+            "user id": 223183551,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AFP\n \"How an I going to sell this as \"NON-Islamic\"...",
+            "user id": 733249254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AntheaButler not so funny when it's your ass in the line. \nNothing like a reality check to give you some perspective right..?",
+            "user id": 19775606,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AFP Elle démissionne quand l'indépendantiste ?",
+            "user id": 1089125664,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AFP this is a wake up call to France, in what to follow from the radical Islam from within the country.",
+            "user id": 1025399466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@afpphoto At least 12 killed in shooting at office of French satirical: http://t.co/dTrEfTWyLp #paris Charlie Hebdo",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @LosCharruas looks like Hillary Clinton with the death of Osama bin Ladin \nWink wink",
+            "user id": 461344573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @EUFundedEUTroll To late for that reaction, let the people defend themselves, gun control only works for criminals",
+            "user id": 1539267602,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto My heart breaks for the people of France. I wish you all peace &amp; even hearts. We in the USA fully understand your sadness &amp; anger.",
+            "user id": 494512103,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto \nelle peut faire un geste d'horreur, elle qui remet en liberté tous les voyous.Elle devrait réviser son jugement sur la justice.",
+            "user id": 125271017,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

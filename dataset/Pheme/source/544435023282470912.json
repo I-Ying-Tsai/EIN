@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "people are being held hostage and the fact that there are people who'd rather celebrate how 5sos aren't in sydney honestly disgusts me",
+        "user id": 1585763420,
+        "tweet id": "544435023282470912",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cuteladlrh @1989ft5sos OPEN AND RT THE TWEET IN THE LINK \nhttps://t.co/ynqD9UZzJG",
+            "user id": 1358538810,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cuteladlrh @HOL0GRAMUKE",
+            "user id": 1685117550,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cuteladlrh @aussieboyirwin those people lives are at risk at the moment 5SOS is safe in the other side if the world",
+            "user id": 1850866519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@cuteladlrh I've been angry about this for ages",
+            "user id": 2402799552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@cuteladlrh really needed to say this http://t.co/sXWtmyXhwt",
+            "user id": 2687333610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@Chlo_Hanlin i agree",
+            "user id": 1585763420,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cuteladlrh @cocaineftlrh this is exactly how I felt when the Eric garner thing was going on and people were getting mad over 5sos on Disney",
+            "user id": 1494902252,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@cuteladlrh thank you! 🙌😘",
+            "user id": 2687333610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Paris attack suspects have taken a hostage. French police have them cornered near Paris airport. Live: http://t.co/fw92nASZxK",
+        "user id": 972651,
+        "tweet id": "553524086417424384",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "On @mashable: FRANCE 24 live news stream: all the latest news 24/7 https://t.co/iXKuNzPKcE",
+            "user id": 2714207155,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@mashable: Paris attack suspects have taken a hostage. French police have them cornered near Paris airport. Live: http://t.co/sCBp8ioe4P”",
+            "user id": 116926997,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

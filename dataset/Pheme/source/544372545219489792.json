@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Local media: 2 more people appear to escape Martin Place, Sydney, café amid hostage situation; 5 now free - @smh http://t.co/N5mmnilz4Z",
+        "user id": 6017542,
+        "tweet id": "544372545219489792",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @BreakingNewsUK @smh  may they all be safe and the gunman or gunmen be took off the face of the earth",
+            "user id": 517794513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@BreakingNews @smh And how many people are inside?",
+            "user id": 542813993,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@the_ashraful 30+",
+            "user id": 24122822,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @smh CAN'T LIKE THIS ENOUGHT...PLEASE MORE TO COME UNTIL ALL ARE FREE #PEACE #HOPE #PRAY",
+            "user id": 2919058680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @smh And @Uber is charging them 400% for a ride home",
+            "user id": 21057124,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @smh How's that ban on any citizen carrying a gun working out for you #Australia?",
+            "user id": 86376511,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

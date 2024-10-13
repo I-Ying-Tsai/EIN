@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "This appears to be the original source of the Putin/Kabayeva/Swiss clinic rumour http://t.co/bKfJTSGdca",
+        "user id": 331658004,
+        "tweet id": "576323086888361984",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS plus direct info from the 'fields'!",
+            "user id": 2301712239,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS But why a Swiss clinic? Why not give birth in Russia? What am I missing here?",
+            "user id": 921252660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS @EllenBarryNYT Well, Blick is a tabloid, so I wouldn't necessarily believe everything they say :-)",
+            "user id": 4880191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS It is difficult not to think of \"Rosemary's Baby\" in this instance.",
+            "user id": 35227730,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS \nWhat makes us think the baby story may be true? - The Kremlin denied it!\n\n@RussiaDenies @DarthPutinKGB http://t.co/d3ULIqK5PK",
+            "user id": 275023883,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": ".@BBCDanielS Tohle vypadá jako původní zdroj řečí o Putinovi/Kabajevové/švýcarské\nklinice http://t.co/JNmJhFPBpS",
+            "user id": 2528512406,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        }
+    }
+}

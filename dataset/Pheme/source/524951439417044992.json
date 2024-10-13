@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "I want to commend the courage and bravery of the first responders on the ground in Ottawa right now",
+        "user id": 201394249,
+        "tweet id": "524951439417044992",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JulianFantino as well...thoughts go out to the injured soldier",
+            "user id": 1889672208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@JulianFantino: I want to commend the courage and bravery of the first responders on the ground in Ottawa right now”Absolutely",
+            "user id": 411515989,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@JulianFantino: I want to commend the courage and bravery of the first responders on the ground in Ottawa right now” #OttawaShooting",
+            "user id": 2801621730,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@JulianFantino you make sure, honourable sir, that they're looked after better once this is all over. Much better.",
+            "user id": 56760296,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@craig_burley @JulianFantino; indeed.",
+            "user id": 21518165,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@JulianFantino  hope your are safe",
+            "user id": 45823282,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@JulianFantino Mr. Fantino, on behalf of the Italian Canadian community, would you kindly contact OMNI News at 416.399.4818?  Thank you.",
+            "user id": 705194724,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

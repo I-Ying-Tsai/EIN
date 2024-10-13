@@ -1,0 +1,226 @@
+{
+    "source": {
+        "content": "中国人要明智！",
+        "user id": 1773143424,
+        "tweet id": "3491582114671030",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "不用走法律程序，把这两个小日本直接交给游行队伍",
+            "user id": 2142050993,
+            "user name": "凌祖进---外滩游艇会",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "枪毙了丫的",
+            "user id": 2807127553,
+            "user name": "供您g新传h往复",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "jianren",
+            "user id": 2517103562,
+            "user name": "SH三房朝南",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "艹，长得那么奇葩",
+            "user id": 2680938425,
+            "user name": "Ccccc-谷子",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "[怒]",
+            "user id": 2356242122,
+            "user name": "威力vivi",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "[怒]",
+            "user id": 1933267255,
+            "user name": "XLY_LEONARD丶",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "日本狗子。",
+            "user id": 2689261925,
+            "user name": "穷的叮了铛啷响",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "有点脑子好伐",
+            "user id": 1728608205,
+            "user name": "迷人香水味",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "我身边前几天有很多人说要砸车的呢？",
+            "user id": 2039253071,
+            "user name": "阿龙一直在漂流",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "[挖鼻屎]",
+            "user id": 1844954085,
+            "user name": "筱珽珽",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": " @瑾姑姑",
+            "user id": 2870402382,
+            "user name": "创智M-Box环境剧场",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12,
+                13
+            ],
+            "content": "转发微博",
+            "user id": 1665196481,
+            "user name": "热带雨林的吉吉酱",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "这2个面孔一看就日本人吧",
+            "user id": 1869463854,
+            "user name": "死Xin不改",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "无语",
+            "user id": 1084032024,
+            "user name": "joker_cai",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "为了抗日！先转再说！！！",
+            "user id": 2457653790,
+            "user name": "匠心奢侈品护理中心",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "太可恶了",
+            "user id": 2739332013,
+            "user name": "angle安仔",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "杀",
+            "user id": 2211254764,
+            "user name": "墨菲的小木屋",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

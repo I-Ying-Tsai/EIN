@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "#Ottawa police confirm shooting at War Memorial. Reports say victim may be a soldier.",
+        "user id": 19038934,
+        "tweet id": "524922507380670464",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Ugh...please be safe RT@CBCAlerts: #Ottawa police confirm shooting at War Memorial. Reports say victim may be a soldier.”",
+            "user id": 522403192,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@KathleenCanada @CBCAlerts Who did the shooting?",
+            "user id": 30001483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: #Ottawa police confirm shooting at War Memorial. Reports say victim may be a soldier.”",
+            "user id": 516234551,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT“@CBCAlerts: #Ottawa police confirm shooting at War Memorial. Reports say victim may be a soldier.”",
+            "user id": 312024587,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "\"@CBCAlerts: #Ottawa police confirm shooting at War Memorial. Reports say victim may be a soldier.\" GODDAMNIT NOT IN MY FUCKING BACKYARD &gt;:(",
+            "user id": 15992943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts",
+            "user id": 443754749,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

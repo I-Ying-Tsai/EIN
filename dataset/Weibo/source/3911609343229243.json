@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "有时候你把什么放下了，不是因为突然就舍得了，而是因为期限到了，任性够了，成熟多了， 也就知道这一页该翻过去了。",
+        "user id": 2287681313,
+        "tweet id": "3911609343229243",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "yes",
+            "user id": 5137471021,
+            "user name": "叫我宝宝杉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#宜昌微爱#",
+            "user id": 1366070853,
+            "user name": "微爱宜昌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

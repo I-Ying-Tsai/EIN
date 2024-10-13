@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "As you hear reports on the Germanwings crash, remember to be patient. The truth takes time. http://t.co/gbwzS3PIKG http://t.co/sSGhE6BLYc",
+        "user id": 16469809,
+        "tweet id": "580337826279124992",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@onthemedia @BBCNews please",
+            "user id": 64672157,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@onthemedia disagree wiv tone of this. When 140+ ppl die in the blink of an eye, thers good reason 4 the media 2 b in a frenzy.",
+            "user id": 47202691,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@NaoetsuCafe @onthemedia Bull. A frenzied media never did its job better than a calm, professional one.",
+            "user id": 36469971,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@onthemedia you guys are the best!",
+            "user id": 16693964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@onthemedia Flying is safer than walking.  Love this so much.  My younger daughter is scared to fly bc tv at her school blares the BS.",
+            "user id": 362375494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@onthemedia AIRLINE EDITION!?!?!?!?",
+            "user id": 135920825,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@onthemedia Thank you for the public service announcement.  I voted for you in the brackets.",
+            "user id": 395065007,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@onthemedia @Chloe_Pmr",
+            "user id": 2906487165,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

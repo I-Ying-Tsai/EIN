@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "#BREAKING : Both Charlie Hebdo suspects killed as police storm building (police sources) http://t.co/OYSXRQ9xuv http://t.co/8ICThapo7z",
+        "user id": 25049056,
+        "tweet id": "553586897168392192",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en good",
+            "user id": 533578801,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @slone Great job!!",
+            "user id": 2288799413,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CzechTV “@France24_en: #BREAKING : Both Charlie Hebdo suspects killed as police storm building (police sources) http://t.co/Oyo6wmpcps http",
+            "user id": 25484835,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @Sonia_Dridi For the record this pic. is the other hostage site, the CharlieHebdo murderers were taken outside Paris: Dammartin",
+            "user id": 242833879,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@France24_en: Both Charlie Hebdo suspects killed as police storm building (police sources) http://t.co/wuPIIjroD0 http://t.co/idX9V3plft #FB",
+            "user id": 15917486,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Troy_Johnson @France24_en. Did they get those\" BOYS \"who lashed oUt against  the C.H. artist?",
+            "user id": 2434619407,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @SkidWillie Great News!!! Take no prisoners. These bastards need to be exterminated on sight",
+            "user id": 21651982,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @lsferguson sweet they are finally with Allah",
+            "user id": 2535748428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@France24_en @JulianeMeyerK bad. They should have been captured alive for a proper trial.",
+            "user id": 1670896333,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@ensowi @France24_en Yes, but think it was too dangerous.",
+            "user id": 1611306366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en http://t.co/MCLBmKWvXO",
+            "user id": 2396286874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @darshnasoni 2 MÄNNER UND POLIZEI/POLIZEI/POLIZEI/POLIZEI/POLIZEI UND TAGE/TAGE/TAGE/TAGELANG @Witness99_ FREE: HAHAHA",
+            "user id": 2869574487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

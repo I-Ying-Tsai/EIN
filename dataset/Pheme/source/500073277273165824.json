@@ -1,0 +1,117 @@
+{
+    "source": {
+        "content": "Heading to #ferguson after rally, #michaelbrown's mother didn't speak, but thanked supporters http://t.co/uE33pZXz43",
+        "user id": 17447972,
+        "tweet id": "500073277273165824",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@aaronernst @rolandsmartin The police KILLED another unarmed black man\n\nVideos http://t.co/VD5gclyllI",
+            "user id": 1343546233,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "Bless her “@aaronernst: Heading to #ferguson after rally, #michaelbrown's mother didn't speak, but thanked supporters http://t.co/nh5qoIWoHV",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@drgoddess @aaronernst I have 3 kids. I can't imagine.",
+            "user id": 32480478,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@drgoddess @aaronernst Bless her soul. We are all #MichaelBrown's mother.",
+            "user id": 156829965,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "👉@aaronernst: Heading to #ferguson after rally, #michaelbrown's mother didn't speak, but thanked supporters http://t.co/tsHd8Nc4IJ",
+            "user id": 104658930,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@aaronernst Open Let to Pres. Obama, Blueprint for Afrodescendants in US, http://t.co/ik7pLOgAiH http://t.co/yt1wLshPQG",
+            "user id": 2721770835,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@aaronernst: Heading to #ferguson after rally, #michaelbrown's mother didn't speak, but thanked supporters http://t.co/rZVhmhPsjJ”",
+            "user id": 1663314774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "Indeed... “@HistoryHeroes: @drgoddess @aaronernst Bless her soul. We are all #MichaelBrown's mother.” #Ferguson",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

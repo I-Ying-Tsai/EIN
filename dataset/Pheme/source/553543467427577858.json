@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Freedom of Expression in France not consistent. So how can they claim #IAmCharlieHebdo? Or #JeSuisAhmed? #IamAhmed #IamCharlie #CharlieHebdo",
+        "user id": 313379422,
+        "tweet id": "553543467427577858",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ShujaRabbani  #Terrorist Attacking Muslims in #France  #MuslimsInFanceUnderAttack &lt; use this hashtag and #RT for trend",
+            "user id": 2859391439,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ShujaRabbani the same goes for the US-did you know that it was a case on the KKK that formed our new Freedom of Speech rules?",
+            "user id": 2516920201,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ShujaRabbani yes I am charlie https://t.co/tAPFdfwfkf",
+            "user id": 2232637411,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

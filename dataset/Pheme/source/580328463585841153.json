@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Germanwings Airbus A320 crashes in French Alps - live updates http://t.co/ZCHyZHUQ6Y",
+        "user id": 788524,
+        "tweet id": "580328463585841153",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardiannews: Germanwings Airbus A320 crashes in French Alps - live updates http://t.co/LWZGsOkBwg” awful awful news.",
+            "user id": 473948423,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews - my thoughts and prayers are with the passengers of #Germanwings and their loved ones.",
+            "user id": 58552429,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews 4 days ago via Der Speigal: news of a serious incident on Bilbao-Munich Lufthansa flight due to sensors freezing- on 5/11/2014",
+            "user id": 192830996,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

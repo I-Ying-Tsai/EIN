@@ -1,0 +1,160 @@
+{
+    "source": {
+        "content": "The line for #Prince at Massey Hall extends to back of building. Smells strongly of incense &amp; breakfast sandwiches http://t.co/ovA3uIUdsB",
+        "user id": 26040618,
+        "tweet id": "529669611030331392",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@siomo hahaha. Love your tweets. For the record!",
+            "user id": 14661313,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@casiestewart thank you!",
+            "user id": 26040618,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Former Clamshell Quintet anchor @TomBeyer7 in good position for tkts! “@siomo: Line for #Prince at Massey Hall. http://t.co/o3cnOOCJxM”",
+            "user id": 18145829,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@towhey @TomBeyer7 @siomo, how many you suspect are in line?",
+            "user id": 281753900,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@siomo @newstalk1010 - Ummmmm....excuse me...he's in Toronto and TICKETMASTER DIDN'T SEND ME AN ALERT!?!?!?",
+            "user id": 1373018754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@siomo DANG. If I knew about that, I'd head down there.",
+            "user id": 81232966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "I see FOH being all FOH. “@siomo: The line for #Prince at Massey Hall extends to back of building. http://t.co/UOLp8Ma4yN”",
+            "user id": 164764113,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": ".@mcpublic @siomo Boy are they gonna be pissed when it turns out to be Prince Fielder talkin' baseball and singing show tunes.. #Prince #lol",
+            "user id": 1378497379,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "@sdeborja a There is only one @TomBeyer7!",
+            "user id": 18145829,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [
+                10
+            ],
+            "content": "@sdeborja I'm brutal at crowd estimates. 500 maybe?",
+            "user id": 26040618,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@siomo, thanks. I just worry that there's no point in getting down there now thinking the line is long enough :(",
+            "user id": 281753900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

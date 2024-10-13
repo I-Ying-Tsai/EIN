@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "BREAKING UPDATE: Soldier shot at National War Memorial in Ottawa, Canada, police tell @ABC News - http://t.co/wg7WHTjJGI",
+        "user id": 28785486,
+        "tweet id": "524935816603107328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC multiple shots fired in parliament hill",
+            "user id": 20247382,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Is there truth on the US Embassy getting hit in Baghdad?",
+            "user id": 593181922,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC thats so so sad people are dumb if they do that! (shoot pople is dumb)",
+            "user id": 1368474618,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "#BREAKING UPDATE: #Soldier shot at National War Memorial in Ottawa, #Canada, police tell @ABC News - http://t.co/NpQryYZJCS",
+            "user id": 149666064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABC: BREAKING UPDATE: Soldier shot at National War Memorial in Ottawa, Canada, police tell @ABC News - http://t.co/sV8ItmP2fu",
+            "user id": 194388077,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

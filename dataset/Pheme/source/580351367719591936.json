@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Lufthansa and Germanwings have established a telephone hotline. The toll-free 00800 11 33 55 77 number is available to all the families...",
+        "user id": 25360913,
+        "tweet id": "580351367719591936",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Lufthansa_DE",
+            "user id": 285672706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Lufthansa_DE @Tamara_Gorro los alemanes ponen num telf gratis llamadas, espanoles 902 ke verguenza",
+            "user id": 3007589170,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

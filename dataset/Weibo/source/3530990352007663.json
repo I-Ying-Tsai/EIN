@@ -1,0 +1,189 @@
+{
+    "source": {
+        "content": "转：四川藏区需要4一10岁小孩的衣服和鞋子，新旧不限，洗干净就可以。地址：四川省甘孜藏族石渠县西区长沙贡马乡小学， 邮编：627350 校长：达洼15884044467 如果没有合适的衣服可以邮寄的，帮忙转一下贴也好，也许您的一下简单复制，就能给孩子们一个幸福的明天！❤",
+        "user id": 1861136583,
+        "tweet id": "3530990352007663",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@京京202",
+            "user id": 1719235262,
+            "user name": "G葡萄",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "转",
+            "user id": 2002908047,
+            "user name": "scripteverywhere",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "[织]",
+            "user id": 1096699110,
+            "user name": "秀萍如兰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                6
+            ],
+            "content": "转发微博",
+            "user id": 1931219320,
+            "user name": "艺术刘广云",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "哎呀，我的衣服都太裸露了～",
+            "user id": 2387534782,
+            "user name": "阿辛辛辛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "让爱心传递…",
+            "user id": 2935898467,
+            "user name": "倔强DE爱恋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "",
+            "user id": 1732180142,
+            "user name": "蒋崇无",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "发动大家奉献一点点爱！",
+            "user id": 2540976740,
+            "user name": "GuobaoOTAO",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "",
+            "user id": 1827168447,
+            "user name": "沈敬东",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "转",
+            "user id": 2477178954,
+            "user name": "nathalie美美",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1875571895,
+            "user name": "hl小燕子ff",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "[织]",
+            "user id": 1892667362,
+            "user name": "一碗余",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [],
+            "content": "石渠,这个必须转 @野孩子盼盼 @Xxdai_",
+            "user id": 2215525764,
+            "user name": "桑_塔兰泰拉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": " @-李喜彬 @家爱and志业 @林青不想去想 @诩飏 @有个傻瓜叫生哥",
+            "user id": 1868989521,
+            "user name": "sunnyheat",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

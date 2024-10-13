@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "New Yorker's reaction to #CharlieHebdo shooting http://t.co/FwtnxbbNYq",
+        "user id": 175553686,
+        "tweet id": "552835109372825601",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@gisela_pda @Zeinobia It's not - it's a 2012 cartoon by cartoon editor Bob Mankoff.",
+            "user id": 31114386,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@gisela_pda @Zeinobia 2012. 3 years old",
+            "user id": 77743953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@gisela_pda: New Yorker's reaction to #CharlieHebdo shooting http://t.co/LvXFTBsk4q”",
+            "user id": 384390216,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@gisela_pda you are here http://t.co/XujqfJsfMr",
+            "user id": 16978409,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

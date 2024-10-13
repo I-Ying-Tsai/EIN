@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "#Ferguson police chief \"we want the truth like everybody else does.\" OK, then start with full transparency. Who shot #MikeBrown?",
+        "user id": 159210283,
+        "tweet id": "499651830951841794",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WeRAllAnonymous @OpFerguson truth: mike brown is dead. one of your officers did it.",
+            "user id": 1856259403,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@WeRAllAnonymous @andie_walsh  @theanonmessage Indeed! We all want to know #WhoShotBrown and we want to Full autopsy!",
+            "user id": 253647516,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@WeRAllAnonymous @andie_walsh @TheAnonMessage the*",
+            "user id": 253647516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@WeRAllAnonymous #MikeBrown #Ferguson - isn't it time to be knees down and hands up across the nation #OPFerguson - #EndPoliceTerror",
+            "user id": 1284275610,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@WeRAllAnonymous ...and how many times was he shot? Hint: count the bullet holes.  Was he shot in the back as well as the front?",
+            "user id": 221986346,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@WeRAllAnonymous  FERGUSON POLICE DEPARTMENT \"Justice is not here right now\" http://t.co/OHopwmqSYx #Ferguson #mikebrown",
+            "user id": 153919561,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

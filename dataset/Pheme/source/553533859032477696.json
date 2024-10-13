@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Two hostage situations underway simultaneously in #Paris. Latest on our live blog: http://t.co/7N7uvClhWY http://t.co/N5Vu6ygqxM",
+        "user id": 16343974,
+        "tweet id": "553533859032477696",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph This absurd HOAX was scripted as a duo by Adam Lanza and Offcer Dorner \"The men who never wuz!\"",
+            "user id": 2885348567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "great cartoonists responses via @telegraph http://t.co/S1hbKEn8lh",
+            "user id": 25852384,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph CID Printers where the French Terrorists are holed up http://t.co/iwav1mIccQ",
+            "user id": 2845925284,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph FML! Get those bastards and hang them and investigate israel behind it too",
+            "user id": 1080276308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Is this a taste of things to come? Coordinated attacks to sap police resources, when hundreds of police converge on one place.",
+            "user id": 547137296,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

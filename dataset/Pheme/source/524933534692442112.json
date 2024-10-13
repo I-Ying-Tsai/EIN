@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#Ottawa City Hall is currently in lock-down. Please avoid the area.",
+        "user id": 17897698,
+        "tweet id": "524933534692442112",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@ottawacity: #Ottawa City Hall is currently in lock-down. Please avoid the area.” @JoshuaryanA @cpmorris78 @EmilyR11",
+            "user id": 562422531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@ottawacity: #Ottawa City Hall is currently in lock-down. Please avoid the area",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

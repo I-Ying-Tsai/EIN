@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Shots were fired at Canada's national war memorial in Ottawa and a ceremonial guard was shot, police say. http://t.co/9KkQ1apxxW",
+        "user id": 3108351,
+        "tweet id": "524935246647926784",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ always bad news and not any good news unfortunately",
+            "user id": 2310735727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @macdonaldajm Canada has been to war..?",
+            "user id": 352068186,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ You have to ask yourself. How does someone get past the front doors of Parliament with a rifle? Where was the security?",
+            "user id": 1226364937,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Thought and prayers for everyone over there with high hopes that everyone is alright",
+            "user id": 2826651588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

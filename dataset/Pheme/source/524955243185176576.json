@@ -1,0 +1,129 @@
+{
+    "source": {
+        "content": "If there is a bright spot in Ottawa today, it's that @Ottawaparamedic did an amazing job keeping that young Soldier alive.",
+        "user id": 1086941082,
+        "tweet id": "524955243185176576",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@kidney4craig rcmp started the care actually",
+            "user id": 161388876,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@kidney4craig Amen",
+            "user id": 991974235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@kidney4craig @luwedge @ottawaparamedic not to mention the civilians that started the CPR while waiting",
+            "user id": 22074416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "@juzjojo I hadn't heard that! Yes, those civilians are definitely heroes!",
+            "user id": 1086941082,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@kidney4craig @jfeliciao @ottawaparamedic Is he alive?  I haven't seen anything stating his condition...but I'm only getting twitter updates",
+            "user id": 366693043,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@JackieDee16 @kidney4craig @ottawaparamedic at last report he was alive and being treated in hospital. That was maybe 40 mim ago",
+            "user id": 416480288,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@kidney4craig @ottawaparamedic kudos",
+            "user id": 61232629,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@kidney4craig @ottawaparamedic There's an image of a woman giving him CPR that was just posted. Amazing efforts by everyone involved!",
+            "user id": 22074416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "@kidney4craig Just stating what I've been told. Either way, amazing job indeed to those that kept him alive.",
+            "user id": 22074416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

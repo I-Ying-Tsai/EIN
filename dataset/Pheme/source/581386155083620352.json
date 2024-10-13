@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Andreas Lubitiz was 'deemed unsuitable for flight duties' during  training #Germanwings http://t.co/nk5GGyuxaa http://t.co/HQpKZD4DSI",
+        "user id": 16973333,
+        "tweet id": "581386155083620352",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Independent By printing the full name you inflict serious harm on his family and his relatives. This is really disgusting!",
+            "user id": 184517401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Independent BTW you messed the name up, which also goes to shows how unnecessary it is to print the real name.",
+            "user id": 184517401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent he was a terrorist who killed innocents  but u won't call him that because he was white and not a Muslim .",
+            "user id": 279288717,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent http://t.co/aLgn6mKMil #Germanwings Why not have a pincode on each flight so that flight crew can access the cockpit?",
+            "user id": 3023037872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent He was Directing his own18min horror movie with his\"audience\"behind and\"widescreen\"up front.He musthave weird DVD collectn !",
+            "user id": 218533424,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent love stories,songs lyrics,heart touching status: Punjabian Da King  song Dil chandre http://t.co/ALjzBJzObT",
+            "user id": 448605844,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent SHAME ON OUR SOCIETY ! This was a mental ill man and Lufhansa knew that ! They are the murderers who didn't protect him !!!",
+            "user id": 578937930,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Feel so sorry for everyone concerned.So many issues arising from this.Seriously raises mental health to fore.Did airline 1 of 2",
+            "user id": 173454905,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent force him back to work too early?Could stigmatise sufferers.Will some professions be deemed off limits for sufferers? #kneejerk",
+            "user id": 173454905,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

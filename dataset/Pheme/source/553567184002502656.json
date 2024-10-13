@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "Every time I think I see the best #CharlieHebdo cartoon another great one comes out. #JeSuisCharlie http://t.co/UzOVNAsx8G",
+        "user id": 487600344,
+        "tweet id": "553567184002502656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Bipartisanism: Every time I think I see the best #CharlieHebdo cartoon another great one comes out. #JeSuisCharlie http://t.co/3oQT6QbvKO”",
+            "user id": 112745760,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Bipartisanism the racist ones are my faves &lt;3 &lt;3 &lt;3 so talented in his depiction of Black people as apes :D",
+            "user id": 2508289213,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Bipartisanism fuck ass.",
+            "user id": 2508289213,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism I so agree with u on that .. @Cartoon_Hebdo _",
+            "user id": 38218247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism @P0TUS I found about 20 in my @DeviantArt stream.  \n(I may have to make one of my own)",
+            "user id": 1696442881,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism http://t.co/mR5vXN9wBL",
+            "user id": 514369689,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism @moxyladies The \"PEN\" got me know where. \n#Letters \n#Time \n#NoReply \n#War \n#SupremeCourt  \n#Canada \n#NonHuman \n#Vote \n#White",
+            "user id": 430297317,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@Bipartisanism @BanjoHfuhruhur The pen is more powerful than the sword!",
+            "user id": 352647141,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "content": "@ian_baylis @Bipartisanism As long as it is 'sharpe' enough...",
+            "user id": 2191277311,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@BanjoHfuhruhur @Bipartisanism My father told me never to get in between duelling banjos!",
+            "user id": 352647141,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Thinking of Layton's words: \"Love is better than anger. Hope is better than fear. Optimism is better than despair.\" #ottawashooting",
+        "user id": 93652764,
+        "tweet id": "524967510563889152",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@logicdog  Still a great dream. We need to LIVE it into reality.",
+            "user id": 2526362149,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@REVLESSGREG @logicdog follow that war money kid,  you'll find happiness right behind the dead bodies",
+            "user id": 47279279,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@logicdog http://t.co/CYzuF678bR",
+            "user id": 224403587,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

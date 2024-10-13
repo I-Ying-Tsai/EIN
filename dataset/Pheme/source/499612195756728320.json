@@ -1,0 +1,180 @@
+{
+    "source": {
+        "content": "A man picks up burning tear gas can and throws it back at police. #ferguson pic by @kodacohen http://t.co/qd9LjGNenk #hero",
+        "user id": 116625196,
+        "tweet id": "499612195756728320",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Copwatch all while eating potato chips. dope.",
+            "user id": 441353171,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@kahnartist A nourished freedom fighter is a longer serving freedom fighter.",
+            "user id": 116625196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @kodacohen meanwhjile in #Ferguson",
+            "user id": 434942454,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Copwatch @kodacohen @jaykelly26 Crazy thing about this photo for me is that dude doesn't seem to be wearing gloves. Youch, that must burn.",
+            "user id": 14447220,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@lindseymysse maybe thats what the chip bag is for...bad choice to block heat tho @Copwatch @kodacohen",
+            "user id": 359211782,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "🙌 RT “@Copwatch: A man picks up burning tear gas can and throws it back at police. #ferguson pic by @kodacohen http://t.co/sl8fCjnxml #hero”",
+            "user id": 75942957,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @CandyCornball @kodacohen and look at the shirt he is wearing....#irony",
+            "user id": 1544164680,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@Copwatch @OpFerguson @kodacohen let a man eat his chips in peace.",
+            "user id": 14227485,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@zadiaz @Copwatch @OpFerguson @kodacohen OWNED!",
+            "user id": 17719592,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @Under_Punches @kodacohen hero",
+            "user id": 18735523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @kodacohen ~~~&gt; Is it that new poisoned tear gas the Israelis just marketed?",
+            "user id": 467026225,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@Copwatch: A man picks up burning tear gas can and throws it back at police. #ferguson pic by @kodacohen http://t.co/X7ITxIDNrI\"",
+            "user id": 63558535,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @Stuntnuggets @kodacohen is he holding a bag of potato chips in the other hand? #Manly",
+            "user id": 597050191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @MarcusHyde @kodacohen best part is he never dropped his bag of chips",
+            "user id": 47021641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

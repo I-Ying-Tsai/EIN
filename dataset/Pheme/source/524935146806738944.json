@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Please DO NOT tweet locations of officers in #Ottawa @OttawaPolice  in light of what has just occured! #Safety",
+        "user id": 549587666,
+        "tweet id": "524935146806738944",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@thecoffeecop @DeniseMiller76 @OttawaPolice   This is like Moncton in June all over again!",
+            "user id": 840859760,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@nicoleagallant @thecoffeecop @OttawaPolice I thought the same thing....#Ottawa",
+            "user id": 21823322,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thecoffeecop: Please DO NOT tweet locations of officers in #Ottawa @OttawaPolice in light of what has just occured! #Safety@TSNBobMcKenzie",
+            "user id": 298755149,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thecoffeecop @CBCNL @OttawaPolice @kady take heed",
+            "user id": 2596397603,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT @thecoffeecop: Please DO NOT tweet locations of officers in #Ottawa @OttawaPolice  in light of what has just occured! #Safety",
+            "user id": 112490673,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@thecoffeecop @OttawaPolice thanks for the reminder Laurie",
+            "user id": 886510800,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@thecoffeecop: Please DO NOT tweet locations of officers in #Ottawa @OttawaPolice  in light of what has just occured!",
+            "user id": 2330715482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@thecoffeecop: Please DO NOT tweet locations of officers in #Ottawa @OttawaPolice  in light of what has just occured! #Safety”@IvisonJ",
+            "user id": 855757262,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@thecoffeecop @ScottPowell602 @OttawaPolice wish the media would quit reporting locations too...cbc CT cnn",
+            "user id": 564386703,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@thecoffeecop: Please DO NOT tweet locations of officers in #Ottawa @OttawaPolice  in light of what has just occured! #Safety”",
+            "user id": 106602249,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

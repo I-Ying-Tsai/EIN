@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Prince rumoured to be performing in surprise show in Toronto http://t.co/PEbtcmybqc http://t.co/HOoFI33eV2",
+        "user id": 203123011,
+        "tweet id": "529654186791944192",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews hey @stephb209 ^^^^",
+            "user id": 36275675,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews I guess it's no longer a surprise.",
+            "user id": 43219286,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews IF this were to be happening on Thursday, would consider flying Vancouver to To. in hopes of seeing him live. #OnBucketList",
+            "user id": 342313862,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews Next, maybe Vancouver, B.C?",
+            "user id": 342313862,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "Exciting! Anyone going? RT @CTVNews Prince rumoured to performsurprise show in Toronto http://t.co/MaIAv6N5cj http://t.co/4YgRYJVk9K",
+            "user id": 22809037,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@natashankpr I'll definitely be trying to get tix today!",
+            "user id": 188608550,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Prince rumoured to be performing in surprise show in Toronto http://t.co/ikEU0ijo3j http://t.co/h4hgLCIR0z”\n\nHow cool!",
+            "user id": 840859760,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews  he's still alive???",
+            "user id": 2392310757,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews who cares!!!!",
+            "user id": 233312111,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews hahahaha well it's not much of a surprise now is it!? :P",
+            "user id": 720392017,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

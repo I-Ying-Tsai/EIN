@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Update - AFP: an unnamed police source says the killing of the policewoman in #Paris on Thursday is linked to the #CharlieHebdo attack",
+        "user id": 87416722,
+        "tweet id": "553512735192141826",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak wow and you were so sure there was no connection despite having no info. Tell us the news not your view as news. Numpties.",
+            "user id": 245308008,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak of course it was going to be linked, something needs done before they take over the world !!",
+            "user id": 526197032,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak I'd rather wait for official confirmation than your scaremongering speculative social media sourcing news. #givefacts #unnamed",
+            "user id": 45953887,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak at least it hasn't been forgotten... there's been so little coverage, no mention of finding the shooter that escaped!!",
+            "user id": 146199428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak no shit #JeSuisCharlie",
+            "user id": 309142386,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

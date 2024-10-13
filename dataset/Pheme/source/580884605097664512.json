@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Pilot on #Germanwings #4U9525 was locked out of cockpit, tried to smash door down to re-enter, the @nytimes reports. http://t.co/eGuyJz4wGs",
+        "user id": 20494730,
+        "tweet id": "580884605097664512",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JasonWhitely @nytimes so suspicion may fall on copilot? Wonder who he is..",
+            "user id": 740769140,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@JasonWhitely @nytimes wow",
+            "user id": 66726759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@ToddWFAA8 No kidding. Medical, suicide? Who knows?",
+            "user id": 20494730,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

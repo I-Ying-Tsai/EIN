@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "BREAKING: French authorities say the two #CharlieHebdo terrorists are still \"armed and extremely dangerous.\"",
+        "user id": 1362368612,
+        "tweet id": "552828658747187201",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MaxAbrahms No shit? After murdering 12 people, they didn't just lay down their weapons?",
+            "user id": 2927159783,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MaxAbrahms Wake Up EU. This is the results of supporting the terrorists in the Middle East. Hope this will end soon with minimal casualty",
+            "user id": 613548687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MaxAbrahms Please help fund this documentary against religious homophobia in #Uganda http://t.co/W4pVjtobKN #LGBT http://t.co/x4L2PXmKTR",
+            "user id": 2302096610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MaxAbrahms @EliotHiggins 2 heros",
+            "user id": 166999175,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MaxAbrahms @EliotHiggins So where's the third?",
+            "user id": 19827857,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

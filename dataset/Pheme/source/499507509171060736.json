@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "RT @manofsteele: Man picks up burning tear gas can and throws it back at police. #ferguson pic by @kodacohen http://t.co/tBIacVzMKE",
+        "user id": 24000375,
+        "tweet id": "499507509171060736",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Simplemachines_ @Blkgrlwrtndsng @manofsteele @kodacohen he's not spilling any chips or anything either.",
+            "user id": 259388945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Simplemachines_ @manofsteele @kodacohen WITH AN OPEN BAG OF CHIPS IS HIS HAND! GREATEST PICTURE EVER.",
+            "user id": 97598440,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

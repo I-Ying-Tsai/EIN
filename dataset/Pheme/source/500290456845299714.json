@@ -1,0 +1,466 @@
+{
+    "source": {
+        "content": "Here's the police report. Somehow #Ferguson cops valued a box of Swishers at nearly $50. Time to stop smokin I guess http://t.co/8ZkvrHkApc",
+        "user id": 1363520268,
+        "tweet id": "500290456845299714",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive @JillJhorvath The property would have been valued by store employee not cops. Retail cost as determined by business.",
+            "user id": 728433109,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@YourAnonLive Could've been a 60 count box which are ~$40. Box like this: http://t.co/HnBy8k86GG",
+            "user id": 16311907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                23,
+                24
+            ],
+            "content": "@nickk330 @YourAnonLive If he stole a case of cigars, where were they?",
+            "user id": 20013471,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@YourAnonLive Actually it's pretty reasonable. Maybe do research before tweeting to the masses? http://t.co/gFeDyb1RrY",
+            "user id": 37697842,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                25
+            ],
+            "content": "@InfectiousChris lmap research before tweeting? pfft if anything this entire mess had showed research is the last thing people use",
+            "user id": 1923265614,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive You should be focusing on the ROBBERY charge and not the SHOPLIFTING charge.",
+            "user id": 37697842,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@YourAnonLive @JillJhorvath The key here is the verbiage Theft,burglary,larceny, or Robbery? Robbery is the term in this report!",
+            "user id": 728433109,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                26
+            ],
+            "content": "@agentbell4272 @YourAnonLive why robbery..whats the difference between shoplift or robbery..I have not read report yet",
+            "user id": 1006615872,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@YourAnonLive @OpFerguson that's also not a robbery in most jurisdictions, it's a petty theft. (Eg Los Angeles)",
+            "user id": 15649636,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@bonedog84 @OpFerguson @YourAnonLive I stole gum from a drugstore as a kid. Glad Im alive to tell it.",
+            "user id": 247021838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                12
+            ],
+            "content": "@YourAnonLive @OpFerguson no signatures?",
+            "user id": 136354381,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                27
+            ],
+            "content": "@DeuceTony @YourAnonLive @OpFerguson I bet they just typed that up this morning.",
+            "user id": 52561984,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@DeuceTony @YourAnonLive @OpFerguson they're not finished yet, didn't want to sign rough draft.",
+            "user id": 15649636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "content": "@YourAnonLive @OpFerguson So there are already two different charges!\nhttps://t.co/73iKLAlP3U\nAnd none of them shows Michael Browns name!!!",
+            "user id": 1873548374,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                28
+            ],
+            "content": "@von_Steiner @OpFerguson @YourAnonLive Notice the top this says 2nd suspect.  Mike Brown is suspect #1.  Please read everything out there.",
+            "user id": 84887951,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive @JayTheQuad it also says they didn't arrive on the scene for the first time until 8/13",
+            "user id": 47535664,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive @OpFerguson so not even a felony... Haha",
+            "user id": 796814947,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive @OpFerguson $50 ?! Shit.. Mane this is some nonsense the report don't even look right. Missing info allat",
+            "user id": 276778145,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "content": "@YourAnonLive @toddwurdd Items Stolen: 1 - Items Recovered: 0 - Fatally Shot Suspects: 1...",
+            "user id": 2204858111,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "content": "@freewebcamporn @YourAnonLive man. in so heated over this",
+            "user id": 69211892,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive @FrancoisKilljoy for real.. I buy a box for 15 bucks.",
+            "user id": 73545605,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive I think perhaps they’re saying the entire wholesale box a store would use for display…as opposed to one package.",
+            "user id": 159322669,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonLive @euIVmusic WHY does the time stamp say 11:51 on the report, but one of the stills of the robbery shows 11:53?",
+            "user id": 56129949,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": 2,
+            "children": [],
+            "content": "@iRondrea if they have the box it would be in evidence, but that's assuming this isn't just fabricated to create an excuse for the cop",
+            "user id": 16311907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 24,
+            "parent": 2,
+            "children": [
+                29,
+                30,
+                31
+            ],
+            "content": "@iRondrea @nickk330 @YourAnonLive they have the whole thing on video..",
+            "user id": 492775893,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": 4,
+            "children": [
+                32
+            ],
+            "content": "@PancakeBreasts Anon has been pretty awful through this whole thing.",
+            "user id": 37697842,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 26,
+            "parent": 7,
+            "children": [
+                33
+            ],
+            "content": "@JillJhorvath  Robbery involves threat or the use of force or violence to take the property",
+            "user id": 728433109,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 27,
+            "parent": 11,
+            "children": [],
+            "content": "@mskturner10K @YourAnonLive @OpFerguson right. I made better report cards on Photoshop 😭",
+            "user id": 136354381,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 28,
+            "parent": 14,
+            "children": [
+                34
+            ],
+            "content": "@jlrehmer @OpFerguson @YourAnonLive \nGood look! Thank you!",
+            "user id": 1873548374,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 29,
+            "parent": 24,
+            "children": [],
+            "content": "@GdurhamGarrett @iRondrea @YourAnonLive you have a link? or you just taking their word for it?",
+            "user id": 16311907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 30,
+            "parent": 24,
+            "children": [],
+            "content": "@iRondrea @nickk330 @YourAnonLive it was on the news where I live.",
+            "user id": 492775893,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 31,
+            "parent": 24,
+            "children": [],
+            "content": "@GdurhamGarrett @iRondrea @nickk330 ok, have you seen the video?",
+            "user id": 1363520268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 32,
+            "parent": 25,
+            "children": [
+                35
+            ],
+            "content": "@InfectiousChris I meant in general. People went off the deep end and believed the 1st thing they heard or read. No matter how 1 sided",
+            "user id": 1923265614,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 33,
+            "parent": 26,
+            "children": [],
+            "content": "@agentbell4272 right.  So he did that for cigars ? I know I need to sit and read report.   What's your thoughts on sll this",
+            "user id": 1006615872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 34,
+            "parent": 28,
+            "children": [],
+            "content": "@von_Steiner @OpFerguson @YourAnonLive You're welcome!",
+            "user id": 84887951,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 35,
+            "parent": 32,
+            "children": [],
+            "content": "@PancakeBreasts Oh for sure.. Anon has been exceptionally awful though!",
+            "user id": 37697842,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 12
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

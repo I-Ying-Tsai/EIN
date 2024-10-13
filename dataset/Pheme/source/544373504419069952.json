@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Update - Five hostages have escaped from the Lindt cafe in Sydney and an unconfirmed number of hostages remain inside #sydneysiege",
+        "user id": 87416722,
+        "tweet id": "544373504419069952",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak Listening from NYC. Prayers for Hostages. Let sharp shooters kill those #muzziescumbags.",
+            "user id": 143182513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak killing these phsycopaths will be a mercy killing. They should be captured like ferrets and kept in a cage in the zoo 4 all 2c",
+            "user id": 2654320636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

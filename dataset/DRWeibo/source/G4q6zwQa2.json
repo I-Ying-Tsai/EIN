@@ -1,0 +1,148 @@
+{
+    "source": {
+        "content": "【探访海口滞留现场：有游客称再来不开车】 2月22日，海南海口。琼州海峡遭遇历史罕见持续大雾，上万车辆滞留海口无法出岛。大年初七，上班族已经陆续上班。贵州一因为堵车上班请假的旅客称，下次来海南不开车了。@澎湃新闻 汽车娱乐大法的秒拍视频 ",
+        "time": "18-2-23 10:40",
+        "user id": "5699800469",
+        "tweet id": "G4q6zwQa2",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "user id": "1408509474",
+            "user name": "开车的大副",
+            "content": "不明白国家为什么不规划建跨海大桥，比港珠澳大桥短多了！肯定不是难度问题！希望有大伽发文讨论一下！",
+            "time": "18-2-23 11:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5469964556",
+            "user name": "永远会有多远哒哒哒",
+            "content": "好像是有个版块每一年就会撞一次，然后造成断裂",
+            "time": "18-2-28 19:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "1408509474",
+            "user name": "开车的大副",
+            "content": "你确定没有HH集团的因素？你看看这些天机票的价格就明白了吧。",
+            "time": "18-2-26 11:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "1927946311",
+            "user name": "椰子树下吃过亏",
+            "content": "琼州海峡有个大断裂带，安全论证几年前就没通过，现在讨论建隧道，但是海南是个穷地方，财务支持不了。广东对粤南不重视，更不愿意分摊大头。港珠澳有珠三角的城市群腹地支持，而海南岛体量太小。",
+            "time": "18-2-24 00:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "1790385245",
+            "user name": "还是叫我阿廖沙吧",
+            "content": "不明白从北京为什么要开车过去 公共交通不行么？既不环保 还玩儿不好 只能用装逼解释了",
+            "time": "18-2-23 10:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "2009103311",
+            "user name": "_____偏偏乌鸦白",
+            "content": "是啊，有时间肯定自驾啊，带东西也方便，",
+            "time": "18-2-23 12:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "2865055064",
+            "user name": "黎叔很强大",
+            "content": "貌似自驾在国外（小国家就算了）会稍微好一些。在天朝还存在一些问题。",
+            "time": "18-2-24 15:48",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "1899269924",
+            "user name": "delicious小饼干",
+            "content": "我家旅行都是公共交通，提前预定好。自驾游最多附近玩玩。",
+            "time": "18-2-23 17:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "2737126721",
+            "user name": "巫妖大魔王plus",
+            "content": "有个小哥哥好帅//@改装是狂热的: 这都初八了",
+            "time": "18-2-23 12:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1843056062",
+            "user name": "琥子散养几维鸟",
+            "content": "其实搞不太懂为什么要开车去海南诶……",
+            "time": "18-2-23 11:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

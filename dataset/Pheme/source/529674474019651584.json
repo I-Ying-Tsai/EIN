@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Are you in line for Prince's rumoured show in Toronto? http://t.co/vWqaS1wjSp http://t.co/7FzHZsihpY",
+        "user id": 12848262,
+        "tweet id": "529674474019651584",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@TorontoStar: Are you in line for Prince's rumoured show in Toronto? http://t.co/3cny7eoj3V http://t.co/2zh1KDzcoS” So much yes",
+            "user id": 156287314,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar The amazing @aplusadvantage is in line.The staff/security at the venue have yet to confirm anything to the over 100 ppl in line",
+            "user id": 42088772,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar it's my Birthday ohhhh I would love to see my all time fav ❤️❤️❤️please get me in!",
+            "user id": 430880741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar #birthdaygirl #prince  it's my Birthday ohhhh I would love to see my all time fav ❤️❤️❤️please get me in!",
+            "user id": 430880741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "“@TorontoStar: Are you in line for Prince's rumoured show in Toronto? http://t.co/H38x2v9z5r http://t.co/Sz1pcBbEnf” @DazRolfey is",
+            "user id": 291328216,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Rolfey21 @TorontoStar took day off n all. #driveyourmumscorvette",
+            "user id": 380543505,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar I am in line. Unreal. This is going to be epic",
+            "user id": 360693589,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar ???&gt;\"&lt; ???? ?? ?? ? ? ?",
+            "user id": 1259808110,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

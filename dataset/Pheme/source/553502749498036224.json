@@ -1,0 +1,173 @@
+{
+    "source": {
+        "content": "\"Yo, Charlie Hebdo, I'm really sad for you, I'ma let you finish, but la best galette of all time is reportée au 17 janvier.\"\n— Balkanye West",
+        "user id": 189097725,
+        "tweet id": "553502749498036224",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee ça t'a marqué cette histoire de galette",
+            "user id": 414244883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee jtm",
+            "user id": 149298036,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@Ilagee Je sais pas pourquoi tu l'as pas trouvée avant...",
+            "user id": 111656970,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Nicochon J'étais pas assez en colère.",
+            "user id": 189097725,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee ça se surpasse ce matin.",
+            "user id": 223160806,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3 &lt;3",
+            "user id": 75249978,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@ilagee à cause de ton pseudo je l'ai lu avec la voix de Dracula. C'était atroce.",
+            "user id": 4035431,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@yoannferret Perharps the same could be said of all religions.",
+            "user id": 189097725,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee Hurry up with my damn galette.",
+            "user id": 1583285791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee @SeriousCharly Mais bordel :'D",
+            "user id": 263565409,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee @amoctn GG je me suis étouffé avec ma tartine",
+            "user id": 981448332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Ilagee @Bulbeuse of ALL TIME! thank you",
+            "user id": 2827742534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "content": "@ilagee … :(",
+            "user id": 4035431,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

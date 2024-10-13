@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "拼车超话 九江不让过去坐火车，政府包车遥遥无期，求拼车，求顺风车去深圳，人找车2人\n时间:随时\n地点:黄梅~深圳\n备注:已办好各种证明，会开车，价格可谈  ",
+        "time": "20-3-21 08:18",
+        "user id": "1774587173",
+        "tweet id": "IzAMdw4XD",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                4,
+                6,
+                7,
+                8,
+                9
+            ],
+            "user id": "3972864843",
+            "user name": "Jane_NAN",
+            "content": "县里汽车站不是有点对点的车吗，我昨天电话问了去深圳的，交运的说天天有车，让直接提行李去坐车，但是要有证明材料，我就是开不到接收证明",
+            "time": "20-3-21 08:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5676095206",
+            "user name": "UneLettre0",
+            "content": "你说的接收证明是单位发的吗",
+            "time": "20-3-23 16:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "1342182017",
+            "user name": "衣心优品掌柜林夕",
+            "content": "我是恩施这边的，我们村里干部说的11点的车",
+            "time": "20-3-22 20:23",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 3,
+            "parent": 9,
+            "children": [
+                2
+            ],
+            "user id": "3115873317",
+            "user name": "一支咕咕咕",
+            "content": "啊  昨天有去杭州的大巴车吗  我错过了啊啊啊啊    今天去问  他们直接说没有去杭州的大巴了",
+            "time": "20-3-22 20:03",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "5874308525",
+            "user name": "实在不知道取什么名字的小於",
+            "content": "可以直接提行李去吗，打电话问谁啊",
+            "time": "20-3-21 19:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "5769403617",
+            "user name": "国超超超超暖的",
+            "content": "好的，谢谢",
+            "time": "20-3-21 13:35",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "user id": "3972864843",
+            "user name": "Jane_NAN",
+            "content": "你去看看呗，我没去车站，我只是电话问的",
+            "time": "20-3-21 13:15",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "user id": "3972864843",
+            "user name": "Jane_NAN",
+            "content": "昨天我电话问的交运局负责调车的，他说深圳的天天有车，让直接去车站，但是要接收证明",
+            "time": "20-3-21 13:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [],
+            "user id": "5769403617",
+            "user name": "国超超超超暖的",
+            "content": "有证件就可以直接去车站坐车吗，我等了好久，一直以为他们会打电话通知我",
+            "time": "20-3-21 11:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "user id": "1342182017",
+            "user name": "衣心优品掌柜林夕",
+            "content": "我草好好的今天就走政府包车点对点回杭州的车了，就因为我租住的杭州小区社区不给我开接收证明我去不了，我干他娘的，下一班不知道什么时候了，我草草草，快点解决吧，别搞那么多没用的证明了，我快死了，2个多月了，我不用吃饭了吗，我干他娘的，我草草草草草",
+            "time": "20-3-21 09:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2656314723",
+            "user name": "I是坑坑I怕Who",
+            "content": "准备上班？",
+            "time": "20-3-21 10:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "6983347143",
+            "user name": "honey的碎花胖次",
+            "content": "附近的不能去九江中转吗",
+            "time": "20-3-23 16:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

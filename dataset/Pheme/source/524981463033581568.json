@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "Shooting incidents in Ottawa today: ongoing investigation http://t.co/jusznyyg4U",
+        "user id": 23937894,
+        "tweet id": "524981463033581568",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice power out in Bells Corners! Any connection to today's events?",
+            "user id": 44813284,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice My map app shows tweets from #Ottawa shooting site http://t.co/VlcPC99uBJ … …",
+            "user id": 11462742,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Ottawa Police confirm soldier has died. RT @OttawaPolice: Shooting incidents in Ottawa today: ongoing investigation http://t.co/5CdZ6AodhT",
+            "user id": 22295428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Release from @OttawaPolice \"http://t.co/JLdL74Du0T”",
+            "user id": 22630049,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": ".@OttawaPolice release on shooting incidents in Ottawa today: http://t.co/90589V51HY #OttawaShootings",
+            "user id": 394169629,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "News release from @OttawaPolice: Shooting incidents in Ottawa today: ongoing investigation http://t.co/jPcIlwYwof",
+            "user id": 25175706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Official PD statement #OttawaShooting “@OttawaPolice: Shooting incidents in Ottawa today: ongoing investigation http://t.co/RlzgNlO7cq”",
+            "user id": 363834321,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        }
+    }
+}

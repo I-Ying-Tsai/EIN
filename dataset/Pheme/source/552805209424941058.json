@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Good backgrounder from The New Yorker from 2012: The Charlie Hebdo Affair: Laughing at Blasphemy http://t.co/LDwDceoxFg",
+        "user id": 27571535,
+        "tweet id": "552805209424941058",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BarbaraDemick  I strongly condemn this terrorist attack as a Turkish Muslim.Terrorists Cannot represent Islam #notinmyname #NoToTerrorism",
+            "user id": 2464502209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@BarbaraDemick: Good backgrounder from The New Yorker from 2012: The Charlie Hebdo Affair: Laughing at Blasphemy http://t.co/6STaKMcXQl”",
+            "user id": 545454535,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

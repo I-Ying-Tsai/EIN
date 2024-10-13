@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "Passersby working on shooting victim. From the CBC's Jason Ho. #cbcOTT #OTTnews http://t.co/mskjnJAlvE",
+        "user id": 18999969,
+        "tweet id": "524922499466022913",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CBCOttawa @CBCNews how horrible!!!",
+            "user id": 570951676,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                14
+            ],
+            "content": "“@LisaRachel123: @CBCOttawa @CBCNews how horrible!!!” Shit..!!",
+            "user id": 34249104,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews What a unclassy photo. It could be your mom. booo Show some discretion.",
+            "user id": 95660747,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa http://t.co/OSehwkVhvx",
+            "user id": 2442974962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews shooting is horrible",
+            "user id": 2329265754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa Did anybody manage to nail the shooter?",
+            "user id": 1553692321,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews Please contact CJAD Amanda Kline (514) 207-2173",
+            "user id": 2833993809,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews .... Terrible news to hear of a solider injured on Canadian soil - thoughts and prayers",
+            "user id": 1457101706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa:Passersby working on#shooting#victim From CBC's Jason Ho#cbcOTT #OTTnews http://t.co/rN2peA1siF” #Ontario #Canada #veteran #pray",
+            "user id": 2401156465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: Passersby working on shooting victim. From the CBC's Jason Ho. #cbcOTT #OTTnews http://t.co/QlR06BFyCD” @KayBurley",
+            "user id": 361107131,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa",
+            "user id": 180818052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa",
+            "user id": 1328299010,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa God save the soldier!",
+            "user id": 1894234825,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa very sad. Makes me wonder where this world is coming to. Prayers to all involved.",
+            "user id": 519919670,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 1,
+            "children": [],
+            "content": ".@Marcusl230 @CBCOttawa @CBCNews Scary!!",
+            "user id": 570951676,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 13,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

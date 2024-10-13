@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "JUST IN: St. Louis County Prosecutor Bob McCulloch will hold a news conference on the #MikeBrown case at 4:30. #Ferguson",
+        "user id": 18294906,
+        "tweet id": "499660656769921025",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RobertDEdwards Where?",
+            "user id": 14090948,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@AntonioFrench lobby of Justice Center in Clayton. @RobertDEdwards",
+            "user id": 33627414,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards @AntonioFrench Live coverage? Streaming?",
+            "user id": 396186567,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards @AntonioFrench  yeah that word starting with CON means bullshit",
+            "user id": 523218328,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@chesterlampkin @RobertDEdwards Thanks.",
+            "user id": 14090948,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

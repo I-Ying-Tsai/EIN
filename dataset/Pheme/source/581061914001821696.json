@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "BREAKING: Name of co-pilot of crashed #Germanwings flight #4U9525 was German, Named  Andreas Lubitz http://t.co/yeIsO3yzop",
+        "user id": 364810202,
+        "tweet id": "581061914001821696",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "More: The co-pilot of the #Germanwings flight #4U9525 that crashed in the French Alps on Tuesday Andreas #Lubitz, 28, of Montabaur, #Germany",
+            "user id": 364810202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

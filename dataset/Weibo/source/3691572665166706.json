@@ -1,0 +1,504 @@
+{
+    "source": {
+        "content": "20年前，中国有公务员1000多万，经过20年的不泄努力，终于精简到了5700万，取得了巨大成绩。",
+        "user id": 1147562814,
+        "tweet id": "3691572665166706",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "转发微博",
+            "user id": 1580757252,
+            "user name": "王有旺导演",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "这个数乘以三，再加上宠大的事业编制人数，就是社会稳定的强大基础",
+            "user id": 1260419367,
+            "user name": "飞扬心理咨询师",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "一邦没有手的人，真感谢女雷峰",
+            "user id": 3033799880,
+            "user name": "年岁阿宝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "转发微博",
+            "user id": 2265122887,
+            "user name": "lhlngw",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈哈……这就是改革！",
+            "user id": 2002700643,
+            "user name": "军山樵夫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "再过20年，可成立公务员国。",
+            "user id": 1616430541,
+            "user name": "图个什么",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                19
+            ],
+            "content": "转发微博",
+            "user id": 2081698975,
+            "user name": "五湖钓月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1834753232,
+            "user name": "4PiRR",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "孩子们都长大了，没办法啊。",
+            "user id": 1712097064,
+            "user name": "冷俊123",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "（[明]张居正/说：“裁冗难”！）------如今不是难不难的问题，而是根本就不能办了。",
+            "user id": 2035658783,
+            "user name": "薙正先生",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "[弱]",
+            "user id": 1489600504,
+            "user name": "fncfan",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "不如养猪",
+            "user id": 3290875501,
+            "user name": "云飞_V587",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "content": "国家公务员局：根据2010年的统计数据，我国公务员为689.4万人。造谣的数都张嘴就来啊！",
+            "user id": 2003764335,
+            "user name": "狐小三",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "content": "伞都不会打的人，能为百姓服务？谁信！",
+            "user id": 1713152767,
+            "user name": "寂寂--无名",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [
+                15
+            ],
+            "content": "@中出宪政柏拉图 @辟谣联盟",
+            "user id": 2003764335,
+            "user name": "狐小三",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                17,
+                24,
+                25
+            ],
+            "content": "@辟谣与真相",
+            "user id": 2003764335,
+            "user name": "狐小三",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [
+                18,
+                22
+            ],
+            "content": "",
+            "user id": 2438340463,
+            "user name": "對酒當哥啊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [],
+            "content": "求真相。",
+            "user id": 1650674621,
+            "user name": "ColinAtWork",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [],
+            "content": "美女与野兽",
+            "user id": 1886720771,
+            "user name": "泛泛自造",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 6,
+            "children": [],
+            "content": "[吃惊]谁统计的[阴险][衰]",
+            "user id": 2207673291,
+            "user name": "百斜不正",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "content": "伟光正成就展",
+            "user id": 1647713893,
+            "user name": "lianglun1996",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "content": "用它们盯住人民。。。嘻嘻！工资加得太慢和少了？",
+            "user id": 2320523381,
+            "user name": "阿房宫工程项目部",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": 16,
+            "children": [],
+            "content": "😉👍👍",
+            "user id": 3213270133,
+            "user name": "惠吉尔",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "希望历史数据都经得起推敲。但应该认识到，兲朝现行的潜规则之一奏是打左灯向右转，介条真理已经经过数十年实践的检验，屡试不爽。",
+            "user id": 1875203131,
+            "user name": "voltava",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 15,
+            "children": [
+                27
+            ],
+            "content": "【大家说说，如果统计局的数字是错的或是假的，该如何论处呢】",
+            "user id": 1147562814,
+            "user name": "曾经的一个传说",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 15,
+            "children": [
+                26,
+                30,
+                32
+            ],
+            "content": "【为什么没把各地钻制度空子，偷吃工资的数字统计出来呢】",
+            "user id": 1147562814,
+            "user name": "曾经的一个传说",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [
+                28,
+                35,
+                36
+            ],
+            "content": "【从2010年、2012年、2013年、2014年偷吃空晌的数字是多少？】",
+            "user id": 1147562814,
+            "user name": "曾经的一个传说",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 27,
+            "parent": 24,
+            "children": [
+                29
+            ],
+            "content": "图片是真的吗？",
+            "user id": 2883372535,
+            "user name": "宁述光",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 28,
+            "parent": 26,
+            "children": [
+                33
+            ],
+            "content": "",
+            "user id": 2180306431,
+            "user name": "甘肃李建中",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 29,
+            "parent": 27,
+            "children": [
+                31
+            ],
+            "content": "",
+            "user id": 1278336631,
+            "user name": "阅者心语",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 30,
+            "parent": 25,
+            "children": [],
+            "content": "嘿嘿，请问1000多万和5700万的数字从哪来的？",
+            "user id": 2003764335,
+            "user name": "狐小三",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 31,
+            "parent": 29,
+            "children": [],
+            "content": "公务员，有编制的事业单位，教师等加在一起，岂止",
+            "user id": 1417138973,
+            "user name": "河北亦凡人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 32,
+            "parent": 25,
+            "children": [],
+            "content": "鸡糜。",
+            "user id": 3475428832,
+            "user name": "临时工119",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 33,
+            "parent": 28,
+            "children": [
+                34
+            ],
+            "content": "",
+            "user id": 3528903550,
+            "user name": "南通如皋冯书梅",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 34,
+            "parent": 33,
+            "children": [],
+            "content": "/",
+            "user id": 3528903550,
+            "user name": "南通如皋冯书梅",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 35,
+            "parent": 26,
+            "children": [],
+            "content": "我想知道到底有多少公务员。精确到万位就行了，2012年、2013年、2014年偷吃空晌的数字是多少？】",
+            "user id": 3063909811,
+            "user name": "慢车直达",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 36,
+            "parent": 26,
+            "children": [
+                37
+            ],
+            "content": "越精简越多[怒]",
+            "user id": 2954539683,
+            "user name": "冷剑飞狐2954539683",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 37,
+            "parent": 36,
+            "children": [],
+            "content": "如需要举正私信我.",
+            "user id": 3343566894,
+            "user name": "徐锦昌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

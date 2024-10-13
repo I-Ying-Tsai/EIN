@@ -1,0 +1,203 @@
+{
+    "source": {
+        "content": "#CharlieHebdo: Europe has a terrorism problem, not a Muslim problem http://t.co/miZoer532S (Pic: F Strazzari) http://t.co/w9VlkOerBF",
+        "user id": 16343974,
+        "tweet id": "553113938091462656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph lol, no. Try again, but this time rearrange the exact same words.",
+            "user id": 351889336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph no, humanity as a whole has a self destructive stupidity problem - always has!",
+            "user id": 16355445,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph it is fine for Catholicism and Christianity to be subject of satire but not Mohammed?  Now, because they are not violent but",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Islam has a violent element conciliation is necessary. Why does one require reconcile and the other demands destruction?",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6,
+                7
+            ],
+            "content": "@Telegraph fear of violence seems to be answer. Fear of violence appears to embolden the radical not create abatement. Jews flee France due",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Telegraph to get away from this condition and attitude.  Yes, Europe has terrorist problem and a big part of this is a radical Muslim prob",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                13
+            ],
+            "content": "@Telegraph it's a shame. If many refuse to be assimilated into European society while lecturing the west, what eventually happens to the",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@Telegraph values you say you hold dear in your expression?  I don't know but it's the challenge.",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph \nTo fight terrorism, stop jihadism. To stop jihadism, ban Saudi Wahhabi textbooks, indoctrination &amp; proselytizing.",
+            "user id": 2683311420,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "Very disappointed @Telegraph is walking away from the Islamic source of terrorism. That makes it part of the problem. Not is the solution.",
+            "user id": 15427912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@Telegraph @Kassandra_Troy Your country wasn't in this study, but maybe it is still usefull http://t.co/pn5F6cQJIu",
+            "user id": 94489129,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@frankgrauzone Tx. I'll post it on the blog. @Telegraph",
+            "user id": 15427912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph I think I'm gonna blur this tweet.",
+            "user id": 821017873,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 6,
+            "children": [
+                14
+            ],
+            "content": "@Telegraph even more than lecturing, while taking human lives,",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@Telegraph I do like the historical context your article reminds one of.",
+            "user id": 88851341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

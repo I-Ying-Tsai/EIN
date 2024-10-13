@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "IN PICTURES: French cops close in on suspected #CharlieHebdo terrorists outside Paris http://t.co/YioY54CqRi http://t.co/IGPF43HRsy",
+        "user id": 14173315,
+        "tweet id": "553549680538578944",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NBCNews \n#StopKillingInnocentPeople\n#FreePalestine\n#freeBurma\n#FreeSyria \n#FreeKashmir\nhttp://t.co/ggBNiIa9fq",
+            "user id": 2370908751,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                12
+            ],
+            "content": "@genlady9 @NBCNews Innocent people take hostages?",
+            "user id": 196065002,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews They are not #CharlieHebdo terrorists, they are #IslamicTerrorists and @NBC is not honestly reporting it. #RespectAllMuslims?",
+            "user id": 2474493694,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews PICTURES: French cops CLOSE IN on suspected #CharlieHebdo terrorists outside #Paris!!\nhttp://t.co/WiGT4JsSOK http://t.co/v2XLk3X1ln",
+            "user id": 1062791150,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews France reaps what their libs have\n sown.",
+            "user id": 225503094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT @NBCNews: French cops close in on suspected #CharlieHebdo terrorists outside Paris http://t.co/z3aHaB1NZ7 http://t.co/qPFRgRw4Bu",
+            "user id": 37692162,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @LadyGlockUSA \n #blasttheirass both of them! #deadoralive take them out (dead I choose) \n No reason for them to be alive!",
+            "user id": 239472065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews http://t.co/C0DXfkSye7",
+            "user id": 2783411121,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews The USA and EU created ISIS,Taliban,Al qaeda,PKK for oil.This is justice.This is your fault.Your hands also have innocent blood...",
+            "user id": 2783411121,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews pray for Paris an emblem of the planet earth http://t.co/CtgjUORhOI",
+            "user id": 2895823046,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews Thank god no one is screaming police are too militarized now.  Do what it takes to get the wolves.",
+            "user id": 184827391,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews Wonder if French citizens/press/president is calling for the demilitarization of their police?",
+            "user id": 1149353412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [],
+            "content": "@Luckydragon84 @NBCNews so what did I write ( Stop this ) Paris attack",
+            "user id": 2370908751,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "，朋友圈看到的不知道真实性如何反正挺可怕的离我那么近，先发了再说吧，提高警惕少出门少吃瓜，憋住挺过了这个时期再说：。      湛江市中医院：昨天凌晨二点二十三分，十三名男女生感染sk5病毒死亡，最大的32岁，最小的5岁，参与抢救的医生已被隔离，中央1台电视新闻己播岀，暂时别吃西瓜，特别是乳源的西瓜，目前广西贵港已有13167个已感染。收到马上发给你关心的人，最好是群发。为了您的健康，请转发。暴雨水污染严重，少买西瓜吃。看了快转。帮别人等于帮自己",
+        "time": "18-5-23 22:43",
+        "user id": "3871873055",
+        "tweet id": "Gi1ScFjv5",
+        "label": 1,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5643901774",
+            "user name": "-余生请你多指教",
+            "content": "别信谣言，",
+            "time": "18-6-30 14:59",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "3871873055",
+            "user name": "我的爱在西伯利亚",
+            "content": "OK",
+            "time": "18-7-2 00:27",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "6468469496",
+            "user name": "用户646846468469496",
+            "content": "真的假不了，假的真不了。就没有人出来解释下吗？",
+            "time": "18-5-24 13:21",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "3871873055",
+            "user name": "我的爱在西伯利亚",
+            "content": "有热心网友告诉我是假的，真相是造谣顺便降低西瓜价格好天天能吃瓜",
+            "time": "18-5-24 14:59",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "user id": "5558608052",
+            "user name": "夏天七件衫",
+            "content": "为什么我盆友圈就没看见过呢",
+            "time": "18-5-24 12:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "3871873055",
+            "user name": "我的爱在西伯利亚",
+            "content": "15678437760",
+            "time": "18-5-28 00:08",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [
+                5
+            ],
+            "user id": "5558608052",
+            "user name": "夏天七件衫",
+            "content": "加不",
+            "time": "18-5-25 20:36",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [
+                6
+            ],
+            "user id": "3871873055",
+            "user name": "我的爱在西伯利亚",
+            "content": "",
+            "time": "18-5-25 10:25",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "user id": "5558608052",
+            "user name": "夏天七件衫",
+            "content": "来来来，我加你微信",
+            "time": "18-5-25 09:38",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [],
+            "user id": "3871873055",
+            "user name": "我的爱在西伯利亚",
+            "content": "因为你没有加我微信啊",
+            "time": "18-5-24 14:57",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2369820814",
+            "user name": "呵呵呵呵da",
+            "content": "假的，是谣言来的",
+            "time": "18-5-24 07:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

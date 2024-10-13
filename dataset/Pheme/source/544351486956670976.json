@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "Two came out front door of Lindt cafe. One out fire door. They had hands in the air. Appear to be safe. #sydneysiege",
+        "user id": 25210650,
+        "tweet id": "544351486956670976",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@lucethoughts @abcnews Good.",
+            "user id": 420176985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@lucethoughts: Two came out front door of Lindt cafe. One out fire door. They had hands in the air. Appear to be safe. #sydneysiege”",
+            "user id": 24400524,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@barnabychuck is it over? :( @lucethoughts",
+            "user id": 26194850,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@lucethoughts Were they released by offender? If not why not tell everyone all the police tactics?",
+            "user id": 26356687,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT @lucethoughts: Two came out front door of Lindt cafe. One out fire door. They had hands in the air. Appear to be safe. #sydneysiege",
+            "user id": 18345134,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@lucethoughts @marcfennell 3 confirmed out.. All men",
+            "user id": 2266500054,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@pinoymommy @lucethoughts Looks like it isn't.",
+            "user id": 24400524,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@barnabychuck haay… @lucethoughts",
+            "user id": 26194850,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

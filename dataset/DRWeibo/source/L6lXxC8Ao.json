@@ -1,0 +1,982 @@
+{
+    "source": {
+        "content": "真的假的？ 骨外科主任医师的微博视频 ",
+        "time": "21-12-16 21:29",
+        "user id": "7404552840",
+        "tweet id": "L6lXxC8Ao",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                4
+            ],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "我为什么删？即使不是这么回事，那么究竟是怎么回事？单纯的说是谣言如何服众？",
+            "time": "21-12-17 18:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "3315041305",
+            "user name": "gugubird-780",
+            "content": "视频里只体现出男的被打了，至于其他的一个视频配个文字就成真的了？",
+            "time": "21-12-17 22:20",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "一群人在拍戏？",
+            "time": "21-12-17 20:24",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "视频是什么事？",
+            "time": "21-12-17 18:43",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "user id": "3315041305",
+            "user name": "gugubird-780",
+            "content": "造谣的人已经被处理了啊",
+            "time": "21-12-17 18:41",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "臭蛆快去粪坑，别来我这里恶心人",
+            "time": "21-12-17 20:30",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "无脑生物真特么的恶臭无比！",
+            "time": "21-12-17 20:31",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                9,
+                10,
+                11,
+                12
+            ],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "呼叫战狼",
+            "time": "21-12-16 21:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "我已经拉黑好多蛆了",
+            "time": "21-12-17 23:59",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                8
+            ],
+            "user id": "1728253632",
+            "user name": "悄悄的一瞥",
+            "content": "你被盯上了",
+            "time": "21-12-17 23:50",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "user id": "5457570141",
+            "user name": "股海木牛",
+            "content": "现在是第二代红伪兵的天下，不用坐火车了，直接网络无延迟串联",
+            "time": "21-12-17 20:25",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [],
+            "user id": "1439925775",
+            "user name": "声入耳事关心",
+            "content": "图片评论 查看图片",
+            "time": "21-12-17 20:19",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "user id": "6389651973",
+            "user name": "煮之附肢永眷汝RAmen",
+            "content": "战狼PTSD",
+            "time": "21-12-17 20:11",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14,
+                15
+            ],
+            "user id": "7717105676",
+            "user name": "吃凹凸曼的小怪兽83313",
+            "content": "被屏蔽就是真的，没被屏蔽就是假的",
+            "time": "21-12-16 22:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "6735178293",
+            "user name": "沐子采薇",
+            "content": "不管真假，只求处理到位，真的就依法处理 涉事城管，假就依法处理造谣人员",
+            "time": "21-12-17 18:00",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "有道理",
+            "time": "21-12-16 23:30",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                18,
+                19,
+                20,
+                27,
+                29,
+                30
+            ],
+            "user id": "6316929633",
+            "user name": "应是海棠淡长安",
+            "content": "蠢，真蠢呐，第一天玩互联网吗？反转那么多就是不长记性呗，等个权威通报能死似的，要是真的算你走运，要是假的你就是传谣，骂都给你骂死",
+            "time": "21-12-17 20:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 18,
+            "children": [],
+            "user id": "6617624985",
+            "user name": "恒谊21891",
+            "content": "你知道真相吗？先入为主，枉自菲薄！",
+            "time": "21-12-17 23:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [
+                17
+            ],
+            "user id": "1716582882",
+            "user name": "朱唇Tj",
+            "content": "愚蠢的善良比恶毒的人还更恶毒",
+            "time": "21-12-17 22:35",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [],
+            "user id": "2280672474",
+            "user name": "闪闪发亮的二球",
+            "content": "什么叫权威？",
+            "time": "21-12-17 22:21",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": 16,
+            "children": [],
+            "user id": "6606790940",
+            "user name": "凝视尖峰",
+            "content": "传谣也不用你管，有网警管，你当义和团?",
+            "time": "21-12-17 21:41",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": 22,
+            "children": [],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "视频是网上大量流传的，我关注碍你什么事了？我说什么又关你屁事！滚粗",
+            "time": "21-12-17 20:42",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 22,
+            "parent": 23,
+            "children": [
+                21
+            ],
+            "user id": "6316929633",
+            "user name": "应是海棠淡长安",
+            "content": "只许你给别人阴阳怪气，不许任何人质疑你是吧？你怎么这么双标呢？",
+            "time": "21-12-17 20:41",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 23,
+            "parent": 24,
+            "children": [
+                22
+            ],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "我不能质疑？你是谁家的好大儿跑我这里来撒野",
+            "time": "21-12-17 20:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 24,
+            "parent": 26,
+            "children": [
+                23
+            ],
+            "user id": "6316929633",
+            "user name": "应是海棠淡长安",
+            "content": "你自己都不知道是真的还是假的就在这言之凿凿信誓旦旦，这不是胡说八道是什么？",
+            "time": "21-12-17 20:40",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 26,
+            "children": [],
+            "user id": "6316929633",
+            "user name": "应是海棠淡长安",
+            "content": "那你又给谁定罪了？",
+            "time": "21-12-17 20:39",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": 27,
+            "children": [
+                24,
+                25
+            ],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "我胡说八道什么了？蠢货！你的嘴一张就给我定罪了？",
+            "time": "21-12-17 20:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 27,
+            "parent": 16,
+            "children": [
+                26
+            ],
+            "user id": "6316929633",
+            "user name": "应是海棠淡长安",
+            "content": "都不清楚这事是不是真的，何来善良？",
+            "time": "21-12-17 20:38",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 28,
+            "parent": 30,
+            "children": [],
+            "user id": "6316929633",
+            "user name": "应是海棠淡长安",
+            "content": "你有一丁点逻辑吗？我不蠢是因为我不会对不清楚的事胡说八道，不是因为我知道是什么事",
+            "time": "21-12-17 20:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 29,
+            "parent": 16,
+            "children": [],
+            "user id": "6617624985",
+            "user name": "恒谊21891",
+            "content": "善良有错吗？今天你善待别人，明天有难别人一样会善待你，怀一颗宽容心吧！",
+            "time": "21-12-17 20:21",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": 16,
+            "children": [
+                28
+            ],
+            "user id": "7404552840",
+            "user name": "骨外科主任医师",
+            "content": "你不蠢，讲一下究竟是怎么回事",
+            "time": "21-12-17 20:07",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "7526485678",
+            "user name": "朴昌镐888",
+            "content": "",
+            "time": "21-12-16 21:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [
+                33,
+                34,
+                35
+            ],
+            "user id": "1728253632",
+            "user name": "悄悄的一瞥",
+            "content": "上半年还有个大学生跟我说，很庆幸生在这个盛世",
+            "time": "21-12-17 13:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [],
+            "user id": "1728253632",
+            "user name": "悄悄的一瞥",
+            "content": "加油，祖国的希望",
+            "time": "21-12-17 23:48",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": 32,
+            "children": [],
+            "user id": "5797129235",
+            "user name": "彩色滑翔机",
+            "content": "14亿的人的大集合，因为一件事就全盘否定",
+            "time": "21-12-17 20:07",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 35,
+            "parent": 32,
+            "children": [],
+            "user id": "6239240379",
+            "user name": "小拳拳100",
+            "content": "有什么问题吗？难道每个人都生活在水深火热之中？",
+            "time": "21-12-17 19:47",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [
+                37
+            ],
+            "user id": "2774280477",
+            "user name": "燃烧吧五道杠",
+            "content": "博主是真的骨外科医生？",
+            "time": "21-12-17 18:28",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": 36,
+            "children": [],
+            "user id": "7669256311",
+            "user name": "你我有别7669256311",
+            "content": "聚集的啥？你在这干啥",
+            "time": "21-12-17 20:27",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [
+                39,
+                40
+            ],
+            "user id": "7128198498",
+            "user name": "7128198498_262",
+            "content": "我发这个贴被屏蔽了，#网友报料# 城管赔200万家属不同意，要求以命低命",
+            "time": "21-12-17 13:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": 38,
+            "children": [],
+            "user id": "6263560640",
+            "user name": "愚翁257",
+            "content": "一粒尘埃落在一家人头上，就是一座大山!这尘埃可以落在一家人头上，就可能落在任何一个人的头上!",
+            "time": "21-12-17 13:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 40,
+            "parent": 38,
+            "children": [],
+            "user id": "7364867404",
+            "user name": "十二85656",
+            "content": "都辟谣是假的，还家属不同意呢  ",
+            "time": "21-12-17 22:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "7463035247",
+            "user name": "光明终究会到来china",
+            "content": "1",
+            "time": "21-12-17 23:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "7708042916",
+            "user name": "半自动三蹦子",
+            "content": "我在这里呆了五年，",
+            "time": "21-12-17 09:21",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "user id": "6581328986",
+            "user name": "蛆窝已开启评论精选",
+            "content": "人民有力量",
+            "time": "21-12-17 07:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "user id": "6364461049",
+            "user name": "蛇走路当当响",
+            "content": "等待证实",
+            "time": "21-12-16 23:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [],
+            "user id": "7312287951",
+            "user name": "氢领主",
+            "content": "威武",
+            "time": "21-12-16 23:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "user id": "7704282006",
+            "user name": "伤人垂123",
+            "content": "走过路过的都帮转一下！",
+            "time": "21-12-16 22:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [],
+            "user id": "6590164146",
+            "user name": "卫道者玄秘骑士",
+            "content": "",
+            "time": "21-12-16 21:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "user id": "7042071485",
+            "user name": "属于天空的鱼2019",
+            "content": "跟南京大屠杀有什么区别？30万分之一",
+            "time": "21-12-17 22:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "user id": "5887908728",
+            "user name": "微寻百年",
+            "content": "唯一能做的就顶一下！！",
+            "time": "21-12-17 22:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "user id": "1683194834",
+            "user name": "小城市里的大好青年",
+            "content": "变天了",
+            "time": "21-12-17 22:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [],
+            "user id": "2879233435",
+            "user name": "官人威武V5",
+            "content": "好像辟谣了",
+            "time": "21-12-17 22:00",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [],
+            "user id": "3128914224",
+            "user name": "诚信小江",
+            "content": "城管",
+            "time": "21-12-17 21:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [],
+            "user id": "2329494420",
+            "user name": "刚好遇见你_0313",
+            "content": "马的，我就是仁寿的啊",
+            "time": "21-12-17 21:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 54,
+            "parent": -1,
+            "children": [],
+            "user id": "3970632759",
+            "user name": "哪那么多事",
+            "content": "这写的什么意思？是美国人写的还是机器翻译的？",
+            "time": "21-12-17 21:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [],
+            "user id": "5874956369",
+            "user name": "圈圈圈_153",
+            "content": "顶上去，等真相",
+            "time": "21-12-17 20:36",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [],
+            "user id": "2446447682",
+            "user name": "朱美好好棒",
+            "content": "蹲后续",
+            "time": "21-12-17 20:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "user id": "2737946165",
+            "user name": "我的周周小蜗牛",
+            "content": "放心，都会压下去的",
+            "time": "21-12-17 20:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [],
+            "user id": "7461423831",
+            "user name": "可乐老爹爹",
+            "content": "这种听起来很离谱的消息，不要急着站队，等官方通报和，",
+            "time": "21-12-17 20:12",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 59,
+            "parent": -1,
+            "children": [],
+            "user id": "5730134245",
+            "user name": "迷之五花肉",
+            "content": "都快2022了 还有这种事发生？ 城管真是个强大的",
+            "time": "21-12-17 20:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [],
+            "user id": "2368235072",
+            "user name": "虎三十七",
+            "content": "谣言官方已辟谣，搜下就能找到。",
+            "time": "21-12-17 20:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "user id": "1275487513",
+            "user name": "尼古拉·伊纯",
+            "content": "假的",
+            "time": "21-12-17 19:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": -1,
+            "children": [],
+            "user id": "5926669365",
+            "user name": "嘟嘟嘀嘀哒哒呜呜",
+            "content": "美丽的风景",
+            "time": "21-12-17 19:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [],
+            "user id": "2944271601",
+            "user name": "暗黑者幽冥领主",
+            "content": "造谣是怎么判的？",
+            "time": "21-12-26 22:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 64,
+            "parent": -1,
+            "children": [
+                65
+            ],
+            "user id": "7669256311",
+            "user name": "你我有别7669256311",
+            "content": "万恶的城管",
+            "time": "21-12-17 09:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 65,
+            "parent": 64,
+            "children": [],
+            "user id": "2670159781",
+            "user name": "一江春水向西流1984",
+            "content": "可不敢这么说，要说就说万恶的旧社会",
+            "time": "21-12-17 12:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [],
+            "user id": "6329759905",
+            "user name": "干涸的海00",
+            "content": "这种几个大字解释一张图的新闻，先定他七分假！",
+            "time": "21-12-17 20:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [],
+            "user id": "3315041305",
+            "user name": "gugubird-780",
+            "content": "已经辟谣了好吧，",
+            "time": "21-12-17 17:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 68,
+            "parent": -1,
+            "children": [],
+            "user id": "5599850363",
+            "user name": "Melia董董",
+            "content": "这新闻被压下去了吗？",
+            "time": "21-12-17 17:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [],
+            "user id": "7409461508",
+            "user name": "悠悠死士",
+            "content": "真的假的？",
+            "time": "21-12-16 23:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 70,
+            "parent": -1,
+            "children": [],
+            "user id": "7294022631",
+            "user name": "欧丶生",
+            "content": "这字幕我是看不懂",
+            "time": "21-12-17 22:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 71,
+            "parent": -1,
+            "children": [],
+            "user id": "2640143995",
+            "user name": "小屁屁找券",
+            "content": "刚辟谣了",
+            "time": "21-12-17 20:50",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 72,
+            "parent": -1,
+            "children": [],
+            "user id": "1421066527",
+            "user name": "ank01",
+            "content": "假的，删了吧。",
+            "time": "21-12-17 18:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 73,
+            "parent": -1,
+            "children": [],
+            "user id": "2113639634",
+            "user name": "老中医kk",
+            "content": "太惨了，白发送黑发",
+            "time": "21-12-16 22:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 20,
+            "state_1": 21
+        },
+        "2-hop": {
+            "state_0": 11,
+            "state_1": 11
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

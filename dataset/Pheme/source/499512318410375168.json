@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Police in St. Louis County say an officer shot and critically wounded a suspect early this morning near #Ferguson http://t.co/htLmEiuCS5",
+        "user id": 22990962,
+        "tweet id": "499512318410375168",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@kmoxnews @AntonioFrench strange... it didnt take 22 hrs to release a statement acknowledging the incident",
+            "user id": 537612240,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@kmoxnews @AntonioFrench this has got to STOP. #MikeBrown",
+            "user id": 69872217,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ". @kmoxnews Why are you referring to the protesters as suspects??",
+            "user id": 24741719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@kmoxnews good fuck the police",
+            "user id": 307683032,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@kmoxnews @AntonioFrench @wildwalkerwoman that article looks like bs",
+            "user id": 397945865,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

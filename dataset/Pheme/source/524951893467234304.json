@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "CXN: 1 gunman shot dead in Parliament Hill attack, soldier shot in Ottawa http://t.co/pp6hcfWcRw No report soldier dead. #OttawaShooting",
+        "user id": 6433472,
+        "tweet id": "524951893467234304",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews ctv reporting he's alive",
+            "user id": 1575867799,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews stop showing clip of the CPR for the solider at the War Memorial on the online feed. Not necessary, old, move on.",
+            "user id": 19788514,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews horrible... all the best to the injured soldier!",
+            "user id": 2687483634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCNews: 1 gunman shot dead in Parliament Hill attack, soldier shot in Ottawa http://t.co/48k8mtpWRB No report soldier dead. @nytimes",
+            "user id": 2598340132,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "OMG! @CBCNews @tbeaudrymellor CXN: 1 gunman shot dead in Parliament Hill attack, soldier shot Ottawa  http://t.co/rkzy5NRHq5 #OttawaShooting",
+            "user id": 27257426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews European news reporting soldiers gun was not loaded?",
+            "user id": 27080522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

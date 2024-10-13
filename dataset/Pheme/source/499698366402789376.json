@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Police now on the move, advancing on the crowd. #MikeBrown #Ferguson",
+        "user id": 2329395758,
+        "tweet id": "499698366402789376",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@KoranAddo: Police now on the move, advancing on the crowd. #MikeBrown #Ferguson”  Why? Who is ordering this? Insanity.",
+            "user id": 244188034,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@KoranAddo @AntonioFrench Are they hoping to provoke so they can get serious with those heavy weapons they are toting?",
+            "user id": 1582077440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "\"@SeattleSoaker: @KoranAddo @AntonioFrench Are they hoping to provoke so they can get serious with those heavy weapons they are toting?\" Yup",
+            "user id": 2461027308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

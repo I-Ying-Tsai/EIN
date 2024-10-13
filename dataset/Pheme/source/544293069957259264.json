@@ -1,0 +1,144 @@
+{
+    "source": {
+        "content": "Please don't post /share tactical information/police movements on social media! #sydneysiege",
+        "user id": 20512260,
+        "tweet id": "544293069957259264",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@miss_raej I know right - how stupid can people be?",
+            "user id": 388794497,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ninjaspag @miss_raej very very stupid",
+            "user id": 301427694,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@ninjaspag @miss_raej sadly",
+            "user id": 301427694,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@miss_raej Here here!",
+            "user id": 370554942,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@miss_raej Kinda sad that this has to be posted, should be common sense.\nOn the other hand, maybe people should tweet FALSE information here",
+            "user id": 795927228,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@miss_raej A radio station I was just listening to is being pretty irresponsible too.",
+            "user id": 2204554906,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@miss_raej it's sad people have to even tweet this it really is",
+            "user id": 33128909,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@miss_raej Rae they won't say 'lets do this, tweet me when you're ready' lol",
+            "user id": 2902287501,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@miss_raej I hope you're safe and away from danger! Scary situation.",
+            "user id": 24397364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@miss_raej @hvhofficial12 I've just seen Mick Dundee enter the building holding what looked to be a big fuck off knife",
+            "user id": 85391860,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "RT\"@miss_raej, \"@Kat4Obama, (sorry for the 11-hrs-old RT)",
+            "user id": 1173824917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

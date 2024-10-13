@@ -1,0 +1,184 @@
+{
+    "source": {
+        "content": "Police in Dammartin-en-Goele \"now relaxed,\" handing out rations of French cheese to journalists. #LabelleFrance",
+        "user id": 927818520,
+        "tweet id": "553591548613386241",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky A brilliant bit of news in an otherwise horrific story.",
+            "user id": 249898853,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky Oh - nach dem Sturm gibt es ein Stück Käse!\n@EliotHiggins",
+            "user id": 58443247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky @chrislhayes since they're in France...isn't it just cheese?",
+            "user id": 833711960,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky @vicwou say 'cheese!'",
+            "user id": 384865234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky @chrislhayes Excuse me, but they handed out rations of cheese..Ah.The French, Ah mais non thets funnie",
+            "user id": 2834563480,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky @chrislhayes https://t.co/XmZloYdlJl",
+            "user id": 1729064042,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "Most French celebrations ever? \"@NTarnopolsky: Police in Dammartin-en-Goele \"now relaxed,\" handing out rations of cheese to journalists\"",
+            "user id": 29539794,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@joe_oliver brilliant",
+            "user id": 19284502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "What the what? MT @NTarnopolsky: Police in Dammartin-en-Goele \"now relaxed,\" handing out rations of French cheese to journalists.",
+            "user id": 18112935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                13
+            ],
+            "content": "@nipsey that's quite a cultural difference",
+            "user id": 15416881,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "I mean... RT @NTarnopolsky Police in Dammartin-en-Goele \"now relaxed,\" handing out rations of French cheese to journalists. #LabelleFrance",
+            "user id": 21357179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky @boundbyhand Nothing says celebration like a piece of cheese.",
+            "user id": 1046011435,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@NTarnopolsky @bambula I wish our cops handed out cheese...",
+            "user id": 2944116235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 9,
+            "children": [],
+            "content": "Yup! Here, they shoot tear gas at the press and threaten arrest! RT @kbrooksfit: @nipsey that's quite a cultural difference",
+            "user id": 18112935,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

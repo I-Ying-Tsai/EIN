@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Where's Putin? Stroke? Dead? Has there been a coup?\nThis is huge\nWhere's Obama? Oh he's joking on Jimmy Kimmel while his wife dances w/Ellen",
+        "user id": 1177268209,
+        "tweet id": "576757242042703872",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@redheadbomb or he's golfing",
+            "user id": 2802908105,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@redheadbomb I wonder if MO and turn Ellen straight.",
+            "user id": 2369242651,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

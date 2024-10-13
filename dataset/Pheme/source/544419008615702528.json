@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Australians respond to racism by telling #Muslim community #illridewithyou. #sydneysiege #MartinPlace",
+        "user id": 22092333,
+        "tweet id": "544419008615702528",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCReligion @702sydney what racism are you talking about - which race in particular ? I see you are playing the race card using a religion",
+            "user id": 455699956,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABCReligion: Australians respond to racism by telling #Muslim community #illridewithyou. #sydneysiege #MartinPlace #auspol",
+            "user id": 43533499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@ABCReligion racism or anti-religious? Muslim or Arab? Conflicting words.",
+            "user id": 312948791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JezNews  via @ABCReligion Australians respond to racism by telling #Muslim community #illridewithyou. #sydneysiege #MartinPlace",
+            "user id": 412887287,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCReligion Gotta love the Aussies.  Gorgeous.",
+            "user id": 805403773,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCReligion Racism? What race are disciples of Jesus? Will abcnews ridewithme? ha!",
+            "user id": 61906888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCReligion And a 'religion' site! screen capture worthy tweet; when grandkids wonder at us. See the shame now in taking our taxes?",
+            "user id": 61906888,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@ABCReligion @melkirem But is there a risk of Cronulla-riots kind of incident soon, you think ?",
+            "user id": 330507395,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@effeminate_guy @ABCReligion not this time around!",
+            "user id": 1218004874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCReligion @FatherBob @JohnSafran I really wish all of Australia DID react this way... Frankly disappointing some of the comments made...",
+            "user id": 37394823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

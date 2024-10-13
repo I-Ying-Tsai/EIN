@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "#BREAKING : NHL : The game between the Toronto Maple Leafs and Ottawa Senators, scheduled for tonight in Ottawa, has been postponed",
+        "user id": 957502914,
+        "tweet id": "524975093966209025",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @CBCNL @TelegramJames  Ya called it.",
+            "user id": 18490897,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @CBCNews @680News",
+            "user id": 37425106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@cbcsaltzman: NHL : The game between the Toronto Maple Leafs and Ottawa Senators, scheduled for tonight in Ottawa, has been postponed”",
+            "user id": 22805295,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @CBCNews I understand the precaution should we then cancel all future games, events, concerts as this could happen at any time",
+            "user id": 55618475,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@cbcsaltzman: #BREAKING : NHL: Game betwToronto MapleLeafs &amp; #Ottawa Senators for tonight in #Ottawa, has been postponed",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @snic14",
+            "user id": 387711575,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @CBCNews Wow the Leaf's Dodged a Bull/ no a Puck there !!",
+            "user id": 1308576013,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @colormered canada has alot to answer for letting gunmen get in to the law offices of govt.",
+            "user id": 1071470508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @CBCNews And that's the final straw!!! Nobody messes with out game!!!",
+            "user id": 493611144,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @ExtraPtbo I guess security is a major issue hate to have terrorists control us!",
+            "user id": 37043257,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@cbcsaltzman @Axel_Asen",
+            "user id": 610620582,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@wsoccer10 @cbcsaltzman fuck!",
+            "user id": 398943552,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "This comment sent to BBC about the Paris attacks and the hashtags going around is just perfect. http://t.co/yO4JuMlBPp",
+        "user id": 1339678076,
+        "tweet id": "553201539737976833",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#Perspective MT @thatshaikh Comment sent to BBC about the Paris attacks and the hashtags going around is just perfect http://t.co/vfpAqGAIYj",
+            "user id": 15405421,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thatshaikh @St_Raphael9 Pffff...",
+            "user id": 147641993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thatshaikh I cannot agree more with you.",
+            "user id": 2447513418,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

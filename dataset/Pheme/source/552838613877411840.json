@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "My deepest condolences to those in Paris &amp; #CharlieHebdo! Over a cartoon!??... What happened to #FreedomOfSpeech ? http://t.co/xCiLxvTlk4",
+        "user id": 123661002,
+        "tweet id": "552838613877411840",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Muslims aren't to big on freedom of speech apparently. @AleBedoya17 #CharlieHebdo",
+            "user id": 849568704,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AleBedoya17 freedom of speech is not worldwide...",
+            "user id": 1201856166,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AleBedoya17 you must not be familiar with #Islam",
+            "user id": 2567589007,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@AleBedoya17 those animals only believe in freedom of speech if it goes along with their agenda",
+            "user id": 43990257,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@ThatDudeJulian @AleBedoya17 I would never have stated it better!! It's very unfortunate",
+            "user id": 932682788,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AleBedoya17 we are American, different.  Historically and culturally that's not a common right.",
+            "user id": 34388050,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AleBedoya17 when we lay down our cultural ideals to placate outsiders, we empower to do this. They feel no sense of wrongdoing.",
+            "user id": 34388050,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "source": {
+        "content": "Witness tells #CBCNews suspected shooter of uniformed soldier at #Ottawa's War Memorial was carrying rifle.",
+        "user id": 19038934,
+        "tweet id": "524924619812511746",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Canada needs to get real and recognize that this war is REAL; it's no joke.  Arrest these monsters BEFORE they murder more of us!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CBCAlerts We are not obligated to sit passively, just waiting for these rapists to tear up our society!  Arrest them NOW!!!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@ivoirien_com @CBCAlerts could nt agree more we need to speak up when we see something",
+            "user id": 2860330333,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: Witness tells #CBCNews suspected shooter of uniformed soldier at #Ottawa's War Memorial was carrying rifle.'",
+            "user id": 509034236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@CBCAlerts Change the laws, change the reckless immigration policies!  Sensitize people to be on the look-out!  Get real, folks!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@ivoirien_com @CBCAlerts Can you lay off the politics right now? We know *nothing* about who did this, what's going on.",
+            "user id": 184045217,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@ashleyjmorton @CBCAlerts Right, there is no obvious context.  How insightful of you!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@ivoirien_com @CBCAlerts I know I can't be insightful yet - that's the bloody point, neither can you, and by trying to, you lose ground.",
+            "user id": 184045217,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@ashleyjmorton @CBCAlerts Give it one hour and my points will be confirmed.",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

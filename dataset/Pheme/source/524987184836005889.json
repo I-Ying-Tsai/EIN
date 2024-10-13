@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "The RCMP and Ottawa police news conference is beginning now. Watch live: http://t.co/alz6qu6Mca #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524987184836005889",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa Prayers for the fallen soldier &amp; his family. Hope his death isn't used to advertise the shooter's lame ideas, whatever they were.",
+            "user id": 278688042,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @daybreaknorth dear Toronto star lady, we don't want the steps necessary in order for the police to know of every attack :(",
+            "user id": 538667272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

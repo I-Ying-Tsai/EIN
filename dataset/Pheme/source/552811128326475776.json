@@ -1,0 +1,172 @@
+{
+    "source": {
+        "content": "No more hand-wringing and fence-sitting. To support #CharlieHebdo and #FreedomOfSpeech we must publish their images. http://t.co/N2M2bzT6ao",
+        "user id": 1878576403,
+        "tweet id": "552811128326475776",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JonnnyBest @filipbuekens BS.",
+            "user id": 23618173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@jonnnybest it would be good he u provide the translation also,most of the world doesn't know this language. .",
+            "user id": 2242427281,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@jigyasu7 @JonnnyBest It doesn't matter. \"It's nicer than Lille and one is less harrassed than in New York.\" Someone being mocked.",
+            "user id": 266290567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JonnnyBest @aleroi governments can't protect citizens because they are in denial of the problem. they are appeasers. political disaster.",
+            "user id": 286801248,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@JonnnyBest @Woodlandbookshp and please translate for us ignorant Americans.",
+            "user id": 258157364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@JonnnyBest @aliamjadrizvi how many more should die before the world leaders realize that Islamists are as bad as nazis?",
+            "user id": 174630116,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@JonnnyBest The right to offend is an important right, but it should be equal for all -&gt; https://t.co/EVm2Z6aXXK &amp; https://t.co/PEtSASIob8",
+            "user id": 2289664622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@JonnnyBest What freedom of speech?  --&gt; https://t.co/AkL6DNEQyk &amp; https://t.co/YhKVjpcUix",
+            "user id": 2289664622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@JonnnyBest publishing their images promotes hatred and of course right wing ideology",
+            "user id": 90726874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@2daffylou @jonnnybest thanks for the translation. . And i don't know why anybody would kill for this satire. . .",
+            "user id": 2242427281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@jigyasu7 @JonnnyBest I think I can understand how fanaticism grows and maybe it's too late to stop it. alas hélas",
+            "user id": 266290567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@2daffylou @jonnnybest i didn't know about Charlie Hebdo 8 hrs ago but i will say RIP to those who left us,u will always be missed. . .",
+            "user id": 2242427281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

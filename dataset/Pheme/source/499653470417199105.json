@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "That's horrible! RT @AntonioFrench: State Senator asks the #Ferguson police chief if she's going to be gassed again. https://t.co/kDe3iVM2Sm",
+        "user id": 23831448,
+        "tweet id": "499653470417199105",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision @AntonioFrench that guy's face after she said that",
+            "user id": 1677503100,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision @AntonioFrench @PauahiSouza He looks appalled #confused #stymied",
+            "user id": 28528483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision @AntonioFrench Ladies &amp; Gentlemen, meet the Chief of Police in #Ferguson...Rosco P. Coltrain (que Dukes of Hazzard theme)",
+            "user id": 5808232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

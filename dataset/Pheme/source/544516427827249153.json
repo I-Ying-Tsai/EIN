@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "#BREAKING: Police confirm that #SydneySiege is over. A bomb robot is to enter the front door of the care shortly.",
+        "user id": 491960101,
+        "tweet id": "544516427827249153",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork cafe *",
+            "user id": 16853902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AusNewsNetwork: #BREAKING: Police confirm that #SydneySiege is over. A bomb robot is to enter the front door of the care shortly.”",
+            "user id": 174365756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork @Eagle_Vision where are the snipers?",
+            "user id": 23825198,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Yes!!! “@AusNewsNetwork: #BREAKING: Police confirm that #SydneySiege is over. A bomb robot is to enter the front door of the care shortly.”",
+            "user id": 15362098,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork  Aaron Iranian monies who kidnap hostages in Sydney http://t.co/eG6Ja1P2yE",
+            "user id": 561655209,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork CAFE, not 'care'. Idiots -and you get paid to write these typos! \n\n@WadjaKnow @plumsteadtom",
+            "user id": 2758188829,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

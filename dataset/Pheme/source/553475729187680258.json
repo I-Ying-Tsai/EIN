@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "BREAKING: Car chase under way in Paris as officers pursue #CharlieHebdo suspects down motorway http://t.co/f30TSVt1yN http://t.co/1ShVASm5ym",
+        "user id": 16973333,
+        "tweet id": "553475729187680258",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "😳😳😳😳 “@Independent: BREAKING: Car chase under way in Paris as officers pursue #CharlieHebdo suspects down motorway http://t.co/sjoqURIRiM”",
+            "user id": 21055097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "rt @Independent: BREAKING: Car chase under way in #Paris as officers pursue #CharlieHebdo suspects down motorway http://t.co/vBKr7ArU3c",
+            "user id": 212924513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@esperanza543 @independent Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nashwakadry @independent Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jen_mcd @independent Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@humanjung @independent Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@blcm_brlk @independent Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@Independent @jxckshit they're cornered in a building with a hostage now ;)",
+            "user id": 308373336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@0mgJohn @Independent this is the making of a sick Black Ops 5 mission",
+            "user id": 635756247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@arabnewsrt4 @independent Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

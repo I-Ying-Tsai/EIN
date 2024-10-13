@@ -1,0 +1,172 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Hostage situation developing in Sydney cafe reportedly 13 hostages held by at least 2 gunman http://t.co/6XAW3wlEHV",
+        "user id": 322572436,
+        "tweet id": "544280923923959808",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "content": "UPDATE: Hostages forces to hold up black flag reportedly of #ISIS against glass window at Sydney cafe, air space shut http://t.co/nDm8D1VT5K",
+            "user id": 322572436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@IsraelHatzolah not ISIS flag.",
+            "user id": 159653717,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@IsraelHatzolah different Islamic flag",
+            "user id": 159653717,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "@IsraelHatzolah @EdBaker3000 With Merry Christmas right under it. How disgusting!",
+            "user id": 622969430,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah @PhillipSmyth Time to http://t.co/ULNmmE9tG2 and say no to Muslims everywhere. Americans ignorant of the facts.",
+            "user id": 21308092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "content": "BREAKING PHOTO: First images of one Sydney hostage taker, Middle Aged man wearing black bandana - News7 http://t.co/T8r6zT0ycx",
+            "user id": 322572436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@IsraelHatzolah inb4 Zionist and Mossad orchestrated this to influence the west to invade iran",
+            "user id": 1426878962,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@IsraelHatzolah @gopfashionista Is it wrong of me to say that I hope he dies very, very soon?",
+            "user id": 2804586564,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "content": "@IsraelHatzolah @DanielKosky You can never find a sniper when you need one!!!",
+            "user id": 274478755,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 5,
+            "children": [],
+            "content": "@IsraelHatzolah @amevans73 Just one well -trained Israeli sniper. This can - and should - be over quickly. U.S. Patriots are behind you!",
+            "user id": 2194579500,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah Please don't tweet photos of police. Terrorists are monitoring social media",
+            "user id": 103855686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah welcome to Sydneystan...more islamic terror to come",
+            "user id": 2909294196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah @Rene_gadeCowboy Tell the 2 gunman to put their hands up and scream I cant breathe and they will be aloud to just walk away.",
+            "user id": 2715180013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 7
+        }
+    }
+}

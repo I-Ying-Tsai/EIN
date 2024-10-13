@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Police convoy and helicopters are rushing to scene to detain Charlie Hebdo massacre suspects http://t.co/XdUgohNDhv http://t.co/MSROYqs14o",
+        "user id": 15438913,
+        "tweet id": "553476490315431937",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline is ambulance in convoy? #CharlieHebdo",
+            "user id": 30719601,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @SarahHarris bring back the guillotine",
+            "user id": 29964202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline All the suspects are called 'Lee Harvey Oswald'. That's amazing.",
+            "user id": 180961394,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline . french news are reporting at least 2 ppl were killed and 20 ppl injuried in a gunfight with the islamists",
+            "user id": 2237207690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "source": {
+        "content": "EXTENDED VIDEO: Numerous gunshots heard inside Centre Block on Parliament Hill http://t.co/PVcAGKdahe",
+        "user id": 19636948,
+        "tweet id": "524953110285152256",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 Stay Safe everyone in #Ottawa Praying for everyone's safety",
+            "user id": 292760122,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@CP24: EXTENDED VIDEO: Numerous gunshots heard inside Centre Block on Parliament Hill http://t.co/mO5ucHAgWg” oh my god. How can this be?!?",
+            "user id": 113152512,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@komie_ @CP24 omg I hope no causality ....",
+            "user id": 1671362664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 how sad for the soldier and his family",
+            "user id": 2853653587,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 Why are you sharing this video?!  Shouldn't be allowed! Stop Glorifying these maniacs!",
+            "user id": 821977051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "😱 😱 “@CP24: EXTENDED VIDEO: Numerous gunshots heard inside Centre Block on Parliament Hill http://t.co/tFhI1LmIVF”",
+            "user id": 57727353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "What the heck RT“@CP24: EXTENDED VIDEO: Numerous gunshots heard inside Centre Block on Parliament Hill http://t.co/t9kpOyCURK”",
+            "user id": 471232039,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: EXTENDED VIDEO: Numerous gunshots heard inside Centre Block on Parliament Hill http://t.co/kJv4NWYUI6”Thats so scary",
+            "user id": 530962991,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "This is insane “@CP24: Numerous gunshots heard inside Centre Block on Parliament Hill\"",
+            "user id": 2736351071,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@SohailNazish 1 so far :( :( :( :(",
+            "user id": 113152512,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@komie_ hope every things goes normal soon",
+            "user id": 1671362664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

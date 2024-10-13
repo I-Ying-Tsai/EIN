@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "So let me get this right - cops shoot an unarmed kid then put the town under effective martial law? In the USA? In 2014? #Ferguson",
+        "user id": 401291187,
+        "tweet id": "499457882144796672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@MossyGene perhaps you didn't notice the skin color of the victim or the protestors",
+            "user id": 2347485799,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@hpshivcraft are you just going from tweet to tweet congratulating other people on their similar tweets? You're not even a good troll",
+            "user id": 438553475,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MossyGene @RezOKC Unbelievable!",
+            "user id": 601519183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

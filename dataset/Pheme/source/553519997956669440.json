@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "They wanted the people to crumble, instead they came together. #JeSuisCharlie http://t.co/UHOrggBdRp",
+        "user id": 1053365834,
+        "tweet id": "553519997956669440",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PeterWatson_ L'Amérique se tient avec la France. #FranceStrong",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@PeterWatson_ @RogTallbloke \nThey wanted to stop people drawing the Prophet. And they succeeded.",
+            "user id": 1003989258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@Capt_E_Navarre @PeterWatson_ They stopped twelve from drawing by murder and started 120,000 more. That's what freedom is for #JeSuisCharlie",
+            "user id": 89165845,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@Capt_E_Navarre @PeterWatson_ @RogTallbloke #fuckyouterroristcowards",
+            "user id": 35597677,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@PeterWatson_: They wanted the people to crumble, instead they came together. #JeSuisCharlie http://t.co/arrnQkETdx” #JesSuisCharlie 🇫🇷",
+            "user id": 2218384561,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PeterWatson_ #fuckyouterroristcowards",
+            "user id": 35597677,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PeterWatson_ Gagged since 25 years by the Press for breaking the silence on corruption #JeSuisCharlie http://t.co/YTKTWr4ld1",
+            "user id": 321780524,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PeterWatson_  wow this is beautiful. Just really amazing #JeSuisCharlie",
+            "user id": 2734816821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@RogTallbloke @PeterWatson_ \nI'd like to share that enthusiasm but I can't. We know all UK papers submitted, for instance.",
+            "user id": 1003989258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": ".@RogTallbloke @Capt_E_Navarre @PeterWatson_ But they are drawing pencils and shit - not that shit mohammed.",
+            "user id": 10715902,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@Capt_E_Navarre @PeterWatson_ The submissive papers are finished then. The torch of freedom is taken up by the bloggers now. #JeSuisCharlie",
+            "user id": 89165845,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@pperrin @RogTallbloke @PeterWatson_ \nMy point.",
+            "user id": 1003989258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@RogTallbloke @PeterWatson_ \nHave more trust in bloggers, we agree there...",
+            "user id": 1003989258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": ".@Capt_E_Navarre @RogTallbloke @PeterWatson_ fair enough - worht saying again :)",
+            "user id": 10715902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

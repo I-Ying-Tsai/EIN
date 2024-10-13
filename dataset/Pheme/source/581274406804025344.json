@@ -1,0 +1,146 @@
+{
+    "source": {
+        "content": "Thank God he's not a Muslim! Otherwise the world'd be on a Muslim hate spree now #Germanwings http://t.co/NoXAhjSmP7 http://t.co/Qdsc50p86W",
+        "user id": 48926467,
+        "tweet id": "581274406804025344",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@zulazry \nNot to worry... Western media will try to find out if his grandma's godfather's daughter's in-laws were Yemenis.",
+            "user id": 2434002564,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@saadbjohan Hahaha",
+            "user id": 48926467,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@saadbjohan Checkout my last tweet bro. It seems the pilot is a recent convert. That was fast huh.",
+            "user id": 48926467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@zulazry It already was until they found it very hard to tie an Andreas to a madras.",
+            "user id": 67531250,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@zulazry they don't need that to hate on us. I get it and I've never hurt anyone",
+            "user id": 1686304976,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@zulazry they are saying he converted to islam",
+            "user id": 2527586329,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@zulazry Only when Islam stops encouraging the killing of Christians &amp; Jews that the world would stop criticizing Islam.",
+            "user id": 2915809346,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "@zulazry \n\nSo... the Islam connection is with the unfortunate man himself, or so it seems. They did not waste time getting that one out.",
+            "user id": 2434002564,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [],
+            "content": "@zulazry @saadbjohan or that he has a muslim gf 😂😂 this is sad",
+            "user id": 2787836978,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@saadbjohan Orang melayu kata \"Masin mulut\" haha",
+            "user id": 48926467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

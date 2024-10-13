@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "RT @martydownunder: If the black flag seems familiar, it's because it was also flying during Gaza protests in Sydney http://t.co/grOVcRJLes",
+        "user id": 18101696,
+        "tweet id": "544333302178799617",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "If the black flag seems familiar, it's because it was also flying during Gaza protests in Sydney @OrenKessler http://t.co/Kmt6flxMyt”",
+            "user id": 1167301902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OrenKessler @FridaGhitis @martydownunder Back Flag also used by Al Nusra, who the IDF helped capture border checkpoint on the Golan.",
+            "user id": 297186667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@OrenKessler @martydownunder This flag is popular throughout the extreme Muslim world. The Shahada is on the Saudi Arabian Flag as well.",
+            "user id": 21117169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@OrenKessler @martydownunder They should have at least washed the flag.",
+            "user id": 49622659,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@OrenKessler @paddo_ron @martydownunder So could be anything from domestic dispute to Gaza to who knows what?",
+            "user id": 149770065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@OrenKessler @janer98 @martydownunder and?",
+            "user id": 1038235795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@OrenKessler not only in Sydney but all over the world. @LesBasterds @martydownunder",
+            "user id": 233157246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        }
+    }
+}

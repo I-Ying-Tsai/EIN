@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "After their exclusives on Putin and Kabayeva's first two babies, Page Six must be mad at getting scooped on the third http://t.co/8fKIjzW8dw",
+        "user id": 349816997,
+        "tweet id": "576350258021675009",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@maxseddon :)))",
+            "user id": 248419931,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@maxseddon if you link once more to their site, they will announce  fourth baby by putin, with secret lover.",
+            "user id": 254526980,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

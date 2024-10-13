@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Is Prince playing a surprise Massey Hall show tonight? http://t.co/w5ymCHylg8 http://t.co/DYQ0jwnnmU",
+        "user id": 16351521,
+        "tweet id": "529667041142124544",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@nowtoronto: Is Prince playing  surprise Massey Hall show tonight? http://t.co/lzU8CajaMQ http://t.co/wT4mnDjLPZ” there's a line up for tis",
+            "user id": 15095027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MattHendersongs \"@nowtoronto: Is Prince playing a surprise Massey Hall show tonight? http://t.co/QvAELHho7E http://t.co/AJJICiiF7B”",
+            "user id": 113074015,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nowtoronto #Prince live is beyond #EPIC!! !",
+            "user id": 32983764,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nowtoronto  #birthdaygirl #prince  it's my Birthday ohhhh I would love to see my all time fav ❤️❤️❤️please get me in!",
+            "user id": 430880741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "We hope so!! @nowtoronto Is Prince playing a surprise Massey Hall show tonight? http://t.co/tkSJqkRZ6N  http://t.co/8QX0RP0eay",
+            "user id": 40918282,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "This is interesting because he CHOSE Toronto @SeeTorontoNow @nowtoronto Gr8 venues + Gr8 audiences = world class music city. @4479Toronto",
+            "user id": 57761168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nowtoronto @TorontoLIVE_ yes",
+            "user id": 1395136699,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

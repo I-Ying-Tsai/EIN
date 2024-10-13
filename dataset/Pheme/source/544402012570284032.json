@@ -1,0 +1,129 @@
+{
+    "source": {
+        "content": "Breaking News - no new development on #sydneysiege. \nWe go live to the scene.\nReporter, what can you tell us?\nNothing.\n\nMore soon.",
+        "user id": 387027891,
+        "tweet id": "544402012570284032",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffHutchison rampant speculation based on zero facts, I thought only in US but no here as well Must be fufilling to be a Journo",
+            "user id": 220190415,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffHutchison @meacod Rinse and repeat.",
+            "user id": 476227385,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffHutchison @Asher_Wolf If they had a script copy, they could..! 'Fess up, some one out there has a hard copy..!",
+            "user id": 250761217,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffHutchison @Asher_Wolf I think I have spend almost 9 hours learning nothing....",
+            "user id": 2334635804,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@GeoffHutchison @PollyMaeve Commissioner, what can you tell us? Nothing. Is this a terrorist act? I can't tell you. REPEAT.",
+            "user id": 183464625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "content": "@KateDorrell @GeoffHutchison now let us show you more footage of an empty footpath",
+            "user id": 413779729,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@GeoffHutchison 5 hrs at staring at outdoor umbrellas. WOW. Thanks @SevenNewsroom for being so close to the action but far frm delivering",
+            "user id": 157996080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@GeoffHutchison @SevenNewsroom So far from delivering any actual..um.. News.",
+            "user id": 157996080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "content": "@PollyMaeve @GeoffHutchison now let's look at how other countries are reporting it.",
+            "user id": 183464625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

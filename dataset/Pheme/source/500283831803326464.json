@@ -1,0 +1,97 @@
+{
+    "source": {
+        "content": "2nd Video footage proving #Ferguson PD Chief lied on @Fox2Now RT @TheAnonMessage2: After moments of #MikeBrown death. http://t.co/5V8mTws9Ep",
+        "user id": 235610395,
+        "tweet id": "500283831803326464",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@hollywood_trey @FOX2now @TheAnonMessage2 WHERE'S THE REST OF THE FOOTAGE??",
+            "user id": 464329417,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@hollywood_trey Hi, do you know who filmed this? We'd like to get in touch with them.",
+            "user id": 67657364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": ".@NafeesaSyeed I do not. Saw the video on @TheAnonMessage2 page late last night but they can probably help. #Ferguson  #mikebrown",
+            "user id": 235610395,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "Can anybody help @NafeesaSyeed find the person that shot the newest video footage in #Ferguson regarding #mikebrown?",
+            "user id": 235610395,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@hollywood_trey @TheAnonMessage2 OK thanks for info.",
+            "user id": 67657364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@hollywood_trey @NafeesaSyeed PLEASE RT THIS https://t.co/xQyZRWkgwH",
+            "user id": 533784460,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

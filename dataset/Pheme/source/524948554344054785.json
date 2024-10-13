@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "UPDATE: Reports of 1 more shooter being SHOT. This is in addition to one shot and killed earlier in Parliament Hill #ottnews #OttawaShooting",
+        "user id": 49654153,
+        "tweet id": "524948554344054785",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CFRAOttawa @suepeac GOOD NEWS. Get them all.",
+            "user id": 287725782,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@CFRAOttawa: UPDATE: Reports of 1 more shooter being SHOT. In addition to 1 shot and killed earlier in Parliament Hill #ottnews #edue",
+            "user id": 9055772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@CFRAOttawa @kimfox RT \"We are all infidels\" #outlawIslam #cdnpoli",
+            "user id": 19111502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@GTMGQ @CFRAOttawa I want nothing to do with that RT &amp; you should learn proper conventions of Twitter.",
+            "user id": 14243746,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

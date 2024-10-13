@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "Statement on appalling attack against #CharlieHebdo http://t.co/Ic5TSVhO0f",
+        "user id": 196994616,
+        "tweet id": "552837655105658880",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @eucopresident: Statement on appalling attack against #CharlieHebdo http://t.co/iUYhtD6jz8",
+            "user id": 18455693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@eucopresident http://t.co/3QgibLhMHq",
+            "user id": 25061351,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@eucopresident Wodzu jak skomentujesz rewelacje nastepczyni? :)",
+            "user id": 1031065032,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@eucopresident What other forms of terrorism are threatening Europe at this moment?",
+            "user id": 231099965,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@daswareinmal @eucopresident Russian",
+            "user id": 317743589,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@eucopresident you are still talking huh?",
+            "user id": 2161648412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@eucopresident the magazine was known for stinging anti israel publications as well.",
+            "user id": 325234656,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@eucopresident: Statement on appalling attack against #CharlieHebdo http://t.co/z4aTD0215j” #Diplomacy140",
+            "user id": 2356127598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@eucopresident: Statement on appalling attack against #CharlieHebdo http://t.co/z4aTD0215j” #Diplomacy140",
+            "user id": 2356127598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@eucopresident sam pisałeś? To całość na tt się zmiesci",
+            "user id": 46448565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@eucopresident wg pana walka z terroryzmem ma być kontynuowana we wszystkich formach,czyli łącznie z torturowaniem,jak w starych kiejkutach?",
+            "user id": 207459026,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@eucopresident wg pana \"fundamentalne wartości i wolność słowa\"to obrażanie czyichś uczuć religijnych? Czy to naprawdę \"filar demokracji\"?!",
+            "user id": 207459026,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "@eucopresident @PLinItalia donek ty pisz po ludzku,a nie po murzynsku,polskiego zapomniales.",
+            "user id": 1050747590,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@dariuszgrech @eucopresident @PLinItalia hahaha jebłem...:-)",
+            "user id": 1581605892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

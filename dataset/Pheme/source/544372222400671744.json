@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "BREAKING: Two new hostages, both woman, run to safety from Sydney cafe, Australia television network reports http://t.co/apNKqmicSX",
+        "user id": 14173315,
+        "tweet id": "544372222400671744",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NBCNews If Gunmen are not aware Hostages are escaping, do NOT tweet about it. Other Hostages still in danger!",
+            "user id": 2856927247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@Sydney843 @NBCNews great advice, you guys should hire her because whoever is tweeting from NBC lacks grammatical discipline.",
+            "user id": 99108648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @nbcbayarea In fairness to @NBCNews and @nbcbayarea, ALL Australian networks are also tweeting and reporting on this situation!",
+            "user id": 1417812433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews both asians you have to say",
+            "user id": 353147411,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @robquig @cashUT Interesting journalism ethics situation here. To tweet/report or not tweet/report hostage escape?",
+            "user id": 1378109503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews Both woman? You mean women???",
+            "user id": 1373532835,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@MeThoUONEO @NBCNews Thank-you, Sir!  Active Situation. Putting other Hostages lives in jeopardy is just wrong.",
+            "user id": 2856927247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

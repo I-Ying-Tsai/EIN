@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "NSW police commissioner: Suspect holding \"undisclosed\" number of hostages in Sydney; situation contained - @9NewsAUS http://t.co/2hoFvCo4k4",
+        "user id": 28785486,
+        "tweet id": "544325896661114881",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @9NewsAUS http://t.co/G4sIjPfCFF",
+            "user id": 40651462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @9NewsAUS honestly, am not buying the Isis flag thing !! Am not that stupid to believe this nonsense",
+            "user id": 272321542,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @9NewsAUS\nAre there still hostages? then the 'situation' is NOT contained.",
+            "user id": 465790247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @9NewsAUS \"Situation contained.\"😨 What the heck does that mean?!  They can't get out? Neither can the \"undisclosed number\" hostages.",
+            "user id": 874824648,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @9NewsAUS lmao this guy looks like the Cryptkeeper 😂",
+            "user id": 724596810,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

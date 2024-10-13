@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "If you're following the situation in Sydney, I beg that you read this article. Skim it, even. So long as you see it. http://t.co/jy0xmKaRST",
+        "user id": 28986402,
+        "tweet id": "544365039663083521",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ Preach!",
+            "user id": 56147817,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CaitiWard_ @jack_p The Telegraph have run a special 2pm edition claiming \"Isis Responsible\" because of the flag, which has proven to...",
+            "user id": 24804174,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@cheyneo88 @CaitiWard_ @jack_p That was going to be my comment on this one... Some blatant sensationalism in the mainstream media...",
+            "user id": 613344351,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ @jack_p ... Not be linked to Isis. Even major media are jumping to conclusions :(",
+            "user id": 24804174,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ Fantastic article, and then I read the comments...",
+            "user id": 2170298101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ Especially with what happened to innocent people simply carrying bags in Boston here in the US, don't make assumptions!",
+            "user id": 2430588103,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ I am so angry at how many people are blaming this on muslims in general! Its quite frustrating and upsetting how racist some are",
+            "user id": 338141913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_  media have been speculating all day about the ethnicity, how many people are involved and weapons they have. thanks channel 9.",
+            "user id": 338141913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Thanks @CaitiWard_ AS usual abc is only reporting facts. Other channels full of speculation",
+            "user id": 2841193350,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ oh my god! This is terrible! I wish I could do more to help those trapped people!",
+            "user id": 2290489500,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ 2 women just escaped",
+            "user id": 2326381111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ This means so much. Rampant hatred towards Muslims is now being stirred up by these rumors and it's terrifying me",
+            "user id": 1468825297,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ @jack_p 4 bombs confirmed to be located in sydney, 2 in the cafe and 2 throughout the cbd, the gun man has issued demands aswell",
+            "user id": 1188549499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@CaitiWard_ it's on almost every TV channel in Australia",
+            "user id": 1600441171,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

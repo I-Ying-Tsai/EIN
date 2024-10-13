@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING: A police officer has sustained a gunshot wound to the head.4 others injured. #SydneySiege",
+        "user id": 491960101,
+        "tweet id": "544515850963648512",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AusNewsNetwork: #BREAKING: A police officer has sustained a gunshot wound to the head.4 others injured. #SydneySiege”",
+            "user id": 27382397,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AusNewsNetwork: #BREAKING: A police officer has sustained a gunshot wound to the head.4 others injured. #SydneySiege”",
+            "user id": 174365756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork  omg!!!!",
+            "user id": 705123059,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

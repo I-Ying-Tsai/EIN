@@ -1,0 +1,147 @@
+{
+    "source": {
+        "content": "Heartbreaking photo shows fallen soldier Nathan Cirillo just moments before shooting http://t.co/MbS4rd45iV http://t.co/uc0jNXoN0b",
+        "user id": 289998339,
+        "tweet id": "525048987649576960",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada @southsalem an Honor Guard shot down in COLD BLOOD these people are certainly not God's people they're #BARBARIANS",
+            "user id": 133024127,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada @DC_TO This photo should be given a place of honour @HouseofCommons #Canada",
+            "user id": 2284145784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada He guarded the tomb of an unknown soldier, but he will forever be remembered. My heart breaks for his family.",
+            "user id": 28869233,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@HuffPostCanada Makes no sense-why police tape? @MikeHansen613",
+            "user id": 590060199,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@cmnsense100 That's construction tape. Probably doing some work on it. @HuffPostCanada",
+            "user id": 426825447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@HuffPostCanada: Heartbreaking photo shows  soldier Cirillo just moments before shooting http://t.co/7mteGhjkkT http://t.co/gf3Vv9gb6W”",
+            "user id": 546838312,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@HuffPostCanada @Nettles18 this is so heartbreaking.....",
+            "user id": 1551604218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@HuffPostCanada @Nettles18 what's the mood like in your home town about this?",
+            "user id": 1551604218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada its sad.  And crap world we live in now ..\nThought's wiv his families :(",
+            "user id": 824250668,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@HuffPostCanada @7679USMC Such a horrible waste...",
+            "user id": 2450600312,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@kimdgood @HuffPostCanada                                ....RIP Cpl. Cirillo....",
+            "user id": 1881694416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

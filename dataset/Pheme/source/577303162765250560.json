@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Israel’s Ex-Ambassador To Russia: “There Are Signs Of A Coup” Against Putin http://t.co/AFsa2ilZ2o",
+        "user id": 260076391,
+        "tweet id": "577303162765250560",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "At least someone with a pair in Russia gets the danger aspect of Putin being in talks w/Iranian gov officials @GrodenBiker @Scarlett210",
+            "user id": 2178489594,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "Putin is one who must be watched. Sneaky &amp; Dangerous he laughs at Obama. He's close to making a move. We All wait @GrodenBiker @Scarlett210",
+            "user id": 2178489594,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mysticseer4u @GrodenBiker @Scarlett210 Romney said this during the debates and he's right!",
+            "user id": 143182513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

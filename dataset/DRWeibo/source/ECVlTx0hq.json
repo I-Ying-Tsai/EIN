@@ -1,0 +1,159 @@
+{
+    "source": {
+        "content": "【河北衡水中学进驻浙江 \"考试集中营\"全国复制引争议】衡水中学是一座饱受争议的\"超级中学\"，它以每年百人左右考入清华、北大以及被外界风传的军事化管理闻名全国。近日，衡水第一中学平湖学校正式揭牌，有\"超级中学\"之称的衡水中学正式进驻浙江。 这样的军事化学校你会去吗? ",
+        "time": "17-4-4 11:15",
+        "user id": "1225314032",
+        "tweet id": "ECVlTx0hq",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "1851516802",
+            "user name": "过客_平平淡淡",
+            "content": "考了北大清华又如何，毕业后混的怎么样？拿出来报道啊",
+            "time": "17-4-4 11:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "3592574744",
+            "user name": "杰瑞lk",
+            "content": "有本事你也考个北大清华来看看啊！",
+            "time": "17-4-9 14:22",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "2076749207",
+            "user name": "lovelyDADisme",
+            "content": "清华大学毕业生2016人均工资1.1w，你怎么看里面扯后腿的",
+            "time": "17-4-4 16:37",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "5299851326",
+            "user name": "小学僧没毕业",
+            "content": "小编，说实话，内容像衡水第一中学，图片是衡水第二中学的啊，你该严谨一点了",
+            "time": "17-4-4 11:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "5514840457",
+            "user name": "孙阳加油",
+            "content": "我去我去我去……我了个去！",
+            "time": "17-4-4 15:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "5654069869",
+            "user name": "子非愚",
+            "content": "随你们怎么说，反正我是恨透了，没见识没磨砺过，考上大学才发现什么都不如别人。",
+            "time": "17-4-4 12:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "2076749207",
+            "user name": "lovelyDADisme",
+            "content": "同意",
+            "time": "17-4-4 16:38",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5671324454",
+            "user name": "ssct5915",
+            "content": "衡水中学平湖学校在浙江平湖吗？",
+            "time": "17-4-4 11:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "2472009393",
+            "user name": "爆料拯救事实",
+            "content": "还有一个比这校更奇葩的学校 →#我的学校是X监#，你们都没见过吧？",
+            "time": "17-4-4 13:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "2937715840",
+            "user name": "珠穆朗你疯了吗",
+            "content": "小编，你的图片是错的，有很多学校只学到了衡中的皮毛，扭曲了一下精华。这个不是衡中，衡水有很多学校，但他们都不能代表衡中",
+            "time": "17-4-25 11:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2459559931",
+            "user name": "I丨II丨II丨I",
+            "content": "可能会吧。毕竟现在的我低分低能，高分低能也总比这个好",
+            "time": "17-4-4 11:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

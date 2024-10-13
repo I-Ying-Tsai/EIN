@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "Ottawa hospital confirms it's treating 3 #OttawaShooting victims - 2 in stable condition\nhttp://t.co/IbLAWEjEeD http://t.co/zSoC0VxOKN",
+        "user id": 5402612,
+        "tweet id": "524979668282519552",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @piersmorgan",
+            "user id": 463760037,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking more senseless violence #OttawaShooting #Ottawa",
+            "user id": 296385184,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking How about you stop showing pictures of the bald guy running around like hes fucking John McClane",
+            "user id": 1410907584,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking the wars borders have been extended to Canada now",
+            "user id": 203207703,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Giralo a politici e sindacalisti: https://t.co/7A7Y8Q3HH3",
+            "user id": 2493142851,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking http://t.co/yN7dL9dFzU",
+            "user id": 2396533820,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking",
+            "user id": 232703102,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking They kill in an open liberal society. A society which is too liberal and too open for its own good.",
+            "user id": 36157190,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @BBCWorld BBC calls it a shooting until they know it was brown people, then it will be a terrorist attack",
+            "user id": 469699513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @holly1950 So what has Canada done to provoke attacks? Tired of the BS excuses for terror. Man up, LET'S ROLL!",
+            "user id": 552176637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking 2 delle tre vittime in condizioni stabilì?",
+            "user id": 430092847,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking",
+            "user id": 552579928,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "@BBCBreaking @pinksliptv SAY IT CLEARLY - TERROR ATTACK!!!",
+            "user id": 230267094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@reuvenir @BBCBreaking @pinksliptv BBC see clearly not without taking off it blinkers",
+            "user id": 2566015532,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking",
+            "user id": 2482672057,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 14,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

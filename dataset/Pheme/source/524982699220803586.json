@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "#Ottawa police confirm fatal shooting of Canadian soldier at War Memorial, and shooting death of gunman in Parliament. No one in custody.",
+        "user id": 19038934,
+        "tweet id": "524982699220803586",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @CBCNews He was From Hamilton,Ont.",
+            "user id": 2421298825,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts please consider stopping showing video of victim over and over again, his face is recgonizable. #respectforfamily",
+            "user id": 536768874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts My prayers and sympathy for his family, friends and fellow servicemen. His service to his country is honorable and respected.",
+            "user id": 2377353168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts terrible news",
+            "user id": 218597862,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts The cowardly bastards.If you believe in honour in the fight, then fight on the battlefield, dont do it in a place of rememberance",
+            "user id": 941229320,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts - Our deepest sympathies and condolences go out to the family of the slain Soldier.",
+            "user id": 802731019,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @CBCVancouver My thoughts are with the soldier's family &amp; friends. :(",
+            "user id": 2413748023,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts My thoughts are with family, friends and fellow servicemen &amp; women of the soldier killed. A true Canadian hero.",
+            "user id": 2611800945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": ".@CBCAlerts @GCGATOR24 Terrorism?",
+            "user id": 36422625,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@RichardLloydUSA It was declared a Terrorist attack by Canadien officials",
+            "user id": 68760726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @GCGATOR24 Attack in Ottawa didn't happen in U.S., Canadians called it what it was, a terrorist act, NOT \"workplace violence\"",
+            "user id": 53435162,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

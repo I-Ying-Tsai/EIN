@@ -1,0 +1,174 @@
+{
+    "source": {
+        "content": "Black teenage boys are not men. They are children. Stop referring to a 17 year old as a man. You are killing children. #ferguson",
+        "user id": 1539100118,
+        "tweet id": "498235547685756928",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@annaxsweat @NeoSoulPol Same thing when #Trayvon was killed by #Zimmerman the wanna-be cop. 17yrs old #Black teen is a man to them.",
+            "user id": 587926686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@annaxsweat http://t.co/Z7Qm4iaoSR",
+            "user id": 21461995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@annaxsweat #StopThugCops We have to take action to stop this insanity. #Ferguson",
+            "user id": 21461995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@annaxsweat @KidFriendlyCamb 17 year olds can be prosecuted as adults, regardless of color. Sorry, but try again.",
+            "user id": 2411474370,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@annaxsweat well, he damn sure ain't a child",
+            "user id": 2437571275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                11,
+                12
+            ],
+            "content": "@HighPlainsCoot fuck. Off.",
+            "user id": 1539100118,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@annaxsweat: Soooo wonderfully said! Thank you for your tweet! I'm RTing!",
+            "user id": 2331498373,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@annaxsweat 18*",
+            "user id": 481509183,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@AlexisAStevens yeah that tweet was written before that was clarified. Sentiment still holds. Thanks.",
+            "user id": 1539100118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@annaxsweat @_yellow_paiges_ goes back to Dave Chappelle's \"how old is 15 really?\" bit\nhttps://t.co/KyJmhZlXQO",
+            "user id": 151239187,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@annaxsweat after several hours someone noticed",
+            "user id": 2556027474,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 5,
+            "children": [],
+            "content": "@annaxsweat the response of a leftist toker. it's just like stuttering w/ u ppl.",
+            "user id": 2437571275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 5,
+            "children": [],
+            "content": "@annaxsweat such talk from a lady(?). senseless, so u r blocked",
+            "user id": 2437571275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

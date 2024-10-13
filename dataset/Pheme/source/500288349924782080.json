@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "Did anyone think of comparing the clothes that #MikeBrown was wearing when he was laying on the street to the security footage? #Ferguson",
+        "user id": 2725579568,
+        "tweet id": "500288349924782080",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage2 Yeah. @donlemon just did on CNN.",
+            "user id": 39574682,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage2 had the same flip flops on.",
+            "user id": 74214410,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "It's a good thing u went to detective school....wat would the cops do w/o u? @TheAnonMessage2",
+            "user id": 2516022494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@TheAnonMessage2 yes hat and sandals vs no hat and tennis shoes",
+            "user id": 124085284,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@Manning_Eli_1 @TheAnonMessage2  I thought the same thing.",
+            "user id": 14807214,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": ".@TheAnonMessage2  yes. They don't match. Flip flops + hat in store. Shoes + no hat in final pic.",
+            "user id": 14807214,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@TheAnonMessage2 http://t.co/nyf2SaMMh8",
+            "user id": 173880712,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                11
+            ],
+            "content": "@RemarkablyDope @TheAnonMessage2 is it me, or the dude in the security cam photos is bald? Mike Brown isn't bald i dont belive",
+            "user id": 391609232,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage2 no, because that would require reasoning and then if reasoning is applied, no one can be shot. Shoot now, reason later.",
+            "user id": 126525252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "Identical but irrelevant RT @TheAnonMessage2: Did anyone think of comparing the clothes that #MikeBrown was wearing to the security footage?",
+            "user id": 823699980,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage2 Did anyone think that, holy balls, he was old enough to know how to change his clothes?",
+            "user id": 298310505,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@EricsSauces @TheAnonMessage2 it's not him lmao the store owners already said so",
+            "user id": 173880712,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@RemarkablyDope @TheAnonMessage2 my God @stlcountypd sucks",
+            "user id": 391609232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

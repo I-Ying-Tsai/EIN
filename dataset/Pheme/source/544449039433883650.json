@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "#illridewithyou reflects the true #aussiespirit during the undesirable actions of the few! Stand tall in the face of adversity! #SydneySiege",
+        "user id": 849121410,
+        "tweet id": "544449039433883650",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@visionpurple Congrats on your 250★ tweet! http://t.co/tBDWUczgGs",
+            "user id": 404460410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@visionpurple Congrats on your 500★ tweet! http://t.co/Wyzz8soXzR",
+            "user id": 55794552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@visionpurple Congrats on your 1000★ tweet! http://t.co/yPTtRg5MGz",
+            "user id": 55795410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@visionpurple pi mampuih la hg\"",
+            "user id": 1432482416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "@AnwarrHudzaifah we are all citizens of the same planet :) - Have a great day!",
+            "user id": 849121410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@visionpurple belikan",
+            "user id": 311320280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@visionpurple thank you!",
+            "user id": 1432482416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

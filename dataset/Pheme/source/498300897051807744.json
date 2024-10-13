@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Michael Brown, unarmed black teen killed by police in #Ferguson was set to start college on Monday. @MichaelSkolnik:https://t.co/4LODno0FLr",
+        "user id": 84014340,
+        "tweet id": "498300897051807744",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MrStevenGeorge @MichaelSkolnik that is so sad thoughts and prayers for his family and hope they investagate so he has justice",
+            "user id": 232462921,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MrStevenGeorge @Maggyw519 @MichaelSkolnik (COP) GUNS KILL (BLACK) PEOPLE.",
+            "user id": 1518076123,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MrStevenGeorge @MichaelSkolnik What the hell are they \"Claiming\" he \"did\"?? How horrible!",
+            "user id": 157218153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MrStevenGeorge @MichaelSkolnik We should all rise up and demand justice for all \"murdered\" by police. Pray for Michael Brown's family.",
+            "user id": 2638124864,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MrStevenGeorge @MichaelSkolnik this is horrific. What are they claiming he did?",
+            "user id": 27721634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@MrStevenGeorge @YusefYama @MichaelSkolnik why does the word black need to be put in this story",
+            "user id": 306276840,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@mikehorton1977 @MrStevenGeorge @YusefYama @MichaelSkolnik common trend..",
+            "user id": 173857169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@MrStevenGeorge: Michael Brown, unarmed black teen killed by police was set to start college on Monday.:https://t.co/jMkc3sxHjO”",
+            "user id": 884522502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@MrStevenGeorge @LetsStartup_IN @MichaelSkolnik damn shame its always the ones that was trying to do sumthin with they life that gets killed",
+            "user id": 262289599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

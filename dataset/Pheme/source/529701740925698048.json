@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Prince is rumoured to be performing a surprise show Tuesday night in Toronto. http://t.co/GFa28laeQf",
+        "user id": 13896552,
+        "tweet id": "529701740925698048",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@globalnewsto @TorontoLIVE_  #birthdaygirl #prince  it's my Birthday ohhhh I would love to see my all time fav ❤️❤️❤️please get me in!",
+            "user id": 430880741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@globalnewsto prince? William or Edward? #Prince",
+            "user id": 528372492,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

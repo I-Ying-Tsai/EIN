@@ -1,0 +1,579 @@
+{
+    "source": {
+        "content": "Australia is home to some of the greatest people I know. My heart goes out to everyone affected by today’s crisis in Sydney.",
+        "user id": 14503124,
+        "tweet id": "544348632980676608",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@burnie",
+            "user id": 1669347619,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@burnie what happened? 👀",
+            "user id": 47870228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@Turny_Montanaa @burnie people are being held hostage in a cafe. They've been there for sixish hours",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@burnie what happened???",
+            "user id": 1062131022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@TSKxEcHo @burnie  \npeople are being held hostage in a cafe. They've been there for sixish hours",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@burnie thanks Burnie it's pretty intense here! Hopefully all the people are ok.",
+            "user id": 1060447940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@burnie What the heck is going on?",
+            "user id": 48085134,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@PancakeSquid @burnie people are being held hostage in a cafe. They've been there for sixish hours",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@burnie cheers mate. Come back soon",
+            "user id": 326542714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                13
+            ],
+            "content": "@ASHT0NlRWlN @burnie damn. Thanks for letting me know!",
+            "user id": 47870228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                14,
+                15,
+                16
+            ],
+            "content": "@ASHT0NlRWlN @burnie you know how many people?",
+            "user id": 47870228,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [
+                17
+            ],
+            "content": "@ASHT0NlRWlN @burnie oh wow that's terrible sorry for those people there",
+            "user id": 1062131022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [
+                18,
+                19
+            ],
+            "content": "@ASHT0NlRWlN @burnie I got thrown off, people were calling it \"The Siege of Sydney\", I thought it was some military type of thing.",
+            "user id": 48085134,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 9,
+            "children": [],
+            "content": "@Turny_Montanaa @burnie welcome :)",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [],
+            "content": "@Turny_Montanaa @burnie they won't tell us how many, some people have been let out. It was quite a popular cafe and Monday morning. I think+",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 10,
+            "children": [
+                20,
+                21
+            ],
+            "content": "@Turny_Montanaa @burnie more than 20.",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 10,
+            "children": [
+                22
+            ],
+            "content": "@Turny_Montanaa @ASHT0NlRWlN @burnie there are 50 people according to the news.",
+            "user id": 1060447940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 11,
+            "children": [
+                23
+            ],
+            "content": "@TSKxEcHo @burnie it is pretty brutal",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 12,
+            "children": [],
+            "content": "@PancakeSquid @burnie there's so many cops and military personnel there. It's right in the city too and they're trying not to get people +",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 19,
+            "parent": 12,
+            "children": [
+                24
+            ],
+            "content": "@PancakeSquid @burnie killed before Christmas",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 20,
+            "parent": 15,
+            "children": [
+                25
+            ],
+            "content": "@ASHT0NlRWlN @Turny_Montanaa @burnie they're saying about 50 people.",
+            "user id": 2692099482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 21,
+            "parent": 15,
+            "children": [
+                26,
+                27
+            ],
+            "content": "@ASHT0NlRWlN @Turny_Montanaa @burnie police say much lower thank god",
+            "user id": 44263525,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 22,
+            "parent": 16,
+            "children": [
+                28
+            ],
+            "content": "@kateymunky @Turny_Montanaa @burnie not surprising. It's a pretty big cafe",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 23,
+            "parent": 17,
+            "children": [
+                29,
+                30
+            ],
+            "content": "@ASHT0NlRWlN @burnie do you know if anyone is hurt",
+            "user id": 1062131022,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 24,
+            "parent": 19,
+            "children": [
+                31
+            ],
+            "content": "@ASHT0NlRWlN @burnie I would assume the goal is to not get anyone killed before any time, not just Christmas.",
+            "user id": 48085134,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 25,
+            "parent": 20,
+            "children": [],
+            "content": "@EllieAliceH @Turny_Montanaa @burnie sounds about right.",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 26,
+            "parent": 21,
+            "children": [],
+            "content": "@steph_said_this @ASHT0NlRWlN @burnie that's really good to hear!",
+            "user id": 47870228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 27,
+            "parent": 21,
+            "children": [
+                32
+            ],
+            "content": "@steph_said_this @Turny_Montanaa @burnie thank god",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 28,
+            "parent": 22,
+            "children": [
+                33
+            ],
+            "content": "@ASHT0NlRWlN @Turny_Montanaa @burnie yea, a couple of people have come out.",
+            "user id": 1060447940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 29,
+            "parent": 23,
+            "children": [
+                34
+            ],
+            "content": "@TSKxEcHo @burnie  I don't think so. Don't take my word on that though.",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 30,
+            "parent": 23,
+            "children": [
+                35
+            ],
+            "content": "@TSKxEcHo @ASHT0NlRWlN @burnie according to the news, no one is hurt, they're unsure of the motives and 5 hostages have escaped.",
+            "user id": 2736392748,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 31,
+            "parent": 24,
+            "children": [],
+            "content": "@PancakeSquid @burnie yeah.",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 32,
+            "parent": 27,
+            "children": [],
+            "content": "@ASHT0NlRWlN @Turny_Montanaa @burnie and they've had 3 people get out",
+            "user id": 44263525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 33,
+            "parent": 28,
+            "children": [
+                36
+            ],
+            "content": "@ASHT0NlRWlN @Turny_Montanaa @burnie hopefully it'll all be over soon, I hope all the people are ok!",
+            "user id": 1060447940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 34,
+            "parent": 29,
+            "children": [
+                37
+            ],
+            "content": "@ASHT0NlRWlN @burnie ok thanks for filling me in first time hearing of this",
+            "user id": 1062131022,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 35,
+            "parent": 30,
+            "children": [
+                38
+            ],
+            "content": "@ProDoesWriting @TSKxEcHo @burnie there is now two dead not including the gunman",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 36,
+            "parent": 33,
+            "children": [
+                39
+            ],
+            "content": "@kateymunky @Turny_Montanaa @burnie hopefully without any casualties",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 37,
+            "parent": 34,
+            "children": [],
+            "content": "@TSKxEcHo @burnie that's ok :)",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 38,
+            "parent": 35,
+            "children": [
+                40
+            ],
+            "content": "@ASHT0NlRWlN @ProDoesWriting @burnie how many gunman are there",
+            "user id": 1062131022,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 39,
+            "parent": 36,
+            "children": [],
+            "content": "@ASHT0NlRWlN @Turny_Montanaa @burnie indeed",
+            "user id": 1060447940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 40,
+            "parent": 38,
+            "children": [
+                41
+            ],
+            "content": "@TSKxEcHo @ProDoesWriting @burnie only one",
+            "user id": 708603398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 41,
+            "parent": 40,
+            "children": [],
+            "content": "@ASHT0NlRWlN @ProDoesWriting @burnie oh OK hope this all sorts out soon and no one gets hurt anymore",
+            "user id": 1062131022,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "6-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "7-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

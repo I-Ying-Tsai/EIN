@@ -1,0 +1,108 @@
+{
+    "source": {
+        "content": "#GermanWings co-pilot was a fresh #Muslim convert - http://t.co/iNVyryt5LE via @Orvan \nConverts to #Islam are very disturbed #WhiteMuslims",
+        "user id": 30122242,
+        "tweet id": "581335535832039424",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@riwired But no evidence has been made public, so what is this (not so objective) writer talking about when saying \"all evidence indicates\"?",
+            "user id": 46434040,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@prittstift_nl You're right. But there have been pro ISIS accounts claiming he was a \"brother\" who did it for \"Allah.\" Perhaps that's why?",
+            "user id": 30122242,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@riwired @Orvan There is no evidence for this beyond someone's comment on the site of an obscure magazine no one has ever heard of.",
+            "user id": 2319934142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@CoraBuhlert Seems that people are jumping to conclusions. :| @Orvan",
+            "user id": 30122242,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@riwired @Orvan ..while other religions convert thugs to good humans..\n\n..is.lam converts good humans to killers.. always..\n..boycott.\n\n#HDL",
+            "user id": 94028693,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@riwired Must be something like that, and frankly, it was the first thing I thought of yesterday. But look at this: https://t.co/uAD4PF3KiF",
+            "user id": 46434040,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@riwired Could be just IS propaganda. Thing is that I see lots of tweets claiming that he was a jihadist. Truth is that no one knows.",
+            "user id": 46434040,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

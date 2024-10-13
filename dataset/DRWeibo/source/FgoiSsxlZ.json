@@ -1,0 +1,181 @@
+{
+    "source": {
+        "content": "#地震快讯#中国地震台网正式测定：08月10日05时05分在四川阿坝州九寨沟县（北纬33.16度，东经103.85度）发生4.3级地震，震源深度26千米。陇南震撼强烈，望大家注意安全。@微博甘肃 @陇南文县发布  @陇南身边事 @陇南旅游 ",
+        "time": "17-8-10 05:24",
+        "user id": "2626472827",
+        "tweet id": "FgoiSsxlZ",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "5660839276",
+            "user name": "域见陇南",
+            "content": "祈福平安！",
+            "time": "17-8-10 06:02",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "3953417494",
+            "user name": "陇南礼县城关镇",
+            "content": "转发微博",
+            "time": "17-8-11 21:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "3955273284",
+            "user name": "陇南政法",
+            "content": "",
+            "time": "17-8-10 17:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "3982556856",
+            "user name": "甘肃康县农村商业银行",
+            "content": "",
+            "time": "17-8-10 16:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "2800441444",
+            "user name": "陇南成县黄陈镇政府",
+            "content": "转发微博",
+            "time": "17-8-10 13:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                7
+            ],
+            "user id": "2965434794",
+            "user name": "Mcdsboy",
+            "content": "大早上被摇醒",
+            "time": "17-8-10 05:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "6000329399",
+            "user name": "只等对的一人",
+            "content": "希望再别余震了🙏🙏🙏",
+            "time": "17-8-10 05:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "user id": "6334257796",
+            "user name": "我喜欢用鲁班",
+            "content": "我也是被摇醒的，直接裸奔了，太吓人了",
+            "time": "17-8-10 05:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5176054881",
+            "user name": "翟翟翟翟翟翟大",
+            "content": "",
+            "time": "17-8-10 07:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "3261671801",
+            "user name": "魂断仇池",
+            "content": "没感觉到",
+            "time": "17-8-10 06:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "6072765110",
+            "user name": "陇南同城",
+            "content": "大家注意防范！祈福平安！",
+            "time": "17-8-10 06:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5355102911",
+            "user name": "今天还是加油鸭",
+            "content": "被摇醒的",
+            "time": "17-8-10 05:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "5459649086",
+            "user name": "我要当透明人-",
+            "content": "被摇醒了",
+            "time": "17-8-10 05:48",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

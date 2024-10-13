@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Update - Telegraph reporter Henry Samuels tells Sky News 10 people have been killed in shooting at Charlie Hebdo headquarters in #Paris",
+        "user id": 87416722,
+        "tweet id": "552788947219533824",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak How is that an update to the previous Tweet when it contains no new information?",
+            "user id": 2182840076,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Ugh. Stop the world. I want to get off. RT “@SkyNewsBreak: 10 people have been killed in shooting at Charlie Hebdo headquarters in #Paris”",
+            "user id": 120782305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak The religion of 'pieces' strikes again.",
+            "user id": 777548653,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

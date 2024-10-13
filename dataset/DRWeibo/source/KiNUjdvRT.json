@@ -1,0 +1,189 @@
+{
+    "source": {
+        "content": "#安徽安庆一男子步行街上刺伤多人# 据说三个凶手，都绑了布条在头上，抓了两个还有一个在抓捕中 ",
+        "time": "21-6-5 19:57",
+        "user id": "2607011341",
+        "tweet id": "KiNUjdvRT",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1723820462",
+            "user name": "MaDDaxchan",
+            "content": "谣言举报了",
+            "time": "21-6-5 19:59",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "5493208612",
+            "user name": "不知道5493208612",
+            "content": "官方都发出来了，还说人家谣言什么",
+            "time": "21-6-5 20:25",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "1723820462",
+            "user name": "MaDDaxchan",
+            "content": "官方有说3人？",
+            "time": "21-6-5 20:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "user id": "3865329085",
+            "user name": "我是蓉啊蓉",
+            "content": "如果还有再逃的话，会写在这个说明里面的",
+            "time": "21-6-5 19:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "1723820462",
+            "user name": "MaDDaxchan",
+            "content": "帮忙举报一下",
+            "time": "21-6-5 19:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "user id": "6781354711",
+            "user name": "薄荷凉30833",
+            "content": "真的",
+            "time": "21-6-5 20:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "5974889396",
+            "user name": "微光影里",
+            "content": "我家边上有人看见了，说是一个人",
+            "time": "21-6-5 20:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "7521694208",
+            "user name": "山泉小狼",
+            "content": "没根据的事情不要传！恶心",
+            "time": "21-6-5 21:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1723820462",
+            "user name": "MaDDaxchan",
+            "content": "@安庆公安",
+            "time": "21-6-5 20:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1811832273",
+            "user name": "梦回一十二",
+            "content": "据说你都敢发出来。想坐牢成全你。举报了。",
+            "time": "21-6-5 22:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2924840383",
+            "user name": "羽翼流光",
+            "content": "已举报",
+            "time": "21-6-5 20:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "1723820462",
+            "user name": "MaDDaxchan",
+            "content": "@安庆公安交警在线",
+            "time": "21-6-5 20:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "6142314602",
+            "user name": "慌乱-日常",
+            "content": "@安庆网警巡查执法",
+            "time": "21-6-5 20:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

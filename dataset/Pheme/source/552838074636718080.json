@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "The attack on Charlie Hebdo is an attack on freedom: The leading article from the new Spectator magazine: http://t.co/shBDPyy4et",
+        "user id": 16683666,
+        "tweet id": "552838074636718080",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@spectator You should reprint the last cover of Hebdo or it's last tweet prior to the murders - more effective than the usual platitudes",
+            "user id": 361997113,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@spectator @afneil there are people scoffing at people who say The've fight for the right of free speech,are they backward or fascists?",
+            "user id": 2951345235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@spectator @MrHarryCole The ultimate in censorship. All newspapers should print the offending cartoon on their front covers to show defiance",
+            "user id": 356809699,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": ".@spectator No it isn't, nobody prevented then from distribution of cartoon @codyincalgary",
+            "user id": 230094325,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@spectator @afneil If only we could get them to line up against cliché.",
+            "user id": 351111281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@spectator Print the cartoon then ?",
+            "user id": 2570921988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        }
+    }
+}

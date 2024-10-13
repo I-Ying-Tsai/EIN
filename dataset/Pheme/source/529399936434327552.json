@@ -1,0 +1,222 @@
+{
+    "source": {
+        "content": "can someone get us in 2 the secret prince show in toronto tomorrow",
+        "user id": 23607802,
+        "tweet id": "529399936434327552",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AUXTV: can someone get us in 2 the secret prince show in toronto tomorrow” WHAAAAATTTT?!?!?",
+            "user id": 965424487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV is massey confirmed?",
+            "user id": 34408255,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV http://t.co/S0gyzOYlwP",
+            "user id": 23607802,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV cc: @PrinceTweets2U",
+            "user id": 40607984,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV whaaaaa",
+            "user id": 59129270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Tell us more! \"@AUXTV: can someone get us in 2 the secret prince show in toronto tomorrow”",
+            "user id": 131099299,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@AUXTV way to keep it secret",
+            "user id": 747339266,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@FOHPhoto lolol we want to know",
+            "user id": 965424487,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                15
+            ],
+            "content": "@FOHPhoto @AUXTV wut?!",
+            "user id": 27094794,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "2 enter u must purify urself in Lake Minnetonka \"@AUXTV: can someone get us in 2 the secret prince show in toronto tomorrow\"",
+            "user id": 291414445,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV wait what?",
+            "user id": 49854151,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV im in Buffalo and will make the drive....HELP!",
+            "user id": 49854151,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV  seriously though. How??",
+            "user id": 62182327,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "“@AUXTV: can someone get us in 2 the secret prince show in toronto tomorrow” @homeslizzy  Make it happen!",
+            "user id": 105351072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@AUXTV haha! Us too! #RainingPurple",
+            "user id": 1434548971,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 8,
+            "children": [
+                16
+            ],
+            "content": "@takeheart4 @AUXTV ;)",
+            "user id": 747339266,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "content": "@FOHPhoto @AUXTV I need to hear chocolate rain live....",
+            "user id": 27094794,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

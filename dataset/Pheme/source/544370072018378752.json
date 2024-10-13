@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Can we add Daily Telegraph to suspected terror cells within Aus? Their 2pm edition did more damage than any gunman ever could #sydneysiege",
+        "user id": 384646101,
+        "tweet id": "544370072018378752",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@StevePBaker @TheMurdochTimes Very well said, and a solid point....",
+            "user id": 32439905,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@StevePBaker @piecritic that's why it's referredto as The Terrorgraph...",
+            "user id": 258995248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@StevePBaker Add most of the Australian mainstream media too.",
+            "user id": 2821141736,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

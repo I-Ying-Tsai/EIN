@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Bob Mankoff, New Yorker cartoon editor #JeSuisCharlie http://t.co/dK40qynqvu",
+        "user id": 49595583,
+        "tweet id": "552832019940376576",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Brilliant! “@dhamini: Bob Mankoff, New Yorker cartoon editor #JeSuisCharlie http://t.co/5oJPDL1VDQ”",
+            "user id": 24042166,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@dhamini This we must never ever have.... despite everything been done to control our minds",
+            "user id": 1672834058,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@dhamini @kathleenogrady It may be topical at the moment, but it's a Yom Kippur cartoon from September 2012. http://t.co/irgpzS1StK",
+            "user id": 375108451,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@denis_babin @kathleenogrady That's right. True for all times, really.",
+            "user id": 49595583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@dhamini @DamidotValerie http://t.co/Tg22FnIJl8",
+            "user id": 1336054994,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@dhamini: Bob Mankoff, New Yorker cartooneditor #JeSuisCharlie http://t.co/jIBOA2R5yp @davidchang @dannybowien @alexatala @VirgilioCentral",
+            "user id": 1186771656,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@dhamini: Bob Mankoff, New Yorker cartoon editor #JeSuisCharlie http://t.co/etVii4XfU3”",
+            "user id": 314694276,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@dhamini. i guess, very enjoyable indeed. see nothing, read nothing, say nothing. for peace.",
+            "user id": 44586529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

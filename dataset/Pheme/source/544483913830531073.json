@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Just found an explanation of the #illridewithyou hashtag that has came from the Sydney hostage situation- very moving http://t.co/St4BAEcqP0",
+        "user id": 19865053,
+        "tweet id": "544483913830531073",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT #illridewithyou @rolandscahill: http://t.co/jqMoM1awLP”",
+            "user id": 2342418574,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Good on you, #Sydney. Beautiful response to racism in #illridewithyou: via @rolandscahill http://t.co/WpqVrJsbge",
+            "user id": 14888362,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@rolandscahill @HichkasOfficial",
+            "user id": 1662116768,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @rolandscahill via @BeautyBind …explanation of the #illridewithyou hashtag…from the Sydney hostage situation http://t.co/mUvJBVbYPD",
+            "user id": 65992273,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@rolandscahill Roland thank you. It's important in these times to know a hashtag is not always just a hashtag.",
+            "user id": 149751818,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@BeautyBind very well said!",
+            "user id": 19865053,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@rolandscahill Started by @sirtessa @KStreetJournal",
+            "user id": 1688161231,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@rolandscahill Congrats on your 250★ tweet! http://t.co/nlYVNM3Qlh",
+            "user id": 404460410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@rolandscahill Saying a Muslim is bad because some Muslims are mean Christians are bad because some Christians are. Your choice. Be an ally",
+            "user id": 255242666,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@rolandscahill I love Sydney! \nDeclare love proudly, wear this movement together today --&gt; http://t.co/Ps12ajbOm7 \n\n#illridewithyou #peace",
+            "user id": 786589926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

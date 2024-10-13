@@ -1,0 +1,197 @@
+{
+    "source": {
+        "content": "It is worth remembering that most boat people are fleeing the same extremists we are fighting in the Middle East #sydneysiege",
+        "user id": 206979151,
+        "tweet id": "544430900235075584",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JulianBurnside Don't try and put a good and clean side to it pal, Islam is the end of the individual human mind.",
+            "user id": 57271359,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@JulianBurnside \nIt's worth remembering that some of them are the same extremist we are fighting in the Middle East #sydneysiege",
+            "user id": 1343325901,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7,
+                8,
+                9
+            ],
+            "content": "@justsayingDMY @JulianBurnside there's no evidence to back up your claim.",
+            "user id": 265936127,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JulianBurnside Good point.",
+            "user id": 378420614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@JulianBurnside yes just we allowed the extremists in !",
+            "user id": 1600261771,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "And they are no longer welcome. Its time we end your vitriol. Referendum NOW! @JulianBurnside",
+            "user id": 1227227953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@DanWosHere @KGendale @JulianBurnside how come they return to fight with them then.  People like you are the reason yesterday happened",
+            "user id": 301219529,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@Senor_Goat @JulianBurnside \nI guess you haven't heard of Mohammad Ali Baryalei then?",
+            "user id": 1343325901,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [],
+            "content": "@Senor_Goat @JulianBurnside \nBut instead of engaging in debate and potentially learning something you block...\n🐓",
+            "user id": 1343325901,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [],
+            "content": ". @Senor_Goat @justsayingDMY @JulianBurnside Baryalei, Monis and many other ISIS ilk here in asylum. A dead policy. We dont want it!",
+            "user id": 1227227953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@VelourBeanbag @KGendale @JulianBurnside are you saying yesterday's terrorist attack was Aus' fault?",
+            "user id": 1227227953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 6,
+            "children": [
+                13
+            ],
+            "content": "@VelourBeanbag @DanWosHere @JulianBurnside &lt; Yes this blokes ready It seems he look after terrorists He doesn't mind GETS PAID HEAPS #joke",
+            "user id": 1373648552,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@DanWosHere @KGendale @JulianBurnside who you talking to. My comment was not at you",
+            "user id": 301219529,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@KGendale @DanWosHere @JulianBurnside take away the free aide and these people would disappear",
+            "user id": 301219529,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

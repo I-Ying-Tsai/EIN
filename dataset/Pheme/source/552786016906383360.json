@@ -1,0 +1,194 @@
+{
+    "source": {
+        "content": "BREAKING: Paris: 10 dead in attack on satirical paper that poked fun at Mohammed http://t.co/4qqVIjLP8A #CharlieHebdo http://t.co/kqQecEWknq",
+        "user id": 367709007,
+        "tweet id": "552786016906383360",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ynetnews more from the 'religion of peace'...u mean piece of shxt",
+            "user id": 2909294196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@docrose_rose @ynetnews its a religion of piece piece..",
+            "user id": 221783224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ynetnews And this surprises approximately........no-one",
+            "user id": 457276178,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ynetnews cc @geetaSkapoor",
+            "user id": 550854560,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@SecularTrainee  i know they r coverin up so thers no anti islam backlash",
+            "user id": 1030493862,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ynetnews Terror attack",
+            "user id": 2209535899,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": ".@ynetnews Not sure. There's another suspect: http://t.co/cS6PLrMKed",
+            "user id": 1162651273,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@ofehr_en very sure (listen to shouting in videos). probably nuts returning from isis holly war.  @ynetnews",
+            "user id": 337948866,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ynetnews Extremism and Terrorism has no place in Islam #ParisAttack https://t.co/CukDPguk0U \nhttp://t.co/0m0hV86weU",
+            "user id": 361135947,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ynetnews there is place in Islam who kill any people...and who not give respect any religon",
+            "user id": 945524334,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ynetnews With The Happy Family less Amsterdam Jihadists fighters’ abroad. http://t.co/43MOBjtnk6",
+            "user id": 2384915342,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@geetaSkapoor yes",
+            "user id": 550854560,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [
+                13
+            ],
+            "content": ".@bugiriba @ynetnews those are all assumptions at this point...",
+            "user id": 1162651273,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@ofehr_en http://t.co/KewgMPdzqe @ynetnews",
+            "user id": 337948866,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

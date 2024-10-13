@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "Protests continue at the QT #ferguson https://t.co/qF2N92L9Zn",
+        "user id": 7768402,
+        "tweet id": "500296369224310784",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly / As they should !!!!",
+            "user id": 559705005,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly I am pleased with the way the state police officers are handling the process",
+            "user id": 450991824,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @HuffPostPol Apparently it was what he was about, as witnesses confirmed he stole the box of cigars",
+            "user id": 2376893806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ryanjreilly @HuffPostPol \nTruth so absent as media blamed cop as going out of his way to kill innocent teen just out for a walk falsely",
+            "user id": 537670884,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                14
+            ],
+            "content": "@SonnyOfTheMeek @ryanjreilly @HuffPostPol  The fault there lies with the police, for not releasing information Still no info in the shooting",
+            "user id": 15567054,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @HuffPostPol Innocent until proven guilty. Yes it applies to police officers also.",
+            "user id": 90888044,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly American fascism on the rise.",
+            "user id": 163127567,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @HuffPostPol Fools, causation, assault &amp; battery during a commission of a robbery, resisting arrest, assault of a cop? nothing?",
+            "user id": 2322365414,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @HuffPostPol as they should wish I where there as well",
+            "user id": 41502226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly The deceased was not dressed in the same clothing as the person in those images.",
+            "user id": 1455101366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": ".✨‼️✨ RT @ryanjreilly: \"Protests continue at the QT #ferguson https://t.co/nZ4Wfxrru5”",
+            "user id": 176399599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@ryanjreilly: Protests continue at the QT #ferguson https://t.co/YenWzAi9kV”!!!!",
+            "user id": 23640024,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly Are people in Ferguson confirming that the man in the surveillance photo is Mike Brown?",
+            "user id": 18344104,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "Ayo @_M_Pulse follow @ryanjreilly justice report bro.",
+            "user id": 28152305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 4,
+            "children": [],
+            "content": "@sheshechic @ryanjreilly @HuffPostPol \nIn the heat of this moment facts are slow, on all sides truth and lie blend into MEDIA coverage.",
+            "user id": 537670884,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

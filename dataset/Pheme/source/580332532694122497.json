@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Our thoughts are with the families and friends of those aboard the Germanwings flight 9525",
+        "user id": 64672345,
+        "tweet id": "580332532694122497",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@eurocontrol Vous pensez que c'est du au tour de controle???",
+            "user id": 91792892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@eurocontrol: Our thoughts are with the families and friends of those aboard the Germanwings flight 9525”",
+            "user id": 477584557,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Reports now that 2nd shooter has been shot in downtown Ottawa #ottnews",
+        "user id": 27917781,
+        "tweet id": "524947416869388288",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@newhot899 #ottnews",
+            "user id": 141776971,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@newhot899 good!!! 👌",
+            "user id": 27715962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@newhot899 live news just reported cops yelling at people to run. Must be a third shooter!",
+            "user id": 28229857,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

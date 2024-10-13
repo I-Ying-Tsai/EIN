@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Police sniper pointing weapon at unarmed civilians. That’s nice. #Ferguson",
+        "user id": 386815916,
+        "tweet id": "499700213792387073",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PaulSzoldra @allanbrauer This is what they went to the academy for",
+            "user id": 82682487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PaulSzoldra The military weapons should not be utilized by police at a peaceful protest. Or any protest",
+            "user id": 57567739,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@PaulSzoldra @goldietaylor #KentState waiting to happen",
+            "user id": 155681507,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@ReeAnders @PaulSzoldra @goldietaylor my thoughts exactly.",
+            "user id": 28025132,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PaulSzoldra @ced1 they just micd they have the right to protest lol as their stormtroopers look on",
+            "user id": 448043662,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PaulSzoldra @volatilitysmile Why do US SWAT teams feel the need to dress up in camo? Is it a special ‘blends in to crack dens’ pattern?",
+            "user id": 18720999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

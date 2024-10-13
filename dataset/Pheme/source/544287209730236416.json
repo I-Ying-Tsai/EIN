@@ -1,0 +1,136 @@
+{
+    "source": {
+        "content": "Sydney Opera House evacuated, concourse deserted http://t.co/NMbuLCimKV #SydneySiege (via @cberkman) http://t.co/QYlOU0REVw",
+        "user id": 1855737487,
+        "tweet id": "544287209730236416",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "😖“@BuzzFeedOz: Sydney Opera House evacuated, concourse deserted http://t.co/bEqFEtNmJP #SydneySiege (via @cberkman) http://t.co/NnyX8Z52xj”",
+            "user id": 154474107,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@UPboy_05 @frondolino @BuzzFeedOz @cberkman metti pic a cax pr far scomparire il twitt su @serracchiani che chiamasti ruttino ritardato?",
+            "user id": 448438495,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuzzFeedOz: Sydney Opera House evacuated, concourse deserted http://t.co/73enod6usF #SydneySiege (via @cberkman) http://t.co/vy8Ae746vg” 😨",
+            "user id": 20952653,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@BuzzFeedOz @TFG411 @cberkman My heart and prayers go out to the good people of Sydney and Australia. 🇺🇸 #nyc",
+            "user id": 405229960,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "“@CarolGoldin1: @BuzzFeedOz @TFG411 @cberkman My heart and prayers go out to the good people of Sydney and Australia. 🇺🇸 #nyc” Amen. 🙏",
+            "user id": 20952653,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuzzFeedOz: Sydney Opera House evacuated, concourse deserted http://t.co/8Nt4CruU5J #SydneySiege (via @cberkman) http://t.co/SshP5HDC5r”",
+            "user id": 125323374,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @TrotAlex @cberkman \nHope they rescue the hostages. .and fry the islamutards.",
+            "user id": 2317689248,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "RT @BuzzFeedOz: Sydney Opera House evacuated, concourse deserted http://t.co/WKGomJjW6y #SydneySiege (via @cberkman) http://t.co/R2vkWqrcuN”",
+            "user id": 15175943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@BuzzFeedOz @DaddyJim52 @cberkman \nThe cost of terrorism, NUKE IRAN TO HELP STOP THIS.",
+            "user id": 730216224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@StarliteGrunt Really want to stop it? Bomb Mecca! Level it. @BuzzFeedOz @cberkman",
+            "user id": 27005310,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

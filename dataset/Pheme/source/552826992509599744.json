@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "12 people have been confirmed dead in attack on French satire magazine #CharlieHebdo: http://t.co/VzRHTuAfCp",
+        "user id": 45564482,
+        "tweet id": "552826992509599744",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NYMag http://t.co/45SrwrjCb0",
+            "user id": 1503342588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "This is insane “@NYMag: 12 people have been confirmed dead in attack on French satire magazine #CharlieHebdo: http://t.co/IOacoYhkSq”",
+            "user id": 22716008,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nymag At least 12 killed in shooting at office of French satirical: http://t.co/dTrEfTWyLp #paris Charlie Hebdo",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@NYMag: 12 people have been confirmed dead in attack on French satire magazine #CharlieHebdo: http://t.co/YlDMJ230xR” Its always \"gunMEN\"",
+            "user id": 2342458375,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "No words. “@NYMag: 12 people have been confirmed dead in attack on French satire magazine #CharlieHebdo: http://t.co/8ADjOWiw7r”",
+            "user id": 109139624,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                10
+            ],
+            "content": "@stacecake yeah.",
+            "user id": 17619453,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@NYMag @JuddApatow prayers for France! USA SUPPORTS FREEDOM OF THE PRESS!",
+            "user id": 517656712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@NYMag @JuddApatow I accidentally watched officer executed. How do I rewind and delete what I saw? I'm so traumatized.",
+            "user id": 116387248,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Disgusting “@NYMag: 12 people have been confirmed dead in attack on French satire magazine #CharlieHebdo: http://t.co/KxrEWEvBAj”",
+            "user id": 323028468,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@NYMag: 12 people dead in attack on French satire magazine #CharlieHebdo: http://t.co/8TjoBntHGj” terrible. suppression of expression.",
+            "user id": 117282335,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 5,
+            "children": [],
+            "content": "@LizzlesPizzles :/",
+            "user id": 109139624,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

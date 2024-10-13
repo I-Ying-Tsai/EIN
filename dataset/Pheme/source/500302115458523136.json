@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#Ferguson police once charged a man with property damage because his blood got on their uniforms when they beat him.\nhttp://t.co/vceyBKQgwv",
+        "user id": 246682858,
+        "tweet id": "500302115458523136",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CousinDangereux @stillgray the kicker was they actually lied about the blood",
+            "user id": 26442756,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CousinDangereux Kinda like the whale suing Jonah for food poisoning after he ate him.  \n*shakes head*",
+            "user id": 2173093381,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Jesus, I saw this in my feed and thought it was a joke. This is Orwellian. http://t.co/2tLGSKETGJ (from @CousinDangereux)",
+            "user id": 245063923,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

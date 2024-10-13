@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "#4U9525: #Hollande expresses his solidarity to families of #Germanwings crash victims http://t.co/XTMaa9mAV2 http://t.co/LwWifZXb5X",
+        "user id": 64643056,
+        "tweet id": "580331121180844032",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com really sad _ we live our lives without knowing what could be happen nxt...Death is so rude!",
+            "user id": 2353127840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com NATO is conducting exercises in Evrope. Worked only one problem-the defeat of aircraft within range of enemy air defense alyansa.OK.",
+            "user id": 490188779,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@RT_com anything for the Libyan families he carpet bombed?",
+            "user id": 1694169914,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@O_Rich_ @RT_com He ? Hollande is Sarkozy ? I didn't know...",
+            "user id": 2372104719,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com \n\"I want to express to the families of victims of the air crash my solidarity. It is a grief, tragedy\" ~ Francois Hollande",
+            "user id": 20812593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Brennan's CIA responsible 4 plane Flt 320 crash cuz France German trade Russia no EU War 3 over Ukraine with Russia?",
+            "user id": 2960946279,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@cyrildelfour @RT_com Check his voting behaviour at the time.",
+            "user id": 1694169914,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

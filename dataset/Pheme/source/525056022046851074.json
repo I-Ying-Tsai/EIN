@@ -1,0 +1,67 @@
+{
+    "source": {
+        "content": "The Pittsburgh Penguins had Oh Canada sung tonight vs Philly in honour of the event in Ottawa. #class http://t.co/WSgjWNkbCK",
+        "user id": 318835344,
+        "tweet id": "525056022046851074",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@simsauce @leovecchio Great tribute.",
+            "user id": 1129729159,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "“@simsauce: The Pittsburgh Penguins had Oh Canada sung tonight vs Philly in honour of the event in Ottawa. #class http://t.co/GzqONAFdAh”",
+            "user id": 23885575,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@misterjonesmtl @simsauce it was very classy",
+            "user id": 472396127,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@misterjonesmtl @simsauce very classy move. From Philly no less. :)",
+            "user id": 23342652,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

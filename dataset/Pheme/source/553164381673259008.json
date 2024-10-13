@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "French Parliament president declares current anti-terrorism legislat° is sufficient,opposed to new laws reacting to #CharlieHebdo emotion",
+        "user id": 189118361,
+        "tweet id": "553164381673259008",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Un petit rayon de Lumiere. Merci @MaliciaRogue @okhin #CharlieHebdo",
+            "user id": 424864835,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@joel_mau @okhin rassurant, oui. Vu les conneries ambiantes sur la guerre que la France a engagée, etc.",
+            "user id": 189118361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@MaliciaRogue wouldn't happen in US or UK. Here any excuse to make things worse, and increase fear &amp; control is grabbed with little dissent",
+            "user id": 14712548,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@markhughes I know. This is one small ray of light, hopefully it'll be supported by majority.",
+            "user id": 189118361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@MaliciaRogue @Glinner That'd be because they sneaked in legislation (LPM) between Xmas and New Year's... http://t.co/7ULyymyy6e",
+            "user id": 126045734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "content": "@MaliciaRogue @Glinner sorry, subscriber only link. Look for \"Loi de Programmation Militaire\".",
+            "user id": 126045734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "+1 MT @MaliciaRogue: FR Parl President declares current anti-terrorism legislation sufficient, opposed to new laws reacting to #CharlieHebdo",
+            "user id": 14360516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "Oui c'est juste - pire que ce que nous pouvions craindre. R. Badinter a bien décrit cela hier\nhttp://t.co/Rtwb4MSAyr\n@MaliciaRogue @okhin",
+            "user id": 424864835,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "content": "@hadessuk merci mais je sais ce que c'est et chui très occupée m'a avec vincennes",
+            "user id": 189118361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

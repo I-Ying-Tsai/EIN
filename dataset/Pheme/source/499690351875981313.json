@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Demonstrators on West Florissant in #Ferguson wearing signs.  Holding hands in the air in solidarity with #MikeBrown http://t.co/8vTK96SUvT",
+        "user id": 11265832,
+        "tweet id": "499690351875981313",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FOX2now",
+            "user id": 2344665234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FOX2now http://t.co/B3x9jtTTDY",
+            "user id": 956192526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

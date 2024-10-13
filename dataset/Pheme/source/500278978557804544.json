@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "RT @Smith83K This Cartoon Says It All: via @BennettCartoons via Chattanooga Times Free Press #Ferguson #UniteBlue #KY http://t.co/TwEej9WWme",
+        "user id": 403932208,
+        "tweet id": "500278978557804544",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@UniteBlueKY @calatayud7 Truth fears nothing",
+            "user id": 2591307782,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@UniteBlueKY @Smith83K @BennettCartoons sad, but true",
+            "user id": 2399018406,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Will3K85 @UniteBlueKY @BennettCartoons https://t.co/1v9ZlTiJs4",
+            "user id": 319777415,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@UniteBlueKY @owillis @Smith83K @BennettCartoons",
+            "user id": 291477944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@UniteBlueKY @bannerite @Smith83K @BennettCartoons  such a sad statement for 2014",
+            "user id": 99135533,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@UniteBlueKY @bannerite @Smith83K @BennettCartoons The upper 1% once again has the 99% at odds with each other via poverty. @TheRealTBone",
+            "user id": 1911478922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Charge que resume RT @UniteBlueKY: RT @Smith83K via @BennettCartoons #Ferguson #UniteBlue #KY http://t.co/h4z9QzTzoa (via @millylacombe)",
+            "user id": 15830612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@UniteBlueKY @Smith83K @BennettCartoons POWERFUL👏👏💡💡🔥🔥",
+            "user id": 2473006260,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@UniteBlueKY @SlyMagellen @Smith83K @BennettCartoons Unfortunately thats the winner",
+            "user id": 111166826,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

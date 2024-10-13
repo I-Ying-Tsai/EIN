@@ -1,0 +1,192 @@
+{
+    "source": {
+        "content": "哇塞，这就是传说中的海市蜃楼吗？ 幽默搞笑大王的秒拍视频 ",
+        "time": "18-9-17 17:20",
+        "user id": "1893769523",
+        "tweet id": "GzMLrE066",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1920762390",
+            "user name": "牛人超Outman",
+            "content": "博物都辟谣了，还在发 ",
+            "time": "18-9-17 17:30",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "1893769523",
+            "user name": "搞笑行为研究所",
+            "content": "哦",
+            "time": "18-9-17 19:05",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "6601796128",
+            "user name": "爱_鼓_掌",
+            "content": "这要在炮床上，这叫声得多那啥啊…",
+            "time": "18-9-17 17:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "2472480705",
+            "user name": "奔三儿的小青年",
+            "content": "玻璃成像 博物杂志都辟谣了",
+            "time": "18-9-17 17:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "2295951693",
+            "user name": "只是一个活过的人",
+            "content": "这个玻璃质量看着不错",
+            "time": "18-9-17 17:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "1963446285",
+            "user name": "感受冬天凛冽气息的图奇",
+            "content": "叫你🐴呢？",
+            "time": "18-9-17 17:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "1821260484",
+            "user name": "万山之重",
+            "content": "我的天哪！",
+            "time": "18-9-17 17:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "2591918651",
+            "user name": "Chris丶kun",
+            "content": "最讨厌这种猪叫声",
+            "time": "18-9-18 08:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1935573921",
+            "user name": "_Sensir_",
+            "content": "你在传播谣言",
+            "time": "18-9-17 23:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1229797891",
+            "user name": "清风明O_O",
+            "content": "一眼就看出是玻璃反光好吗",
+            "time": "18-9-27 20:24",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "3448382752",
+            "user name": "夏洛特的网---yaya",
+            "content": "吓得我",
+            "time": "18-9-18 07:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "2641914671",
+            "user name": "皮蛋solo周0",
+            "content": "什么破bgm听了头皮发麻",
+            "time": "18-9-17 18:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "6362939320",
+            "user name": "不黏人的甜馨",
+            "content": "就像看到了大JB一样，惊恐又欢喜",
+            "time": "18-9-17 17:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "1801743275",
+            "user name": "Akira-秋本君驾到",
+            "content": "不是，只是我家大楼忘了开隐形模式了",
+            "time": "18-9-17 17:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

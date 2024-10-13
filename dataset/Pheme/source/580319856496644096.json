@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING: There are reports that a Germanwings Airbus A320 has crashed in the French Alps. More to come. #9News http://t.co/PfEiviM9Po",
+        "user id": 22993014,
+        "tweet id": "580319856496644096",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS Another one!",
+            "user id": 17984709,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS @9NewsSyd Great as if I need more reasons not to like flying",
+            "user id": 2721116647,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS @LauraTurner_9 LOL. Breaking.",
+            "user id": 165975771,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

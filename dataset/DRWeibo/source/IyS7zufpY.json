@@ -1,0 +1,161 @@
+{
+    "source": {
+        "content": "唉，昨天看那条意大利人唱中国国歌感谢中国人的新闻我就浑身尴尬，没料到这么快就打脸了。这种新闻的源头不知道是从哪传播来的，以后咱能不能少带点这种无知的节奏？别说谢了，不责怪就感谢God了。\n. ",
+        "time": "20-3-16 14:37",
+        "user id": "6316413417",
+        "tweet id": "IyS7zufpY",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "2145635151",
+            "user name": "丁字社",
+            "content": "查了意大利外长的推特，和华春莹的推特，我尴尬的是原来都没有。这比我觉得说带节凑的时候更尴尬",
+            "time": "20-3-16 18:54",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "6055346461",
+            "user name": "鲨鱼的邂逅",
+            "content": "宣传这个真尴尬",
+            "time": "20-3-16 15:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "3285449682",
+            "user name": "屹掌柜",
+            "content": "这个打脸新闻才是假新闻，意大利外长根本没有说这样的话。",
+            "time": "20-3-16 18:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                6,
+                9
+            ],
+            "user id": "7351637807",
+            "user name": "2點5次元阿宅",
+            "content": "有会意大利语的吗，用谷歌翻译了一下，感觉怪怪的",
+            "time": "20-3-16 15:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [],
+            "user id": "1715029323",
+            "user name": "丶十年踪迹有鱼丸",
+            "content": "@平安北京 我举报 这个人翻墙上推特",
+            "time": "20-3-21 22:50",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [
+                4
+            ],
+            "user id": "7351637807",
+            "user name": "2點5次元阿宅",
+            "content": "我发了什么假消息，我在原文里面没有看到华春莹三个字，于是我去求证了一下，并没有发现华春莹在推特发布过这个假新闻，如果我有遗漏你可以发个截图给我，我秉承着求真原则看自媒体的新闻，有什么问题吗？",
+            "time": "20-3-16 18:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "2145635151",
+            "user name": "丁字社",
+            "content": "问题你发这条消息才是假的",
+            "time": "20-3-16 18:52",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [],
+            "user id": "7351637807",
+            "user name": "2點5次元阿宅",
+            "content": "我查了一下人家根本就没法过，如果发过必有痕迹，如果你有的话麻烦发截图给我",
+            "time": "20-3-16 18:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [
+                7
+            ],
+            "user id": "5641169878",
+            "user name": "我知可",
+            "content": "已经删了，我们这几个外交官跟玩儿似的",
+            "time": "20-3-16 17:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "user id": "7351637807",
+            "user name": "2點5次元阿宅",
+            "content": "我搜了一下并没有发现华春莹又在推特上发布意大利人唱中国国歌。",
+            "time": "20-3-16 15:40",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

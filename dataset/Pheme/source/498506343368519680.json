@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "So last week NYPD tried to tell us that #EricGarner wasn't in a chokehold, now #Ferguson police telling us #MikeBrown assaulted the officer",
+        "user id": 23831448,
+        "tweet id": "498506343368519680",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision Even if it were true (which it almost definitely isn't), that's no excuse to execute #MikeBrown in the street.",
+            "user id": 19407682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision @zellieimani They telling us lies on this Sunday",
+            "user id": 1062128766,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

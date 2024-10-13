@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "From inside Martin Place newsroom we can see gunman is rotating hostages, forcing them to stand against windows, sometimes 2 hours at a time",
+        "user id": 246130881,
+        "tweet id": "544392801836728321",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "MT @ChrisReason7 we can see gunman is rotating hostages, forcing them to stand against windows, sometimes 2 hours at a time  #SydneySiege",
+            "user id": 33332251,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @7NewsSydney what is going on? Honestly wierd. Looks like a protest im a form of hostages.",
+            "user id": 2531741394,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@ChrisReason7 ... He's been trained.",
+            "user id": 487125241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@PMenken @ChrisReason7 Doesn't take a genius to see people getting tired. I don't think the cops should let this guy be tweeting this.",
+            "user id": 2285933645,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@PMenken @ChrisReason7 Could it be that the choice of a venue across from a tv station was a bit more than coincidence? He brought a flag.",
+            "user id": 2285933645,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @7NewsMelbourne one hostage has been holding up the flag up against the window for 8 hours",
+            "user id": 396529853,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 What if he's watching your tweets? What if there's a tv in the cafe? Maybe this is a good time for the kill switch.",
+            "user id": 2285933645,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 jesus :(",
+            "user id": 556429441,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 Thank you for your update",
+            "user id": 157144684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @HarrietBaldwin  pardon the pun but that sounds like a #TortureReport!",
+            "user id": 57356987,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 inhuman creatures these terrorists",
+            "user id": 120698898,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7  Wait til the new anti terror laws get rushed through under the radar . This is something govts love.",
+            "user id": 141859698,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 Can u pl send us your no so that we can contact u for inside info...n ol some more nos of eye witnesses...",
+            "user id": 75576446,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @7NewsSydney holding the flag?thats humiliation",
+            "user id": 353147411,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @7NewsSydney am pray for them , Jesus Healp them 🙏",
+            "user id": 2402658073,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "source": {
+        "content": "Charlie Hebdo killers are dead. Sources say they are not in Paradise.",
+        "user id": 33519870,
+        "tweet id": "553588053348843520",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Ghè :-) “@cjwerleman: Charlie Hebdo killers are dead. Sources say they are not in Paradise.”",
+            "user id": 24665933,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cjwerleman Any casualties in the market?",
+            "user id": 2559436158,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@cjwerleman @LibyaLiberty good silly cunts",
+            "user id": 278684255,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@cjwerleman @LibyaLiberty plus there ain't a paradise",
+            "user id": 278684255,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "True story “@cjwerleman: Charlie Hebdo killers are dead. Sources say they are not in Paradise.” #fb",
+            "user id": 486989690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cjwerleman @alexsandels Even if they were, must be such a boring paradise, I don't want it !",
+            "user id": 276200059,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cjwerleman too bad... Wanted to learn more about their motivators and influencers.",
+            "user id": 2172677811,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "\"@cjwerleman: Charlie Hebdo KILLERS DEAD Sources say they are not in Paradise.\r\rNOOOOO\rTHEY R IN PARADISE\r\rFUCKKIN\r\r72\r\rVIRGIN HOORS",
+            "user id": 180610640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                10
+            ],
+            "content": "@raja33m @cjwerleman no virgins, only goats",
+            "user id": 932498976,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@raja33m @cjwerleman http://t.co/J2Z3Kmg3Dc",
+            "user id": 2370662504,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "\"@EvelineMemaj: @raja33m @cjwerleman \r\rno virgins, only goats\"\r\r\rOk \rOk\rOk\r\rVIRGIN GOATS\r\rTHAT'S IT.\r\rALLAH HU BAKHAAD",
+            "user id": 180610640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@raja33m @cjwerleman hahaha :-D",
+            "user id": 932498976,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

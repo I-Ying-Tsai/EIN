@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "Shooting investigation going on for more than 3 hours. Much of downtown Ottawa still in lockdown: http://t.co/alz6qu6Mca #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524977992683237376",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa I'm told that all the bridges into #Ottawa from West Quebec are closed.  Can you confirm ?",
+            "user id": 117237568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ckanal @CBCOttawa what is happening with game tonight has the @NHL made a decision yet?",
+            "user id": 114897118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@Sabres_Frog @CBCOttawa @NHL postponed per the League",
+            "user id": 15964196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@ckanal @CBCOttawa @NHL just got it from NHL app. Updated phone software and my phone went wonky! Needs a time out!",
+            "user id": 114897118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

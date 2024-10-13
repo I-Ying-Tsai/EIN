@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Approximate translation: \"Freedom of expression is spilling ink, not shedding blood.\" #JeSuisCharlie http://t.co/eC2DR9a1tb",
+        "user id": 807242,
+        "tweet id": "552838440103198720",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "MT \"@GwydionS: ...\"Freedom of expression is spilling ink, not shedding blood.\" #JeSuisCharlie http://t.co/AWG8yAjEZM” #cninow",
+            "user id": 2242381580,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@GwydionS: Approximate translation: \"Freedom of expression is spilling ink, not shedding blood.\" #JeSuisCharlie http://t.co/ADkKWvqDNp",
+            "user id": 21062446,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "JUST IN: US Consulate in Sydney issues emergency message to US citizens to \"maintain a high level of vigilance\" due to hostage situation.",
+        "user id": 28785486,
+        "tweet id": "544309283048144897",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC How Useful is Facebook, Really? https://t.co/yNxwajHSUM #FUTUREOFGOD #ENERGYOFATTRACTION",
+            "user id": 1739650556,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC calm down chill out don't panic Aussie cops are in full control. #sydneysiege #TeamStraya #AbbottLies",
+            "user id": 323076264,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @MomMilkshake WTF,  are they afraid of the religion of peace?   All they need do is shout #HandsUpDontShoot &amp; if blk #BlackLivesMatter",
+            "user id": 29914322,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ABC @2gunz11 wish a motherfucker would",
+            "user id": 1388688583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@TheDieseI @ABC I will light a goat on fire if a motherfucker decides to fuck with an American",
+            "user id": 1498760984,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Maintain a high level of vigilance but you cant do shit in Aussieland with no firearms mate. Get strapped.",
+            "user id": 2281350912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABC: U.S. Consulate in Sydney issues emergency message to US citizens to “maintain a high level of vigilance” due to hostage situation.",
+            "user id": 15861899,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "P's &amp; Q's America! @ABC @rtv6",
+            "user id": 232080325,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC I'm praying for the hostages in Sydney. The violence needs to stop in the world. #lovenothate Please let this be over with soon.",
+            "user id": 2781968155,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

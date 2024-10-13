@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "The Prophet ﷺ was insulted &amp; hit by stones, till his body was covered in blood. Yet he forgave them, and prayed for them. #CharlieHebdo",
+        "user id": 182593031,
+        "tweet id": "552836968410021888",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@raztweets allahumma salli ala sayidina Muhammad! Beautiful reminder",
+            "user id": 2582018642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "The incident at #CharlieHebdo is unacceptable by any standard. Prophet ﷺ guided with mercy and forgiveness, and so should all of us.",
+            "user id": 182593031,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@raztweets @guidedheart may ALLAH AZ WA JAL guide all the those who have lost their way. May ALLAH have Mercy on humankind, Aameen",
+            "user id": 2571359396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@raztweets then who wrote sura etttawaba?????????? You probably reading a corrupt Quran bro",
+            "user id": 253694498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@raztweets show us where it says \"muhummad forgave them and prayed for them\". Muhummad approved of pregnant women being slain for less.",
+            "user id": 484240369,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@raztweets “she used to slander &amp; defame you a great deal, so I went &amp; got a dagger which I thrust into her stomach,” http://t.co/FGqjZUflVP",
+            "user id": 484240369,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@raztweets serious q, have you the read story of K'ab bin Ashraf?",
+            "user id": 1120011516,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@AhmafFayaz @raztweets Ameen. Ameen.",
+            "user id": 243346931,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

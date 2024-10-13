@@ -1,0 +1,766 @@
+{
+    "source": {
+        "content": "今天海盐市有人晒充气娃娃 警车和救护车都去了。 ",
+        "time": "20-2-4 15:18",
+        "user id": "1810440244",
+        "tweet id": "IsDS2Eef9",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "3560034787",
+            "user name": "时间她不说话-",
+            "content": "这不是充气娃娃吧",
+            "time": "20-2-4 15:31",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "1810440244",
+            "user name": "Rodes",
+            "content": "？",
+            "time": "20-2-4 16:03",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "5014579626",
+            "user name": "DespicAbleee",
+            "content": "对啊我也觉得不是，你看她的手",
+            "time": "20-2-4 17:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6
+            ],
+            "user id": "6271181515",
+            "user name": "笨笨小涣熊",
+            "content": "图片评论 ",
+            "time": "20-2-4 15:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "6286742631",
+            "user name": "放逐YJJ",
+            "content": "人家是嘉兴女自杀 此微博都已经打假了",
+            "time": "20-2-9 13:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "user id": "6271181515",
+            "user name": "笨笨小涣熊",
+            "content": "害...我也错乱...动也不动姿势也完全不像真人...",
+            "time": "20-2-4 21:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "user id": "6271181515",
+            "user name": "笨笨小涣熊",
+            "content": "emmm...就是真人...这功夫了得我也迷惑 查看图片",
+            "time": "20-2-4 18:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "2391314847",
+            "user name": "趁着不丧",
+            "content": "哈哈哈哈哈哈哈哈",
+            "time": "20-2-4 15:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "2704266723",
+            "user name": "Kokikokikoki",
+            "content": "看手抓铁丝都知道是真人。。。。。",
+            "time": "20-2-4 17:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                11
+            ],
+            "user id": "6510223181",
+            "user name": "金牌冲浪xuanshou",
+            "content": "你抓紧晒自拍吧，我等着",
+            "time": "20-2-4 17:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "6510223181",
+            "user name": "金牌冲浪xuanshou",
+            "content": "逮谁都咬？我完全没关注楼主发了什么，我就想看人家发照片动态不行？咋工地没开工没地方抬杠？？？",
+            "time": "20-2-9 23:57",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "user id": "6286742631",
+            "user name": "放逐YJJ",
+            "content": "这个是真人不是娃娃  你是造谣博主的铁粉??睿智",
+            "time": "20-2-9 13:48",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "1874592884",
+            "user name": "全世界失焦",
+            "content": "@这就一个桃子啊 哈哈哈哈哈哈哈哈哈哈哈哈mmp",
+            "time": "20-2-4 15:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "3319535021",
+            "user name": "这就一个桃子啊",
+            "content": "hhhhhhh",
+            "time": "20-2-4 15:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "5650580412",
+            "user name": "三三三三啊_",
+            "content": "@可藏乌 hhhh",
+            "time": "20-2-4 15:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "3911934143",
+            "user name": "可藏乌",
+            "content": "评论说不是",
+            "time": "20-2-4 16:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "1668054132",
+            "user name": "罗罗罗思雅",
+            "content": "@饿了吃饭饭呐 哈哈哈哈",
+            "time": "20-2-4 16:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "user id": "1782808683",
+            "user name": "饿了吃饭饭呐",
+            "content": "说是真人 一小姑娘和家人吵架已劝回",
+            "time": "20-2-4 16:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "1668054132",
+            "user name": "罗罗罗思雅",
+            "content": "",
+            "time": "20-2-4 16:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "6504392033",
+            "user name": "Bruncc",
+            "content": "？？",
+            "time": "20-2-4 15:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5936289610",
+            "user name": "未完结的冬",
+            "content": "给我逗笑了",
+            "time": "20-2-4 15:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "2636603374",
+            "user name": "水之城的秘密",
+            "content": "海盐是县",
+            "time": "20-2-4 19:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "2168112340",
+            "user name": "未醒z",
+            "content": "看脚脖子啊",
+            "time": "20-2-4 18:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "6057911548",
+            "user name": "鬼蛄",
+            "content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+            "time": "20-2-4 15:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "5751676994",
+            "user name": "砚戈",
+            "content": "这..是充气娃娃吗？",
+            "time": "20-2-4 15:35",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "7314306573",
+            "user name": "乌鱼崽子",
+            "content": "我本来是来吃瓜的，没想到看到这么有意思的微博",
+            "time": "20-2-4 15:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "2758303581",
+            "user name": "茶山小超人",
+            "content": "？？？",
+            "time": "20-2-4 15:28",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "6291223345",
+            "user name": "成都大吉",
+            "content": "@王员外 这个",
+            "time": "20-2-4 15:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "6029131095",
+            "user name": "stepuncle",
+            "content": "笑死",
+            "time": "20-2-4 15:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "1716602685",
+            "user name": "llDONGSHI",
+            "content": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+            "time": "20-2-4 15:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                31
+            ],
+            "user id": "5894928165",
+            "user name": "我正期待你",
+            "content": "哈哈哈哈哈哈哈哈哈",
+            "time": "20-2-4 15:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": 30,
+            "children": [],
+            "user id": "6286742631",
+            "user name": "放逐YJJ",
+            "content": "建议你跳楼吧  别人是自杀",
+            "time": "20-2-9 13:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "6290636330",
+            "user name": "麟曦-",
+            "content": "嘉兴南湖区的",
+            "time": "20-2-4 17:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "3923787699",
+            "user name": "猪哥哥的梦",
+            "content": "图片评论 ",
+            "time": "20-2-4 17:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "6477639059",
+            "user name": "最好的人在生活中是免费的",
+            "content": "gdjsinsjdbssksjsj",
+            "time": "20-2-4 16:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "5026343711",
+            "user name": "午夜降临之前抵达",
+            "content": "p1充气娃娃还会扶东西🐴？",
+            "time": "20-2-4 15:42",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "5724801276",
+            "user name": "糯米汤圆菠萝油",
+            "content": "海盐县 晕",
+            "time": "20-2-4 15:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "5014579626",
+            "user name": "DespicAbleee",
+            "content": "从你这条微博我真的知道了什么叫 张嘴就来。",
+            "time": "20-2-4 17:18",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "5721152000",
+            "user name": "剁椒辣不麻",
+            "content": "不是海盐的....嘉兴南湖区的.... ",
+            "time": "20-2-4 16:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "5989193254",
+            "user name": "熙熙和攘攘_",
+            "content": "海盐市，市？??",
+            "time": "20-2-4 15:48",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "2933411077",
+            "user name": "是个迷妹哦",
+            "content": "66",
+            "time": "20-2-5 23:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "1861032474",
+            "user name": "四惠东_王老星",
+            "content": "晒女友2.0",
+            "time": "20-2-5 03:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "1634455701",
+            "user name": "彻悟空",
+            "content": "再不删除老子举报你",
+            "time": "20-2-4 21:50",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "user id": "1608253352",
+            "user name": "新嵊大小事",
+            "content": "据了解，是电子社区一个小姑娘因为和家人口角，一时想不开坐在了阳台外。通过小姑娘家人以及街道、社区、消防和派出所的共同努力，小姑娘最终被成功劝回房间。后续已经安排老师、卫生院医生和社区干部在做疏导安抚，情况平稳解决。",
+            "time": "20-2-4 19:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "user id": "2320725295",
+            "user name": "名字重复太多了",
+            "content": "这不是海盐",
+            "time": "20-2-4 18:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [],
+            "user id": "3412646894",
+            "user name": "在看什么阿",
+            "content": "海盐啥时候成市了 造谣生事",
+            "time": "20-2-4 17:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [
+                47,
+                48,
+                49,
+                50,
+                51,
+                52,
+                53,
+                54
+            ],
+            "user id": "6449071777",
+            "user name": "爱是极乐",
+            "content": "@夜色失火",
+            "time": "20-2-4 15:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": 46,
+            "children": [],
+            "user id": "5796938373",
+            "user name": "错觉航线",
+            "content": "二月四号三点五十五。我点开之后就退出去了哈",
+            "time": "20-2-9 14:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": 46,
+            "children": [],
+            "user id": "5796938373",
+            "user name": "错觉航线",
+            "content": "好了 谢谢您。对这个女孩和她的家属我感到很抱歉",
+            "time": "20-2-9 14:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 49,
+            "parent": 46,
+            "children": [],
+            "user id": "6286742631",
+            "user name": "放逐YJJ",
+            "content": "自己搜一下嘉兴跳楼 人家是嘉兴跳楼女孩!",
+            "time": "20-2-9 13:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 50,
+            "parent": 46,
+            "children": [],
+            "user id": "6286742631",
+            "user name": "放逐YJJ",
+            "content": "这个微博是造谣的  再点这个微博都是官方不实了",
+            "time": "20-2-9 13:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 51,
+            "parent": 46,
+            "children": [],
+            "user id": "5796938373",
+            "user name": "错觉航线",
+            "content": "你有病吧 不是说了充气娃娃",
+            "time": "20-2-9 13:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 52,
+            "parent": 46,
+            "children": [],
+            "user id": "6286742631",
+            "user name": "放逐YJJ",
+            "content": "你们俩还是人吗 笑别人自杀的女孩?是嘉兴自杀而不是什么海盐娃娃",
+            "time": "20-2-9 13:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 53,
+            "parent": 46,
+            "children": [],
+            "user id": "6449071777",
+            "user name": "爱是极乐",
+            "content": "不好笑吗",
+            "time": "20-2-4 15:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 54,
+            "parent": 46,
+            "children": [],
+            "user id": "5796938373",
+            "user name": "错觉航线",
+            "content": "？",
+            "time": "20-2-4 15:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [
+                56
+            ],
+            "user id": "2152804247",
+            "user name": "live1nth1smomenttttt",
+            "content": "@_Crystaltalalal @马里奥在这里呀",
+            "time": "20-2-4 15:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 56,
+            "parent": 55,
+            "children": [],
+            "user id": "5714556674",
+            "user name": "磨叽大王补裤裆",
+            "content": "真人",
+            "time": "20-2-4 16:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "user id": "7385641950",
+            "user name": "W十七1997",
+            "content": "是认真的嘛😂",
+            "time": "20-2-4 15:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [],
+            "user id": "7040387256",
+            "user name": "长天人",
+            "content": "",
+            "time": "20-2-4 15:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 22,
+            "state_1": 16
+        },
+        "2-hop": {
+            "state_0": 13,
+            "state_1": 6
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

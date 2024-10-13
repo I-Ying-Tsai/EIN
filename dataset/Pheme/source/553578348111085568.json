@@ -1,0 +1,90 @@
+{
+    "source": {
+        "content": "\"Female Islamist terrorist\" attacks Paris Jewish store. As a woman, she has equal rights only when it comes to murdering nonbelievers.",
+        "user id": 458992712,
+        "tweet id": "553578348111085568",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@DavidBCohen1 Equal opportunity jihad. All races, all sexes as long as no homo.",
+            "user id": 1632592740,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@jn_mec @DavidBCohen1 not all religions...",
+            "user id": 1362125210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@DavidBCohen1 @NeelakshiGswm Wonder what she will get when she gets to paradise? 72 pubescent boys?",
+            "user id": 434746640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@JithuG2  Yes, that provision is recently added. I am trying to develop/sell 'blue pills\" for women. @DavidBCohen1 @NeelakshiGswm",
+            "user id": 2400473821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@DavidBCohen1. And why did you block me Mr. Freedom of speech? Coz I said there was no holocaust? Haha. Enough of your Jewish dirty ass.",
+            "user id": 51665166,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@DavidBCohen1.. Lol. Cry aloud for right of freedom of speech you Jewish swine. http://t.co/IrdVDSOUBr",
+            "user id": 51665166,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

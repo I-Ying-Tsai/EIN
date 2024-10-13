@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "A terrorist attack in Sydney.\nA major police operation is under way in Sydney, Australia.\nhttp://t.co/XpJSqGJzn8 http://t.co/rdMiU10SNI",
+        "user id": 63604619,
+        "tweet id": "544297331906973696",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nilessh_desai @bela25_bela its all over , sud hv updated...!",
+            "user id": 2620807651,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nilessh_desai @mahesh86571554 its all over ji Indians r safe ji.",
+            "user id": 2620807651,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

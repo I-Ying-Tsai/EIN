@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "A co-pilot deliberately crashed the Germanwings plane killing 150 people yet \"there was no indication that it is an act of terrorism\"? Pftt!",
+        "user id": 375562803,
+        "tweet id": "581266400192307200",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@angelpakaigucci paling teruk pon depa akan cakap co-pilot tu ada masalah mental. Never a terrorist",
+            "user id": 1085755400,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@angelpakaigucci  they dont want to scare anyone by saying that word \"Terrorism\"",
+            "user id": 60303243,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

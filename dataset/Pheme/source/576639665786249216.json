@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Ok, we ask ourselves where is #Putin. But the question should be: \"Where is #Russia?\" Russian people must be scared, now. #putindead",
+        "user id": 230067026,
+        "tweet id": "576639665786249216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@edmonten they still have patriarch kirill",
+            "user id": 2827853416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@edmonten La Russia è nel futuro prossimo. Ha patti con Cina e India. Intese avanzate con i Paesi americani. Europa morirà serva degli Usa.",
+            "user id": 2761738287,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "OMG. #Prince rumoured to be performing in Toronto today. Exciting!",
+        "user id": 1245158946,
+        "tweet id": "529695367680761856",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheSocialCTV Yes indeed !",
+            "user id": 22968385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheSocialCTV I saw Prince in concert 2 years ago in halifax and honestly, was the most boring concert ever! Was so disappointed",
+            "user id": 132026934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TheSocialCTV Love Prince, he was my first concert!! #PRINCEWATCH",
+            "user id": 513184839,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TheSocialCTV #birthdaygirl #prince  it's my Birthday ohhhh I would love to see my all time fav ❤️❤️❤️please get me in!",
+            "user id": 430880741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@TheSocialCTV Where??? #Prince",
+            "user id": 424393523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@BabiesBaubles @TheSocialCTV Massey Hall tix 10$? #Prince",
+            "user id": 421780681,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TheSocialCTV I want tickets so bad!",
+            "user id": 370779284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@akrred @TheSocialCTV That's insane! I love Prince but there's no way I can get babysitting so last minute :(",
+            "user id": 424393523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

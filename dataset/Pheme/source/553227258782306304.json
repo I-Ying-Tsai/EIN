@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "So heartbroken for France...thinking of all my French friends across the sea today #JeSuisCharlie http://t.co/LkRSIyVsCC",
+        "user id": 42972818,
+        "tweet id": "553227258782306304",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE Merci x",
+            "user id": 294215708,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "\"@CHARLENEKAYE : So heartbroken for France...thinking of all my French friends across the sea today #JeSuisCharlie http://t.co/LDs7z9Wzqu\"",
+            "user id": 1881103472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@CHARLENEKAYE Merci",
+            "user id": 1881103472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE Merci Charlene!",
+            "user id": 431035566,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE Merci #JeSuisCharlie",
+            "user id": 100597514,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@charlenekaye Merci.x",
+            "user id": 1250376673,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE merci #JeSuisCharlie",
+            "user id": 62588754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE",
+            "user id": 35972883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@CHARLENEKAYE Merci. #NousSommesCharlie",
+            "user id": 206838120,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@MissPeSawyer @CHARLENEKAYE NousSommesCharlie Commencez à regarder pour cet été =&gt; http://t.co/dhw8FdwD6c",
+            "user id": 1377583728,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "Very impressed with the art statement. @CHARLENEKAYE  Well done Sister. Blessed with many trips to FR. http://t.co/ussRo0GjUw",
+            "user id": 433728338,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE Well illustrated. Freedom of press will ALWAYS rise from the ashes.Long live Charlie hebdo",
+            "user id": 2737018487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE @SaraCarterDC amen, even a broken pencil can still write #JeSuisCharlie",
+            "user id": 61735353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@CHARLENEKAYE This is a tribute honoring the Charlie Hebdo magazine staff #JeSuisCharlie #CharlieHebdo http://t.co/JyFiqxh9L9",
+            "user id": 1963598808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 12,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

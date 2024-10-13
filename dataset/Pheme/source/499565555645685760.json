@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "RT @bonedog84: Over 50 people have been arrested in #Ferguson.\n\nNone of them is the cop who shot that boy 10 times in cold blood.",
+        "user id": 15727317,
+        "tweet id": "499565555645685760",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Oh MT @aterkel RT @bonedog84: Over 50 ppl have been arrested in #Ferguson.\nNone of them is the cop who shot that boy 10 times in cold blood.",
+            "user id": 339686238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@aterkel @bonedog84 he wasn't shot TEN times. Stop making the independent media look bad.",
+            "user id": 85338921,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@aterkel @bonedog84 Stop playing judge and jury for 5 seconds and find a place to buy a clue.",
+            "user id": 1554738476,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@aterkel @bonedog84 \nAs @djhmt5 said, you are part of the problem.",
+            "user id": 2499910057,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@aterkel @bonedog84 bc an investigation is still ongoing? Holy shit people are dumb",
+            "user id": 35595025,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@aterkel: RT @bonedog84: Over 50 people have been arrested in #Ferguson.\nNone of them is the cop who shot that boy 10 times in cold blood.”",
+            "user id": 306337537,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@aterkel @bonedog84 media dnt say \"group of people protesting for justice\" it says \"rioting domestic terrorists\" http://t.co/fp2HzrWkjk",
+            "user id": 44373743,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 6
+        }
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "source": {
+        "content": "So now let's talk seriously about #CharlieHebdo and Western double standard on freedom of speech http://t.co/tBswsVydnF",
+        "user id": 893836951,
+        "tweet id": "553138330557108224",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MaanImranKhan Didn't #CharlieHebdo also depict Jesus &amp; God? Who cares, what excuse can there possibly be for assassination over a drawing?",
+            "user id": 19906027,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@MaanImranKhan you do realise that #CharlieHebdo drew Jewish cartoons as well don't you. It's just nobody was murdered in the process.",
+            "user id": 322122819,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@MaanImranKhan here is an anti Jewish cartoon by the paper. Nobody was killed and freedom of speech was maintained. http://t.co/Z38qSsOhcq",
+            "user id": 322122819,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@MaanImranKhan: So now let's talk seriously about #CharlieHebdo and Western double standard on freedom of speech http://t.co/qcXNMrTooD”",
+            "user id": 235579782,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@jabir_INK nobody shot anybody for this cartoon \n\nhttp://t.co/QJXtMXxmln \n\nStill think there's a double standard? @MaanImranKhan",
+            "user id": 404123500,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@MaanImranKhan:  #CharlieHebdo and Western double standard on freedom of speech http://t.co/thSN2XEkg0”Simple as that 🙅🙅🙅🙅🙅🙌🙌",
+            "user id": 1069173019,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "With the #Germanwings tragedy, try to remember Captain Patrick Sonderheimer, who tried to kick down the door and save the plane.",
+        "user id": 91466927,
+        "tweet id": "581254429996920832",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@silencewedge we also need to think of all the rescue workers who are risking their own lives .",
+            "user id": 156955508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@AustralianDude spot on. lots of people helping.",
+            "user id": 91466927,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@silencewedge @deirdresm My mind has been replaying his desperate horror since I first read the news.",
+            "user id": 767858,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@silencewedge Germanwings A320's crash? http://t.co/yTA3Ed3qyh",
+            "user id": 88238377,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

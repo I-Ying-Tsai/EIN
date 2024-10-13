@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING: Heavily armed police look to be storming the Lindt Café. #SydneySiege #9News",
+        "user id": 171802941,
+        "tweet id": "544511112654618624",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@9NewsSyd: #BREAKING: Heavily armed police look to be storming the Lindt Café. #SydneySiege #9News”",
+            "user id": 38979348,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @NickBryantNY What I've just watched live at 2.30am is incredible television.  I was in the edge of my seat. I hope everyone is Ok",
+            "user id": 279694818,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @stephen_taylor Operation #ThatsNotAKnive #ThisIsAKnive",
+            "user id": 2525225821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

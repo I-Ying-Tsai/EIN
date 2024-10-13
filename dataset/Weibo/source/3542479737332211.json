@@ -1,0 +1,166 @@
+{
+    "source": {
+        "content": "⚠转发: 帮忙转一下，一名北京三中的学生，叫谢露，13岁，消失几天了，他爸爸的号码是18611098634，或者18210183168，爱心接力，好友们都帮她忙转下，必有好报 。转发",
+        "user id": 1318945581,
+        "tweet id": "3542479737332211",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                4,
+                5
+            ],
+            "content": "转发微博",
+            "user id": 1806644111,
+            "user name": "马跃妈妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "",
+            "user id": 1856848404,
+            "user name": "ICO刘开明",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "[话筒]",
+            "user id": 1570695167,
+            "user name": "睡吧之谜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "大家都伸把手帮帮他们！",
+            "user id": 2808079967,
+            "user name": "半禨斋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "希望是好消息",
+            "user id": 1278140522,
+            "user name": "智天使-基路伯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "",
+            "user id": 1966078780,
+            "user name": "素黑卡卡",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "帮转",
+            "user id": 1646257100,
+            "user name": "一个人的围脖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "",
+            "user id": 2472331131,
+            "user name": "孙月沐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "转发微博，真伪自验。",
+            "user id": 2721791713,
+            "user name": "乐亭籍进步青年",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "这消息是假的，请您删博！",
+            "user id": 1889459592,
+            "user name": "雪季里雪莉",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "转发微博",
+            "user id": 2626827015,
+            "user name": "西风过不留痕",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "",
+            "user id": 2920126470,
+            "user name": "保佑奥茨玛公主1985",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

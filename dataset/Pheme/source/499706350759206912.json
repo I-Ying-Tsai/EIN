@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "The #STL SWAT team has weapons drawn in #Ferguson at a protest in broad daylight with media attending http://t.co/celyFEoB9I",
+        "user id": 341908197,
+        "tweet id": "499706350759206912",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "\"@occupythemob The #STL SWAT team has weapons drawn in #Ferguson at a protest in broad daylight with media attending\" yo but.............nvm",
+            "user id": 239279033,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob Ferguson SWAT lock &amp; load ready on firing line! So frigging sad! Instead of fix problem make more problems &amp; dead people! :-(",
+            "user id": 443044262,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob Will our own neighbors shoot with deadly force? #StLouis its time for Federal Assistance.",
+            "user id": 79228319,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob This is NOT the kind of policing we want or need in America.",
+            "user id": 49449357,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@occupythemob @DabAggin looks like one of those Bundy Ranch thugs.",
+            "user id": 1639395961,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@EthanObama Right? And we know the only thing separating Bundy ranch folk from these guys is a few community college classes. @occupythemob",
+            "user id": 2548070796,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "All this shit for a non violent protest. #ThisIsAmericaNow  «@occupythemob The #STL SWAT team has ... http://t.co/bIFzctXjVV",
+            "user id": 31261735,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob War against ppl and Nobel winner Obama is just doing shit!Follow the money and control...totalitarian tiptoe..",
+            "user id": 2449589828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob I would draw weapons too if I had a bunch of vandals and savages running about looting Quickmarts and burning down buildings",
+            "user id": 1005263809,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob http://t.co/at3kZ89dh8",
+            "user id": 1005263809,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob @PrisonReformMvt so they intend to machine gun peacefully protesting civilians? Who is in control here? Insanity",
+            "user id": 239139578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "US tactical forces intervening on Mt. Sinjar! Oops! I mean cops in #Ferguson! via @occupythemob @PrisonReformMvt http://t.co/2of02CK31B",
+            "user id": 69259701,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "“@occupythemob: The #STL SWAT team has weapons drawn in #Ferguson at a protest in broad daylight with media attending http://t.co/waVgnUYvGU",
+            "user id": 381723687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@Sownd9721 @occupythemob Is that really swat or is it other agencies Velcro badges apply easily",
+            "user id": 2723456510,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

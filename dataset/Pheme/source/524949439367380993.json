@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#OttawaShooting police say they are investigating 3 shootings, one at War Memorial, one on Parliament Hill and one near Rideau Centre",
+        "user id": 126486040,
+        "tweet id": "524949439367380993",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@ErinAnderssen: police are investigating 3 shootings, one at War Memorial, one on Parliament Hill and one near Rideau Centre",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@erinanderssen",
+            "user id": 813184597,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ErinAnderssen @saleemkhan awful news for people who don't deserve such unusual occurrences there! Sad visitor",
+            "user id": 17614860,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

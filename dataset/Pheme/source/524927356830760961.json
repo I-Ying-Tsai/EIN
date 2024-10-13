@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING news: Shots fired at Parliament Hill. Follow developing story: http://t.co/3k0YV9dfLq http://t.co/atLjT75nz0",
+        "user id": 8736882,
+        "tweet id": "524927356830760961",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: #BREAKING news: Shots fired at Parliament Hill. Follow developing story: http://t.co/K9dVVTcBDb http://t.co/3o0RqSwfWO”",
+            "user id": 131629525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: #BREAKING news: Shots fired at Parliament Hill.” Stay away from #ParliamentHill &amp; stay safe #Ottawa",
+            "user id": 589749291,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail can you spread the word to the rest of your competitors to not give up any info on he positions and on police doings. Plz!!!",
+            "user id": 419202838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

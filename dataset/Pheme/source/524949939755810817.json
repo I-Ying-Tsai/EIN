@@ -1,0 +1,106 @@
+{
+    "source": {
+        "content": "Praying for everyone in Ottawa right now",
+        "user id": 336899029,
+        "tweet id": "524949939755810817",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Monahan20 what happened???? 😟",
+            "user id": 2533742293,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@radtyra @Monahan20 parliament hill and surrounding areas are under attack after 3 shootings",
+            "user id": 2559369792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Monahan20 @BauerHockey #PrayForOttawa us.",
+            "user id": 727947757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": "@leahflame @Monahan20 oh my god, I'm from Alberta so I didn't know but prayers to everyone!",
+            "user id": 2533742293,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@radtyra @Monahan20 im in alberta too",
+            "user id": 2559369792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@leahflame @Monahan20 Edmonton !!",
+            "user id": 2533742293,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

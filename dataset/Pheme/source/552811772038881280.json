@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Hours before the attack, #CharlieHebdo published a cartoon featuring the Islamic State: http://t.co/Jfqmha1GdV (epa) http://t.co/yeWyZxIdHH",
+        "user id": 15754281,
+        "tweet id": "552811772038881280",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY So? Still no excuse or justification whatsoever for this!!",
+            "user id": 359013156,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY \nISLAMIC SCHOLARS SHOULD COME FORWARD TO END 'JIHAD' !\nIT IS INHUMAN &amp; WOULD DESTROY THE CREDIBILITY OF ISLAM !",
+            "user id": 256358298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY also had a LONG history of anti israel cartoons... http://t.co/utxR9fha9E",
+            "user id": 325234656,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY remember \"Piss Christ?\" and all those Christian attacks..... Anyone denying Islam is far from peaceful is stupid, lying or both.",
+            "user id": 28201964,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Still that shouldn't be an excuse.God never said kill for me #CharlieHebdo #ParisShootings",
+            "user id": 526774128,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY So basically if you print a cartoon of islam they get pissed off and shoot people for cartoons? and they call themselves humans?",
+            "user id": 1534712844,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY looks like US media is scared &amp; distance themselves from Charlie.",
+            "user id": 2612126299,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Inside job?This attack had to have been planned for longer than A few hours #CharlieHebdo",
+            "user id": 747289232,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@USATODAY: Hours before the attack, #CharlieHebdo published a cartoon on the Islamic State: http://t.co/7cMtNriIqV http://t.co/w5n5C08tL9",
+            "user id": 20882772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@edwardluz @USATODAY not hours before the attack. Has been some time.",
+            "user id": 81142305,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "#Putin a person with so much power in his hands a cold can cause a national panic  http://t.co/1clCLvUHyz #putindead http://t.co/0Z0vZl5mbb",
+        "user id": 52003080,
+        "tweet id": "576855835445428225",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@raging545 i'd like to believe Putin swims with fish! Would be the best thought for the world! Don't you agree?",
+            "user id": 22481834,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": ".@Beleafer1 @KiyankaSydney @raging545 \n\"Putin swims with fish!\" http://t.co/hWrchYDvAx",
+            "user id": 30375180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 LOL. Let's hope #Putin has achieved room temperature.",
+            "user id": 2540434758,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@HarveyEsq I didn't mean above water!",
+            "user id": 22481834,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

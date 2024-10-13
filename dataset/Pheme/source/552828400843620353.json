@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "FM #Steinmeier on #CharlieHebdo attack: Abominable act of terror against the free+critical press is an outright assault on European values.",
+        "user id": 453030125,
+        "tweet id": "552828400843620353",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GermanyDiplo genau",
+            "user id": 2956012174,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@germanydiplo @osfjustice  this is an attack on humanity as well.",
+            "user id": 167791259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GermanyDiplo  This behavior is not acceptable in civilised society",
+            "user id": 227257941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@GermanyDiplo but #Merkel thinks there isn't a problem with all these Muslims in eu well she and most other politicians are wrong #pegida",
+            "user id": 983149818,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@GermanyDiplo: #CharlieHebdo attack: Abominable act of terror against the free+critical press is an outright assault on European values.”",
+            "user id": 2356127598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "source": {
+        "content": "Calling all journalists covering #MikeBrown #Ferguson FREE coffee/Wifi if you need a place to work! @AntonioFrench http://t.co/mn8W44Ov7z",
+        "user id": 1468696195,
+        "tweet id": "499586890837016579",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RiseCoffeeSTL @DavidSTLhss @AntonioFrench Corner Coffee House in Ferguson has great coffee as well for journos who don't mind paying it fwd",
+            "user id": 1380641492,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RiseCoffeeSTL @jaymelee1 @AntonioFrench Good to finally see something classy coming out of all this. Even if it's just free coffee.",
+            "user id": 1433784817,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "That's pretty awesome! @RiseCoffeeSTL @ray_alexander_ @AntonioFrench",
+            "user id": 25244789,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@RiseCoffeeSTL @WaterIsAliv1111 @AntonioFrench beautiful",
+            "user id": 328263690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@_idgaFEZ @RiseCoffeeSTL @AntonioFrench Hell Yeah Media is the Fourth Branch of Government time for us to Rise Up like a Phoenix",
+            "user id": 2342999576,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@_idgaFEZ @WaterIsAliv1111 @AntonioFrench Word. Time to rise up STL.",
+            "user id": 1468696195,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RiseCoffeeSTL That just earned y'all a follow. And a customer next time I'm in town.",
+            "user id": 18154472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RiseCoffeeSTL @AntonioFrench Thank you!! I can only imagine how much this is being appreciate. #CommunityAndCoffee",
+            "user id": 2303982482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

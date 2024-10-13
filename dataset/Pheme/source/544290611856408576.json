@@ -1,0 +1,189 @@
+{
+    "source": {
+        "content": "#Sydney airspace closed, Sydney Opera House evacuated as hostage drama unfolds. #ISIS-style flag seen. http://t.co/OP22NFi99f",
+        "user id": 19038934,
+        "tweet id": "544290611856408576",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Sydney's airspace isn't closed. Incorrect reports.",
+            "user id": 16753407,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @CBCAlerts: #Sydney airspace closed, Sydney Opera House evacuated as hostage drama unfolds. #ISIS-style flag seen. http://t.co/iyfoaWReZm",
+            "user id": 50791051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@CBCAlerts praying, for the situation",
+            "user id": 2400727014,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@DogNose4 @CBCAlerts that should help. Religion is the cause of all this shit",
+            "user id": 341862843,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: #Sydney airspace closed, Sydney Opera House evacuated as hostage drama unfolds. #ISIS-style flag seen. http://t.co/iSm0B6DXR7”",
+            "user id": 287321052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Shit, hope the only fatalities would be the hostage takers",
+            "user id": 339847349,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Do you need to mention ISIS? they dont deserve ANY media attention, you only encourage them.",
+            "user id": 512627961,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Check your sources: reports airspace NOT closed. Possibly TFR over CBD.",
+            "user id": 191281511,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: #Sydney airspace closed, Sydney Opera House evacuated as hostage drama unfolds. #ISIS-style flag seen. http://t.co/qknYJejbSr”",
+            "user id": 553593104,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@CBCAlerts Where is Trudoh and his parkas",
+            "user id": 2205121861,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@hotdogluver2 @CBCAlerts and a couple of Shrinks while we're at it. Nothing a good talk won't cure.",
+            "user id": 2803669124,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Can we use the word \"incident\" instead of \"drama\" when innocent lives are at stake? Drama is what killers seek. @mattgallowaycbc",
+            "user id": 76976905,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts vishhh",
+            "user id": 185863189,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: @Meika_Mashack Sydney Opera House evacuated as hostage drama unfolds. #ISIS-style flag seen. http://t.co/LkWa40EXl8”",
+            "user id": 772326630,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Should not be claiming \"ISIS-style\" flag. Islamist does not mean IS. Can we not propagate unsubstantiated claims yet.",
+            "user id": 247204494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

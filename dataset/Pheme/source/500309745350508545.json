@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "*IF* the report was written same day as the shooting, as bungling as #Ferguson cops have been, we're to believe they had #MikeBrown's name?",
+        "user id": 119972954,
+        "tweet id": "500309745350508545",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ReignOfApril exactly April, that's why those witnesses should have stayed mute, those clowns were creating their reports to match witnesses",
+            "user id": 16686075,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ReignOfApril  You are right . Could be obstruction of justice, planting evidence, a felony, if this was backdated.  If so, arrest them.",
+            "user id": 62549306,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ReignOfApril store owner and robbery witness ID'd Brown. They prob had this info within hours",
+            "user id": 223215618,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ReignOfApril doesn't matter. Being a *suspect* or even being guilty doesn't justify the policeman's action. #unjustified",
+            "user id": 16335148,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ReignOfApril Oh my god. What imbeciles.",
+            "user id": 21525759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "RT @ReignOfApril: *IF* the report was written same day as the shooting, we're to believe they had #MikeBrown's name?",
+            "user id": 32773428,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@MJCB_Junky @ReignOfApril  Also:  \".....on Tuesday Chief Jackson told me Brown was not being stopped in...\"   http://t.co/kTOjJ1MLPw",
+            "user id": 489596897,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ReignOfApril But r we viewing the original or the supplemental report? It's dated Aug 11. I'm confuse. I thought we were viewin supp nt org",
+            "user id": 1287436104,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@ReignOfApril @brownandbella shouldn't there have also been a warrant for his arrest out if their story was true?",
+            "user id": 65443340,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@PisceanLuva @brownandbella Not for Brown because it all happened in the same day, but why not for Johnson?",
+            "user id": 119972954,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

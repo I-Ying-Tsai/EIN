@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "The #Ferguson police chief confirmed the stop of #MikeBrown had absolutely nothing to do with the alleged convenience store robbery.",
+        "user id": 16150136,
+        "tweet id": "500359312447787009",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@tonymess This pisses me off to a level I can't adequately describe.",
+            "user id": 46475021,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@tonymess @joelcurrier which is even more alarming for him to gun down #MikeBrown #Ferguson",
+            "user id": 79481809,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@tonymess @stltoday so why was it released??",
+            "user id": 21108548,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@RevKeithVessell @stltoday His answer was \"because the press asked for it.\" Not much of an answer considering how much info he sat on.",
+            "user id": 16150136,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@tonymess @stltoday i could see him thinking that's what the stop was about and why the officer didn't pull his weapon from the start.",
+            "user id": 2727163350,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@tonymess The reason he stopped them doesn't matter if they didn't do what the cop said and fought the cop that ignited the shooting",
+            "user id": 68282489,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@tonymess Being mad about why they were stopped is silly being mad about how being stopped led to his death is my problem",
+            "user id": 68282489,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@tonymess @RevKeithVessell @stltoday to try to convince the public and media he was a violent thug to justify what was done",
+            "user id": 18136238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,636 @@
+{
+    "source": {
+        "content": "#山东高铁晚点#淄博·淄博站今天恢复正常了吗？不知道我7点53的车能正常从淄博出发吗？@淄博火车站  @铁路济南站  ",
+        "time": "18-8-9 07:07",
+        "user id": "5979367683",
+        "tweet id": "GtN4Xzeas",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "user id": "3529301787",
+            "user name": "Hans_thor",
+            "content": "你是G176吗我在潍坊站 应该是不存在了",
+            "time": "18-8-9 07:11",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "5431899681",
+            "user name": "y心头好",
+            "content": "继续等吧",
+            "time": "18-8-9 10:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [
+                1
+            ],
+            "user id": "3529301787",
+            "user name": "Hans_thor",
+            "content": "是不需要但是一直往后拖很难受",
+            "time": "18-8-9 10:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [
+                2
+            ],
+            "user id": "5431899681",
+            "user name": "y心头好",
+            "content": "潍坊不是始发站吗？不是不需要经过昌邑嘛",
+            "time": "18-8-9 09:42",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 4,
+            "parent": 6,
+            "children": [
+                3
+            ],
+            "user id": "3529301787",
+            "user name": "Hans_thor",
+            "content": "没有前两班都有消息了",
+            "time": "18-8-9 09:08",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "5979367683",
+            "user name": "毒德味儿大师",
+            "content": "改顺风车了",
+            "time": "18-8-9 08:44",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [
+                4,
+                5
+            ],
+            "user id": "5431899681",
+            "user name": "y心头好",
+            "content": "你的G176动了吗？",
+            "time": "18-8-9 08:44",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "user id": "3529301787",
+            "user name": "Hans_thor",
+            "content": "+1",
+            "time": "18-8-9 08:30",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [],
+            "user id": "5266387487",
+            "user name": "隔壁老张家的小王呀",
+            "content": "同176，不停运就谢天谢地",
+            "time": "18-8-9 08:22",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 0,
+            "children": [],
+            "user id": "5033240026",
+            "user name": "怪萌主",
+            "content": "同176  热死了",
+            "time": "18-8-9 07:47",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 0,
+            "children": [],
+            "user id": "5658289812",
+            "user name": "·CloudResponse·",
+            "content": "哭了 我的g4172 也在潍坊",
+            "time": "18-8-9 07:38",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "5979367683",
+            "user name": "毒德味儿大师",
+            "content": "我的G1208今天上午能不能走？谁在的帮我看看",
+            "time": "18-8-9 07:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "1780534730",
+            "user name": "hhzb_ljy",
+            "content": "晚点未定",
+            "time": "18-8-9 07:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "5979367683",
+            "user name": "毒德味儿大师",
+            "content": "真没想到山东高铁这么落后，不仅没有形成纵横网格，一场暴雨就现出假高铁原形，与经济大省的地位极不匹配",
+            "time": "18-8-9 07:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15,
+                16
+            ],
+            "user id": "5979367683",
+            "user name": "毒德味儿大师",
+            "content": "谁在车站呢？拍一张最新的时刻表看看有没有发车动态",
+            "time": "18-8-9 07:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "5241088714",
+            "user name": "全国退堂鼓冠军呀",
+            "content": "竟然有车进来了",
+            "time": "18-8-9 07:28",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [],
+            "user id": "5241088714",
+            "user name": "全国退堂鼓冠军呀",
+            "content": "我在",
+            "time": "18-8-9 07:27",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "5979367683",
+            "user name": "毒德味儿大师",
+            "content": "看来只能约顺风车了",
+            "time": "18-8-9 07:24",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                20,
+                21,
+                23,
+                25
+            ],
+            "user id": "5658289812",
+            "user name": "·CloudResponse·",
+            "content": "走不了 我今天的g4172 现在还没有从潍坊发 晚点未定",
+            "time": "18-8-9 07:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 20,
+            "children": [],
+            "user id": "5658289812",
+            "user name": "·CloudResponse·",
+            "content": "还没到潍坊站呢……不过已经检票了 还没来车",
+            "time": "18-8-9 08:47",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 18,
+            "children": [
+                19
+            ],
+            "user id": "5025461556",
+            "user name": "叶济秀816",
+            "content": "车子现在在哪里？我在济南西",
+            "time": "18-8-9 08:46",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": 18,
+            "children": [],
+            "user id": "3529301787",
+            "user name": "Hans_thor",
+            "content": "但愿吧😂我们已经想走了",
+            "time": "18-8-9 08:33",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": 23,
+            "children": [],
+            "user id": "5658289812",
+            "user name": "·CloudResponse·",
+            "content": "好像 快了",
+            "time": "18-8-9 08:32",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 23,
+            "parent": 18,
+            "children": [
+                22
+            ],
+            "user id": "3529301787",
+            "user name": "Hans_thor",
+            "content": "同车同站",
+            "time": "18-8-9 08:30",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 24,
+            "parent": 25,
+            "children": [],
+            "user id": "5658289812",
+            "user name": "·CloudResponse·",
+            "content": "嗯 我在潍坊站",
+            "time": "18-8-9 07:40",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": 18,
+            "children": [
+                24
+            ],
+            "user id": "2461369314",
+            "user name": "那年的小小七",
+            "content": "G4172现在还在高密附近停靠",
+            "time": "18-8-9 07:40",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [
+                27,
+                28
+            ],
+            "user id": "6268498686",
+            "user name": "拐个弯遇到小幸运",
+            "content": "6003也晚了",
+            "time": "18-8-9 07:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": 26,
+            "children": [],
+            "user id": "3264882993",
+            "user name": "DoJaaaa",
+            "content": "同样6003已经晚到十一点半了",
+            "time": "18-8-9 08:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 28,
+            "parent": 26,
+            "children": [],
+            "user id": "6268498686",
+            "user name": "拐个弯遇到小幸运",
+            "content": "确定十一点半能开车吗？已经出站准备转乘大巴了，求回复",
+            "time": "18-8-9 09:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "2244087372",
+            "user name": "_小朱朱zhu",
+            "content": "6051同样晚点，真是要疯",
+            "time": "18-8-9 07:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "3202687262",
+            "user name": "o沉迷发呆无法自拔的矮酱o",
+            "content": "大概不能 4点多到青州的车现在还没到",
+            "time": "18-8-9 07:09",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "5266387487",
+            "user name": "隔壁老张家的小王呀",
+            "content": "1268的准备从淄博走了1208应该快了",
+            "time": "18-8-9 11:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "5537030466",
+            "user name": "卡佩拉就是力量",
+            "content": "并不能",
+            "time": "18-8-9 11:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "3295151502",
+            "user name": "蜜桃乌龙多加冰灬",
+            "content": "不能",
+            "time": "18-8-9 11:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "5280443272",
+            "user name": "萧莫衡",
+            "content": "铁路上没说是因为什么晚点吗",
+            "time": "18-8-9 09:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "3094702337",
+            "user name": "短尾梨花猫",
+            "content": "啥情况？到底发生了啥",
+            "time": "18-8-9 08:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "6517112367",
+            "user name": "薛宁大明白",
+            "content": "不能",
+            "time": "18-8-9 08:18",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "6564638240",
+            "user name": "流着泪说斟酒",
+            "content": "晚点未定 一些动字头的 开始办理退票了",
+            "time": "18-8-9 08:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "6626639608",
+            "user name": "用户6626639608",
+            "content": "想太多",
+            "time": "18-8-9 08:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "2695180031",
+            "user name": "theGreatRen",
+            "content": "现在在潍坊，还是晚点",
+            "time": "18-8-9 07:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "5402688340",
+            "user name": "要风给你瓢泼大雨",
+            "content": "已经退票 别想了",
+            "time": "18-8-9 07:42",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "3679859304",
+            "user name": "阿尼乎乎",
+            "content": "怎么回事啊，线路坏了吗",
+            "time": "18-8-9 07:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "6268498686",
+            "user name": "拐个弯遇到小幸运",
+            "content": "为什么不能走也没人说一下",
+            "time": "18-8-9 07:31",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "user id": "5241088714",
+            "user name": "全国退堂鼓冠军呀",
+            "content": "火车现在全部晚点未定，估计今天能到就好",
+            "time": "18-8-9 07:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "user id": "2102759022",
+            "user name": "Tissa相信",
+            "content": "继续晚点，还是查查再来吧，车站等车中",
+            "time": "18-8-9 07:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [],
+            "user id": "5664203229",
+            "user name": "我爹他儿子可好了",
+            "content": "走不了，我在6001 已经晚点一个半小时了",
+            "time": "18-8-9 07:24",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "user id": "2429365435",
+            "user name": "袖里小青",
+            "content": "走不了的",
+            "time": "18-8-9 07:23",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 15
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 10
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

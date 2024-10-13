@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "When Parenting Feels Like a Fool's Errand: On the Death of Michael Brown: http://t.co/HrVKxjM3RR #MikeBrown #Ferguson http://t.co/tT0lYR8yCB",
+        "user id": 32178047,
+        "tweet id": "498530946338258944",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "The photos &amp; this essay are brutal and incredible. MT @slb79: On the Death of Michael Brown: http://t.co/BZyvHIYLjO #MikeBrown #Ferguson",
+            "user id": 15140806,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@slb79 @JessicaValenti Thank you Ms. Brown. It is important to share ourselves. Grateful for your talent to put theses things into words.",
+            "user id": 2405083308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@thinky_thinks Thank you for reading it.",
+            "user id": 32178047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@slb79 excellent piece. I shared on twitter and FB.",
+            "user id": 20060332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@kroger1205 thank you for reading and sharing.",
+            "user id": 32178047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@slb79 So powerful.  Thank you.",
+            "user id": 1230365502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@kmsheps Thank you for reading and sharing.",
+            "user id": 32178047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@slb79 @sonyahuber Thank you for writing this. I hope many read it.",
+            "user id": 2297391770,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@elizscarboro @sonyahuber Thank *you* for reading it.",
+            "user id": 32178047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@slb79 Thank you. Very, very good.",
+            "user id": 891930438,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@slb79 @addhdgamer Thank you Ms Brown. You put tears in my eyes. My heart goes to you and your little one.",
+            "user id": 1262480016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@roof_mama @addhdgamer thank you for reading and caring.",
+            "user id": 32178047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@slb79 @addhdgamer ♥ thank YOU for writing and sharing",
+            "user id": 1262480016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

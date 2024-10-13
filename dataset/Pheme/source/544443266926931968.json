@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Sydney siege: Australians use Twitter to counter Islamophobia - http://t.co/ROz2rrD4fa #illridewithyou http://t.co/jHRkpuEmas",
+        "user id": 14697575,
+        "tweet id": "544443266926931968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@News24 #illridewithyou #BarackObama",
+            "user id": 2547648431,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@News24 ...I support Australia against the war of terror!they are not afraid to approach the problem and clean their country!...",
+            "user id": 2450733016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@News24 overreacting just because Australia NEVER get terrorism",
+            "user id": 497771286,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

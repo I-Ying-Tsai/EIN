@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Police shootout ends 16-hour siege in Martin Place. #sydneysiege http://t.co/OoutIlaTo6",
+        "user id": 16675569,
+        "tweet id": "544516530160300032",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@smh The Sydney Cafe Siege is a horrific and condemnable incident that has nothing to with any religion including Islam.",
+            "user id": 41395813,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Maxood @smh It's hard to believe that when Islam openly embraces lying and falsehood as key doctrines.",
+            "user id": 636147584,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

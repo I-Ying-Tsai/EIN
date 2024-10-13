@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "#CharlieHebdo will print 1 million copies next week http://t.co/9rN03AJrO9 http://t.co/7W21oQBHTO",
+        "user id": 16012783,
+        "tweet id": "553222048924049408",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "✊“@thedailybeast: #CharlieHebdo will print 1 million copies next week http://t.co/XACZeyjyax http://t.co/hS4kR8xOt8”",
+            "user id": 52369879,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast YES",
+            "user id": 1134734004,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast I am not Charlie, I\nam #Ahmed the dead cop. Charlie\nridiculed my faith and culture and I\ndied defending his right to do so",
+            "user id": 171393117,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast",
+            "user id": 32168892,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast good!!",
+            "user id": 32168892,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@thedailybeast @franceinlondon @FrenchRadioLdn Charlie Hebdo must go ONLINE too 4 the French abroad &amp; all the Charlies  ! #JeSuisCharlie RT",
+            "user id": 606412111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

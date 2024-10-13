@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "My thoughts are with all the people on the missing Germanwings flight and their families!",
+        "user id": 333568300,
+        "tweet id": "580330064384028673",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@thejensie: My thoughts are with all the people on the missing Germanwings flight and their families!” WHAT? IM FLYING WITH THEM TOMORROW😩",
+            "user id": 20681857,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thejensie not MISSING but crashed......",
+            "user id": 74464008,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@thejensie: My thoughts are with all the people on the missing Germanwings flight and their families!” So sad RIP for all the lost people.",
+            "user id": 2759465505,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thejensie and also the Malaysian plane they still haven't found, a year later. Maybe aliens, the ones who hv Amelia Earhart.",
+            "user id": 608635711,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

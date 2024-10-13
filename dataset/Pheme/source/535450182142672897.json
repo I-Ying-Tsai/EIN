@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "Former top judge thinks #Nazi-stolen art 'belongs in a museum' #indianajones #Gurlitt #Germany http://t.co/kqyjtGun9r http://t.co/xNxGpg7RAQ",
+        "user id": 21397917,
+        "tweet id": "535450182142672897",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheLocalGermany Very good article. Watch our film @vimeo and find out how complicated this is though. https://t.co/0ZmvC5x4Bg",
+            "user id": 383743288,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@TheLocalGermany Museums great for burying things for \"experts\" to gloat over. State funded collector's.",
+            "user id": 20003443,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@wiganshale er... whereas private collectors let people in to have a gander any time they want?",
+            "user id": 195699945,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@tombarfield true but at least I don't pay for their pleasure. As a philistine, I prefer a nice photo  to half a cow in formaldehyde",
+            "user id": 20003443,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

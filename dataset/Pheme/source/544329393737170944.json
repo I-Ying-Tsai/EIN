@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "This is the exclusion zone currently in place in Sydney's CBD. http://t.co/qbMIVC5VJv #SydneySiege http://t.co/YoPxvVXLZV",
+        "user id": 9609632,
+        "tweet id": "544329393737170944",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#Australia\n@australian: Exclusion zone currently in place in #Sydney's CBD\nhttp://t.co/qdzLBUqHKO\n#SydneySiege\nhttp://t.co/uAKgOsBA8D",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@australian Sydney SWAT needs a good sniper...nail that THUG and mop up the floor with that rag he is waving around",
+            "user id": 465790247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

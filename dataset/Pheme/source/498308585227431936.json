@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "This is not okay. #Ferguson http://t.co/hb3jH6GfAt",
+        "user id": 902200087,
+        "tweet id": "498308585227431936",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CassandraRules This happens so much, May'be new laws or prosicution of police officers for incompitence, may help. @whitehouse @lisamdaigan",
+            "user id": 1746746816,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CassandraRules no1 will be held accountable for this Makes me furious that police kill civilians, the ppl they swear to \"serve n protect\"",
+            "user id": 877103983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CassandraRules This is not ok!! My husband is black and works in Ferguson.  I will now fear for his life because of these racist policemen!",
+            "user id": 2148496332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CassandraRules @OpFerguson so sad for him, I'm outraged right now at the shooter",
+            "user id": 902817020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

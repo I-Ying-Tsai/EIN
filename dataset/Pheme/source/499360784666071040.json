@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "The police* are the occupying army in the black colony. - Huey Newton #Ferguson police #MichaelBrown http://t.co/dWzjeIccxw",
+        "user id": 110773874,
+        "tweet id": "499360784666071040",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HalDockins I've been saying that we need to bring back the discussions about the US black population as an \"internal colony\"",
+            "user id": 543674529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HalDockins Try refraining from looting and destroying property on a nightly basis and I bet the police reduce their presence.",
+            "user id": 17969567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

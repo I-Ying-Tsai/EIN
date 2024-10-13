@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "One person shot outside Centre Block, a second wounded inside the building in Parliament Hill shooting http://t.co/zng0g0aelU",
+        "user id": 21106414,
+        "tweet id": "524926472432410625",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "\"@CTVMontreal: One person shot outside Centre Block, 2nd wounded inside the building in Parliament Hill shooting http://t.co/YaZ5ptIm5y\" &gt;:(",
+            "user id": 15992943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVMontreal @careysmithctv if @JustinTrudeau reacts same as his home break in he will want full on Armed Forces assault on ISIS.",
+            "user id": 576539791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVMontreal When will Canadians wake up and realize this war on the Islamist rapist slavers is no game, no joke.  Arrest them NOW !!!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

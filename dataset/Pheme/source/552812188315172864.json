@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "The car used by armed gunmen who stormed the Paris offices of satirical newspaper #CharlieHebdo Photo D. Faget #AFP http://t.co/ZBkDglcBcE",
+        "user id": 868112707,
+        "tweet id": "552812188315172864",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AFPphoto @AFP Stolen, presumably?",
+            "user id": 359013156,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@stanleykhs75 @AFPphoto @AFP yes, stolen",
+            "user id": 2901093911,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AFP where the car is found?",
+            "user id": 343964086,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto Bigotry: The Dark Danger\nhttp://t.co/stSqMpXQgX",
+            "user id": 1653834024,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto faut vite les trouver ces FDP !",
+            "user id": 69277734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

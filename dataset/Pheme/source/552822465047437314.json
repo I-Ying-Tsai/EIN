@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Terrorists have opened fire in the Charlie Hebdo newsroom in Paris killing twelve people and wounding many others: http://t.co/qX1u3uVsGF",
+        "user id": 37675954,
+        "tweet id": "552822465047437314",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@movingpictureTV @WSJ EVERY HUMAN MUST WATCH #HinduMuslimSikhIsai #SabkaDhadkanEkHaiBhai #kiteintheoldcity \nhttps://t.co/tbvGqvPvtG",
+            "user id": 2317534914,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@movingpictureTV @WSJ #Sure 63 Drills Since 93 Where #Drill = Actual Terrorist #Attack #Waco Explosion  https://t.co/jDraBaijhj",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@movingpictureTV @WSJ Every news outlet: publish a Mo cartoon today.\nhttps://t.co/Wuu22QxVLn",
+            "user id": 587935398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

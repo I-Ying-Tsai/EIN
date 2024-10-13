@@ -1,0 +1,85 @@
+{
+    "source": {
+        "content": "Why do I see tanks in front of Moscow Mayor's office? #putinmissing",
+        "user id": 1938490717,
+        "tweet id": "576847722055131136",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RadekZyzik because you drink to much? :) https://t.co/5NzkkXLx2m",
+            "user id": 2650641349,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@innezdanie I see things and then I drink, not other way around;)",
+            "user id": 1938490717,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@RadekZyzik Crimea anniversary, I suppose.",
+            "user id": 244248746,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "content": "@damiankwiek I like to believe that there is something more behind this military presence on the Moscow streets. For Ukraine's sake.",
+            "user id": 1938490717,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@RadekZyzik Yeah, it seems to be rather wishful thinking. ;-)",
+            "user id": 244248746,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

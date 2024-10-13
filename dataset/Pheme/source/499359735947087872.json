@@ -1,0 +1,195 @@
+{
+    "source": {
+        "content": "Anonymous hacking group threatens the #Ferguson police in wake of the murder of Mike Brown --&gt; http://t.co/TqaA59wH9x http://t.co/p8VtikmeyD",
+        "user id": 16560657,
+        "tweet id": "499359735947087872",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@BET murder? No bias there. Nice to know you guys are hacks, too.",
+            "user id": 1138178221,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                14
+            ],
+            "content": "@zappin_liberals it was a murder you coward sack of shit",
+            "user id": 124361261,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BET Careful there.",
+            "user id": 31208684,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BET anon is an idea, not a \"hacking group\" fyi",
+            "user id": 628776007,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BET @Nerd_Sage @YourAnonNews is this you guys' doing?",
+            "user id": 312930637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BET just shared your tweet here: http://t.co/ZXS9p7FOFj",
+            "user id": 16529856,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BET lmaooo @bov1ce we are leguun",
+            "user id": 22445631,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BET APPEAL TO LAW ENFORCEMENT OF CONSCIENCE TO ***STAND DOWN*** #FERGUSON",
+            "user id": 1715584164,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BET My column: AN EXECUTION IN FERGUSON: http://t.co/GT917v6uMD \n#ferguson #michaelbrown #policebrutality",
+            "user id": 902528816,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BET https://t.co/BdIdMLkVgs",
+            "user id": 377440844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BET Whoa!",
+            "user id": 43377023,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BET SIC EM!!",
+            "user id": 999906110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "SM: @BET @RealDLHughley We will shut the #Ferguson PD down if they don't comply with our demands. --Anonymous http://t.co/6CUw895aDU",
+            "user id": 44369257,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@804StreetMedia DaiFresh (unsigned female rapper) - \"No Time\" OFFICIAL VIDEO : https://t.co/UfL6WtHOHL",
+            "user id": 23622065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 1,
+            "children": [],
+            "content": "@sackstick it was? And u know this how? U don't, so STFU. Cops jobs r tough enough. Give em the benefit of the doubt.",
+            "user id": 1138178221,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

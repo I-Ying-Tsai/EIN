@@ -1,0 +1,114 @@
+{
+    "source": {
+        "content": "【超6成奥运纪念品中国造】7月31日讯，根据日前伦敦奥运会官方统计，对近900项不同种类的奥运纪念品出售和生产状况进行调查发现，官方纪念品中65%、627项产自中国。而各国队服的设计者多为本国知名设计师，但生产奥运服装制造商大多来自中国和俄罗斯。",
+        "user id": 2281715664,
+        "tweet id": "3474295018100641",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "转发微博",
+            "user id": 2541882915,
+            "user name": "gogo-GREEN",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "想表达个什么？我们做的又是什么？",
+            "user id": 2647484777,
+            "user name": "笼罩潜行",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "转发微博",
+            "user id": 2689263393,
+            "user name": "青澀的時候irg",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "转发微博",
+            "user id": 2681642521,
+            "user name": "条条会sosoJOz",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2681977441,
+            "user name": "沙卡沙卡isy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "西方列强的原料产地多在第三世界国家，第三世界国家有什么可值得骄傲的吗？",
+            "user id": 2084333041,
+            "user name": "Lawrence_Gray",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "[衰]中国制造N",
+            "user id": 1915419221,
+            "user name": "Vin王议",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "made in China~",
+            "user id": 2786794292,
+            "user name": "SyFairytale",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

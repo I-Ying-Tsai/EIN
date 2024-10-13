@@ -1,0 +1,163 @@
+{
+    "source": {
+        "content": "One of the great photos of American history taken by @kodacohen.  Things much more peaceful in #Ferguson last night. http://t.co/MIoN5P9QIW",
+        "user id": 24165761,
+        "tweet id": "500231335668383744",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik @BlueDuPage @kodacohen I think this image will be used for a long time as the \"Remember when American police were barbaric\"?",
+            "user id": 49449357,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik @BlueDuPage @kodacohen And I hope people connect this barbarism with where they got their training... http://t.co/iAVUHTx45t",
+            "user id": 49449357,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@MichaelSkolnik @BlueDuPage @kodacohen #FreePalestine #ICC4Israel #BDS http://t.co/jwCbN9AtSu",
+            "user id": 49449357,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@MLKstudios @ta2t2o @MichaelSkolnik @BlueDuPage @kodacohen those poor PalestiniansBeing used ashuman shields2garner sympathy for terrorists.",
+            "user id": 301529177,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik @kodacohen man in the photo is @eyeFLOODpanties",
+            "user id": 228070052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@MichaelSkolnik @kodacohen anybody notice the bag of chips in the opposite hand lol.",
+            "user id": 244835896,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@Shutdwn_Kendall @MichaelSkolnik @kodacohen EXACTLY",
+            "user id": 380746374,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "definitely not a pleasant night @MichaelSkolnik @kodacohen",
+            "user id": 592508646,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik @kodacohen is this what it is like to know the pulitzer ahead of time?",
+            "user id": 127880271,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik another thing that makes that video great is that he's holding a bag of chips in the other hand. Lol",
+            "user id": 46617218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@AFbigred @MLKstudios @MichaelSkolnik @BlueDuPage @kodacohen not sure they all have a CHOICE in the matter. You must think they do.",
+            "user id": 43378629,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [],
+            "content": "@AFbigred @MLKstudios @MichaelSkolnik @BlueDuPage @kodacohen I suppose you think poor people can stop being poor if you tell them to as well",
+            "user id": 43378629,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

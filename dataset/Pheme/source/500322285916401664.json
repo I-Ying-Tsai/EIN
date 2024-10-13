@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Second lawsuit filed yesterday by @aclu_mo to protect #right2photograph &amp; video police public activity in #Ferguson http://t.co/yMVAOOh5xD",
+        "user id": 13393052,
+        "tweet id": "500322285916401664",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ACLU @aclu_mo Thank you for this ACLU!",
+            "user id": 21287337,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ACLU @aclu_mo thank for helping protect our rights, without @ACLU  So much more would be swept under the rug. Accountability is key.",
+            "user id": 275081105,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ACLU @aclu_mo Good!",
+            "user id": 14943778,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ACLU @BoingBoing @aclu_mo New this was coming I'm surprised that there is only 2 at this point. I'm sure there will be more to follow.",
+            "user id": 262481047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@ACLU @Sarah__Reynolds @aclu_mo Hurrah! Hurrah!",
+            "user id": 1686972506,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@ACLU @Sarah__Reynolds @aclu_mo Fiat justitia ruat caelum.",
+            "user id": 1686972506,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ACLU @aclu_mo Thank you, but these officials take an oath to uphold the constitution, correct? Violations=dismissal. #Ferguson #freepress",
+            "user id": 2736081726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

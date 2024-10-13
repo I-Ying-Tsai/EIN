@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "BREAKING - A320, owned by Lufthansa affiliate GermanWings was travelling between Barcelona and Dusseldorf when it went down in French Alps",
+        "user id": 89457976,
+        "tweet id": "580321169271877632",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@skymarkwhite @KayBurley This aircraft was in London only 2 days ago LHR-DUS Flight 4U9465",
+            "user id": 1491256332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

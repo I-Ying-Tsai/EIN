@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#CharlieHebdo - Paris media attack kills 4 cartoonists including chief editor. #AFP http://t.co/7aR1fN2hB4",
+        "user id": 868112707,
+        "tweet id": "552822696195932161",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto Nous ne les oublierons pas!Disparitions tragiques qui va encourager d'autres à prendre le relai avec plus de LIBERTÉ d'expression!",
+            "user id": 612493003,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @robindepeyer So very sad that this would happen.",
+            "user id": 889742886,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

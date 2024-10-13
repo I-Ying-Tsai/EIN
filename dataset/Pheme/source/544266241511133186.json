@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "A police operation is underway in Martin Place, Sydney's CBD. People are advised to avoid the area.",
+        "user id": 23041630,
+        "tweet id": "544266241511133186",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@nswpolice: A police operation is underway in Martin Place, Sydney's CBD. People are advised to avoid the area.”",
+            "user id": 27735195,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @nswpolice: A police operation is underway in Martin Place, Sydney’s CBD. People are advised to avoid the area.",
+            "user id": 14875436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@nswpolice: A police operation is underway in Martin Place, Sydney's CBD. People are advised to avoid the area.” Sickening",
+            "user id": 14121167,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @nswpolice: A police operation is underway in Martin Place, Sydney's CBD. People are advised to avoid the area.",
+            "user id": 187877777,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@nswpolice: A police operation is underway in Martin Place, Sydney's CBD. People are advised to avoid the area.”",
+            "user id": 372216479,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "All the best @nswpolice . A clear standoff between good and evil right now in Sydney.",
+            "user id": 96071170,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nswpolice the Australian people are behind all of you in these trying times!",
+            "user id": 2816115001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        }
+    }
+}

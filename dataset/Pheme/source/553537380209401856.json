@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING Schools near Paris hostage-taking go into lockdown: officials",
+        "user id": 380648579,
+        "tweet id": "553537380209401856",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@AFP: #BREAKING Schools near Paris hostage-taking go into lockdown: officials”",
+            "user id": 168491473,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Schools near Paris hostage-taking go into lockdown: officials”",
+            "user id": 255180467,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Schools near Paris hostage-taking go into lockdown: officials” @pieterkleinrtl",
+            "user id": 52005353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

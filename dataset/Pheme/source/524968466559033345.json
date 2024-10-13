@@ -1,0 +1,199 @@
+{
+    "source": {
+        "content": "Sending love to the people of Ottawa. Be safe everyone. xoxoxo",
+        "user id": 21362105,
+        "tweet id": "524968466559033345",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara May the good lord protect them....",
+            "user id": 1433475794,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara Thank you for that.",
+            "user id": 404986170,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara Saw the video about an hour ago, but no explanation as to what happened? So sorry! Very scary!",
+            "user id": 76799456,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara that's awful ! Thank you !",
+            "user id": 443386403,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara what happened?",
+            "user id": 627079097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara seriously what is happening with 🍁 !!!!!!!",
+            "user id": 81865915,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara So scary!",
+            "user id": 273531612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara  thanks, hoping this all blows over soon...pretty sad what happened tho 😥",
+            "user id": 2602710072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara how about malaysia ?",
+            "user id": 96973526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@teganandsara: Sending love to the people of Ottawa. Be safe everyone. xoxoxo” #CanadaStrong always!!!",
+            "user id": 42333104,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@teganandsara my niece is attending University in Ottawa. My sister is worried sick about her, so am I. Such tragic news!",
+            "user id": 2508214345,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "@KpTurtle50 @teganandsara I'm sure she'll be ok. In my thoughts!",
+            "user id": 2598484590,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@teganandsara Was up all night after Vancouver show and saw the breaking news this am. So sad. So wrong. Wishes of peace, love &amp; safety...",
+            "user id": 1377749539,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "@anonymuscwrdmtl @teganandsara I appreciate your kindness in this harsh world. Always pay it forward. Look for it and make it happen.",
+            "user id": 2508214345,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@KpTurtle50 @teganandsara 😊",
+            "user id": 2598484590,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 12,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Thinking of everyone in Ottawa this morning. Thoughts and prayers are with the solider and their family. #Canada",
+        "user id": 191692374,
+        "tweet id": "524951456362012672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@KateBeirness 🙏",
+            "user id": 2158988672,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@KateBeirness It's horrible.",
+            "user id": 469887806,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

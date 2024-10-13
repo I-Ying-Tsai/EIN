@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "#CharlieHebdo: If we talk about ‘war’, we fall into the trap set by murderers, @robinlustig http://t.co/dbBJUkm0sR http://t.co/IqouaAdFxx",
+        "user id": 16973333,
+        "tweet id": "553225402282692608",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @robinlustig http://t.co/l2lUrndHha",
+            "user id": 1234987687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @robinlustig muhammad http://t.co/IADTSmJrDh",
+            "user id": 1234987687,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @robinlustig",
+            "user id": 192486342,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @robinlustig if the West, along w/ Russia, would have had that attitude in 1941, I think my German would be a whole lot better",
+            "user id": 358346497,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @robinlustig tolerance is indeed a virtue, however some have problems tolerating others different to themselves",
+            "user id": 2865404526,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "That sign was manufactured awfully quickly @Independent @robinlustig",
+            "user id": 466228100,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                8
+            ],
+            "content": "@GoldHardShell @Independent @robinlustig I like that sign. Sums up nicely.",
+            "user id": 374577469,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @robinlustig The same false logic used by Chamberlain and others to resist rearmament in the 30's",
+            "user id": 2706148363,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "It's a high end sign for such a 'spontaneous' event . Who whipped it out of whose ass? @SonnyRaye @Independent @robinlustig",
+            "user id": 466228100,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

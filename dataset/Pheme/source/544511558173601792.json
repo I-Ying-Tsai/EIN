@@ -1,0 +1,128 @@
+{
+    "source": {
+        "content": "BREAKING @SkyBusiness : multiple gunshots fired into Lindt cafe #sydneysiege http://t.co/ZuJMZKfJKT (@carsonscottLIVE)",
+        "user id": 16834659,
+        "tweet id": "544511558173601792",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsAust: BREAKING @SkyBusiness : multiple gunshots fired into Lindt cafe #sydneysiege http://t.co/7QC6SbS67M (@carsonscottLIVE)”",
+            "user id": 43759072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SkyNewsAust @SkyBusiness @carsonscottLIVE Many shots fired, many hostages got out, at least 1 with injury, must b more hostages in danger",
+            "user id": 340418813,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "@SkyNewsAust @SkyBusiness @carsonscottLIVE 12 to 15 hostages got out, many injured, we will b v lucky 2 get all out alive. All over now.",
+            "user id": 340418813,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsAust @SkyBusiness @carsonscottLIVE Nooooooooooooooooooooo!",
+            "user id": 1271235698,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsAust: BREAKING @SkyBusiness : multiple gunshots fired into Lindt cafe #sydneysiege http://t.co/BGm95UC9rx (@carsonscottLIVE)”",
+            "user id": 103972238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@SkyNewsAust @SkyBusiness @carsonscottLIVE Bomb squad on site, must have been an imminent danger 4 police 2 raid, at least 1 cop wounded",
+            "user id": 340418813,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@SkyNewsAust @SkyBusiness @carsonscottLIVE The siege is over. 12 hostages safe. 3 or 4 must b in bad way. CPR required. Bomb squad at work.",
+            "user id": 340418813,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@SkyNewsAust @SkyBusiness @carsonscottLIVE Police v well prepared. Armour, floodlights, robots, dogs, para's. Bracing 4 fatality anouncement",
+            "user id": 340418813,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

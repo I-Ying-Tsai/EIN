@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "$10 to see Prince tonight in Toronto? I'd be a fool not to.",
+        "user id": 287917073,
+        "tweet id": "529694805010685952",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@ajsharma95 if i was your girlfriend and raspberry beret are bangers man, Prince is a god",
+            "user id": 245194792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@dasmeezy he finna make it (purple) rain in the 6",
+            "user id": 287917073,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@dasmeezy @ajsharma95 so true. So true",
+            "user id": 553036718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ajsharma95 go man go. Have a fab night.",
+            "user id": 553036718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@dbdbrb @ajsharma95 Maaan i bet @DonnaGrantis is buzzin, sooo cool he does that n goes to her hometown as he did with Shelby. Wot a gent",
+            "user id": 1732605212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@nicklebystone @ajsharma95 @DonnaGrantis now if he would just drop by Dorking...........",
+            "user id": 553036718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "@dbdbrb @ajsharma95 too true, his music is timeless. Sucks not alotta people are aware of it",
+            "user id": 245194792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [
+                9
+            ],
+            "content": "@dbdbrb @DonnaGrantis @ajsharma95 lol i feel u Dan, i live close to the Ricoh arena, BIG bands have played....i DREAM 2 c him/d gang there",
+            "user id": 1732605212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@dasmeezy @ajsharma95 again mate you hit the nail on the head. Just chillin to early prince right now on the sonos. Have a good night.",
+            "user id": 553036718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@nicklebystone @DonnaGrantis @ajsharma95 when does buddy ticket is on me! And beer I feel.",
+            "user id": 553036718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

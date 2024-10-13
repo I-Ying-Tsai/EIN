@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "What we know about low-cost airline Germanwings whose plane crashed in the French Alps today\nhttp://t.co/dpVjeGkEGT http://t.co/0HkXddItLs",
+        "user id": 972651,
+        "tweet id": "580359809041604608",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Buen resumen. Lo que hay que saber de la aerolínea bajo coste #Germanwing. Via @mashable http://t.co/cqN8RfCyw7",
+            "user id": 186457433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable defect in machine,system,technology, security or pilot error!",
+            "user id": 171494213,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable Weather,control Tower,and Pilot mistakes are major cause of crash.",
+            "user id": 1113627067,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable Way to create bias by calling it \"low-cost.\" That doesn't mean it was more apt to crash.",
+            "user id": 213270786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable I fl with Germanwings 2 weeks ago and have done so often connecting to LH flights in Frankfurt. Good crews and equipment",
+            "user id": 212820561,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable .",
+            "user id": 86306029,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

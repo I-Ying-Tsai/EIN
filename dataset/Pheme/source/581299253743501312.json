@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "The co-pilot of the Germanwings Airbus was a convert to Islam http://t.co/Q7yHJ4Ne2d",
+        "user id": 2754194395,
+        "tweet id": "581299253743501312",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SanghArmy अाज अष्टम नवरात्र है।माता महागौरी का अाशिर्वाद प्राप्त करे।",
+            "user id": 3035032640,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SanghArmy अाज अष्टम नवरात्र है।माता महागौरी का अाशिर्वाद प्राप्त करे।कन्यापुजन कर सकते हैं।",
+            "user id": 3035032640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SanghArmy @iPraveenDixit लगता तो ऐसा ही है",
+            "user id": 2428923530,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@SanghArmy because of islam is everlasting religion......so I request you don't worship creation worship the creator.........",
+            "user id": 212817827,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "@Hasilsah @SanghArmy When the creator and created becomes one, then it is called anafi.",
+            "user id": 162327125,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SanghArmy But why kill innocents?",
+            "user id": 162327125,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@ganapathyhegde @SanghArmy What you are saying please don't make statement unless you know truth",
+            "user id": 212817827,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@Hasilsah @SanghArmy dear hasil, the truth is simple.God is the creator. He entered into every atom of it. He is our caretaker.",
+            "user id": 162327125,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

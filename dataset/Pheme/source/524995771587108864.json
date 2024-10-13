@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "This afternoon we've lowered our flags to half mast in honour of the Canadian Reservist who lost his life in Ottawa. http://t.co/3oTF5sd2Lf",
+        "user id": 88944711,
+        "tweet id": "524995771587108864",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MikeSavageHFX Iam very sad !!! My heart broken .",
+            "user id": 2459274987,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MikeSavageHFX @paigemacp How about giving them bullets before they are shot instead of honours after",
+            "user id": 45487359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MikeSavageHFX @HfxRegPolice @hfxgov Please take a minute to hug your loved ones today. God's speed to the family and first responders.",
+            "user id": 737002386,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@MikeSavageHFX  The @HfxRegPolice flags are also at half-mast. RIP Cpl. Nathan Cirillo. Our thoughts and prayers are with his family &amp; CAF",
+            "user id": 606501349,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@JMBlais1 @HfxRegPolice @MikeSavageHFX \n#heroesinlifenotdeath",
+            "user id": 2699146844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MikeSavageHFX a bit of joy in a gloomy day here at #coady55  celebrating remarkable legacy of Coady.",
+            "user id": 88944711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The #Germanwings co-pilot received psychiatric treatment for a ‘serious depressive episode.’ http://t.co/XLwm5MsXrv http://t.co/VWhtJsXrgU",
+        "user id": 20562637,
+        "tweet id": "581377529124130816",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@businessinsider: The #Germanwings co-pilot received psychiatric treatment for a ‘serious depressive episode.’\n\nPronto, puxaram a capivara",
+            "user id": 45466318,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@businessinsider Un-Islamic-Terrorist ? ? ? ? ? ? Jeudo-Christian Terrorist ? ? ? ? ? Athiest-Terrorist ? ? ? ? ?  Secular-Terrorist ? ? ?",
+            "user id": 938744148,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@businessinsider Meds",
+            "user id": 467026225,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

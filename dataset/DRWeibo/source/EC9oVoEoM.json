@@ -1,0 +1,180 @@
+{
+    "source": {
+        "content": "生产假鸡蛋... 不得不说，劳动人民的智慧是无穷的  #趣事儿多# 秒拍视频 . ",
+        "time": "17-3-30 09:10",
+        "user id": "1844775642",
+        "tweet id": "EC9oVoEoM",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1477272880",
+            "user name": "认真工作搞钱的游同学",
+            "content": "图片评论 网页链接",
+            "time": "17-3-31 02:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "3592522737",
+            "user name": "小百合子",
+            "content": "感谢辟谣",
+            "time": "17-4-2 11:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "3182862620",
+            "user name": "开门有快递",
+            "content": "这他妈是玩具好不好，脑子是个好东西",
+            "time": "17-4-19 13:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "1662383115",
+            "user name": "一日不劳一日不食",
+            "content": "傻不傻，假鸡蛋单单成本都比真鸡蛋高",
+            "time": "17-4-4 07:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "5413499537",
+            "user name": "群群love1012",
+            "content": "愁人，明明是玩具",
+            "time": "17-4-4 17:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "3136768597",
+            "user name": "没凶就别凶",
+            "content": "@大关安公子",
+            "time": "17-4-11 13:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "5337575251",
+            "user name": "一份嫣然",
+            "content": "@别在我身上搞事情",
+            "time": "17-4-3 00:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5695676410",
+            "user name": "纯真唐糖",
+            "content": "卧槽",
+            "time": "17-5-2 21:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "2871423065",
+            "user name": "心若细沙",
+            "content": "sb",
+            "time": "17-4-30 19:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5771731369",
+            "user name": "是杨酸酸",
+            "content": "怎么想的",
+            "time": "17-4-18 12:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "1973853440",
+            "user name": "松花江畔的小屋",
+            "content": "这个制作的是一种少儿玩具，跟真的差不多",
+            "time": "17-5-2 22:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "1973853440",
+            "user name": "松花江畔的小屋",
+            "content": "四月份公安网络辟谣，其中就有这个制作假鸡蛋的视频。所以说，别转发了",
+            "time": "17-5-2 22:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "5457118308",
+            "user name": "小宋很快乐Y",
+            "content": "我还以为是吃的呢吓得我赶紧扔了手中的鸡蛋",
+            "time": "17-4-3 17:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

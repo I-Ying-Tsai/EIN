@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Confirmed reports that there were three shootings in Ottawa: at a War memorial, at the Parliament and at a shopping mall.",
+        "user id": 427515851,
+        "tweet id": "524953918166794240",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@samueloakford @vicenews &lt;----- nothing but jihad supporting cunts",
+            "user id": 25206663,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@righteousaxe dont follow them then dickhead",
+            "user id": 415785026,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@samueloakford @zachandcoke",
+            "user id": 136118400,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@samueloakford @vicenews 3 consecutive shootings? Planned attacks by a particular group?",
+            "user id": 265663375,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@samueloakford \nTeach more appeasement",
+            "user id": 2378914268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Achingá: “@samueloakford: Confirmed reports that there were 3 shootings in Ottawa: at a War memorial, at the Parliament and at a mall.”",
+            "user id": 117825643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "RT@samueloakford: Confirmed reports that there were three shootings in Ottawa: at a War memorial, at the Parliament and at a shopping mall.",
+            "user id": 1534373568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

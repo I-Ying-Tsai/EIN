@@ -1,0 +1,120 @@
+{
+    "source": {
+        "content": "@kobebryant Last 3 Gms: \n\n27 Pts 5Reb 4Ast\n26 Pts 4Reb 5Ast\n27 Pts 4Reb 2Ast\n\nBut He's Not A Top Ten Shooting Guard http://t.co/37xVg6s1om",
+        "user id": 1465822578,
+        "tweet id": "525047104239333377",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@THELAKERDYNASTY @kobebryant he's the #1 shooting guard! Just ask the players who have to defend him.",
+            "user id": 1280874200,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@THELAKERDYNASTY @DatKidRay12 @kobebryant the hate is too real",
+            "user id": 35316711,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@JNIKEParrish @THELAKERDYNASTY @kobebryant for real man it's been real dumb haha he's proving them wrong though",
+            "user id": 467876934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@THELAKERDYNASTY @kobebryant Henry Abbott will someday regret what he wrote AGAINST Kobe Bryant. Well he's a stand up comedian anyway.",
+            "user id": 604353186,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@THELAKERDYNASTY @tzahavi",
+            "user id": 1607573863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@miles11davis @THELAKERDYNASTY that why I drafted him son",
+            "user id": 194812050,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [],
+            "content": "@DatKidRay12 @THELAKERDYNASTY @kobebryant yeah man I just can't wait. I'll let his game do the talking.",
+            "user id": 35316711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@tzahavi @miles11davis stfu Tal 😂😂",
+            "user id": 484175140,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

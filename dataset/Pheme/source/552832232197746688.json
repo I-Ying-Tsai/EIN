@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "The #CharlieHebdo shooting is an act of terror - violence with a political motive - but well within our existing threat assessment.",
+        "user id": 138787319,
+        "tweet id": "552832232197746688",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@PJCrowley are you calling for sanctions on the Saudis they are at the root of much of this radical Islamic terrorism?",
+            "user id": 22988993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@fnsrle Wahhabism is a factor, but the challenge is broader. It is about how a religion adapts to the modern world and to non-believers.",
+            "user id": 138787319,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PJCrowley US DoD and FBI call peaceful protest low level terrorism.",
+            "user id": 138395304,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@PJCrowley What does that mean?",
+            "user id": 17984624,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@thebenedict We don't need to change our current approach to combating violent political extremism.",
+            "user id": 138787319,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PJCrowley You better check with the BBC on your choice of words ...",
+            "user id": 89929611,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@PJCrowley very difficult to have faith in something that changes to suit the times and the ignorant",
+            "user id": 274543053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@PJCrowley Good to know. ..but is there anything concievable outside the post-9/12 threat assessment?",
+            "user id": 15625485,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [],
+            "content": "@pjcrowley @thebenedict WH to hold summit to fight violent extremism http://t.co/8ob2Hs7LGK",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Ferguson Police have dogs and shotguns. The unarmed crowd is raising their hands. #ferguson #fergusonshooting  https://t.co/t2MLq3SsrV",
+        "user id": 31517981,
+        "tweet id": "498292732159619072",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@LuLuBunni1 Horrible.  Those brave people.",
+            "user id": 139201492,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@LuLuBunni1 @Birdmischief (COP) GUNS KILL (BLACK) PEOPLE.",
+            "user id": 1518076123,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@yedisturbed @LuLuBunni1 Yes. And then they'll kill lighter- and lighter-skinned folk until there's nobody left.",
+            "user id": 5944152,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@LuLuBunni1 wish some people had dogs also like pits",
+            "user id": 49688747,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@LuLuBunni1 https://t.co/BdIdMLkVgs",
+            "user id": 377440844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

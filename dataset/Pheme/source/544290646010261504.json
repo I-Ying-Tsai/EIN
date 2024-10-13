@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "BREAKING: Roads closed around #MartinPlace in central Sydney amid possible hostage situation. http://t.co/f8e7ZH4WP3",
+        "user id": 2097571,
+        "tweet id": "544290646010261504",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnni: BREAKING: Roads closed around #MartinPlace in central Sydney amid possible hostage situation. http://t.co/yKgfIzrZq9”",
+            "user id": 552117307,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni It IS a hostage situation, and a terrorist attack.",
+            "user id": 2723735572,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnni: BREAKING: Roads closed around #MartinPlace in Sydney amid possible hostage sitch. http://t.co/ftoF6U93QT” - not possible. Actual. 🙈",
+            "user id": 33545031,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@cnni Someone tweeted that your network blurred out the Islamist flag hung in the window. \n1) Is that true? \n2) If so, why did you do that?",
+            "user id": 313049114,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@GOPcomedy @cnni It's not blurred.  Have to watch the whole news segment to see it clearly.",
+            "user id": 33626482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnni: BREAKING: Roads closed around #MartinPlace in central Sydney amid possible hostage situation. http://t.co/X3MCZ1dHef”Prayers!\"",
+            "user id": 30094661,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni responsible coverage please. No footage of police. Keep their movements secret. Help them.",
+            "user id": 479062189,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnni: BREAKING: Roads closed around #MartinPlace in central Sydney amid possible hostage situation. http://t.co/yKvMUxSL4L”",
+            "user id": 317463226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni get ur facts straight std opera haus is NOT a 4 min walk from martin place!",
+            "user id": 1007221920,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Are you going to cover this? You are showing internet videos!? #realnews",
+            "user id": 284725682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Isis flag in the window of the cafe Sydney",
+            "user id": 51597693,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni no body realize that? The Isis flag through the Sydney cafe it is clear in cnn",
+            "user id": 51597693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni \nI doubt these Islamic terrorists are of Pakistani origin",
+            "user id": 79802631,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

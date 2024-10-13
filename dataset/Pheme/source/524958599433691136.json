@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "Police confirm 'several' shootings in Ottawa; PM safe; downtown buildings in lockdown http://t.co/WX22NpkCFs http://t.co/FlvvBW7Cu2",
+        "user id": 8736882,
+        "tweet id": "524958599433691136",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail please stop posting pictures of the army deployement...",
+            "user id": 171025236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail @USATODAY A few more guys, sharpshooters on the roof and a tank and it's Ferguson!",
+            "user id": 2241058057,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@globeandmail insane to do this in Canada. There will be consequences. We take peace keeping very serious. They have disrupted our peace.",
+            "user id": 50014086,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@globeandmail anything to do with Middle East issues? Ban all flights to &amp; from the region? Canadians don't do this kind of insanity.",
+            "user id": 50014086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail @USATODAY. US gun culture is moving north.",
+            "user id": 1674143862,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail  @neilinozone I'm so glad the PM is safe. Hell with the 3month old.",
+            "user id": 750430579,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@globeandmail deport anyone showing violent tendencies to Canada on behalf of the insanity taking place in the Middle East. Keep it there.",
+            "user id": 50014086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@globeandmail this is an act of war.  We will not tolerate terrorism in  Canada or anywhere else. We value peace.",
+            "user id": 50014086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@globeandmail if there are web sites brainwashing people into joining aq &amp; isis or encouraging terrorism shut them down. Be proactive?",
+            "user id": 50014086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

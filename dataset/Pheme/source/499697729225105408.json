@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "More police cars heading into #Ferguson https://t.co/cguoQrqjCn",
+        "user id": 14090948,
+        "tweet id": "499697729225105408",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: More police cars heading into #Ferguson https://t.co/K3z3Yt0iKG”",
+            "user id": 25796593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench For what!! They have an Army there now!!!",
+            "user id": 423727716,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AntonioFrench: More police cars heading into #Ferguson https://t.co/D4xysDaMaK",
+            "user id": 19948174,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AntonioFrench: More police cars heading into #Ferguson https://t.co/txJ5jECVWl",
+            "user id": 21274637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Thank you Mr. French for keeping St. Louis informed on the latest news.",
+            "user id": 241798915,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Some crook should be robbing something right now. Police are otherwise occupied.",
+            "user id": 597593196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "\"@AntonioFrench: More police cars heading into #Ferguson https://t.co/5GM1JtZHwg\"",
+            "user id": 2461027308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        }
+    }
+}

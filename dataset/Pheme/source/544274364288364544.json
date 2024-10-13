@@ -1,0 +1,152 @@
+{
+    "source": {
+        "content": "If you are in Sydney, err on side of safety. Also be very cautious in case Lindt cafe is a diversion for something else.",
+        "user id": 499696436,
+        "tweet id": "544274364288364544",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GrayConnolly yes. Stay out of cbd completely.",
+            "user id": 832990914,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@GrayConnolly   Binary events...",
+            "user id": 430096982,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@MichaelHueser  Lindt cafe may be rank amateurs, may be trained pros...we have no idea at this stage",
+            "user id": 499696436,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@GrayConnolly @ChrisAshton praying this ends well and is not a diverse. #siege",
+            "user id": 49551808,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@JeremySammut71 @GrayConnolly you bet. Lots of friends in CBD at this prime Christmas shopping time!",
+            "user id": 19650408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@JeremySammut71 @ChrisAshton  same here - may be rank amateurs, may be pros...",
+            "user id": 499696436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@GrayConnolly @BeauGiles That’s what I was wondering … 😕",
+            "user id": 901337576,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@GrayConnolly @20committee if my geography right, Lindt quite close to Commonwealth UK Governor General compound; but seems one incident",
+            "user id": 25298606,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@GrayConnolly @Aussie_Skinhead no suspect is waiting for all to see the flag. http://t.co/fuSPHQBKqM",
+            "user id": 516103610,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@GrayConnolly If it is he's done now",
+            "user id": 415312254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [],
+            "content": "@GrayConnolly   Ping me with further...",
+            "user id": 430096982,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

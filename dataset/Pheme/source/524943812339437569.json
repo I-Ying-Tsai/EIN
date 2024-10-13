@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Global News camera man reporting shots fired by Chateau Laurier hotel #ottawa",
+        "user id": 15966995,
+        "tweet id": "524943812339437569",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@l_stone @GlobalNational @CTVNews Global News camera man reporting shots fired by Chateau Laurier hotel #ottawa",
+            "user id": 1160788687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT \"@l_stone: Global News camera man reporting shots fired by Chateau Laurier hotel #ottawa”",
+            "user id": 204944073,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@l_stone @keithbaldrey #ottawaterror Omigish My Capitol city will never be the same!",
+            "user id": 861615079,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@l_stone warning shots as reported on CNN to get people to stay away to sort people out",
+            "user id": 69031247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@l_stone @joe_nuzz multiple shooting in Ottawa parliament",
+            "user id": 71989243,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

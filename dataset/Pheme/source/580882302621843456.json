@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "New York Times just reporting one of the pilots was locked out of the cockpit before it crashed #Germanwings #cbc",
+        "user id": 146332990,
+        "tweet id": "580882302621843456",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NahlahAyed suicide.",
+            "user id": 2308490190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NahlahAyed terrible crash , potentially made horrifically worse.",
+            "user id": 18624358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NahlahAyed This keeps getting worse.",
+            "user id": 571796080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NahlahAyed This is turning into a real head-scratcher.",
+            "user id": 2264940392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

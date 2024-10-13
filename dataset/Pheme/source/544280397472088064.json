@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "UPDATE: Hostages in Sydney cafe brandishing black Shahada flags, identical to those used by ISIS. - @7NewsSydney http://t.co/xap6sGvEdT",
+        "user id": 2738397743,
+        "tweet id": "544280397472088064",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MajorNews911 @7NewsSydney you mean that rag?",
+            "user id": 1547659670,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MajorNews911 @7NewsSydney I was wondering where you where. I saw that before you! I was surprised,haha. Not to make light of it by the way.",
+            "user id": 305061255,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4,
+                5
+            ],
+            "content": "UPDATE: Opera House evacuated after suspicious package found. - @SkyNewsAust http://t.co/LoNBnYLtsM",
+            "user id": 2738397743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "RT @MajorNews911: #UPDATE: Opera House evacuated after suspicious package found. - @SkyNewsAust http://t.co/cvlNCH24Pv",
+            "user id": 50791051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "NEW: PM statement on Sydney siege: 'Deeply concerning incident but Australia’s security agencies well equipped to deal with this.’ - 7News",
+            "user id": 2738397743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@MajorNews911 @Serg_Ovalle @SkyNewsAust U R I B E ´S    FAULT",
+            "user id": 331441395,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MajorNews911 @7NewsSydney Identical? Imagine that..\nOh but wait, the I does not stand for ISLAMIC does it?\n&gt;;-)",
+            "user id": 465790247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MajorNews911 @blackrepublican @7NewsSydney it's called #IslamicTerrorism #SydenySiege",
+            "user id": 448510528,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@MajorNews911 @AfghanJourno @7NewsSydney good drama! V saw these b4 agnst iraq Afghanistan and in swat for preparation of ground suport!!!",
+            "user id": 624485062,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [],
+            "content": "@MajorNews911 if aus's security agency is so good why didn't they detect these bastards sooner?",
+            "user id": 2834748828,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

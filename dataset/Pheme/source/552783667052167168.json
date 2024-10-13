@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "France: 10 people dead after shooting at HQ of satirical weekly newspaper #CharlieHebdo, according to witnesses http://t.co/FkYxGmuS58",
+        "user id": 25067168,
+        "tweet id": "552783667052167168",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "MT @euronews France: 10 dead after shooting at HQ of satirical weekly #CharlieHebdo. If Zionists/Jews did this they'd be nuking Israel",
+            "user id": 76987535,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@j0nathandavis They who? Stupid and partial opinions like this one only add noise to any debate.",
+            "user id": 33668152,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews @Massimilian2611 ci vuole una nuova crociata partendo da casa nostra...e lo dico io che non sono cattolico",
+            "user id": 993859812,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Nuno_Rodrigo5 @euronews islamistas o taraos?",
+            "user id": 370666310,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews @TradeDesk_Steve A French crime of passion or another heathen moslem atrocity?",
+            "user id": 1550984940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews LOL. 5 million Muslims in France, what a disgrace. the french worm president and politicians killed them. tine for croissants now",
+            "user id": 1867323613,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@nanoSpawn Socialists, Antisemites, anti zionists - usual suspects",
+            "user id": 76987535,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Parliament Hill Security: \"the situation is evolving\" - lockdown reinstated in offices around the Hill #OttawaShooting",
+        "user id": 42896073,
+        "tweet id": "525058578365698048",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Wha? RT @RichardMadan: Parliament Hill Security: \"the situation is evolving\" - lockdown reinstated in offices around the Hill",
+            "user id": 26040618,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@siomo @RichardMadan Just heard it to, I don't get it",
+            "user id": 321428477,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RichardMadan Stay safe",
+            "user id": 67323898,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": ".@RichardMadan RELEASE THE SOLE-SOURCED SECURITY CONTRACTS STAT B1TCHEZZZZ ‼  We need  bigger security fence NOW ‼",
+            "user id": 522452889,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RichardMadan @CTVNews Now they know how Moncton felt. Terrible waste of life.",
+            "user id": 1556091684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RichardMadan @CTVNews what now??",
+            "user id": 441163680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@RichardMadan: Parliament Hill Security: \"the situation is evolving\" - lockdown reinstated in offices around the Hill #OttawaShooting” omg",
+            "user id": 1368293216,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RichardMadan @CTVNews Omg, please stay safe\n.",
+            "user id": 1606859731,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@RichardMadan @CTVNews  all my prayers are with my friends in Ottawa.",
+            "user id": 629065194,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

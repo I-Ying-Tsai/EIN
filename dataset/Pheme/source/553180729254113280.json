@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "The Pen and the Sword: the latest from @MorinToon. #jesuischarlie http://t.co/PLfpUYWCGS http://t.co/z1xWFyGFkH",
+        "user id": 14085040,
+        "tweet id": "553180729254113280",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@MiamiHerald @MorinToon Je Suis Charlie.\n#JeSuisCharliePencil #CharlieHebdo #JeSuisCharlie http://t.co/fV8x1298TG",
+            "user id": 420223654,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@TheJonnyAmerica L'Amérique se tient avec la France. #franceattack #FranceStrong",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiHerald @MorinToon   NO FEAR!!!  Let them fear us now.",
+            "user id": 274185841,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiHerald @MorinToon https://t.co/kvj71lxQ8i 14 #languages &amp; #Greek #dialects @vallance22 #Canada &amp; retweeted http://t.co/ryfYzRUPcQ",
+            "user id": 240114180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiHerald @MorinToon L'Amérique se tient avec la France. #franceattack #FranceStrong",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

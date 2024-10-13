@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "Breaking: Two hostage situations in France are linked, Paris prosecutor says",
+        "user id": 28785486,
+        "tweet id": "553566026030272512",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "https://t.co/zJWg3ykgQG\n@abc",
+            "user id": 2951224168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#PrayForParis “@ABC: Breaking: Two hostage situations in France are linked, Paris prosecutor says”",
+            "user id": 58104347,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@ABC @VeraSweeney Can you please identify how LONG these have been ON? it is about 4p in that area. HOW MANY HOURS ON?",
+            "user id": 505322398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@Cultiv8Hope @ABC @VeraSweeney the 1st has been on for 7h30 and the second for 4hrs",
+            "user id": 14662121,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Time to arrest all the hostage takers relatives !",
+            "user id": 841058988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC knew that an hour ago by the BBC  news",
+            "user id": 2807772065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC\n\nTime to ban religion.",
+            "user id": 2875534515,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Of course they are, fear is best sold in bundles!",
+            "user id": 64094267,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @DenverChannel Ok thats good 2 know",
+            "user id": 495121007,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC oh really maybe because it's  false flag",
+            "user id": 2252446281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@maryyasmine @ABC @VeraSweeney Thanks. I think posing these situations in context helps us better understand. We are far away. #Peace #paris",
+            "user id": 505322398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

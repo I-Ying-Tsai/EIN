@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Sites evacuated now include State Library, Sydney Opera House, Channel 7 building in Martin Place. http://t.co/XrIutxD6Op #SydneySiege",
+        "user id": 16675569,
+        "tweet id": "544296772592336896",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Hi @smh I don't think the @statelibrarynsw is being evacuated yet.",
+            "user id": 151025635,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@smh: Sites evacuated include State Library, Sydney Opera House, Channel 7 building in Martin Place. http://t.co/LLEi8m5Ij2 #SydneySiege”",
+            "user id": 2502895924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Dear @smh, check your facts. The NSW State Library hasn't been evacuated. I'm sitting inside the Mitchell Reading Room. #MartinPlaceSeige",
+            "user id": 548126161,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

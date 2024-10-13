@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "UPDATE: Live Nation tweeting that Prince won't be performing tomorrow night either.\nhttp://t.co/GibJDqhHBA #PrinceTO #Toronto",
+        "user id": 14705603,
+        "tweet id": "529728722963034113",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@680News At this rate we could be getting a \"Franco is still dead\" update daily. #SomedayMyPrinceWillCome #PrinceTO #Massey",
+            "user id": 25314200,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@CHFIErin Hahaha, nicely done Erin with your #SomedayMyPrinceWillCome hashtag. #PrinceTO",
+            "user id": 14705603,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@680News  we got EFFED!",
+            "user id": 202922157,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

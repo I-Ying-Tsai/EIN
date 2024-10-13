@@ -1,0 +1,104 @@
+{
+    "source": {
+        "content": "The co-pilot who rammed the Germanwings plane into the French Alps had previously \"battled depression\" http://t.co/PSBNTXo5AV",
+        "user id": 17469289,
+        "tweet id": "581183387848859648",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost What a tragedy! #GermanWingsCrash",
+            "user id": 31607232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost sure say that what libs want you to believe sounds toofamiliar to 9/11 he went to us Flightschool as He did too? Wanna bet Terrorism",
+            "user id": 500410336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost Depression... doesn't excuse mass murder. If true..it was a cowardly act.",
+            "user id": 407048454,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost Airlines have done the best they can facing terrorism. This is a new lesson that we now need 2 in the cockpit always. Sad Sad lesson",
+            "user id": 2914968646,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost Time to ban planes with because God knows how many people those things kill.  #GermanWingsCrash cc: .@nra .@SenFeinstein",
+            "user id": 492529570,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost That isn't the action of someone suicidal.  Suicides rarely seek to make such a public statement, and don't take others with them.",
+            "user id": 2798078771,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost great! Should he be responsible for 150 innocent lives?",
+            "user id": 501970474,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost guess they will be starting a#psych.test on future #pilots.#R.I.P all",
+            "user id": 1030891255,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        }
+    }
+}

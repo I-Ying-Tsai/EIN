@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Some Leaf players say they heard shots this morning from the Tomb of the Unknown Soldier. Scary events in Ottawa",
+        "user id": 1378163893,
+        "tweet id": "524947964620701696",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@BonsieTweets Awful ... just awful. Be safe all. Thoughts are with family of soldier :(",
+            "user id": 26139952,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@Teaqueen180 @BonsieTweets it's the tomb of the unknown soldier meaning the soldiers they couldn't identify during/after WW1&amp;2 not a person",
+            "user id": 567253135,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BonsieTweets Stay Safe!",
+            "user id": 30643118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@BonsieTweets: Some Leaf players say they heard shots this morning from the Tomb of the Unknown Soldier. Scary events in Ottawa” : O",
+            "user id": 1170266125,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BonsieTweets @L0velyMissJenn  omg...scary",
+            "user id": 30254858,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@BonsieTweets: Some Leaf players say they heard shots this morning from the Tomb of the Unknown Soldier.\" @THNKenCampbell but Kanata right?",
+            "user id": 2829798301,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@BonsieTweets: Some Leaf players say they heard shots this morning from the Tomb of the Unknown Soldier. Scary events in Ottawa” very scary",
+            "user id": 32660080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@VBroadbelt yes, I meant the one soldier that suffered injuries earlier in today's events",
+            "user id": 26139952,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

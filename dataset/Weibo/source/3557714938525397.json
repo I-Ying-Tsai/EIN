@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "@窗台上的迷迭香:全球发出警示！请传出去！ 隐翅虫，在你身上时绝对不要打，她身上有 毒液，接触到皮肤，就死定了！ 跟你的孩 子、朋友讲，万一身上有这虫，用嘴巴轻轻 吹走就好。绝对不要用手打. 医师强调,如果 每个收到这份邮件的人,能够转发十份给其他 人,肯定至少有一条生命将会被挽救回来",
+        "user id": 1228086322,
+        "tweet id": "3557714938525397",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "[奥特曼][奥特曼]",
+            "user id": 1775653473,
+            "user name": "小小魜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "太恐怖了[衰]",
+            "user id": 2359508114,
+            "user name": "金菁-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1914066321,
+            "user name": "清水木棉M",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "真TM的恶心。。。。",
+            "user id": 2174145923,
+            "user name": "梅包果冻",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "已举报。博主傻逼么",
+            "user id": 2688066125,
+            "user name": "请叫我MrLe",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "如此恐怖吗？此后要小心！",
+            "user id": 1493206361,
+            "user name": "成都东门子诗评",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "好恶心啊[吓到了]",
+            "user id": 2504172461,
+            "user name": "PPT舒曼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "这种东西记得在老家有很多，然后我也拍死了不少。后来我没死[悲伤]",
+            "user id": 2405103891,
+            "user name": "陈奕鹏呢",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

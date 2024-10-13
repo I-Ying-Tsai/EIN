@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/ixaUvCUBB2",
+        "user id": 201308621,
+        "tweet id": "500380708783665152",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@JeniferLewis: I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/nVtE3TTFf7”",
+            "user id": 38531090,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JeniferLewis thank you!",
+            "user id": 247116510,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @PorschaPocket RT @JeniferLewis I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/JrvARzMK5X",
+            "user id": 21223926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "Love You! “@JeniferLewis: I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/FnuN2sfhWJ” #MikeBrown",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "I love her &amp; you @drgoddess @JeniferLewis",
+            "user id": 183901929,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Yesss mama! RT @JeniferLewis: I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/7nlqOeJMvM",
+            "user id": 19517185,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@JeniferLewis Ms. Lewis, I love me some you.",
+            "user id": 14680132,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "YAASSS, Auntie! RT @JeniferLewis: I grew up 10 minutes from #Ferguson - Praying for Peace and Justice.",
+            "user id": 34988016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@JeniferLewis I'm so glad I got to hear you and be in your presence while you shared your words and love. Thank you and peace 2 u and urs.",
+            "user id": 928052875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "LMAO YOU LOOK HOMELESS 😂 “@JeniferLewis: I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/snH74NXSMv”",
+            "user id": 289636480,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@JeniferLewis sweetie your color coordination ....",
+            "user id": 154613857,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@JeniferLewis: I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/xgLCUpxsfQ” #RIPMikeBrown",
+            "user id": 247104369,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "Errybody's mama. RT @JeniferLewis: I grew up 10 minutes from #Ferguson - Praying for Peace and Justice. http://t.co/g9v2HPUYRO",
+            "user id": 65336484,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 4,
+            "children": [],
+            "content": "Aww!! Thanks, Sis! *blushes* “@AllThingsVikki: I love her &amp; you @drgoddess @JeniferLewis” #Ferguson #MikeBrown",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

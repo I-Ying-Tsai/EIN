@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Reports: Armed man takes multiple hostages in Paris kosher grocery store, SWAT teams on scene http://t.co/dU9efPMFeV",
+        "user id": 14511951,
+        "tweet id": "553538456207777792",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@HuffingtonPost SWAT need To Try Giving Them A Ransom of money  maybe that's what they want but in a way they still can catch the men",
+            "user id": 1942274774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MJMIkeyJoJo @HuffingtonPost this is not about money it's a direct attack on the Jews.",
+            "user id": 26425514,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "You've GOT 2b kidding! “@HuffingtonPost: Armed man takes hostages in Paris kosher grocery store, SWAT teams on scene http://t.co/ROJF6g8POl”",
+            "user id": 529422071,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost Yah &amp; CNN news: Shooting &amp; hostage situation in Paris bakery  . Huff news: mltpl hostages in Paris \"Kosher\" bakery. Odd.",
+            "user id": 627271165,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@HuffingtonPost: Reports: Armed man takes multiple hostages in Paris kosher grocery store, SWAT teams on scene http://t.co/yEhKhC0nAO”",
+            "user id": 2237583636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

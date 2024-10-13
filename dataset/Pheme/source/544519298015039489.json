@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "Police confirm Sydney siege has ended - @nswpolice http://t.co/N5mmnilz4Z",
+        "user id": 6017542,
+        "tweet id": "544519298015039489",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Police confirm #SydneySiege has ended - @nswpolice @BreakingNews #SydneyHostageCrisis",
+            "user id": 15448383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "OH THANK GOD RT “@inquirerdotnet: Police confirm #SydneySiege has ended - @nswpolice @BreakingNews #SydneyHostageCrisis",
+            "user id": 29941292,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @nswpolice Best thing I've read the past 12 hours. Holy Jesus.",
+            "user id": 242136633,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Syukurlah “@BreakingNews: Police confirm Sydney siege has ended - @nswpolice http://t.co/DzjWa6r9bw”",
+            "user id": 26200286,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @BreakingNewsUK \nAussie's have the same violence thrown at them by people they've takin in,welcome to our world !",
+            "user id": 2753258517,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews #zamizdat Now let's have the truth..! Why was this guy let on the loose...? A copper 'Patsy' going some where 'to happen'...?",
+            "user id": 250761217,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews Was this a 'make us look good' action by the law mob..? Why was this man, a charged murderer, allowed free..! Why...?",
+            "user id": 250761217,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews This action must bring into the light, that the cops are 'away' with power! Shakel them, under a bench of Judges and Academics",
+            "user id": 250761217,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @nswpolice not really!..some pot Head hippy across the street will think this jerk is a cool Dude...",
+            "user id": 464840550,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@BreakingNews: Police confirm Sydney siege has ended - @nswpolice http://t.co/puNfNuas5w”",
+            "user id": 2842765578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews Cops must be instructed as 'screws' are, \"Do as your told, officer, we will do the thinking &amp; investigation\", The DAs..!",
+            "user id": 250761217,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@BreakingNews: Police confirm Sydney siege has ended - @nswpolice http://t.co/c9p0SPYJjm” so glad it's over, thinking of my Aus friends!",
+            "user id": 25468212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

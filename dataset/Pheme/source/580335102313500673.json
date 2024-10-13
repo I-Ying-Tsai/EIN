@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#Lufthansa tweets on #Germanwings #4U9525 crash - LIVE UPDATES http://t.co/zU6hn03xzU http://t.co/k0jbLmv84k",
+        "user id": 64643056,
+        "tweet id": "580335102313500673",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com You see AirBus is not Boeing They try to find survivors They try to see logs The relatives of passengers are crying in airports",
+            "user id": 1850792372,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @ChrisCuomo",
+            "user id": 2190743918,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com heart goes out to the famlies of the passengers and crew members...rest in peace.#Germanwings plane crashes in southern France,",
+            "user id": 2788944340,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

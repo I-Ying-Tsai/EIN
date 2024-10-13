@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "VIDEO from the scene of fatal shooting in Paris http://t.co/sL3aG464Lt #CharlieHebdo http://t.co/FLC3mR5C2S",
+        "user id": 64643056,
+        "tweet id": "552795056080691200",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RT_com Terrible; if only people didn't hand out guns: https://t.co/iPBkLwhQk8 … Jeffrey Epstein also member of CFR+Trilateral Commission",
+            "user id": 1348798826,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@FULLY_BADASS @RT_com arms manufacturers have a lot to answer for",
+            "user id": 2223435566,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @MonicaRCarballo Así ataca la izquierda musulmana mundial la libertad de expresión.",
+            "user id": 1327640226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @RT_com VIDEO from the scene of fatal shooting in Paris http://t.co/U7dEn9BNDG  #CharlieHebdo http://t.co/Mn1vk8iSpV",
+            "user id": 30627476,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

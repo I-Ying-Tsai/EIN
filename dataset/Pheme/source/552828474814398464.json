@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "#CharlieHebdo witness - Gunmen told me to tell the media they were Al-Qaeda in Yemen http://t.co/AyDSKynXG2 h/t @chawk228",
+        "user id": 288755234,
+        "tweet id": "552828474814398464",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@EliotHiggins: #CharlieHebdo witness - Gunmen told me to tell the media they were Al-Qaeda in Yemen http://t.co/CQXMtk0sw1 h/t @chawk228”",
+            "user id": 72588786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@EliotHiggins @chawk228 @CNNBreakinNewss @smh FYI",
+            "user id": 305888840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@EliotHiggins @chawk228 has anyone recognized their accent.. ?",
+            "user id": 2857090698,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@IIlIIlIIIIIIIII @chawk228 The one witness who commented said it was well spoken French",
+            "user id": 288755234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@IIlIIlIIIIIIIII @EliotHiggins @chawk228 No particular accent in the video. Looks like french guys who joined terrorism ISIS or AQ.",
+            "user id": 2883444707,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@EliotHiggins @thegrugq @chawk228 At the same moment, 39 deaths in Yemen http://t.co/WfSECBwkBP",
+            "user id": 2883444707,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@EliotHiggins @thegrugq @chawk228 and They did not leave their telephone numbers and addresses as well?",
+            "user id": 332969934,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@EliotHiggins @chawk228 Inspire Magazine AQAP Yemen  #CharlieHebdo on list of wanted picture 3rd row 2nd down http://t.co/p5RQSXH81w",
+            "user id": 2235500118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@moxieseo \"Yes We Can\".. now where did I hear that slogan before... @EliotHiggins @chawk228",
+            "user id": 45533185,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": ".@moxieseo @EliotHiggins @chawk228 hope the others are practicing good personal security and situational awareness!",
+            "user id": 1393919497,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@EliotHiggins: #CharlieHebdo witness - Gunmen told me to tell the media they were Al-Qaeda in #Yemen http://t.co/iOL6PC2DHL h/t @chawk228”",
+            "user id": 304970452,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@EliotHiggins @chawk228 @vvanwilgenburg Hmm... Not very convincing, as spoke good French and apparently Russian ? French chechens?",
+            "user id": 48655691,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

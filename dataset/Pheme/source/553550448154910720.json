@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Five hostages are being held at a kosher grocery store in east Paris http://t.co/w8UiYqEqTM http://t.co/UFnpEqXvLi",
+        "user id": 3108351,
+        "tweet id": "553550448154910720",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: Five hostages are being held at a kosher grocery store in east Paris http://t.co/mzHvnhZfbt http://t.co/r3Un9wjuo5”",
+            "user id": 14857438,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ complete security failure in #France",
+            "user id": 2892548240,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ there is #NoModerateIslam #EnoughIsEnough #JeSuisCharlie",
+            "user id": 56666374,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

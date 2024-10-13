@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": ".@3RDEYEGIRL you see what you've done to #Toronto? #Prince http://t.co/82eXnU49OY",
+        "user id": 1713527208,
+        "tweet id": "529745609969131522",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@GordMacey @3RDEYEGIRL I did see him a few years ago. He puts on a great show.",
+            "user id": 18245205,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MichaelDemone @3RDEYEGIRL me too....him &amp; Stevie crossed off my bucket list. Still, would love to see these ladies bring the funk.",
+            "user id": 1713527208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

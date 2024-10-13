@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "BREAKING NEWS UPDATE: Police storm Sydney café to end hostage-taking http://t.co/8f1AQOT6dg #SydneySiege http://t.co/WnCbG1QwRb",
+        "user id": 6433472,
+        "tweet id": "544516940367413248",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews don't forget your jumper it's cold out.",
+            "user id": 132612207,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCNews: BREAKING NEWS UPDATE: Police storm Sydney café to end hostage-taking http://t.co/RD8HRAqxeP #SydneySiege http://t.co/ustpHoR0ms”",
+            "user id": 341873977,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews oh dear ... Hope reports aren't true that some perished from the siege #SydneySiege",
+            "user id": 21995609,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews @CBCAlerts  another dead terrorist is a good thing..",
+            "user id": 14102830,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

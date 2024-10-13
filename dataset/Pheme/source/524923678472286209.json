@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "#BREAKING news: Shots fired at Parliament Hill. Follow developing story: http://t.co/B8LinPFjvj http://t.co/olsk7N4X5T",
+        "user id": 8736882,
+        "tweet id": "524923678472286209",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: #BREAKING news: Shots fired at Parliament Hill. Follow developing story: http://t.co/uYIjkQkuui http://t.co/3wIR2KFBhO”",
+            "user id": 6870462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: #BREAKING news: Shots fired at Parliament Hill. Follow developing story: http://t.co/b7FnZGuYeZ http://t.co/HfzK1SbrFH”",
+            "user id": 20282233,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail @michale_carter",
+            "user id": 355881905,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: #BREAKING news: Shots fired at Parliament Hill. Follow developing story: http://t.co/zs9vK6EcR1 http://t.co/5Rsagw4MY1”",
+            "user id": 138999399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@globeandmail omg I hope everyone's ok",
+            "user id": 75833183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@linmcgowan @globeandmail  6 medics are performing CPR on a fallen Canadian soldier.",
+            "user id": 369029151,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: news: Shots fired at Parliament Hill. Follow developing story: http://t.co/MQ0F9Ycojd http://t.co/wjypk7jprx” @rhs_trending",
+            "user id": 368480353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@shelliecorreia @globeandmail I can't even click on my news alert app news its so busy",
+            "user id": 75833183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

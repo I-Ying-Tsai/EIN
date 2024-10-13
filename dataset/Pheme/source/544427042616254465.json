@@ -1,0 +1,199 @@
+{
+    "source": {
+        "content": "A gutless prick with a gun is trying to provoke the worst in us. Instead, he's inspired the best in us. I love you, Sydney. #illridewithyou",
+        "user id": 61436584,
+        "tweet id": "544427042616254465",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 Congrats on your 250★ tweet! http://t.co/1uzRlDClg5",
+            "user id": 404460410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 : Respect! No words can explain the greatness of this gesture. So much humane so much awesome! :)",
+            "user id": 28947513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 @HappyLennox #illridewithyou Sydney I love you",
+            "user id": 2906564275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 Well said.",
+            "user id": 2744681014,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 feel this too.",
+            "user id": 23544300,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 Probably more inspiring than Abott.",
+            "user id": 30726225,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@AlexBrown77 @PeacePiper So well said!",
+            "user id": 19317766,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                13
+            ],
+            "content": "@JezNews yes - hope ur going well Jez @AlexBrown77",
+            "user id": 17872080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 A gutless prick? No he is a muslim.",
+            "user id": 2886894341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 Congrats on your 500★ tweet! http://t.co/YES6CdTnfv",
+            "user id": 55794552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AlexBrown77 I wish you where kidnapped at #LindtCafeSiege instead of a friend of mine.",
+            "user id": 2886894341,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "hi @AlexBrown77 we've gathered news on multiculturalism from various medias around the world: http://t.co/zs7olmejL7 #illridewithyou",
+            "user id": 1408458926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "“@AlexBrown77: so well said! A gutless prick with a gun tried to provoke the worst in us. Instead, he inspired the best in us! #lindt",
+            "user id": 887450286,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 7,
+            "children": [
+                14
+            ],
+            "content": "@PeacePiper V good, Tony! Hope you are too. J",
+            "user id": 19317766,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@JezNews thriving thanks mate. My best to family",
+            "user id": 17872080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

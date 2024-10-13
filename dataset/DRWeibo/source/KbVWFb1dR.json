@@ -1,0 +1,180 @@
+{
+    "source": {
+        "content": "据说南宁普罗旺斯有学生拿着砍刀抢劫金店  飞行视角的微博视频 ",
+        "time": "21-4-21 15:33",
+        "user id": "2887837382",
+        "tweet id": "KbVWFb1dR",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "2887837382",
+            "user name": "飞行视角",
+            "content": "不是抢劫，是打群架",
+            "time": "21-4-21 23:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "5621937309",
+            "user name": "离家三米是野猫",
+            "content": "去普罗旺斯抢劫说明不会踩点，那里路看似四通八达，其中路太直没什么阴暗角落逃跑，还能路过派出所和分局，这不是自投罗网嘛",
+            "time": "21-4-21 15:47",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "5621937309",
+            "user name": "离家三米是野猫",
+            "content": "它也有可能是南宁市江南区龙光地产的小区名字。",
+            "time": "21-5-10 15:21",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "2273667627",
+            "user name": "黄麒蓉家的金金",
+            "content": "难管教",
+            "time": "21-4-21 15:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "2164709985",
+            "user name": "你是哪块奶盐苏打饼",
+            "content": "为什么要穿我可爱的新希望",
+            "time": "21-4-21 22:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "1942665925",
+            "user name": "B2015",
+            "content": "古惑仔看多了",
+            "time": "21-4-21 15:49",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "2111873157",
+            "user name": "rockyfunky",
+            "content": "怎么这么野……",
+            "time": "21-4-21 15:36",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "3039230657",
+            "user name": "YXxuee",
+            "content": "少管所欢迎他们",
+            "time": "21-4-22 07:36",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "2695002082",
+            "user name": "Tormetactor",
+            "content": "还穿着校服",
+            "time": "21-4-21 16:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1105294480",
+            "user name": "人间是个什么玩意吖",
+            "content": "无知者无畏",
+            "time": "21-4-21 15:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2698177592",
+            "user name": "一直在发疯的我",
+            "content": "现在的小孩 怎么回事",
+            "time": "21-4-21 16:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5915838379",
+            "user name": "村晚总指挥",
+            "content": "厉害了现在的年轻人",
+            "time": "21-4-21 17:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "3945101693",
+            "user name": "赫拉宫殿-千瑞珍",
+            "content": "@neuropathyoo",
+            "time": "21-4-22 13:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

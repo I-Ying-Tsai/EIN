@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Charlie Hebdo’s Last Tweet Before Shootings http://t.co/9Oa2xAqOcM http://t.co/skJHNEQcn0",
+        "user id": 465973,
+        "tweet id": "552784898743099392",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@GuidoFawkes what is that, for those of us hard of French?",
+            "user id": 19453154,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@pasty_muncher @GuidoFawkes \"Good health to everyone!\" - (New Year greeting by Al-Baghdadi, head of ISIS).",
+            "user id": 129594482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GuidoFawkes @JamesDelingpole Looks to me like the religion of peace has struck again, no?",
+            "user id": 27353755,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@GuidoFawkes ha, those peace-loving muslims!  Allah bless them!",
+            "user id": 2684760270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@GuidoFawkes @apwtrader here's one off the shelf section for the article - 'it's not islam, definitely not islam.'",
+            "user id": 286801248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@GuidoFawkes @benjaminkatzeff Any1 w dignity shld condemn the barbaric terrorist act in #Paris Terrorists stop the destruction #world peace",
+            "user id": 30343344,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "iSSlam #tcot #UK #Cameron #EU #BREAKING @GuidoFawkes @friendsofbibi http://t.co/0cQdGEi1rT",
+            "user id": 436029388,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@GuidoFawkes @R_Christianity_ Another reason to say Fuck #Muslims and Fuck #Islam",
+            "user id": 526631013,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@GuidoFawkes @R_Christianity_",
+            "user id": 879188731,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

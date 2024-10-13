@@ -1,0 +1,224 @@
+{
+    "source": {
+        "content": "BREAKING: CTV Ottawa confirms there were 3 separate shootings. One on Parliament Hill, one at National War Memorial, one near Rideau Centre",
+        "user id": 19636948,
+        "tweet id": "524951711941922818",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 LAWWWWWDDD",
+            "user id": 38313366,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CP24  Video of Parliament Hill shooting via Glob reporter http://t.co/fYxWmVXciP",
+            "user id": 306862317,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "“@jankelekvan: @CP24  Video of Parliament Hill shooting via Glob reporter http://t.co/8fE7NrMSZn” holy shit",
+            "user id": 2798871876,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 @justcallmeLanez",
+            "user id": 213128516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24 CTV Ottawa confirms there were 3 separate shootings. One on Parliament Hill, one at National War Memorial, one near Rideau Centre”😔",
+            "user id": 178110602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 What happened?",
+            "user id": 437188111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 disgusting",
+            "user id": 339221485,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 wow",
+            "user id": 2760425855,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 this shouldn't happen in Canada 🙈",
+            "user id": 464893712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@CP24 A shooting in #Toronto and no one bats an eye. A shooting in #Ottawa and everyone loses their minds.",
+            "user id": 230245840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                12
+            ],
+            "content": "@GuyNamedTim @CP24 are you fucking stupid. This is a little different than a random shooting. How about pull your head out of your ass thanx",
+            "user id": 149412419,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: CTV Ottawa confirms there were 3 separate shootings. One on Parliament Hill, one at National War Memorial, one near Rideau Centre”",
+            "user id": 121872719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "@mummamandy @CP24 yea, because a shooting in Toronto is totally random.",
+            "user id": 230245840,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "content": "@GuyNamedTim @mummamandy @CP24 this is a large scale organized, targeted shooting so yah it's a little different than street gun violence..",
+            "user id": 41465969,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "@lindsapedia @mummamandy @CP24 since when is 3 shootings 'a large scale'?",
+            "user id": 230245840,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@GuyNamedTim @lindsapedia @CP24 it's not just 3 shootings... Are you paying attention to what is going on? Get informed",
+            "user id": 149412419,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "#AirbusCrash According to @flightradar24 this is the actual #Germanwings plane that has crashed. http://t.co/pkDHz6248P",
+        "user id": 301309392,
+        "tweet id": "580332296336732160",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@eNCAnews @flightradar24 Any idea how old the plane was?",
+            "user id": 34594988,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@deondps This A320 was built in 1991.   24 years old.    They say their are many A320 of this age flying workhorses.",
+            "user id": 40077371,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews @KimPaulse @flightradar24 So sad! Lord give the passenger's loved ones strength :(",
+            "user id": 333509973,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews @flightradar24  very sad news",
+            "user id": 2849522222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews @flightradar24 God all the best all people",
+            "user id": 2849522222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews @flightradar24 http://t.co/S9WasuOGLT",
+            "user id": 3076515406,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "MORE: Police believe three gunmen were involved in shootings in Ottawa this morning and are looking for two shooters. http://t.co/IHV4galEtC",
+        "user id": 15012486,
+        "tweet id": "524991576163250176",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews Lies and propaganda are traditionally the tools of theocracy, fascism, and totalitarianism. Stop build terrorism &amp; #Isis's fame!",
+            "user id": 2434406185,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews The police chief just totally dodged that question and wouldn't say there was more than 1..jUst FYI",
+            "user id": 2298094741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews That's not what they just said at the Press Conference!",
+            "user id": 583137547,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @CBSNews: Police believe 3 gunmen were involved in shootings in Ottawa and are looking for two shooters. http://t.co/ezPjE4zAcW",
+            "user id": 35889865,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@CBSNews Your info is out of date. Rideau shooting didn't happen. Police press conference says nothing about number of shooters.",
+            "user id": 167365470,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@CBSNews Check @CBCNews for updates from police that are current.",
+            "user id": 167365470,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews And when will you be announcing they are Muslims? http://t.co/lZwUzG0nAI",
+            "user id": 764143424,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews Probably a drill.",
+            "user id": 2768705528,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews  It appears now it was only 1 shooter and the shots were heard at nearby hotel/shopping cntr causing reports of more shootings",
+            "user id": 231559189,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

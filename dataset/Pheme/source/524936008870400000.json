@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Photos from the Parliament shooting scene http://t.co/F4j0IbC5mq http://t.co/MeRqPX921z",
+        "user id": 8736882,
+        "tweet id": "524936008870400000",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail are thoughts are with you",
+            "user id": 972762792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail #soldier u think u r a hero for shooting someone.  U r a pig and scum.  Go back from where u came from. Prayers for family",
+            "user id": 2408016120,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: Photos from the Parliament shooting scene http://t.co/BcLoXGtMLK http://t.co/Z0b0uOL29T”",
+            "user id": 434356583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@globeandmail: Photos from the Parliament shooting scene http://t.co/yYN3jZIato http://t.co/3HaIBJkVl1”",
+            "user id": 539285912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Photos from the Canadian Parliament shooting scene http://t.co/6xqTFWRpoF http://t.co/gnOqqRICDM via @globeandmail",
+            "user id": 14975117,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@globeandmail @telsah1  its a global future",
+            "user id": 2837244053,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@2015_ukip @globeandmail  &amp;  you see it as it happens. Making the world seem more scary or is it actually more scary?",
+            "user id": 585903763,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@globeandmail @alextomo c'mon! Get him!",
+            "user id": 65675381,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

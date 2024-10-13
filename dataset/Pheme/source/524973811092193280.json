@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#OttawaShooting @RCMP_Nat_Div press conference will be held at 2 pm today",
+        "user id": 126486040,
+        "tweet id": "524973811092193280",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ErinAnderssen @globeandmail @RCMP_Nat_Div 5PM PST?",
+            "user id": 18385511,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ErinAnderssen:  #OttawaShooting @RCMP_Nat_Div press conference will be held at 2 pm today.",
+            "user id": 826254392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ErinAnderssen So is it over? What about the one's still at large?",
+            "user id": 100533495,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ErinAnderssen @globeandmail Hope to say CDA recalling CF18s and ending foreign entanglements. #cdnpoli  http://t.co/tapy7HBoSW",
+            "user id": 336661862,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

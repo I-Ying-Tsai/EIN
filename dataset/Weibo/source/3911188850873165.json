@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "转发微博",
+        "user id": 1618051664,
+        "tweet id": "3911188850873165",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "曾有人评价：\"宽厚有余，威重不足。有开创新局面之雄心，而无控制局势之能力。容易受人欺侮，容易被人颠覆。\"",
+            "user id": 1825072027,
+            "user name": "春晖Nirvana",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "",
+            "user id": 2041589644,
+            "user name": "潢川在线",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

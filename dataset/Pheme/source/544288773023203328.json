@@ -1,0 +1,192 @@
+{
+    "source": {
+        "content": "BREAKING: Gunman in #SydneySiege says he has \"devices all over the city,\" demands to speak with Prime Minister -@JFXM http://t.co/wTO5RzOWe0",
+        "user id": 375721095,
+        "tweet id": "544288773023203328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Breaking911 @Amarriieeee @JFXM My God! 😳",
+            "user id": 1945410296,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "😧 “@Breaking911: BREAKING: Gunman in #SydneySiege says he has \"devices all over the city,\" demands to speak with Prime Minister -@JFXM”",
+            "user id": 72797386,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@Breaking911 @18DialSquare86 @JFXM no such threats or demands made by the gunmen according to local media?",
+            "user id": 1695442555,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10,
+                11
+            ],
+            "content": ".@bobillingworth @Breaking911 @18DialSquare86 @JFXM last thing needed is inaccurate sensationalist reporting to further heighten tensions.",
+            "user id": 1592079391,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@bobillingworth @Breaking911 @18DialSquare86 Australian radio/TV both reporting these threats. Unconfirmed but, yeh, reports.",
+            "user id": 20639175,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@Breaking911: BREAKING: Gunman in #SydneySiege says he has \"devices all over the city,\" demands to speak with Prime Minister\" fuck",
+            "user id": 118847454,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Breaking911 @JFXM Really? And they set up HQ in a chocolate shop? Can we wait until there is conclusive proof of this and focus on hostages",
+            "user id": 235633579,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Breaking911 @Aussie_Skinhead @JFXM flags says,  \"Please Inform Others\" = meaning Islamic Jihads to act now. http://t.co/6fo5gtNWL8",
+            "user id": 516103610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Breaking911 @JFXM Download a hilarious FREE Koran parody for infidels of all ages – https://t.co/hXbeZHdguj",
+            "user id": 2886586060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Breaking911 @JFXM Muslim Terrorist strike again #sydneysiege",
+            "user id": 103588513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@baldwheels1 @Breaking911 @18DialSquare86 @JFXM exactly.",
+            "user id": 1695442555,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@baldwheels1 @bobillingworth @Breaking911 @18DialSquare86 @JFXM they actually just said something ab this on BBC",
+            "user id": 243187466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@JFXM @Breaking911 @18DialSquare86 just heard re PM demands in the last 2 mins. No device claims reported.",
+            "user id": 1695442555,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@Meliz333 @bobillingworth @Breaking911 @18DialSquare86 @JFXM yes just head a report of it now too. Don't know if it's accurate or not.",
+            "user id": 1592079391,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

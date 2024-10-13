@@ -1,0 +1,194 @@
+{
+    "source": {
+        "content": "Say a prayer for those being held hostage in the Lindt cafe in Martin Place, Sydney. #sydneysiege",
+        "user id": 28287525,
+        "tweet id": "544272134764122112",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham #prayforMartinPlace",
+            "user id": 419095475,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@BenFordham: Say a prayer for those being held hostage in the Lindt cafe in Martin Place, Sydney. #sydneysiege” hoping every1 stays safe",
+            "user id": 152829461,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham feeling sick to my stomach, prayers and thoughts with them and their safety!",
+            "user id": 487257825,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham hope no one gets seriously gets hurt.",
+            "user id": 343287142,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham what pieces of shit",
+            "user id": 546408425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham how about we don't play into their hands by running it live on every TV station?",
+            "user id": 47851319,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham @kelliesloane no pray. Hope that those managing the incident are doing what they were trained to do.",
+            "user id": 9138142,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "Yeah.. that's going to help! “@BenFordham: Say a prayer for those being held hostage in the Lindt cafe in Martin Place, Sydney #sydneysiege”",
+            "user id": 259958080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                14
+            ],
+            "content": "@Noideamate1 @BenFordham can't hurt",
+            "user id": 59485812,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@Noideamate1 @BenFordham let's hope their prayers are heard by Allah he seems to be running this show. Religion sucks!!",
+            "user id": 511737039,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham very sad. It makes me feel sick that these cowards attack innocent people.",
+            "user id": 1561720554,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham isn't \"prayer\" how we got into this situation in the first place?",
+            "user id": 200788288,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham @AdamBaldwin Don't need prayers when you have the Australian SOG &amp; SAS on the job. Predicting dead Islamists within the hour.",
+            "user id": 2870292259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@BenFordham prayers and thoughts with everyone, stay safe.",
+            "user id": 2772373944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 8,
+            "children": [],
+            "content": "You could kiss your dog on the lips as well... Not going to help... Not going to hurt..  @rgilloway",
+            "user id": 259958080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

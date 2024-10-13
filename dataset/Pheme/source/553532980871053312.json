@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING - Hostage taken at kosher shop in #Paris by ‘suspect in police officer shooting' https://t.co/4yt6nafpIg http://t.co/f9N8Bjn68I",
+        "user id": 1994321,
+        "tweet id": "553532980871053312",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "MT @FRANCE24 Hostage taken at kosher shop in #Paris by ‘suspect in police officer shooting' https://t.co/ZF6TGUkOdn http://t.co/YT6beKfrLJ",
+            "user id": 122294990,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24",
+            "user id": 2887415303,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24",
+            "user id": 1477537388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

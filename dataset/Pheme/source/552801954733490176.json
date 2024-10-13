@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "12 confirmed dead  in #CharlieHebdo attack (@AFP) http://t.co/82wVYNxteC",
+        "user id": 25067168,
+        "tweet id": "552801954733490176",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews @Vespro3 @AFP https://t.co/6MTcIsr5Gw",
+            "user id": 1357102304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ":( \"@euronews: 12 confirmed dead  in #CharlieHebdo attack (@AFP) http://t.co/GhvWa5kufh”",
+            "user id": 9114032,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

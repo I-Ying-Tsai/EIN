@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Police are leaving now. #ferguson https://t.co/tozjird2vf",
+        "user id": 14090948,
+        "tweet id": "498300256678076417",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "*Breathes sigh of relief* RT @AntonioFrench Police are leaving now. #ferguson https://t.co/9ARHf4RO7r",
+            "user id": 15888299,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Police are leaving now. #ferguson https://t.co/QPQFdSBhTh”",
+            "user id": 801641258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AntonioFrench: Police are leaving now. #ferguson https://t.co/I9DIeSTZiE",
+            "user id": 19522577,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@AntonioFrench: Police are leaving now. #ferguson https://t.co/Z5lZa6y6Zd”",
+            "user id": 18965750,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "RT @NeekGoBacon: “@AntonioFrench: Police are leaving now. #ferguson https://t.co/oFHhXQcPMd”",
+            "user id": 24531913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Police are leaving now. #ferguson https://t.co/xw2PHdfAcb” // It's about damn time!",
+            "user id": 176165009,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @Dreamdefenders They will be back. We can count on that. SMH",
+            "user id": 359617093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "why were they there in the first place \"@AntonioFrench: Police are leaving now. #ferguson https://t.co/LkH2mFh8Yl”",
+            "user id": 911423191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

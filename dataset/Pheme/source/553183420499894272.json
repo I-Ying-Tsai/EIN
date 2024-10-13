@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "A million copies of Charlie Hebdo will be published Wednesday to show “stupidity will not win”\nhttp://t.co/nwdVxrc5f9 http://t.co/JXCOKGeTJC",
+        "user id": 1068121346,
+        "tweet id": "553183420499894272",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@BuzzFeedUK \n\nhttp://t.co/CIsr3CyCMo\n\nI want to invite you to the religion of #Islam and I hope you know about Islam.\n\n#Favorite\n#RT\n🌹",
+            "user id": 2852446116,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ThinkKu @BuzzFeedUK I want to invite you to a nazi meeting, and try your own medicine. #islam is #terror",
+            "user id": 190183745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK No support for racist journalism here.",
+            "user id": 180961394,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @BuzzFeed racism is not a justice",
+            "user id": 227703159,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK YES",
+            "user id": 1241042244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @BuzzFeed showing 'stupidity will not win' by doing something stupid? Okay guys...",
+            "user id": 1909390567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @ArtistFrickers It IS a Fight against STUPIDITY. That's exactly what it is. Islam = Submission to Mad Idiocy",
+            "user id": 1151095778,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @BuzzFeed  yes for 3 criminal  insult more than a billion Muslim \nWho’s the haters now?!   \nNow I get the point of the three men",
+            "user id": 1616592169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @BuzzFeed only CNN will not show any drawings. And they call us islamofobe!",
+            "user id": 606539838,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

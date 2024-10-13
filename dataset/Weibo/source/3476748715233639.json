@@ -1,0 +1,395 @@
+{
+    "source": {
+        "content": "分享图片",
+        "user id": 1688120670,
+        "tweet id": "3476748715233639",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "转发微博",
+            "user id": 2122967900,
+            "user name": "兔家希爾维亚圆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2,
+                5
+            ],
+            "content": "早日康复",
+            "user id": 1890359952,
+            "user name": "汪文华ansel",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "我居然盯着最后一张看了10秒",
+            "user id": 1726332237,
+            "user name": "囧宛如",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "[悲伤]",
+            "user id": 2274759300,
+            "user name": "櫻之糖菓",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "质疑刘翔演戏的路边小野报们你们真棒....",
+            "user id": 1776553247,
+            "user name": "lei-lei新家",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "[生病]@汪文华ansel: 早日康复",
+            "user id": 1697346303,
+            "user name": "心岚stacy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 2257308422,
+            "user name": "A_n_n_a_12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "刘翔永远是中国的骄傲，国家的英雄，忍着伤痛出塞，还要被众多无良的人质疑，嘴臭的人该闭嘴了。",
+            "user id": 1290025812,
+            "user name": "子鳶新語",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "转发微博",
+            "user id": 1731598185,
+            "user name": "莎莎NMI",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "",
+            "user id": 1656843805,
+            "user name": "Adebayor张保仔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                27
+            ],
+            "content": "太作孽了！做个平凡但幸福的人吧！",
+            "user id": 2050695495,
+            "user name": "雨过天晴-chu",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                13,
+                14,
+                20
+            ],
+            "content": "[可怜]",
+            "user id": 1009867565,
+            "user name": "凌小冰冰冰",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "刘翔，早日康复。你是我们的英雄！！！！",
+            "user id": 1781407791,
+            "user name": "Liu笑菲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "是啊！这几年压力背负的太重了。。。",
+            "user id": 1893613460,
+            "user name": "Havyn---Taurus",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [],
+            "content": "最后一张吓到我了，祝福他",
+            "user id": 1946193207,
+            "user name": "小甜囡囡",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 2313003722,
+            "user name": "少年无谓Rue",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17,
+                19
+            ],
+            "content": "某些人满意了吧，别在哪说自己也断过，普通人断了肯定会瘸一辈子，因为没有条件去做康复训练，请问你哪来的神医让你手术完美后期又能康复到比高中时飞的更高，请问你怎么当上的兵，就我知道浙二的这方面的第一刀去年才毕业回国，跟腱拉伤就算了，说自己也断过你敢不敢拍张后跟照出来给大家看看手术的疤",
+            "user id": 2103045670,
+            "user name": "周小yin",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "content": "出不出图其实都一样，一部分国人的心态永远改变不了。",
+            "user id": 1697385587,
+            "user name": "shenhan",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "[泪][泪][泪]",
+            "user id": 1766672535,
+            "user name": "启动各种模式的Q酱",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [],
+            "content": "",
+            "user id": 1929138574,
+            "user name": "长脚小7",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": 11,
+            "children": [],
+            "content": "[悲伤]",
+            "user id": 2094161613,
+            "user name": "小点点的姐姐",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "content": "妈啊 祝福刘翔！！！！赶紧好吧 太吓人了额",
+            "user id": 2477484102,
+            "user name": "阳玉玉玉玉玉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "[泪][泪]",
+            "user id": 2150691777,
+            "user name": "小歪牙控",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "着腿不是刘翔的吧？？？！",
+            "user id": 1726766504,
+            "user name": "贰佰牛犄角",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 2064059863,
+            "user name": "请叫我作死的左左",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "content": "哎哪些说便便话得都满意了吧、",
+            "user id": 2335363742,
+            "user name": "Sunnybaby天天妈咪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "content": "罵他的人、麻煩用眼睛去看看、用腦子去想想、！！！金牌不是最重要的~身體才是！你特麼有本事把自已跟腱挑斷了然後去跳完110米再拓麻來罵的人！你敢麼、作秀啊？你丫作秀把自已身體先毀了？[怒][怒]@Kiki_韩夕妤",
+            "user id": 1864476434,
+            "user name": "唯爱灿烈先森--黛妞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": 10,
+            "children": [],
+            "content": "太假了！一看就不是刘翔的腿。人家还没动手术呢！",
+            "user id": 1959087015,
+            "user name": "江南四郎",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [
+                30
+            ],
+            "content": "转发微博。",
+            "user id": 1826596600,
+            "user name": "Anson__安生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "刘翔！继续加油！@JJJJJJJ_璇 @-谢月莹 @阿飞擦 @丘志萍 在看之前做好看最后一张的心理准备，有点恶心哈！",
+            "user id": 2266450663,
+            "user name": "miumiu-菁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [],
+            "content": "幸福那么近又那么远。",
+            "user id": 1863537462,
+            "user name": "马尔泰小妖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "操。。。",
+            "user id": 1662716402,
+            "user name": "拖出去喂汪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 15,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

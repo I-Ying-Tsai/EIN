@@ -1,0 +1,183 @@
+{
+    "source": {
+        "content": "Micheal Essien denying the Ebola rumours like https://t.co/H2E1TAzeha",
+        "user id": 159412087,
+        "tweet id": "521369179392581632",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Mourinholic Hmmm.",
+            "user id": 1042012837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Mourinholic BEST VINE EVER.",
+            "user id": 201031367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Mourinholic loved that goal unbeleverble tekkers",
+            "user id": 1049507492,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Mourinholic miss Chelsea fans à lot. Take care bro",
+            "user id": 1323550160,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@CdtChoco1er thanks bro.",
+            "user id": 159412087,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Mourinholic Even though it was against us, it was a bloody amazing goal.",
+            "user id": 96820406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@Mourinholic: Micheal Essien denying the Ebola rumours like https://t.co/n2bhpr4n6D” @nSkillpa",
+            "user id": 384622536,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@Mourinholic: Micheal Essien denying the Ebola rumours like https://t.co/8Yo8iLgISS”",
+            "user id": 2338265452,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@Mourinholic: Micheal Essien denying the Ebola rumours https://t.co/oMJBpnIyqu”\n\nHow awesome?!! He's not even on the vine when it starts! 😎",
+            "user id": 771574574,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@Mourinholic: Micheal Essien denying the Ebola rumours like https://t.co/PQ8DQqWZqJ” @MichaelEssien",
+            "user id": 562286793,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Mourinholic Darn! Some sweet fitness things. Come see it! http://t.co/QSLU7Elbkl Kinda nice!",
+            "user id": 2547617447,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Mourinholic 😕😕 http://t.co/sFoV1v8uDo",
+            "user id": 159811191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@Mourinholic u're very welcome blood. Chelsea one day, Chelsea forever. That's how's it",
+            "user id": 1323550160,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 4,
+            "children": [],
+            "content": "@Mourinholic i like more of ur publications. Go ahead bro",
+            "user id": 1323550160,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

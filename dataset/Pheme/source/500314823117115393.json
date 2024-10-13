@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Captain Johnson: \"What happened last night is what's going to happen here forward.\" #Ferguson",
+        "user id": 14090948,
+        "tweet id": "500314823117115393",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Are you able to ask questions?",
+            "user id": 2310990392,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench have they made any arrest.  Please ask that",
+            "user id": 2492040618,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench amen. lets make sure the timedate stamp on still pics look like the correct month, and that the man in vid has sandals on",
+            "user id": 52158124,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench rumors indicate Westboro Baptist Church is on their way. Only twitter rumors, but preparation may be necessary",
+            "user id": 117539047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench was Mike Brown wearing shoes or flip-flops when shot?",
+            "user id": 1680191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench more crime?",
+            "user id": 1077964070,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        }
+    }
+}

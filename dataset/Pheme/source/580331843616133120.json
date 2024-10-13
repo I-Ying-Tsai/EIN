@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "UPDATE: 240 firefighters, 210 policemen are on their way to the crash site http://t.co/WKhAjiH6pQ #Germanwings #4U9525",
+        "user id": 34262462,
+        "tweet id": "580331843616133120",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SputnikInt Hello Kremlin TV.",
+            "user id": 483945427,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

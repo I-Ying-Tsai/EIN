@@ -1,0 +1,131 @@
+{
+    "source": {
+        "content": "BREAKING: 148 passengers were on board #GermanWings Airbus A320 which has crashed in the southern French Alps http://t.co/VxxvrU9XmV",
+        "user id": 22240612,
+        "tweet id": "580319184652890113",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "content": "BREAKING: 148 passengers were on board #GermanWings Airbus A320 which has crashed in the southern French Alps - @AlArabiya_Eng",
+            "user id": 2566535282,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "“@rConflictNews: BREAKING: 148 passengers were on board #GermanWings Airbus A320, crashed in the southern French Alps - @AlArabiya_Eng” 😰",
+            "user id": 1530746612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "UPDATE: Plane crash in south of France had 142 passengers, 2 pilots and 4 crew.",
+            "user id": 2566535282,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "@rConflictNews @AlArabiya_Eng Prayers going up. How sad.",
+            "user id": 598684128,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "@rConflictNews @AlArabiya_Eng No crew???? Those passengers were all on their own? Wtf!",
+            "user id": 22763983,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "@rConflictNews @AlArabiya_Eng 150 souls on board they say now. RIP to all of them",
+            "user id": 211639643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AlArabiya_Eng Terrible!",
+            "user id": 1130203891,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@AlArabiya_Eng: 148 passengers were on board #GermanWings Airbus A320 which has crashed in the southern French Alps http://t.co/VSqaycAsIG”",
+            "user id": 1672452854,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [],
+            "content": "@rConflictNews @sahla_sing what happened",
+            "user id": 3082649305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Ottawa police confirm at least 3 separate shooting sites and multiple suspects -  http://t.co/lXFiYaVImZ",
+        "user id": 292777349,
+        "tweet id": "524948703850029056",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@PzFeed: BREAKING NEWS: Ottawa police confirm at least 3 separate shooting sites and multiple suspects -  http://t.co/m0ecoYzyn5” FFS",
+            "user id": 52759463,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "BREAKING: Ottawa police confirm at least 3 separate shooting sites and multiple suspects -  http://t.co/H2H6Lg13mh\n\nvia @PzFeed",
+            "user id": 2566535282,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Oh Canada, that lone gunman is making the rounds. #punintended @PzFeed @LouisBrown16",
+            "user id": 392886711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

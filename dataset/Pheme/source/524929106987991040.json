@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown, shooter at large http://t.co/64V216TLzO #ottnews",
+        "user id": 23655688,
+        "tweet id": "524929106987991040",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Was a witness. So scary “@OttawaCitizen: BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown http://t.co/QHw13UgbYl #ottnews”",
+            "user id": 1849985972,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaCitizen devastating :( #staysafe",
+            "user id": 469548921,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaCitizen shooter at large? Stay safe everyone",
+            "user id": 1524872100,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaCitizen @meghan_hurley",
+            "user id": 1291604970,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "“@OttawaCitizen: BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown, shooter at large http://t.co/w3YhVYDb9A #ottnews” &lt; wow",
+            "user id": 18658255,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@projmgr trying to get coverage on this. @dish not providing CNN so have watch msnbc,",
+            "user id": 15690697,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@OttawaCitizen: BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown, shooter at large http://t.co/KUC43uiPFo #ottnews”",
+            "user id": 275081934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaCitizen Reporting that an unnamed bystander thought the suspect was wearing an \"Arabic scarf\" isn't news. It's racism. Do better.",
+            "user id": 62394828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@OttawaCitizen: BREAKING: Soldier shot at War Memorial in Ottawa, Hill on lockdown, shooter at large http://t.co/vARRHqnLnY #ottnews” 😱😰",
+            "user id": 1970084544,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

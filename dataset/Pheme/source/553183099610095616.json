@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Wait, printing the #CharlieHebdo cartoons is too offensive, but putting a wounded policeman about to be executed on your front page *isn't*?",
+        "user id": 532779460,
+        "tweet id": "553183099610095616",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Yair_Rosenberg @jonlen1 I don't even try to understand the hypocrisy anymore.",
+            "user id": 793044632,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@LuanneCarey @Yair_Rosenberg MSM is frightening in their narrative of denial &amp; truth distortion",
+            "user id": 43157410,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Yair_Rosenberg that is the only way to give these Islamic terrorists what they want. How else can we defeat them?",
+            "user id": 49367983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Yair_Rosenberg MSNBC showing it on a loop. Disgusting.",
+            "user id": 2340880237,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Yair_Rosenberg it's not too offensive, it's news agencies watching their back. More concerned about $ then the truth!!",
+            "user id": 2194321901,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Yair_Rosenberg it IS despicable.  Our sensibilities have become too bruised. I don't see how this can end well! We are already damaged.",
+            "user id": 2885208318,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Yair_Rosenberg could not agree more abs shocking",
+            "user id": 2733138920,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Yair_Rosenberg @UnPoliticalPrty It's simple and obvious - they don't want to be killed but are too afraid to admit it.",
+            "user id": 177830416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Yair_Rosenberg @jacar101 Israel killing thousands of children in gaza is offensive. Publishing cartoons or pics of dead cops is tasteless.",
+            "user id": 2850457717,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

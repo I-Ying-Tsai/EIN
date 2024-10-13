@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "#Germanwings passenger plane crashes in French Alps with 148 onboard http://t.co/JCDZtv8We0 http://t.co/yE0hUNdiTr",
+        "user id": 14173315,
+        "tweet id": "580339825649291264",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NBCNews @Mao_A_Moon damn, thats the airlines i normally use when going Germany bro.",
+            "user id": 91557233,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@volkz_20 @NBCNews Ohhh man, terrible news for all the victims' families!",
+            "user id": 522754788,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews Praying for the families and friends of those involved in crash. I'm so sorry for your loss.",
+            "user id": 2674312449,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews que merda!",
+            "user id": 35463248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews terrible situation...Let's pray to God to take control!",
+            "user id": 171091425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "#Breaking RT @NBCNews: #Germanwings passenger plane crashes in French Alps with 148 onboard http://t.co/IKWmXRw9Sk http://t.co/sms8KtXxgX",
+            "user id": 523349706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@NBCNews: #Germanwings passenger plane crashes in French Alps with 148 onboard http://t.co/kaBcS2rIfh http://t.co/3FSh7RHSDx” @drunkBills!!",
+            "user id": 26193011,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "RT @NBCNews: #Germanwings passenger plane crashes in French Alps with 148 onboard http://t.co/OaZWx4f6BZ http://t.co/q9wuZeMChj",
+            "user id": 132254964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@NBCNews: #Germanwings passenger plane crashes in French Alps with 148 onboard http://t.co/T6uZaKHVgv http://t.co/6J9TqLwwea” sad sad day",
+            "user id": 344412774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "Tragedy strikes again RT “@NBCNews: #Germanwings passenger plane crashes in French Alps with 148 onboard http://t.co/SSgQepeizR”",
+            "user id": 576668548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

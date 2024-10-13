@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "Media told not to leave #Moscow &amp; expect statements fr #Kremlin http://t.co/QClF820Zp7 No flag on building #putindead http://t.co/8Oc4lf6YAE",
+        "user id": 52003080,
+        "tweet id": "576516069516525568",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 Maybe they're going to raise a \"Novorossiya\" flag there for Crimea annexation celebrations. Or the Soviet one",
+            "user id": 2237927370,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@raging545 I don't know when this photo was shot but right now it very very early morning in Mokva",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@cmsNetherlands That photo was taken during the day",
+            "user id": 52003080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@raging545 As in Today.. 13th march",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

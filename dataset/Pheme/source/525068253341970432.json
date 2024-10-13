@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "What an awful day in Ottawa. Thoughts and prayers are with our @Senators family, the entire city of Ottawa and all of Canada.",
+        "user id": 29264626,
+        "tweet id": "525068253341970432",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PredsNHL @Senators @_pekkachuu your team loves us",
+            "user id": 939571914,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

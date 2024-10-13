@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "On Monday, Paul George was back shooting hoops in the gym. \n\nYesterday, practice became a 1-on-1 game vs. his dog: http://t.co/Zt1hA8XmWi",
+        "user id": 2557521,
+        "tweet id": "524940803601227777",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@espn he better sit his ass down and rest up properly...",
+            "user id": 478869016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@espn hey you guys should start reporting news for once.",
+            "user id": 228576737,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@espn so good to see.  It was so sickening to see him get hurry like that. How he comes back strong.",
+            "user id": 2785037034,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@espn holy shit already 😳",
+            "user id": 74059519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@espn #FireAbbott",
+            "user id": 18571061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@espn he better tighten up before that dog breaks his other leg",
+            "user id": 311028009,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@espn @_ArexD this guy gets publicity for anything lol",
+            "user id": 920850086,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@jkibbys @espn idk why since he's a scrub",
+            "user id": 2675611736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@espn He looks better, hope his jumping game will be same or better.",
+            "user id": 2287646857,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@espn Great for basketball",
+            "user id": 134604907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "source": {
+        "content": "Whoever you are, wherever you are, whatever you believe in: pray for Sydney, support humanity and join the movement #illridewithyou ❤️",
+        "user id": 20190311,
+        "tweet id": "544442206832963584",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GiselleUgarte #illridewithyou",
+            "user id": 1365343519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GiselleUgarte i love this tweet of yours :')",
+            "user id": 82601943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@GiselleUgarte  may god protect you",
+            "user id": 376848362,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@A_abdulkareem And you :)",
+            "user id": 20190311,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@GiselleUgarte definitely thats what humanity is..!! #illridewithyou #PrayForSydney",
+            "user id": 2151112453,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@GiselleUgarte perfect sentiment ✌️",
+            "user id": 26971440,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@amynicole__ ✌️❤️",
+            "user id": 20190311,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@GiselleUgarte your tweet pretty much somes up the event, and how we should move forward, not backwards... so thank you 💖",
+            "user id": 82601943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "source": {
+        "content": "No matter how much you try to bring us down, one thing about Australian's is we ALWAYS stand together! 👍 #SydneySiege http://t.co/vYQe6Xe90m",
+        "user id": 26168951,
+        "tweet id": "544450710926934017",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@JAYYSN cringe worthy dialogue. Sick of Aussies acting like we are special. Most of us r selfish, greedy and uncaring.",
+            "user id": 2279122939,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@GirlsDontCount @JAYYSN This is so very true, the national sport is not AFL, it is hating on each other for any reason under the sun.",
+            "user id": 2445124933,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@GirlsDontCount @JAYYSN so fucking true. we're a pack of fucking rats and booze drinking dumbcunts. #straya",
+            "user id": 1558361336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@JAYYSN Mates will always stick together. Thanks for sharing mate",
+            "user id": 304323235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@jase_maggs Thank YOU for posting it. You worded it perfectly man. Makes me proud to be Australian! You've got a good heart 👍",
+            "user id": 26168951,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@JAYYSN  Very well said Mate!",
+            "user id": 129391552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@JAYYSN @crazy_salad I want to live in Australia just so I can say straya",
+            "user id": 2338991389,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@lexooj @JAYYSN Of course it is true. Sick of ppl acting like traits like courage and mateship are unique to Australians.",
+            "user id": 2279122939,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

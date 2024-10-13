@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "道理都懂，但该怨的还是会怨，该骂的还是会骂，该哭的也还是会哭，毕竟心里的难受不是道理所能释怀的。。。",
+        "user id": 2693029692,
+        "tweet id": "3909857881572096",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "嗯嗯",
+            "user id": 1969898377,
+            "user name": "木子婷婷的婷儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "心里1的难受不是道理可以释然的！",
+            "user id": 3564795400,
+            "user name": "浪小花F",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

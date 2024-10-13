@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "NEW: Ottawa police reporting 3rd shooting scene, at Rideau Centre Mall, close to Parliament Hill",
+        "user id": 26040618,
+        "tweet id": "524949306101743616",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@siomo: NEW: Ottawa police reporting 3rd shooting scene, at Rideau Centre Mall, close to Parliament Hill” 🙊🙀😖",
+            "user id": 2471649080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@siomo: NEW: Ottawa police reporting 3rd shooting scene, at Rideau Centre Mall, close to Parliament Hill”",
+            "user id": 69031247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@siomo Their tweet says \"near Rideau Centre,\" meaning it could be Chateau Laurier or other locations.",
+            "user id": 22569833,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@siomo: NEW: Ottawa police reporting 3rd shooting scene, at Rideau Centre Mall, close to Parliament Hill”",
+            "user id": 30464361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@siomo @acoyne every Cnd needs to be armed with knowledge of 20th cent. fascist ideology Islamism (not Islam). Must all work to stop in Cnd",
+            "user id": 330929366,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@siomo @acoyne  as we did with Nazism. Can't fight if we minimize what it truly is. Calling it 'terrorism' or 'extremism' minimizes it",
+            "user id": 330929366,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@siomo @geraldericsson If they're radical Muslims, deport them, along with neighbors, friends, employers and Imams. Time to clean house.",
+            "user id": 885480031,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

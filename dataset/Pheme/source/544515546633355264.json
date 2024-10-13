@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "All quiet again after multiple gunshots in #MartinPlace. No word on whether hostages are free #SydneySiege http://t.co/8LEGvRXv8m",
+        "user id": 1855737487,
+        "tweet id": "544515546633355264",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @BuzzFeed how nerv wracking, hopefully nobody is dead, possibly injured, but not dead",
+            "user id": 268515146,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz another rat eliminated hopefully but how many still threatening ?",
+            "user id": 633562602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

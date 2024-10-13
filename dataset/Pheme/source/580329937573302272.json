@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "NEWS Germanwings flight crashes in south of France http://t.co/Iy99ucFqQ0",
+        "user id": 2280470022,
+        "tweet id": "580329937573302272",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet is this true",
+            "user id": 79391278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet http://t.co/wYFJDInmzq",
+            "user id": 79391278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "VIDEO: @petermansbridge on what we currently know about the #OttawaShooting http://t.co/5XBsdQf561 http://t.co/EKZlSUznJ9",
+        "user id": 24000965,
+        "tweet id": "524976857822011394",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CBCTheNational @tompowercbc @petermansbridge Mansbridge is the king, man, how lucky are we to have him all these years",
+            "user id": 272208718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "Canada is SO lucky to have Bilderberger @petermansbridge as chief talking head for @CBC! @AndyFrank55 @CBCTheNational @tompowercbc #cdnpoli",
+            "user id": 389475975,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCTheNational @petermansbridge \n\nStop selling fear peter.",
+            "user id": 21847238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCTheNational @petermansbridge http://t.co/07YoTByG6B",
+            "user id": 1300658593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCTheNational @tompowercbc @petermansbridge Thank you Peter.",
+            "user id": 137784769,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "THIS is a great view for those not familiar with the Canadian Parliament area.  RT @CBCTheNational #CanadaStrong #CanadaShooting",
+            "user id": 34292506,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "source": {
+        "content": "Several attacks against mosques in France after Paris shooting: reports",
+        "user id": 37034483,
+        "tweet id": "553127274829328385",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@ndtv: Several attacks against mosques in France after Paris shooting: reports”",
+            "user id": 189917061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@waglenikhil @ndtv You might be feeling bad na?",
+            "user id": 45301212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ndtv The divide is widening. That was bound to happen",
+            "user id": 100269595,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "I did not see any REPORT @ndtv Saw one which said \"Blast Hits RESTAURANT Near Mosque\" http://t.co/i7sPYXtPy5 http://t.co/jp6hBI63pa",
+            "user id": 2375531316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@Aks9009Pa @ndtv so u have started ur false n motivated propaganda to save your masters and please Jehidies. @narendramodi pls ban #ndtv",
+            "user id": 239293197,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PMOIndia @HMOIndia @arunjaitley &gt;@ndtv&lt; are spreading LIES which may amount to create COMMUNAL TENSIONS in INDIA, take action",
+            "user id": 2375531316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Insane. How is it their fault, you fuckwits? \"@ndtv: Several attacks against mosques in France after Paris shooting: reports”",
+            "user id": 58211988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ndtv the french reaction was bound to happen. As France is not like India. Viva la #France",
+            "user id": 106991767,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@rajattwittes I was quite surprised because I am watching all reports concerning France, NOT ONE say's Attack on Mosque @ndtv @narendramodi",
+            "user id": 2375531316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@rajattwittes @ndtv @narendramodi This one, but I see it as a Diversionary Tactic's of Terrorists rather than revenge http://t.co/F4NCPko60p",
+            "user id": 2375531316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

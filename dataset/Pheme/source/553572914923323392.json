@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Join us in hating horrible crimes and racist cartoons at the same time http://t.co/JHJlB2950h #CitizenRadio #CharlieHebdo",
+        "user id": 50367908,
+        "tweet id": "553572914923323392",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CitizenRadio this is seriously one your best episodes- so many well made points and well landed jokes! &lt;3",
+            "user id": 117183709,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@cash4oneness thank you &lt;3",
+            "user id": 50367908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CitizenRadio @jamiekilstein is islam a race now?",
+            "user id": 16168504,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CitizenRadio @shushugah Why hate racist cartoons?",
+            "user id": 927081422,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CitizenRadio @BakerTheClerk yeah. Not a race. Therefore no racism.",
+            "user id": 212000622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CitizenRadio @jamiekilstein it's fascinating the atheist defence of Islam and its followers. Why this religion is to be treated differntly?",
+            "user id": 16168504,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": ".@CitizenRadio Thank you for helping me feel like less of a psycho for thinking the cartoons were terrible.",
+            "user id": 357319445,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Everyone was out to support. #MikeBrown #Ferguson #UnionSquare #nyc4stl http://t.co/z3VT5Sf51v",
+        "user id": 917922457,
+        "tweet id": "500072098178813954",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AllysonxGill @michaelstjames OK, that lady brought a tear to my eye.",
+            "user id": 6752232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Greeblehaus @AllysonxGill right?! I'm tearyeyed with joy. Such an amazing roller coaster! I'll take the joy.",
+            "user id": 32382727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Very powerful “@AllysonxGill: Everyone was out to support. #MikeBrown #Ferguson #UnionSquare #nyc4stl http://t.co/DkyzA8SG6S”",
+            "user id": 28921274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Just beautiful! RT@AllysonxGill @anastasiakeeley: Everyone was out to support #MikeBrown. #Ferguson #nyc4stl http://t.co/3IVHWFH8n7",
+            "user id": 69259701,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Great pic! RT @AllysonxGill: Everyone was out to support. #MikeBrown #Ferguson #UnionSquare #nyc4stl http://t.co/612RwjKFs2",
+            "user id": 17159560,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AllysonxGill yep...even the mentally ill!",
+            "user id": 1219973383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

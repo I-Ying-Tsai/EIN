@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Chief of Defence Staff MT @Joerayment: Surreal photos out of Ottawa: VIP escorted on Sparks St http://t.co/Fyb1QEFgcp http://t.co/FxcTvlRADa",
+        "user id": 107883101,
+        "tweet id": "524980775741956097",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@daveprisco @Joerayment never in my life would have thought I'd see this in Ottawa",
+            "user id": 156287314,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@daveprisco @BlogsofWar @Joerayment nothin but professional....",
+            "user id": 2546977356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Unreal photos RT @daveprisco: Chief of Defence Staff @Joerayment: Surreal photos out of Ottawa http://t.co/6o5JFpsPos http://t.co/UCsjAxd532",
+            "user id": 147202533,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "MT “@daveprisco: Chief of Defence Staff escorted out in Canada\" http://t.co/TuGYZVxcHj http://t.co/6GIGJ9vLgu”",
+            "user id": 27733722,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@CamMCollins @daveprisco Those guys look real intense. #beards",
+            "user id": 1053917335,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@daveprisco @Joerayment is that a Gurkha armored vehicle ?, the model delivered to the Peshmerga .",
+            "user id": 16995002,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@daveprisco @stphnmaher @Joerayment Can this indeed be my country? I'm scared, but glad for vigilant scenes like this one. Thanks to all.",
+            "user id": 270663234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@daveprisco @dcseth @Joerayment Stupid of me, but the jeans!",
+            "user id": 558215877,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@daveprisco @dcseth @Joerayment ...Instead of blending in those jeans say \"cop!\"",
+            "user id": 558215877,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@daveprisco @dcseth @Joerayment ...Maybe those undercover jeans would work in 'Serpico' seventies.",
+            "user id": 558215877,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

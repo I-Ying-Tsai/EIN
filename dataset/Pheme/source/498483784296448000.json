@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "Protestors have crossed the police line in #Ferguson https://t.co/Y2CxIZe4Hk",
+        "user id": 14090948,
+        "tweet id": "498483784296448000",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Protestors have crossed the police line in #Ferguson https://t.co/d7yqvrJpih”",
+            "user id": 310547809,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Protestors have crossed the police line in #Ferguson https://t.co/p75PJUpFxV”",
+            "user id": 2421086706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AntonioFrench @JaHad__ Why are they protesting?",
+            "user id": 583356457,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "@JujuChirco @AntonioFrench 18 yr old unarmed black kid shot by the police when he didnt do anything",
+            "user id": 42020959,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "The sound of the people. @AntonioFrench, thank you so much for your work reporting on this.",
+            "user id": 39780408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@JaHad__ @AntonioFrench That is absolutely terrible",
+            "user id": 583356457,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

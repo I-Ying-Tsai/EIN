@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Last few positions of the @germanwings flight plotted on a map http://t.co/UX5G1gYGX7",
+        "user id": 100936791,
+        "tweet id": "580323877429112832",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@planefinder Why does distance increase, then decrease, then massively decrease? Say something?",
+            "user id": 37143583,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@planefinder RT of @AirlineFlyer http://t.co/SLkWuK8qXb",
+            "user id": 37143583,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@planefinder @por qué esa ruta ??????",
+            "user id": 377991823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

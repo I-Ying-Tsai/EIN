@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Doors barricaded RT @grahamctv: Shot from inside caucus room after shooting @ctvottawa #ottawashooting. http://t.co/OpERH3GiMu",
+        "user id": 289998339,
+        "tweet id": "524956007324082177",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada @grahamctv @ctvottawa Oh my lord...",
+            "user id": 506706634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada @grahamctv @ctvottawa STOP. POSTING. PHOTOS.",
+            "user id": 17678529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada @grahamctv @ctvottawa",
+            "user id": 1069277966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "#ottnews #ctvottawa  Reports man has been apprehended on Parliament Hill.  As many as 30 shots fired  - soldier shot at War Memorial.",
+        "user id": 371510063,
+        "tweet id": "524930575472136192",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CarolAnneCTV hope these reports are true. Quick response from all personnel thank you!",
+            "user id": 17257021,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@CarolAnneCTV: Report: man apprehended on Parliament Hill.  As many as 30 shots fired  - soldier shot at War Memorial",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CarolAnneCTV @TSNBobMcKenzie what about low income housing news did you hear any things",
+            "user id": 2814031933,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CarolAnneCTV @TSNBobMcKenzie Lots of other reports say there's still a shooter loose.",
+            "user id": 175378411,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CarolAnneCTV @TSNBobMcKenzie Still one on the loose",
+            "user id": 494158525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CarolAnneCTV slight exageration maybe?",
+            "user id": 19202030,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CarolAnneCTV @TSNBobMcKenzie \nWTF. This is unthinkable. What's in store for our future?",
+            "user id": 839619690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        }
+    }
+}

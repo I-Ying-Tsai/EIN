@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Our thoughts are with the passengers and crew of flight 4U-9525 and all relatives and colleagues #unitedbywings @germanwings @lufthansa",
+        "user id": 21764143,
+        "tweet id": "580346824269103105",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@FlySWISS @Flight94Team @germanwings @lufthansa @SelfUNSA Swiss est aussi en noir, Austrian et SN ?",
+            "user id": 2212146259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@FlySWISS @Flight94Team @germanwings @lufthansa @SelfUNSA Oui pour Austrian",
+            "user id": 2212146259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

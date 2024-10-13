@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Map locating the Paris offices of satirical magazine Charlie Hebdo #AFP http://t.co/nJYCABZqAG",
+        "user id": 380648579,
+        "tweet id": "552829622128500736",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP Also check our interactive map http://t.co/hSHsolsCbZ",
+            "user id": 2388075212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AFP: Map locating the Paris offices of satirical magazine #CharlieHebdo http://t.co/fcCFGL1mfF",
+            "user id": 18455693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT@AFP: Map locating the Paris offices of satirical magazine Charlie Hebdo #AFP http://t.co/Xxq8UViskl",
+            "user id": 61761935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

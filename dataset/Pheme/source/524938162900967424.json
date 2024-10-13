@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "DEVELOPING: Police: Shooting near Canadian Parliament; soldier wounded; active situation: http://t.co/9MAAywtu03 http://t.co/kZvFqw7p0v",
+        "user id": 28785486,
+        "tweet id": "524938162900967424",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@ABC: DEVELOPING: Police: Shooting near Canadian Parliament; soldier wounded; active situation”\n\nThere is guns in Canada? @SRodpls",
+            "user id": 2725970806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "content": "@_yanimalpls @ABC no it was Americans",
+            "user id": 2571457676,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @sgmb49 Check out my SF Giants anthem \"Im a San Francisco Giant\"RT let's get this heard around the city! https://t.co/MPH15wYWCK",
+            "user id": 32483614,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC DEVELOPING: Police: Shooting near Canadian Parliament; soldier wounded; active situation: http://t.co/yrazOGDVGo http://t.co/qIMzRCW6TZ",
+            "user id": 408194759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC r u dead @TYHiIton",
+            "user id": 1689277844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@SRodpls @ABC smh",
+            "user id": 2725970806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

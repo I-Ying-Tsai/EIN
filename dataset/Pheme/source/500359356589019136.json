@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "This #Ferguson PD chief press conference is AMAZING... he just ADMITTED Darren Wilson stopped him bc of the jaywalking.",
+        "user id": 103394588,
+        "tweet id": "500359356589019136",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JoeBriggsEsq thats a major point if you think about it",
+            "user id": 54578210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JoeBriggsEsq I've been stopped for jaywalking, they ran my name to check for warrants then sent me on my way.",
+            "user id": 54892272,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @JoeBriggsEsq This #Ferguson PD chief press conference is AMAZING... he just ADMITTED Darren Wilson stopped him bc of the jaywalking.",
+            "user id": 37359097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JoeBriggsEsq @blurbette \"We are deeply saddened by the loss of life but are glad to draw attention to the peril of jaywalking.\" #FergusonPD",
+            "user id": 187553055,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@JoeBriggsEsq there are worse crimes than jaywalking. I get warnings for jaywalking. But #MichaelBrown gets shot. Wth",
+            "user id": 39347295,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "source": {
+        "content": "Secret Prince Show Rumored for Toronto Tonight http://t.co/yhXdMtq4T0",
+        "user id": 24894496,
+        "tweet id": "529710975730323457",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@billboardbiz: Secret Prince Show Rumored for Toronto Tonight http://t.co/YVVkmIJVUN” @kashkohler don't you wish you were back in Canada?",
+            "user id": 37238174,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@XtinaTorres do I ever!! Maybe I can join Prince at one of his PJ parties in Minnesota!",
+            "user id": 27160878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Wait… what?? RT @billboardbiz: Secret Prince Show Rumored for Toronto Tonight http://t.co/s4cH2lgctN cc: @MarjorieReinoso",
+            "user id": 13809752,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@MoeArora You better go for me... In my honour... Do not dare miss this! I'm dying of jaleousy right now... #PrinceSecretShow",
+            "user id": 533632787,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

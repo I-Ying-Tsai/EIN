@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "#CharlieHebdo editor-in-chief Stephane Charbonnier, known as \"Charb\", &amp; 3 other cartoonists killed - judicial sources http://t.co/R6fzwhMB6l",
+        "user id": 5402612,
+        "tweet id": "552825753264717824",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Shocking and sad ! MT @BBCBreaking: #CharlieHebdo editor Stephane Charbonnier &amp; 3 other cartoonists killed - sources http://t.co/yEElPo4dEr",
+            "user id": 24095957,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking With The Happy Family less Amsterdam Jihadists fighters’ abroad. http://t.co/43MOBjtnk6",
+            "user id": 2384915342,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@BBCBreaking This is what happens when you mix 21st century weapons with 7th century morals.",
+            "user id": 230045723,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@whoislukecusick @BBCBreaking nice saying...",
+            "user id": 244115238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcbreaking Hey there, Gérard Biard is the EiC, not Stephane.",
+            "user id": 18983688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking so very sad",
+            "user id": 20501027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking You mean you got it from the investigating magistrate's office in an official statement cos you can't really break news.",
+            "user id": 101445204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcbreaking At least 12 killed in shooting at office of French satirical: http://t.co/dTrEfTWyLp #paris Charlie Hebdo",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "#Terror #Paris\n@BBCBreaking: #CharlieHebdo editor-in-chief StephaneCharbonnier &amp; 3 other cartoonists among 12 killed\nhttp://t.co/T41liAirYh",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking #RestInPeace",
+            "user id": 1938260035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

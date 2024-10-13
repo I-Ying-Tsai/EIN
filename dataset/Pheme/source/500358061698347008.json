@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "#Ferguson police chief now says that the robbery DOES NOT relate to the initial contact between Darren Wilson and Michael Brown",
+        "user id": 16893929,
+        "tweet id": "500358061698347008",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Tried it. Failed. Backtracking. MT @themarkberman: #Ferguson PD chief now says that the robbery DOESN'T relate to Wilson/Brown contact.",
+            "user id": 20399893,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@themarkberman @washingtonpost  This man is  inept. This keeps getting worse the more he speaks. Contact was not to do with robbery!!",
+            "user id": 46549072,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@themarkberman Swettie Stevie Wonder could've seen that! #FergusonShooting #Ferguson #MikeBrown",
+            "user id": 1241745852,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@themarkberman @mistymathews then it's even more inappropriate to release that incident report.",
+            "user id": 15496144,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@themarkberman @thedahlimmama Was he lying then or is he lying now? What a cluster...",
+            "user id": 350389927,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 5
+        }
+    }
+}

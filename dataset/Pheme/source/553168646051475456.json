@@ -1,0 +1,128 @@
+{
+    "source": {
+        "content": "Let 2015 be the year more people from around the world take up cartooning/comics to tell their stories #JeSuisCharlie http://t.co/uoau3GyoI7",
+        "user id": 38708614,
+        "tweet id": "553168646051475456",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@jabberworks This is a wonderful picture. Thank you for sharing it.",
+            "user id": 2180846687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@jabberworks Not seen the cartoon that caused the problem. I agree with you but just hope that people are responsible about what they create",
+            "user id": 15863273,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@jabberworks you're awesome! People like you make the world more peaceful and a better place! Thank you for your wirk.💖",
+            "user id": 2434324614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@jabberworks My daughter loves this article, she's Muslim &amp; is working with @jamiesmart as we speak to get a cartoon in @moosekidcomics",
+            "user id": 265958960,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@yusofabdullah @jamiesmart @moosekidcomics That's great to hear! Please say hello to her for me. :)",
+            "user id": 38708614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@jabberworks @jamiesmart @moosekidcomics Thanks Sarah! she'll be absolutely made up, she loves your work, you can say hello @aisyahstevens",
+            "user id": 265958960,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@yusofabdullah @jamiesmart @moosekidcomics @aisyahstevens *waves* :)",
+            "user id": 38708614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@jabberworks @yusofabdullah @jamiesmart @moosekidcomics thank you so much!! Ahhh",
+            "user id": 2762645106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

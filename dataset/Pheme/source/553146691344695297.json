@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "BREAKING: #CharlieHebdo Hebdo to be published next week in defiance of attack, with contributions from cartoonists from around the world.",
+        "user id": 384779793,
+        "tweet id": "553146691344695297",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@H_E_Samuel Brilliant news.",
+            "user id": 33952542,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@H_E_Samuel  I just took a subscription to @Charlie_Hebdo_ through http://t.co/Jj8YZ0zUiI … Walk the talk, all you #IamCharlie folks!",
+            "user id": 953490462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Respect @H_E_Samuel: #CharlieHebdo to be published next week in defiance of attack, w/ contributions from cartoonists frm around the world.”",
+            "user id": 44396229,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@seemasirohi @H_E_Samuel This is great response. Icing on the cake would be reprinting the Chariah Hebdo cartoons as well.",
+            "user id": 2280895783,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@H_E_Samuel terror attack on freedom of speech. A sad day for journalism &amp; humanity. world global religion news http://t.co/U4pWGMOeHF",
+            "user id": 1408458926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

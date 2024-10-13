@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "No Russian leader as charismatic as Putin except Nemtsov. Coup scenario: Whoever broke cardinal rule &amp;ordered Nemtsov hit needed him gone.",
+        "user id": 34792486,
+        "tweet id": "576471501081292800",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AndreaChalupa Putin charismatic? He is as charismatic as a carp.",
+            "user id": 28101276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@Nessie43 Russians, even those who can't stand him, say Putin is charismatic, great public speaker. A Reagan.",
+            "user id": 34792486,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AndreaChalupa sorry but Putin's \"charisma\" took millions of USD in propaganda and more than 15 years to build up - because he has none :-)",
+            "user id": 2984391598,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@AndreaChalupa Really, i just find him creepy. Nothing charismatic about sociopaths.Or maybe i have another definition of that.",
+            "user id": 28101276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "@AndreaChalupa @Nessie43 I think that is just the result of the public image #Putin/s propaganda has build. He doesn't have the charisma IMO",
+            "user id": 1429244420,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@JesusFromMars @Nessie43 A person can be evil and charismatic. Ted Bundy, for instance. Putin's speeches offer \"It's morning in Russia.\"",
+            "user id": 34792486,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@AndreaChalupa @JesusFromMars I still just find him creepy. Cold like a fish.",
+            "user id": 28101276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

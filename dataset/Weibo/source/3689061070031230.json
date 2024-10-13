@@ -1,0 +1,873 @@
+{
+    "source": {
+        "content": "【马来西亚航空旧广告】 近日，马航旧广告在推特上被转疯了，其广告语是:“无论你去哪儿，都没有人会知道。”[生病][生病][生病]",
+        "user id": 1700132950,
+        "tweet id": "3689061070031230",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                6,
+                7,
+                10,
+                14,
+                23,
+                64,
+                65,
+                66,
+                67,
+                68,
+                69
+            ],
+            "content": "哈哈哈",
+            "user id": 1661808840,
+            "user name": "谢晓",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "天知地知你知我知，上帝会知道得啊！",
+            "user id": 2858313974,
+            "user name": "资深电影放映员",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "哈哈哈",
+            "user id": 1399162654,
+            "user name": "驻三体世界大使",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊][衰]",
+            "user id": 2120094551,
+            "user name": "麻辣傻丫头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "that's true",
+            "user id": 2217104074,
+            "user name": "女飞侠蒂凡尼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                9,
+                20,
+                22,
+                26,
+                41,
+                57
+            ],
+            "content": "你呀[抓狂]",
+            "user id": 1420625992,
+            "user name": "劳毅波广州大波波",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "",
+            "user id": 1659845622,
+            "user name": "潘小粥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "content": "哈哈哈",
+            "user id": 2800741335,
+            "user name": "袁新_Vik",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                13,
+                29,
+                44
+            ],
+            "content": "",
+            "user id": 1656246551,
+            "user name": "珏黛佳人GenderIT",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 5,
+            "children": [],
+            "content": "。。。",
+            "user id": 1817104730,
+            "user name": "每日一块芝士蛋糕喵",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 0,
+            "children": [
+                15
+            ],
+            "content": "。。。",
+            "user id": 1881099507,
+            "user name": "還是黃克留",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                37
+            ],
+            "content": "一语成谶[晕]",
+            "user id": 1681279420,
+            "user name": "踪影全无",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "[晕]",
+            "user id": 2053502607,
+            "user name": "MM语录",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 8,
+            "children": [],
+            "content": " @黑咔咔一直在路上",
+            "user id": 1106426861,
+            "user name": "吹大牛行大运",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 0,
+            "children": [],
+            "content": "马航故意的！",
+            "user id": 1893809712,
+            "user name": "渭南日报小白",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 10,
+            "children": [
+                25,
+                46
+            ],
+            "content": "",
+            "user id": 1656868172,
+            "user name": "心宽体胖肥鱼丸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "这个……",
+            "user id": 1253277890,
+            "user name": "追野520",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "。。。。。",
+            "user id": 1613461851,
+            "user name": "和平小队的汤小娃fight",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                24,
+                27,
+                30,
+                38,
+                42,
+                47,
+                58
+            ],
+            "content": "这这这[生病][生病][生病][晕][晕][晕][晕][晕]",
+            "user id": 2709876063,
+            "user name": "广州城堡堡主",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "content": "777的广告为什么上的是380的飞机？不过这广告词太预言帝了！",
+            "user id": 1465762380,
+            "user name": "我是维哥",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": 5,
+            "children": [],
+            "content": "哈哈哈哈哈~~~~~~没有欺骗消费者",
+            "user id": 2653941640,
+            "user name": "花城网",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "content": "。。。",
+            "user id": 2470946552,
+            "user name": "oleg淋雨了",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": 5,
+            "children": [],
+            "content": "OMG!神奇的国道！",
+            "user id": 1967961503,
+            "user name": "W天使变魔鬼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 23,
+            "parent": 0,
+            "children": [
+                32
+            ],
+            "content": "已经被证实是网友伪作，可是真的毫无PS痕迹唉。。。",
+            "user id": 1219812045,
+            "user name": "大头轲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 24,
+            "parent": 18,
+            "children": [],
+            "content": "哈哈[哈哈][哈哈]",
+            "user id": 2807743540,
+            "user name": "著名发神经病",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": 15,
+            "children": [
+                40
+            ],
+            "content": "@pjmeng7969 @Miss猫小多 [汗]",
+            "user id": 1738452772,
+            "user name": "Sandyx",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": 5,
+            "children": [],
+            "content": "叼，人地一早话你知，你自己唔信邪，大家继续努力找啦！",
+            "user id": 1735897555,
+            "user name": "车神先生",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": 18,
+            "children": [
+                33
+            ],
+            "content": "[衰][衰][衰]",
+            "user id": 1829093125,
+            "user name": "十月小九九",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 28,
+            "parent": 21,
+            "children": [
+                34
+            ],
+            "content": "无论你去哪儿，都没有人会知道。",
+            "user id": 1237660220,
+            "user name": "佩玉鸣_Countdown",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 29,
+            "parent": 8,
+            "children": [],
+            "content": "他们做到了",
+            "user id": 1914088577,
+            "user name": "口天火山",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 30,
+            "parent": 18,
+            "children": [
+                31,
+                39,
+                45
+            ],
+            "content": "",
+            "user id": 1960977800,
+            "user name": "蒋明微博",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 31,
+            "parent": 30,
+            "children": [],
+            "content": "……",
+            "user id": 2142503553,
+            "user name": "Flyer_翡",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 32,
+            "parent": 23,
+            "children": [],
+            "content": "預言帝了。。。",
+            "user id": 2062469393,
+            "user name": "秋之羽翼-aki",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 33,
+            "parent": 27,
+            "children": [],
+            "content": "一语成真呐",
+            "user id": 2214186055,
+            "user name": "大麦兜儿2011",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 34,
+            "parent": 28,
+            "children": [],
+            "content": "……",
+            "user id": 1898914061,
+            "user name": "doudouluck85315",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "content": "这次真的是没人知道！马航，你的预言验证了！",
+            "user id": 3169917517,
+            "user name": "熊俊祺1991-影评人",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "content": "[晕][晕][晕]",
+            "user id": 1706357612,
+            "user name": "保持欢喜的老女孩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": 11,
+            "children": [],
+            "content": "好准喔~真系 a journey of epic proportions~!!! [许愿]",
+            "user id": 1725596542,
+            "user name": "-SDG-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": 18,
+            "children": [],
+            "content": "咔咔，擦",
+            "user id": 1950196327,
+            "user name": "喵痴凡尘_小PP",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 39,
+            "parent": 30,
+            "children": [],
+            "content": "我们新的波音777，在令人震惊的旅途中把你弄丢！[晕]",
+            "user id": 2371403162,
+            "user name": "DJ苏比",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 40,
+            "parent": 25,
+            "children": [
+                43
+            ],
+            "content": "瞬间石化，有木有[衰]",
+            "user id": 2433594365,
+            "user name": "Miss猫小多",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 41,
+            "parent": 5,
+            "children": [],
+            "content": "知道得太多，这是在马航的伤口上撒盐啊！",
+            "user id": 2125633637,
+            "user name": "吴聊之事",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 42,
+            "parent": 18,
+            "children": [],
+            "content": "[汗][晕][晕][晕][晕][晕]",
+            "user id": 1011690520,
+            "user name": "哔喱ba啦",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 43,
+            "parent": 40,
+            "children": [],
+            "content": "[哈哈][哈哈][哈哈]",
+            "user id": 1943413925,
+            "user name": "ecsan",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 44,
+            "parent": 8,
+            "children": [],
+            "content": "OMG",
+            "user id": 1829691900,
+            "user name": "西西不犹豫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 45,
+            "parent": 30,
+            "children": [],
+            "content": "世界上没有无缘无故的爱、恨！",
+            "user id": 1064962495,
+            "user name": "satingwoo沙丁鱼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 46,
+            "parent": 15,
+            "children": [
+                50
+            ],
+            "content": "。。。。。。",
+            "user id": 1876436783,
+            "user name": "以德服人的ljk",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 47,
+            "parent": 18,
+            "children": [],
+            "content": "[黑线]预言能力超高的马航，可能要睇睇佢下一个预言系乜嘢了[猪头]",
+            "user id": 2164131452,
+            "user name": "目标--幸福小女人",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "content": "wherever you go， no one will ever know",
+            "user id": 2081775425,
+            "user name": "冯珂Frank",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "content": "[汗]",
+            "user id": 1988355243,
+            "user name": "米乐他娘",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": 46,
+            "children": [
+                51,
+                52,
+                53,
+                54,
+                55,
+                56,
+                59
+            ],
+            "content": "......",
+            "user id": 2311705680,
+            "user name": "A-T-E-E-N-S",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 51,
+            "parent": 50,
+            "children": [],
+            "content": "..........",
+            "user id": 1632437877,
+            "user name": "lshbig",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 52,
+            "parent": 50,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1434120800,
+            "user name": "黄小仙_发芽中",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 53,
+            "parent": 50,
+            "children": [],
+            "content": "。。。。",
+            "user id": 2134396661,
+            "user name": "几濑依",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 54,
+            "parent": 50,
+            "children": [],
+            "content": "做死的马航",
+            "user id": 1748385272,
+            "user name": "2点5次元浩子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 55,
+            "parent": 50,
+            "children": [],
+            "content": "此内容为不实消息，已处理。",
+            "user id": 3303862112,
+            "user name": "Star-pudding",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 56,
+            "parent": 50,
+            "children": [],
+            "content": "……",
+            "user id": 1247126313,
+            "user name": "橙子家有小王子和豆苗苗",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 57,
+            "parent": 5,
+            "children": [],
+            "content": "预告会发生此次客机失踪？[疑问]",
+            "user id": 1923102761,
+            "user name": "水云抓拍",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 58,
+            "parent": 18,
+            "children": [],
+            "content": "[吃惊]原来如此",
+            "user id": 1972890261,
+            "user name": "窦笥绮",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 59,
+            "parent": 50,
+            "children": [],
+            "content": "...",
+            "user id": 2689780724,
+            "user name": "Hiroshi_老二_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [],
+            "content": "这要不是p的，就太无语了[哈哈]",
+            "user id": 2513822690,
+            "user name": "叉叉霖scorpio",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "content": "[生病][生病][生病]",
+            "user id": 2189383505,
+            "user name": "联邦的新人都是怪物么",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": -1,
+            "children": [],
+            "content": "@純白的夜0613 @杨Jennifer",
+            "user id": 1007045904,
+            "user name": "书来啡往",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [],
+            "content": "尼玛，这就是亮点啊",
+            "user id": 1798471510,
+            "user name": "dada_jin",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 64,
+            "parent": 0,
+            "children": [],
+            "content": "[抓狂][抓狂]",
+            "user id": 2808117412,
+            "user name": "kaka与koko",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 65,
+            "parent": 0,
+            "children": [],
+            "content": "真讽刺！",
+            "user id": 1735344334,
+            "user name": "情迷加菲猫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 66,
+            "parent": 0,
+            "children": [],
+            "content": "佩服 就喜欢转假新闻 丢人啊",
+            "user id": 2768518381,
+            "user name": "meloCccc",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 67,
+            "parent": 0,
+            "children": [],
+            "content": "没有人会知道 。知道。。道。。。",
+            "user id": 2007047243,
+            "user name": "爬爬儿0",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 68,
+            "parent": 0,
+            "children": [],
+            "content": "你吖。哎",
+            "user id": 2885608627,
+            "user name": "老斌meiy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 69,
+            "parent": 0,
+            "children": [],
+            "content": "[偷笑]",
+            "user id": 1967603737,
+            "user name": "孟小三_190",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 10
+        },
+        "2-hop": {
+            "state_0": 14,
+            "state_1": 13
+        },
+        "3-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 7,
+            "state_1": 1
+        }
+    }
+}

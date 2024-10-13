@@ -1,0 +1,615 @@
+{
+    "source": {
+        "content": "科普向，肾移植手术模拟动画，可以说是相当复杂了 人人视频的秒拍视频 ",
+        "time": "18-11-11 08:30",
+        "user id": "5375583682",
+        "tweet id": "H28lhtjk5",
+        "label": 1,
+        "theme": "政治"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "user id": "2214704505",
+            "user name": "李祥wolf",
+            "content": "零线火线接地线？",
+            "time": "18-11-11 08:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "6498487233",
+            "user name": "甜妞是真的",
+            "content": "好了，我特喵总算知道为嘛有种熟悉感了，黄蓝红……接线……一会正好要去做电机实验了……",
+            "time": "18-11-11 09:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "1706957953",
+            "user name": "径节",
+            "content": "同行",
+            "time": "18-11-11 09:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "5255770464",
+            "user name": "业余编曲雪碧君",
+            "content": "三相交流输电线",
+            "time": "18-11-11 09:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                7,
+                11,
+                14
+            ],
+            "user id": "6037632113",
+            "user name": "Livinginthe90s",
+            "content": "什么意思，变三个肾？",
+            "time": "18-11-11 09:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "1911797297",
+            "user name": "free30",
+            "content": "不是学医的，做药的略懂点，没有你们专业",
+            "time": "18-11-11 12:35",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [],
+            "user id": "5845465856",
+            "user name": "这里的风好大啊",
+            "content": "看来你也是学医的，15以下😄",
+            "time": "18-11-11 12:26",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "1911797297",
+            "user name": "free30",
+            "content": "尿毒症期肾小球滤过率到15以下确实非常低了，基本上失去功能，你说的是对的，肯定也有点作用，但是切除确实会造成感染的风险，肾移植患者最怕的就是感染。",
+            "time": "18-11-11 12:13",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [],
+            "user id": "5845465856",
+            "user name": "这里的风好大啊",
+            "content": "他说的不对，原来的肾是功能减退，即使减退了99%也有1%的作用。所以原来的肾气到了缓冲血流的作用，否则新的肾无法承载，导致有效滤过低",
+            "time": "18-11-11 11:24",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 9,
+            "parent": 10,
+            "children": [
+                8
+            ],
+            "user id": "1787740133",
+            "user name": "032118_5",
+            "content": "原来如此 谢谢",
+            "time": "18-11-11 10:39",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 13,
+            "children": [
+                9
+            ],
+            "user id": "1911797297",
+            "user name": "free30",
+            "content": "本身已经失去肾功能，去掉也没有意义。切除后增加感染的风险。",
+            "time": "18-11-11 10:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "user id": "1842650704",
+            "user name": "JokeRJellyfish",
+            "content": "哇 涨姿势",
+            "time": "18-11-11 10:15",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 14,
+            "children": [],
+            "user id": "6037632113",
+            "user name": "Livinginthe90s",
+            "content": "原来是这样",
+            "time": "18-11-11 09:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 14,
+            "children": [
+                10
+            ],
+            "user id": "1787740133",
+            "user name": "032118_5",
+            "content": "请问为什么啊",
+            "time": "18-11-11 09:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 4,
+            "children": [
+                12,
+                13
+            ],
+            "user id": "1911797297",
+            "user name": "free30",
+            "content": "是的，原来两个肾是不去掉的",
+            "time": "18-11-11 09:12",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16,
+                17,
+                18,
+                19
+            ],
+            "user id": "2977964631",
+            "user name": "夏风晚月凉风",
+            "content": "问一个白痴的问题哈，线最后怎么拆，还是线是水溶的，不用拆……",
+            "time": "18-11-11 10:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "1735872192",
+            "user name": "把你送给村头老母猪",
+            "content": "肠线吧，不用拆的",
+            "time": "18-11-11 16:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [],
+            "user id": "2645779505",
+            "user name": "相某人丶",
+            "content": "拆了的话下次换的时候就不方便了，你懂了吗",
+            "time": "18-11-11 11:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 15,
+            "children": [],
+            "user id": "1898612234",
+            "user name": "冰霜下的樱花",
+            "content": "不用拆，体内的线是不拆滴",
+            "time": "18-11-11 10:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": 15,
+            "children": [],
+            "user id": "1135389025",
+            "user name": "KDJYYDS",
+            "content": "到时候再割开拆",
+            "time": "18-11-11 10:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21,
+                22,
+                23
+            ],
+            "user id": "1682773370",
+            "user name": "忘了",
+            "content": "大体老师们也辛苦了",
+            "time": "18-11-11 08:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "1682773370",
+            "user name": "忘了",
+            "content": "叫",
+            "time": "18-11-11 21:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": 20,
+            "children": [],
+            "user id": "1682773370",
+            "user name": "忘了",
+            "content": "我说医学院里的",
+            "time": "18-11-11 10:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 23,
+            "parent": 20,
+            "children": [],
+            "user id": "1917057671",
+            "user name": "呆b648",
+            "content": "这不叫大体吧",
+            "time": "18-11-11 08:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "1356831837",
+            "user name": "沙尘天气侵袭爱斯基摩人的高脚屋",
+            "content": "你仿佛在暗示些什么",
+            "time": "18-11-11 08:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                26
+            ],
+            "user id": "1949717555",
+            "user name": "维c气泡水",
+            "content": "@近视一百多度还散光的人",
+            "time": "18-11-11 08:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "user id": "1737052690",
+            "user name": "张张小墨0201",
+            "content": "等我到教室看",
+            "time": "18-11-11 08:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "2541923677",
+            "user name": "创世小玩家yyds",
+            "content": "医生好伟大",
+            "time": "18-11-11 08:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [
+                29
+            ],
+            "user id": "2386236687",
+            "user name": "0婆逻蜜哆0",
+            "content": "@来_替我做个梦 真是好复杂",
+            "time": "18-11-11 12:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "2495696034",
+            "user name": "哼子--",
+            "content": "先标记，我在练车",
+            "time": "18-11-12 12:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "2447740653",
+            "user name": "李旭凌",
+            "content": "哇哦，大腰子",
+            "time": "18-11-11 08:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "6030023828",
+            "user name": "三缺一的我",
+            "content": "@老中医神经  看不懂",
+            "time": "18-11-11 08:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "5665280153",
+            "user name": "相是那么宇",
+            "content": "教人如何取肾",
+            "time": "18-11-13 09:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "5891138491",
+            "user name": "媚媚懒又如何",
+            "content": "，",
+            "time": "18-11-11 20:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "1750186627",
+            "user name": "zj_xi",
+            "content": "🙏🙏🙏",
+            "time": "18-11-11 09:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "1421882320",
+            "user name": "Katehudson",
+            "content": "感觉变性手术更复杂",
+            "time": "18-11-11 14:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "6859584826",
+            "user name": "情缘相守009",
+            "content": "怎样找到肾源",
+            "time": "18-11-20 00:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "2037209307",
+            "user name": "手机用户MZC马悠仙",
+            "content": "哪一天做这样一个大手术真像动画图那样便捷病人是多幸福一件事！！",
+            "time": "18-11-12 06:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "3794065341",
+            "user name": "-61Kwon",
+            "content": "@YANGD17",
+            "time": "18-11-11 10:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "6061972285",
+            "user name": "洒克撕",
+            "content": "看得我肾疼。",
+            "time": "18-11-11 10:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "1273295005",
+            "user name": "Si3N4",
+            "content": "怎么没把旧的拿出来？",
+            "time": "18-11-11 08:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [
+                42,
+                43,
+                44
+            ],
+            "user id": "1796925174",
+            "user name": "到叔叔这儿来",
+            "content": "捐肾人的肚子你们就不缝起来？",
+            "time": "18-11-11 08:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": 41,
+            "children": [],
+            "user id": "3645200857",
+            "user name": "柳梦璃梦",
+            "content": "就你斗机灵",
+            "time": "18-11-11 09:15",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 43,
+            "parent": 41,
+            "children": [],
+            "user id": "2618665663",
+            "user name": "柚子爱Kaka",
+            "content": "",
+            "time": "18-11-11 08:42",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 44,
+            "parent": 41,
+            "children": [],
+            "user id": "6428584649",
+            "user name": "一只特立独行的juju纯",
+            "content": "就特么你会补课？",
+            "time": "18-11-11 08:38",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 16,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 14,
+            "state_1": 5
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

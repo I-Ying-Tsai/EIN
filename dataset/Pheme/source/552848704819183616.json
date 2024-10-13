@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "The attack on Charlie Hebdo is an obscenity. Everyone civilized must show solidarity with France. Vive la France! Vive la presse libre!",
+        "user id": 403584093,
+        "tweet id": "552848704819183616",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@DouglasLKennedy \nEt par le pouvoir d’un mot\nJe recommence ma vie\nJe suis né pour te connaître\nPour te nommer\nLiberté. Paul Eluard",
+            "user id": 351509632,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@DouglasLKennedy @TangiQuemener Faisons un don, sauvons #CharlieHebdo : http://t.co/XwstpTKrkg http://t.co/j6EnZBkQ8O",
+            "user id": 1910658883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Customers in Sydney cafe taken hostage. Siege in center of city. Watch our friends @9NewsSyd http://t.co/5nsRovuHd1 http://t.co/ho5YDCIkac",
+        "user id": 14460241,
+        "tweet id": "544280707800264704",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @9NewsSyd @pdacosta  why gives these guys the attention they want?",
+            "user id": 1249746145,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @pdacosta @9NewsSyd oh my..",
+            "user id": 2845798764,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @HotlineJosh @9NewsSyd  dude Australia was the world's calm place....",
+            "user id": 198629198,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@WilliamsJon @jojoaruba52 @9NewsSyd  im.gksd ISIS is getting all this free retweet press coverage. Keep making them relevant😂😂😂😂",
+            "user id": 884202938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@pscully1812 @WilliamsJon @9NewsSyd I think it is good for people to know so they can get prepared and armed. One person carrying a gun...",
+            "user id": 893046055,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @9NewsSyd Maybe not give them the coverage they so badly want? @GStephanopoulos",
+            "user id": 166420823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @GStephanopoulos #noonegotkilled!",
+            "user id": 165947913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @9NewsSyd you do realise there is more likely a tv in the cafe and he is watching the news and whatever is said he knows...",
+            "user id": 2377011036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @GStephanopoulos @9NewsSyd",
+            "user id": 152230489,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

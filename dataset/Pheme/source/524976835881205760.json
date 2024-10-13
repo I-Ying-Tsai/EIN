@@ -1,0 +1,160 @@
+{
+    "source": {
+        "content": "If you're thinking \"I should tweet about how the situation in Ottawa conveniently benefits my party\": step away from twitter now. #cdnpoli",
+        "user id": 98487877,
+        "tweet id": "524976835881205760",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci - good advice for JK",
+            "user id": 94475118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci Well said",
+            "user id": 749515428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci I'd say to such people \"step away from politics permanently... you're too callow to vote.\" #CdnPoli #roft",
+            "user id": 92905075,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci yeah nothing good can come for the #CPC out of this, nothing, absolutely nothing! #cdnpoli #pnpcbc but CDN's need to be reminded",
+            "user id": 210310555,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci or,  like @michaelcoren, using it to sell a book",
+            "user id": 232701376,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci @Nicki_Doyle believe me I've been keeping track of who has been tweeting about attack in self-serving or partisan manner.",
+            "user id": 282584884,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": ".@paulisci Agreed. Replace “party” with “bottom line” or “organization” and the message remains the same.",
+            "user id": 2459288156,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci @pcfafard best wishes to my Canadian friends on this bad day. I have vivid and good memories of Ottawa - great city, great people",
+            "user id": 135998621,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@paulisci @pothen  is anyone actually saying such things?",
+            "user id": 188521492,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "@jaysonmcdonald @paulisci a few claiming progressives wrongly underestimated threat of violence against Canada.",
+            "user id": 21263260,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@paulisci @Crackmacs This also applies to papers &amp; media outlets trying to bolster their narratives w/ this tragedy. #SUNnews #PostMedia",
+            "user id": 18460436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "@pothen Sad. Hard for some people to turn it off I guess. Thanks.",
+            "user id": 188521492,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

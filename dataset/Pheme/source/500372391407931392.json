@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "Oh, whoops, the robbery had nothing to do with #MikeBrown being stopped, but at least now half of America thinks it did. - #Ferguson PD",
+        "user id": 2342775366,
+        "tweet id": "500372391407931392",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@lena_tansey @MissAngelaDavis thanks Fox News.",
+            "user id": 312248392,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@lena_tansey @xMattieBrice This \"aw shucks\" routine out of the #Ferguson PD is such crap. They know exactly what they're doing.",
+            "user id": 7465622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@lena_tansey Could still have been the reason the stop was prolonged past initial contact, though.  Still a gap in the story.",
+            "user id": 240814977,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "@cjwynes No.",
+            "user id": 2342775366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@lena_tansey perfect",
+            "user id": 35366251,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@lena_tansey Cops are usually too lazy/busy to actually confont for jaywalking unless something suspicious happens after contact.",
+            "user id": 240814977,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

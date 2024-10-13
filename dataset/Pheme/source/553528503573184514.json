@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "As we speak, with quiet resolve, Gazza is loading his car with chicken and a fishing rod and planning his route to Dammartin-en-Goele",
+        "user id": 17945263,
+        "tweet id": "553528503573184514",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@DanRebellato coq-au-vin?",
+            "user id": 17019440,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@DanRebellato @leehinds #GazzaToTheRescue",
+            "user id": 159202344,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@DanRebellato You win! You win! https://t.co/yGyfywdsPc",
+            "user id": 181121268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@DanRebellato @caitlinmoran presumably via Some populist news channels",
+            "user id": 14349660,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@DanRebellato @caitlinmoran i'm surprised @ you mocking a sick man, 'wet brain' is not a joke. Would you laugh at someone with Azheimer's?",
+            "user id": 730592490,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@ethelilly1 @DanRebellato @caitlinmoran well said.",
+            "user id": 2886967184,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@DanRebellato @caitlinmoran Just seen this- taking the piss out of a man with a mental illness. Nice.",
+            "user id": 2734665318,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Our thoughts are with the family and friends of Cpl. Nathan Cirillo and all those affected by the events in Ottawa today. #OttawaStrong",
+        "user id": 17093604,
+        "tweet id": "525055879545380864",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@VanCanucks #Canadastrong",
+            "user id": 51152279,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@VanCanucks thank you guys in Vancouver for all your love and support #canadastrong #truenorthstrongandfree",
+            "user id": 2174282087,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

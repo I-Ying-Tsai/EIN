@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Chaos broke out in Ottawa after a shooting at the war memorial and reports of gunfire in Parliament http://t.co/pVOh34l2ea",
+        "user id": 2467791,
+        "tweet id": "524969137660231680",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@washingtonpost You ARE SO LATE, Why not wait and just print it Tomorrow????",
+            "user id": 2651807532,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@washingtonpost 13 favorites?! Really? Not sure you understand twitter people.",
+            "user id": 1412164226,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@washingtonpost In Ottawa the situation sounds political and related to ISIS just by the nature of events",
+            "user id": 33796531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@washingtonpost CANADIAN COPS INSIST THEY DID NOT DO IT!  BLAME IT ON AMERICAN TERRORISTS COPS.",
+            "user id": 2614001430,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

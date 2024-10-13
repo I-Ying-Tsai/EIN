@@ -1,0 +1,512 @@
+{
+    "source": {
+        "content": "CERN put flags at half-mast and observed a minute's silence today in solidarity with #CharlieHebdo #JeSuisCharlie http://t.co/HgzI8R8X4h",
+        "user id": 15234407,
+        "tweet id": "553209917944131585",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "\"@CERN  put flags at half-mast and observed a minute's silence today in solidarity with #CharlieHebdo #JeSuisCharlie http://t.co/3ZVrnrmhZA\"",
+            "user id": 389548615,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@CERN so this means that CERN believes it's OKAY to insult the Prophet without retribution?",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@mortimerzilch @CERN so this mean you are a moron ?",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@CERN it's a tenet of Islam to DEMAND respect, or else, death. So, if your support Islam you support sharia, and/or \"justifiable\" pay back.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@TristanWhoisit @CERN low level vocab there...and low level thought too....can you verbalize more clearly whatever thought you may have had?",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "@TristanWhoisit @CERN Is it okay to lampoon the Prophet without retribution? Do you approve of it?",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                9
+            ],
+            "content": "@mortimerzilch As a matter of fact it's not immutable. Much of it is interpreted in various ways. @CERN",
+            "user id": 2309054839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                10
+            ],
+            "content": "@mortimerzilch @CERN I don't debate with people endorsing murder sorry",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                11
+            ],
+            "content": "@mortimerzilch @CERN is it okay to assassinate for a draw ? In France we have a \"judiciary system\".",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@Jason___Jones @CERN well that's what the various branches of Islam are supposed to be about...but it's not showing up within Islam!",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                13
+            ],
+            "content": "@TristanWhoisit @CERN OOPs you missed it. I asked if you supported lampooning the Prophet and not expect retribution.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@mortimerzilch The muslim authority of the country attacked Charlie in court. They lose, but they had the right to do so",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [
+                14
+            ],
+            "content": "@Jason___Jones @CERN \"moderate\" Islam is a sham; it has folded it's tent and gone away. There is no discernible schism with the terrorists.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@mortimerzilch its okay to lampoon anyone and don't expect to be murdered.",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [
+                17,
+                18
+            ],
+            "content": "@mortimerzilch If that were so then the majority would have acted more forcefully, not a rabid minority.Their intent is to divide @CERN",
+            "user id": 2309054839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [
+                19
+            ],
+            "content": "@TristanWhoisit then you are persecuting Islam. Right?",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [
+                20
+            ],
+            "content": "@TristanWhoisit this thought you express here is incompatible with the tenets of Islam",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 17,
+            "parent": 14,
+            "children": [],
+            "content": "@Jason___Jones @CERN sorry, just not enough condemnation coming from within Islam. They condone and are complicit...that's key to ISIS.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 18,
+            "parent": 14,
+            "children": [
+                21
+            ],
+            "content": "@Jason___Jones @CERN ALL the key points: honor killing, sharia law for non-Islams, etc etc.must be REJECTED categorically by Muslims.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 19,
+            "parent": 15,
+            "children": [
+                22
+            ],
+            "content": "@mortimerzilch Damn you feel persecuted by draw ? By paper and pen ? You need help my friend.",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 20,
+            "parent": 16,
+            "children": [
+                23
+            ],
+            "content": "@mortimerzilch Murder is incomptatible with ISlam, In the Coran I read",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 21,
+            "parent": 18,
+            "children": [
+                24
+            ],
+            "content": "@Jason___Jones @CERN or else they must be ejected from OUR society. So do you really think that will happen? So, then, what comes next?",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 22,
+            "parent": 19,
+            "children": [
+                25
+            ],
+            "content": "@TristanWhoisit WHAT MAKES YOU SO OBTUSE? do you hear me? IT IS AGAINST ISLAM, and in their system of belief deserves DEATH.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 23,
+            "parent": 20,
+            "children": [],
+            "content": "@TristanWhoisit you got that wrong. either you are lying. reading selectively. deliberately misinterpreting. RETRIBUTION is demanded !",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 24,
+            "parent": 21,
+            "children": [
+                26
+            ],
+            "content": "@mortimerzilch The notion of 'our' society is fast becoming outdated. We live in a globalised world. Differences must be negotiated. @CERN",
+            "user id": 2309054839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 25,
+            "parent": 22,
+            "children": [
+                27
+            ],
+            "content": "@mortimerzilch I don't debate with extremist and people the Prophet is ashamed of. Go back endorsing murder. Your account will be signaled",
+            "user id": 469797841,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 26,
+            "parent": 24,
+            "children": [
+                28
+            ],
+            "content": "@Jason___Jones @CERN newer attack! http://t.co/bTHPEIM3I2 \"democracy freedom, Christianity,\" outdated?  no way. Negotiate with a gun? how?",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 27,
+            "parent": 25,
+            "children": [],
+            "content": "@TristanWhoisit I don't think you are too bright if you don't understand what I have been trying to make clear. Islam is terrorist ipsofacto",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 28,
+            "parent": 26,
+            "children": [
+                29
+            ],
+            "content": "@Jason___Jones @CERN ty Jason for the great tweets and discussion.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [
+                30,
+                31,
+                32,
+                33
+            ],
+            "content": "@mortimerzilch One final thought. Separating religion proper (Islam) from religion as political toolo (ISIS) matters. @CERN",
+            "user id": 2309054839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 30,
+            "parent": 29,
+            "children": [],
+            "content": "@Jason___Jones @CERN how is it possible to do that? It's not in this case. Form and matter cannot be separated.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 31,
+            "parent": 29,
+            "children": [
+                34
+            ],
+            "content": "@Jason___Jones @CERN Religion is not an abstraction...it exists in its adherents.\nAnd that's what WE in Western Civilization encounter now.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 32,
+            "parent": 29,
+            "children": [],
+            "content": "@Jason___Jones @CERN I think you are not close enough to the situation. To Muslims.But who wants to get closer?",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 33,
+            "parent": 29,
+            "children": [],
+            "content": "@Jason___Jones @CERN break time for me \"T\"...back later. calmer too. but on the same track, unless I find someone who can budge me... ty.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 34,
+            "parent": 31,
+            "children": [],
+            "content": "@mortimerzilch @CERN The difference is aim. ISIS wants to create a radical state. To normalise extremism. The majority reject that.",
+            "user id": 2309054839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 14
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "5-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "7-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "9-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "11-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "12-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "13-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "14-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

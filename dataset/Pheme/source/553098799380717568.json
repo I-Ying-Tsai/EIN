@@ -1,0 +1,324 @@
+{
+    "source": {
+        "content": "Good morning from #Paris where we will have the latest on the #CharlieHebdo attack. 9am in Paris, 3am in the east http://t.co/oRX61fCUke",
+        "user id": 22799750,
+        "tweet id": "553098799380717568",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisCuomo glad your safe and on the scene #NewDay #CNN",
+            "user id": 23329908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ChrisCuomo will you all report anything on the NAACP building bombing in Colorado?",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "@RandomFatGuy http://t.co/DIB9SZ4UVy they already did. @ChrisCuomo",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisCuomo @CNN new event in  #Montrouge a policewoman shoot by man with kalachnikov http://t.co/6PA3pHCTB6",
+            "user id": 2808218208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisCuomo @CNN Paris is too liberal for its own good. It was thus with Hitler and now with Islam.\nSoon they will be begging USA again.",
+            "user id": 2545851438,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisCuomo @CNN Gunfire reported in Porte de Chatillon, southern #Paris, 1 policeman wounded. Suspected gunman has fled to subway",
+            "user id": 16607553,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisCuomo @CNN I say we send every last one of these Mother less FUCKS Straight to HELL With Extreme Prejudice.",
+            "user id": 23487221,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisCuomo @CNN why developed countries give too much freedom to the media and allow offending others religion its their fault I think!",
+            "user id": 2404144517,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@Janiece1986 they ran an update this morning already?",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@RandomFatGuy you said nothing about an update. That's what they've ran.",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                11,
+                12
+            ],
+            "content": "@RandomFatGuy and this situation is more important for them to report on. The more fatalities, more airtime.",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@Janiece1986 I disagree. Terrorism is terrorism...what's happening on US soil is as important.",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@Janiece1986 they should be updating us on more info from CO just like from France.",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@RandomFatGuy this is the deadliest attack France has seen in years. 12 people lost their lives. Tell me again how they're compatible.",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@RandomFatGuy they will only report on #je suis charlie because it will bring more audience. It's all about money.",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                17
+            ],
+            "content": "@Janiece1986 like I said, each attack is important. Both are disgraceful/horrific. I'm not here to debate, just asked if they would report.",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [
+                18
+            ],
+            "content": "@Janiece1986 your opinion is yours and I have my own. Thanks for the conversation tho. Take care.",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [
+                19
+            ],
+            "content": "@RandomFatGuy and you're getting your answer. #yourewelcome",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [],
+            "content": "@RandomFatGuy this isn't a debate.",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 19,
+            "parent": 17,
+            "children": [
+                20
+            ],
+            "content": "@Janiece1986 didn't ask you anything in the first place. U just kinda came outta no where. But that's cool.... #ThePowerOfSocialMedia",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21
+            ],
+            "content": "@RandomFatGuy exactly....public sites. You got your answer. No one was hurt at the #NAACPBombing   12 lost their life in #JeSuisCharlie",
+            "user id": 1528718839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "content": "@Janiece1986 you've got to have sumthin better to do... No?",
+            "user id": 30126064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "7-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

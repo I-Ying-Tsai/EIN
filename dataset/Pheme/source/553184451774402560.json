@@ -1,0 +1,172 @@
+{
+    "source": {
+        "content": "I'm a Muslim. And I assure you that we aren't terrorists as u think we are. And Islam doesn't teach us to kill or anything\n\n#JeSuisCharlie",
+        "user id": 1649548520,
+        "tweet id": "553184451774402560",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@YoimSamy its sad when people think we are all the same 😪",
+            "user id": 2611712885,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@ShawnsFeels Yes :(",
+            "user id": 1649548520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@YoimSamy ;-; i love this account so much",
+            "user id": 2856859182,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Me_is_a_penguin thank u so much",
+            "user id": 1649548520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@YoimSamy lmao omg in like a minute it had 106 rts wow u win haha",
+            "user id": 1693802857,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@HiiEspinosa LOL thank u",
+            "user id": 1649548520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@YoimSamy @Me_is_a_penguin muslims are special.and you are special.",
+            "user id": 2647014930,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@yqmrtkmk @Me_is_a_penguin thank u so much",
+            "user id": 1649548520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@YoimSamy not all of us think all Muslims are terrorists 😊",
+            "user id": 119912159,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@YoimSamy We don't need to tell everytime what wearen't, whats wrong is wrong",
+            "user id": 630176058,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [
+                11
+            ],
+            "content": "@YoimSamy where are you from?",
+            "user id": 2611712885,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@ShawnsFeels Algeria but moving to canada soon",
+            "user id": 1649548520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

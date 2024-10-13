@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Lots of disappointment and disbelief at Massey Hall after would-be Prince called off. Five hours in line based on media speculation, ouch!",
+        "user id": 135213110,
+        "tweet id": "529729262593773568",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@livewithculture @thatkatetaylor \"Would-be Prince called off\"? Was this a Frankenstein production?",
+            "user id": 298725726,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@RobertEG_ @thatkatetaylor Prince CONCERT. Hate when I drop the most important word in a Tweet, D'oh!",
+            "user id": 135213110,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

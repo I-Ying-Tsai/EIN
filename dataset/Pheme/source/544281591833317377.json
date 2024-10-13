@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "UPDATE: Airspace across Sydney is in lockdown. @SydOperaHouse has also been evacuated. #9News http://t.co/thAnVN6Tlk",
+        "user id": 171802941,
+        "tweet id": "544281591833317377",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @SydOperaHouse what's happened I'm not near a TV",
+            "user id": 33155639,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @Channel9 @SydOperaHouse are we over doing it, airspace in lockdown!",
+            "user id": 265217955,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @SydOperaHouse thats freightening i thought id never see this in australia boy am i wrong.",
+            "user id": 27267723,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "siege... isis .. sydney now @9NewsSyd @Channel9 @SydOperaHouse @Britanniacomms @PatriotsOrg @usa @USATODAY @tuitUK",
+            "user id": 527034491,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @Channel9 @SydOperaHouse .....",
+            "user id": 193177087,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @LeeannWright4 @SydOperaHouse LINK TO LIVE VIDEO ***\nLVIDEO ISIS JIHADIS TAKE 13 HOSTAGES IN SYDNEY \nhttp://t.co/4bNMWQVCUK",
+            "user id": 2540239046,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @LeeannWright4 @SydOperaHouse COMING TO A BUSINESS NEAR YOU!!! \nBE PREPARED AND STAY AWARE !!!",
+            "user id": 179250417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        }
+    }
+}

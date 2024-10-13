@@ -1,0 +1,157 @@
+{
+    "source": {
+        "content": "Our thoughts are with everyone in Ottawa today. Stay safe.",
+        "user id": 22536395,
+        "tweet id": "524959090125320193",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuffaloSabres: Our thoughts are with everyone in Ottawa today. Stay safe.”",
+            "user id": 450091602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuffaloSabres: Our thoughts are with everyone in Ottawa today. Stay safe.”",
+            "user id": 274772832,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Co-sign. RT @BuffaloSabres Our thoughts are with everyone in Ottawa today. Stay safe.",
+            "user id": 35973172,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "I'd favorite this tweet showing approval if I wasn't blocked. RT @BuffaloSabres Our thoughts are with everyone in Ottawa today. Stay safe.",
+            "user id": 56786222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@3rdManIn @BuffaloSabres You're blocked? By a sports team?",
+            "user id": 183316997,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@Schopptalk @BuffaloSabres This happened. Again, actually.",
+            "user id": 56786222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@3rdManIn @BuffaloSabres I can't believe a team would block anyone.",
+            "user id": 183316997,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                9
+            ],
+            "content": "@Schopptalk @BuffaloSabres Well, I'm just a simple STH who covers the Sabres in my spare time.",
+            "user id": 56786222,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@Schopptalk @3rdManIn @BuffaloSabres https://t.co/Ds4lLIg8IP hmmmmmm",
+            "user id": 49712427,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@3rdManIn @Schopptalk @BuffaloSabres How does one get blocked by a professional sports team's Twitter account? Mental midget running acct?",
+            "user id": 2810946129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

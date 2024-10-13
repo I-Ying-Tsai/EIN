@@ -1,0 +1,203 @@
+{
+    "source": {
+        "content": "CTV reports that soldier shot at war memorial still alive.",
+        "user id": 16753407,
+        "tweet id": "524951625556066304",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Please be accurate. “@Justin_Ling: CTV reports that soldier shot at war memorial still alive.”",
+            "user id": 83699170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Justin_Ling thanks for this first bit of good news today. Really hope the only people killed are those responsible.",
+            "user id": 14590552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Justin_Ling @paigemacp thank goodness",
+            "user id": 372343086,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Justin_Ling New York Times is reporting his death. Obv hard to get accurate info",
+            "user id": 28360460,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@rthonb @Justin_Ling a soldier was killed to days ago in an attack in Quebec, NYTimes may be confusing incidents.",
+            "user id": 247335309,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Justin_Ling @jm_mcgrath that is very good news if true.",
+            "user id": 5854302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "I really hope so. RT @Justin_Ling: CTV reports that soldier shot at war memorial still alive.",
+            "user id": 14523404,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Justin_Ling  I'm so happy to hear that. Hope for his improvement!",
+            "user id": 107169602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Thank God RT @Justin_Ling: CTV reports that soldier shot at war memorial still alive.",
+            "user id": 27516138,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                11
+            ],
+            "content": "“@Justin_Ling: CTV reports that #soldier shot at war memorial still alive.” #ThankGod @QuornDawg",
+            "user id": 2401156465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@RJennromao @QuornDawg @Justin_Ling Is this true cos according to the news coverage Im watching his death has just been confirmed?",
+            "user id": 2578789111,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "@RJennromao @Justin_Ling http://t.co/gHrtGclhx2",
+            "user id": 33146275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                14
+            ],
+            "content": "@Lisa00249251 @RJennromao @Justin_Ling CNN link I tweeted confirmst.  These things happen when news agencies report 1st soundbite they hear",
+            "user id": 33146275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@Lisa00249251 @QuornDawg @Justin_Ling when I wrote that there was no report of death an hour ago, approx 45 min agous press release re death",
+            "user id": 2401156465,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@QuornDawg @Lisa00249251 @Justin_Ling the assailant is also now deceased both were alive upon arrival. #RIP #Hamilton #Highlander #Soldier",
+            "user id": 2401156465,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

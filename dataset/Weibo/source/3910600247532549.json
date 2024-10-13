@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "【习近平的文艺范儿】有时，一国领导人身上的标签很多，政治、经济、军事、外交，不一而足。对于习近平来说，有一个标签是主动而为，而且甘之如饴，这就是“文艺”。习近平的文艺范儿是怎样的呢？一起来看看吧！（人民网文化频道）http://t.cn/RUnt0FJ",
+        "user id": 2286908003,
+        "tweet id": "3910600247532549",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "习主席与作家贾大山真挚的友谊传为一段佳话",
+            "user id": 2582730393,
+            "user name": "吴向裕",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "转发微博",
+            "user id": 2427989561,
+            "user name": "河北共青团",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "习大大就是有范儿！[鼓掌][鼓掌][鼓掌]",
+            "user id": 2724148890,
+            "user name": "石家庄铁道大学经管学院团委",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "[话筒]",
+            "user id": 1251352660,
+            "user name": "饮虹生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "【习近平的文艺范儿】",
+            "user id": 2039772514,
+            "user name": "大同民警王志强",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "[心]习近平的文艺范儿",
+            "user id": 3677380225,
+            "user name": "大东发布",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "#banksy You can try to break the pencil but it will multiply...\n#jesuischarlie http://t.co/iO1xSrQTvg",
+        "user id": 17045133,
+        "tweet id": "553167429665587200",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Pisarski Not Banksy. Lucille Clerc. http://t.co/s1Il1875Bb @JeroenAkkermans",
+            "user id": 265376095,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@Pisarski: #banksy You can try to break the pencil but it will multiply...\n#jesuischarlie http://t.co/JKus3AvLS5”",
+            "user id": 1078425018,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Pisarski @sheenakoshyc that's not a bank at illustration",
+            "user id": 15730804,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Pisarski @sheenakoshyc banksy. That's a drawing by a female illustrator",
+            "user id": 15730804,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Pisarski @sheenakoshyc it's by @LucilleClerc",
+            "user id": 15730804,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@DouglasCrets @LucilleClerc - thanks for the clarification !",
+            "user id": 62324947,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Not Banksy. @Pisarski  It is @lucilleclerc",
+            "user id": 15737761,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Pisarski If you are for free speech then this #tshirt is for you support #JeSuisCharlie #CharlieHebdo buy it now http://t.co/ywxRiFGzvB",
+            "user id": 1963598808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

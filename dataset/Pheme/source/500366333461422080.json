@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "#Ferguson police chief says officer Darren Wilson didn't know #MikeBrown was a robbery suspect http://t.co/SbpxzwwZWs",
+        "user id": 24138795,
+        "tweet id": "500366333461422080",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@GlobalGrindNews but now this helps support the idea mike brown may have reached for the gun out of fear of being sought by police",
+            "user id": 534464483,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                12
+            ],
+            "content": "@C_Keptfloatin @GlobalGrindNews and no one know right now that he didn't. We have to wait for facts",
+            "user id": 1393229090,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @GlobalGrind so he really is a cold blooded murderer. And he's still free. Thanks America. #failure #nojustice #MikeBrown",
+            "user id": 32366354,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @MichaelSkolnik So why is this video relevant then? The media does more race baiting then any hate group in america",
+            "user id": 2521712376,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @keithboykin So #Ferguson Police Department can murder an 18-year-old for no reason at all.",
+            "user id": 276106961,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @GlobalGrind I am so freakin mad right now,they are lying in our faces.#THEFTDOESNTEQUALMURDER #RIPMIKEBROWN",
+            "user id": 40594485,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @MichaelSkolnik so what was the point of releasing the fucking video smh.",
+            "user id": 42214993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @carlab73 So he was truly profiling and not making a plausible inquiry to the two boys!!! It's getting sicker and sicker.",
+            "user id": 42110064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews  THIS LADY SAYS IN THE VIDEO THE POLICE TOOK DOWN SECURITY CAMERAS WHERE MIKE BROWN WAS SHOT https://t.co/iJBFwbjr2t",
+            "user id": 29960497,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @MichaelSkolnik So he just thought black kid unarmed, I'll shoot him 10 times, just 4 the fun of it! Why did he shoot him?",
+            "user id": 981050484,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews come on now! Robbery! Stealing cigars is now considered a Robbery!",
+            "user id": 247042796,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @GlobalGrind This case needs to be looked over and the scumbag police officer needs to give up his badge",
+            "user id": 363441237,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [],
+            "content": "@QueenBIrmiter @GlobalGrindNews I'm just saying that's what they will do in court",
+            "user id": 534464483,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 11
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

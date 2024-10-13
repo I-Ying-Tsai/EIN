@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#Gazans advise #US protesters on #Twitter http://t.co/bIlucMYbwh\n\n#Ferguson #FreePalestine #presstvgaza http://t.co/7RhD2CQgpa",
+        "user id": 192547775,
+        "tweet id": "500270456830562305",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PressTV so stupid ..",
+            "user id": 404288699,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@PressTV: #Gazans advise #US protesters on #Twitter http://t.co/RtqxqQpao0\n\n#Ferguson #FreePalestine #presstvgaza http://t.co/mLjoLatidk”",
+            "user id": 438643546,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

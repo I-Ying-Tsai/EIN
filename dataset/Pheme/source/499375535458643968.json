@@ -1,0 +1,221 @@
+{
+    "source": {
+        "content": "Wow. From responses, it seems people only know about what's happening in #Ferguson from web. What happens when gov ends net neutrality?",
+        "user id": 343082774,
+        "tweet id": "499375535458643968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffRickly why do you think they want it so badly?",
+            "user id": 120220983,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffRickly It's already ended! We've got one rule left: Transparency about throttling, and the big carriers are allegedly violating it",
+            "user id": 291240985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffRickly we fight at dawn?",
+            "user id": 190359578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffRickly we all lose real news and live off of apps and netflix",
+            "user id": 17258910,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffRickly cops won't kill minorities ever again.",
+            "user id": 24134319,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffRickly it became a no fly zone to ward off journalists...",
+            "user id": 123120852,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@GeoffRickly @michaeltomko maybe we stop getting bs rumors and pics retweeted thousands of times by people too ready to listen to anything",
+            "user id": 248470604,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@GeoffRickly @misosusanowa Simple, we all become sheeple unless we start surfing the darkweb and listening to Spider Jerusalem types.",
+            "user id": 5854302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@PatchouliW This is what really bugs me re: net neutrality; most of my news comes from the net. The TV isn't worth dirt.",
+            "user id": 278030569,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@PatchouliW @misosusanowa warren Ellis yes",
+            "user id": 343082774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@GeoffRickly @misosusanowa you know the kind. Horrid looks, worrying, then they show you why you should be best friends.",
+            "user id": 5854302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "@PatchouliW In my barrio [east LA/Echo Park] you generally DIDN'T think of calling the police, because you might become the target.",
+            "user id": 278030569,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [],
+            "content": "@misosusanowa TV? what's that? #saysItAll",
+            "user id": 5854302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "@misosusanowa it's like the old snap about corrupt police goes. \"If you really want to get out of trouble, don't call the police.\"",
+            "user id": 5854302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "@PatchouliW ... and that's where the gangs &amp; affiliations walk in, to that hole; there is some stability there. &amp; it's cops' own fault.",
+            "user id": 278030569,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@misosusanowa When your solution is a problem and the problem becomes the solution, you done goofed up. Not sure if #ferguson or #wonderland",
+            "user id": 5854302,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

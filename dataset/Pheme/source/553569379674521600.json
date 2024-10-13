@@ -1,0 +1,101 @@
+{
+    "source": {
+        "content": "PARIS HOSTAGE SITUATIONS:\n-At printing house\n-Holding 1 hostage\n-At kosher supermarket\n-Holding 6 hostages\n\nStay with @PzFeed for the latest",
+        "user id": 292777349,
+        "tweet id": "553569379674521600",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@PzFeed Terrorists are probably doing it. After all, Terrorists are NOT Muslims at all. They're dumbasses is what they really are.",
+            "user id": 374357782,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@DlSCORD @PzFeed Couldn't be more right. Do Christians have to apologize every time one nut job kills someone? Of course not. Not defining",
+            "user id": 281202163,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Vía @PzFeed:\n\nSituación de rehenes en París\n\n-En Imprenta\n1 rehén\n\n-En Supermercado kosher\n6 rehenes",
+            "user id": 29465011,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@PzFeed: PARIS HOSTAGE SITUATIONS:\n-At printing house\n-Holding 1 hostage\n-At kosher supermarket\n-Holding 6 hostages\n\n@grace_kress98",
+            "user id": 948866394,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@MorganAltman @PzFeed bring your tazer!",
+            "user id": 1164918769,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "PARIS HOSTAGE SITUATIONS:\n-At printing house\n-Holding 1 hostage\n-At kosher supermarket\n-Holding 6 hostages\n\nStay with @PzFeed for the latest",
+            "user id": 2878831764,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed Sad. May anyone who does such violence acts get their ass shot by police and burn in hell.",
+            "user id": 1532684660,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

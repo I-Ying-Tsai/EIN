@@ -1,0 +1,135 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: All Qantas flights are diverting around Sydney CBD but are operating as per schedule at this stage",
+        "user id": 218730857,
+        "tweet id": "544287902079803392",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Qantas In more breaking NEWS Qantas flights never fly oven the CBD in SYD and you SHOULD know that. Stop feeding the trolls.",
+            "user id": 314537848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@Qantas: BREAKING NEWS: All Qantas flights are diverting around Sydney CBD but are operating as per schedule at this stage”",
+            "user id": 42971403,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": ".@DavidBegnaud: “@Qantas: BREAKING NEWS: All Qantas flights are diverting around Sydney CBD but are operating as per schedule at this stage”",
+            "user id": 14088487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Qantas are flights still landing at Sydney airport?",
+            "user id": 634275825,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "Ayenti a cuenta de @Qantas",
+            "user id": 37529477,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@fetcheves @Qantas ¿Ayenti o Atenti?",
+            "user id": 701284730,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@fetcheves No solo van por los chocolates los de ISIS?",
+            "user id": 90644942,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@Qantas: BREAKING NEWS: All Qantas flights are diverting around Sydney CBD but are operating as per schedule at this stage” #flights",
+            "user id": 461680917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Qantas @KTLA https://t.co/cWqaXw6nHm please vote, I need 250 votes to win. Please retweet.",
+            "user id": 16063128,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Qantas Thank god. Just in case the lunatic had managed to get his hands on a Surface to Air chocolate bar while in there.....",
+            "user id": 2900425583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

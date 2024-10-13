@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Smoke, gunshots reported at site of standoff with suspects in the attack on Charlie Hebdo  http://t.co/LDp3chB8FY http://t.co/IuAaEnrlXv",
+        "user id": 2467791,
+        "tweet id": "553588704913416192",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@washingtonpost @nyt French terrorist lives didn't martyr",
+            "user id": 17878191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@washingtonpost pray for Paris an emblem of the planet earth http://t.co/CtgjUORhOI",
+            "user id": 2895823046,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

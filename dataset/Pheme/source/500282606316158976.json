@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "#Ferguson \"He fit the description\" means \"I can't tell black people apart\" means \"I never look at their faces or their humanity.\"",
+        "user id": 16045547,
+        "tweet id": "500282606316158976",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@sigridellis The Message Remains The Same  #Ferguson    http://t.co/cTXAUJq3d8",
+            "user id": 172788483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@BlackWomen_ Yes. Depressingly, infuriatingly, rage-inducingly yes.",
+            "user id": 16045547,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@sigridellis your crazy and why out country still has racism and should be ashamed to call yourself an American",
+            "user id": 2546172579,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@sigridellis: #Ferguson \"He fit the description\" means \"I can't tell blk people apart\" means \"I never look @ their faces or their humanity\"",
+            "user id": 156430551,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

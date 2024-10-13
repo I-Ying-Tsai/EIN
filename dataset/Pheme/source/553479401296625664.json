@@ -1,0 +1,615 @@
+{
+    "source": {
+        "content": "Charlie Hebdo cartoonist Wolinski’s daughter: ‘I don’t think you can kill ideas’ http://t.co/7nWOgz3zs1",
+        "user id": 87818409,
+        "tweet id": "553479401296625664",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "U stoke ideas w this. @guardian: Charlie Hebdo cartoonist Wolinski’s daughter: ‘I don’t think you can kill ideas’ http://t.co/pULaaG1nre",
+            "user id": 473334881,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian I think so So many ideas have been forgot",
+            "user id": 369049413,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Or arrest “@guardian: Charlie Hebdo cartoonist Wolinski’s daughter: ‘I don’t think you can kill ideas’ http://t.co/WbhkqvBUDk”",
+            "user id": 261522787,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@guardian INTERESTING!!! This is what coons like Blaise Compaore did to African pride? http://t.co/mlHDGb8K7y",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@mozhefa @guardian You do not know the important difference between satire and insult.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian Good girl.",
+            "user id": 14839184,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian Tell that to the US DoD and its partners.",
+            "user id": 204867882,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardian: Charlie Hebdo cartoonist Wolinski’s daughter: ‘I don’t think you can kill ideas’ http://t.co/JvJYLTGydO”",
+            "user id": 305035263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian http://t.co/cjXgL6vzef no you can't kill ideas #JeSuisCharlie we can all take a #pen #write #draw #express our freedom of thoughts",
+            "user id": 256552585,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian I agree entirely with Elsa Wolinski, but like to remind the West that other ppl's ideas also can't b killed by force @SamadBilloo",
+            "user id": 1450791602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardian: Charlie Hebdo cartoonist Wolinski’s daughter: ‘I don’t think you can kill ideas’ http://t.co/DSepxcis1Z” #CharlieHebdo",
+            "user id": 317723997,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian not that kind of ideas, i think",
+            "user id": 176778438,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [
+                13
+            ],
+            "content": "@arembooks @guardian : is it like blood instead of sweat???",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "content": "@mozhefa @guardian No it's  the difference between satire and insult. You quite clearly do not know. I'd start with Hogarth.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "@arembooks @guardian : of course you would!!!",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                16,
+                17
+            ],
+            "content": "@mozhefa @guardian   Aaaah wilfull ignorance. Fair enough.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "content": "@arembooks @guardian : https://t.co/asIOFY6wAk",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [
+                18
+            ],
+            "content": "@arembooks @guardian perhaps I'm trying to ignore your irritating arse.....",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [
+                19
+            ],
+            "content": "@mozhefa @guardian You might body swerve education but you can't make fact untrue. Just like you can't make fiction truth.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [
+                20,
+                21,
+                22,
+                23,
+                24
+            ],
+            "content": "@arembooks @guardian : you mean if I call it slavery you're comfortable with capitalism???",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                25
+            ],
+            "content": "@mozhefa @guardian Now you're trying to fictionalise my life? Get your head round satire first. One step at a time. Here we go:",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 21,
+            "parent": 19,
+            "children": [
+                26
+            ],
+            "content": "@mozhefa @guardian Question 1. Do you believe in talking snakes?",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 22,
+            "parent": 19,
+            "children": [],
+            "content": "@mozhefa @guardian Question 2: Do you believe that at one time horses could fly?",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 23,
+            "parent": 19,
+            "children": [],
+            "content": "@mozhefa @guardian  Question 3:Should all religions be treated equally?",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 24,
+            "parent": 19,
+            "children": [],
+            "content": "@mozhefa @guardian Maybe a break for information.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 25,
+            "parent": 20,
+            "children": [
+                27,
+                28,
+                29
+            ],
+            "content": "@arembooks @guardian 'your life?' Take your 'rake' some other place.....",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 26,
+            "parent": 21,
+            "children": [
+                30,
+                31,
+                32
+            ],
+            "content": "@arembooks @guardian : your tongue is pretty busy???",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 27,
+            "parent": 25,
+            "children": [],
+            "content": "@mozhefa @guardian Info 1: https://t.co/GkBASS4MTu",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 28,
+            "parent": 25,
+            "children": [],
+            "content": "@mozhefa @guardian  Info 2: http://t.co/fhP3BoZ6dD",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 29,
+            "parent": 25,
+            "children": [
+                33
+            ],
+            "content": "@mozhefa @guardian   Question 4: do you understand the picture below? http://t.co/0d3LhoOc3T",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 30,
+            "parent": 26,
+            "children": [],
+            "content": "@mozhefa @guardian  Question 5: Do you understand this? http://t.co/EDnsiWEg5B",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 31,
+            "parent": 26,
+            "children": [],
+            "content": "@mozhefa @guardian I'm afraid you're failing this test miserably.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 32,
+            "parent": 26,
+            "children": [
+                34
+            ],
+            "content": "@mozhefa @guardian  Question 6: Do you agree libraries should be free to all?If so why don't u try using one?(This is a two part question.)",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 33,
+            "parent": 29,
+            "children": [],
+            "content": "@arembooks @guardian : there's isn't a fruit n veg stall insight???",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 34,
+            "parent": 32,
+            "children": [
+                35
+            ],
+            "content": "@arembooks @guardian : perhaps I had equal control of my computer that question would be pertinent???",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [
+                36,
+                37
+            ],
+            "content": "@mozhefa @guardian  No answer to any? You've obviously not being studying. I'm afraid u ... http://t.co/VCenwyB5GZ",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 14
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [
+                38
+            ],
+            "content": "@arembooks @guardian: if you weren't so quick to judge, you'd see from outset, my point is not in defence of religion, but african problems",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 15
+        },
+        {
+            "comment id": 37,
+            "parent": 35,
+            "children": [
+                39
+            ],
+            "content": "@arembooks @guardian ----- it about you jumping on your crusading alter to better your criminal enterprise..........",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 15
+        },
+        {
+            "comment id": 38,
+            "parent": 36,
+            "children": [],
+            "content": "@mozhefa @guardian Its about you misunderstanding a satirical magazine.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 16
+        },
+        {
+            "comment id": 39,
+            "parent": 37,
+            "children": [
+                40
+            ],
+            "content": "@mozhefa @guardian 'criminal enterprise'? Education?",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 16
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [
+                41
+            ],
+            "content": "@arembooks @guardian : Yeah!!! From Greece with love.........",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 17
+        },
+        {
+            "comment id": 41,
+            "parent": 40,
+            "children": [
+                42
+            ],
+            "content": "@mozhefa @guardian Still no answer about your foolish accusation.",
+            "user id": 1632334700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 18
+        },
+        {
+            "comment id": 42,
+            "parent": 41,
+            "children": [],
+            "content": "@arembooks: from outset, your arrogance was clear: historic-imperial-legacy is unchallenged! Grow up!! We're sick of this two-faced game",
+            "user id": 561427595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 19
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "12-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "13-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "14-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "15-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "16-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "17-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "18-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "19-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Update: Latest Images of the rescue operation of #4U9525. \n(Pic via: Cédric C./ActuSecours)  http://t.co/ezktB3SXaA - @PollyR_Aviation",
+        "user id": 2280470022,
+        "tweet id": "580359081296293888",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@airlivenet @JohanneMontay @PollyR_Aviation Photos by Cédric C. / @actusecours",
+            "user id": 34029690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@bengallerey @airlivenet @JohanneMontay @ActuSecours Thanks for this! Didn't know about he twitter!",
+            "user id": 2738839271,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "First images reported to show search-and-rescue mission in French Alps v @airlivenet #Germanwings http://t.co/whKhB0HRmy",
+            "user id": 19103793,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @PollyR_Aviation",
+            "user id": 343957145,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Images of the rescue operation of #4U9525. Pic via @airlivenet by Cédric C./ActuSecours http://t.co/TFQj7RTEk0",
+            "user id": 20159596,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

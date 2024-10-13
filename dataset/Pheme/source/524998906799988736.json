@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Full White House statement on Obama's call to #Ottawa http://t.co/7UAGgehJms",
+        "user id": 20633535,
+        "tweet id": "524998906799988736",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MPwrites @TorontoStar Did they talk at all about how they can prevent this from occurring again? Hope they do! #PublicSafety",
+            "user id": 135894264,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "#Respect #Obama \"@MPwrites: Full White House statement on Obama's call to #Ottawa http://t.co/yAwVhjbt0F”",
+            "user id": 454523072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@TigerStripe72 @MPwrites Thanks Obama but we got this. Now pass the beer n ammo eh?",
+            "user id": 19613311,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

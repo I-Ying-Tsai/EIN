@@ -1,0 +1,524 @@
+{
+    "source": {
+        "content": "相声演员侯耀华发的，不是我发的！",
+        "user id": 2570642542,
+        "tweet id": "3689252871531444",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "不是我发的→_→",
+            "user id": 3352241104,
+            "user name": "滚粪球的小屎壳郎",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "→_→",
+            "user id": 1854018955,
+            "user name": "天天早起早睡",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "转发微博",
+            "user id": 3963484222,
+            "user name": "西恩潘西",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                17,
+                19,
+                20,
+                21,
+                42
+            ],
+            "content": "也不是我发的，我只转！",
+            "user id": 1665839943,
+            "user name": "吕军----江南一泓",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[话筒][话筒][话筒]",
+            "user id": 3795448323,
+            "user name": "凄惨32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "假",
+            "user id": 1746702074,
+            "user name": "晓来思",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [
+                18
+            ],
+            "content": "真的假的啊？",
+            "user id": 2362637092,
+            "user name": "木头sanmuzi",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 2672797083,
+            "user name": "范咸鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "觉得在这样的国家好没有安全感。。。",
+            "user id": 3024074437,
+            "user name": "毕茂很酷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [],
+            "content": "[晕]老爸老爸，飞机去哪里啦?",
+            "user id": 1806998127,
+            "user name": "卍换爱祭龙葵卍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "真的吗？",
+            "user id": 3991874984,
+            "user name": "花开无常叶落纷飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [],
+            "content": "我也是打酱油的",
+            "user id": 2286821454,
+            "user name": "黑童话C-jj",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [
+                26
+            ],
+            "content": "",
+            "user id": 2393115504,
+            "user name": "Fair---荼靡花",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [],
+            "content": "生活在这个国家好没安全感。",
+            "user id": 2380381133,
+            "user name": "闫凤凤oO",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 3,
+            "children": [],
+            "content": "也不是我发的，我只转！",
+            "user id": 3200100205,
+            "user name": "丹纯爱颖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 3,
+            "children": [],
+            "content": "只转发",
+            "user id": 2863660400,
+            "user name": "畅通无阻-SL",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "不会是假消息吧？",
+            "user id": 1058033700,
+            "user name": "leonyeah",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 3,
+            "children": [],
+            "content": "转起来",
+            "user id": 5041959188,
+            "user name": "少将的天涯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 6,
+            "children": [],
+            "content": "[闭嘴]",
+            "user id": 2815203702,
+            "user name": "皮皮卢060203",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 3,
+            "children": [],
+            "content": "希望是真的",
+            "user id": 3137659157,
+            "user name": "前世的WW",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": 3,
+            "children": [
+                25
+            ],
+            "content": "转",
+            "user id": 5040872769,
+            "user name": "浅璟汐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": 3,
+            "children": [
+                24
+            ],
+            "content": "如果是真的，那就太好了",
+            "user id": 1307608315,
+            "user name": "落叶0705",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "@WonderfulCHapTer @V海蓝色羽毛V 真滴假滴[疑问][疑问][疑问]",
+            "user id": 2310896607,
+            "user name": "燕子-sz",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "希望是真的",
+            "user id": 3197889462,
+            "user name": "SZ小樱桃",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 21,
+            "children": [],
+            "content": "这个，微信圈也转疯了，只是不清楚到底是谁的朋友？哪个朋友？！",
+            "user id": 1876421525,
+            "user name": "花晨月夕0705",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": 20,
+            "children": [],
+            "content": "也不是我发的，是我转的！",
+            "user id": 3986063533,
+            "user name": "在阳光下微笑的-Lily",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 26,
+            "parent": 12,
+            "children": [],
+            "content": "",
+            "user id": 2037117607,
+            "user name": "唐银海",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "content": "转发微博",
+            "user id": 1749973935,
+            "user name": "奋斗的石头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [],
+            "content": "@奋斗的石头 祈祷",
+            "user id": 2357979357,
+            "user name": "hello李江夏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "飞到那个岛上要干什么？这么多天了吃啥喝啥？国外都知道真相了还不赶快去救援？！艾玛，操老心了。。。",
+            "user id": 1315712152,
+            "user name": "馨灵角落",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "content": "一天一个样",
+            "user id": 1941444041,
+            "user name": "Keroorek",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "希望是真的",
+            "user id": 2325912971,
+            "user name": "毛小毛麻麻",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "content": "这是真的是假呢？",
+            "user id": 3095452941,
+            "user name": "那么多相机淘宝店",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "content": "[xkl转圈]",
+            "user id": 1620181320,
+            "user name": "Wieslav",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "content": "但愿！阿弥陀佛！",
+            "user id": 1775944251,
+            "user name": "半径之外",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "content": "好消息: 转侯耀华老师发朋友圈消息:\"朋友的女儿在英国刚刚看完新闻,说飞机上的人都活着,都活着,说副机长是恐怖分子,飞机在印度的一个岛上,他把机上的导航和信号全毁了,咱国内的新闻还没播。真的？",
+            "user id": 1583954024,
+            "user name": "tapricot",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "content": "到底是不是真的啊",
+            "user id": 2081632737,
+            "user name": "这个世界拒绝和精神病说话",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "content": "希望是真的",
+            "user id": 2095359703,
+            "user name": "喵酱PEPE",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "content": "希望是真的啊",
+            "user id": 1742867702,
+            "user name": "牛牛的雯雯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "content": "呵呵",
+            "user id": 1906219305,
+            "user name": "丹东大曲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "content": "说不定是真的呢！",
+            "user id": 1890666773,
+            "user name": "风云-绿化",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "content": "希望是真的",
+            "user id": 1166736800,
+            "user name": "欢迎eye光临",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": 3,
+            "children": [],
+            "content": "都活着那当然好。。可在这么耗下去。。。多命悬一线啊。。快快营救吧。马来政府。否则谁还敢去马来，乘马来飞机！！！你们是想。。。。",
+            "user id": 3729893014,
+            "user name": "搞笑天后",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 17,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 14,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

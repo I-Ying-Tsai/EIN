@@ -1,0 +1,185 @@
+{
+    "source": {
+        "content": "Crowd of about 250 ignoring order to disperse from W Florissant. #ferguson https://t.co/XsS38XIGPe",
+        "user id": 14715424,
+        "tweet id": "499403422278619136",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CaseyNolen Teargas em &amp; arrest as many as they can!Bring in fire dept &amp; hose em down!",
+            "user id": 120860637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CaseyNolen ill take this one Casey!  Because u ignorant fools if they continue to film the nonsense it will never end, they wanna be on tv",
+            "user id": 2543341305,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CaseyNolen be safe ...",
+            "user id": 449953387,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@CaseyNolen @RiveraSunAuthor WHERES THE NEWS COVERAGE #fascism",
+            "user id": 1398253958,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@babyberkshire @CaseyNolen We Are The Media. You Are The Media. #Ferguson",
+            "user id": 1087124954,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CaseyNolen @gatewaypundit Are they there to burn down the QT again? #Ferguson #thugs",
+            "user id": 15803977,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CaseyNolen @ksdknews don't these young kidscneed to go to school?",
+            "user id": 21008751,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CaseyNolen I will bet you anything that the cops wouldn't hesitate to shoot them all.",
+            "user id": 166270542,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@RiveraSunAuthor @CaseyNolen I mean the televised news.",
+            "user id": 1398253958,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10,
+                11,
+                12
+            ],
+            "content": "@babyberkshire @CaseyNolen The MSM is an arm of the corporate elite representing death &amp; destruction. Teach people to ignore them.",
+            "user id": 1087124954,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@RiveraSunAuthor @CaseyNolen a..... Ya",
+            "user id": 1398253958,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "@RiveraSunAuthor @CaseyNolen but since I can't take my super 8 camera I need some one else to do it for me...",
+            "user id": 1398253958,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [],
+            "content": "@RiveraSunAuthor  corporate and political elite are one in the same. @babyberkshire @CaseyNolen",
+            "user id": 562288022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

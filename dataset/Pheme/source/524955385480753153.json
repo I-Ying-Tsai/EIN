@@ -1,0 +1,184 @@
+{
+    "source": {
+        "content": "Be careful what you read about Ottawa, and what you repeat. tipsheet via @archiemc http://t.co/bifpgRpmEA",
+        "user id": 117155939,
+        "tweet id": "524955385480753153",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@markusoff #4 is very important to keep in mind.",
+            "user id": 16580249,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@markusoff Indeed. Lots of misinformation floating around out there...",
+            "user id": 16249591,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Good advice here RT @markusoff: Be careful what you read about Ottawa, and what you repeat. tipsheet via @archiemc http://t.co/9QRrG02z4h",
+            "user id": 24879011,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@markusoff: Be careful what you read about Ottawa, and what you repeat. tipsheet via @archiemc http://t.co/9gb8Xs3jsg”",
+            "user id": 369794633,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": ".@markusoff @jasondfedorchuk @archiemc Reflexively retweeted this. Sorry.",
+            "user id": 1589381,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "This is some good digital citizenry “@markusoff: Be careful what you read about Ottawa, and what you repeat.  http://t.co/elhObf9WAP”",
+            "user id": 15534393,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@markusoff @archiemc Great info. Thanks for sharing. #Ottawa",
+            "user id": 1451754222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "Helpful for today: “@markusoff: Be careful what you read about Ottawa, and what you repeat. tipsheet via @archiemc http://t.co/O7Mjgv2QyZ”",
+            "user id": 419282726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@bobcooney @markusoff @archiemc Thanks for sharing this.",
+            "user id": 8820062,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "Sound advice “@markusoff: Be careful what you read about Ottawa, and what you repeat. tipsheet via @archiemc http://t.co/GhZwB1WGeR”",
+            "user id": 780790711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@mmmersereau @markusoff @archiemc AND don't jump to conclusions.",
+            "user id": 37041517,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": ".@markusoff @archiemc Definitely not going to RT this graphic until it's been confirmed! ;)",
+            "user id": 18791545,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@markusoff @stsomers @archiemc Did you send this to Licia?",
+            "user id": 17368339,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@andreguimond @markusoff @archiemc agreed.",
+            "user id": 780790711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "#BREAKING #Russia #Moscow today #Putin #Putindead http://t.co/Wg6KyvUgJ3",
+        "user id": 2862224447,
+        "tweet id": "576811711652450304",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@rabin775 @raging545 Something's cookin'!",
+            "user id": 2225747204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@SergeHalytsky @raging545 everything can be!",
+            "user id": 2862224447,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@rabin775 @MrConnieS   Army in charge now !!!!! P=aicN",
+            "user id": 1048468734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@rabin775 @AmDefNews photos was made 4 years ago",
+            "user id": 2219938974,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

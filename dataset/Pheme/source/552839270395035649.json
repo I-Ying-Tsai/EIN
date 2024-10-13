@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "'Journalism is printing what someone else does not want printed: everything else is public relations' - Orwell #JeSuisCharlie",
+        "user id": 21282561,
+        "tweet id": "552839270395035649",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@RupertMyers:'Journalism is printing what someone else does not want printed: everything else is public relations' - Orwell #JeSuisCharlie”",
+            "user id": 84062644,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RupertMyers @Camza7 Always need the reminder THX",
+            "user id": 380910579,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@RupertMyers: 'Journalism is printing what someone else does not want printed: everything else is public relations' -Orwell #JeSuisCharlie”",
+            "user id": 54722997,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@RupertMyers @BrigidAlverson William Randolph Hearst, actually: \"News is something somebody doesn't want printed; all else is advertising. \"",
+            "user id": 1230080953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@Upstreamism @RupertMyers Thanks for the correction!",
+            "user id": 20117922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@RupertMyers: 'Journalism is printing what someone else does not want printed: everything else is public relations' - Orwell #JeSuisCharlie",
+            "user id": 576627484,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

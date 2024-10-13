@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "Nice work from Banksy #JeSuisCharlie http://t.co/w9pJIrf7cP",
+        "user id": 214205356,
+        "tweet id": "552981833189969921",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonOpsLegion",
+            "user id": 197065399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AnonOpsLegion: Nice work from Banksy #JeSuisCharlie http://t.co/7BReGSJaeV”",
+            "user id": 16078071,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@AnonOpsLegion: Nice work from Banksy #JeSuisCharlie http://t.co/k1yym1pCIW” ❤️",
+            "user id": 27671543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonOpsLegion @Oatcake1967 For every one killed, 2 more in their place.  http://t.co/xW7aVYzamC",
+            "user id": 27172412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@AnonOpsLegion @DeborahJRennie Very good it shows vision for tomorrow and the future.",
+            "user id": 2800812359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@HerbieHarrow Yes, we must not lose sight of that, despite today's horrific event. Tragic.",
+            "user id": 2416274990,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Very cool and very true #JeSuisCharlie! RT @AnonOpsLegion: Nice work from Banksy #JeSuisCharlie http://t.co/3aqU8cFQFV",
+            "user id": 6117452,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonOpsLegion @carrielakers it's by @LucilleClerc",
+            "user id": 4863241,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonOpsLegion Not Banksy! But good anyway.",
+            "user id": 377483653,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@AnonOpsLegion @Organic_Jane Except it's from @LucilleClerc https://t.co/M5hGm8mSft",
+            "user id": 2332033299,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@MirandaWhiting @AnonOpsLegion @LucilleClerc I think people are confused as 'Banksy' account has been tweeting it. I meant to quote not RT.",
+            "user id": 377483653,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@Organic_Jane @AnonOpsLegion @LucilleClerc Everything's confusing today!",
+            "user id": 2332033299,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@MirandaWhiting @AnonOpsLegion @LucilleClerc It really is! Regardless there are some amazing cartoons flying around. All brilliant.",
+            "user id": 377483653,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

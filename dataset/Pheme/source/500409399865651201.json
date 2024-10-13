@@ -1,0 +1,160 @@
+{
+    "source": {
+        "content": "real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/PhgVOv2JNG",
+        "user id": 235610395,
+        "tweet id": "500409399865651201",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "reality RT: @hollywood_trey real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/MpQAOIdtpw",
+            "user id": 49245107,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "“@hollywood_trey: real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/fGvf74vlap”",
+            "user id": 901537399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "Real talk “.@s_rsantorini630: “@hollywood_trey: real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/52q249kzvi””",
+            "user id": 28621943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@s_rsantorini630 @hollywood_trey @CleoTrappa_",
+            "user id": 1381214287,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@hollywood_trey. #Ferguson #mikebrown RT @CleoTrappa_: http://t.co/Q0UkXxuB01” \"shameful\"for these cops killing young black men for nothing",
+            "user id": 397407125,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@hollywood_trey @CleoTrappa_ https://t.co/8VXgx4qJEl",
+            "user id": 377440844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "this scares me so much.. “@hollywood_trey: real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/uJ653tNmQC”",
+            "user id": 64793616,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "Dag. “@hollywood_trey: real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/mekLLIIiYr”",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@drgoddess @hollywood_trey @CleoTrappa_ yep...so real I'm a  hashtag that! #ONEBULLETAWAY #STILLNOJUSTICE #NOTBUYINGIT #MIKEBROWN",
+            "user id": 2735507191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@drgoddess @hollywood_trey @CleoTrappa_ very powerful message",
+            "user id": 2743683579,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "damn RT @hollywood_trey: real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/1IZDWdgxlH",
+            "user id": 44845465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "wow ! RT @dicekiss damn RT @hollywood_trey: real. #Ferguson #mikebrown RT @CleoTrappa_: This. Struck. A. Chord. http://t.co/ALrkxJtvLw",
+            "user id": 97336619,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        }
+    }
+}

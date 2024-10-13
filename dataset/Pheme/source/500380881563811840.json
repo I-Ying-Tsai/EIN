@@ -1,0 +1,216 @@
+{
+    "source": {
+        "content": "This is incredible. A witness to the Michael Brown shooting live tweeted the entire event. #Ferguson https://t.co/ERK7dqguVI",
+        "user id": 9295502,
+        "tweet id": "500380881563811840",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@christianism More he tweeted the immediate aftermath",
+            "user id": 18119854,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "MT WOW “@christianism: A witness to the Michael Brown shooting live tweeted the entire event. #Ferguson https://t.co/rD7QXTdXPo”",
+            "user id": 15182532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "“@tomwilliams: WOW @christianism: A witness to the Michael Brown shooting live tweeted the entire event. #Ferguson https://t.co/SdcUxDjSpU””",
+            "user id": 55517304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6
+            ],
+            "content": "@christianism @ageekmom Can this in away be collaborated or verified? Does this acct still exist? Why is this only coming up now?",
+            "user id": 15803977,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@SeanDiVincenzo @christianism All good questions.",
+            "user id": 15869453,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@SeanDiVincenzo @ageekmom does need to be verified. You're correct.",
+            "user id": 9295502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@SeanDiVincenzo @christianism And yes, the account still exists -- the link goes to a collection of tweets. Witness = @TheePharoah",
+            "user id": 15869453,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@christianism @jack what are the legal implications of releasing this?",
+            "user id": 1281881,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@christianism @ageekmom @TheePharoah Twitter is great. It just takes a mobile to share events. Also tragic ones.",
+            "user id": 118253507,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@christianism @jack Whoa! Crazy. Damn, this is GREAT news 4 JUSTICE+bad news 4 shooting cop cuz now there = an eye witness! W/documentation.",
+            "user id": 2593645543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@christianism where does it say he had put his hands up? I missed that?",
+            "user id": 1202146298,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                14
+            ],
+            "content": "@thedaybo seriously?",
+            "user id": 1281881,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@christianism I think that when The Police start shooting at people it's something to think about. What does give them the right to Guns?",
+            "user id": 2464295357,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@storyful Genuine? \"@christianism: A witness to the Michael Brown shooting live tweeted the entire event. #Ferguson https://t.co/olS8rLQIn8”",
+            "user id": 21573897,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [
+                15
+            ],
+            "content": "@sheseesred yes did I miss it? I'm serious",
+            "user id": 1202146298,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@thedaybo why are you looking for that? because his hands being anywhere else up undermines everything else that's illegal? c'mon son.",
+            "user id": 1281881,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "Brilliant #CharlieHebdo satirists did not attack #Islam, but poked fun @ #intolerance &amp; #extremism of all kind inc #racism &amp; #islamophobia.",
+        "user id": 47624589,
+        "tweet id": "552830668607348736",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@bouckap @MsKristinKreuk I agree.",
+            "user id": 2464274870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@bouckap @MsKristinKreuk HAHAHA I'm not sure if this post is meant to be satirical or not but... http://t.co/SevfEcSOGb",
+            "user id": 43486529,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@bouckap @priyanica they did attack Islam by attacking our beloved prophet saw. This gives fuel and manpower to extremists. it's a cycle",
+            "user id": 948598584,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@bouckap @IngridMattson Civilised world has a duty to unite in championing the satirical work cruelly interrupted today in France!",
+            "user id": 1432317780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@AndyDefinite @bouckap @IngridMattson  - Bombs and blockades that imprison, starve and murder millions in the ME made in \"civilized\" world.",
+            "user id": 1087777843,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@AndyDefinite @bouckap @IngridMattson - It's the \"civilized\" Banksters who turn us against one another while they profit from war and debt.",
+            "user id": 1087777843,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@bouckap Should have poked fun at those who insult sensitivitys of 1.5 billion moslims, Christians, jews and others! Ce la vie!",
+            "user id": 455653727,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@bouckap @MsKristinKreuk Which these extremists can't and probably won't ever understand. Saddening. #CharlieHebdo",
+            "user id": 81034219,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@bouckap @MsKristinKreuk #JeSuisCharlie tribute to the victims #CharlieHebdo   Long live #freedom of expression http://t.co/oOnm2t4WTR",
+            "user id": 205664113,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

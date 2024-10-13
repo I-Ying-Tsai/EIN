@@ -1,0 +1,240 @@
+{
+    "source": {
+        "content": "#breaking a number of people appear to have just fled the scene of the #Sydneysiege. Lots of screaming.",
+        "user id": 96501145,
+        "tweet id": "544508479675711489",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NicholasDole @ABCNews24 7 just got out! Alive!",
+            "user id": 20966232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5,
+                6,
+                7
+            ],
+            "content": "@Sema4beach @iamnotshouting @NicholasDole @ABCNews24 \nJust watched what happened!! So glad you and other hostages are okay!!",
+            "user id": 313313775,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NicholasDole @nycjim v @SkyNewsAust: BREAKING @SkyBusiness: 6 hostage escapes from #sydneysiege http://t.co/CF2W2hR1V8 (@carsonscottLIVE)",
+            "user id": 125570941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "突发：若干人质貌似逃出，许多尖叫！\n“@NicholasDole: #breaking a number of people appear to have just fled the scene of the #Sydneysiege. Lots of screaming.”",
+            "user id": 106074367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NicholasDole",
+            "user id": 1428971252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "@kaitjb @iamnotshouting @NicholasDole @ABCNews24 Massive gunfire",
+            "user id": 20966232,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@kaitjb @iamnotshouting @NicholasDole @ABCNews24 Police are using live ammo! Paramedics have entered",
+            "user id": 20966232,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@kaitjb @iamnotshouting @NicholasDole @ABCNews24 Loads of stun grenades!",
+            "user id": 20966232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@Sema4beach @kaitjb @NicholasDole @ABCNews24 fuck fuck fuck :(",
+            "user id": 48981053,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "@iamnotshouting @kaitjb @NicholasDole @ABCNews24 its nearly over!",
+            "user id": 20966232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@iamnotshouting @kaitjb @NicholasDole @ABCNews24 I think they got the Cunt!",
+            "user id": 20966232,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "@Sema4beach @iamnotshouting @NicholasDole @ABCNews24 are you okay? I can't sleep because I've been so worried!!!!",
+            "user id": 313313775,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@Sema4beach @iamnotshouting @NicholasDole @ABCNews24 I really hope so!! I'm so glad you and the others are safe.",
+            "user id": 313313775,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [
+                14
+            ],
+            "content": "@Sema4beach @kaitjb @NicholasDole @ABCNews24  thanks Bob. Best of health to you mate.",
+            "user id": 48981053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "@iamnotshouting @kaitjb @NicholasDole @ABCNews24 yeah all the best!",
+            "user id": 20966232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@Sema4beach @iamnotshouting @NicholasDole @ABCNews24 glad you're alright Bob. Thanks for the updates. Best wishes to you!!",
+            "user id": 313313775,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

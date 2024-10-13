@@ -1,0 +1,170 @@
+{
+    "source": {
+        "content": "山东地震台网测定：03月30日21时22分在山东烟台市长岛县海域（北纬38.10度，东经120.78度）发生M2.6级地震，震源深度12公里。 ",
+        "time": "17-3-30 21:43",
+        "user id": "5227605477",
+        "tweet id": "ECekjm30y",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "2412024015",
+            "user name": "干倒某程",
+            "content": "下午下班时候还跟同事说按照三天一震的规律今天应该地震了",
+            "time": "17-3-31 07:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5227605477",
+            "user name": "鲁震快讯",
+            "content": "",
+            "time": "17-3-31 08:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "3538500870",
+            "user name": "换个名字MMP",
+            "content": "十三次",
+            "time": "17-3-30 21:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "1454914813",
+            "user name": "圣者之怒",
+            "content": "2017年03月30日21时22分在山东烟台市长岛县海域（北纬38.10度，东经120.78度）发生M2.6级地震，震源深度12公里。 ​​​",
+            "time": "17-3-31 00:36",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "6055843259",
+            "user name": "朝朝暮暮ehsw",
+            "content": "其实，，我每次都感觉不到~~ 是我底盘太低？ 还是质量太大啊？ ",
+            "time": "17-3-31 10:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "3210881643",
+            "user name": "旧巷灬情人",
+            "content": "南方天气骤变 ！北方地震频发！外忧内患，今年注定是个多事之年。愿各位安好",
+            "time": "17-3-30 23:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "5361205926",
+            "user name": "爱年糕的小巫婆",
+            "content": "感受到了，但是家里的猫狗都没反应。为什么中国地震台的号没报这次地震？",
+            "time": "17-3-30 22:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "5526052583",
+            "user name": "FIRSTFIRST-",
+            "content": "不够三级国台不报，不过这次国台发博说了。",
+            "time": "17-3-31 12:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "6069327306",
+            "user name": "一切向好997",
+            "content": "有点小慌",
+            "time": "17-3-30 22:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1303971574",
+            "user name": "LoveNicholasTse829",
+            "content": "总是一个位置",
+            "time": "17-3-30 21:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2041829211",
+            "user name": "NN快疯了",
+            "content": "14",
+            "time": "17-3-30 22:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5698247145",
+            "user name": "温暖如初1013",
+            "content": "感觉到了，床又晃了",
+            "time": "17-3-30 22:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

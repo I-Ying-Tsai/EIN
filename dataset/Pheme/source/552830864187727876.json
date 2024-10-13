@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Three gunmen who shot dead 12 people at the HQ of #CharlieHebdo are still on the run in Paris, police say. https://t.co/3QkWHN0kgy",
+        "user id": 7587032,
+        "tweet id": "552830864187727876",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews After the 1962 Cuban Missile Crisis, then came: http://t.co/sh5mFenFTK … … and http://t.co/K120Lr0lUN … …",
+            "user id": 2933943867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Savages",
+            "user id": 2850609607,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews #ParisShooting God Bless My country",
+            "user id": 2176959405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews 3 Muslim extremists. Why does the media never mention they are Muslim?",
+            "user id": 2620056154,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@SkyNews excuse me, what are they shouting? I can't hear it well...",
+            "user id": 91097228,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@marcomura @SkyNews Allah Akhbar!  This is NOT what peaceful Islam teaches #JeSuisCharlie",
+            "user id": 377247309,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews such a sad sad day. I really don't like this world anymore.",
+            "user id": 44859449,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Looks like Europe has lost its power in every way &amp; soon most of Europe would be worthless countries unless immediate steps taken",
+            "user id": 923278088,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "This year in Paris mobs attacked synagogues, synagogues have repeatedly been shot at, there have been anti-semitic rapes, and now hostages.",
+        "user id": 217758017,
+        "tweet id": "553555432577708032",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@b_judah And yet there are still people out there who'll continue the sentence with \"but...\"",
+            "user id": 365687890,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@OliverBullough @b_judah ..but they're apologists. No crime can be justified against people based on race, religion, gender, politics etc.",
+            "user id": 15189196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Wake up Europe: “@b_judah: This year Paris mobs attacked synagogues, synagogues repeatedly been shot, been anti-semitic rapes,now hostages”",
+            "user id": 223778653,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@adamcoffer @b_judah One of these is freedom of expression the other had to be retracted http://t.co/3iM0kcssNc",
+            "user id": 1348798826,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@b_judah @NickCohen4 One of these is freedom of expression the other had to be retracted http://t.co/3iM0kcssNc",
+            "user id": 1348798826,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Do not forget French homosexuals who have been targeted by ALL fascist religious orders: Islam, Catholicism, Judaism @b_judah @NickCohen4",
+            "user id": 2605930819,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@b_judah That's the case here in Sweden aswell, and it's not the natives usually who are the purps. For years! Go figure.\n@HelleClown",
+            "user id": 395149726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": ".@b_judah @NickCohen4 and the official line was that these incidents were unconnected and committed by the mentally ill. Aargh.",
+            "user id": 81364561,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@b_judah And also some irresponsible [towards everyone] cry-wolf fiction?  http://t.co/UwZMXTNMiD @CathyGellis",
+            "user id": 17722542,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

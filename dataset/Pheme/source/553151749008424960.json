@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "Today's #frontpage: Across the globe, #JeSuisCharlie becomes rallying cry. http://t.co/seJkDoEaJB",
+        "user id": 15754281,
+        "tweet id": "553151749008424960",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@USATODAY: Today's #frontpage: Across the globe, #JeSuisCharlie becomes rallying cry. http://t.co/OECh7q6DS7”",
+            "user id": 36394205,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY",
+            "user id": 2427067352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY",
+            "user id": 394333801,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@USATODAY Pathetic mass madness --PARIS DRAMA EVENT is a hoax, and proven so -- http://t.co/FqoqwHEWVP",
+            "user id": 2885348567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@DareToReadIt @USATODAY Goofy.",
+            "user id": 2886586060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Please RT - Download a hilarious FREE Koran PARODY for infidels of all ages - https://t.co/hXbeZHdguj",
+            "user id": 2886586060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY U.S. armed #ISIS. Saudi's funded. Pushing #France to join fake war on terror. #ParisShooting #September11",
+            "user id": 1849407440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY L'Amérique se tient avec la France. #JeSuisCharlie",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY",
+            "user id": 260230031,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Freedom",
+            "user id": 260230031,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Dictators who apparently THINK they ARE GOD will kill because of opinions.What THEY afraid of? People leaving a religion?LET'em.",
+            "user id": 1494212108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY People who hear anything that MIGHT be a criminal threat anywhere..even in part..call cops ASAPso can find quicker to questionETC",
+            "user id": 1494212108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY We are #NotAfraid because #freedom of #thought &amp; #speech can't be killed &amp; #live on forever! #JeSuisCharlie http://t.co/tLT57eWdRC",
+            "user id": 408864557,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Thank You to our Brothers and Sisters from America for sharing our pain and our fight against Terrorism. Vive la Liberté!",
+            "user id": 485534407,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Today, across #America, we can hold our head up high and be #proud, not #afraid, to #speak and #showSupport @AmericanLegion",
+            "user id": 353187983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

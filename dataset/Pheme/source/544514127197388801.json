@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "UPDATE: Police storm #Sydney cafe amid gunshots and explosions: http://t.co/Oase2ec1ZZ",
+        "user id": 1367531,
+        "tweet id": "544514127197388801",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Finally it took them so long to get there.",
+            "user id": 374357782,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@foxnews Did the Obama administration protest the excessive use of force by Australian Police? Calling the action racially offensive?",
+            "user id": 2335375795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@FoxNews: UPDATE: Police storm #Sydney cafe amid gunshots and explosions: http://t.co/J2KtyOfWDJ”",
+            "user id": 20686232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@JordanSekulow @FoxNews Sounded like concussion grenades",
+            "user id": 375795665,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews : Good job.",
+            "user id": 2536796111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews let's applaud the police effort. To hell with the protester in the USA. I want to be safe!!",
+            "user id": 2804183066,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews we would have screwed around with these idiots for a week here. I knew it wouldn't go down like that there. Aussies have a big pair",
+            "user id": 329234762,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

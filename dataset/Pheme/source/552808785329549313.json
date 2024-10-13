@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "French media says cartoonist behind original Prophet cartoon is dead #CharlieHebdo via @EricWRandolph",
+        "user id": 42467881,
+        "tweet id": "552808785329549313",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@aellick @EricWRandolph his death won't be in vain.",
+            "user id": 21684687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@aellick @ericwrandolph Ce résultat Thecmha sur l'islam et le prophète Mahomet devrait être mis sur le peuple de France pour arrêter ces",
+            "user id": 1310371657,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@aellick But wasn't the original cartoon made by a Danish cartoonist? @anubhabhonsle @EricWRandolph",
+            "user id": 64526820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "@annavetticad different publication and artist, i believe.",
+            "user id": 42467881,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@aellick @EricWRandolph @wajih_sani Did any group claim the attack?",
+            "user id": 5993722,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@aellick So is the Danish cartoonist safe?",
+            "user id": 64526820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                8
+            ],
+            "content": "@annavetticad http://t.co/7jiz8zu0Zd",
+            "user id": 42467881,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@annavetticad YES @aellick",
+            "user id": 1677749352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@aellick Tks. I guess the French press is referring to the #CharlieHebdo cartoonist who was critical. This is terrible news.",
+            "user id": 64526820,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

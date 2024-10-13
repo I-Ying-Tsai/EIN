@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Today, the whole world is Charlie (via @diklo69) http://t.co/vOuXCrsPKq #JeSuisCharlie",
+        "user id": 233533968,
+        "tweet id": "553121522769219584",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@LaurensJulien every front page of every newspaper should run the headline \"Je Suis Charlie\" tomorrow or Saturday #solidarity #jesuischarlie",
+            "user id": 20872583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@LaurensJulien @diklo69",
+            "user id": 746738359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@LaurensJulien @Marcotti @diklo69 What's so great about Charlie: it seems to be an equal opportunities offender. How fair is that?",
+            "user id": 305602396,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

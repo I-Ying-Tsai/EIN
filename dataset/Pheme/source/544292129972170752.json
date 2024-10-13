@@ -1,0 +1,219 @@
+{
+    "source": {
+        "content": "BREAKING ALERT: Preliminary reports indicate perpetrators appear to be members of #ISIS. #SydneySiege",
+        "user id": 423662810,
+        "tweet id": "544292129972170752",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@TheAnonMessage: BREAKING ALERT: Preliminary reports indicate perpetrators appear to be members of #ISIS. #SydneySiege” wonderful.",
+            "user id": 59384316,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage not Isis, another group",
+            "user id": 54751665,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@TheAnonMessage ISIS flag supposedly put in window.",
+            "user id": 2147851824,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@JSchoenberger7 @TheAnonMessage not an Isis flag. Just an Islamic one. Stop spreading false rumors.",
+            "user id": 15091678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage no.",
+            "user id": 47239788,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@TheAnonMessage: BREAKING ALERT: Preliminary reports indicate perpetrators appear to be members of #ISIS. #SydneySiege” well this is good",
+            "user id": 193959062,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@designnotdrum @TheAnonMessage Just read some Aussie news report so NOT spreading rumors. Grow up Nick.",
+            "user id": 2147851824,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@designnotdrum @JSchoenberger7 @TheAnonMessage Agreed, I have been pointing this out btw ;)",
+            "user id": 2597593818,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                9
+            ],
+            "content": "@JSchoenberger7 @TheAnonMessage Interesting, because the Guardian says different. http://t.co/mwe9CcLxoE",
+            "user id": 15091678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@JSchoenberger7 @TheAnonMessage The Shahada is not a \"group.\" http://t.co/NtmkHzKMTx Basic googling skills help. Misinfo doesn't.",
+            "user id": 15091678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@designnotdrum @JSchoenberger7 @TheAnonMessage Shahada on a black flag is a general Jihad flag that Al Qaeda/Al Nusra etc.. use.",
+            "user id": 2597593818,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@KTH473 @JSchoenberger7 @TheAnonMessage Sure. But to link to ISIS is factually inaccurate and irresponsible.",
+            "user id": 15091678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "content": "@KTH473 @JSchoenberger7 @TheAnonMessage What if it's Lone wolf? Immediately giving credit without fact checking favors them.",
+            "user id": 15091678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@designnotdrum @JSchoenberger7 @TheAnonMessage Does it actually matter?",
+            "user id": 2597593818,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

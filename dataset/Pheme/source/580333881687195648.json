@@ -1,0 +1,142 @@
+{
+    "source": {
+        "content": "Germanwings flight #4U9525 from Barcelona to Dusseldorf has crashed in French Alps.\nhttp://t.co/FHoX6q0GHt\nR.I.P. http://t.co/oUOhJrHxko",
+        "user id": 134196350,
+        "tweet id": "580333881687195648",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@flightradar24 Could you expand the last pic please?Can't read the digits?",
+            "user id": 244134922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@TakkieWeer2 @flightradar24 Link naar Exel bestand staat in vorige tweet.",
+            "user id": 43878918,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 I'm not a pilot but for a plane with issues to continue on that flight path, on a descent, toward mountain terrain seems odd.",
+            "user id": 506278413,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "horror! “@flightradar24: Germanwings flight #4U9525 from Barcelona to D'dorf crashed\nhttp://t.co/2oJ8udyilY\nR.I.P. http://t.co/8Z5vonRSst”",
+            "user id": 1107268454,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 @Pabriks +++ http://t.co/sRHWois8tg ... RIP",
+            "user id": 242810893,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@flightradar24 The plane dropped altitude very fast, but the speed was constant, this &gt;&gt;&gt; #4U9525",
+            "user id": 27618702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                9
+            ],
+            "content": "@flightradar24 this could indicate the pilots did everything they could to stop the freefall. &gt;&gt;&gt;&gt;&gt;",
+            "user id": 27618702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 all my prayers to their families.",
+            "user id": 809042136,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@LudgerBoerrigte Thanx!",
+            "user id": 244134922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "@flightradar24 They used the speed break to full. #4U9525",
+            "user id": 27618702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

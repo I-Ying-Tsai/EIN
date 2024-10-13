@@ -1,0 +1,186 @@
+{
+    "source": {
+        "content": "UPDATE: This morning’s shooting incidents occurred at the National War Memorial and on Parliament Hill.  Not Rideau Centre. #ottnews",
+        "user id": 23937894,
+        "tweet id": "524981513637888000",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@OttawaPolice: UPDATE: This morning’s shootings occurred at the National War Memorial and on Parliament Hill.  Not Rideau Centre. #ottnews”",
+            "user id": 98223561,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @OttawaPolice  This morning’s shooting incidents occurred at the National War Memorial and on Parliament Hill. Not Rideau Centre #ottnews",
+            "user id": 39547278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@OttawaPolice @Reenit Did the Soldier ... (military guard) have A loaded Rifle ?",
+            "user id": 73654065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@JimHumbert He was a Honor Guard so I'm not sure if he did or not. #OttawaShooting",
+            "user id": 26714962,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice How did Rideau Centre get mixed in? Maybe it's on lockdown only?",
+            "user id": 25687111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice Thought from UK will the people of Ottawa shocking total shocking and well done to your emergency response teams",
+            "user id": 20627468,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice Any confirmation of the identity of these gunmen? Involvement of Al-queda or ISIS?",
+            "user id": 574234745,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice (Trad) Mise à jour:Les fusillades ont eu lieu au monument commémoratif de guerre et au Parlement. Pas au Centre Rideau #Ottawa",
+            "user id": 2465801928,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @ibnlive its sad, but human rights is 4 humans not terrorists, punish all terrorists sheltered in canada under disguise of HR",
+            "user id": 2253333247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@OttawaPolice there were shots fired outside of the Rideau centre, not inside so ya, technically the Rideau Centre didn't have a shooting",
+            "user id": 488603581,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@AngStarGazer @OttawaPolice shots at 3rd location? Yes or no?",
+            "user id": 2522478190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice this seemed like a clear terrorist attack http://t.co/AyDbT8xKCC",
+            "user id": 344976463,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [],
+            "content": "@Reenit. Ok thanks....",
+            "user id": 73654065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@DavidBowes6 @OttawaPolice yes there were",
+            "user id": 488603581,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

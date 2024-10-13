@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "#Ferguson Police Chief confirms when officer stopped #MikeBrown, he was not aware he was a suspect in a robbery.",
+        "user id": 18294906,
+        "tweet id": "500359125310922753",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards @xCourtneyJanae so suspect means guilty? or shoot on sight? so #Ferguson Police believe in shoot 1st ask ?'s later.",
+            "user id": 77713796,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ". @RobertDEdwards @MichaelSkolnik . \nBut #MikeBrown knew he was.\nNow we know why the assault &amp; attempted disarming of the officer took place",
+            "user id": 1020954092,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@ICTATAS  why would go 4 his gun over cigarillos. If anything he probably was trying to stop the officer frm pulling out his gun &amp; shooting",
+            "user id": 244366948,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@RobertDEdwards: #Ferguson Police Chief confirms when officer stopped #MikeBrown, he was not aware he was a suspect in a robbery.” Wow",
+            "user id": 205543658,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@The_Stefster @RobertDEdwards, it appears that daily the news attains more and more. This is crazy!",
+            "user id": 2305758626,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": ". @RobertDEdwards @MichaelSkolnik .\n#MikeBrown, believing the officer knew his crimes,decided to fight for his freedom. \n#commonsense",
+            "user id": 1020954092,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards Its all a part of their plan to say #mikebrown knew he was a suspect, so he reacted by fighting the police officer, thinking",
+            "user id": 47146660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards he was being apprehended.  That's why the struggle ensued.",
+            "user id": 47146660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards @MichaelSkolnik He wasn't aware because he wasn't a suspect. That's not why he was stopped.",
+            "user id": 85641619,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards @MichaelSkolnik None of that is relevant, he shot, an unarmed kid 10 times.....  #coldbloodedmurder",
+            "user id": 981050484,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@RobertDEdwards @MichaelSkolnik Shot him 10 times for jay-walking or impeding traffic......? He was standing with his hands up #Surrender",
+            "user id": 981050484,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@RobertDEdwards: #Ferguson Police Chief confirms when officer stopped #MikeBrown, he was not aware he was a suspect in a robbery.” wtf???",
+            "user id": 328928589,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

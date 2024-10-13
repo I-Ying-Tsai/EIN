@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Terrorist attack in Paris at satirical magazine is just heartbreaking. Prayers. So is the #NAACPBombing. I wish we would talk about both.",
+        "user id": 25545470,
+        "tweet id": "552826724774592512",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ChrissyCole no 1 died at the latter.",
+            "user id": 2281131228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@VincentMcAnuff @ChrissyCole so what? If someone did, they still would not say anything. The point is that they do not care or give a shyt",
+            "user id": 1361200178,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

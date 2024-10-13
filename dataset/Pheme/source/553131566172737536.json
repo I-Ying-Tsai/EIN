@@ -1,0 +1,186 @@
+{
+    "source": {
+        "content": "Charlie Hebdo shooting: reports of attacks on Mosques in France – live updates http://t.co/MhzOEjovPg",
+        "user id": 87818409,
+        "tweet id": "553131566172737536",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian very disappointing. Now is the time to stick it to them by being the bigger people. Revenge is an immature steam let off.",
+            "user id": 61710880,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian Christianisist terrorists to add fuel to the fire",
+            "user id": 56114051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian @MinimumCover 'TO hurt' That's Guardian spelling ! No wonder all our teachers are thick.",
+            "user id": 19917147,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@guardian pathetic. This is EXACTLY what the extremists want. They want holy war. Don't give it to them.",
+            "user id": 2236525585,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@csbarielle1976 @guardian which side do you think is holy?",
+            "user id": 1100855744,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@guardian Reminiscent of the troubles in Northern Ireland- tit for tat. Regular muslims are not terrorists: they're just ppl like you &amp; I.",
+            "user id": 984662900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                13
+            ],
+            "content": "@BrassChihuahua @guardian   We await the millions of non violent muslims to oppose barbaric murders but of course silence",
+            "user id": 979740954,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardian: Charlie Hebdo shooting: reports of attacks on Mosques in France – live updates http://t.co/AxKqtl6yxa” not good news.",
+            "user id": 123416335,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian this is terrific. I'm living in Paris and the tension is palpable. Extremists - &amp; idiots - are going to attack innocents...",
+            "user id": 36988181,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian you are free to do what you want. Be prepared for the consequences.",
+            "user id": 2937525600,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian Nothing new(s),Muslim countries been under attack since Israel creation&amp;Soviet expulsion fm Afghanistan-Fallacy is w/out history.",
+            "user id": 249895896,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian @FrenchRadioLdn Please don't do that!",
+            "user id": 326089485,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@stp_han @guardian neither, they are both pathetic.",
+            "user id": 2236525585,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 6,
+            "children": [],
+            "content": "@WinPropP @guardian There hasn't been silence: BBC interviewed a muslim spokesperson yday on news I'd also like 2hear more frm the community",
+            "user id": 984662900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

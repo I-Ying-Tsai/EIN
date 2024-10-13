@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "The copilot of the Germanwings plans, Andreas Guenter Lubitz, appeared to want to \"destroy the plane,\" French prosecutor says.",
+        "user id": 15234546,
+        "tweet id": "581062604988162048",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TerryMoran is that a translation issue or generic speak for some form of terrorism?  #ultimatelonewolf",
+            "user id": 26158955,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

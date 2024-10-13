@@ -1,0 +1,107 @@
+{
+    "source": {
+        "content": "Anybody who wants to talk about what Charlie Hebdo might have done to \"provoke\" this should probably shut up, forever.",
+        "user id": 40641691,
+        "tweet id": "552791414388424704",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@andrew_mueller @akaAgar and it means they are dumb stupid because it just prove they didn't really read the paper",
+            "user id": 17819256,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@andrew_mueller @Twisted_Chips You should probably shut the fuck up aswell. They played with fire. And im not saying they deserved it.",
+            "user id": 391300447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@simon_hofmann @andrew_mueller @Twisted_Chips I guess you know nothing about the freedom of speech. You should shut the fuck up as well",
+            "user id": 2428868212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@andrew_mueller Or they should be allowed to babble their nonsense, safe in the knowledge they won't get shot for freedom of expression.",
+            "user id": 14482998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@ChrisJDavies Or that. Either's good.",
+            "user id": 40641691,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@andrew_mueller: Anybody who wants to talk about what Charlie Hebdo might have done to \"provoke\" this should probably shut up, forever.”",
+            "user id": 22055155,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [],
+            "content": "@JPrivat01 @simon_hofmann @andrew_mueller @Twisted_Chips \n\npick one- \"Shut the fuck up\" is the opposite of \"freedom of speech\"",
+            "user id": 2596473806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "They didn't give the chief no type of time to rehearse his lines and now he stuck looking like... #Ferguson http://t.co/2fL1yMZFUQ",
+        "user id": 158613421,
+        "tweet id": "500363023958409216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@_maryec @BigBoi Thats a look of a man thinking \"Fuck I cant bullshit my way out of this\"",
+            "user id": 113123606,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@_maryec: They didn't give the chief no type of time to rehearse his lines and now he stuck looking like... #Ferguson http://t.co/yKbofHAwcE",
+            "user id": 77823531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@_maryec @BigBoi it's the look of a man who knows nothing is going to happen anyway.",
+            "user id": 1559805494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@_maryec @BigBoi. Lmao he look so scared. Man thts dude don't say nothing wrong but he's lien now",
+            "user id": 43590195,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@_maryec That's what we call a \"flop sweat,\" right there.",
+            "user id": 14515333,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

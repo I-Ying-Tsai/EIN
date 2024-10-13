@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "No, this isn't Iraq or Gaza or Syria. This is the United States of America. #Ferguson #WTF (via @GerryDuggan) http://t.co/BcxvWjCW5N",
+        "user id": 21377384,
+        "tweet id": "499626055251271682",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Panger2014 @cdotharrison @GerryDuggan No money for a dash cam on the squad car?",
+            "user id": 1280913685,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Panger2014 @melvinamsmaria @GerryDuggan YEP! This IS the newly MILITARIZED police state in America! Take back war equipment from local cops",
+            "user id": 55186659,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Derosh848 @melvinamsmaria @GerryDuggan There is simply not one reason why they should have it. And it's being distributed everywhere.",
+            "user id": 21377384,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Panger2014 @OneStrawHat @GerryDuggan http://t.co/Z15YARbkV5",
+            "user id": 21461995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@bells110 @Panger2014 @OneStrawHat In the past that was the press...",
+            "user id": 19223342,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@Panger2014 @AZWS @GerryDuggan The only thing I disagree with during a riot is the camo uniforms! They are not in the military!",
+            "user id": 2600786209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@lain_garrie @Panger2014 @AZWS @GerryDuggan Camo's pushing it, but I'm ok with body armor - those #fergusonanimals have guns.",
+            "user id": 284306695,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "Meanwhile, Barry is stroking his 9 iron. @Panger2014 @GerryDuggan",
+            "user id": 823809320,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Panger2014 @conservtivemom @GerryDuggan @Foxnews Im telling the President! U have 2 show respect 2 get it..not use fear..Oh thats 3rd world",
+            "user id": 924054156,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Panger2014 @conservtivemom  You've never seen a SWAT team? They respond when rioters go berserk. You were expecting Dep. Barney Fife??",
+            "user id": 23359769,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@panger2014 united snake and baby killer",
+            "user id": 2676862313,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "@Panger2014 We live where a white man can walk around with an AK-47 but a black kid can't walk down the street. http://t.co/GT917v6uMD",
+            "user id": 902528816,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@CaccioppoliMike No words.",
+            "user id": 21377384,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 4,
+            "children": [],
+            "content": "@GerryDuggan @Panger2014 @OneStrawHat The press is being threatened with arrest if they don't leave #Ferguson at nite. Police state at work.",
+            "user id": 21461995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "UPDATE: Russian President Vladimir Putin in baby rumours as insider warns of Kremlin cou\n\nhttp://t.co/Qd6ebWvVxK",
+        "user id": 1345155150,
+        "tweet id": "576409244968361985",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Ukrainka123: UPDATE: Russian Pres. Vladimir #Putin in baby rumours as insider warns of #Kremlin coup. \n\nhttp://t.co/77ZXOvIvyp”",
+            "user id": 2297286916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Ukrainka123 We're holding our breath to see if these predictions become true next week. More media now covering Putin's disappearance.",
+            "user id": 2297286916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Ukrainka123 @jerrym10000 \nWho knows for sure, but some of the troll activity has dampened, ? maybe no pay cheques.. http://t.co/l9F72en6NI",
+            "user id": 275023883,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

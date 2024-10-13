@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Increasingly seems like #Ferguson police dept. spent all week playing dress-up, couldn't even be bothered to get its story straight",
+        "user id": 179732982,
+        "tweet id": "500370960093302784",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge This could be the inspiration for that 'Let's Be Cops' movie.",
+            "user id": 496734925,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge Just like a guilty criminal.",
+            "user id": 579991485,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@TheDailyEdge Do you actually report anything accuratly  Jaywalking?  He was a suspect in a strong arm robbery",
+            "user id": 876226856,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@SkippyTheWonder @TheDailyEdge Ur name shld be \"Skippy the fucking bigoted dumbass\"! Or \"Skippy the idiot\"! Who goes by Skippy anyway? #smh",
+            "user id": 122745846,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge They still haven't said how many shots were fired, how many hit Michael Brown and the location of the entry wounds.",
+            "user id": 452248666,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge My column: FERGUSON: OBAMA KICKS NIXON IN THE ASS: http://t.co/cOHhtd2d2T \n#ferguson  #mikebrown  #handsup #NMOS14",
+            "user id": 902528816,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge that's because there was no feasible reason for dude to kill him... police brutality pure and simple",
+            "user id": 170684305,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge @retrosher &amp; too busy attacking &amp; besieging an American community to do any sort of investigating.",
+            "user id": 204660784,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge When did shoplifting became robbery.",
+            "user id": 225869431,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

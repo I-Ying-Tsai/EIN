@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Australian authorities confirm that the #SydneySiege is over and all hostages have been freed...",
+        "user id": 301309392,
+        "tweet id": "544518128798294016",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Whoo hoo!!! RT“@eNCAnews: BREAKING NEWS: Australian authorities confirm that the #SydneySiege is over and all hostages have been freed...”",
+            "user id": 64410569,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "BREAKING NEWS: Australian authorities confirm that the #SydneySiege is over and all hostages have been freed...” @eNCAnews",
+            "user id": 284463220,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@EstelleBr Two dead &amp; several injured I'm afraid Estelle :-( \n#SydneySiege",
+            "user id": 39987298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@eNCAnews: BREAKING NEWS: Australian authorities confirm that the #SydneySiege is over and all hostages have been freed...”",
+            "user id": 2540949067,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Thank goodness. \"@eNCAnews: BREAKING NEWS: Australian authorities confirm that the #SydneySiege is over and all hostages have been freed...”",
+            "user id": 32366017,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@eNCAnews: BREAKING NEWS: Australian authorities confirm that the #SydneySiege is over and all hostages have been freed...” Alhamdullilah",
+            "user id": 409039885,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews thanks God 😭😭😭😭",
+            "user id": 254432684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews CPR given to at least 2 people so I don't think they all made it out :/",
+            "user id": 288332685,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews dis they arrest the gunman?",
+            "user id": 145238504,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews lol 2 dead",
+            "user id": 313483181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@eNCAnews Glad to hear that, thanks God🙌💪👼",
+            "user id": 765642079,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

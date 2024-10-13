@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "According to #CharlieHebdo’s lawyer four well-known French cartoonists were killed by the masked gunmen: Cabu, Wolinski, Charb et Tignous.",
+        "user id": 25049056,
+        "tweet id": "552818821460148226",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en I strongly condemn this terrorist attack as a Turkish Muslim.Terrorists Cannot represent Islam #notinmyname #CharlieHebdo",
+            "user id": 2464502209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@France24_en so sad. What's our world coming to?",
+            "user id": 1542767918,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@France24_en no more freedom of speech, no more journalists or journalism. Just political correct crap off the media because of fear",
+            "user id": 1542767918,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "#RIP RT @France24_en According to #CharlieHebdo’s lawyer 4 well-known cartoonists killed by masked gunmen: Cabu, Wolinski, Charb + Tignous.",
+            "user id": 25235198,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @yewkalaylee http://t.co/4mg45dDOoT",
+            "user id": 932558718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

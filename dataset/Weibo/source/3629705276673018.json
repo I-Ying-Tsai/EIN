@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "转告一下 我在:http://t.cn/zRA3TPu",
+        "user id": 2265590150,
+        "tweet id": "3629705276673018",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "够恶心！",
+            "user id": 3323978250,
+            "user name": "陈浩民-",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@骆思敏- @陳娜娜-c @Mature-kid @lyj蓝宇俊 @姚奔曰 @古-莹莹 @坦然已不坦然XH惠琪 @小柔儿- @-呵-梁丽 @Shelly-叶洁虹 @Esteyille @慧兒Dr @-張愛依 @--欧嘉敏 @_李蔚兒 @_張寶兒- ",
+            "user id": 2353042011,
+            "user name": "kiki--林丽敏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "注意啦[围观][围观][围观][围观]",
+            "user id": 2714996311,
+            "user name": "你华哥丶丶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 3544948007,
+            "user name": "贱男椿1",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "[吃惊]",
+            "user id": 2285472820,
+            "user name": "me---L诗琦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "[黑线][黑线][黑线]七天才去过一次步行街，爱抓谁抓谁。",
+            "user id": 2497323634,
+            "user name": "周屌丨丝iV",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "……",
+            "user id": 2548797581,
+            "user name": "文麒皓_WQH",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "转发超500了为什么不拘留？",
+            "user id": 1846821397,
+            "user name": "Nagaru",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "操！@权志龙我爱你不比任何人少",
+            "user id": 2677528504,
+            "user name": "LIJIAYIHAOMA",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "再+1转发[偷笑]@平安XX",
+            "user id": 1783433453,
+            "user name": "GTX980Ti",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "啊。。。。。。。。。",
+            "user id": 2912877345,
+            "user name": "莫稚气-yi",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,334 @@
+{
+    "source": {
+        "content": "唉···",
+        "user id": 1801441702,
+        "tweet id": "3491546966012511",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "一看就是小日本还是极其难看的，这都会盲目眼睛真他喵的白长了",
+            "user id": 1763593330,
+            "user name": "Andrew_Doug_Style",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "转发微博。",
+            "user id": 2449791744,
+            "user name": "谭淇元在工作",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@B-angel祝卫驰 你加这个男模·",
+            "user id": 1366454857,
+            "user name": "默然B-angel",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "[怒][怒][怒][怒][怒][怒][怒][怒][怒][怒]",
+            "user id": 2707863611,
+            "user name": "二冰_八千女鬼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "估计是假的！",
+            "user id": 2352524923,
+            "user name": "瑞瑞是小师弟",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "真犊子…[鄙视]",
+            "user id": 1918314567,
+            "user name": "miss-yang77",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "这贱货不干好事！",
+            "user id": 1880250400,
+            "user name": "失控的胖纸杨小茗",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "content": "证实了打砸抢是日本派来的倒钩的猜想。",
+            "user id": 1976448341,
+            "user name": "东晋王氏",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "转发微博",
+            "user id": 1782825545,
+            "user name": "Andrew堡亨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "[汗][汗]都清醒点理智点吧！",
+            "user id": 1852432217,
+            "user name": "黒銫尐木馬",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "弄死小日本也不解气",
+            "user id": 1839294485,
+            "user name": "戈多63",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 6,
+            "children": [],
+            "content": "[弱]",
+            "user id": 1653610702,
+            "user name": "cannot0515",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "长的一副日本痴呆儿童样",
+            "user id": 1762273997,
+            "user name": "傳說__靜",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 8,
+            "children": [
+                24
+            ],
+            "content": "我操咯",
+            "user id": 1871049343,
+            "user name": "艾瑞克_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 7,
+            "children": [
+                15
+            ],
+            "content": "",
+            "user id": 1984913281,
+            "user name": "雪梨不肿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "[酷]",
+            "user id": 1963593332,
+            "user name": "noworries-ozsnoopy",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "小日本真是极品的坏！",
+            "user id": 1864973563,
+            "user name": "我家流氓兔小新",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "content": "充满着淫荡的气息！",
+            "user id": 1888362075,
+            "user name": "幽吏",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "小日本真阴险",
+            "user id": 1910387685,
+            "user name": "最爱草莓味儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 17,
+            "children": [
+                21
+            ],
+            "content": "小日本太TMD阴险！",
+            "user id": 1489488543,
+            "user name": "兰亭旭",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "content": "爱国粪粪的智商跟word水平果然是相辅相成的……以后能先把始终选择段落标记勾掉再玩这套嘛？",
+            "user id": 2683793994,
+            "user name": "于力的父亲",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 19,
+            "children": [
+                22
+            ],
+            "content": "……",
+            "user id": 1669584217,
+            "user name": "京蕾戏社",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "content": "[汗]",
+            "user id": 1682080964,
+            "user name": "BTV余翔",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "假的。攘外必先安内!2B真多!",
+            "user id": 2033931983,
+            "user name": "SaintLaurent01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 13,
+            "children": [],
+            "content": "衹是警告大家，是非對錯，自然要自己辨別！！",
+            "user id": 1994642785,
+            "user name": "钟祺Tiffany",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "content": "@沫宝求offer求温暖求大碗 特务就在身边潜伏了三年！",
+            "user id": 1946275511,
+            "user name": "caicaimogu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

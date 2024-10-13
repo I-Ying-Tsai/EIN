@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "Фейк?! или #Путина #убили! According to reports in Russia there was a military coup. President Vladimir #Putin killed http://t.co/tuXds42w94",
+        "user id": 2328677922,
+        "tweet id": "576509083152457728",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@mikolakogyt та фейк..",
+            "user id": 2996313892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@topas880 точно а звідки інформація, можливо це ваша здогадка...",
+            "user id": 2328677922,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mikolakogyt @sozvezdie Джойн инфо - это та ещё говновброска =) Просто комбайн по говновбросам",
+            "user id": 433766116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mikolakogyt RU не примет такого чурбана, если бы даже и...Им все ОДЫН ДЫН:якуты,буряты,тува...НЕ быть ему Пиночетом-RU",
+            "user id": 2356358269,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@mikolakogyt росіяни - такі \"прибічники\" повалення режиму, шо капець..Я думаю, що це фейк..і тим більше - дана інфа - не є підтвердженою.",
+            "user id": 2996313892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

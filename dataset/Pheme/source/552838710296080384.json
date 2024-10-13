@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "This http://t.co/yAKOt5aARE #JeSuisCharlie http://t.co/hUYhnDDBSf",
+        "user id": 47596039,
+        "tweet id": "552838710296080384",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Eloquent tribute to satirists.....“@stuartmillar159: This http://t.co/dBIN5LL3SW #JeSuisCharlie http://t.co/vt4dGKgO5q”",
+            "user id": 229930854,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@stuartmillar159 This is unprecedented coming from the leftie Guardian.",
+            "user id": 383906888,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "source": {
+        "content": "Hostage situation in Sydney is happening next door to @7NewsSydney's studio -- this is a live stream of the coverage https://t.co/uNXkJmspr8",
+        "user id": 14515799,
+        "tweet id": "544277650714677249",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@brianstelter Live feed just been cut for security reasons apparently.",
+            "user id": 15374715,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@jasepalm It's working for me.  @brianstelter",
+            "user id": 16090559,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@brianstelter @7NewsSydney A live coverage is pretty warped. Stop it.",
+            "user id": 20125356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@brianstelter all live streams have been cut as per police directive.",
+            "user id": 216230774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@turnerscope 7 is still showing a long-distance shot; some police visible.",
+            "user id": 14515799,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Live stream “@brianstelter: Hostage situation in Sydney happening next door to @7NewsSydney's studio -- coverage https://t.co/utCP3mVp9W”",
+            "user id": 238852699,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@brianstelter Thanks for posting the link, Brother Brian.",
+            "user id": 90059772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@brianstelter @7NewsSydney No stream????",
+            "user id": 1232348810,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@brianstelter @7NewsSydney I'm watching it now.  Thanks for the link.  Great public service, Brian.",
+            "user id": 155470516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@brianstelter Mustn't use disproportionate force on the poor peace loving Moslem inside of the newly liberated cafe. http://t.co/3gTPGJiTMF",
+            "user id": 7439352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [],
+            "content": "@brianstelter @turnerscope yeah just no liveshot of Lindt Cafe itself.",
+            "user id": 17266705,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@brianstelter that's street behind studio via link truck. Live studio stream cut",
+            "user id": 216230774,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

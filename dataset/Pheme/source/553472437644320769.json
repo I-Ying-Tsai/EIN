@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "BREAKING: French police chasing a Peugeot on motorway around Paris and say hostages have been taken by Cahrlie Hedbo attack gunmen.",
+        "user id": 1626294277,
+        "tweet id": "553472437644320769",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@INTLSpectator @boasonbusiness getting messy",
+            "user id": 1288236433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@riggsbeem @intlspectator Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Robert DeNiro in \"Ronin\" RT @INTLSpectator BREAKING: French police chasing Peugeot on motorway around Paris &amp; say hostages have been taken",
+            "user id": 133615938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@douglas_nilsson @intlspectator Paris attack raises questions about Obama's policies http://t.co/DA50JYJG9o",
+            "user id": 38133247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

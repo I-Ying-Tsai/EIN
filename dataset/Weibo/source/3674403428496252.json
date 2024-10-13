@@ -1,0 +1,104 @@
+{
+    "source": {
+        "content": "【VIP看看】‘Fantastic Babys’ 2012 VIP 日本写真～～他们永远在逗VIP们开心",
+        "user id": 2867795327,
+        "tweet id": "3674403428496252",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "content": "[围观]",
+            "user id": 2325663301,
+            "user name": "BIGBANG中文网",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "转发微博",
+            "user id": 3740287187,
+            "user name": "粑粑呆比爱爆炸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "霓虹写真… 你们就那么爱樱花妹子嘛",
+            "user id": 1883124863,
+            "user name": "-王恩聪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "我可以说李总你真帅不？",
+            "user id": 1945866997,
+            "user name": "域域杨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 2612589413,
+            "user name": "我是索索xi",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "@用沉默来咆哮 第四张图又一次的暴露了GD对腻腻的爱意",
+            "user id": 1881496603,
+            "user name": "没有鱼丸的麦兜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "content": "哈哈哈",
+            "user id": 1801037841,
+            "user name": "萌萌的灰灰呀",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 6,
+            "state_1": 0
+        }
+    }
+}

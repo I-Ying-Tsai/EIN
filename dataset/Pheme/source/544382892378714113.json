@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Five Hostages Escape Sydney Cafe Siege — Live Updates From @BuzzFeedOz http://t.co/aFHirytbFH http://t.co/BiLJuBBc5R",
+        "user id": 1020058453,
+        "tweet id": "544382892378714113",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@BuzzFeedNews @BuzzFeedOz she's kinda cute considering she's all scared out of her mind and all.",
+            "user id": 291536737,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@WillPrado1 @BuzzFeedNews @BuzzFeedOz  Is she an actress? This photo makes my conspiracy senses tingle...ya' know?",
+            "user id": 18014484,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews @BuzzFeed @BuzzFeedOz this really saddens me. Why can't people just get along? Those people are innocent",
+            "user id": 239120230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuzzFeedNews: Five Hostages Escape Sydney Cafe Siege — Live Updates From @BuzzFeedOz http://t.co/PTROYJJ6s8 http://t.co/3Z9RJ2Pi3k”",
+            "user id": 137055786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews @BuzzFeedOz",
+            "user id": 185512977,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Gelukkig! “@BuzzFeedNews: 5 Hostages Escape Sydney Cafe Siege — Live Updates From @BuzzFeedOz http://t.co/LtkNnkZR4t http://t.co/HrkdkuiGGY”",
+            "user id": 25662129,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Whoa die vine. RT @BuzzFeedNews: Five Hostages Escape Sydney Cafe Siege http://t.co/E6UvRQWMqF http://t.co/6pwQLRTon8",
+            "user id": 241949363,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@ireneiris   .lol.....anything is possible.",
+            "user id": 291536737,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

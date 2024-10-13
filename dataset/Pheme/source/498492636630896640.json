@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "Lots of angry mothers here in #Ferguson this morning. http://t.co/RXTdkGgDMG",
+        "user id": 14090948,
+        "tweet id": "498492636630896640",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AntonioFrench @Maggyw519 what happened?",
+            "user id": 1615265173,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@johnsonchangsa Search #Ferguson #MikeBrown  @AntonioFrench @Maggyw519",
+            "user id": 918128298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Lots of angry mothers here in #Ferguson this morning. http://t.co/n7zPuaWO20” their kids aren't safe #MikeBrown",
+            "user id": 22069212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "surrounded by stone faced white ppl “@AntonioFrench: Lots of angry mothers here in #Ferguson this morning. http://t.co/PoYgXa4zmN”",
+            "user id": 560769351,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench I was there for a moment when 2 Atlanta Police killed my son 2013, but I had to get rid of  anger and let God handle it.",
+            "user id": 1888113643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AntonioFrench: Lots of angry mothers here in #Ferguson this morning. http://t.co/WuYhpTYbv5”",
+            "user id": 74781738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench The one with the shades looks like he just wants a reason, any reason. @ArrogantDemon",
+            "user id": 918128298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "The stance &amp; facial expressions of these pigs😡“@AntonioFrench: Lots of angry mothers here in #Ferguson this morning. http://t.co/1hOwRt9MNh”",
+            "user id": 540135325,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Without Anger I fight for justice with Gods guidance,  keep my son legacy alive, because if I didn't I would have retaliated",
+            "user id": 1888113643,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Lots of angry mothers here in #Ferguson this morning. http://t.co/hhoyqRu5P8” where black officers",
+            "user id": 24320301,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @TiaRachel They don't look as mad as the white dude. And why the hell shouldn't they be angry? Their kids are moving targets.",
+            "user id": 2538984711,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Lots of angry mothers here in #Ferguson this morning. http://t.co/kzcETnL50j” Lots of angry mothers all over St. Louis .",
+            "user id": 2167474050,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench If his mother had raised him to respect cops and the law, he would not have assaulted the cop and would still be alive.",
+            "user id": 68806968,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench IT IS ON http://t.co/wJSNRNe0iz THE LATEST UPDATE 24 AND 7",
+            "user id": 518997667,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

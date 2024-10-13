@@ -1,0 +1,562 @@
+{
+    "source": {
+        "content": "#大连身边事#中国地震台网自动测定：03月27日22时06分在山东烟台市长岛县附近海域附近（北纬38.18度，东经120.73度）发生3.9级左右地震，最终结果以正式速报为准。所以，刚才很多大连的伙伴们都感觉到微微颤动。你感觉到了吗？  ",
+        "time": "17-3-27 22:25",
+        "user id": "6072890130",
+        "tweet id": "EBMjZuDAr",
+        "label": 0,
+        "theme": "灾难事故"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5245289341",
+            "user name": "Eildyan",
+            "content": "我以为是我舍友抖腿闹的 还凶了他一顿",
+            "time": "17-3-27 22:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "6072890130",
+            "user name": "这里是大连",
+            "content": "跪着！！！",
+            "time": "17-3-27 22:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "5096337068",
+            "user name": "望予卿",
+            "content": "住在顶楼的我都快哭了……",
+            "time": "17-3-27 22:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "6072890130",
+            "user name": "这里是大连",
+            "content": "一楼的没感觉",
+            "time": "17-3-27 22:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                7,
+                8,
+                10
+            ],
+            "user id": "1784380551",
+            "user name": "Tiana田田田",
+            "content": "大连哥，你是不是喜欢S.H.E",
+            "time": "17-3-27 22:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "3191750525",
+            "user name": "Fairyzcs",
+            "content": "情敌晚安",
+            "time": "17-3-27 22:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [],
+            "user id": "1784380551",
+            "user name": "Tiana田田田",
+            "content": "情敌你好我们都是甄的女朋友",
+            "time": "17-3-27 22:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "3191750525",
+            "user name": "Fairyzcs",
+            "content": "这里同三叶草加甄的小迷妹🙆🙆",
+            "time": "17-3-27 22:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [],
+            "user id": "6072890130",
+            "user name": "这里是大连",
+            "content": "这……",
+            "time": "17-3-27 22:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 10,
+            "children": [],
+            "user id": "1784380551",
+            "user name": "Tiana田田田",
+            "content": "经常在三只的微博下面发现你，博主真给三叶草长脸，棒。。。",
+            "time": "17-3-27 22:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "user id": "6072890130",
+            "user name": "这里是大连",
+            "content": "被你发现",
+            "time": "17-3-27 22:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12,
+                13
+            ],
+            "user id": "5139282526",
+            "user name": "Shiny浅唱",
+            "content": "现在什么情况？是不是平安无事了？",
+            "time": "17-3-28 00:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "6072890130",
+            "user name": "这里是大连",
+            "content": "没事的，就一下，而且我一点感觉没有…放心吧……晚安",
+            "time": "17-3-28 00:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "user id": "5139282526",
+            "user name": "Shiny浅唱",
+            "content": "能看到的大连的朋友帮忙回我一下，要不然今晚睡不了了就",
+            "time": "17-3-28 00:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "5468161375",
+            "user name": "怡酱是探长",
+            "content": "感觉到了 我妈还说我家猫彪 一点反应都没有",
+            "time": "17-3-27 22:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                16
+            ],
+            "user id": "2782096301",
+            "user name": "_Monstar90",
+            "content": "我家俩狗都睡的可嗨了",
+            "time": "17-3-27 22:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "5468161375",
+            "user name": "怡酱是探长",
+            "content": "😂😂",
+            "time": "17-3-27 22:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "2782096301",
+            "user name": "_Monstar90",
+            "content": "我还以为我家狗蹦床上了 但我分明关着门…",
+            "time": "17-3-27 22:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "5818775461",
+            "user name": "发圈找不到了",
+            "content": "没感觉……但是现在害怕了",
+            "time": "17-3-27 23:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "3566246440",
+            "user name": "嗍岂",
+            "content": "沙河口的感觉到了",
+            "time": "17-3-27 22:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5874648694",
+            "user name": "渡边大樱桃",
+            "content": "没感觉....",
+            "time": "17-3-27 22:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "5534191457",
+            "user name": "小毛驴打老虎",
+            "content": "刚床抖的我浑身一麻 赶紧搜微博看下地震台",
+            "time": "17-3-27 22:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "5833940930",
+            "user name": "LeyTe2691",
+            "content": "大连的兄弟姐妹们注意安全昂，上次厦门3.4级我特么直接穿着裤衩跑出来。",
+            "time": "17-3-27 22:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "2381717523",
+            "user name": "ida芸",
+            "content": "普兰店的感觉到了",
+            "time": "17-3-27 22:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "5119212618",
+            "user name": "只有我才是Yi只龐蟹",
+            "content": "七楼的但是我睡死了不知道",
+            "time": "17-3-28 06:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "1783851794",
+            "user name": "若是有一天相遇",
+            "content": "我我我我完全没感觉到啊",
+            "time": "17-3-27 23:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "3242979825",
+            "user name": "Hello田小助",
+            "content": "结束了吗？还会有吗？",
+            "time": "17-3-27 22:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "3874611410",
+            "user name": "竟然是一只羊ovo",
+            "content": "好吓人 我现在都不敢动了.",
+            "time": "17-3-27 22:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "1691909622",
+            "user name": "slynn5",
+            "content": "最近长岛附近震了好几次了 大家提高警惕",
+            "time": "17-3-27 22:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "2084739493",
+            "user name": "大连涛冰墩墩之大连",
+            "content": "开发区震感强烈",
+            "time": "17-3-27 22:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "3194531025",
+            "user name": "郭火火1013",
+            "content": "旅顺海边 有震感",
+            "time": "17-3-27 22:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "3094401355",
+            "user name": "Vicky悦儿儿",
+            "content": "真的感受到了",
+            "time": "17-3-27 22:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "1750907283",
+            "user name": "过往的神之葵",
+            "content": "开发区感受到了 四楼床晃了三四秒...",
+            "time": "17-3-27 22:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "5947457317",
+            "user name": "你冰很可以",
+            "content": "旅顺感觉到了",
+            "time": "17-3-27 22:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "5872734204",
+            "user name": "夏阿朵er",
+            "content": "我是不待在了一个假大连，为什么我没有感觉到",
+            "time": "17-3-27 22:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "3280958281",
+            "user name": "长腿璐er",
+            "content": "先是觉得床在晃，再抬眼一看，笔记本电脑在晃，我这个心突突的，第一次体会到地震，激动啊",
+            "time": "17-3-27 22:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "2495524063",
+            "user name": "二臭不臭Y-Y",
+            "content": "17楼的我好后怕，明显震感",
+            "time": "17-3-27 22:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "2143792705",
+            "user name": "July_琳晓",
+            "content": "明显感觉在晃",
+            "time": "17-3-27 22:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "5818692947",
+            "user name": "宁馨儿0626",
+            "content": "感觉到了…",
+            "time": "17-3-27 22:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "1800381711",
+            "user name": "阿国就是甜不咸",
+            "content": "刚刚感觉到了，哪吒在沙发上睡觉也都醒了",
+            "time": "17-3-27 22:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "5787216641",
+            "user name": "一束捧花的幸运",
+            "content": "没感觉呀，可能我遇到的是假地震",
+            "time": "17-3-27 23:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "1823567595",
+            "user name": "奥黛鹭鹭子",
+            "content": "朋友圈刷屏了已经",
+            "time": "17-3-27 22:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "3212230772",
+            "user name": "smarsmallow",
+            "content": "当时睡着觉，我还以为有谁摇我床，后知后觉反应地震，腿都软了",
+            "time": "17-3-27 22:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 31,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

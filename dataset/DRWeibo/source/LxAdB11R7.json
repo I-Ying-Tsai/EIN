@@ -1,0 +1,205 @@
+{
+    "source": {
+        "content": "#鹤壁一男子被警察暴力殴打致死##警察荣誉# \n麻烦大家帮忙增加一下热度\n原博主@念心思阳 ",
+        "time": "22-6-13 23:25",
+        "user id": "3241390605",
+        "tweet id": "LxAdB11R7",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "user id": "3241390605",
+            "user name": "缓缓飘落的枫叶像什么呢",
+            "content": "#唐山被打女子已转入普通病房#  昨晚还有词条被炸",
+            "time": "22-6-14 08:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "3241390605",
+            "user name": "缓缓飘落的枫叶像什么呢",
+            "content": "我看到了，私信她也没回",
+            "time": "22-6-15 08:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "5670465694",
+            "user name": "顺利小陈-",
+            "content": "原博主的微博都已经清空了",
+            "time": "22-6-15 01:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "6294302612",
+            "user name": "懒惰使人勤奋",
+            "content": "词条没了",
+            "time": "22-6-14 22:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "2402349473",
+            "user name": "艾美丽娅QQ",
+            "content": "看不到微博了，哈哈",
+            "time": "22-6-14 20:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "2433638435",
+            "user name": "阿瞳蘑薯",
+            "content": "她说的不是全部事实",
+            "time": "22-6-15 14:18",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [
+                5
+            ],
+            "user id": "3241390605",
+            "user name": "缓缓飘落的枫叶像什么呢",
+            "content": "啊，假的吗？实名举报都敢搞假的？还有说是同学的转发",
+            "time": "22-6-15 13:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [
+                6
+            ],
+            "user id": "2433638435",
+            "user name": "阿瞳蘑薯",
+            "content": "已经辟谣了",
+            "time": "22-6-15 12:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "user id": "3241390605",
+            "user name": "缓缓飘落的枫叶像什么呢",
+            "content": "我发私信她也没回",
+            "time": "22-6-14 22:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "1739412570",
+            "user name": "贺亮Kevin",
+            "content": "在中国见怪莫怪",
+            "time": "22-6-14 18:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "5700839107",
+            "user name": "热心的祖安法外狂徒",
+            "content": "确实见怪不怪你这种大聪明",
+            "time": "22-6-15 23:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "3795445995",
+            "user name": "手机用112236户",
+            "content": "辟谣了    歪曲事实 恶意举报",
+            "time": "22-6-15 14:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "5141169683",
+            "user name": "Mosaic大叔oz",
+            "content": "已经辟谣了，应该是自己心虚清空了，官方发了通报，写的清清楚楚的",
+            "time": "22-6-15 20:21",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

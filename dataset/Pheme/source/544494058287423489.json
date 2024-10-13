@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#illridewithyou trends globally amid fears of reprisal atacks over Sydney hostage standoff http://t.co/Up1pCWLqSo http://t.co/0XMGuycC8R",
+        "user id": 18424289,
+        "tweet id": "544494058287423489",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews in algeria too #illridewithyou ♥♥♥♥",
+            "user id": 2563809408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews I wish you where kidnapped at #LindtCafeSiege instead of a friend of mine.",
+            "user id": 2886894341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews we must appreciate @MoeedNj @RehamKhan1 @SidraIqbal #illridewithyou",
+            "user id": 375742021,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews Where r the reprisal attacks?",
+            "user id": 1111221290,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

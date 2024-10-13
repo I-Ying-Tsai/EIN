@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Ottawa shootings: check out the Breaking News Handbook from @onthemedia: http://t.co/CBUZXVQBLg http://t.co/RYj8Ktquu4",
+        "user id": 33407417,
+        "tweet id": "524953077456318464",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@jacksoncouse @onthemedia @Aiannuzzi \nche elenco carino. I giornalisti di quale paese controllano le notizie?",
+            "user id": 40962257,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@violet6femme @jacksoncouse @onthemedia infatti è per i lettori",
+            "user id": 98405198,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@jacksoncouse great rules! love these.",
+            "user id": 67918133,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@jacksoncouse @brianstelter @onthemedia This is awesome",
+            "user id": 111581424,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@jacksoncouse: Ottawa shootings: check out the Breaking News Handbook from @onthemedia: http://t.co/vWiuMtGlrq http://t.co/mUkUsJ5EtA” RT",
+            "user id": 63418422,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jacksoncouse @brianstelter @onthemedia \"[news outlet] has learned\" typically means they got a press release in their email.",
+            "user id": 464149407,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Thanks to @jacksoncouse for always keeping it professional. You are Canada's most trusted Jackson.",
+            "user id": 56770529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

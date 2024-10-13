@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "【高考第一天，一条裤子，它紧张了……】今早8点35分，郑州十九中考点，一名考生冲出考场，向场外家长寻求帮助。因为他的裤子上有金属拉链，无法通过考场检测器。考场外学生的父母，其他考生的家长迅速围了过来帮助考生，家长们想尽一切办法，指甲剪、剪刀、手撕......最终，考生在交警帮助下撕下拉链，迅速返回考场进行考试。（转自@郑说广播 ）郑说广播的秒拍视频",
+        "time": "18-6-7 15:37",
+        "user id": "1926641510",
+        "tweet id": "GkguZavm3",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "2876287483",
+            "user name": "老赖不懶",
+            "content": "这样的规定也是无语了，要是手脚受伤植入钢板之类的难道要先取出来再去考试吗？",
+            "time": "18-6-7 16:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "1919373872",
+            "user name": "阿卷爸爸",
+            "content": "机场过安检腰带或者衣服上的金属还会响呢，安检员检查一下就可以过了呢",
+            "time": "18-6-7 17:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "1766024055",
+            "user name": "兔-小-白",
+            "content": "脑子是个好东西",
+            "time": "18-6-7 17:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "1953548853",
+            "user name": "大温岭帝国",
+            "content": "规定是死的，人的思维、态度也僵死了，遇上患者有金属植入物怎么办？",
+            "time": "18-6-7 17:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "1228009957",
+            "user name": "武装宅狼",
+            "content": "规定没问题应该是甩锅了，检查的老师不愿意承担责任。",
+            "time": "18-6-7 17:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "2344648664",
+            "user name": "醒来的第一眼",
+            "content": "正解",
+            "time": "18-6-7 17:07",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "6057402821",
+            "user name": "夜里挑灯干饭",
+            "content": "他身上的衣服跟我当年的班服好像",
+            "time": "18-6-7 16:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5613299717",
+            "user name": "我们聊长大后的憧憬",
+            "content": "跟证明你妈是你妈一样",
+            "time": "18-6-7 16:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "3632995192",
+            "user name": "ZHouYiNiii",
+            "content": "高考要严格纪律无可厚非 但这是不是有点过了 你回家见到你妈要不要查下她身份证？",
+            "time": "18-6-7 16:07",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "2635040553",
+            "user name": "佈知佈知",
+            "content": "扯淡吧，那么多学生穿牛仔裤呢，咋整",
+            "time": "18-6-7 21:49",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "6562845347",
+            "user name": "蒙古王子忽必烈烈",
+            "content": "明知道是拉链，还不让通过，是不是把学生培养成傻子？",
+            "time": "18-6-7 15:55",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

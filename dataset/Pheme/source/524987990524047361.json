@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Ottawa police chief confirms that both gunman and soldier at war memorial are dead.",
+        "user id": 203123011,
+        "tweet id": "524987990524047361",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Ottawa police chief confirms that both gunman and soldier at war memorial are dead.” Sad news",
+            "user id": 633906111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Ottawa police chief confirms that both gunman and soldier at war memorial are dead.”not necessarily the same person ws the gunman",
+            "user id": 327103342,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Ottawa police chief confirms that both gunman and soldier at war memorial are dead.” gunman? You mean terrorist...",
+            "user id": 23142690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

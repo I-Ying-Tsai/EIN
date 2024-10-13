@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The Eiffel Tower went dark last night to remember the victims of #CharlieHebdo http://t.co/bRbNU7lcIH #JeSuisCharlie http://t.co/X41DzXqXqJ",
+        "user id": 342309995,
+        "tweet id": "553544336475168769",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CultureTrip #fuckyouterroristcowards",
+            "user id": 35597677,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CultureTrip you got the best tweets",
+            "user id": 2728366757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CultureTrip but look at the change of traffic",
+            "user id": 1482968353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

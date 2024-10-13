@@ -1,0 +1,744 @@
+{
+    "source": {
+        "content": "【为了生产阿胶，它们都在等死】阿胶就是水煮驴皮，主要成分是胶原蛋白，是一种劣质蛋白，却被谣传拥有各种神奇疗效。为了制造阿胶，每年有高达一千万只驴被宰杀。 秒拍视频  ",
+        "time": "18-2-20 12:47",
+        "user id": "3217459400",
+        "tweet id": "G3YEMwMjG",
+        "label": 0,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                8
+            ],
+            "user id": "1806653315",
+            "user name": "魏大福福",
+            "content": "照这群人这么说，啥也别吃了，猪肉、鸡肉都别吃了",
+            "time": "18-2-20 12:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "1904195703",
+            "user name": "本猪267",
+            "content": "阿胶，有驴皮还有驴骨，驴鞭",
+            "time": "18-2-21 10:49",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "2700455984",
+            "user name": "小周同学2012",
+            "content": "杀驴和杀猪，鸡，鸭是一样的，同等看待。",
+            "time": "18-2-20 18:09",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [
+                2
+            ],
+            "user id": "5540855477",
+            "user name": "短袖Survivor",
+            "content": "所以说跟杀驴没关系吧。",
+            "time": "18-2-20 18:08",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [
+                3
+            ],
+            "user id": "2700455984",
+            "user name": "小周同学2012",
+            "content": "说阿胶有各种功效，那是骗人。说阿胶能填饱肚子，那没关系。",
+            "time": "18-2-20 18:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [
+                4
+            ],
+            "user id": "5540855477",
+            "user name": "短袖Survivor",
+            "content": "您的意思是驴可以为了变成肉而死但是不能变成药品而死吗？",
+            "time": "18-2-20 18:05",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [
+                5
+            ],
+            "user id": "2700455984",
+            "user name": "小周同学2012",
+            "content": "当肉吃当然没问题。",
+            "time": "18-2-20 18:03",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [
+                6
+            ],
+            "user id": "5540855477",
+            "user name": "短袖Survivor",
+            "content": "就算没有阿胶，难道没有驴肉火烧？",
+            "time": "18-2-20 18:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "user id": "2700455984",
+            "user name": "小周同学2012",
+            "content": "阿胶是当保健品，甚至药品来卖的，如果当食品卖，那也没什么。",
+            "time": "18-2-20 17:29",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5414365810",
+            "user name": "肉要大块的",
+            "content": "只是驴而已，又不是什么珍惜动物，最烦这种挑事的微博，敲里妈！",
+            "time": "18-2-20 13:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "5614119251",
+            "user name": "和为贵E",
+            "content": "我看都去吃草吧",
+            "time": "18-2-20 12:52",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "3932672866",
+            "user name": "Lareina_zj",
+            "content": "不宰养他们干嘛，又不是野生保护动物？这个就不要悲天悯动物了，照这么说猪肉鸡肉鱼肉一切荤的通通不吃了，素的也不要吃了那也都是生命。笑死",
+            "time": "18-2-20 13:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "5015822850",
+            "user name": "我是青椒小姐",
+            "content": "唉，我们就是这样，不是吃动物的尸体就是吃植物的尸体",
+            "time": "18-2-20 13:58",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "1831197275",
+            "user name": "直径38的钢丝",
+            "content": "我看着眼前的炸鸡和排骨饭，不知道如何下嘴，是不是应该再点一份水煮鱼？",
+            "time": "18-2-20 13:09",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "6276653359",
+            "user name": "Phoebe-迪",
+            "content": "驴驴好可爱哇个人感觉阿胶太血腥了，补血补气养血可以通过食用其他食材比如桂圆红枣来代替嘛",
+            "time": "18-2-20 15:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 17,
+            "children": [],
+            "user id": "5540855477",
+            "user name": "短袖Survivor",
+            "content": "键盘那么可爱，不要敲打他好不好",
+            "time": "18-2-20 18:04",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 17,
+            "children": [],
+            "user id": "6276653359",
+            "user name": "Phoebe-迪",
+            "content": "你看见我吃了？",
+            "time": "18-2-20 17:37",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 14,
+            "children": [
+                15,
+                16
+            ],
+            "user id": "2112590135",
+            "user name": "淡蓝云心",
+            "content": "小鸡好可爱，你太残忍了，为何要吃它",
+            "time": "18-2-20 17:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "5126664359",
+            "user name": "z横平竖直555",
+            "content": "没有科学验证的都是伪科学",
+            "time": "18-2-20 17:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 20,
+            "children": [],
+            "user id": "5126664359",
+            "user name": "z横平竖直555",
+            "content": "你TMD没爹的死孩子！你是从你妈腚眼里拉出来的~嘴这么臭",
+            "time": "18-3-5 15:17",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 18,
+            "children": [
+                19
+            ],
+            "user id": "5931870815",
+            "user name": "金融力工",
+            "content": "您的意思没做过亲子鉴定～你的爹都是伪爹？",
+            "time": "18-2-21 12:32",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "5718431759",
+            "user name": "寻觅铁扇公主",
+            "content": "这视频是外国人拍给外国人看的 外国人看了会怎么想？妖魔化国人 然后他们会怎么国人？ 别觉得无所谓",
+            "time": "18-2-20 15:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "1836691310",
+            "user name": "MM妄想症",
+            "content": "吃牛肉的不说话",
+            "time": "18-2-20 14:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "1960915104",
+            "user name": "辛寨子娱乐之王",
+            "content": "嗯，为了满族人类的欲望，每年有数十亿上百亿的母鸡失去自己的孩子，几乎每天都过着与亲生孩子生离死别的痛苦生活。",
+            "time": "18-2-20 14:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "1101587393",
+            "user name": "1973勇敢的心",
+            "content": "为了吃麦当劳，每年有一千万头牛被宰杀！",
+            "time": "18-2-20 14:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "3570586843",
+            "user name": "有点厉害yj",
+            "content": "爱驴人士表示谴责",
+            "time": "18-2-20 13:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "2250078563",
+            "user name": "朵朵是个小胖胖",
+            "content": "难道猪就该死么",
+            "time": "18-2-20 13:47",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "5363957476",
+            "user name": "开会员换来的ID",
+            "content": "没毛病啊",
+            "time": "18-2-20 13:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "5014278738",
+            "user name": "泥Bar妹",
+            "content": "那河间怎么办？？说真的，驴肉火烧真的好吃",
+            "time": "18-2-21 18:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "1726377247",
+            "user name": "陆丰客",
+            "content": "为了吃猪肉，那些猪也在等死。你怎么不说？还有大把畜生都注定等死",
+            "time": "18-2-21 11:49",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "2426993185",
+            "user name": "来自猫系白羊星座的sharon",
+            "content": "你们这些人为什么要吃素，知道萝卜白菜有多可怜吗？它们为什么要忍受被咀嚼的痛苦",
+            "time": "18-2-20 16:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "1101369905",
+            "user name": "襄阳-豆腐面",
+            "content": "为了捞粉有的货成了爱谋人屎",
+            "time": "18-2-20 22:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "3178544303",
+            "user name": "Dr_sixdao",
+            "content": "原博的意思应该是阿胶的作用一直被夸大了",
+            "time": "18-2-20 16:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "3109312971",
+            "user name": "我真不是个托",
+            "content": "这些人有本事别吃牛肉、猪肉呀，神特么垃圾……",
+            "time": "18-2-20 13:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "3812051003",
+            "user name": "枯木生花桑",
+            "content": "杀几头驴也不行了？",
+            "time": "18-2-21 19:17",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "5947739778",
+            "user name": "正能量小星星_002",
+            "content": "阿胶不是虚假宣传，就是补血佳品",
+            "time": "18-2-21 18:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "5111001405",
+            "user name": "虎豹传奇007",
+            "content": "扩散",
+            "time": "18-2-21 17:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "1362537582",
+            "user name": "亲爱的小白君",
+            "content": "家禽吧……可是，我不爱吃素啊",
+            "time": "18-2-21 16:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "3135823074",
+            "user name": "希望你幸福多多",
+            "content": "听这里的黑毛子朋友说，在吉尔吉斯斯坦，山坡上很多野驴，也没人逮来吃，告诉他们说，天上龙肉地下驴肉，他们还不信。呵呵！中国人真的是会吃的民族。至于阿胶我就不懂了。或许养驴的人杜撰的特殊功效吧~",
+            "time": "18-2-21 15:34",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "1892940085",
+            "user name": "小牛爱佳佳",
+            "content": "主要是好奇阿胶到底有木有用",
+            "time": "18-2-21 13:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "5931870815",
+            "user name": "金融力工",
+            "content": "没有阿胶 它们连生命都不会有～",
+            "time": "18-2-21 12:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "2843874190",
+            "user name": "年年6888",
+            "content": "爱驴协会对此表示强烈谴责",
+            "time": "18-2-21 09:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "2528143024",
+            "user name": "奶油小仙女just",
+            "content": "爱驴人事？",
+            "time": "18-2-21 07:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "user id": "2123798477",
+            "user name": "小明哥哥GZ",
+            "content": "不杀了你来养它们吗？",
+            "time": "18-2-21 06:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "user id": "1101369905",
+            "user name": "襄阳-豆腐面",
+            "content": "看了这视频想起了老外是用它来玩兽教的",
+            "time": "18-2-20 22:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [],
+            "user id": "2527573504",
+            "user name": "夏目小宇宙",
+            "content": "@想去月球吗跟我走吧 驴子也挺可爱",
+            "time": "18-2-20 22:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "user id": "1852606774",
+            "user name": "男儿当自強__aa",
+            "content": "阿胶一开始不是用驴皮吧，是牛皮的",
+            "time": "18-2-20 21:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [],
+            "user id": "2112590135",
+            "user name": "淡蓝云心",
+            "content": "宠物驴?哪些人的脑袋被驴踢了。",
+            "time": "18-2-20 17:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "user id": "2144032617",
+            "user name": "M-Junny",
+            "content": "鸡鸭鱼肉表示不服",
+            "time": "18-2-20 17:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "user id": "1400182773",
+            "user name": "Chaserce08",
+            "content": "养驴不就是为了它那身皮跟肉么，谁会养那么多驴当劳力用",
+            "time": "18-2-20 16:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "user id": "2844382517",
+            "user name": "多啦Xue梦",
+            "content": "国家宝藏上面有一幅名画，现在颜料的继承人就说了，上好的驴皮全都用来做画画的颜料了，剩下的才会去用来做阿胶",
+            "time": "18-2-20 15:42",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [],
+            "user id": "1687302122",
+            "user name": "甜面酱不够咸",
+            "content": "果然，还英文，这是有境外资本参与故意黑呢吧",
+            "time": "18-2-20 15:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [],
+            "user id": "1927252580",
+            "user name": "戒不掉奶茶的S",
+            "content": "那为了吃牛排吃猪排每年有多少亿猪牛被杀呀？",
+            "time": "18-2-20 13:48",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [],
+            "user id": "6468489689",
+            "user name": "中医伪科学6468489689",
+            "content": "别告诉这群傻子呀，收点智商税不好么？",
+            "time": "18-2-20 13:55",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 54,
+            "parent": -1,
+            "children": [],
+            "user id": "5829015013",
+            "user name": "水空气生命",
+            "content": "转发微博",
+            "time": "18-2-20 13:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [],
+            "user id": "1958133297",
+            "user name": "轻舞已去",
+            "content": "一头驴后面就是一个家庭的生活费",
+            "time": "18-2-20 12:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 12,
+            "state_1": 30
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

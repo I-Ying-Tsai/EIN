@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "***EXCLUSIVE*** Michael Zahaf-Bibeau caught on a #DASHCAM model sold at http://t.co/62s1bT3ecH #OttawaShooting http://t.co/LpnqAKsHZw",
+        "user id": 17820367,
+        "tweet id": "525068915068923904",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AdamGuerbuez lone Wolf",
+            "user id": 226964820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@AdamGuerbuez followed you because of this",
+            "user id": 2728348305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@DebeeRapp Thx!",
+            "user id": 17820367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "source": {
+        "content": "昨晚不是四川地震吗，一起肝火影游戏的一个朋友好像就在那附近，然后我们就召唤他问一问，他说他在伊犁结果伊犁地震了，现在已经找不到他了，希望黎明能好好的到时候大家都给他捐四代碎片 ",
+        "time": "17-8-9 11:56",
+        "user id": "5262475287",
+        "tweet id": "Fghrzl1nN",
+        "label": 0,
+        "theme": "灾难事故"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5495638992",
+            "user name": "十一月风萧萧",
+            "content": "祝平安…………………………另外这运气建议去买彩票",
+            "time": "17-8-9 15:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5262475287",
+            "user name": "王义馨",
+            "content": "好的233",
+            "time": "17-8-9 17:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "1724323611",
+            "user name": "日向雏田老公",
+            "content": "追，追着？",
+            "time": "17-8-9 16:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "5262475287",
+            "user name": "王义馨",
+            "content": "对的",
+            "time": "17-8-9 17:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "5533858257",
+            "user name": "高知野人",
+            "content": "伊犁没事，只是晃，都活的呢昂",
+            "time": "17-8-9 18:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "5262475287",
+            "user name": "王义馨",
+            "content": "嗯嗯，他后来也上线报平安了",
+            "time": "17-8-9 19:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "5533858257",
+            "user name": "高知野人",
+            "content": "平安就好",
+            "time": "17-8-9 23:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "6126405182",
+            "user name": "Halmre-sn",
+            "content": "还无人伤亡",
+            "time": "17-8-9 18:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "5262475287",
+            "user name": "王义馨",
+            "content": "嗯嗯是的，他后来也上来报平安了",
+            "time": "17-8-9 19:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "6126405182",
+            "user name": "Halmre-sn",
+            "content": "人活着是活着 但被吓傻了",
+            "time": "17-8-9 20:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "3177334191",
+            "user name": "邩儿",
+            "content": "噗，什么情况",
+            "time": "17-8-9 19:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "5262475287",
+            "user name": "王义馨",
+            "content": "追着他走",
+            "time": "17-8-9 19:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "1724323611",
+            "user name": "日向雏田老公",
+            "content": "祈福",
+            "time": "17-8-9 18:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

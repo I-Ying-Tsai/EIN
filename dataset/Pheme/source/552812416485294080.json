@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Pray for the victims. Deadly terrorist attack on French magazine Charlie Hebdo in Paris #FreePress http://t.co/HCEG92Zxtz",
+        "user id": 383685824,
+        "tweet id": "552812416485294080",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit @nickyromero look",
+            "user id": 296671526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit just because they published, 9 year ago, a satirical drawing of Mahomet,... One of the terrorist said \"The prophet was avenged\"...",
+            "user id": 372356265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @Parazhit: Pray for the victims. Deadly terrorist attack on French magazine Charlie Hebdo in Paris #FreePress http://t.co/TrYGr2Sm1O",
+            "user id": 50791051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit Praying for Paris and France you are our brothers and sisters #EDM better days will come thanks to God and music!",
+            "user id": 286208037,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit @HardRavers merci 🙏🇫🇷✏️",
+            "user id": 364434875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

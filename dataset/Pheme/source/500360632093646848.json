@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "After 10+ minutes, Chief Jackson abruptly ends press conference while questions still being yelled at him. #MikeBrown #Ferguson",
+        "user id": 16145763,
+        "tweet id": "500360632093646848",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes I would too if just committed perjury, falsification of documents, homicide and slander all on the record. #JusticeForMikeBrown",
+            "user id": 225970038,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes Still won't answer key questions.  Guess they still need more time to CONCOCT an excuse for killing an un-armed man.",
+            "user id": 125000580,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes It was a bit hasty.  That presser did NOT go well. #ferguson",
+            "user id": 196162820,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes how do you do a 10 minute press conference after an officer killed an unarmed kid",
+            "user id": 43159856,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes he needs to dust of that resume cause clearly he will be looking for another job.",
+            "user id": 1257847405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes T.J. would you answer a question if I were yelling it at you? You won't answer. Typical journalist, stir up the pot. Then go.",
+            "user id": 552551826,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@tjholmes Well b/c I saw 2 officers behind him telling him to do so, wonder why? Go back to the last 3mins of the press conf. &amp; you'll see",
+            "user id": 57721915,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        }
+    }
+}

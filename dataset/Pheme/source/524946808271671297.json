@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Shooting up public places than claiming insanity, stealing other people's land, mass genocides RT @PoeticGenius19: What's white culture?",
+        "user id": 887163673,
+        "tweet id": "524946808271671297",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FreeLaddin @PoeticGenius19 🔁⬆️",
+            "user id": 1104241916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FreeLaddin u little racist",
+            "user id": 348045161,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FreeLaddin @BasedChasen Car bombings, killing innocent woman and children, ISIS, ramming planes into buildings, what is Muslim culture",
+            "user id": 347614368,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

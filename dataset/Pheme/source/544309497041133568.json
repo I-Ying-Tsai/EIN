@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "My fellow Australians. Let's stand together against the #sydneysiege as well as the hatred against innocent Muslim #Australians.",
+        "user id": 54489465,
+        "tweet id": "544309497041133568",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@alfroz @ABCReligion indeed. Lets pray united against fear",
+            "user id": 2616938000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@alfroz Stop perpetuating hateful gibberish in the first place.",
+            "user id": 255118008,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "👍 “@alfroz: My fellow Australians.Let's stand together against the #sydneysiege as well as the hatred against innocent Muslim #Australians.”",
+            "user id": 1536797588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@alfroz @mackaysuzie completely agree.  Let this be the tipping point where we start to talk and work together to end ignorance in AUS.",
+            "user id": 2243999444,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@RunawayBudgie @alfroz @mackaysuzie I had argument with \"Christian\" tweet that multiculturalism is the problem. No, idiot bigots are #siege",
+            "user id": 22607317,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@alfroz who is the Brother ,afroz?",
+            "user id": 359015191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@alfroz Never heard of that beast, innocent Muslim.",
+            "user id": 249895981,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@roamingaussie nonsense. Terrorists aren't Muslims. They're just crazy obsessed demons. @alfroz",
+            "user id": 45587911,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@roamingaussie\nWhat an imbecile joker? You idiot must be telling your buddies all over Australia how courageous you were in a tweet, right?",
+            "user id": 25211509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@alfroz agreed, but what about the hatred of innocent non-muslim Australians?",
+            "user id": 27852173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@alfroz the only good Muslim is a dead muslim",
+            "user id": 142021771,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@karionter No wonder there is so much killing. Grow up, and smell life.",
+            "user id": 54489465,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@alfroz Muslim first take out ur head from white mans ass, all ur Islamic wisdom use it in the Middle East and then c what happens to you",
+            "user id": 142021771,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

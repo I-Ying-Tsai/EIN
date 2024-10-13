@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "Photos from #Ferguson and 1960s protests side by side show not much has changed in the past 50 years http://t.co/ELVgaAwURj",
+        "user id": 14511951,
+        "tweet id": "500347484154372097",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost THE ONLY THING THAT HAS CHANGED IS SOCIAL MEDIA...SOCIAL MEDIA HAS KEPT THE PEACE...SOCIAL MEDIA IS NOW DAS UBERMAN.",
+            "user id": 1025593699,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@HuffingtonPost IM NOT A MARXIST BUT HE IS RIGHT...HI 21ST C. THE POWER IS NOW TRULY W/ THE PEOPLE.",
+            "user id": 1025593699,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "Hail Freedonia RT @curtis_colons: @HuffingtonPost IM NOT A MARXIST BUT HE IS RIGHT...HI 21ST C. THE POWER IS NOW TRULY W/ THE PEOPLE.",
+            "user id": 68956490,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost @catematthews Yes it was. News outlets weren't throwing whitey under the bus to sell stories. Much has changed. When willu",
+            "user id": 2305363039,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost Umm... We have a black man in the White House and many in position of power. The gap is closer than it ever was so...",
+            "user id": 177945000,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost It is being 'conserved'. http://t.co/0ICS60gpnq",
+            "user id": 17270046,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@HuffingtonPost #PBLchat  How will we incorporate current protests into our American History projects?",
+            "user id": 521827299,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@bayareaPBL good pt...seems like the news is rich for discussions in classrooms across us- hopefully stds can be honest #socraticseminars",
+            "user id": 29136196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost @catematthews pisses yah off History always Repeats Why surprised",
+            "user id": 315133994,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "Wow @HuffingtonPost reduces 60's civil rights struggle to mindless looting and wanton destruction. #Smh Or maybe context matters.",
+            "user id": 517295675,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost yeah, the only thing that's changed is that we have a black President, and black millionaires and billionaires. Boo-hoo, FU!",
+            "user id": 33625021,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

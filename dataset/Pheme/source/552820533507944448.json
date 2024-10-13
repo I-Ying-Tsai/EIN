@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "Irony is that this week's cover of Charlie Hebdo is an attack against Islamophobe writer Houellebecq http://t.co/9NjY5B8QWo",
+        "user id": 352036858,
+        "tweet id": "552820533507944448",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "MT @haikus_by_KN: Irony: this week's cover of Hebdo is attack against Islamophobe writer Houellebecq http://t.co/os4I7w1fUL #jesuischarlie",
+            "user id": 16142759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @haikus_by_KN Irony is that this week's cover of Charlie Hebdo is an attack against Islamophobe writer Houellebecq http://t.co/g4rnwl3ur3",
+            "user id": 30627476,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @haikus_by_KN Irony is that this week's cover of Charlie Hebdo is an attack against Islamophobe writer Houellebecq http://t.co/fC97kOPGFl",
+            "user id": 150881077,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@haikus_by_KN I get the headline and lost teeth part.\n\nWhat's the second speech bubble saying about Ramadan?",
+            "user id": 2765738045,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@ZombieNeith @haikus_by_KN \"in 2022 i will made the Ramadan\"",
+            "user id": 1463022085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@haikus_by_KN @obotheclown Houellebecq is not an islamophobe. Anyway, todays massacre is certainly no cure against islamophobia.",
+            "user id": 425253202,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@monidozen @haikus_by_KN @obotheclown a writer who writes hysterically about his country being taken over by sharia law is an islamophobe",
+            "user id": 47694347,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@Voxturbula @haikus_by_KN Huh?",
+            "user id": 2765738045,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

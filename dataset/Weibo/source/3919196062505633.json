@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "#居住证暂行条例#【[话筒]扩散！满足这些条件可申领居住证】公民离开常住户口所在地，到其他城市居住半年以上，符合有合法稳定就业、合法稳定住所、连续就读条件之一的，可依照本条例规定申领居住证。居住证持有人符合当地落户条件的，可将常住户口迁入居住地。",
+        "user id": 2656274875,
+        "tweet id": "3919196062505633",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#青国青城# 公民离开常住户口所在地，到其他城市居住半年以上，符合有合法稳定就业、合法稳定住所、连续就读条件之一的，可依照本条例规定申领居住证。居住证持有人符合当地落户条件的，可将常住户口迁入居住地。",
+            "user id": 3234016240,
+            "user name": "湖南师大新传院青年传媒",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "",
+            "user id": 2355220324,
+            "user name": "陕西心君",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "",
+            "user id": 5516930885,
+            "user name": "溧阳检察",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "[围观][围观]",
+            "user id": 3564588873,
+            "user name": "声声入耳761",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "我不想落户，需要居住证！",
+            "user id": 1370489315,
+            "user name": "黔品优选郎",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "我都符合 可是办不到证明 白搭[泪][泪][泪] //【[话筒]扩散！满足这些条件可申领居住证】公民离开常住户口所在地，到其他城市居住半年以上，符合有合法稳定就业、合法稳定住所、连续就读条件之一的，可依照本条例规定申领居住证。居住证持有人符合当地落户条件的，可将常住户口迁入居住地。",
+            "user id": 3906528826,
+            "user name": "我名里有梦",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "有点复杂貌似懂希望实施到",
+            "user id": 5335166928,
+            "user name": "华滕服饰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

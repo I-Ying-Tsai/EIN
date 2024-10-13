@@ -1,0 +1,173 @@
+{
+    "source": {
+        "content": "Please, no partisan commentary about what’s happening in Ottawa. Leave the damned politics for another day.",
+        "user id": 132231788,
+        "tweet id": "524934507892580352",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "THIS.\n\nRT @dgardner: Please, no partisan commentary about what’s happening in Ottawa. Leave the damned politics for another day.",
+            "user id": 1101921,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                12
+            ],
+            "content": "@mhp Consider all commentary about the Canadian Firearms Registry saved for another day…",
+            "user id": 7934512,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@dgardner its not partisan to note harper has proven himself incompetent at stopping terrorism this week. That's just a fact",
+            "user id": 490742060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@nialheadley @dgardner #ShutTheHellUp for now on!",
+            "user id": 78898625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@dgardner: Please, no partisan commentary about what’s happening in Ottawa. Leave the damned politics for another day.” So true.",
+            "user id": 29248674,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@dgardner @WScott_Steele AMEN sir!",
+            "user id": 222168247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@dgardner: Please, no partisan commentary about what’s happening in Ottawa. Leave the damned politics for another day.”",
+            "user id": 2451366727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@dgardner @BuckNubian Why? You know the FascistCONS are gonna milk this for all they can.",
+            "user id": 497114732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@dgardner @melouisemayer You're so very right!!!!!!!",
+            "user id": 78898625,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": ".@dgardner Harper suddenly appoint you God for a day before he ducked out? #cdnpoli #LetTheChipsFall",
+            "user id": 913223120,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "Godammit, man. Have you no SHRED of human decency? MT @dgardner Please, no partisan commentary. Leave the damned politics for another day.",
+            "user id": 50345822,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@dgardner How do you think we got here?",
+            "user id": 474150173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [],
+            "content": "@eportelance i was about to the the same before @dgardner's reality check",
+            "user id": 1101921,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

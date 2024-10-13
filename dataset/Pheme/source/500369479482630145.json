@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "VIDEO Police release surveillance tape from #Ferguson store related to #MichaelBrown: http://t.co/hEIdfPTX60 http://t.co/CIM7L6TJND",
+        "user id": 19380829,
+        "tweet id": "500369479482630145",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo http://t.co/g8Jf3sDOpk #Ferguson #MikeBrown #DarrenWilson",
+            "user id": 2252647615,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo the police admittwd that it was NOT related, why are u continuing to spread this false information?",
+            "user id": 66055162,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "- @Yahoo @larrimfjonez Tell me, how? RT RT RT RT RT RT RT RT http://t.co/y3iQskNkpG",
+            "user id": 2672127209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo @YahooNews thug",
+            "user id": 194293661,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo @YahooNews something doesn't smell right -",
+            "user id": 23022746,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "\"@Yahoo Police release surveillance tape from #Ferguson store related to #MichaelBrown: http://t.co/SlcbhzdRye\" Mike &amp;Trayvon-such nice boys",
+            "user id": 59688550,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo @billpostmus Mike Brown was a thug. I tend to believe the cops on this one!",
+            "user id": 589273014,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo Gee, look at that sweet innocent unarmed teenager on the left.  @billpostmus",
+            "user id": 30117451,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "RT @Yahoo @billpostmus VIDEO Police release surveillance tape from #Ferguson store related to #MichaelBrown: http://t.co/ViAgc0C9RA",
+            "user id": 18121293,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo where's the video of what looks like a war zone, from the police trying to prevent the ppl of Ferguson from peacefully protesting?",
+            "user id": 24135393,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo This guy is obviously a gentle kid. Where is Michelle and her anti bullying campaign.\n?",
+            "user id": 1955360286,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo @billpostmus This man couldn't have possibly assaulted a police officer this a side show nothing more than a smear",
+            "user id": 261354197,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "@Yahoo @billpostmus What collage takes criminals? #Ferguson",
+            "user id": 167072281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@FedUp117 @Yahoo @billpostmus The ones that need to fill diversity quotas.",
+            "user id": 333855429,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@Yahoo @inkberrycream But is that him",
+            "user id": 2510592547,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 10
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

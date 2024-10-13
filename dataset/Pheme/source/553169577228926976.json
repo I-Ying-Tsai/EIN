@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "#CharlieHebdo  the magazine will be published next Wednesday as usual says magazine lawyer. Print run: 1 million copies.",
+        "user id": 239964092,
+        "tweet id": "553169577228926976",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@kimwillsher1 whose the lawyer, just out of curiosity?",
+            "user id": 438404801,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@kimwillsher1 @mediaguardian cause suspending operations would be an act of cowardice?",
+            "user id": 1093097359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@kimwillsher1 @vFreeBirdv where can you get copies in the Uk. Will buy it to show my solidarity with the purveyours of free speech",
+            "user id": 60848534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@stewy1959 @kimwillsher1 @vFreeBirdv agree - I want to buy one too.",
+            "user id": 210747536,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Will you buy it? MT @kimwillsher1 #CharlieHebdo will be published Wednesday as usual says magazine lawyer. Print run: 1 million copies.",
+            "user id": 15936802,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@kimwillsher1 If you are for free speech then this #tshirt is for you support #JeSuisCharlie #CharlieHebdo buy it now http://t.co/V9t44LjjFG",
+            "user id": 1963598808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@kimwillsher1 If you are for free speech then this #tshirt is for you support #JeSuisCharlie #CharlieHebdo buy it now http://t.co/vVlyBWGhKl",
+            "user id": 1963662985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

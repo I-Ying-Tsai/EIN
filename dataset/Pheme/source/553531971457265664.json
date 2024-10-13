@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "Gunman in third shootout reportedly same man who killed police officer in this attack on Thurs http://t.co/BbPuxPz8Fk http://t.co/0ZviEoZLtN",
+        "user id": 7587032,
+        "tweet id": "553531971457265664",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Thats obvious.....",
+            "user id": 70133596,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SkyNews will the PM now announce that the UK have totally locked down our borders to prevent armed terrorists from entering?",
+            "user id": 52413014,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Adystfc @SkyNews won't hold my breath hasn't got the guts",
+            "user id": 481926126,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@SkyNews just too awful.",
+            "user id": 2496076532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@LisaHyamsPrice @SkyNews won't be long till there's war",
+            "user id": 42829207,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Custom message 2",
+            "user id": 391609366,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews really henius nature",
+            "user id": 1437948078,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @SkyNewsAust this could be a divergence, while other terrorist are roaming Paris and killing people #ParisAttack",
+            "user id": 25958881,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews dont panic everyone,  im sure they dont kill civilians",
+            "user id": 2939872661,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews so awful :( x",
+            "user id": 1464687919,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews so sad",
+            "user id": 1420534482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews imagine if this fugitive is allowed to put on a hijab, Police could search for her for years!.",
+            "user id": 2404671441,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

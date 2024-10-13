@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "If (like me) you teased #KirbyDelauter, step up your free-speech game and print a #CharlieHebdo image unblurred. http://t.co/t2dbSOZpyn",
+        "user id": 16164636,
+        "tweet id": "552823949311369216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson @MediaLawProf looks Simpsonsesque",
+            "user id": 424284015,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson @ConLawWarrior Islam rules by terror inside its own countries; don't expect better outside. Islam is not a religion of peace",
+            "user id": 587935398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson",
+            "user id": 18733823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

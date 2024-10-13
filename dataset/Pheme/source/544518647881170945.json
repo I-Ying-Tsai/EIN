@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: REPORTS OF 2 KILLED IN SYDNEY SIEGE. 7 NEWS",
+        "user id": 292777349,
+        "tweet id": "544518647881170945",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "NO NO NO @PzFeed @IMYSNI",
+            "user id": 2923558568,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed including the hostage taker?",
+            "user id": 1656968611,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@PzFeed: BREAKING NEWS: REPORTS OF 2 KILLED IN SYDNEY SIEGE. 7 NEWS” shit.... Omg no",
+            "user id": 1668400686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

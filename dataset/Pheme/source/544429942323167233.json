@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "friendly reminder. #sydneysiege http://t.co/auO7vbaPgu",
+        "user id": 99238190,
+        "tweet id": "544429942323167233",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo A very good point and one we should keep in mind. Nevertheless, responsibility lies partly with imams to stamp out extremism.",
+            "user id": 1445836207,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo good point mate did u notice some of the hostages are of Asian decent Obviously he doesn't discriminate who he takes hostage",
+            "user id": 59321806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo its the case of a few rotten tomatoes",
+            "user id": 250509573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo reminder... http://t.co/27Cwtik3F5",
+            "user id": 20496966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@billgatesvevo How many Muslims want Sharia law?",
+            "user id": 2716830230,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                13
+            ],
+            "content": "@bluebearsoup @billgatesvevo I think it was 70 or 80 in one poll I saw.",
+            "user id": 472513258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@bluebearsoup @billgatesvevo %",
+            "user id": 472513258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo @singingbaker Those sympathetic to Al-Qaeda, Taliban, ISIS and Boko Haram 1+ billion",
+            "user id": 472513258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo how many support sharia? http://t.co/rdspyHr4EI",
+            "user id": 2891662632,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo Friendlier reminder. http://t.co/1i0JAMJ9Xw",
+            "user id": 578603688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo reminder: 97% of the world's Terrorism is committed by members of and in the name of: The Religion That Shall Not Be Named.",
+            "user id": 44099200,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@billgatesvevo: friendly reminder. #sydneysiege http://t.co/Bp9jZ2zddV”",
+            "user id": 125323374,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@billgatesvevo I was under the impression terrorist groups don't follow any religion",
+            "user id": 312411829,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 5,
+            "children": [
+                14
+            ],
+            "content": "@chrishagentb @billgatesvevo So the majority of Muslims want the same thing as the terrorists.",
+            "user id": 2716830230,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@bluebearsoup @billgatesvevo Yes.",
+            "user id": 472513258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

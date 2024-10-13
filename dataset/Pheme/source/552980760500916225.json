@@ -1,0 +1,78 @@
+{
+    "source": {
+        "content": "#Iran'ian regime has been initiated   nourished the idea of killing fatwa starting with Salman Rushdie #JeSuisCharlie http://t.co/QDkHLTqkHK",
+        "user id": 49491544,
+        "tweet id": "552980760500916225",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@peymaneh123 Thank you for painting such a vivid picture. I took the \"Liberty\" to use it as an example 2. (LIKE KHAMENEI IS DOING TO US)",
+            "user id": 2915138085,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@peymaneh123 Did you know that during the IRAN - IRAK war ('80's) they would use the (male) peers of this child &amp; send them to war with a🔑",
+            "user id": 2915138085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@peymaneh123 ..as in the key of the gates of heaven cause they would send these little 7 years old boys as line breakers of regular soldiers",
+            "user id": 2915138085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@peymaneh123 And Mr. Obama is giving the same AHOLES (KHAMENEI lived then 2) A GET OF JAIL FREE CARD! No more. Je suis @Maryam_Rajavi",
+            "user id": 2915138085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@peymaneh123 (so these kids would step on the land mines and the soldiers could go and kill more people)",
+            "user id": 2915138085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

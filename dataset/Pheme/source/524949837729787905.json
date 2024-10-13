@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING: Ottawa police confirm to CTV news there were at least three separate shootings",
+        "user id": 22192440,
+        "tweet id": "524949837729787905",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @stephaniesmyth: #BREAKING: Ottawa police confirm to CTV news there were at least three separate shootings",
+            "user id": 21923301,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@stephaniesmyth wait...is that including the shooting of the perpetrator?",
+            "user id": 1014210612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @stephaniesmyth: #BREAKING: Ottawa police confirm to CTV news there were at least three separate shootings #cdnpoli #ottawa",
+            "user id": 147202533,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

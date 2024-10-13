@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "There can be no justification whatsoever for such taking of life #CharlieHebdo (2/2)",
+        "user id": 226344539,
+        "tweet id": "552833941930274816",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@elondonmosque @MoAnsar Sorry our society expects Muslims to denounce these attacks - as if they might have thought otherwise. Appreciated",
+            "user id": 2827486582,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@timwillnow @elondonmosque @MoAnsar idiotic old fucker!",
+            "user id": 2497163115,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@elondonmosque @EmlynHywel Keep shouting that please?",
+            "user id": 2785680441,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@elondonmosque So you approve of their mocking of the prophet صلى الله عليه و سلم?  This is kufr akbar!",
+            "user id": 2938390683,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@elondonmosque @mschief1 thank you for saying this",
+            "user id": 2515826101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@MrsHadenuff @elondonmosque &lt;&lt;Thank you. Praying for calm &amp; no reprisals. Peace x",
+            "user id": 182064555,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@elondonmosque @DougGay thank you. Peace to you.",
+            "user id": 421312147,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@elondonmosque: There can be no justification whatsoever for such taking of life #CharlieHebdo (2/2)”",
+            "user id": 79152473,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@elondonmosque how much reputation do u want from kufur",
+            "user id": 1294427227,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

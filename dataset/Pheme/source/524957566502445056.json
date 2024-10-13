@@ -1,0 +1,104 @@
+{
+    "source": {
+        "content": "Reports of a shooting at Rideau Centre have misstated the shooting location.",
+        "user id": 1900801694,
+        "tweet id": "524957566502445056",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "NO shooting @RideauCentre. #ottawa",
+            "user id": 193745675,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RideauCentre they are saying it was outside the mall? Is this not accurate?",
+            "user id": 61121892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RideauCentre You should let @OttawaPolice make the statements. #crisiscomms",
+            "user id": 83889962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@RideauCentre: Reports of a shooting at Rideau Centre have misstated the shooting location.”",
+            "user id": 272398543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RideauCentre so....",
+            "user id": 30551883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@RideauCentre: Reports of a shooting at Rideau Centre have misstated the shooting location.”",
+            "user id": 55094012,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RideauCentre @CBCTheNational guys i know this is a tragedy but please keep shopping at our mall please",
+            "user id": 19866144,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@RideauCentre: Reports of a shooting at Rideau Centre have misstated the shooting location.” Scary stuff",
+            "user id": 170508483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        }
+    }
+}

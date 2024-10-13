@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Thousands tweet declaring their solidarity with Muslims... #IllRideWithYou #sydneysiege http://t.co/Lq0VjkWreY http://t.co/DRsCNjqt4y",
+        "user id": 16973333,
+        "tweet id": "544479045149130753",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Robertclose @Independent Bots will conquest all the world.",
+            "user id": 2856401319,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent #iwontridewithyou",
+            "user id": 2827604185,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent \n#FreePalestine\nIsrael is GUILTY of crimes against Humanity\nhttp://t.co/BrcJmy42JR",
+            "user id": 2370908751,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent #IllRideWithYou Terrorism got Boost from Sympathizers &amp; Secularism",
+            "user id": 376679692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Credit where it's due, they've managed to portray themselves as victims of the Sydney siege in record time.....",
+            "user id": 1445859979,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent You know what I say to all you muzzies?. #@^&amp;&amp;*#@#!!!$%$#@$%$#@@##!!!@%$^&amp;% And, #2!@##@#$%$&amp;^%^$#@!!!!!",
+            "user id": 2734291692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Still no protests against violent jihad though....",
+            "user id": 1475561804,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@Independent Beautiful gesture from a loving soul. God bless Rachel Jacobs",
+            "user id": 27221221,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@Independent # I'll ride with you. Very beautiful",
+            "user id": 27221221,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent I'm sure the hostages feel the same way. Oh, who cares about them its muslims 'feelings' that counts. #sick",
+            "user id": 68919090,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

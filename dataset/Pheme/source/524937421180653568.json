@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "List of reporters, MPs, police etc. actively tweeting about the shooting in Ottawa. https://t.co/hsTaxan4eQ",
+        "user id": 156123647,
+        "tweet id": "524937421180653568",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@sladurantaye: List of reporters, MPs, police etc. actively tweeting about the shooting in Ottawa. https://t.co/cTJrBeQYVP”",
+            "user id": 332063391,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@sladurantaye You're missing @davidreevely",
+            "user id": 33087222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": "@bengelinas tnx",
+            "user id": 156123647,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye tremendous. Thanks Steve.",
+            "user id": 347930138,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@sladurantaye &lt;3",
+            "user id": 33087222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

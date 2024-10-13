@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Ottawa police now confirm one suspect has been killed. 2 suspects remain at large.",
+        "user id": 292777349,
+        "tweet id": "524982531075371008",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed kill them all plz.",
+            "user id": 1721635405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @5_ahmeti wud gladly exchange soldiers life 4 corrupt politicians life. always the good &amp; young who pass, not the old &amp; corrupt. smh",
+            "user id": 42577934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

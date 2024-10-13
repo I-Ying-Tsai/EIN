@@ -1,0 +1,141 @@
+{
+    "source": {
+        "content": "I'd be more inclined to take the #Ferguson PD account seriously if they hadn't been so careful to confiscate all video evidence beforehand.",
+        "user id": 40146181,
+        "tweet id": "498498431271190528",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@iboudreau are there apps that upload as you're filming so that confiscating the camera doesn't matter? I'd like to install an app like that",
+            "user id": 17982990,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@apfEID That's a good question. I think it's possible to stream video online and save VOD on the site.",
+            "user id": 40146181,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@iboudreau @JanvierNoir if you have an iPhone you can have your pictures and video load to the cloud.",
+            "user id": 79318657,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@iboudreau at this point, we need a federal law that says any uniformed cop who tries to stop civilians filming them is summarily fired.",
+            "user id": 232187807,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@iboudreau incidentally, this is the one upside if google glass ever becomes indistinguishable from regular glasses.",
+            "user id": 232187807,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@iboudreau this is why I am not opposed to wearable recording tech, ie: GGlass because of the equalizing power of surveillance",
+            "user id": 214206294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                9
+            ],
+            "content": "@JM_Ashby @DataSnake For now, at least, the people who need that equalization most are priced out of it. For now.",
+            "user id": 40146181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@JM_Ashby @iboudreau This is where the Russian people get it right. Dashcams are everywhere because of bad law enforcement. Needed here too.",
+            "user id": 379272573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@iboudreau @Vandalyzm this killing has sparked OUTRAGE!i asked for you to share your thoughts&amp;you did.PLZ Read &amp; RT http://t.co/886luSRBbK",
+            "user id": 23636341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "@iboudreau @DataSnake you're right, and as it becomes more affordable I'm sure there will be more attempts to ban it",
+            "user id": 214206294,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

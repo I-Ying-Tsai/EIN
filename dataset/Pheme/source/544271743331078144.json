@@ -1,0 +1,457 @@
+{
+    "source": {
+        "content": "Reports are coming in of a hostage situation at a cafe in the Australian city of Sydney http://t.co/4qJHS5Gabq",
+        "user id": 5402612,
+        "tweet id": "544271743331078144",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@bbcbreaking For Only $25 You Can Buy 10K Followers http://t.co/7CXwkqzBw3",
+            "user id": 929662333,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@haurry_stvlles @BBCBreaking news",
+            "user id": 1085149063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: Reports are coming in of a hostage situation at a cafe in the Australian city of Sydney http://t.co/qTrtTIWcsc”",
+            "user id": 90282879,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@BBCBreaking yes its ISIS - do keep up",
+            "user id": 65403897,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                16
+            ],
+            "content": "@Iain_33 @BBCBreaking Was the food really that bad get the chef lol",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@BBCBreaking Was the food really that bad then ???",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                17
+            ],
+            "content": "@HannahC19 @BBCBreaking Great timing for humour.",
+            "user id": 193114114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@BBCBreaking Pulp Fiction? @ChloeBrenners",
+            "user id": 2378935614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                18
+            ],
+            "content": "@_hauntxd @BBCBreaking Good God... Hopefully there's a Jules Winnifeild type character there to save them all 😢",
+            "user id": 1112322350,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@BBCBreaking @BBCNews @LizBeefo 😥",
+            "user id": 302253794,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                19,
+                20
+            ],
+            "content": "@cake_tickler @BBCBreaking @BBCNews which cafe??",
+            "user id": 2448218247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: Reports are coming in of a hostage situation at a cafe in the Australian city of Sydney http://t.co/kid4mTWQZc” @RdGaucha",
+            "user id": 48155944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "Really bbc??!You couldn't translate the 'Arabic writing'?' \"@BBCBreaking: Reports are coming in of a hostage situation at a cafe in Sydney\"",
+            "user id": 24056462,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: Reports are coming in of a hostage situation at a cafe in the Australian city of Sydney http://t.co/iLnr6BDaGo”",
+            "user id": 47746339,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "content": "@BBCBreaking Sounds like responsible coverage. Any word on the odds of it ending in a fatality?",
+            "user id": 15189196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                21
+            ],
+            "content": "@damienhealy @BBCBreaking Hey man, it's ISIS. What happened to their other hostages. I can't help but fear the worst. Just keep hope I guess",
+            "user id": 1472778894,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 4,
+            "children": [
+                22
+            ],
+            "content": "@HannahC19 @BBCBreaking lol, jokes aside there is a fully armed police force surrounding the building",
+            "user id": 65403897,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 6,
+            "children": [
+                23,
+                24
+            ],
+            "content": "@bigkeeper13 @BBCBreaking if we all just smile maybe just maybe we can have a more peaceful world -  never cry or fear",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 8,
+            "children": [],
+            "content": "@_hauntxd @BBCBreaking **Winnfield",
+            "user id": 1112322350,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 10,
+            "children": [],
+            "content": "@LizBeefo @BBCBreaking @BBCNews don't know :( please don't go out today!",
+            "user id": 302253794,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 10,
+            "children": [],
+            "content": "@LizBeefo @cake_tickler @BBCBreaking @BBCNews Lindt cafe in Martin Place",
+            "user id": 2638177484,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": 15,
+            "children": [
+                25
+            ],
+            "content": "@PointlessPHD @BBCBreaking Not an ISIS flag, must be another group of loveable Fascists.",
+            "user id": 15189196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 22,
+            "parent": 16,
+            "children": [],
+            "content": "@Iain_33 @BBCBreaking Yes true jokes aside hope all gets sorted peacefully send in the C.I.A",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 17,
+            "children": [],
+            "content": "@HannahC19  fair enough. Fair point. Still think it may be too soon but your view at least tells me your not one of those tools sans feeling",
+            "user id": 193114114,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 24,
+            "parent": 17,
+            "children": [
+                26,
+                27
+            ],
+            "content": "@bigkeeper13 @BBCBreaking Watching news with my Dad we hope all gets sorted we joke to help us deal with things that's all no harm meant",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 21,
+            "children": [
+                28
+            ],
+            "content": "@damienhealy @BBCBreaking Oh right. I just pray there will be no casualties.",
+            "user id": 1472778894,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": 24,
+            "children": [],
+            "content": "@HannahC19  yup. Get it. Glad you clarified it. And humour is omnipresent with me.",
+            "user id": 193114114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 27,
+            "parent": 24,
+            "children": [
+                29,
+                30
+            ],
+            "content": "@bigkeeper13 @BBCBreaking My Dad just said on Xmas day the Germans and English played a football match truce match",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 28,
+            "parent": 25,
+            "children": [
+                31
+            ],
+            "content": "@PointlessPHD @BBCBreaking I'll know who to blame then if it ends badly.",
+            "user id": 15189196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 29,
+            "parent": 27,
+            "children": [
+                32,
+                33
+            ],
+            "content": "@HannahC19 @BBCBreaking Saw some story last week that they're making a monument to that event. Spirt and humour can be great unifiers.",
+            "user id": 193114114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 30,
+            "parent": 27,
+            "children": [],
+            "content": "@bigkeeper13 @BBCBreaking one day yes just one day my friend peace  http://t.co/ehopwPXmSm",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 31,
+            "parent": 28,
+            "children": [],
+            "content": "@damienhealy @BBCBreaking Yup. And all of this is in the name of religion.",
+            "user id": 1472778894,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 32,
+            "parent": 29,
+            "children": [],
+            "content": "@bigkeeper13 @BBCBreaking Why take over a chocolate factory/care ?",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 33,
+            "parent": 29,
+            "children": [],
+            "content": "@bigkeeper13 @BBCBreaking @bigkeeper13 @BBCBreaking Why take over a chocolate factory/cafe ?????",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "7-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

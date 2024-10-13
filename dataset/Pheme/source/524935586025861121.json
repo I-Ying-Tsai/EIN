@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Witnesses say as many as 50 shots fired at Parliament Hill. Gunfire reported within the Parliament building. #ottawa http://t.co/HGevLjele0",
+        "user id": 22568416,
+        "tweet id": "524935586025861121",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooCanadaNews @Piet_Heyn godverdomme !!!",
+            "user id": 2253742518,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooCanadaNews @DANEgerus Good luck Canada, stop them!",
+            "user id": 590177097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@YahooCanadaNews @MaddieDiMuccio Sad this had to happen before many naive people were prepared to accept Canada is vulnerable to terror",
+            "user id": 22199699,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@YahooCanadaNews @MaddieDiMuccio Perhaps @JustinTrudeau will NOW understand food parcels and blankets will not help",
+            "user id": 22199699,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooCanadaNews @MaddieDiMuccio High time to take serious action!!!",
+            "user id": 275169668,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

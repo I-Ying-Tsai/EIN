@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Australian Police Operation Under Way In Sydney http://t.co/FHC09vZ3yP",
+        "user id": 7587032,
+        "tweet id": "544274797640044544",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews 🙏 I'm praying everyone in the Cafe is safe",
+            "user id": 157322283,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@SkyNews Presumably the want their sacrifice recognised on ANZAC day or some other such nonsense.",
+            "user id": 458768756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: Australian Police Operation Under Way In Sydney http://t.co/JfMd8dBTRA” these bastards need abliterating",
+            "user id": 765608984,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: Australian Police Operation Under Way In Sydney http://t.co/T3sL2FTpTg” @booboothecocker",
+            "user id": 1111814293,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: Australian Police Operation Under Way In Sydney http://t.co/DdkpPDArFx” let's hope everyone especially those kiddies are ok xxx",
+            "user id": 39879845,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Al-nusra front https://t.co/ElpNQ129ER …",
+            "user id": 20498025,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: Australian Police Operation Under Way In Sydney http://t.co/gblsSTKTZE” so scared for these people right now!",
+            "user id": 144109245,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@SkyNews @zerohedge hoping sharp shooters are involved",
+            "user id": 900691963,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@KateGeary6 @SkyNews @zerohedge \nI hope that someone still check in the sorroundings....\n(too many people seems to be near to the spot &gt;_&lt;)",
+            "user id": 1429966902,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: Australian Police Operation Under Way In Sydney http://t.co/ykxPQTlLIM” &lt;&lt; terrifying!! Praying for their safety 😔😢 xx",
+            "user id": 390625296,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

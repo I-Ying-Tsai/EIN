@@ -1,0 +1,141 @@
+{
+    "source": {
+        "content": "The Lebanese Muslim Association has issued a statement condemning #sydneysiege and calling for calm. http://t.co/z2hCIBPaha",
+        "user id": 110906944,
+        "tweet id": "544411561205301248",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@K_Michelmore iam sure world pray for that innocent ppl\n#prayforsydney",
+            "user id": 2711678270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@K_Michelmore \nTerror has no religion\nThese goons who play with innocent lives should be dealt firmly\n@BandeKhuda\n@HamidKarbalai\n@kassamally",
+            "user id": 128454161,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mraza67 @K_Michelmore @BandeKhuda @kassamally off course",
+            "user id": 490619713,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@K_Michelmore @AndrewSB49 Somehow don't think that it's going to be efficacy of prayer that solves either this specific or wider problem",
+            "user id": 314605066,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "@TheRetroExec @K_Michelmore Lebanese Muslims called for people to \"remain calm, united and to stand together\" - no mention of call to pray.",
+            "user id": 44171944,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@K_Michelmore @C3convertase and of course islamophobes will ignore it and say the Muslim community never speak out",
+            "user id": 1968589500,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@AndrewSB49 @K_Michelmore The letter clearly ends \"We pray.......\"",
+            "user id": 314605066,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@TheRetroExec @K_Michelmore They ARE religious people - that's mostly what they do.",
+            "user id": 44171944,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@AndrewSB49 @K_Michelmore Quite so we either question WHAT is being prayed for or its efficacy",
+            "user id": 314605066,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

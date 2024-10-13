@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "CORRECTION: We reported earlier Sydney air space was shut down. That is not correct. No Sydney air space has been shut down. #SydneySiege",
+        "user id": 16675569,
+        "tweet id": "544286686142685184",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@smh GET YOUR INFO CORRECT GUYS… NOT FAST!!",
+            "user id": 80253523,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@smh How does that even happen? Ridiculous.",
+            "user id": 34065579,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@gwynne007 @smh emergent and fluid situation. News outlets are as good as their official sources.",
+            "user id": 23811498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@gwynne007 @smh",
+            "user id": 334489254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "case in point... '@smh CORRECTION: We reported earlier Sydney air space was shut down. That is not correct.'",
+            "user id": 20140331,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Australia's fourth estate. Grim. RT @smh CORRECTION: We reported earlier Sydney air space was shut down. That is not correct... #SydneySiege",
+            "user id": 1595683692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@smh the website is still showing a headline stating airspace shut down http://t.co/mGXd2ulvlN",
+            "user id": 25733280,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Chrisgill95 @smh why put out untruths if not confirmed dont   tweet about it adds to hysteria",
+            "user id": 19352387,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@smh how about you calm down and do some real reporting. Shambles as you lot scramble to hype up a #terrorfest",
+            "user id": 5526692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": ".@smh who needs to checking facts when you are newspaper, amiright?",
+            "user id": 137887076,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@maxfuckery @smh First and wrong &gt; second and right.",
+            "user id": 142129666,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@smh this is what is flying over sydney right now! Nothing with a transponder switched on. http://t.co/JzUbHdiKdl",
+            "user id": 286872483,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@smh Good one, scoop!",
+            "user id": 28322848,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@smh irresponsible reporting creating more panic and alarm. Calm down and get it right the first time.",
+            "user id": 2281283534,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@smh Do better",
+            "user id": 476083093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 11
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

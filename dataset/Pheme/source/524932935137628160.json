@@ -1,0 +1,495 @@
+{
+    "source": {
+        "content": "The gunman in Ottawa has been shot and killed. I'm at a loss for words this morning. That isn't my Canada.",
+        "user id": 22872643,
+        "tweet id": "524932935137628160",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@kellyoxford Oh Canada….",
+            "user id": 37632713,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@alcanlin @kellyoxford great response bro.",
+            "user id": 25739948,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@kellyoxford agreed",
+            "user id": 449053517,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@kellyoxford what's your source? That's not confirmed!",
+            "user id": 23877673,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@kellyoxford Was it your Canada when that guy beheaded that other guy on the bus? Shit happens, but we're mostly still fine up here",
+            "user id": 132620209,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@kellyoxford the gunman is still on the loose.",
+            "user id": 136072927,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@kellyoxford please wait on this. Also sounds like multiple suspects. People need to stay vigilant.",
+            "user id": 740823396,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@kellyoxford might want to actually confirm shit like that before tweeting.",
+            "user id": 1104350714,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@obiterdictayo I know what I'm doing here, thanks.",
+            "user id": 22872643,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@kellyoxford It's Harper's Canada though",
+            "user id": 15201559,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@kellyoxford my thoughts also",
+            "user id": 35408870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "@TwitchieRich @kellyoxford I try…. Unfortunately I don’t think it’d protect me against bullets",
+            "user id": 37632713,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [
+                13
+            ],
+            "content": "@kellyoxford @obiterdictayo there has been zero confirmation that gunman is down. Maybe let news outlets on scene handle the reporting.",
+            "user id": 22507820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "content": "@HDMcC @kellyoxford @obiterdictayo why shouldn't a private citizen make a comment on a news event?",
+            "user id": 23429900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@subloke @kellyoxford @obiterdictayo Not a comment. Stated  gunman had been neutralized.Simply not true. Over 500k followers.Irresponsible.",
+            "user id": 22507820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                17
+            ],
+            "content": "@HDMcC @kellyoxford @obiterdictayo the news report I'm watching currently reported the same thing before Kelly tweeted it.",
+            "user id": 23429900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [
+                18,
+                19
+            ],
+            "content": "@HDMcC @kellyoxford @obiterdictayo CBC news is reporting the gunman has been shot. Are you bitching at them also?",
+            "user id": 23429900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [
+                20
+            ],
+            "content": "@subloke @kellyoxford @obiterdictayo Stated as fact before news outlets even suggested.Still uncertain.Leave news to news pros.Done here.",
+            "user id": 22507820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [
+                21
+            ],
+            "content": "@subloke @HDMcC @kellyoxford @obiterdictayo they confirm facts before 'reporting'.",
+            "user id": 22507820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [
+                22,
+                23
+            ],
+            "content": "@subloke @HDMcC I had confirmed the first gunman was dead when I tweeted.",
+            "user id": 22872643,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 20,
+            "parent": 17,
+            "children": [],
+            "content": "@HDMcC maybe people shouldn't look to the tweets of comedy writers for their news facts?",
+            "user id": 23429900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 21,
+            "parent": 18,
+            "children": [
+                24,
+                25
+            ],
+            "content": "@HDMcC @kellyoxford exactly, because they are \"journalists\" and \"dems the rules\" Kelly is a \"comedic writer\" no rules. Go police journalists",
+            "user id": 33041426,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 22,
+            "parent": 19,
+            "children": [],
+            "content": "@kellyoxford @HDMcC I had heard the same before I saw you &amp; many others tweet.",
+            "user id": 23429900,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 23,
+            "parent": 19,
+            "children": [
+                26,
+                27,
+                28
+            ],
+            "content": "@kellyoxford @subloke you managed to confirm before any other news outlet in Canada. Bravo.",
+            "user id": 22507820,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 24,
+            "parent": 21,
+            "children": [
+                29
+            ],
+            "content": "@daxshepard1 @HDMcC THANK YOU.",
+            "user id": 22872643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 25,
+            "parent": 21,
+            "children": [
+                30
+            ],
+            "content": "@daxshepard1 @HDMcC @kellyoxford No, you're right. We should follow comedic writers and trust their sources. That's my first instinct.",
+            "user id": 17391441,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 26,
+            "parent": 23,
+            "children": [],
+            "content": "@HDMcC @kellyoxford where's the \"(sigh) I give up\" emoticon? Do you not understand twitter?",
+            "user id": 23429900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 27,
+            "parent": 23,
+            "children": [
+                31
+            ],
+            "content": "@HDMcC @subloke I can get confirmation and video from witnesses and pass info along without a news producer. Simple stuff.",
+            "user id": 22872643,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 28,
+            "parent": 23,
+            "children": [],
+            "content": "@HDMcC @kellyoxford @subloke Perhaps all of Twitter should follow HDM so we can learn the proper ways of Tweeting responsibly.",
+            "user id": 1365716460,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 29,
+            "parent": 24,
+            "children": [],
+            "content": "@kellyoxford @daxshepard1 yes from her newly decorated LA living room. Just like Egypt.",
+            "user id": 22507820,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 30,
+            "parent": 25,
+            "children": [
+                32
+            ],
+            "content": "@jeremysale @daxshepard1 @HDMcC seeing as though I was 100% correct, yes.",
+            "user id": 22872643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 31,
+            "parent": 27,
+            "children": [],
+            "content": "@kellyoxford @HDMcC maybe you should have a news crew on retainer just in case. Rapid deploy anywhere breaking news happens.",
+            "user id": 23429900,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 32,
+            "parent": 30,
+            "children": [
+                33
+            ],
+            "content": "@kellyoxford @daxshepard1 @HDMcC Kudos to your relaying of second-hand information! Do you have an app?",
+            "user id": 17391441,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [
+                34
+            ],
+            "content": "@jeremysale @daxshepard1 @HDMcC hey kid, go enjoy this weird sense of power I've afforded you this morning. Spend it wisely!!",
+            "user id": 22872643,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 34,
+            "parent": 33,
+            "children": [],
+            "content": "@kellyoxford @daxshepard1 @HDMcC Thanks, that was considerate of you! All the best.",
+            "user id": 17391441,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 13
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "8-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "9-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "11-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "12-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "13-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

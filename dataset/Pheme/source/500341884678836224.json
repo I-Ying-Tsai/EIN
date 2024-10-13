@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Hobby Lobby asks #Ferguson PD for clarification: \"We thought chopping off someone's hand was the maximum penalty for shoplifting\"",
+        "user id": 179732982,
+        "tweet id": "500341884678836224",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge lol",
+            "user id": 237011341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Funny. Unfortunately wrestling a cops gun away would have gotten you shot 50 yrs ago &amp; it will get you shot 50 yrs from now. @TheDailyEdge",
+            "user id": 2358039120,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge That's only in countries that need to be converted!",
+            "user id": 2402060774,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge terrible attempt at humor. Shame on you.",
+            "user id": 17925611,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge ... That's just plain funny.",
+            "user id": 178235191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge \"Unfortunately \"there is no proof he did that and witnesses who say he didn't go for the gun. Perhaps we should wait for facts",
+            "user id": 1349538888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TheDailyEdge @marcylauren   Good one!",
+            "user id": 110459289,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@TheDailyEdge @Rae_B88 so bad...",
+            "user id": 113178263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@holliscomputer @TheDailyEdge you know that was funny!",
+            "user id": 2308538340,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

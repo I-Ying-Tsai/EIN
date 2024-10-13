@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "The letter from The Independent's Deputy Editor: In solidarity with #CharlieHebdo http://t.co/9qVffIEjkf http://t.co/i5xPjcJlk0",
+        "user id": 16973333,
+        "tweet id": "553168792017457154",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Show respect and print the covers. You're too busy grovelling to Mo's followers.You have betrayed freedom of speech.",
+            "user id": 2871280115,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent #TousCharlie #TousDessinateurs",
+            "user id": 2766218625,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Says it All",
+            "user id": 593715286,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent From the grave",
+            "user id": 593715286,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @LionelMedia http://t.co/pVGOCD4qUr",
+            "user id": 23355252,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent is that what they died for? too bad...",
+            "user id": 267906861,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@Independent @natehewitt more I look at this one more I dislike it. No poetry no sense of humour. Just vulgarity like the Independet",
+            "user id": 27855027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@nerosunero agree with you, although the image is compelling at first sight",
+            "user id": 14194726,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @LionelMedia That's weak.",
+            "user id": 47987456,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent",
+            "user id": 272013503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

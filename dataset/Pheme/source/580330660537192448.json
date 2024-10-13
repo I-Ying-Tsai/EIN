@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "PHOTO: The area where #4U9525 crashed: Prads-Haute-Bleone http://t.co/a3Lu8SD5tw - @L0gg0l",
+        "user id": 2566535282,
+        "tweet id": "580330660537192448",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@rConflictNews Good luck trying to land a plane on that..",
+            "user id": 175827858,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@rConflictNews @L0gg0l Very sad day in Europe its wake up time and what are you gonna do same old same old? no time for grief and unity:+}",
+            "user id": 388896551,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

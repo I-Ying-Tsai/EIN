@@ -1,0 +1,214 @@
+{
+    "source": {
+        "content": "Cpl. Nathan #Cirillo, the soldier shot dead today in #Ottawa. RIP sir and thank you for your service. #OttawaShooting http://t.co/jpXLr5ONOa",
+        "user id": 70315912,
+        "tweet id": "525023858831523841",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Crackmacs RIP Nathan #Cirillo",
+            "user id": 50029840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "A million tears for this young man.  And a million thanks @Crackmacs",
+            "user id": 23971912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@OddSquad I am owed nothing. That guy gave his life for us :( #hero",
+            "user id": 70315912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Crackmacs God bless him and comfort his family. @catsim7",
+            "user id": 629884158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "If only they had stricter gun laws... @Crackmacs",
+            "user id": 1276591668,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@Crackmacs:MT Nathan #Cirillo,soldier shot dead. sir&amp;thank you4your serv. #OttawaShooting http://t.co/DaGJCNu2mt”//May Nathan rest in peace",
+            "user id": 717160687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Crackmacs RIP",
+            "user id": 33564720,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Crackmacs",
+            "user id": 614532544,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Crackmacs @jake_bradford88 RIP and thank you",
+            "user id": 581806027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Crackmacs amen.",
+            "user id": 426647320,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Crackmacs rip",
+            "user id": 1636076599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "@Crackmacs As a British Mum whose son just retired after 24 yrs in UK Army God Bless you &amp; all your family🌹",
+            "user id": 2314248610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "@AnnTissi nice! I've got a cousin in some kind of fusiliers regiment. Not even sure. He's pretty awesome though. \n\nGlad your son is whole",
+            "user id": 70315912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 2,
+            "children": [
+                15
+            ],
+            "content": "@Crackmacs I did mean him - just clumsy phrasing on my part.",
+            "user id": 23971912,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@Crackmacs Thank you 😊 for that, yes he &amp; we his family have been so fortunate. There for the grace of God, it could have been different🌹",
+            "user id": 2314248610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "content": "@OddSquad @Crackmacs I did my own tribute to this man who gave his life. #tributetohero http://t.co/SWX31Uho6C",
+            "user id": 18014327,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

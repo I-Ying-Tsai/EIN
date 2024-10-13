@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Anyone with tips regarding the shooting incidents, or those looking to report suspicious activity, can call 613-236-1222 x5493 or call 9-1-1",
+        "user id": 23937894,
+        "tweet id": "524983828000276480",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @blastedsilver don't ask the US state dept. They'll just tell u it was the fault of a video:)",
+            "user id": 2148771794,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @India_MSM this is what happens when u harbour terrorists.",
+            "user id": 2231396346,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @PoliceNewsGroup  false flag event to scare the sheep",
+            "user id": 922213610,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ottawapolice @proudoftheusa Go and round up all #muslims as they are violent! #islamophobe",
+            "user id": 160930875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@juanmuriango @OttawaPolice @ProudoftheUSA time to take action in our own hands since our president won't  time for americans to jihad",
+            "user id": 1905195793,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "MT @OttawaPolice: Tips regarding shooting call 613-236-1222 x5493 or call 9-1-1 #info4",
+            "user id": 523694546,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

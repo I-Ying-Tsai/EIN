@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "I spend a lot of time in Ticino. Kinda offended Putin never even said hello. http://t.co/eoQKbwCpGR",
+        "user id": 635608354,
+        "tweet id": "576382568586706944",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee Weird body language. Between the two of them, not the solo gymnastics.",
+            "user id": 20905953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee I suspect the feeling is mutual",
+            "user id": 175394179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@20committee What do you do for a living nowadays?",
+            "user id": 1084264573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@AviWoolf ;)",
+            "user id": 635608354,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee Sounds lovely. Except for those pesky Russian despots.",
+            "user id": 788018329,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee haha",
+            "user id": 308069341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee He's waiting to invite you over to see the new baby. He knows where you are.",
+            "user id": 24184018,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@20committee Gotcha.",
+            "user id": 1084264573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

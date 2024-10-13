@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "BREAKING: Gunfire and new explosions heard at the site of hostage-taking in eastern Paris: Reuters reporter http://t.co/3B69JzccUW",
+        "user id": 1652541,
+        "tweet id": "553585838056280064",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters http://t.co/Noyace0A7X",
+            "user id": 1656511472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters @YahooNews may allaha help them",
+            "user id": 2838043548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@Reuters This is the reason #Americans are wrong opposing militarization of Police equipment. They are the first responders.",
+            "user id": 1549679828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "@J_Trend That's a separate issue — police having the gear isn't the problem so much as when they use it. Now is when they should!",
+            "user id": 1908917335,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters http://t.co/lQe0o101JD",
+            "user id": 2949833486,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@Charwhick for the same reason as I hire experience over education, I have to disagree.I also believe police should use drones, what say you",
+            "user id": 1549679828,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

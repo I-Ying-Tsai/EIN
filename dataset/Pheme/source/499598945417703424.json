@@ -1,0 +1,100 @@
+{
+    "source": {
+        "content": "More from #Ferguson this morning http://t.co/82Ylq2SqzK",
+        "user id": 7768402,
+        "tweet id": "499598945417703424",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@ryanjreilly @kmbtweets #dangerousblackkids",
+            "user id": 2193567955,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@isshegay @ryanjreilly Exactly. I want *that* photo in the news. But can't imagine I'll see it.",
+            "user id": 166845078,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@isshegay btw here's the Brooklyn event page for #NMOS14 Thurs eve: https://t.co/5CSn738D2D",
+            "user id": 166845078,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly by looking at that I'm not surprised there are guns trained on crowds",
+            "user id": 1228514706,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@ryanjreilly: More from #Ferguson this morning http://t.co/5NTdMoM1jB”",
+            "user id": 74914114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @blackvoices they have arrested @AntonioFrench",
+            "user id": 1902603456,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Community cleans streets “@ryanjreilly: #Ferguson this morning http://t.co/gsiw2KW1Ry”",
+            "user id": 1444469414,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "很少转发,只是刚在qq群里忽然对这小孩生出恻隐之心...真心希望能帮到他...",
+        "user id": 1407250374,
+        "tweet id": "3479034115970282",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "能修宪，拐小孩死刑吗",
+            "user id": 1419397745,
+            "user name": "鑫鑫想容他娘",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "content": "支持鑫妈说的话！",
+            "user id": 1972483525,
+            "user name": "霏鲤鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "同意",
+            "user id": 2596028372,
+            "user name": "花a都开好了",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1804821551,
+            "user name": "Dechen_月华",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "请求大家扩散，帮帮这个孩子@91叛客 @北京晨报 @北京人不知道的北京事儿 @BTV悦悦 @董路 @Estee娃娃妈 @楠得英俊 @数次的数次 @北京人不知道的北京事儿 @平安北京 @sunshade2008 @未_丁 @swdy1025",
+            "user id": 2681640367,
+            "user name": "奔跑窝牛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "扩扩扩",
+            "user id": 2262433997,
+            "user name": "第五个昵称",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[泪][伤心][围观]",
+            "user id": 1004429340,
+            "user name": "永远的百年孤寂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "转发微博",
+            "user id": 2788925245,
+            "user name": "丫丫观天下",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "content": "",
+            "user id": 1381620473,
+            "user name": "热带鱼papa",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "",
+            "user id": 2742565710,
+            "user name": "whoissylvia",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "转发微博",
+            "user id": 2505028010,
+            "user name": "木棉花336",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "又是谁家的命根子!",
+            "user id": 2206604460,
+            "user name": "奥丁-马力",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "昨天在地铁上看到了这孩子，杯子里有两个棒棒糖。。",
+            "user id": 1803236515,
+            "user name": "崩崩儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

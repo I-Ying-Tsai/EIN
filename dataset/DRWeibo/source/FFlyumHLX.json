@@ -1,0 +1,197 @@
+{
+    "source": {
+        "content": "【华北今夜起降雪 中东部迎雨雪气温骤降】#小保说天气# \n        今天东北、华北继续降温，明天开始另一股较强冷空气接踵而至，全国偏暖的格局将发生逆转。中央气象台预计，22日起，较强冷空气将影响我国中东部地区，长江中下游及其以北地区有4～6级偏北风，中东部大部地区气温将下降6～10℃。21日08时至22日08时，华北北部和中东部、内蒙古中部偏南、山东中东部等地有小到中雪或雨夹雪。",
+        "time": "18-1-21 08:22",
+        "user id": "2203134255",
+        "tweet id": "FFlyumHLX",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "5263372728",
+            "user name": "欧阳司宸",
+            "content": "那就等等看",
+            "time": "18-1-21 10:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2203134255",
+            "user name": "保定气象",
+            "content": "搬马扎",
+            "time": "18-1-21 11:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "5263372728",
+            "user name": "欧阳司宸",
+            "content": "行咯",
+            "time": "18-1-21 12:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "1040158405",
+            "user name": "迷糊mo",
+            "content": "真好，下雪啦",
+            "time": "18-1-21 08:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "2203134255",
+            "user name": "保定气象",
+            "content": "具体地点？",
+            "time": "18-1-21 11:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "1040158405",
+            "user name": "迷糊mo",
+            "content": "没下，期待下",
+            "time": "18-1-21 11:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "2723351197",
+            "user name": "fanly-wang",
+            "content": "能下吗？期待～",
+            "time": "18-1-21 08:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "user id": "2203134255",
+            "user name": "保定气象",
+            "content": "只能说：有可能",
+            "time": "18-1-21 09:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "6444838173",
+            "user name": "ANONYMOUS-ZF",
+            "content": "几率大吗",
+            "time": "18-1-21 10:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "1040158405",
+            "user name": "迷糊mo",
+            "content": "真好，要下雪了，真不容易",
+            "time": "18-1-21 08:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "2203134255",
+            "user name": "保定气象",
+            "content": "",
+            "time": "18-1-21 09:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "6444838173",
+            "user name": "ANONYMOUS-ZF",
+            "content": "和朋友打赌了如果下雪他叫我爸爸",
+            "time": "18-1-21 10:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "2203134255",
+            "user name": "保定气象",
+            "content": "你确定你要这么做",
+            "time": "18-1-21 11:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

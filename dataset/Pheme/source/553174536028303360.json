@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "World sends messages of condolence, outrage, defiance via #JeSuisCharlie after Paris attack: http://t.co/deqrOSVi0m http://t.co/Ama2pSOvZN",
+        "user id": 28785486,
+        "tweet id": "553174536028303360",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC http://t.co/A4GK0uDtZo",
+            "user id": 2945865278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ABC Same pain as we feel for our brothers and sister France killing daily.",
+            "user id": 1478998278,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@ABC Je suis Muslim.",
+            "user id": 1478998278,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC #JeSuisCharlie🙏🙏🙏",
+            "user id": 2322095298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC #ParisShooting France will rise and get the justice they deserve.",
+            "user id": 2574860244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC #YoSoyCharlie #PuertoRico N #LATINOAMERICA REPORTERS SUPPORT FREE PRESS @ActualidadRT @GMamery @enosotras @LeninPR @NoticiasMVS @uprrp",
+            "user id": 110129833,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC",
+            "user id": 2223966244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC: World sends messages of condolence outrage defiance #JeSuisCharlie after Paris attack!!!\nhttp://t.co/ZHJ19zQzgK http://t.co/GVjF6WbAOr",
+            "user id": 1062791150,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC The World needs to come together and stop this madness.",
+            "user id": 17429182,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC the world and it biased mind. Many died here everyday and no one ever seems to care. Well, accept my condolence the people of France.",
+            "user id": 2504386075,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@abc on va le charlinizer de nouveaux",
+            "user id": 1030592935,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @Hamilton4TX Report this:Americans DON'T want to close Gitmo or release terrorists. Obama not listening to ppl or this will be us.",
+            "user id": 2497286180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

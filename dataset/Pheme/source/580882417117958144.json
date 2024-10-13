@@ -1,0 +1,184 @@
+{
+    "source": {
+        "content": ".@NYTimes reports #Germanwings pilot locked out of cockpit &amp; could not get back in before crash. #AC360 begins now http://t.co/vXigiUHUdS",
+        "user id": 227837742,
+        "tweet id": "580882417117958144",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AC360 ~ 👋 olleh.",
+            "user id": 272074464,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@AC360 ~ 👋.thgin doog a evah",
+            "user id": 272074464,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AC360 @nytimes wow! It's an all around tragic situation. 😢",
+            "user id": 908152572,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                13
+            ],
+            "content": "@TaylorGal4ev I'm wondering if that means that the second pilot crashed on purpose",
+            "user id": 905748632,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes I thought flights are on autopilot, even if co-pilot is unconscious, why  did plane go down right away.",
+            "user id": 2886838704,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes say what?",
+            "user id": 89002569,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes how do they know this?",
+            "user id": 2313132087,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes Theres a critical need for cameras installed onboard monitored by armed guards in forward area of the aircraft. ....",
+            "user id": 995828730,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes cdlc cokpit lock code cmes with emrgncy code to force open and it takes 1 minute, unless a person manual lock it",
+            "user id": 25541189,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes If this is true, it sure makes anyone scare of flying anywhere.",
+            "user id": 552929454,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @winterthur @nytimes Planes need Onstar !!!",
+            "user id": 39588132,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes yes why was the pilot locked out of the cockpit before the crash. Praying for all the families.",
+            "user id": 22318315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @nytimes 😶😥",
+            "user id": 1104593154,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [],
+            "content": "@lucash6a Wow, that didn't even cross my mind. It very well may be the case. It's terribly sad all together.",
+            "user id": 908152572,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

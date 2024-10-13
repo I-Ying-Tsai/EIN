@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "UPDATE: Live Nation tweeting that Prince won't be performing tomorrow night either.\nhttp://t.co/R3LrDeLIka #PrinceTO #Toronto",
+        "user id": 12993222,
+        "tweet id": "529728664137904128",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CityNews Would it have killed his band member (source of original cryptic tweet) to tweet this news?",
+            "user id": 710146483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

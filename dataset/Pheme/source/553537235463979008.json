@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "UPDATE: A hostage situation is unfolding in a kosher supermarket in Vincennes, eastern Paris. French police on scene. Reports of one injured",
+        "user id": 1630896181,
+        "tweet id": "553537235463979008",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews \"religion of peace\" LMAO more like \"the religion of piss\"",
+            "user id": 546353513,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews two dead",
+            "user id": 46273199,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews oh sweet irony.",
+            "user id": 108563943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

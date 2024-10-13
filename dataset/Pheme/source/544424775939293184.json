@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Another post from a hostage within #lindtcafe during #sydneysiege - showing demands of gunmen; blacked out by media. http://t.co/PdFic0Xr9i",
+        "user id": 2897135260,
+        "tweet id": "544424775939293184",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@theanonmovement",
+            "user id": 2277426384,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMovement surely that's a fake",
+            "user id": 477542318,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMovement please pull this down the police are asking for the safety of the people in the cafe",
+            "user id": 125599964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMovement hey i found the page but thats not whats up on the fb page",
+            "user id": 1300675290,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@TheAnonMovement She really mentions the 'Islamic State' three different times and has time for bullet points... cc @TrueNameBrand",
+            "user id": 1109386315,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "LOL. The absurdity. @RealJohnBravo @TheAnonMovement",
+            "user id": 275430896,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMovement @AnonOpsSE I support anons but i dont think this should be posted right now while peoples lives are at stake.",
+            "user id": 368634998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMovement @AnonOpsSE not on her facebook wall",
+            "user id": 366096746,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMovement police have asked for the possibly fake posts to not be shared/posted. Let them do their job",
+            "user id": 2281750646,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

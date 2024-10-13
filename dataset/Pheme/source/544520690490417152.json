@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "The #sydneysiege is over! Confirmed by Sydney Police on twitter!\nThank god! I hope everyone are and stays safe!",
+        "user id": 612924569,
+        "tweet id": "544520690490417152",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@1DAlert What twitter acc dies the police in sydney has ? Pls tell me ✨",
+            "user id": 2517747307,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@1DAlert 2 people died...",
+            "user id": 1342108117,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@blitzenhoran @1DAlert RIP :'( I dont understand why these shitty things have to happen like what the hell was the purpose of this seige?!",
+            "user id": 2335866434,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@1DAlert *do",
+            "user id": 2517747307,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@1DAlert news says 2 are dead and 3 or 4 are seriously injured",
+            "user id": 439722218,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@1DAlert :(",
+            "user id": 439722218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@1DAlert: The #sydneysiege is over! Confirmed by Sydney Police on twitter!\nThank god! I hope everyone are and stays safe!” THANK GOD",
+            "user id": 469773999,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@1DAlert: The #sydneysiege is over! Confirmed by Sydney Police on twitter!\nThank god! I hope everyone are and stays safe!”  Thank god",
+            "user id": 759898195,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "These cartoons are all poignant tributes to victims of the Charlie Hebdo attack http://t.co/Q9SLIvYt7o http://t.co/fKRn7dO6ZD",
+        "user id": 16973333,
+        "tweet id": "553198344034865152",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent  Winter, Paris, France ... Kiev! Do not kill the Donbass !!!!!!  #CharlieHebdo http://t.co/r35jjK1Xyy",
+            "user id": 2723262499,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Je Suis Charlie.\n#JeSuisCharlie #CharlieHebdo #JeSuisCharliePencil http://t.co/DxImrwhnEu",
+            "user id": 420223654,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "#BREAKING German media report Germanwings co-pilot had 'serious depressive episode' http://t.co/9AsVPxukV8",
+        "user id": 15754281,
+        "tweet id": "581394092648710144",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Sad @USATODAY",
+            "user id": 760544600,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@BigSteveShow @USATODAY And sad lonely times, but this pc is an exception trust me :D",
+            "user id": 2866589902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY St.Clause:Harder psycological pilottest,and changing of cabindoor-electronik is necessary immidately!",
+            "user id": 34990733,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@USATODAY: #BREAKING German media report Germanwings co-pilot had 'serious depressive episode' http://t.co/MRATjQOHwA”",
+            "user id": 27924172,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@USATODAY: #BREAKING German media report Germanwings co-pilot had 'serious depressive episode' http://t.co/WCI0JlL7lY”#flight9525 #German",
+            "user id": 2818826268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY no shit",
+            "user id": 813486180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "RT“@USATODAY: #BREAKING German media report #Germanwings co-pilot had 'serious depressive episode' http://t.co/swcYMECS51”#GermanWingsCrash",
+            "user id": 20978217,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@USATODAY: #BREAKING German media report Germanwings co-pilot had 'serious depressive episode' http://t.co/1JHG2yeiXz” @LUPITAMARTINEZA",
+            "user id": 102851271,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "#BREAKING German media report says Germanwings co-pilot had 'serious depressive episode' http://t.co/v9gT8shDkK @USATODAY",
+            "user id": 15922161,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "Mental health/illness is a very serious issue “@USATODAY: #Germanwings co-pilot had 'serious depressive episode' http://t.co/C8yyJvMx49”",
+            "user id": 455931830,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@Phil_Buck @SarahFortnerWx @USATODAY We need to make sure everyone gets help! I nearly took myself when I was young as a result...",
+            "user id": 16062207,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@USATODAY: #BREAKING German media report Germanwings co-pilot had 'serious depressive episode' http://t.co/MqxiLuq6xa” Understatment, much?",
+            "user id": 25425818,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

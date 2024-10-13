@@ -1,0 +1,213 @@
+{
+    "source": {
+        "content": "【#twitter任命李飞飞为董事会成员#】据外媒报道，Twitter已宣布任命斯坦福大学计算机科学教授李飞飞为公司董事会的独立董事，该任命立即生效。Twitter执行董事长奥米德•柯德斯塔尼（Omid Kordestani）表示：“随着Twitter继续利用技术改善我们的服务，并实现我们的长期目标，李飞飞凭借其在工程、计算机科学和人工智能方面无与伦比的专业知识，为董事会带来了相关观点。”",
+        "time": "20-5-12 16:23",
+        "user id": "6105753431",
+        "tweet id": "J1AII1nsV",
+        "label": 0,
+        "theme": "财经商业"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "1100542392",
+            "user name": "曲江流饮太白水",
+            "content": "又是个二鬼子",
+            "time": "20-5-12 17:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "1100542392",
+            "user name": "曲江流饮太白水",
+            "content": "",
+            "time": "20-5-12 18:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [
+                1
+            ],
+            "user id": "2232145770",
+            "user name": "Asuka_电视机",
+            "content": "",
+            "time": "20-5-12 18:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [
+                2
+            ],
+            "user id": "1100542392",
+            "user name": "曲江流饮太白水",
+            "content": "你认为的，都对",
+            "time": "20-5-12 18:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [
+                3
+            ],
+            "user id": "2232145770",
+            "user name": "Asuka_电视机",
+            "content": "这就是航空从业者么，真是有够好笑呢",
+            "time": "20-5-12 18:06",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [
+                4
+            ],
+            "user id": "1100542392",
+            "user name": "曲江流饮太白水",
+            "content": "你理解的，都对",
+            "time": "20-5-12 18:05",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [
+                5
+            ],
+            "user id": "2232145770",
+            "user name": "Asuka_电视机",
+            "content": "啥都不了解就开喷，说不过就开始阴阳怪气，那属实可怜噢",
+            "time": "20-5-12 18:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [
+                6
+            ],
+            "user id": "1100542392",
+            "user name": "曲江流饮太白水",
+            "content": "你说的，都对",
+            "time": "20-5-12 18:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "user id": "2232145770",
+            "user name": "Asuka_电视机",
+            "content": "。。。。。。能发出这样的言论 真是不知道您为什么会关注量子位",
+            "time": "20-5-12 17:33",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                11
+            ],
+            "user id": "5476159580",
+            "user name": "知无忌",
+            "content": "带来了什么观点？",
+            "time": "20-5-12 19:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "6154978473",
+            "user name": "wW_niol",
+            "content": "可能指对某些新东西的看法吧，就是战略眼光啥的",
+            "time": "20-5-13 02:12",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "user id": "5476159580",
+            "user name": "知无忌",
+            "content": "相关观点是什么鬼？是不是翻译出问题了？",
+            "time": "20-5-12 19:46",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "What's going on in Russia? Coup, sudden illness or \"other\"? http://t.co/bcQcVHLARB",
+        "user id": 5654722,
+        "tweet id": "576857359533789184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@maggiefox ...or perhaps nothing at all. Ponder that for a moment.",
+            "user id": 9840442,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

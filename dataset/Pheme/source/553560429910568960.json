@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Special forces evacuate local residents in Saint-Mande, near Porte de Vincennes in Paris. Photo @MartinBureau1 #AFP http://t.co/ngaAVAtwFw",
+        "user id": 589010907,
+        "tweet id": "553560429910568960",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@StephaneArnaud_ @fibrobauer59 @MartinBureau1 Praying for Paris",
+            "user id": 42499580,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@AmyMTalbott @StephaneArnaud_ @MartinBureau1 thank you sweetie.Everything'sgonna be fine.It has to.We have to carry on fighting.",
+            "user id": 2237757230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

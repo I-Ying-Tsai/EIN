@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "At least 72 Germans and 35 Spanish killed in #Germanwings crash: Airline http://t.co/JeigmQOTna http://t.co/HrECGvkUuV",
+        "user id": 38400130,
+        "tweet id": "580706841769820160",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ChannelNewsAsia This news came a tat too late.. I knew it first from @NajibRazak first..",
+            "user id": 1480216946,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@ChannelNewsAsia: At least 72 Germans and 35 Spanish killed in #Germanwings crash: Airline http://t.co/Wbi1j9wPPX http://t.co/eANKSVOeOK”",
+            "user id": 181425925,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "source": {
+        "content": "@12306微博 @武汉铁路局 信息发布差别太大，网站显示列车停运，火车站告知没有，这样很容易导致乘客退票改签！应该要实时更新！  ",
+        "time": "18-1-27 12:29",
+        "user id": "1961972332",
+        "tweet id": "G0khq2Cul",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "user id": "5712646582",
+            "user name": "书包男友",
+            "content": "12306网站发布了公告，D5216次由汉口站始发，武汉站的D5216次停运",
+            "time": "18-1-27 13:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "1961972332",
+            "user name": "林旭LinXuuu",
+            "content": "@武汉铁路局 武汉铁路局微博有公告以及实时更新，还有12306官网。但具体车站并未及时及时通知大家，导致询问时，车站工作人员都搞不清楚……",
+            "time": "18-1-27 18:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "5712646582",
+            "user name": "书包男友",
+            "content": "12306公告为准，网站还没那么智能",
+            "time": "18-1-27 18:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "1687111132",
+            "user name": "elasticcc",
+            "content": "汉口站到十堰站网站也显示没有啊",
+            "time": "18-1-27 16:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "1961972332",
+            "user name": "林旭LinXuuu",
+            "content": "谢谢，刚才知道",
+            "time": "18-1-27 14:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                8
+            ],
+            "user id": "1687111132",
+            "user name": "elasticcc",
+            "content": "啊啊啊啊",
+            "time": "18-1-27 16:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "1961972332",
+            "user name": "林旭LinXuuu",
+            "content": "顺风，也祝你顺风",
+            "time": "18-1-27 21:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [],
+            "user id": "1687111132",
+            "user name": "elasticcc",
+            "content": "改签的bb表示羡慕~一路顺风[嘿哈][嘿哈][嘿哈]",
+            "time": "18-1-27 21:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "user id": "1961972332",
+            "user name": "林旭LinXuuu",
+            "content": "我已经坐上车，但是一直未走",
+            "time": "18-1-27 18:24",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                11,
+                12,
+                13
+            ],
+            "user id": "1687111132",
+            "user name": "elasticcc",
+            "content": "d5216没有停运吗？",
+            "time": "18-1-27 16:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "1961972332",
+            "user name": "林旭LinXuuu",
+            "content": "退票排了一个小时，得知车改到汉口了，就赶紧跑",
+            "time": "18-1-27 21:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "user id": "1687111132",
+            "user name": "elasticcc",
+            "content": "我中午退票还是全额",
+            "time": "18-1-27 21:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [],
+            "user id": "1961972332",
+            "user name": "林旭LinXuuu",
+            "content": "没有，改到汉口始发，刚上车，车上空空如也",
+            "time": "18-1-27 18:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 9,
+            "children": [],
+            "user id": "5712646582",
+            "user name": "书包男友",
+            "content": "没有停运，改到汉口站始发了，武汉到汉口段停运",
+            "time": "18-1-27 18:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "3015976071",
+            "user name": "Elin-ohh",
+            "content": "到底是哪辆？。哥们",
+            "time": "18-1-27 12:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "1961972332",
+            "user name": "林旭LinXuuu",
+            "content": "D5216",
+            "time": "18-1-27 12:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

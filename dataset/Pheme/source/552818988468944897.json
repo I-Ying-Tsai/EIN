@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "#CharlieHebdo attack latest: Footage shows Paris gunmen on rampage as policeman is shot  http://t.co/VkLHN9pxyf http://t.co/LxHM3TuhQy",
+        "user id": 16973333,
+        "tweet id": "552818988468944897",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent After the 1962 Cuban Missile Crisis, then came: http://t.co/sh5mFenFTK … and http://t.co/K120Lr0lUN …",
+            "user id": 2933943867,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent #diversity",
+            "user id": 2871588796,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent\nplz #RT\nWe stand w/ the value of free speech\n&amp;\nfreedom of expression #ParisShooting\nViva #CharlieHebdo http://t.co/tTdF2IUgIM",
+            "user id": 48304732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Killing people for drawing a cartoon. Welcome to the 21st century, folks!",
+            "user id": 230045723,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent This is disgusting, since when has life become like an action Movie? Have our imaginations gotten the better of us? #Human",
+            "user id": 59066615,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent This wasn't a 5 minute attack.In Central Paris,and the police didn't even show up.Attackers didn't even use a get away driver.",
+            "user id": 2922814893,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@Independent These Arm Shooters Are Cowards &amp; Mentally Unstable :(\n\nWe Should Allow World Freedom &amp; Be Allowed To Mock Anyone &amp; Religion :/",
+            "user id": 65581806,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@Independent Only Unstable People Kill People For Drawings,Mocking &amp; Expressing Freedom Of Speech :/\n\nStable Adults Protest Complain,Etc, :/",
+            "user id": 65581806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent  absolute cowards",
+            "user id": 866536687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@independent At least 12 killed in shooting at office of French satirical: http://t.co/dTrEfTWyLp #paris Charlie Hebdo",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @LauReyes_ Rechazo todo acto de violencia con perdón con amor con involucramiento y gratitud.",
+            "user id": 364263893,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @LauReyes_ Evitar la reaccion natural de odio y revancha que sólo empeorará el hecho. A quien beneficia este acto?",
+            "user id": 364263893,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent",
+            "user id": 527882595,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

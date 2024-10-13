@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "Follow all of the latest updates on #sydneysiege on our #live blog http://t.co/7NdqPYhwcY http://t.co/hUbJsVwJOn",
+        "user id": 2768501,
+        "tweet id": "544311814649942016",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@abcnews STOP POSTING PICTURES",
+            "user id": 18864531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@cherrybob_omb in the contest for ratings they would unfortunately be the only channel not broadcasting pictures :/",
+            "user id": 20228905,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews holy crap it is the making of the new MAX movie",
+            "user id": 100858563,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews I think you guys need to stop. Swap to to court sketch artist for images.",
+            "user id": 437162481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@abcnews: Follow all of the latest updates on #sydneysiege on our #live blog http://t.co/MxeNAMAqVE http://t.co/pkaOedu85L”",
+            "user id": 521302153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews We New Yorkers have you guys in our thoughts and prayers. #sydneysiege",
+            "user id": 1047008090,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews Please stop showing what the police are doing... That's like showing your cards in a game of poker!",
+            "user id": 109736956,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @ABCNews24 Haven't the Police asked all media outlets to stop tweeting images of the area? C'mon guys...",
+            "user id": 5417762,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews news photos and updates on sky news",
+            "user id": 1081644907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews channel 7 staff evacuated",
+            "user id": 1081644907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@universe93 i mean on twitter.",
+            "user id": 18864531,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,955 @@
+{
+    "source": {
+        "content": "#日本大阪6.1级地震#这是最近发生的余震 身在中央区靠近心斋桥的我 根本感觉不到  ",
+        "time": "18-6-19 11:24",
+        "user id": "5690067238",
+        "tweet id": "Gm3Ya9ZNQ",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1244238173",
+            "user name": "老娘爱吃辣",
+            "content": "今天看到微博，有人说到就是，如果还没下大雨的话，估计还会继续震，如果震完了，就会下大雨了，感觉也是有点道理的，通常地震完都会下雨，可以留意一下大阪京都一带的天气状况  大神这是真的假的",
+            "time": "18-6-19 18:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "大阪今天明天确实都会下雨 还会有大暴雨 但是这个跟地震有关真的无法确定",
+            "time": "18-6-19 19:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "1244238173",
+            "user name": "老娘爱吃辣",
+            "content": "也就只能到大神这寻找点安慰了，想去啊想去啊想去啊",
+            "time": "18-6-19 20:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "十分钟前震了个2级的 可能是我太胖…没感觉",
+            "time": "18-6-19 13:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                9,
+                10,
+                13
+            ],
+            "user id": "1724163614",
+            "user name": "KiTTy_hoO",
+            "content": "我要24号飞机票不能取消很担心",
+            "time": "18-6-19 11:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "大家安心 没事儿的",
+            "time": "18-6-19 16:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [],
+            "user id": "2691543077",
+            "user name": "豌豆姐姐的赤豆妹妹",
+            "content": "好的 到时候我会发微博",
+            "time": "18-6-19 16:17",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [
+                6
+            ],
+            "user id": "1724163614",
+            "user name": "KiTTy_hoO",
+            "content": "好的好的，可以的话过去分享一下现况吧",
+            "time": "18-6-19 15:07",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [
+                7
+            ],
+            "user id": "2691543077",
+            "user name": "豌豆姐姐的赤豆妹妹",
+            "content": "我也南航 21飞机 说一切照常 我觉得也别太担心 可能有的夸大了 去了就注意安全 不要自己吓自己",
+            "time": "18-6-19 15:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "user id": "1724163614",
+            "user name": "KiTTy_hoO",
+            "content": "主要是南航只能退税什么的都不能退，旅行社说没有收到任何通知今天都照常出团",
+            "time": "18-6-19 12:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [],
+            "user id": "1724163614",
+            "user name": "KiTTy_hoO",
+            "content": "我深圳早上飞，我害怕啊！！！！",
+            "time": "18-6-19 12:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 12,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "现在不知道 发生余震我会发的 别太担心",
+            "time": "18-6-19 11:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 13,
+            "children": [
+                11
+            ],
+            "user id": "1724163614",
+            "user name": "KiTTy_hoO",
+            "content": "是不是48小时之后会稳定一点了，一家三口真的太害怕了",
+            "time": "18-6-19 11:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 4,
+            "children": [
+                12
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿的随时关注新闻 有余震会发的",
+            "time": "18-6-19 11:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "user id": "3457528152",
+            "user name": "windy之旅行日记",
+            "content": "其实我从大阪618一直在这边旅游 除了当天真的有点摇晃不稳 大概就10几秒 到现在为止真的没有余震感觉",
+            "time": "18-6-19 19:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 16,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "对吧",
+            "time": "18-6-19 21:01",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 16,
+            "parent": 17,
+            "children": [
+                15
+            ],
+            "user id": "3457528152",
+            "user name": "windy之旅行日记",
+            "content": "很好呀 在看世界杯日本首秀 商店都开门 交通很好 没有一点震感",
+            "time": "18-6-19 20:38",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 17,
+            "parent": 18,
+            "children": [
+                16
+            ],
+            "user id": "2491558035",
+            "user name": "wendy-lyt",
+            "content": "现在怎么样",
+            "time": "18-6-19 20:37",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 19,
+            "children": [
+                17
+            ],
+            "user id": "3457528152",
+            "user name": "windy之旅行日记",
+            "content": "嗯嗯 是的 其实在当地才了解 我已经很淡定 该吃的吃的 该买的买的 哈哈",
+            "time": "18-6-19 19:31",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 14,
+            "children": [
+                18
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "对吧 所以不用担心相信岛国的建筑业",
+            "time": "18-6-19 19:29",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                22,
+                26
+            ],
+            "user id": "1802515803",
+            "user name": "Kerryliang",
+            "content": "明天就飞大阪了，还是在慌张当中，不知道京都会不会好点？",
+            "time": "18-6-19 13:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 22,
+            "children": [],
+            "user id": "1802515803",
+            "user name": "Kerryliang",
+            "content": "好的呢～",
+            "time": "18-6-20 06:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 22,
+            "parent": 20,
+            "children": [
+                21
+            ],
+            "user id": "2667539625",
+            "user name": "沧海南之",
+            "content": "京都我觉得挺安全的",
+            "time": "18-6-19 15:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 23,
+            "parent": 24,
+            "children": [],
+            "user id": "1802515803",
+            "user name": "Kerryliang",
+            "content": "好的，随时关注你的微博动态~哈哈",
+            "time": "18-6-19 13:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 24,
+            "parent": 25,
+            "children": [
+                23
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "开着呢 放心吧",
+            "time": "18-6-19 13:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 26,
+            "children": [
+                24
+            ],
+            "user id": "1802515803",
+            "user name": "Kerryliang",
+            "content": "嗯嗯，大阪的景点还会开放吗？",
+            "time": "18-6-19 13:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 26,
+            "parent": 20,
+            "children": [
+                25
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "京都稍微好点儿 没事儿持续关注新闻",
+            "time": "18-6-19 13:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "user id": "1653104194",
+            "user name": "七仔麻麻277",
+            "content": "21号飞日本 看你消息了",
+            "time": "18-6-19 13:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [
+                29
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "突然有点儿压力大我会继续更新的",
+            "time": "18-6-19 13:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "1653104194",
+            "user name": "七仔麻麻277",
+            "content": "谢谢",
+            "time": "18-6-19 14:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                33
+            ],
+            "user id": "1750135871",
+            "user name": "银色的耳钉",
+            "content": "什么APP啊求推荐",
+            "time": "18-6-19 11:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": 32,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "嗯嗯 没事儿我也会持续更新的",
+            "time": "18-6-19 12:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 32,
+            "parent": 33,
+            "children": [
+                31
+            ],
+            "user id": "1750135871",
+            "user name": "银色的耳钉",
+            "content": "谢谢呀。我下了，不过不知为什么界面跟你的不太一样。妹纸在大板也要注意安全啊",
+            "time": "18-6-19 12:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [
+                32
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "雅虎的防灾速报",
+            "time": "18-6-19 11:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [
+                36,
+                38,
+                39
+            ],
+            "user id": "1679090191",
+            "user name": "懒羊羽",
+            "content": "关注你啦，下个月7号去，带着娃，有点小忐忑",
+            "time": "18-6-19 12:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": 36,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "嗯嗯",
+            "time": "18-6-19 15:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 36,
+            "parent": 34,
+            "children": [
+                35
+            ],
+            "user id": "1738838301",
+            "user name": "donny麻麻",
+            "content": "关注你啦，随时看更新",
+            "time": "18-6-19 15:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 37,
+            "parent": 38,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿",
+            "time": "18-6-19 14:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 38,
+            "parent": 34,
+            "children": [
+                37
+            ],
+            "user id": "1738838301",
+            "user name": "donny麻麻",
+            "content": "我也下月7号的行程，同忐忑",
+            "time": "18-6-19 14:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 39,
+            "parent": 34,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "不用太担心有余震会持续发的",
+            "time": "18-6-19 12:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [
+                42,
+                43
+            ],
+            "user id": "2624280781",
+            "user name": "酱酱酱__尥",
+            "content": "现在在日本.明天去京都和大阪.后天回国.网上很多谣言.好害怕",
+            "time": "18-6-19 14:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": 42,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿没事儿一点儿也没感觉到",
+            "time": "18-6-20 06:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 42,
+            "parent": 40,
+            "children": [
+                41
+            ],
+            "user id": "2624280781",
+            "user name": "酱酱酱__尥",
+            "content": "抱抱小姐姐.我在名古屋都被谣言搞得好害怕...在这儿来寻求安慰.三点多又余震了",
+            "time": "18-6-20 03:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 43,
+            "parent": 40,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿啊昨天早上的完事了 你现在也是好好的啊",
+            "time": "18-6-19 14:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [
+                45
+            ],
+            "user id": "6193125532",
+            "user name": "李铁锤siri",
+            "content": "我也在中央去 不敢睡啊！",
+            "time": "18-6-20 00:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "睡就好了 要相信岛国的防震技术",
+            "time": "18-6-20 01:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [
+                47
+            ],
+            "user id": "2691543077",
+            "user name": "豌豆姐姐的赤豆妹妹",
+            "content": "亲 又有人跟我说日本新闻出来说21号会有大地震 想来找你证实一下是真的有新闻还是谣言",
+            "time": "18-6-19 22:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": 46,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "谣言…如果真的能预测哪一天 会有几级地震 那四个遇难者是不是白死了？",
+            "time": "18-6-20 00:59",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [
+                49
+            ],
+            "user id": "2057640375",
+            "user name": "深深的淡绿",
+            "content": "亲，你真好啊，在异乡也要多注意安全啊",
+            "time": "18-6-19 19:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": 48,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "嗯嗯",
+            "time": "18-6-19 19:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [
+                51
+            ],
+            "user id": "1804677763",
+            "user name": "Novaria",
+            "content": "谢谢姑娘更新～我23号飞 稍微有点儿担心",
+            "time": "18-6-19 14:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": 50,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿没事儿我会继续发余震情况的",
+            "time": "18-6-19 14:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [
+                53
+            ],
+            "user id": "2691543077",
+            "user name": "豌豆姐姐的赤豆妹妹",
+            "content": "谢谢菇凉 后天飞日本心很慌 网上的真真假假不知道相信谁",
+            "time": "18-6-19 13:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": 52,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿没事儿我会持续更新的",
+            "time": "18-6-19 13:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 54,
+            "parent": -1,
+            "children": [
+                55
+            ],
+            "user id": "5872292194",
+            "user name": "要穿xs号的小胖子",
+            "content": "7月10一家人去，好担心，要不要改签",
+            "time": "18-6-19 13:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 55,
+            "parent": 54,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "7月份的话就不用那么担心了我也会持续发余震的消息 你也随时关注新闻就好啦",
+            "time": "18-6-19 13:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [
+                57
+            ],
+            "user id": "1739441633",
+            "user name": "阿面MAX",
+            "content": "关注小姐姐了，平安是福",
+            "time": "18-6-19 13:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 57,
+            "parent": 56,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "是的 一切安全为上",
+            "time": "18-6-19 13:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [
+                59
+            ],
+            "user id": "1645475587",
+            "user name": "猫de下弦月",
+            "content": "我22号的飞机，好犹豫",
+            "time": "18-6-19 13:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 59,
+            "parent": 58,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "22号还有几天 持续关注新闻 我也会发余震情况的",
+            "time": "18-6-19 13:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [
+                63,
+                65
+            ],
+            "user id": "2304471774",
+            "user name": "龚包包娃娃",
+            "content": "22号飞表示也是很忐忑。。。随时关注消息！",
+            "time": "18-6-19 12:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": 63,
+            "children": [],
+            "user id": "2304471774",
+            "user name": "龚包包娃娃",
+            "content": "抱团！",
+            "time": "18-6-19 22:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 62,
+            "parent": 63,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿放宽心",
+            "time": "18-6-19 19:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 63,
+            "parent": 60,
+            "children": [
+                61,
+                62
+            ],
+            "user id": "6439374827",
+            "user name": "用户6439374827",
+            "content": "我也是22号飞",
+            "time": "18-6-19 18:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 64,
+            "parent": 65,
+            "children": [],
+            "user id": "2304471774",
+            "user name": "龚包包娃娃",
+            "content": "谢谢！",
+            "time": "18-6-19 12:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 65,
+            "parent": 60,
+            "children": [
+                64
+            ],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "没事儿的有余震会持续发的",
+            "time": "18-6-19 12:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [],
+            "user id": "1232467790",
+            "user name": "曾曾奇奇曾奇奇",
+            "content": "愿平安🙏愿日本民众平安大吉🙏",
+            "time": "18-6-19 11:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [
+                68
+            ],
+            "user id": "1596856524",
+            "user name": "子非鱼0929",
+            "content": "谢谢分享",
+            "time": "18-6-19 11:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 68,
+            "parent": 67,
+            "children": [],
+            "user id": "5690067238",
+            "user name": "小小滴小二郎",
+            "content": "不会",
+            "time": "18-6-19 11:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 19,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 23,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 12,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

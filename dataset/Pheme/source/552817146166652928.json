@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "#charliehebdo @GLove39: The world would be a far better place if all religious fanatics followed this advice http://t.co/aRyHdZdD88",
+        "user id": 617854798,
+        "tweet id": "552817146166652928",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MaggieJordanACN @GLove39 \n\nSo true....",
+            "user id": 610829574,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MaggieJordanACN @GLove39 i love it !",
+            "user id": 15146390,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MaggieJordanACN @GLove39 agree!!",
+            "user id": 610832549,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MaggieJordanACN @parulbajaj @GLove39 well said.....mam",
+            "user id": 124453808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": ".@MaggieJordanACN @parulbajaj @GLove39 we have so many in India @RSS_Org @RSSorg @BJPRajnathSingh @narendramodi ......",
+            "user id": 2382422754,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@MaggieJordanACN @GLove39 lets add kill yourself alone... don t take anyone with you...",
+            "user id": 36736486,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@tkahvecioglu @MaggieJordanACN @GLove39 spot on",
+            "user id": 2902031436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MaggieJordanACN @GLove39 religion will.end soon.logic",
+            "user id": 335871995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@MaggieJordanACN @SwachhPolitics @GLove39 cc @mdksinha @CitizenAAP",
+            "user id": 39559838,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "source": {
+        "content": "DETAILS: The hostage site is Lindt Chocolat Cafe near #Sydney Harbor http://t.co/1ZlzKDjvSf http://t.co/7u8EFUwCey",
+        "user id": 64643056,
+        "tweet id": "544293753130082305",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RT_com Evacuate the city, asap! We do not know if he acts on his own yet he threatens he has devices all over Sydney.",
+            "user id": 930789798,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@RundfunkEuropa @RT_com well...you're  just a silly paranoid fuck now aren't you",
+            "user id": 429978338,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com isis love choclate... Who knew.. Lol. They gotta make sure its alcohol free ofcourse",
+            "user id": 2773644809,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com this is exactly why Feinstein can shove that #CIAReport up her ass",
+            "user id": 1228514706,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": ".@RT_com Yeah it's the same Johnny F'cknuts who was going to kidnap and kill 2 police in Birmingham, UK last Tuesday.",
+            "user id": 458768756,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Another fine example of #Islam, the peaceful religion, right? Where are the #ModerateMuslims speaking out against this? #BanIslam",
+            "user id": 15803977,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @ROUNDTHEBEND_ get on that one",
+            "user id": 435243817,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com A breakdown of what we know and what we don’t: People Hostage at Café in #Sydney http://t.co/E35dDvbTgT",
+            "user id": 1443219385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@burnrecording @RT_com I hate terrorism and I am worried about the people of our western civilisation.",
+            "user id": 930789798,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@RundfunkEuropa @RT_com western countries have killed more innocent children than hitler assmunch. But you prob don't consider that terror??",
+            "user id": 429978338,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

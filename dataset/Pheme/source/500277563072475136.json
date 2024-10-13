@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson",
+        "user id": 13557972,
+        "tweet id": "500277563072475136",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @blackvoices BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson",
+            "user id": 376306456,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@blackvoices: BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson”",
+            "user id": 26786041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@blackvoices: BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson” he sounds black. Oh boy",
+            "user id": 1466284657,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT: @blackvoices: BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson | Ok. Now they need to arrest his ass",
+            "user id": 193512861,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@blackvoices: BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson” lol def sounds black 👀👀👀👀",
+            "user id": 62624784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@blackvoices @Os_Island Retweeting this is positive living??",
+            "user id": 56888236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "“@blackvoices: BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson” Hm, sounds like a black man.. I wonder.",
+            "user id": 265012885,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                11
+            ],
+            "content": "@naturaldelalma @blackvoices he's white",
+            "user id": 38261923,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Find him!!!! RT @blackvoices: BREAKING: Darren Wilson named as officer who fatally shot #MichaelBrown in #Ferguson",
+            "user id": 461818332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@blackvoices @Os_Island You mean the thug that forcefully stole som Swisher Sweets? I am a Broncos fan, but you should be ashamed.",
+            "user id": 56888236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@Obedingding @blackvoices ha! ✋",
+            "user id": 428564201,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [],
+            "content": "@Toshi_Mavis @blackvoices Thanks. Started to make me think!",
+            "user id": 265012885,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

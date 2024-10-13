@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "BREAKING: 10 people shot dead at headquarters of French satirical weekly publication Charlie Hebdo in #Paris after gunmen stormed office.",
+        "user id": 20639175,
+        "tweet id": "552785695845396480",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thegrugq @JFXM at least she isn't dead as a 1 shot sale for the highest bidder.",
+            "user id": 2478060493,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@JFXM @thegrugq https://t.co/bD5I8Loo4c",
+            "user id": 2342154031,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@thisisdebasish @JFXM yeah. https://t.co/lHWPzuFCg1",
+            "user id": 18983429,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JFXM @ZarrarKhuhro We Condemn.\n\nAmazing QTablet\nhttp://t.co/C6ux2iB3Mb",
+            "user id": 2311197780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

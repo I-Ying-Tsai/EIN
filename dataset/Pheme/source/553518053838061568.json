@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "The latest on the manhunt for Charlie Hebdo suspects: http://t.co/F3hv000UQX http://t.co/r0TgWbIxsr",
+        "user id": 3108351,
+        "tweet id": "553518053838061568",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Can't imagine people's fear and lost sense of safety.",
+            "user id": 720186867,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

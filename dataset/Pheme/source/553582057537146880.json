@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Gunshots heard, smoke seen at site of police operation in Dammartin-en-Goele, northeast of Paris - @Reuters, @SkyNews http://t.co/ZFJYh80uxy",
+        "user id": 6017542,
+        "tweet id": "553582057537146880",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#CharlieHebdo MT @BreakingNews: Gunshots heard, smoke seen at site of police operation in Dammartin-en-Goele, NE of Paris -@Reuters/@SkyNews",
+            "user id": 258730076,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @Reuters @SkyNews smh",
+            "user id": 2877730245,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @Reuters @SkyNews it looks like the movie: Long Kiss Goodnight",
+            "user id": 1677842870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

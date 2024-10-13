@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Over 6,500 #illridewithyou tweets already - currently 198 Tweets per minute - god love you Sydney",
+        "user id": 10703412,
+        "tweet id": "544420432099545089",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@trevorlong: Over 6,500 #illridewithyou tweets already - currently 198 Tweets per minute - god love you Sydney”",
+            "user id": 20742461,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "“@TimOBrien: “@trevorlong: Over 6,500 #illridewithyou tweets already - currently 198 Tweets per minute - god love you Sydney”” just awesome",
+            "user id": 29920671,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@trevorlong waw",
+            "user id": 2299809264,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

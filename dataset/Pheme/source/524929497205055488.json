@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "Canada's Parliament Hill is on lockdown as police hunt shooting suspect; at least 1 injured - @CBCNews, @TorontoStar http://t.co/aF9HyT9BgX",
+        "user id": 6017542,
+        "tweet id": "524929497205055488",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "content": "@BreakingNews @CBCNews @TorontoStar So Canada's strict gun control policies have failed",
+            "user id": 1403764388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@CutGovtSpending @BreakingNews @CBCNews @TorontoStar this is probably ISIS. canadas gun control hasnt failed at all.",
+            "user id": 242900070,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@CutGovtSpending @BreakingNews @CBCNews @TorontoStar that is such a stupid, uneducated comment",
+            "user id": 29995100,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "@CutGovtSpending @BreakingNews @CBCNews @TorontoStar Hardly, dont hear about a school shooting or spree every 5 mins do we?",
+            "user id": 2437087002,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "@CutGovtSpending @BreakingNews @CBCNews @TorontoStar it's Isis fucktard",
+            "user id": 281773824,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "@CutGovtSpending @BreakingNews @CBCNews @TorontoStar you stupid fuck",
+            "user id": 2331161887,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @CBCNews @TorontoStar praying for all affected by this shooting",
+            "user id": 1005257844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @CBCNews @TorontoStar get well soon",
+            "user id": 204310108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@BreakingNews: Canada's Parliament Hill is on lockdown as police hunt shooting suspect; at least 1 injured http://t.co/kvitVgSx6j” O.O",
+            "user id": 102547354,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @SanaMerza @CBCNews @TorontoStar http://t.co/1Zu6gdZQfK \nNews,darams,cric,funny \nhttp://t.co/1Zu6gdZQfK",
+            "user id": 524230125,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @mkernohan what? You have only been there a week! How did you manage this! Stay safe.",
+            "user id": 22202896,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @CBCNews @TorontoStar \nI'm guessing Obama will probably apologize to the terrorists on Canada's behalf.",
+            "user id": 1041049706,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 5
+        }
+    }
+}

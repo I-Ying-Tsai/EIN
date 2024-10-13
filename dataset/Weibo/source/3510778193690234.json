@@ -1,0 +1,177 @@
+{
+    "source": {
+        "content": "十万火急-----谁的群多？请帮忙转一下：一个重庆打工者，22岁，叫骆婕，不知道在什么地方，请他速回重庆万州，直接到三峡中心医院。家中失火，父母双亡，弟弟伤势很严重，想见她最后一面。舅舅：18716501803——爱心接力。这个不转对不起自己的良心 （重庆市万州区柱山镇党委罗于平托 谢谢",
+        "user id": 1563998211,
+        "tweet id": "3510778193690234",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "[心]",
+            "user id": 2541977690,
+            "user name": "单角度世界",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "转发微博",
+            "user id": 1774844032,
+            "user name": "鸽巢",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": "",
+            "user id": 1749253941,
+            "user name": "叶公欣龙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "转发微博",
+            "user id": 2526508147,
+            "user name": "高大伟dawei",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1960081630,
+            "user name": "等在黄河尽头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "转",
+            "user id": 1245920595,
+            "user name": "牛成志---笑人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "转",
+            "user id": 2950892265,
+            "user name": "七爷2950892265",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1652001001,
+            "user name": "小纸船0_0",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "[话筒]",
+            "user id": 2343953393,
+            "user name": "Tourest",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "[话筒]帮忙扩散 谢谢！",
+            "user id": 2623607161,
+            "user name": "郭东南西北平_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "帮下你啦  快回来  求转",
+            "user id": 2807743540,
+            "user name": "著名发神经病",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "[话筒]",
+            "user id": 2319796910,
+            "user name": "初中生321",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1061595035,
+            "user name": "澳洲贫下中农",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

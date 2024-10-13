@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "We mourn WWF friend and supporter Tignous, killed in yesterday's Charlie Hebdo attack in Paris. #JeSuisCharlie http://t.co/uTy1NbGHF7",
+        "user id": 16029780,
+        "tweet id": "553221319345844225",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@World_Wildlife sending prayers",
+            "user id": 2925659405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "One of your Communications Officers is positively happy about it @World_Wildlife http://t.co/JSBRcN1qKm",
+            "user id": 2364786337,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@World_Wildlife Sad :'(",
+            "user id": 554516383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @World_Wildlife We mourn WWF friend and supporter Tignous, killed in #CharlieHebdo attack in Paris. #JeSuisCharlie http://t.co/9GPWlT2rvU",
+            "user id": 1677868495,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

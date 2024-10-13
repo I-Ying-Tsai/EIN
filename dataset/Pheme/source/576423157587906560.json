@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "A Ukrainian website shows a cartoon of #Putin lying in a coffin. http://t.co/rymSWYucu6 #PutinDead #WhereIsPutin http://t.co/IiVK36vk5X",
+        "user id": 2406353654,
+        "tweet id": "576423157587906560",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@KeithWalkerNews @JosLubbers @PetervanDijken",
+            "user id": 206819306,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@yrrah_knigo @KeithWalkerNews @PetervanDijken en je tweet is?",
+            "user id": 877739094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@KeithWalkerNews @ErnestFreewill Does the Russian media @RT_com share this sense of humor?",
+            "user id": 213878611,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@JosLubbers @KeithWalkerNews @PetervanDijken En je tweet is... zoals die is nietszeggend dus. Komt wel meer voor op #twitter",
+            "user id": 206819306,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

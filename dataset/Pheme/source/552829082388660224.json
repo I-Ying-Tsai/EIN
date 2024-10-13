@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "Those who seek to end #freespeech w/ violence are moral &amp; intellectual cowards. Its defenders are heroes of the open society. #JeSuisCharlie",
+        "user id": 19915842,
+        "tweet id": "552829082388660224",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@andrewcopson @adirado29 #Isis is a bunch of common criminals who like to murder ppl. &amp; using excuses that only they believe #JeSuisCharlie",
+            "user id": 1667861336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@andrewcopson how long is it before we can start blaming ourselves?",
+            "user id": 77818848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@benthespread may it be forever!",
+            "user id": 19915842,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@andrewcopson @BHAhumanists It continues to mystify me why people don't move in hoards/en masse to atheism.",
+            "user id": 594803496,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@andrewcopson @MikkiL the one to fear is the one who would remove it as if you ever noticed it was gone the EU is such a deviceMP s another",
+            "user id": 2424422474,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": ".@andrewcopson @BHAhumanists Censoring cartoons and satire, caving to pressure from 'islamophobia' propagandists is dangerous.\nJeSuisCharlie",
+            "user id": 2483778600,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@PoliceStateAlba @andrewcopson @BHAhumanists Agree with @LordMcConnell every newspaper in Europe should print the cartoons tomorrow.",
+            "user id": 359584834,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@andrewcopson @BHAhumanists So true.",
+            "user id": 2660821443,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@andrewcopson @PoliceStateAlba well said. But who now will publish Mohammed the mad. It's a death sentence.",
+            "user id": 1554102698,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@andrewcopson agree",
+            "user id": 2768143006,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

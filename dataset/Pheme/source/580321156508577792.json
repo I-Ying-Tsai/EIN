@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Now hearing 148 passengers + crew on board the #A320 that has crashed in southern French Alps. #GermanWings flight. @BBCWorld",
+        "user id": 74264602,
+        "tweet id": "580321156508577792",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@LucyHockingsBBC @bbcnewsjapan @BBCWorld おとといＡ３２０に乗ったばかりだ。",
+            "user id": 118552560,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@LucyHockingsBBC @BBCWorld we are just \"crew\" to you??? Four flight attendants &amp; two pilots all with families &amp; friends. WE COUNT, TOO!",
+            "user id": 22763983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "A Canadian soldier has been shot at the country's National War Memorial near Parliament. http://t.co/5UE8YlRluE http://t.co/wZRSqS5X26",
+        "user id": 15012486,
+        "tweet id": "524941041301225472",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBSNews: A Canadian soldier has been shot  http://t.co/JnTNbBxEyy http://t.co/gMdJnYSGiL” #PSUCOMM260",
+            "user id": 2795002772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CBSNews what a world?surely now is the time to return the death sentence for murder.liberalism a step to far.",
+            "user id": 754701355,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@stevedawson17 @CBSNews if there were a referendum in the uk on the death penalty i for one would vote yes.",
+            "user id": 1305332574,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Our borders are secure? #Liberalism is gonna kill us. #Democrats support #Obama! https://t.co/Nf801dEzC6 @CBSNews #ISIS #BorderCrisis #ebola",
+            "user id": 2208412405,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews @TarekFatah is it true?",
+            "user id": 93349233,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews",
+            "user id": 91857604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews My map app shows tweets from #Ottawa shooting site http://t.co/VlcPC99uBJ … #ParliamentHill",
+            "user id": 11462742,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews cdn soldier confirmed dead. Sad day in Canada.",
+            "user id": 2244285696,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@CBSNews @LauraBoustani dirty bastards,we  need to crush them like cockroaches.",
+            "user id": 1305332574,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@superten67 @CBSNews Hang on. We don't know why and why yet.",
+            "user id": 395335393,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews",
+            "user id": 1885156260,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CBSNews",
+            "user id": 62121453,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Armed Person Takes Hostages At Paris-Area Deli; Police Surround Charlie Hebdo Terrorists http://t.co/K61LgA3Tjc http://t.co/SdQNm8maMD",
+        "user id": 1020058453,
+        "tweet id": "553537740588220416",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews @BuzzFeed",
+            "user id": 308147569,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews @BuzzFeed Antisemitism is alive and well in Europe and Muslims are taking charge in the matter",
+            "user id": 2329758242,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews They are struggling to climb up but helping each other https://t.co/7p1zzv3dkk",
+            "user id": 146606190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews in my opinion we shouldn't have to see things like this and ISIS but we do. Things like this shouldn't be relality.",
+            "user id": 2240152467,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

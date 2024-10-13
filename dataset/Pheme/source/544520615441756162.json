@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "BREAKING: Police says siege at #Sydney cafe is over and hostages have been released. http://t.co/zZoyI7yQT1 http://t.co/mx5elAFybR",
+        "user id": 4970411,
+        "tweet id": "544520615441756162",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AJEnglish: BREAKING: Police says siege at #Sydney cafe is over and hostages released. http://t.co/Z7r9Z6IPYF http://t.co/5K4K7NUJuS”",
+            "user id": 27933437,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AJEnglish I can't watch the video and I'm Australian and was born in Sydney.,",
+            "user id": 2535254532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AJEnglish that’s an odd interpretation.",
+            "user id": 419267042,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@AJEnglish the hostage taker is shia cleric and isis are Sunni #SydneyHostageCrisis #Sydney #illridewithyou",
+            "user id": 259300744,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@addiktted @AJEnglish ISIS are NOT sunni. I'm a Sunni amd they've slaughtered thousands of us",
+            "user id": 2786924315,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AJEnglish tnk God it over now",
+            "user id": 2873429769,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

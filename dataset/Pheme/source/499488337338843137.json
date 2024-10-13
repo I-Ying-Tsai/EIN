@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Is that a bag of chips?! #REAL RT @GinoTheGhost: May be the dopest photo of the year #Ferguson http://t.co/ZxF3zhbjHb",
+        "user id": 50682065,
+        "tweet id": "499488337338843137",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NIGNORAMUS @AnthonyG729 @GinoTheGhost The product placement implications are tremendous.",
+            "user id": 16310953,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NIGNORAMUS @GinoTheGhost that's just outstanding.",
+            "user id": 194722072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@NIGNORAMUS @edsbs @GinoTheGhost Know your enemy https://t.co/zodOMecUXb #RATM",
+            "user id": 235770759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@spicoli9000 @NIGNORAMUS @edsbs @GinoTheGhost RAGE AGAINST THE MACHINE - KNOW YOUR ENEMY -\nDRUM COVER\nhttps://t.co/44wk9tfFgx",
+            "user id": 816349201,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "😂😭\n\n“@NIGNORAMUS: Is that a bag of chips?! #REAL RT @GinoTheGhost: May be the dopest photo of the year #Ferguson http://t.co/TPWN7AgBBc”",
+            "user id": 49125650,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NIGNORAMUS @edsbs @GinoTheGhost it's a bag of combos q",
+            "user id": 21241545,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "RT @NIGNORAMUS: Is that a bag of chips?! #REAL RT @GinoTheGhost: May be the dopest photo of the year #Ferguson http://t.co/2V8dmAGoHV",
+            "user id": 2275519572,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

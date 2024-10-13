@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Ottawa Police report a third shooting at Rideau Centre, no reports of injuries.",
+        "user id": 27917781,
+        "tweet id": "524949443607412737",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@newhot899: Ottawa Police report a third shooting at Rideau Centre, no reports of injuries.” Wtf is happening 😭😭😭",
+            "user id": 43734580,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@newhot899 your news coverage is all over the place and making it sound like there are hundreds of shootings happening. Please be carful.",
+            "user id": 1283365964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@newhot899 \"Ottawa Police report a third shooting at Rideau Centre, no reports of injuries.\" Hoping everyone stays safe &lt;3",
+            "user id": 948996210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@newhot899 near, NEAR the Rideau Centre",
+            "user id": 832312110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

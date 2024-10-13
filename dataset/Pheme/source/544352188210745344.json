@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#StartUps Uber Offers Free Rides During Sydney Hostage Crisis After Surge Pricing… http://t.co/r62oIX7twQ #NewsFeed http://t.co/Q0cULw3Dva",
+        "user id": 129964269,
+        "tweet id": "544352188210745344",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RealTonyRocha How nice! So convenient! Was the motivation sincerity or \"media whoring?\" I need to look into this story.",
+            "user id": 261529036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RealTonyRocha AN ARTIST VIEW. http://t.co/HpckPiXjof #coloraod_art_project_news AN ARCHAIC INDUSTRIAL VIEW #colorado_art_project_news",
+            "user id": 2304047108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

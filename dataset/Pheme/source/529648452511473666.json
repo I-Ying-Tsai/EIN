@@ -1,0 +1,153 @@
+{
+    "source": {
+        "content": "Prince fans lining up at Massey Hall. Wristbands for surprise show reportedly on sale at 6pm.\nhttp://t.co/XDIEmme4QD http://t.co/O0JFvNV6uR",
+        "user id": 12993222,
+        "tweet id": "529648452511473666",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CityNews But I have to work all day! I can't go line up :(((  I always miss out on these things because of stupid work!! #unfair",
+            "user id": 23226549,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@CityNews: Prince fans lining up at Massey Hall Wristbands for surprise show reportedly on sale at 6pm http://t.co/LVAdyO5TEX” @natasha_be",
+            "user id": 26823774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@amyleexo @CityNews I  won't  stand in a line...even for #Prince",
+            "user id": 284308565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@athenaph where you at? RT @CityNews: Prince fans lining up at Massey Hall. Show reportedly on sale at 6pm.\nhttp://t.co/WmBFIw5H8s",
+            "user id": 25996734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "@Beedahsiga I have a seminar tonight that's worth 10% of my grade. Being responsible is the worst! :'(",
+            "user id": 15240920,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CityNews #birthdaygirl #prince  it's my Birthday ohhhh I would love to see my all time fav ❤️❤️❤️please get me in!",
+            "user id": 430880741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@athenaph @Beedahsiga hear that!",
+            "user id": 31143391,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                9
+            ],
+            "content": "@vernlives @athenaph word...   But still just gave me a GREAT IDEA for my 40th #BirthdayParty... An ALL PRINCE PARTY!!!",
+            "user id": 25996734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@vernlives @athenaph everyone would dress in their favorite @3RDEYEGIRL song!  #EpicnessAbound",
+            "user id": 25996734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@Beedahsiga @vernlives Gah! I'm so glad I didn't go line up now :) \nHopefully, the #Prince40th will still be a go!",
+            "user id": 15240920,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

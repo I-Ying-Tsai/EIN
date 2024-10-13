@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Here's that dramatic video via @josh_wingrove of shots fired inside parliament building: https://t.co/1waid25vOE #Ottawa #shooting",
+        "user id": 36730252,
+        "tweet id": "524941132237910016",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@affanchowdhry: Here's that dramatic video via @josh_wingrove of shots fired inside parliament building: https://t.co/RHGVpajcg4",
+            "user id": 1962606451,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@affanchowdhry @josh_wingrove why does this idiot think it's ok to follow the police during a armed man hunt?",
+            "user id": 1546762968,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

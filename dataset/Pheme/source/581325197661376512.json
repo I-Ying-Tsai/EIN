@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "Thoughts and prayers to the families and friends of the passengers of Germanwings Flight 9525. Beyond… https://t.co/f51rHVQ4Er",
+        "user id": 30447805,
+        "tweet id": "581325197661376512",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust follwomeee",
+            "user id": 705370792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust  grantt",
+            "user id": 705370792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust heyy",
+            "user id": 705370792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust plsss",
+            "user id": 705370792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust   I love I will pray before I sleep and when I wake up I will also pray 🙏🙏🙌🙌🙌",
+            "user id": 2949701406,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust  #VoteGrantGustin #KCA 🙌✌💪👏👏👏👏⚡⚡",
+            "user id": 705370792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@geoffjohns I know why this touches you as deeply as it does. Thank you for sharing your past.",
+            "user id": 260115846,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                13
+            ],
+            "content": "@alanlmatthews Thanks, Alan.",
+            "user id": 30447805,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns that must seriously hit home, stay strong brother.",
+            "user id": 39833336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust Keep quiet for a minute.... :(",
+            "user id": 3074108239,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns 🙏😇",
+            "user id": 2562975766,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns @grantgust :(",
+            "user id": 559950550,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@geoffjohns Germanwings A320's crash? http://t.co/yTA3Ed3qyh",
+            "user id": 88238377,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 7,
+            "children": [],
+            "content": "@geoffjohns You bet, Geoff.",
+            "user id": 260115846,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

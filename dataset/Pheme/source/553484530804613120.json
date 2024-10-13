@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Arsene Wenger: \"To think in a country like France you can die for your ideas is absolutely shocking.\" #JeSuisCharlie",
+        "user id": 957528097,
+        "tweet id": "553484530804613120",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@amylawrence71 and for Turkey that is pretty normal :(",
+            "user id": 419434440,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@amylawrence71 This HOW a football manager say on important non football matters... Something good old Harry needs to learn",
+            "user id": 18981792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@amylawrence71 @arseblog it could be better if they killed wenger also",
+            "user id": 2913442732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Abdy1Kagame @amylawrence71 @arseblog That is fucking disgusting. Sort your head out.",
+            "user id": 251063434,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@amylawrence71 #fuckyouterroristcowards",
+            "user id": 35597677,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@amylawrence71 @TrueStorey_No4 Sad to say that people have idly threatened to do the same to him for his lack of them. Today's world is sad.",
+            "user id": 151900432,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

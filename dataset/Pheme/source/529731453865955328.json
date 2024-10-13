@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Jeez, what is it with Toronto and cancellations? First IE, now Prince concerts. Remind me to book next family reunion there.",
+        "user id": 22267255,
+        "tweet id": "529731453865955328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@real_pr_pro the concert was never confirmed in the first place. I hate that I wasted time in line, but the hall is booked for tomorrow too.",
+            "user id": 14701144,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "RCMP saying stay away from windows if you are in downtown Ottawa",
+        "user id": 25516222,
+        "tweet id": "524938009834450945",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@grahamctv: RCMP saying stay away from windows if you are in downtown Ottawa”",
+            "user id": 131629525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@grahamctv Stay safe sir!",
+            "user id": 1551581382,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

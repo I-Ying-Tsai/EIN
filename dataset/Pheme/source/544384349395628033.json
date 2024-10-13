@@ -1,0 +1,131 @@
+{
+    "source": {
+        "content": "Total 5 hostages have left Lindt #MartinPlace; 3 men, 2 women. LIVE: http://t.co/Ni4ouWAGoO. #SydneySiege #9News http://t.co/CKB2uLPHVd",
+        "user id": 22993014,
+        "tweet id": "544384349395628033",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@9NewsAUS @vicki_happy this is very irresponsible journalism-don't these people have any right to privacy?",
+            "user id": 36796138,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@Bad_Cat_ @9NewsAUS when this is resolved Im sure some of them will be telling their story to the media face and all",
+            "user id": 318938422,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS definitely adding that tweet to my @RebelMouse http://t.co/8OoNpkQ7TA",
+            "user id": 221373945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@9NewsAUS Per Twitter, 6 total have now escaped. @MagsNews",
+            "user id": 108556027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@ManchurianDevil @9NewsAUS there were unconfirmed reports during the night so I'm only giving info from main sources at the mo.",
+            "user id": 66357545,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS My heart go for those Asian female Lindt staff hostages who were flee or escaped lately. Pray for those remaining hostages.",
+            "user id": 99986032,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS @BelindaRuss look @ http://t.co/e2z95ttlY3 and put Sydney in as location to see all social media on Sydney siege.",
+            "user id": 2154332281,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@vicki_happy @9NewsAUS yes but then it will be their choice",
+            "user id": 36796138,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [],
+            "content": "@MagsNews I believe Twitter hs reported tht Sydney authorities say report of 6th escapee is unsubstantiated. @9NewsAUS",
+            "user id": 108556027,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

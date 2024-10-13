@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Our ally Saudi Arabia is such an advocate of free speech that it flogged a liberal blogger with the lash for blasphemy today #JeSuisCharlie",
+        "user id": 209176493,
+        "tweet id": "553586246883475456",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Harryslaststand #fuckyouterroristcowards",
+            "user id": 35597677,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@Harryslaststand @moranrisin We should be ashamed of ourselves as a country for having such 'allies'. Absolute disgrace",
+            "user id": 97764463,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@StarSparkle_UK @Harryslaststand @moranrisin Not that surprising, look who we have in charge \"choosing\" our allies! #CapitalismTrumpsAll",
+            "user id": 37222396,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Harryslaststand with \"friends\" like that..",
+            "user id": 921217862,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Harryslaststand and will continue to do so until he has had 1000",
+            "user id": 2225070563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Harryslaststand @onwards62 Harry. You have much to say that is worth listening to.",
+            "user id": 469921511,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Harryslaststand @JITCartney \nTHE MORE WE HERE OF THESE HORROR STORIES THE MORE WE KNOW \"#ISLAM\" HAS GONE MAD !!",
+            "user id": 2774422368,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@MarkWomersley @StarSparkle_UK @Harryslaststand prince Andrew did lots to strengthen UKs relationship when he had his globe trotting role",
+            "user id": 941692219,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

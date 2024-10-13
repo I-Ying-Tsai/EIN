@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "It's worth a 1,000 words: Look at the heartbreaking cartoons mourning #CharlieHebdo attack http://t.co/0EYKs9CSnu http://t.co/aIpGyUQEM8",
+        "user id": 256495314,
+        "tweet id": "553101388926840832",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "the pen is mightier than the sword“@firstpostin: Heartbreaking cartoons mourning #CharlieHebdo http://t.co/yI620AtsJF http://t.co/e5da6wmlHT",
+            "user id": 14972448,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT :( @firstpostin Worth a 1,000 words: Heartbreaking cartoons mourning #CharlieHebdo attack http://t.co/nUfYqmyYDO  http://t.co/YXmuUzHN42",
+            "user id": 124368275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@firstpostin Францию наказали за Рабле и Вольтера...https://t.co/NQvLBDK8jd …",
+            "user id": 391220786,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@firstpostin Leave the #AK alone, hit the person behind it. #CharlieHebdo #JeSuisCharlie",
+            "user id": 1684630610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@firstpostin",
+            "user id": 2755096599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@firstpostin #WAR http://t.co/l0n0oaiR3C",
+            "user id": 84292870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

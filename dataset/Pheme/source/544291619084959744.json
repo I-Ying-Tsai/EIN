@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "BREAKINGNEWS: One of the perpetrators have demanded to speak to President Tony Abbott. Threatens to blow explosives every 30min #sydneysiege",
+        "user id": 423662810,
+        "tweet id": "544291619084959744",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage :'(",
+            "user id": 242096041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@TheAnonMessage thats not true either.... you guys are not the real Anonymous clearly",
+            "user id": 275538252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                14
+            ],
+            "content": "@jdaniel1990 @TheAnonMessage Seeing you live in Australia, has any media say anything about devices being planted around Sydney?",
+            "user id": 1442580457,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage prime minister.",
+            "user id": 57571538,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage *Prime Minister",
+            "user id": 85935745,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage  Where are you hearing that? that hasnt even been reported.",
+            "user id": 56509416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage @AkaMikko fucking go n kick their baws.",
+            "user id": 555532124,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage Source?",
+            "user id": 1442580457,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage \nHave trains been cancelled in Sydney as a result",
+            "user id": 66963308,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage Ummm. that would be Prime Minister Tony Abbott not President....JS",
+            "user id": 303328043,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage I am listening 2 a direct news feed (internal) &amp; this is not confirmed as yet. Cafe is in Martin Place not near opera house.",
+            "user id": 29891281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage The Opera House was evacuated as a normal precaution as per operational plan.",
+            "user id": 29891281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage @ParableJean he isnt a bloody president! he is a Prime Minister!",
+            "user id": 380058173,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage prime minister not president.",
+            "user id": 7838552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 2,
+            "children": [],
+            "content": "@YungTrillLord @TheAnonMessage typical untrue media reports who are just trying to get viewers no official reports from official sources",
+            "user id": 275538252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

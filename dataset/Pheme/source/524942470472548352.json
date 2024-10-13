@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The University of Ottawa, just a five minute walk from the Hill, is now on lockdown.",
+        "user id": 19881665,
+        "tweet id": "524942470472548352",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ldobsonhughes @HuffPostCanada God Bless Heather !!",
+            "user id": 385009428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "My Alma Mater. God. RT @ldobsonhughes: The University of Ottawa, just a five minute walk from the Hill, is now on lockdown.",
+            "user id": 19922927,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ldobsonhughes @InklessPW is 2 km from nasty parliament not 2 minute only  chita to can run 120 km an hours",
+            "user id": 2814031933,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

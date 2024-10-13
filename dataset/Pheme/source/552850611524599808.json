@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Cartoon by @davpope sums up today's grim events #JeSuisCharlie http://t.co/nISvINjndM",
+        "user id": 513159493,
+        "tweet id": "552850611524599808",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@metrokenny @davpope #JeSuisCharlie",
+            "user id": 2570546452,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

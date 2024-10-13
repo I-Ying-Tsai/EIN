@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "No Prince concert at Toronto's Massey Hall. DEVELOPING STORY: http://t.co/63l6scicxF",
+        "user id": 17659340,
+        "tweet id": "529725730603925505",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVToronto oh all those ppl in that line r going to be pissed! hahahaha",
+            "user id": 23019023,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVToronto: No Prince concert at Toronto's Massey Hall. DEVELOPING STORY: http://t.co/Nm2E9wsJSx” So glad I didn't stand in the rain.",
+            "user id": 20787283,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVToronto \nHa a prince  among  thieves",
+            "user id": 283289087,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVToronto It's legendary theatre director HAL Prince performing a monologue tonight.  Get there early.",
+            "user id": 2264940392,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVToronto  What did you expect from a \"Stuck Up-Little Hobbit Fuck Like Princess?\"",
+            "user id": 2686207134,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

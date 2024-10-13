@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "RED ALERT: #Israel’s former ambassador to #Russia: ‘There are signs of a coup’~ http://t.co/t2BqHTfPmy #wearethepeople #tcot",
+        "user id": 2307296534,
+        "tweet id": "577269846259433472",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JulieSheats lets see, now who would that be beneficial to!",
+            "user id": 2883535527,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JulieSheats #ICC4Israel",
+            "user id": 236905553,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

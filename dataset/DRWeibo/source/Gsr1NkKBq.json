@@ -1,0 +1,676 @@
+{
+    "source": {
+        "content": "来自@好奇心日报  的一份数据，各品类热销商品前五款产品在拼多多、淘宝天猫、京东三大平台上的均价。36.5 元的手机可以理解为那种老人机，那 5.5 的口红怕不是蜡笔吧 ",
+        "time": "18-7-31 09:08",
+        "user id": "1726544024",
+        "tweet id": "Gsr1NkKBq",
+        "label": 0,
+        "theme": "财经商业"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                4,
+                5,
+                6,
+                7
+            ],
+            "user id": "3972304690",
+            "user name": "Black-Monarch",
+            "content": "36.5是平均价！看清楚是均价，说明还有更低的，是不是都是小孩玩的玩具啊😯，再说了，京东的手机均价4000+，这数据假了吧，娱乐数据！",
+            "time": "18-7-31 09:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "1951628645",
+            "user name": "鲁西瓜_",
+            "content": "苹果占三位就可以四千了",
+            "time": "18-7-31 10:12",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "3972304690",
+            "user name": "Black-Monarch",
+            "content": "回复 @轩邈_Aries:贫穷限制了我的视力",
+            "time": "18-7-31 09:22",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [],
+            "user id": "1183355154",
+            "user name": "蜉蝣逸藍",
+            "content": "刚刚没事去京东看了下，算了下前五的均价确实4000+",
+            "time": "18-7-31 09:21",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "user id": "3972304690",
+            "user name": "Black-Monarch",
+            "content": "回复 @无惑前行:是的，没看清，谢谢提醒",
+            "time": "18-7-31 09:19",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "user id": "3972304690",
+            "user name": "Black-Monarch",
+            "content": "回复 @轩邈_Aries:哦，谢谢提醒，没看清",
+            "time": "18-7-31 09:19",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "user id": "5334667297",
+            "user name": "无惑前行",
+            "content": "热销前五的均价",
+            "time": "18-7-31 09:18",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "user id": "1183355154",
+            "user name": "蜉蝣逸藍",
+            "content": "写的是热销前五的均价，如果京东热销前五的都是高端机那也是可能的",
+            "time": "18-7-31 09:18",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                11,
+                12
+            ],
+            "user id": "2526998093",
+            "user name": "梧桐色暖",
+            "content": "这数据也太假了吧，京东手机销量前五均价4439？？？？？？",
+            "time": "18-7-31 09:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "2526998093",
+            "user name": "梧桐色暖",
+            "content": "你确定？排在第六的是Find X？这是销量？",
+            "time": "18-7-31 13:49",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [],
+            "user id": "1677742802",
+            "user name": "我要去银河了",
+            "content": "就是销量最高啊。。。",
+            "time": "18-7-31 12:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "2526998093",
+            "user name": "梧桐色暖",
+            "content": "京东所谓的热销并不是销量高，而是热度高…………",
+            "time": "18-7-31 10:50",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [],
+            "user id": "2083144191",
+            "user name": "_许愿你快乐彡",
+            "content": "哈哈哈，还真的是，京东上卖的最好的就是苹果。 查看图片",
+            "time": "18-7-31 10:23",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "3169783885",
+            "user name": "苦味凉白开",
+            "content": "手机36.5，很秀~~",
+            "time": "18-7-31 09:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "5625486390",
+            "user name": "想要艺术自由",
+            "content": "5.5是那种口红形状的糖吧",
+            "time": "18-7-31 10:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16,
+                18,
+                19
+            ],
+            "user id": "1906511417",
+            "user name": "黄泉路九号",
+            "content": "@我和月亮不熟 拼多多，5块5的蜡笔口红",
+            "time": "18-7-31 09:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "1906511417",
+            "user name": "黄泉路九号",
+            "content": "不是十三亿人都在用的假货平台么，那三个亿的可能是明星",
+            "time": "18-7-31 10:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": 18,
+            "children": [],
+            "user id": "5077550622",
+            "user name": "多多的多是许多的多",
+            "content": "三亿人都在用的假货平台",
+            "time": "18-7-31 10:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 15,
+            "children": [
+                17
+            ],
+            "user id": "1906511417",
+            "user name": "黄泉路九号",
+            "content": "可能有五分钱的口红，还是爆款，三亿明星都在用的那种",
+            "time": "18-7-31 09:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": 15,
+            "children": [],
+            "user id": "5077550622",
+            "user name": "多多的多是许多的多",
+            "content": "哈哈哈5块5还是均价，哈哈哈哈哈",
+            "time": "18-7-31 09:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "1976483371",
+            "user name": "我始终满怀希望",
+            "content": "尾巴买个36.5的手机测评一下",
+            "time": "18-7-31 09:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                22
+            ],
+            "user id": "3167498847",
+            "user name": "小飞机在搞什么飞机",
+            "content": "又不是不能用",
+            "time": "18-7-31 09:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "3167498847",
+            "user name": "小飞机在搞什么飞机",
+            "content": "忘加了",
+            "time": "18-7-31 09:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "2828176391",
+            "user name": "hello小赖",
+            "content": "我信了你的邪",
+            "time": "18-7-31 09:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "2300583853",
+            "user name": "牛哞哞在大草原",
+            "content": "信京东",
+            "time": "18-7-31 11:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "2309076517",
+            "user name": "博库小书虫",
+            "content": "读评论，探真相。",
+            "time": "18-7-31 10:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "1677029662",
+            "user name": "bryansg",
+            "content": "所以京东的客户价值更高啊，对京东是好事吧？大部分都是高端客户",
+            "time": "18-7-31 10:12",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "1627080102",
+            "user name": "不赖君",
+            "content": "穷到什么地步才敢豁出去用",
+            "time": "18-7-31 10:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "1969588067",
+            "user name": "lle想状态",
+            "content": "意思是淘宝的被单",
+            "time": "18-7-31 09:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "3203938234",
+            "user name": "苏弗拉格",
+            "content": "@玦徵的吃饭日常",
+            "time": "18-7-31 09:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "2674350523",
+            "user name": "林泉生",
+            "content": "阿里巴巴了解一下",
+            "time": "18-7-31 09:52",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "1140800753",
+            "user name": "DharmaZhang",
+            "content": "看完数据之后，购买3C产品我更加坚定地选择京东！",
+            "time": "18-7-31 09:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "5589471188",
+            "user name": "FISHhua",
+            "content": "儿童玩具手机",
+            "time": "18-7-31 09:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "1790106377",
+            "user name": "梦殇1993",
+            "content": "就这样京东还年年亏损",
+            "time": "18-7-31 09:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "2106884860",
+            "user name": "老胡Hoon",
+            "content": "“京东的东西真贵”",
+            "time": "18-7-31 09:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "1400005123",
+            "user name": "zh0u1ian",
+            "content": "看价格也就京东靠谱",
+            "time": "18-7-31 09:17",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "1637334225",
+            "user name": "C_仮",
+            "content": "证明芒果水还浅",
+            "time": "18-7-31 09:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "1953894605",
+            "user name": "山城啃老族",
+            "content": "这几年可以看出，哪种产品水分多，拼多多除外",
+            "time": "18-7-31 09:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "5720910460",
+            "user name": "电阻要闪闪发光了",
+            "content": "哈哈哈蜡笔。",
+            "time": "18-7-31 09:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "3032921452",
+            "user name": "高玄Ground",
+            "content": "…",
+            "time": "18-7-31 18:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "3767180543",
+            "user name": "B_oron",
+            "content": "哇，，5.5给我来一打。",
+            "time": "18-7-31 13:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "5659455095",
+            "user name": "不明身份的武林萌丷",
+            "content": "@茜茜茜茜茜茜瓜呀zzz",
+            "time": "18-7-31 12:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "3719826597",
+            "user name": "一二三-limit",
+            "content": "拼夕夕可真亲民",
+            "time": "18-7-31 09:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [
+                44,
+                45
+            ],
+            "user id": "2033365743",
+            "user name": "XeonHeart",
+            "content": "@ShinyZoe ",
+            "time": "18-7-31 09:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": 43,
+            "children": [],
+            "user id": "3887323187",
+            "user name": "钢铁芋头侠",
+            "content": "5.5的口红是什么鬼........",
+            "time": "18-7-31 09:36",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 45,
+            "parent": 43,
+            "children": [],
+            "user id": "2033365743",
+            "user name": "XeonHeart",
+            "content": "",
+            "time": "18-7-31 10:02",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "user id": "1900284585",
+            "user name": "林世文-_7",
+            "content": "36.5能买到手机？",
+            "time": "18-7-31 09:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [],
+            "user id": "3199252153",
+            "user name": "MMOntage",
+            "content": "@blueberry-biubiubiu",
+            "time": "18-7-31 09:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "user id": "1716659610",
+            "user name": "jj_lao",
+            "content": "没有电视机？",
+            "time": "18-7-31 09:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "user id": "2554663147",
+            "user name": "五档路飞",
+            "content": "拼夕夕都有人信 真的服。",
+            "time": "18-7-31 09:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "user id": "1785403502",
+            "user name": "黄-弟",
+            "content": "手机36.5？",
+            "time": "18-7-31 09:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [],
+            "user id": "6592295869",
+            "user name": "大奈特曼",
+            "content": "低中高",
+            "time": "18-7-31 09:21",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 22,
+            "state_1": 12
+        },
+        "2-hop": {
+            "state_0": 11,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

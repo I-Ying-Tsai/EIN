@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "谁的朋友圈多，麻烦帮转发！ 我校需要小孩的衣服，新旧不限 。如果您周围有四到十岁孩子的旧衣服和鞋子，洗干净就可以。这个岁数的孩子缺衣服。 地址：甘孜藏族自治州石渠县西区长沙贡马乡小学， 邮编：627350，校长：达洼18923491809。请转贴 ，也许您的几下简单复制能给孩子们一个温暖、幸福的冬天。",
+        "user id": 1110444173,
+        "tweet id": "3625811233733342",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "这是个诈骗号码 我转了 但朋友刚刚给我说的 删除吧",
+            "user id": 1068394640,
+            "user name": "罗浩",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "转，这个忙应该很多人都能帮。",
+            "user id": 1774924203,
+            "user name": "活起为了啥子嘛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "这个是假的，注意啦[怒]",
+            "user id": 2885436002,
+            "user name": "风和日丽2995",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "骗纸啊，这个电话号是深圳的。这个骗局在网上流传多年了，吸费电话。话费多得没处用的可试打一下这个电话就知@微博小秘书",
+            "user id": 1409611860,
+            "user name": "江南木番",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "已删。@哈雷外贸2012",
+            "user id": 2266121480,
+            "user name": "西北政法江展",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "转一个。",
+            "user id": 1887619071,
+            "user name": "COCO公主妈咪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[心]",
+            "user id": 1621280673,
+            "user name": "白羊座爱小葱",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "help them plz thx",
+            "user id": 1966951091,
+            "user name": "米奇找米妮",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

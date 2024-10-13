@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "#江苏盐城化工厂爆炸#  哎 ！发完这条我睡觉了，不和渣浪员工一起加班了 ，无奈！ ",
+        "time": "19-3-21 22:10",
+        "user id": "3286250192",
+        "tweet id": "HlZgteUFv",
+        "label": 1,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5233482372",
+            "user name": "那也还",
+            "content": "视频全看不了。。厉害了",
+            "time": "19-3-21 22:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2689848103",
+            "user name": "玩具哇哇",
+            "content": "你微博也没有",
+            "time": "19-3-21 23:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "1836335557",
+            "user name": "floradlj",
+            "content": "炸成这样。才说死6个。鬼信啊。太惨了",
+            "time": "19-3-21 22:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "6049806396",
+            "user name": "曼森何在",
+            "content": "文字游戏，已确认6人，外围的，里面那些不确认所以不算，那么大的爆炸，估计找不到了，最后算失踪",
+            "time": "19-3-21 23:03",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "1836335557",
+            "user name": "floradlj",
+            "content": "反正不指望能听到真实情况了。现在只敢报道救出来多少人。",
+            "time": "19-3-21 23:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "3980426891",
+            "user name": "Sahara蜀黍",
+            "content": "没办法，渣浪也是要吃饭的，乱搞得罪了大人物也是要倒台的",
+            "time": "19-3-21 22:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "3316877767",
+            "user name": "我是薛同学",
+            "content": "图片评论 ",
+            "time": "19-3-21 22:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5480122877",
+            "user name": "Ma小啥",
+            "content": "爆炸冲击波太强了",
+            "time": "19-3-21 22:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1654981343",
+            "user name": "离星心哩",
+            "content": "心酸",
+            "time": "19-3-21 22:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1805169050",
+            "user name": "情诗骗吻",
+            "content": "真实",
+            "time": "19-3-21 22:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "1883627797",
+            "user name": "Min农夫山泉",
+            "content": "唉。。。。。。",
+            "time": "19-3-21 22:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "1851370052",
+            "user name": "回归海广",
+            "content": "转发微博",
+            "time": "19-3-21 22:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "2160715591",
+            "user name": "香水精选",
+            "content": "不怕不怕",
+            "time": "19-3-21 23:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "5459923943",
+            "user name": "范林云",
+            "content": "@乐小天",
+            "time": "19-3-21 22:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

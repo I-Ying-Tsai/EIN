@@ -1,0 +1,136 @@
+{
+    "source": {
+        "content": "A crowd gathered in Toulouse for the national moment of silence for the #CharlieHebdo victims http://t.co/2AcfAIiVMR http://t.co/QrMRIxpA5N",
+        "user id": 1877831,
+        "tweet id": "553208300607922177",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "How many deaths? MT @nytimesworld A crowd gathered in Toulouse for the national moment of silence for the #CharlieHebdo victims",
+            "user id": 11203972,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@nytimesworld I am with them in spirit. The Charlie Hebdo satirical cartoons should be published worldwide in support of those who died.",
+            "user id": 57070379,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@BDDusbiber @nytimesworld Better yet, subscribe to the paper, don't use it for personal political cause.",
+            "user id": 279788564,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6
+            ],
+            "content": "A moment of silence is the last thing we need. MT @nytimesworld A crowd gathered in Toulouse for the national moment of silence",
+            "user id": 149913262,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "I don't know, it's pretty quiet on the range when the tower calls Make Ready...\n@iowahawkblog @nytimesworld",
+            "user id": 506958753,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@iowahawkblog @nytimesworld THE avg French (or European, American, Canadian, Australian) has been SILENT TOO LONG\n#JeSuisCharlie",
+            "user id": 22096507,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "RT: @iowahawkblog: A moment of silence is the last thing we need.\nMT: @nytimesworld Crowd gathered in Toulouse for moment of silence",
+            "user id": 9748652,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimesworld @nytimes How many susbcribed to CharlieHebdo?",
+            "user id": 279788564,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimesworld @nytimes moments of silence are overrated.  Time to start making some noise!",
+            "user id": 2484313128,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimesworld @DanielBeerthuis Sensless killings...",
+            "user id": 737304938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 4
+        }
+    }
+}

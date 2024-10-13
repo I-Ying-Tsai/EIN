@@ -1,0 +1,206 @@
+{
+    "source": {
+        "content": "A picture that sums up #islam. #CharlieHebdo http://t.co/hx7uzbIEXM",
+        "user id": 282670739,
+        "tweet id": "552833393734721537",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@redbrasco \nwho told you that.!",
+            "user id": 233163169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                9
+            ],
+            "content": "#Islamic genocide against #Kurds #Christians #Jews #Hindus and everyone @HDarai that doesn`t support their death cult.",
+            "user id": 282670739,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@redbrasco Even the picture shows it's down to the individual rather than the Muslims and Islam as a whole.",
+            "user id": 2304958693,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@redbrasco dont u know what is islam?then just keep silence!!",
+            "user id": 222823093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@redbrasco in any way islam not supporting these massacre.... Those who active in thesee.terrorism they all are get out from islam",
+            "user id": 222823093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@redbrasco",
+            "user id": 450152790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@redbrasco brother,skeleton with caption muslim missing...who are being killed most...by these self preached morons",
+            "user id": 547500173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "「イスラムは平和の宗教だ。見えるか？誰も言い返さないだろ！」\n\n“@redbrasco: A picture that sums up #islam. #CharlieHebdo http://t.co/9h0ytZ8rDK”",
+            "user id": 103459010,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@redbrasco An unfortunate expression of the idea that hate conquers hate.",
+            "user id": 27335180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@redbrasco \nwhat can I say .. you're proud zionist so you probably hate Islam \nI'm I right ?",
+            "user id": 233163169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "I hate &amp; oppose @HDarai any creed, concept or oeganization that preaches hate &amp; gloriifies the murder of innocent men, women &amp; children.",
+            "user id": 282670739,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@redbrasco \nme too \nalso I'm a Muslim",
+            "user id": 233163169,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "content": "@HDarai @redbrasco \nDo you condemn the murder of journalists in Paris??",
+            "user id": 95999697,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@jacques17949 @redbrasco  \nof course I condemn it \nthey're innocents",
+            "user id": 233163169,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

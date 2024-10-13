@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "JUST IN: Officials report suspects in Charlie Hebdo massacre are dead, hostages freed http://t.co/2PckWLdDMv",
+        "user id": 24138795,
+        "tweet id": "553589880245481472",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @MichaelSkolnik @GlobalGrind Good News",
+            "user id": 965435300,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalGrindNews @UncleRUSH @GlobalGrind there not suspects there murdering scum just wanted to clear that up",
+            "user id": 2780988299,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

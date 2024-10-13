@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "#Ottawa Police say they are dealing with multiple suspects. Cannot confirm whether both/all have guns. Ottawa still pretty much locked down",
+        "user id": 15966995,
+        "tweet id": "524943063937208320",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@l_stone @globalhalifax \"dealing with\"... has anyone else been apprehended yet?",
+            "user id": 42608312,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

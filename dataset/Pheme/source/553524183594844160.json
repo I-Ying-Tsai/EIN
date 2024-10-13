@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": ".@fpleitgenCNN is by a school on lockdown where students echo #JeSuisCharlie sentiment.  http://t.co/Xk46LBlGuT",
+        "user id": 1375289149,
+        "tweet id": "553524183594844160",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NewDay @CNN @fpleitgenCNN they will die as terrorists, not martyrs.",
+            "user id": 343739052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@NewDay: .@fpleitgenCNN is by a school on lockdown where students echo #JeSuisCharlie sentiment.  http://t.co/dvkY72y786”",
+            "user id": 395175296,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@NewDay: .@fpleitgenCNN is by a school on lockdown where students echo #JeSuisCharlie sentiment.  http://t.co/W4CDtzjIrG",
+            "user id": 23153001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NewDay @fpleitgenCNN In this picture @ChrisCuomo resembles his governing brother.",
+            "user id": 24061179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "Tonight's game between Maple Leafs &amp; Senators has been postponed after shootings in Ottawa this morning. » http://t.co/OXpRxAjwCE",
+        "user id": 26257166,
+        "tweet id": "524979133366165504",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SportsCenter Bruh😳",
+            "user id": 570403360,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SportsCenter @marcHall_",
+            "user id": 116494427,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@jGrinz @SportsCenter wow now I'm fucking pissed off",
+            "user id": 80949113,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SportsCenter people actually shoot eachother in Canada? #GodDammitDrake",
+            "user id": 288090698,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SportsCenter Swift justice for all of the bastards that had anything to do with this senseless killing in Ottawa.  No OJ or Oscar justice!",
+            "user id": 262800712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SportsCenter Shootings so rare... Hockey Postponed in CANADA?! The states would just detour the traffic! #bemorelikecanada\n@ThatKevinSmith",
+            "user id": 905004361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@SportsCenter canada is getting violent 😳",
+            "user id": 76179981,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@Haydar_runs @SportsCenter every place on the earth is violent",
+            "user id": 1576713049,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@SportsCenter: Tonight's game between Maple Leafs &amp; Senators has been postponed after shootings in Ottawa. » http://t.co/Cl5uKUKdlo”",
+            "user id": 1241637750,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [],
+            "content": "@marcHall_ @SportsCenter figured I'd tag ya",
+            "user id": 116494427,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

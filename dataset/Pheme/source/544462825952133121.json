@@ -1,0 +1,155 @@
+{
+    "source": {
+        "content": "The moment when one of the Sydney hostages ran out of the cafe. #sydneysiege http://t.co/v8J5eYn06p",
+        "user id": 7744592,
+        "tweet id": "544462825952133121",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @TODAYshow: The moment when one of the Sydney hostages ran out of the cafe. #sydneysiege http://t.co/mMq5PJ79YW",
+            "user id": 15922161,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow  I am boycotting NBC because of racist Al Sharpton, he should not have show on msnbc",
+            "user id": 885350581,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow this is terrible everyone please keep the hostages and their families in your prayers",
+            "user id": 2517215350,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow is this Anna's friend @niallftmia",
+            "user id": 1869974545,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow @newsytweets How well the police handled the poor woman! Brought tears to my eyes.",
+            "user id": 1309728793,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow @riorebel #what a day for this lady#",
+            "user id": 2425271121,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow WOW",
+            "user id": 2705783352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "“@TODAYshow: The moment when one of the Sydney hostages ran out of the cafe. #sydneysiege http://t.co/TvqTjCOwAR” 😪💞",
+            "user id": 374262455,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "content": "@MitaTalei she made me cry, I wanted to hug her.",
+            "user id": 371660355,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@Paayonce same. Like , I can't even imagine what she's been through and just seeing her run out like that brings me happiness !! 💞",
+            "user id": 374262455,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@MitaTalei Yes, its terrifying. Something we never thought that we'll wake up too.",
+            "user id": 371660355,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Stand down of riot cops in #Ferguson sends a powerful message - de-militarize police departments across America NOW. #HandsUpDontShoot",
+        "user id": 18643437,
+        "tweet id": "500224586064343040",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet The police should respect to the people and protesters last night and return got respect back. First step in rebuilding.",
+            "user id": 94821790,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet I think that de-militarization and new legislation on the congressional level is going to be the positive we get out of this",
+            "user id": 2728649010,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet Now they all see &amp; understand...ALL of IT is MINDoverMATTER..\nWe Will Be Free...\nFor That Is The Only Way We All Survive",
+            "user id": 2719063284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet @MoralOutrage1 Yes, that they are finally listening to good advice..",
+            "user id": 340514531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "#HandsUpDontShoot Nonesense Paul try a DIFFERENT APPROACH #USA @PrisonPlanet #TryShootYourDEAD ;) @CourtPaperRadio",
+            "user id": 250365695,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@censorednewsnow @PrisonPlanet @CourtPaperRadio #JusticeServed #MikeBrown got what he had coming cop or not he was going to get it someday..",
+            "user id": 604243082,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet @Scriptonite Police are the arbiters of the law Not suppressors #globalmagnacarta",
+            "user id": 1668371516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

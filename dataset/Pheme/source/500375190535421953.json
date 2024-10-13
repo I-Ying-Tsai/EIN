@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "If anyone's looking for a reason to murder me execution-style in the street, I stole a coke from a Walmart when I was 19. #Ferguson",
+        "user id": 370310957,
+        "tweet id": "500375190535421953",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BrennanLM Yeah. I stole a pack of gum when I was 14. Bet everybody has, once. Guess that means we should all be shot like animals. Damn.",
+            "user id": 67665407,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@BrennanLM @MaraWritesStuff how many people did you have to assault batter and intimidate to get that coke?",
+            "user id": 16962409,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@shawnzrowland @BrennanLM @MaraWritesStuff It wouldn't matter if he'd assaulted or battered every single person in the Walmart...",
+            "user id": 89338659,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BrennanLM @JC_Christian I stole pantyhose from Kmart when I was 16.",
+            "user id": 51317263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BrennanLM @devincf are you tempted to replace it now?",
+            "user id": 142963564,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BrennanLM @michaelterry337 MY son is 43. Had he'd been black, he would have been gunned down by police numerous times.  He FINALLY grew up!",
+            "user id": 45137729,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

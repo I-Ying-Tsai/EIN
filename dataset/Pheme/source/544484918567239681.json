@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "North East doesn't get reported because it's far off from main cities, editors argue. Guess Sydney is closer to India than Imphal.",
+        "user id": 14316371,
+        "tweet id": "544484918567239681",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@shubHASHISH arre..there was dhokla &amp; khakra na in Sydney, no such in NE",
+            "user id": 55814899,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@shubHASHISH @Kaalateetham WHERE THE HONEY IS, THERE THE BEES WILL BE",
+            "user id": 136635546,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@suryakanthreddy @shubHASHISH so true",
+            "user id": 68636682,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@shubHASHISH @cvoter ye sab sasure ek chiz ko din me 25 baar dikhayege par NE ka ku6o nai sasura  TRP  nao milti na!!!",
+            "user id": 2798394505,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@shubHASHISH @cvoter bz Indian MSM have slave mentality &amp; feel more white than white.",
+            "user id": 556553062,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@shubHASHISH @TandooriCutlet ekdm sahi bola",
+            "user id": 1275398744,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Still nothing.",
+            "user id": 14316371,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@shubHASHISH its not far off whem top political leaders address gatherings!",
+            "user id": 91820921,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

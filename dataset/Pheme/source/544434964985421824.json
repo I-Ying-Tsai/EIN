@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "don't go around saying all muslims are terrorists and blaming us for what had happened in sydney bcs real muslims don't kill",
+        "user id": 570641816,
+        "tweet id": "544434964985421824",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@crimeszjm right http://t.co/OC6Ji1U31f",
+            "user id": 789398972,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@crimeszjm: don't go around saying all muslims are terrorists and blaming us for what had happened in sydney bcs real muslims don't kill”",
+            "user id": 2803962196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@crimeszjm Only applies when they are in minority",
+            "user id": 61729718,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

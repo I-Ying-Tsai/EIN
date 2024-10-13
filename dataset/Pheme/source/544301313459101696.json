@@ -1,0 +1,111 @@
+{
+    "source": {
+        "content": "We are calling on all to #PrayForHostages &amp; that Australia will not be hostage to fear &amp; hate.  #sydneysiege http://t.co/qAzNfZIUWA",
+        "user id": 2748882114,
+        "tweet id": "544301313459101696",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CommonGraceAus pray for the hostage takers also. Pray for humanity. Pray for calm. Pray this ends peacefully.",
+            "user id": 8873562,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@CommonGraceAus @jcalabra Its prayer and religious hogswollop got us to this point #banreligion",
+            "user id": 599715797,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@bamboozled3 @CommonGraceAus \nmeanwhile Tony is salivating.\nBring on the race riots...",
+            "user id": 270763468,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@bamboozled3 @CommonGraceAus  then bring in the laws to stop dissension, &amp; our privacy  &amp; Bob's your uncle. Brandis is king",
+            "user id": 270763468,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@CommonGraceAus: We are calling on all to #PrayForHostages &amp; that e.  #sydneysiege http://t.co/KaQTpsybMM”",
+            "user id": 1310344602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CommonGraceAus @IndigenousX God is the problem",
+            "user id": 168424708,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CommonGraceAus @IndigenousX yeah, what we need is more religion. #not",
+            "user id": 336493789,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CommonGraceAus as an atheist, I won't, but you are welcome to",
+            "user id": 37588212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

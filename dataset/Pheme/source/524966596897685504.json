@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Stunning photos from Ottawa http://t.co/xQTgZ88Sg9 http://t.co/BDHFFaLa9l",
+        "user id": 289998339,
+        "tweet id": "524966596897685504",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada",
+            "user id": 2655230094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada  so sorry they now have \"workplace violence\" like us!!",
+            "user id": 2675581850,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada this is absolute madness. What's going on in my country I fought so hard for.",
+            "user id": 2798941629,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@HuffPostCanada: Stunning photos from Ottawa http://t.co/cVCSlI1aRi http://t.co/TMy6iA2mDc” This is where the shooter was killed.",
+            "user id": 37822797,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Shooting War Memorial Parliament #Ottawa #OttawaShooting \nOne #gunman dead\nRT @HuffPostCanada http://t.co/SDahBvGv9z http://t.co/2VcVNyoRk8",
+            "user id": 562264738,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada @MiddleAmericaMS I can see no gain of knowledge from these pictures. None.",
+            "user id": 37398020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        }
+    }
+}

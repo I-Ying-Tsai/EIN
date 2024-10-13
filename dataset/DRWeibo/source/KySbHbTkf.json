@@ -1,0 +1,197 @@
+{
+    "source": {
+        "content": "麻烦@广州交警 @广东台触电新闻 @人民日报评论 @环球时报 辟谣，是不是真实出现这样的违法执法的情况 ",
+        "time": "21-9-19 12:16",
+        "user id": "3603568645",
+        "tweet id": "KySbHbTkf",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                4,
+                5,
+                6
+            ],
+            "user id": "3603568645",
+            "user name": "欧阳律师助理",
+            "content": "电瓶车司机的命也是命",
+            "time": "21-9-19 12:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "6543960474",
+            "user name": "结结巴巴哈哈",
+            "content": "辟谣都出来了，律师要有律师的职业操守吧！",
+            "time": "21-9-21 12:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "3943816320",
+            "user name": "Killer-Aoki",
+            "content": "9.19 19.20分广州天河公安发的，你去搜一下",
+            "time": "21-9-21 10:16",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [
+                2
+            ],
+            "user id": "3603568645",
+            "user name": "欧阳律师助理",
+            "content": "麻烦转发一下，你说的是强行冲卡被抓到派出所，不是图中这一起",
+            "time": "21-9-20 13:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "user id": "3943816320",
+            "user name": "Killer-Aoki",
+            "content": "天河交警出通告了",
+            "time": "21-9-20 12:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "user id": "3943816320",
+            "user name": "Killer-Aoki",
+            "content": "人没事",
+            "time": "21-9-20 12:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "user id": "3943816320",
+            "user name": "Killer-Aoki",
+            "content": "这个是真的，昨天的事",
+            "time": "21-9-19 14:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "1415469013",
+            "user name": "iweapons",
+            "content": "中国人真冷静。//@二郎神再二也是神4世: 等待辟谣//@欧阳律师助理:电瓶车司机的命也是命",
+            "time": "21-9-19 19:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "2954917090",
+            "user name": "Aliviada",
+            "content": "肯定冷静呀！辟谣出来了，看看冷静有问题嘛？",
+            "time": "21-9-19 21:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "2954917090",
+            "user name": "Aliviada",
+            "content": "辟谣了，麻烦把辟谣也转发下吧",
+            "time": "21-9-19 21:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "3283049394",
+            "user name": "laozhe1973",
+            "content": "律师来活了，好兴奋",
+            "time": "21-9-19 23:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "7481539164",
+            "user name": "sla_mina",
+            "content": "看视频最后应该是死了",
+            "time": "21-9-20 02:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "2346756317",
+            "user name": "Flying老宋",
+            "content": "一转没",
+            "time": "21-9-19 16:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

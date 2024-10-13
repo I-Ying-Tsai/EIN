@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "Prince Reportedly Pulls Out of Secret Toronto Show Because He 'Just Wasn't Feeling It'  http://t.co/u5sIB1kFG6 via @wonderingsound",
+        "user id": 526528241,
+        "tweet id": "529763844176896000",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraSavoy @Lshah11Shah @wonderingsound I hope this isn't true",
+            "user id": 2264466299,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SaraSavoy @Lshah11Shah @wonderingsound thats a complete disgrace",
+            "user id": 146617680,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@blue4life_ @SaraSavoy @wonderingsound ....could be just a rumour! Not confirmed that it was really just that!",
+            "user id": 2301504429,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraSavoy @kinsellawarren @wonderingsound Well if it was him &amp; his pr that started the rumor, he better 'start feelingit' or fans be pissed",
+            "user id": 31946780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@SaraSavoy: Prince  Pulls Out of Secret Toronto Show Because He 'Just Wasn't Feeling It'  http://t.co/9ZdBdd0GeO via ”#princeTOrumours",
+            "user id": 23857263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@SaraSavoy @kinsellawarren @wonderingsound Who would want to go to a Prince show when he wasn't feeling it? It's called quality control.",
+            "user id": 242394241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@darrellbricker @SaraSavoy @wonderingsound The Artist Formerly Somewhat Interesting But Not To Me.",
+            "user id": 16106522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@SaraSavoy @kinsellawarren @wonderingsound Why do some think this was just a power trip? Just manipulation? Not funny!",
+            "user id": 22199699,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                11
+            ],
+            "content": "@LittleTrudy @kinsellawarren @wonderingsound He is an artist.  He only performs if he feels inspired.",
+            "user id": 526528241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraSavoy @RossMcleanSec @wonderingsound never was a show",
+            "user id": 2437473804,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@Lshah11Shah @SaraSavoy @wonderingsound he deleted original tweet and has since said nothing leaving peeps for hours cold and wet.",
+            "user id": 146617680,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@SaraSavoy @LittleTrudy @kinsellawarren @wonderingsound poor little flower",
+            "user id": 22199699,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "@blue4life_ @SaraSavoy @wonderingsound ....I'm still in hope that either the gig carries on or an announcement will say something x",
+            "user id": 2301504429,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@Lshah11Shah @SaraSavoy @wonderingsound at least say something",
+            "user id": 146617680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

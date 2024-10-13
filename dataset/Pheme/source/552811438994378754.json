@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "Horrific news re Charlie Hebdo. People of huge courage, wit and integrity murdered by people who find those ideas frightening. Awful.",
+        "user id": 20098015,
+        "tweet id": "552811438994378754",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@davidschneider bang on well said we fought a cunt called Hitler who's the same ilk as these twats",
+            "user id": 473202661,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@davidschneider is it brave to provoke without looking for resolutions. How do these provocations move the conversation forward?",
+            "user id": 94081827,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@Waterpistolman Yes it is. Showing what Islam and it's leaders are. A joke. Do you think they want to have a conversation? @davidschneider",
+            "user id": 1120627788,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@davidschneider a restrained and controlled response is critical from authorities and public....",
+            "user id": 1924434968,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@davidschneider we cannot become like the hateful disgusting sub human individuals who did this.",
+            "user id": 1924434968,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@mrcuthers @davidschneider You're nearly right.  But they're not sub human.  They're humans motivated by extreme religious ideology.",
+            "user id": 1277558742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "content": ".@davidschneider Plus two police officers who died trying to protect the journalists and others \n#RIP all",
+            "user id": 257413163,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@TheConstables @davidschneider",
+            "user id": 124747409,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@TheConstables @davidschneider Extraordinary people doing an extraordinary job.",
+            "user id": 2894668132,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@davidschneider @katiestoreyMEN gift fire with fire",
+            "user id": 55810883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@davidschneider Perhaps they also had a more Machiavellian motive http://t.co/PN51nVQ7NK",
+            "user id": 2938115123,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@davidschneider Liberté, Égalité, Fraternité. Vive la France. #JeSuisCharlie",
+            "user id": 170040230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 2,
+            "children": [],
+            "content": "@Waterpistolman And that goes for any religion. @davidschneider",
+            "user id": 1120627788,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 2,
+            "children": [],
+            "content": "@TuomoMa @davidschneider It's just a question I want people to look at too. This has happened, what next?",
+            "user id": 94081827,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

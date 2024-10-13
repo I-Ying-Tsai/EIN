@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "COUNTDOWN: One hour until #Ferguson police release the name of the officer that shot #MichaelBrown.",
+        "user id": 14722589,
+        "tweet id": "500251535943942145",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @AntonioFrench \n\nhttp://t.co/HW38F3c50D",
+            "user id": 498481164,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @AntonioFrench 60 59 58 57 56..........",
+            "user id": 15421689,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @AntonioFrench patiently waiting.",
+            "user id": 177016627,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun yes bitches who? #Ferguson",
+            "user id": 218113799,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@michaelcalhoun: COUNTDOWN: One hour until #Ferguson police release the name of the officer that shot #MichaelBrown.”",
+            "user id": 61626439,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @_KrissyO_: Can't wait.",
+            "user id": 211897428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@michaelcalhoun @PoliticaILine It didn't take this long to get the names of the police/emt workers involved in the death of #EricGarner",
+            "user id": 1289848416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@michaelcalhoun @AntonioFrench  can be very dangerous 4 his innocent family, ie kids, spouse, &amp; othr fam mbrs. Ur view? #IStandWithFerguson",
+            "user id": 202111324,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@michaelcalhoun @AntonioFrench I can imagine they can b victims of #hatrcrimes #Ferguson #Mike Brown #StopPoliceBrutality brutality",
+            "user id": 202111324,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

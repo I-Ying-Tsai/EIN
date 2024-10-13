@@ -1,0 +1,177 @@
+{
+    "source": {
+        "content": "To cap its liability, the airline has to prove it was without fault - Aviation Attorney Justin Green on #Germanwings http://t.co/l14sBZkwGA",
+        "user id": 227837742,
+        "tweet id": "581273151612575746",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @justingreen Dude, too soon. What people are worth... $160k. Stop talking. Move on.",
+            "user id": 94677072,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 24 hrs later it's all about money. Of course",
+            "user id": 616487153,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 every pilot could get in by fingerprints only?",
+            "user id": 95622230,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 impossible",
+            "user id": 86289052,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@AC360  sounds like he was asleep. If he was awake then the human body adrenaline would've made him breathe harder. #Germanwings",
+            "user id": 35338602,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@LASTSOUNDBENDER @AC360 why would there be adrenaline, he may have been quite calm having already made this sick decision.",
+            "user id": 54578210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@LASTSOUNDBENDER @AC360 There's a 4-digit code 2 unlock door that all pilots know. Co-pilot consciously set descent AND prevented unlocking.",
+            "user id": 44825797,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 Must your show post pictures of the co-pilots evilness? No one cares what he looks like.  Let's honour the victims instead.",
+            "user id": 348861608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 question...why auto pilot not set up with maxi and min altitude and speed limit like car with min speed?",
+            "user id": 48052467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 Still no explanation for reporting 'old' news nor a link to a livestream? Come on: journalism is about sharing info",
+            "user id": 21036397,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 #Germanwings will go bankrupt after a massive lawsuit.",
+            "user id": 168550666,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": ".@AC360 @mrsunlawyer Is this a FIRST, murder by computer hacking?",
+            "user id": 20688351,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 Money is talking",
+            "user id": 1677248065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 Mirrors wouldn't hv prevented this. My guess is copilot received diagnosis of RA, Fibro or similar &amp; feared an end to his career. SAD",
+            "user id": 21972791,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

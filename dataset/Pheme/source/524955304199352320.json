@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Police confirming a 3rd shooting at Rideau Center here in Ottawa, a popular shopping mall downtown - very tense in city #OttawaStrong",
+        "user id": 23100148,
+        "tweet id": "524955304199352320",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GongshowGear great message boys #ottawastrong",
+            "user id": 2167558237,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GongshowGear @WTF_Eh really?",
+            "user id": 255179946,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

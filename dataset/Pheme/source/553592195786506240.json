@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "#BREAKING - Both #CharlieHebdo suspects killed as police storm building &gt;&gt;&gt; http://t.co/OSB513hc9S. More &gt;&gt;&gt; http://t.co/TlHF6JIiUD",
+        "user id": 1994321,
+        "tweet id": "553592195786506240",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @FRANCE24: #BREAKING - Both #CharlieHebdo suspects killed as police storm building &gt;http://t.co/Tu6blB3XLp.  http://t.co/p1OTaUBftn #fb",
+            "user id": 7207042,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 we are coming http://t.co/ilsRarZOUi",
+            "user id": 2814170438,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@FRANCE24: I am  very  happy  to hear  those  two  terrorists  have  gone  to their doom. Praise  for  all  those  involved.",
+            "user id": 16573662,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@DERRYCKGRIFFITH @FRANCE24 actually its three. And all three are dead",
+            "user id": 291648228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @France24_en Well done to the French for ending this chapter of terror with the terrorists getting their deathwish. Swift justice.",
+            "user id": 1067999394,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @jenndogg1 Good.  Swift justice!",
+            "user id": 37651316,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@akinbrot6 @FRANCE24: Thanks, I learned that sometime afterwards. KUDOS to the French Special Forces too!",
+            "user id": 16573662,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

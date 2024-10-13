@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Swiss Paper #Putin missing due to daughter born to mistress Alina Kabayeva http://t.co/iDHOCRSxQ7 #Putindead #Russia http://t.co/Nxgvs6O7eD",
+        "user id": 52003080,
+        "tweet id": "576470720328392704",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@raging545 she just announced she had a boy https://t.co/KbYFvB6VjK",
+            "user id": 308687439,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Symmaque @myroslawabrulak @raging545 Let's hope her Boy will survive his Daddy's Nuclear Threats....",
+            "user id": 2446943442,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

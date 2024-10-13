@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "Ahmed Merabet, a French Muslim Cop, first victim of #CharlieHebdo attack, #JeSuisCharlie http://t.co/cMKQhVTLQN",
+        "user id": 14599545,
+        "tweet id": "552984347754897409",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@jensbest @Essex_Exile Rip fella :-(",
+            "user id": 1420547803,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@chaxicab Amen to that brother. He was unarmed, local police, who normally deal with parking tickets",
+            "user id": 164118386,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@jensbest @YahiaLababidi Sending prayers for him and his family/friends",
+            "user id": 20658265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "Bless U. So much senseless suffering, such waste “@christinamullis: @jensbest @YahiaLababidi Sending prayers for him and his family/friends”",
+            "user id": 145731072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @ACCIanWiggett RIP Ahmed. So very sad.",
+            "user id": 2202938540,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @TheConstables a dreadful waste of life. Thoughts with his family and colleagues.  xx",
+            "user id": 262915621,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @ukipwebmaster and your point what about the 11 non muslims are they insignificant",
+            "user id": 2458476536,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @Ruach321 Rest in Peace ... Murdered by cowards...",
+            "user id": 2663033660,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @Ruach321 Ironically SAD, #PoliceLivesMatter #IStandWithCharlieHebdo #JeSuisCharlie #EndIslam @RedNationRising @CarmineZozzora",
+            "user id": 2411586222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @Ruach321 'wo sad, just doing his job, i hope ,he passed peacefully",
+            "user id": 2927428900,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @LeeannWright4  Islam is now the stench of death to the whole world... Radicals and terrorists have ruined it for all Mohammedans.",
+            "user id": 52911116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@jensbest @LeeannWright4 ISLAM: THE RELIGION OF \"PIECE!\" DEATH TO ALL JIHADI'S!",
+            "user id": 43604262,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

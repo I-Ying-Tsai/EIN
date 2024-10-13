@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "#ICYMI UnReal Toon: We stand with you, Charlie Hebdo (via @sagarcartoonist with @ajayendar) #CharlieHebdo http://t.co/mKrUBiUrg5",
+        "user id": 292765961,
+        "tweet id": "553112230292496384",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheUnRealTimes @sagarcartoonist @ajayendar ...u hv shown d angel as a Hindu...we protest this gharwaapsi of angels",
+            "user id": 28091005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheUnRealTimes @sagarcartoonist @ajayendar this shows HINDU TOLERANCE!!!",
+            "user id": 67921678,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TheUnRealTimes @sagarcartoonist @ajayendar this is Real Toon very very aptly done great guys",
+            "user id": 590792315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6
+            ],
+            "content": "#ICYMI UnReal Toon: We stand with you, Charlie Hebdo \n(with @sagarcartoonist &amp; @TheUnRealTimes) #CharlieHebdo \nhttp://t.co/SlckXzg2rF",
+            "user id": 54200821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@ajayendar @sagarcartoonist @TheUnRealTimes I never knew that Brahmaji has wings.",
+            "user id": 744384758,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@ajayendar No terrorists in heaven and i thought jehadis go to heaven and 72 virgins etc etc...",
+            "user id": 139444923,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@ajayendar frankly not much of a cartoon. Too safe",
+            "user id": 29945291,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "Oh! the stupidity of @TheUnRealTimes it is this belief in hereafter heaven that makes them kill. https://t.co/4y8bsC6RlG",
+            "user id": 117764974,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@ravithinkz I think the jokers at @TheUnRealTimes will spend 2 days just figuring out what you meant - and how they were wrong :)",
+            "user id": 2744505343,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@TheUnRealTimes @sagarcartoonist @ajayendar Very nice!",
+            "user id": 2198579185,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@RpG_89 thanks :)",
+            "user id": 54200821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@TheUnRealTimes @sagarcartoonist @ajayendar shouldn't it b captioned as ' welcome guys, we r making PK2 with MF Hussain as creative head'",
+            "user id": 101867896,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@TheUnRealTimes @GorseFires @sagarcartoonist @ajayendar very powerful cartoon",
+            "user id": 2318574773,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 5,
+            "children": [],
+            "content": "@sailorsmoon @ajayendar that may be why they were offended.",
+            "user id": 2905938614,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

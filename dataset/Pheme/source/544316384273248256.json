@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Our thoughts and prayers are with the hostages and the families in Sydney. #sydneysiege http://t.co/TYH5KaeLSA",
+        "user id": 211374036,
+        "tweet id": "544316384273248256",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TWICHISTE @TheHappyPelican Another reason to carry..open or cancelled. This would not b happening if those ppl were armed. Awful. Pray",
+            "user id": 2821285640,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TWICHISTE Weren't the Aussies disarmed a few yrs ago? Hmmm",
+            "user id": 53836671,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

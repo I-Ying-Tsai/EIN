@@ -1,0 +1,164 @@
+{
+    "source": {
+        "content": "There's been movement at the cafe, the gunman moving a hostage past the window, two more hostages change positions. Not much sleep in there",
+        "user id": 246130881,
+        "tweet id": "544477097016578048",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@ChrisReason7 I hope they like chocolate",
+            "user id": 22904586,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@korsion @ChrisReason7 not the time to joke around...",
+            "user id": 1606835280,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@korsion @ChrisReason7 wow, that's disgusting.",
+            "user id": 628146343,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 so thankful for your updates at this hour.",
+            "user id": 1715089260,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@ChrisReason7 @bubblemunch3r @JustSbadz_RSA",
+            "user id": 2641116888,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@HausOfWillonce @ChrisReason7 @bubblemunch3r 😞",
+            "user id": 560994648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @JackieWarner13 their adrenaline would be keeping them awake :(",
+            "user id": 39705367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @blastedsilver Howdy from Orlando, Florida Chris and I heard you on the Morning Joe show. Crazy world we live in.",
+            "user id": 64766298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @markaustinitv Can't but feel and think of them. Must be terrified x",
+            "user id": 19584291,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisReason7 @frank8427zz9za let us all now pray to God and Jesus that all hostages will be safe and that this bully will be shown no mercy",
+            "user id": 824915659,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@OMGitsBuddy relax Schwarzenegger",
+            "user id": 22904586,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "@OMGitsBuddy @korsion @ChrisReason7 Exactly. Thoughts should be with them and only them.",
+            "user id": 19584291,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

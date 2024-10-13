@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "SYDNEY TERROR\n- Heavily-armed police storm cafe\n- Multiple hostages flee\n- Hostages seriously wounded\n- Gunman said to be dead",
+        "user id": 292777349,
+        "tweet id": "544516164333080577",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@PzFeed: SYDNEY TERROR\n- Heavily-armed police storm cafe\n- Multiple hostages flee\n- Hostages seriously wounded\n- Gunman said to be dead”",
+            "user id": 174365756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "''@abramjee @pzfeed",
+            "user id": 2173233478,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @tvgurl #SydneySiege The Terror in Sydney has come to an end. Thoughts and prayers to all involved. Thx to all #EmergencyWorkers",
+            "user id": 464958277,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "你在那里，我在这里，只是怀念，不再相见。",
+        "user id": 1130677950,
+        "tweet id": "3908113817770050",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "……",
+            "user id": 2097449933,
+            "user name": "吊儿郎当刘大少爷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "有太多的人没来得及说声再见。。。",
+            "user id": 5756491105,
+            "user name": "袁袁-丽娟吖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "、",
+            "user id": 1029022144,
+            "user name": "幽幽梦清秋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 5187082517,
+            "user name": "冻茨哒茨丶0",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "爱无言",
+            "user id": 5274906753,
+            "user name": "因为爱五啊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "转发微博",
+            "user id": 2610487815,
+            "user name": "小董Joyce",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[哼]",
+            "user id": 5110439200,
+            "user name": "李沈醉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@森林以北的尽头 ",
+            "user id": 5561406648,
+            "user name": "90后DE我333338",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈，人都是这样，拥有时不珍惜，失去时才后悔。",
+            "user id": 5634803656,
+            "user name": "周游大世界",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 5,
+            "children": [],
+            "content": "只是怀念",
+            "user id": 2772472393,
+            "user name": "時間淺巷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "只剩怀念。",
+            "user id": 5586401109,
+            "user name": "偏偏活成你爱的样子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "各自安好！",
+            "user id": 1377723831,
+            "user name": "Richiamo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "再见。再也不见~",
+            "user id": 2243970537,
+            "user name": "im_Cccyy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "唉～～",
+            "user id": 5198722871,
+            "user name": "用户5198722871",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 13,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

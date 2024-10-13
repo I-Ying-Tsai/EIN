@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Is this the day that free speech died a little? @NewYorker cartoonist's poignant response to the #CharlieHebdo attack http://t.co/11lRJ4A0yZ",
+        "user id": 304029732,
+        "tweet id": "552831506041683970",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ArentsHA @julienpretotRTR @NewYorker Dessin qui date de 2012 mais évidemment il a du sens",
+            "user id": 500713068,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Sad but true @ArentsHA: day that free speech died a little? @NewYorker  response to the #CharlieHebdo attack http://t.co/c8oOrf4TcH”",
+            "user id": 21542051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

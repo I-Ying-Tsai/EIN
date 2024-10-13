@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "BREAKING: French President Francois Hollande says “apparently no survivors\" in Germanwings crash, at least 148 passengers on the plane",
+        "user id": 28785486,
+        "tweet id": "580326111311171584",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABC: BREAKING: French President Francois Hollande says “apparently no survivors\" in Germanwings crash, at least 148 passengers on plane",
+            "user id": 54199578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@ABC: BREAKING: French President Francois Hollande says “apparently no survivors\" in Germanwings crash, at least 148 passengers on plane”",
+            "user id": 836209867,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@ABC: French President Francois Hollande says “apparently no survivors\" in Germanwings crash, at least 148 passengers on the plane” 💔💔💔",
+            "user id": 77777460,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ABC @BLACKDlCK at least the plane didn't disappear this time",
+            "user id": 1388688583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@TheDieseI @ABC @BLACKDlCK OMG THATS WHAT I SAID! *MIND BLOWN*",
+            "user id": 1428693931,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @BLACKDlCK @georgebush",
+            "user id": 2282954094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@ABC: BREAKING: French President says “apparently no survivors\" in Germanwings crash, at least 148 passengers on the plane” @JimGillespie9",
+            "user id": 521592931,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC http://t.co/a1WuwJ1gIg",
+            "user id": 3041579847,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

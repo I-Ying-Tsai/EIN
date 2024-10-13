@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "#BREAKING: One man has been arrested and people are being evacuated from the building #sydneysiege http://t.co/7NdqPYhwcY",
+        "user id": 2768501,
+        "tweet id": "544302827330224128",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@abcnews IS IT TRUE THO",
+            "user id": 110314533,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@akaNoodleBox @abcnews one man has been arrested near the scene, not related. people are being evacuated from nearby buildings.",
+            "user id": 296988845,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews ...I hope this is true.",
+            "user id": 420176985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "#BREAKING: One man has been arrested and people are being evacuated from the building #sydneysiege http://t.co/RTNXSHTsP5 v. @abcnews #Lindt",
+            "user id": 114115853,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews Someone ought to tell Joe",
+            "user id": 17418943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews   Thank you John Howard &amp; George Bush for bringing terrorism to our own country!",
+            "user id": 1198649053,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@abcnews: #BREAKING: One man has been arrested and people are being evacuated from the building #sydneysiege http://t.co/ERJUv34EdZ”",
+            "user id": 58167203,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @KJBar was this the guy with an orange shirt/singlet?",
+            "user id": 226748027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews is that the Terrorist?",
+            "user id": 58167203,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews #sydneysiege Unrelated incident.",
+            "user id": 47331289,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews not related? Your TV and twitter feeds seem to be sending out contradictory info!",
+            "user id": 475201473,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews according to posted article &amp; tweet from NSW PD arrest unrelated to police operation. Check above link. I wish it were true tho.",
+            "user id": 891765697,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews this is an appalling display of lack of professional journalism.",
+            "user id": 608074557,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @dublinrecruiter I'd re tweet a different account, these guys don't have a clue!",
+            "user id": 21511119,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "“@abcnews: #BREAKING: One man has been arrested and people are being evacuated frthe building #sydneysiege http://t.co/iM6kqJTSzX” @waff48",
+            "user id": 27509343,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

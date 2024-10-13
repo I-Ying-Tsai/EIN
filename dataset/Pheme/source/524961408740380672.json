@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "OTTAWA SHOOTING\n- Soldier shot at memorial\n- Gunfire in Parliament\n- PM safe, will speak later today http://t.co/DkNJOduorR",
+        "user id": 289998339,
+        "tweet id": "524961408740380672",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostCanada @HuffingtonPost  a bit late #HuffPost sadly I might add. #cbc #ctv beat you out",
+            "user id": 210874244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffingtonPost @HuffPostCanada @RanaAyyub  who do you think might be behind these shootings ??Sikulars like yourself ??",
+            "user id": 1851214532,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "praying for Canada “@HuffPostCanada: OTTAWA SHOOTING\n- Soldier shot at memorial\n- Gunfire in Parliament\n- PM safe, will speak later today”",
+            "user id": 275338272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

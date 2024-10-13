@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Banksy #JeSuisCharlie http://t.co/8w3m2CX96n",
+        "user id": 48893763,
+        "tweet id": "552980261512949760",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Suhelis: Banksy #JeSuisCharlie http://t.co/2ooAFc01n9”",
+            "user id": 74458401,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Así es... “@Suhelis: Banksy #JeSuisCharlie http://t.co/fnFDpywaoM”",
+            "user id": 45018119,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

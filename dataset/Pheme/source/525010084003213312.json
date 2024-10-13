@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "Actually amazing. RT @todmaffin: Things to remember. #OttawaShooting http://t.co/f1yZHma6Cq",
+        "user id": 156123647,
+        "tweet id": "525010084003213312",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@sladurantaye: Actually amazing. RT @todmaffin: Things to remember. #OttawaShooting http://t.co/7YdwZWKK8T”😀",
+            "user id": 854239526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@sladurantaye @todmaffin Awesome. Printing this for our digital desk students.",
+            "user id": 29249143,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@suzycoolen @sladurantaye @todmaffin ... printing.... digital .... Seems like an oxymoron! :D",
+            "user id": 558489512,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @BenjaminRivers Anonymous sources are the backbone of investigative journalism, this is only valid advice in crisis.",
+            "user id": 69379823,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Reflexively Retweeting this: RT @sladurantaye Actually amazing. RT @todmaffin: Things to remember. #OttawaShooting http://t.co/eIPB9LCzEp",
+            "user id": 19431488,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "yes. amazing and wise. RT @sladurantaye: Actually amazing. RT @todmaffin: Things to remember. #OttawaShooting http://t.co/oeAnaeBJHG",
+            "user id": 14253400,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @scalzi @todmaffin Should add that opinions are NOT facts about 100 times.",
+            "user id": 1525868310,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @EleriTMLH @todmaffin Great thoughts!",
+            "user id": 12115432,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @todmaffin \nGood points, but good luck with this because everyone wants to be a news source.",
+            "user id": 2826946080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "Listen &amp; retweet responsibly.\nRT @sladurantaye: Actually amazing. RT @todmaffin: Things to remember. #OttawaShooting http://t.co/n0be5Moy4g",
+            "user id": 241775817,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @todmaffin @ToriaURU Radio news here has been 'an attack' then 'a terrorist attack' now 'a suspected terrorist attack'.",
+            "user id": 10576322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@sladurantaye: Actually amazing. RT @todmaffin: Things to remember. #OttawaShooting http://t.co/D0zRQcsW6c”",
+            "user id": 96500143,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @todmaffin A sage list. Kudos.",
+            "user id": 1340573534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

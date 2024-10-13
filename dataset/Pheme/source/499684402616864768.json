@@ -1,0 +1,166 @@
+{
+    "source": {
+        "content": "#Ferguson is locked down hard. We're parking and going in on foot.",
+        "user id": 1716581,
+        "tweet id": "499684402616864768",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@elonjames: #Ferguson is locked down hard. We're parking and going in on foot.”",
+            "user id": 130499153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames watch it for yourself sir. Praying for everyone's safety.",
+            "user id": 624264606,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames I know everyone has said this but keep safe. Can't say how valuable ur added voice is. Thanks from a Ferguson-Florissant native!",
+            "user id": 240023317,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames You're in my thoughts. Wishing you all the luck in the world. xx",
+            "user id": 26460275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@elonjames the more I read your tweets the more annoyed I get that we have to drop you into #Ferguson like a war correspondent.",
+            "user id": 80850109,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@ShanePaulNeil @elonjames He is our Richard Engel.",
+            "user id": 51505256,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "“@ShanePaulNeil: @elonjames the more I read..more annoyed I get that we have to drop you into #Ferguson like a war correspondent.”\n\n#inners",
+            "user id": 185448870,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames Be safe!",
+            "user id": 16191744,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@elonjames: #Ferguson is locked down hard. We're parking and going in on foot.” Jeezus",
+            "user id": 34752805,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames Stay safe Elon.",
+            "user id": 13522032,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames ok...",
+            "user id": 349349942,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames be careful",
+            "user id": 14499408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames please be careful sir, we need you guys #Ferguson #twib",
+            "user id": 518546410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

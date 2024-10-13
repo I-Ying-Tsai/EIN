@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "BC stands with all of Canada against the violence in Ottawa, and with the brave men and women keeping our capital safe.",
+        "user id": 19240337,
+        "tweet id": "524960245509287936",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@christyclarkbc If you have a minute can you give me a call? 604.331.2766 Thanks",
+            "user id": 174137795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@WoodfordCKNW980 @christyclarkbc Call me too Christy - 555 IM1-RU12.",
+            "user id": 254100818,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@WoodfordCKNW980 @christyclarkbc can we all call you as well?",
+            "user id": 186348281,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@christyclarkbc if they have not found the gunman yet I hope they find him and shoot to kill. #CanadaStrong #Canada",
+            "user id": 86218417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@christyclarkbc @cbcnewsbc Can't it be \"the brave people\"?",
+            "user id": 1071346003,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@christyclarkbc Why the comment \"can we all call you as well\" Dave?  I have no need to call -  I believe not appropriate?",
+            "user id": 628626183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@christyclarkbc @BCGovNews What a risky political stance to take.",
+            "user id": 44819029,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@christyclarkbc great remarks on not letting terror deteriorate our precious democracy, not giving in to terror to undermine our freedoms",
+            "user id": 123182817,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@christyclarkbc more concerning is the fact that the gunman had a criminal record in BC and got off light. Perhaps focus on this problem",
+            "user id": 36256708,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@christyclarkbc Proud of how Canada handled this today, many heroes.",
+            "user id": 46332243,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "UPDATE: No survivors are expected among the 150 people aboard #Germanwings plane. http://t.co/hd7zdUJtH4 http://t.co/iibVTBuIqz",
+        "user id": 1367531,
+        "tweet id": "580353540725452800",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@FoxNews: UPDATE: No survivors are expected among the 150 people aboard #Germanwings plane. http://t.co/fWJisFt4TZ http://t.co/PlTxgIO771”",
+            "user id": 103972238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@FoxNews: UPDATE: No survivors are expected among the 150 people aboard #Germanwings plane. http://t.co/xycuwHmlY1 http://t.co/1GqM9B8LmM”",
+            "user id": 421677297,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews That's so terrible. RIP",
+            "user id": 447290500,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews http://t.co/MA8IN2tExF http://t.co/P2gG8PxYSi",
+            "user id": 1350989725,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@FoxNews @ImAmberHahn Nugget not want to read this while flying in jet. Nugget see your house @SalVulcano",
+            "user id": 2189248559,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@NuggetSayYou @FoxNews @SalVulcano umm. What? Lol",
+            "user id": 294450894,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@ImAmberHahn @FoxNews @SalVulcano Oh hello lady. Nugget in the air. See your house too.",
+            "user id": 2189248559,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "Leafs under lock down during tragedy in Ottawa. Our thoughts are with those on the scene http://t.co/627ve85Uhh http://t.co/qPGOrcTeve",
+        "user id": 21660529,
+        "tweet id": "524944981753356288",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Sportsnet no leafs game",
+            "user id": 2824635530,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "\"WHERE IS JA-FFREY?\" RT @Sportsnet Leafs under lock down during tragedy in Ott. Thoughts are with those on the scene http://t.co/99zdW1qauA",
+            "user id": 57620511,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@Sportsnet who cares about #hockey with the #tragedy in #Ottawa.  It's irrelevant.  The #soldier is news the #Leafs are not. #priorities",
+            "user id": 264840667,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@FleetFootedNuck #nice #hashtags #bro",
+            "user id": 2465122122,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "“@Sportsnet: Leafs under lock down during tragedy in Ottawa. Our thoughts are with those on the scene #noleafs",
+            "user id": 93359723,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@alliepeters69 @Sportsnet  Well Said!",
+            "user id": 2374337696,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Sportsnet 1 shooter confirmed dead, another with a high powered rifle has entered parliament. I pray that everyone is safe.",
+            "user id": 2749278875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Sportsnet a soldier was shot, shut up about the Leafs. For one second. Please.",
+            "user id": 2372916332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Sportsnet Can this news not be about the Leafs. Sportsnet is painfull on that regard.",
+            "user id": 193788517,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Sportsnet So we should worry about the leafs now what about the people directly affected are you kidding right now FUCKME",
+            "user id": 2756304988,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "三星捐了6000W，恒大2000W，蒙牛1000W，百度500W，网易500W。这TM到底富了谁。红十字买1W的药品，却要求开5W的发票。TM到底多少人靠这次地震发了财！CNM有本事来查我家水表啊",
+        "user id": 2280441347,
+        "tweet id": "3569862804630554",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "MD！不要被电视上的表面蒙蔽了！中国！你能真正以人为本吗！[怒]",
+            "user id": 1689799903,
+            "user name": "Cc赵家骏",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "……",
+            "user id": 2562842094,
+            "user name": "Sherry_简文依",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "呵呵呵呵。。。。红十字不火没天理= =",
+            "user id": 2609326697,
+            "user name": "逸樗努力成為大劍豪喵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "红十必火，前排强势插入",
+            "user id": 1643152054,
+            "user name": "蠢屌组_锦狐叽叽叽",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "已举报，不用谢",
+            "user id": 1765060847,
+            "user name": "敢不敢再苦逼点",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "亲，你可以直接@雷小雪，她是四川人，并且在东方卫视直播救灾的情况。",
+            "user id": 1253571323,
+            "user name": "燕过-留声",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "天全县，扩散",
+            "user id": 1617517233,
+            "user name": "老嘛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "小地方小灾情体现不了我朝爱民之心呀 // @老嘛: 天全县，扩散",
+            "user id": 1363176223,
+            "user name": "perryhau",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Mound City Bar Association has agreed to donate their time PRO BONO, for ANY WITNESSES that would like to come forward. #Ferguson #MikeBrown",
+        "user id": 1291770157,
+        "tweet id": "499363921661140993",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa http://t.co/bf3bBt8h2s",
+            "user id": 2252647615,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Nettaaaaaaaa why would a witness need an attorney?",
+            "user id": 274782994,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@OldDeadTree @Nettaaaaaaaa See #EricGarner and what happened to the man who recorded the death and his family.",
+            "user id": 28199524,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

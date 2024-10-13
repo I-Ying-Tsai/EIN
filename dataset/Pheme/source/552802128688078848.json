@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Twelve people confirmed dead in shooting at French satirical magazine Charlie Hebdo in Paris http://t.co/X6UWH7PFP1 http://t.co/TCWtE8nkpm",
+        "user id": 14569869,
+        "tweet id": "552802128688078848",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News So shocking - thoughts are with all of those involved!",
+            "user id": 60526729,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News oh but it's only a small number of dysfunctional individuals",
+            "user id": 2888296032,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News sometimes freedom of speech is lacking freedom of wisdom.",
+            "user id": 73509960,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News it'll be interesting to see how the Guardian explains this away...",
+            "user id": 921217862,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "We #pray today for peace &amp; reconciliation in Paris @Channel4News @ChrisMusForum #prayforparis http://t.co/7HzHE8kp4r",
+            "user id": 27151453,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Windy_London @Channel4News Amen to that, prayers for the dead, injured and bereaved.",
+            "user id": 335230484,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News \nThoughts with all those involved.",
+            "user id": 2924844507,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News #FURY that people are able to do this and do - Where on earth did they get such an arsenal? @CHLoveLive",
+            "user id": 201825680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News nice grouping, either well trained insurgents or false flag sorry",
+            "user id": 1852187108,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News @redheadbomb Political Correctness strikes again! More proof Gun Control is a failed policy.",
+            "user id": 20232263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

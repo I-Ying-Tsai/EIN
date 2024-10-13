@@ -1,0 +1,166 @@
+{
+    "source": {
+        "content": "Live coverage of the Sydney cafe hostage siege on @SkyNews and at http://t.co/1gMsZkOTjC http://t.co/C2nWo4mA5A",
+        "user id": 7587032,
+        "tweet id": "544374395540881408",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @BretBaier Where are the snipers perfect killshot",
+            "user id": 43283737,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SkyNews theres no way the picture on the right looks like  40 yr old ,more like 50 or older ? could be wrong thou",
+            "user id": 359015191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@peteandcaz66 @SkyNews right... could be me ( past 60) - no it isn't I am nowhere close to Sidney... http://t.co/8nMvmDtVD1",
+            "user id": 1958563062,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @BretBaier http://t.co/6HhQZZdvD6",
+            "user id": 16727355,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews bet he's a backward convert.",
+            "user id": 1604396971,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews could be Al Qaeda?",
+            "user id": 186167438,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @MelAnimalLover Dreadful,  poor hostages and their loved ones,  my heart goes out to them.",
+            "user id": 112777979,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @BretBaier A religion of peace, huh? Kind of like Russia keep E Germany safe for so long, huh?!",
+            "user id": 181109231,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @laurentlejop c'est pas moi! http://t.co/SrwOWNsWgN",
+            "user id": 1958563062,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Muslims thousands of muslims take to the streets in \" not in my name protests \". Oh wait a minute. ..",
+            "user id": 494828633,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": "@jean_pailler didnt say u jean",
+            "user id": 359015191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@peteandcaz66 don't be too sure... LOL!",
+            "user id": 1958563062,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Police are requesting that no photos are shared on social media #MartinPlaceSiege #SydneySiege #MartinPlace",
+        "user id": 22837285,
+        "tweet id": "544293770926120960",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nova969 RT RT RT RT",
+            "user id": 764938454,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nova969 yeah we know but Media itself @Channel7 @Channel9 @channelten AND OTHERS Should stop Broadcasting live what police are doing !!",
+            "user id": 1103359729,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@nova969: Police are requesting that no photos are shared on social media #MartinPlaceSiege #SydneySiege #MartinPlace” please",
+            "user id": 2915338092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@runawaysarah @nova969 Don't use the  *MartinPlace Hashtag. Will @TonyAbbottMHR Goon Squad advise @twitter @support to block it?",
+            "user id": 498677369,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nova969 Yet the media can broadcast it, ok.",
+            "user id": 562686109,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nova969 @Sharrimarkson they mean you and your kind Shazza",
+            "user id": 17406738,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nova969 @Wolfie_Rankin keep on clicking.",
+            "user id": 487913950,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

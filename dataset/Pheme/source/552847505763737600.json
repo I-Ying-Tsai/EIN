@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "I wake up to #NAACPBombing and #CharlieHebdo massacre, the violence of both betraying the insecurity &amp; weakness of the assailants.",
+        "user id": 820585,
+        "tweet id": "552847505763737600",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@baratunde and now the synagogue car bomb.",
+            "user id": 6898462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@bradfox @baratunde ...someone stepping up a coordinated effort to keep us all at each other's throats? #NAACPBombing #Synagoguebombing",
+            "user id": 482447369,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@baratunde Exactly so.",
+            "user id": 15148531,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@baratunde There is no excuse;no matter perp's color,religion,or politics.I don't agree w/NAACP on all things, but they try to do good work.",
+            "user id": 482447369,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@baratunde it’s so disheartening.",
+            "user id": 16518990,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@baratunde well said",
+            "user id": 34036742,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@baratunde well said. Insecure people are easily manipulated. Easily controlled by the media. Sleeper terrorists. .",
+            "user id": 82873809,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@baratunde best follow I ever did",
+            "user id": 2728348305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@baratunde @HiJCP Amen. Extreme hatred is running amok.",
+            "user id": 126966332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

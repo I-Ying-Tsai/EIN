@@ -1,0 +1,207 @@
+{
+    "source": {
+        "content": "The press conf makes #Ferguson PD look like they've gone from stonewalling to counter punching. We give up a name, we drag his thru the mud.",
+        "user id": 14155907,
+        "tweet id": "500394061887709184",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@jelani9 Makes them look inept as well.",
+            "user id": 39138529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@jelani9 I would rather be a #robber than being a #ColdBloodedMurderer #JusticeForMikeBrown Now😡",
+            "user id": 385991063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@jelani9 @kharyp Since they want to label #MikeBrown as a shoplifter, since when is that crime punishable by DEATH?",
+            "user id": 122328941,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10,
+                11
+            ],
+            "content": "Not sure 'shoot first &amp; uncover potential crime later' is viable policy outside the fevered mind of a conservative @ecl326 @jelani9 @kharyp",
+            "user id": 15150904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jelani9 @kharyp I bet if Michael Brown had his druthers, he’d rather have his name dragged thru the mud than his life snuffed out.",
+            "user id": 61349124,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jelani9 SAY IT AGAIN!!!! oh nevermind, I can just RT it ;-)",
+            "user id": 489723757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "damn surveillance video @jelani9 We give up a name, we drag his thru the mud. @LOLGOP",
+            "user id": 378241649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@jelani9 People may not like it. but it's devastating for prosecuting the cop. If true, can be argued Brown thought the cop was after him .",
+            "user id": 247643037,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jelani9 Prosecution screwed up the Martin/Zimmerman case by over-charging and if emotions guide, over charging will let this cop walk too.",
+            "user id": 247643037,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@jelani9 The first goal is to get a conviction so he can never be a cop again.",
+            "user id": 247643037,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@techweenie @jelani9 @kharyp AMEN to that!! They would say \"LOOK! HE PUSHED THAT STORE CLERK!!.. is that punishable by DEATH?",
+            "user id": 122328941,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@techweenie @ecl326 @jelani9 @kharyp Early reports said the store had not reported a robbery?? The people in the store don't look alarmed.",
+            "user id": 21546092,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@amstillion @techweenie @jelani9 @kharyp From what I saw it was nothing but a petty theft. Let the RT Wing tell it, he went in with a GLOCK",
+            "user id": 122328941,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "The point is, the cop didn't know about a robbery. He executed a jaywalker resisting being detained @amstillion @ecl326 @jelani9 @kharyp",
+            "user id": 15150904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@techweenie @amstillion @jelani9 @kharyp EXACTLY!! Since when is jaywalking punishable by DEATH?",
+            "user id": 122328941,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

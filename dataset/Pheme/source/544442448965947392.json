@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "If anything positive can come from today’s events, it’s this: #illridewithyou campaign http://t.co/OrwRqzTeEy #sydneysiege",
+        "user id": 63362429,
+        "tweet id": "544442448965947392",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Y7News @sunriseon7 Could we also add some #HULK - Happiness, Understanding, Love and Kindness? Everyone will need it in the days to come.",
+            "user id": 91471326,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Y7News #illridewithyou http://t.co/xkfIvgRJcL",
+            "user id": 2574786265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@Y7News I find it is strange you report on #illridewithyou campaign when you like News Ltd papers attack Muslims and Islam.",
+            "user id": 413624285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@vaughan_k @Y7News https://t.co/jYj3CWa97L",
+            "user id": 2641501057,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Y7News Happiness, Understanding, Love and Kindness coming from 7 and other Channel News?",
+            "user id": 413624285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@Y7News: If anything positive can come from today’s events, it’s this: #illridewithyou campaign http://t.co/x7P92CSvE7 #sydneysiege”",
+            "user id": 2406532297,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Y7News @sunriseon7 If you love Australia and all that it is about #Illridewithyou if not #pissoff",
+            "user id": 2509585604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@Y7News: If anything positive can come from today’s events, it’s this: #illridewithyou campaign http://t.co/aWkBAhsnhi #sydneysiege”",
+            "user id": 248662461,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Y7News https://t.co/jYj3CWa97L",
+            "user id": 2641501057,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Y7News @Qldaah the innocent deaths could have been prevented A clear sniper shot was available early in the saga. NO tolerance to events",
+            "user id": 311994165,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "The #Ferguson police chief just basically confirmed #MikeBrown was gunned to death for the crime of walking in the street?\n\nHorrific.",
+        "user id": 325265073,
+        "tweet id": "500363126294863876",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NerdyWonka But... There was something leading up to the shooting? Or what?",
+            "user id": 2322994566,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "“@mamajeannielove: @NerdyWonka But... There was something leading up to the shooting? Or what?”-&gt; soon they'll say officer felt a gun onMike",
+            "user id": 291477944,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka  Wrong. The violent assault #MikeBrown committed makes it more likely he attacked the cops minutes later.  #Ferguson",
+            "user id": 307513078,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka no they did not",
+            "user id": 2319216098,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka Walking in the street while #Black",
+            "user id": 53861909,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka Hmm. That's not what I heard at all.  What's your source and quote?",
+            "user id": 161821409,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka if he was not a suspect why was #MikeBrown inside the police car in the first place? Or was he ever  near the police car?",
+            "user id": 33172759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

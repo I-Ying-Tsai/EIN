@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Wait wasn't Michael Brown stopped because of a routine patrol? Police can't even keep their stories straight. #Ferguson @OpFerguson",
+        "user id": 14806497,
+        "tweet id": "500339209715335169",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Bretagne @OpFerguson Sounds like the Fix is on! #MikeBrown #Ferguson",
+            "user id": 613775053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Bretagne @OpFerguson You are witnessing the genesis of a crafted cover story designed to protect yet another murdering copy. #FergusonPD",
+            "user id": 159210283,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

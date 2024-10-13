@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Crashed #GermanWings A320 Airbus is 24 years old, ID D-AIPX, first flight was in November 1990 http://t.co/8UPMsinQkX http://t.co/3ggahAQ3Pu",
+        "user id": 7587032,
+        "tweet id": "580336568419921920",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: Crashed #GermanWings A320 Airbus is 24 years old, ID D-AIPX, first flight was in November 1990 http://t.co/C02DuoH4Xu",
+            "user id": 280242927,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @tcudde https://t.co/KuPecyLBJZ",
+            "user id": 2475652522,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @Chloey001  Anadolu Jet'de THY'nin eskileri ile uçuyor..",
+            "user id": 1058745000,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

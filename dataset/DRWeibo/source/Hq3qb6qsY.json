@@ -1,0 +1,170 @@
+{
+    "source": {
+        "content": "4月17日上午，沈阳市棋盘山开发区英达街道与沈北辉山街道交界处突发火情。事故发生后。经查违规用火者是富某，男，46岁，现居住英达街道东沟村。17日上午，富某在耕地内烧秸秆，由于当时风力较大，引燃周围荒草。目前，富某因涉嫌在防火戒严期内违法野外用火，已被沈阳市森林公安局行政拘留。",
+        "time": "19-4-17 16:06",
+        "user id": "1136941352",
+        "tweet id": "Hq3qb6qsY",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "1136941352",
+            "user name": "紫云飞吉祥天",
+            "content": "他们就是这样伤害我吗，说是不实处理却不删掉，",
+            "time": "19-4-17 18:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "1136941352",
+            "user name": "紫云飞吉祥天",
+            "content": "刚才公安局通知我了，我承认错误了没事了，可我就是删不掉，新浪也不帮我删了，我就是不知道才盲目转发了。他们原谅我了，",
+            "time": "19-4-17 20:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "1170753465",
+            "user name": "于国静",
+            "content": "没有官方消息，最好别乱发，每次都有发假消息被拘留的，可惜",
+            "time": "19-4-17 19:22",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "5544783409",
+            "user name": "hui慧慧慧慧慧宝",
+            "content": "不要散播谣言，看好了  12年的新闻 ",
+            "time": "19-4-17 16:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "1136941352",
+            "user name": "紫云飞吉祥天",
+            "content": "知道是谣言了谢谢",
+            "time": "19-4-17 18:25",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                7,
+                8
+            ],
+            "user id": "1170753465",
+            "user name": "于国静",
+            "content": "一会警察叔叔找上你家去啦，建议删了吧，保护自己。",
+            "time": "19-4-17 18:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "1136941352",
+            "user name": "紫云飞吉祥天",
+            "content": "我现在才知道是假的消息，我自己删不掉了，说是进行不实处理，还在网上挂着，新浪微博怎么这样浏览量过一千了，怎么办啊",
+            "time": "19-4-17 18:31",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "user id": "1136941352",
+            "user name": "紫云飞吉祥天",
+            "content": "我真够冤的，",
+            "time": "19-4-17 18:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "user id": "1136941352",
+            "user name": "紫云飞吉祥天",
+            "content": "我删不掉了，说是不实处理，可我删不掉了",
+            "time": "19-4-17 18:30",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "1170753465",
+            "user name": "于国静",
+            "content": "你这是2012年的新闻，建议删除，别传播谣言了。",
+            "time": "19-4-17 16:09",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "1136941352",
+            "user name": "紫云飞吉祥天",
+            "content": "还不让我自己删掉，为什么啊，他们做不实处理还不删掉这条，为什么啊太坏了，留着他们报警自己立功冤枉好人吗",
+            "time": "19-4-17 18:34",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

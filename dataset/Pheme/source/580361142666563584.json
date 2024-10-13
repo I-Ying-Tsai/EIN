@@ -1,0 +1,104 @@
+{
+    "source": {
+        "content": "Helicopters and emergency vehicles are arriving in southern France. #Germanwings http://t.co/2Ry7Itpo4L",
+        "user id": 1367531,
+        "tweet id": "580361142666563584",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews 😿🙏🙏",
+            "user id": 2995328595,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@FoxNews Were there any VIPs on this plane?",
+            "user id": 2559155400,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@foxnews Isis claims another victim ?",
+            "user id": 19877207,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@FoxNews: Helicopters and emergency vehicles are arriving in southern France. #Germanwings http://t.co/QBJ7ULTHuw” 😰",
+            "user id": 529642241,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews A Germanwings Airbus A320 plane carrying at least 148 people crashed in mountainous southeastern France...\nhttp://t.co/M63s9jKvOI",
+            "user id": 84429722,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@FoxNews: Helicopters and emergency vehicles are arriving in southern France. #Germanwings http://t.co/AdmlmTfojz”",
+            "user id": 2373376284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews http://t.co/MA8IN2tExF http://t.co/dj25ubwF6x",
+            "user id": 1350989725,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@FoxNews: Helicopters and emergency vehicles are arriving in southern France. #Germanwings http://t.co/bucukUhFR0” @sarahsteich",
+            "user id": 333631424,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        }
+    }
+}

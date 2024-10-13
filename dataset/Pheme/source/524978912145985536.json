@@ -1,0 +1,111 @@
+{
+    "source": {
+        "content": "'We could smell that gun powder': MPs, eyewitnesses describe Ottawa shooting scene http://t.co/3LA2OprAiW http://t.co/mgCoyZFUQD",
+        "user id": 18965790,
+        "tweet id": "524978912145985536",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CBCCanada @CBCNL Has anyone noticed the 2 women trying to help save that soldier's life?",
+            "user id": 1240476727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "content": "@JanetCeltic @CBCCanada @CBCNL ummmm, I think we call them heroes. They we're in the open with recent shots fired, selfless. Many thanks",
+            "user id": 2739792487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCCanada @CBCNews Please stop showing the last moments of this soldier's life, both video &amp; stills. It's utterly tasteless &amp; disrespectful",
+            "user id": 185785982,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCCanada @CBCNews stop showing CPR being done on solider.Shameful",
+            "user id": 2176237405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Nederlander getuige schietpartij. “@CBCCanada: 'Eyewitnesses describe Ottawa shooting scene http://t.co/gYfnaVdgGc http://t.co/1SP9TPxA9f”",
+            "user id": 134743591,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@lordWatcher85 @CBCCanada @CBCNL I concur! However, have not seen any mention of the public that were helping!",
+            "user id": 1240476727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@JanetCeltic @CBCCanada @CBCNL we control this. we saw them. we can't unSee it and WE KNOW even if media bypasses it.",
+            "user id": 2739792487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

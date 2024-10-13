@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "UPDATED: Prince not playing Massey Hall, Live Nation says http://t.co/MjRWsEJRWo #PrinceTO #cbcto http://t.co/Gk9DflWJjE",
+        "user id": 19000033,
+        "tweet id": "529730550169624579",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCToronto Queen not playing Massey Hall either @CBCHereandNow",
+            "user id": 208673346,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@CBCToronto: UPDATED: Prince not playing Massey Hall, Live Nation says http://t.co/Hyhhp011cQ #PrinceTO #cbcto http://t.co/aWxygJFNNy. :(",
+            "user id": 1967179970,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@lgibson73  I really thought it was for real!",
+            "user id": 1967179970,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

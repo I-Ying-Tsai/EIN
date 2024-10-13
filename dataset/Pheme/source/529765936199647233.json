@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Still hundreds of people waiting in the rain for Prince at Massey Hall. Venue, promoter say no concert tonight #cbcto http://t.co/yyUQnhJ7Tr",
+        "user id": 17909653,
+        "tweet id": "529765936199647233",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@trevorjdunn @SimonDingleyCBC Now would bean excellent opportunity for a Prince look-alike to coast by in the back of a limo.",
+            "user id": 573210588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@HoosAGoodBoy @trevorjdunn Capital idea Ryan!",
+            "user id": 772326630,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@trevorjdunn @SimonDingleyCBC *be an, not bean (Doh!)",
+            "user id": 573210588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@trevorjdunn @RossMcleanSec How to respect your fans...NOT",
+            "user id": 22199699,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

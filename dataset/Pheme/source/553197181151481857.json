@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "The building of 1 of the biggest TV channels in Germany (Berlin) today. We are with you #PrayForParis #JeSuisCharlie http://t.co/TF6YwIgfnv",
+        "user id": 557872038,
+        "tweet id": "553197181151481857",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@janascody @UKIPTaz Can't see the @bbc doing this they are too busy appeasing",
+            "user id": 27839828,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@janascody the fact that you all are with us make us stronger",
+            "user id": 1211121260,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@janascody 👊❤️❤️💪",
+            "user id": 2845251063,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@janascody Thanks for your support, it's just amazing, nous sommes Charlie.France loves you.✨🇫🇷",
+            "user id": 2532993854,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "“@LittleFrench1D: @janascody Thanks for your support, it's amazing, nous sommes Charlie.France loves you.🇫🇷” &amp; I love France ❤️ Stay strong!",
+            "user id": 557872038,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@janascody It's not a tv channel, it's the publisher Axel Springer.",
+            "user id": 1234801,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@janascody We will try to stay strong but we are terrorized.That the world is with us it means a lot to us.We can not thank you enough.💝🇫🇷✨",
+            "user id": 2532993854,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

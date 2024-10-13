@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "BREAKING: Australian National Imams Council condemns Sydney siege http://t.co/qFdU4gHjAE",
+        "user id": 22240612,
+        "tweet id": "544348392944463872",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "\"@AlArabiya_Eng: BREAKING: Australian National Imams Council condemns Sydney siege http://t.co/I9lA7lE952\"",
+            "user id": 245725998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@AlArabiya_Eng What's wrong with these morons? Islam is a religion of peace. It's not a religion to threat others. I strongly condemn it.",
+            "user id": 245725998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Badruddeen @CramerDon @AlArabiya_Eng 1994 - How to Create an \"Islamic Enemy\" - http://t.co/mzxzVWDkH1",
+            "user id": 503203687,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AlArabiya_Eng BREAKING: Australian National Imams Council condemns Sydney siege http://t.co/SdN9E0cgFZ … #sydneysiege",
+            "user id": 2241901423,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Sadly, expect the usual folks to note this &amp; the usual folks to not @AlArabiya_Eng: Australian National Imams Council condemns Sydney siege",
+            "user id": 58743465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Imams &amp; AlArab can f**k themselves. “@AlArabiya_Eng: BREAKG: Australian National Imams Council condemns Sydney siege http://t.co/TqNjAu0PtY”",
+            "user id": 243495444,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

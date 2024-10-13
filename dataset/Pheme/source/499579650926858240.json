@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Image of #Ferguson protester throwing tear gas back at police, wearing the American flag, is amazing. http://t.co/JXi1sibnGG @AntonioFrench",
+        "user id": 271461410,
+        "tweet id": "499579650926858240",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@David_EHG @traciethoms @AntonioFrench and with Lays potato chips in the other hand.",
+            "user id": 543581602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@David_EHG @Rwalk56 @AntonioFrench I wonder if he knows it's illegal and disrespectful to wear the American flag.",
+            "user id": 33732831,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@David_EHG @traciethoms @AntonioFrench \"amazing\"? Does that mean you're in favor of this violence? What will this solve???",
+            "user id": 2534137561,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

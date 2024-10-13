@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Excellent! The new cinema and art critics #JeSuisCharlie http://t.co/Y2KCVDRWPO",
+        "user id": 48300067,
+        "tweet id": "553560219981459457",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @Patrick_Baz Excellent! The new cinema and art critics #JeSuisCharlie http://t.co/gvG69A7KbV",
+            "user id": 1534755738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Patrick_Baz Muslims, Jews &amp; Christians need to be told Yahweh was only a volcano http://t.co/N6LGt2pcry … #JeSuisCharlie",
+            "user id": 2773566528,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@Patrick_Baz: Excellent! The new cinema and art critics #JeSuisCharlie http://t.co/cbSaM7IQt7”  I❤️it  👍👍",
+            "user id": 1697531264,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@Patrick_Baz: Excellent! The new cinema and art critics #JeSuisCharlie http://t.co/dYBY7NNeeZ”",
+            "user id": 1867583646,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

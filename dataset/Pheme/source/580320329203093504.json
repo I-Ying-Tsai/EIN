@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#A320 @Germanwings flight #4U9525 (registration D-AIPX) was lost from @Flightradar24 at 6800 feet at 09.39 UTC time. http://t.co/5Gv9lXJZW8",
+        "user id": 77528520,
+        "tweet id": "580320329203093504",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@YanniKouts @oemoral @germanwings @flightradar24 Plane crashed near Digne, South of France according to local police.",
+            "user id": 50085645,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@YanniKouts @germanwings @flightradar24 A bit low for cruising altitude?",
+            "user id": 326142499,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@YanniKouts\nA320 van #Germanwings neergestort in Franse Alpen Alpes des Hautes Provence.",
+            "user id": 244225869,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING: Gunfire heard in vicinity of Sydney cafe where hostages are being held, state broadcaster reports. http://t.co/Cbx2v3sNMa",
+        "user id": 2097571,
+        "tweet id": "544513339544838147",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni You guys are slow!!!",
+            "user id": 1693369224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni @CNN \n\nhttp://t.co/CIsr3CyCMo\n\nI want to invite you to the religion of #Islam and I hope you know about Islam.\n\n#Favorite\n#RT \n🌹",
+            "user id": 2852446116,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

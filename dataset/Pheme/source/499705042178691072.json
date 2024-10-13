@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "Children here in #Ferguson https://t.co/Pvg6tDfGlK",
+        "user id": 14090948,
+        "tweet id": "499705042178691072",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Children here in #Ferguson https://t.co/Ivf1RVevZ0” 💖",
+            "user id": 2340198379,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@AntonioFrench any truth to State Senator that was gassed being taken into police custody?",
+            "user id": 67409590,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@AllStateAllTheT @AntonioFrench confirmed, she was at the police chief's interview",
+            "user id": 1852500721,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "\"@AntonioFrench: Children here in #Ferguson https://t.co/oAwAthRE0d\" wow...",
+            "user id": 1149425582,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "They Know Why The Caged Bird Sings. What was that about #CCSS again? “@AntonioFrench: Children here in #Ferguson https://t.co/9I3F8VHPHK”",
+            "user id": 332364202,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench glad they're not gassing the kids",
+            "user id": 340029442,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Children here in #Ferguson https://t.co/F24M804dii”",
+            "user id": 65963242,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AntonioFrench: Children here in #Ferguson https://t.co/Uf116YNoy5",
+            "user id": 263501935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Children here in #Ferguson https://t.co/Iw4QIICobf” Now I get it! This clearly necessitates SWAT teams, military force, etc",
+            "user id": 27182495,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "#blackgirlsrock RT @AntonioFrench: Children here in #Ferguson https://t.co/tRD4dQSOzn",
+            "user id": 140902714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "YAAASSSSS the babies! @AntonioFrench @nealcarter I love this.",
+            "user id": 22504876,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench this is internationally cool. I am so proud of #Fergusen",
+            "user id": 200918966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "\"@AntonioFrench: Children here in #Ferguson https://t.co/PEs3SA8WPq\" -Bless them young Beautiful ladies, im so proud!",
+            "user id": 2461027308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 2,
+            "children": [],
+            "content": "@LAboderin @AntonioFrench crazy..",
+            "user id": 67409590,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

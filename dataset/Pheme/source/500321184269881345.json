@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Violence, brutality, suppression of free speech. Attacks on journalists. \n\nYeah. Let's believe everything the Police say. #Ferguson",
+        "user id": 1716581,
+        "tweet id": "500321184269881345",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames We have all the reason in the world to doubt the #Ferguson police. Namely, that they shot &amp; killed #MikeBrown.",
+            "user id": 2163869204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@elonjames Still no reason to take it out on local business owners. That's why businesses left Detroit. Peaceful protests better.",
+            "user id": 305068648,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@OakfeathersJS @elonjames you expect people to react rationally, but humans rarely act rationally.",
+            "user id": 278060293,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames If cops attack peaceful protests with everybody videoing, cops go, Nat Guard steps in, State pays. Don't hurt businesses.",
+            "user id": 305068648,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames yeah, and lets believe the OIRA approved media outlets say?",
+            "user id": 51410043,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames @thisisjustaride thank you- that's exactly what I thought. Why would anyone believe them?",
+            "user id": 720544370,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames #SwineFlu a hop hop song actually about police brutality http://t.co/TULBDcPgG1 plz listen, share",
+            "user id": 85947311,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

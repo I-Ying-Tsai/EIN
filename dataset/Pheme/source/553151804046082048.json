@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Surviving Charlie Hebdo journalists will work with former colleagues to get the magazine's edition out next week, says an ex-Charlie writer.",
+        "user id": 19968074,
+        "tweet id": "553151804046082048",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@kayaburgess @DAaronovitch \"Surviving Charlie Hebdo journalists\" [shivers]\nRIP.",
+            "user id": 115828719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@kayaburgess @DAaronovitch Have they ever produced cartoons of the holocaust?",
+            "user id": 20361510,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@bluebell2009 @kayaburgess @DAaronovitch what are you suggesting? Just say it.",
+            "user id": 892003255,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

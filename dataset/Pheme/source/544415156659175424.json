@@ -1,0 +1,170 @@
+{
+    "source": {
+        "content": "I'm so happy to see Sydney-siders saying #illridewithyou to Muslim people who fear abuse on public transport following #sydneysiege",
+        "user id": 15638836,
+        "tweet id": "544415156659175424",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@Mark_Chenery Pray that you be right and you are not making same mistakes we Indians made in trusting the Muslims.",
+            "user id": 158399728,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@CAPMohan oh come on man! Don't ruin the good gesture of this tweet. Hatred is  bad for Health@Mark_chenery",
+            "user id": 1592795712,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@CAPMohan mr mohan, don't forget your indian army and your people and the most coward of all...they rape their own people and blame others",
+            "user id": 1043410722,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Mark_Chenery other Muslims should not have to deal with the hate in the first place. There not involved in the actions of a lone wolf",
+            "user id": 1933427953,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Mark_Chenery It is great to have the #illridewithyou, but also sad at the same time that it is necessary.",
+            "user id": 103143482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Mark_Chenery That person is a criminal and should be given an exemplary punishment. This is a coward act. Love and respect to #Australians.",
+            "user id": 1043410722,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Mark_Chenery @sanjayuvacha Think why hav things come to it that people are actually afraid of Muslims.No propaganda, people actually afraid",
+            "user id": 2449394353,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [
+                8,
+                9,
+                10,
+                11
+            ],
+            "content": "@ff_aucklander It is not hatred. It is based on harsh reality that we face day in and day out. May be Aus cant understand. Israeli can",
+            "user id": 158399728,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@ff_aucklander And I certainly don't mean you kill the Muslim guy whenever you meet",
+            "user id": 158399728,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@CAPMohan I can see the IRONY now!? Embracing ZIONISM &amp; their Apartheid policies. Nice profile picture though, it tells me a lot about you😉",
+            "user id": 1592795712,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "content": "@CAPMohan @ff_aucklander Think why hav things come to it that people are actually afraid of Muslims.No propaganda, people actually afraid",
+            "user id": 2449394353,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [],
+            "content": "@CAPMohan @ff_aucklander Think why hav things come to it that people are actually afraid of Muslims.No propaganda, people actually afraid..",
+            "user id": 2449394353,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

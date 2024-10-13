@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "LIVE A French AirForce C-135 still over the area of #Germanwings Crash. http://t.co/wFg8KTSve2 http://t.co/JKMsJ8wL7P",
+        "user id": 2280470022,
+        "tweet id": "580352792700821504",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@airlivenet: LIVE A French AirForce C-135 still over the area of #Germanwings Crash. http://t.co/U8VHesMabH http://t.co/Dlrg1tMGZZ”",
+            "user id": 72588786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@L4zick @airlivenet where is this screenshot from? Thanks",
+            "user id": 273556649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @France24_en",
+            "user id": 404500323,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

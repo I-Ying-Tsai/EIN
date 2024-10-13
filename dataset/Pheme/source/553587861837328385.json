@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Police say two #charlieHebdo killers have been killed north of Paris. Hostages also released in super market. Coordinated police response",
+        "user id": 90918950,
+        "tweet id": "553587861837328385",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mattfrei Are you sure abt super market. Fracne 24 reporting deaths at kosher market",
+            "user id": 86495094,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "MT @mattfrei: Police say 2 #CharlieHebdo suspects killed north of Paris. Hostages also released in supermarket. Coordinated police response.",
+            "user id": 956452369,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mattfrei @Channel4News I am sure now that they believe to be rewarded in heaven with virgins.  This radicalism needs to be stopped! Full.",
+            "user id": 2622559649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mattfrei Hi Matt. Will you be doing a full report on @Channel4News at 7pm? Andrew",
+            "user id": 52028064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

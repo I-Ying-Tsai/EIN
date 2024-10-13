@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "American media: stop calling #OttawaShooting \"Canada's 911\" We don't know who or why yet. Canadians prefer to spread facts,not fear #cdnpoli",
+        "user id": 523885252,
+        "tweet id": "524981890567385088",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ActionFlickDoc thank you! Couldn't have said it better!",
+            "user id": 2324284362,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ActionFlickDoc this is such an awesome tweet",
+            "user id": 514873396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ActionFlickDoc thank you!",
+            "user id": 470564903,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ActionFlickDoc well said!",
+            "user id": 50918565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ActionFlickDoc Whoa! Which news outlet was calling it that?",
+            "user id": 16546341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ActionFlickDoc @Norlaine thank you for your objectivity, in heightened matters calm people are objective; subjectivity is never acceptable!",
+            "user id": 2699710783,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ActionFlickDoc @deBeauxOs1 ohhh of course #US would co-opt this- for their \"terror metre\" politics",
+            "user id": 634874281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@ActionFlickDoc such myths about our higher virtue is why most Canadians are surprised when violent political acts are carried out here",
+            "user id": 23958851,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@inter_aliaa Not a myth. I'm a media scholar who studies US v Canadian coverage of firearms incidents. US is covering this very differently",
+            "user id": 523885252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

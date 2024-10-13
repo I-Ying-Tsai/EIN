@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "Please do not use today as an excuse to be racist and bigoted. Ignoring the Telegraph would be a good start. #sydneysiege #auspol",
+        "user id": 553259396,
+        "tweet id": "544362543997665280",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminTJones1 all the telepgraph is good for is inciting racism and making open minded people have rage induced strokes",
+            "user id": 1081915184,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminTJones1 @CarlCleveland  Yea verily!",
+            "user id": 1468323792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@BenjaminTJones1 @BradWalterSMH it's not Islam that has done this, most Muslims are peace loving people",
+            "user id": 29905970,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@qlotti and not all Germans were nazis @BenjaminTJones1 @BradWalterSMH",
+            "user id": 243894597,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminTJones1 nice comment",
+            "user id": 171738012,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminTJones1 @BradWalterSMH I've been doing that for about 20 years.",
+            "user id": 61451706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminTJones1 Auburn earlier today was business as usual busy bustling. Not yet gripped by paranoia!",
+            "user id": 812081389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminTJones1 @CarlCleveland I thought most sensible people did..",
+            "user id": 1855743176,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminTJones1 @Darthspoog Ignoring the Telegraph is always a good start.",
+            "user id": 467035743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@BenjaminTJones1 Fact: You can't be racist against a 'religion'. Especially Islam, with followers from all around the world. #sydneysiege",
+            "user id": 1115778445,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@nonifinon Selective reading? I also said not to be bigoted.",
+            "user id": 553259396,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@BenjaminTJones1 Pathetic. My point stands. I'm a realist. People like you are the bigots. I hope you aren't teaching your bigotry to kids.",
+            "user id": 1115778445,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

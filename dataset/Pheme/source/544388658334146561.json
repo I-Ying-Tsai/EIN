@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Yet another hostage has just been forced by the gunman to call the @9NewsSyd office - passed on his captor's demands #SydneySiege",
+        "user id": 25777812,
+        "tweet id": "544388658334146561",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@tomsteinfort @9NewsSyd who uses the phone?...hasn't he heard of twitter or other soc media? #sydneysiege",
+            "user id": 32274369,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@tomsteinfort @9NewsAUS @9NewsSyd most of the 1st world use the phone. I'm guessing you're gen y with that  silly statement",
+            "user id": 20126427,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@tomsteinfort @9NewsMelb @9NewsSyd",
+            "user id": 1446258750,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@tomsteinfort @9NewsMelb @9NewsSyd I feel 4 these innocent people.They were either working or grabbing a coffee.An Idiot crossed their path",
+            "user id": 459140505,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@tomsteinfort @9NewsSyd if it's 10 onto 1 why don't the hostages rally and take this bloke out?",
+            "user id": 538730331,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

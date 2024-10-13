@@ -1,0 +1,111 @@
+{
+    "source": {
+        "content": "\"Police in #Ferguson, once charged a man with destruction of property for bleeding on their uniforms while four of them allegedly beat him.\"",
+        "user id": 26165922,
+        "tweet id": "500285938824908801",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@imillhiser Can you provide a source for your statement about charging \"destruction of property\" for bleeding on uniforms?",
+            "user id": 17354053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "content": "@mcherm http://t.co/HyKLVOEomh",
+            "user id": 26165922,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@imillhiser @GrooveSDC That's disgraceful. Once again that infamous word \"allegedly\" is used for non-Black people. #JusticeForMikeBrown",
+            "user id": 719968179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@imillhiser  again for emphasis http://t.co/amEsg5CJJE",
+            "user id": 413138340,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@imillhiser John Wesley Hardin once shot a man for snoring.   Your move.",
+            "user id": 20832363,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "This is some crooked shit. “@imillhiser: @mcherm http://t.co/XXzRnMdyB1”",
+            "user id": 36139751,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@SYKOScoRch @imillhiser @mcherm insane.",
+            "user id": 1046305598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

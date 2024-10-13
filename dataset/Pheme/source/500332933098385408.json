@@ -1,0 +1,120 @@
+{
+    "source": {
+        "content": "If you can justify shooting an unarmed teenager by saying \"he might have been committing a misdemeanor\" you are a fucking asshole. #Ferguson",
+        "user id": 360738490,
+        "tweet id": "500332933098385408",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@kristinpuhl \"might\" does not even constitute evidenciary support for ANY criminal charges.",
+            "user id": 18519779,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@kristinpuhl @OpFerguson attacking an officer is no a misdemeanor ....",
+            "user id": 1952536802,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@DJJonSTL @OpFerguson Hey look, it's a fucking racist! BLOCK, you son of a bitch.",
+            "user id": 360738490,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@kristinpuhl Strong Armed Robbery ain't a misdemeanor &amp; supplies a motive for fighting w/the cop. And, yeah, I'm an asshole.\n #FERGUSON",
+            "user id": 288579703,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": ".@4200boise Damn right you're an asshole! Since when is shooting an UNARMED TEENAGER ok? Only racists find it acceptable.  #Ferguson",
+            "user id": 360738490,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@kristinpuhl If you don't think there is clear motive in fighting or fleeing from police after robbery, you are a fucking moron. #Ferguson",
+            "user id": 178888741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": ".@KeepItRealist This \"fucking moron\" has an IQ of 140 &amp; admission to med school, but you are DEFINITELY a fucking racist. #Ferguson",
+            "user id": 360738490,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@kristinpuhl You've confirmed. Only the true idiots try to brag about their IQ on social media and believe admission equals intelligence.",
+            "user id": 178888741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

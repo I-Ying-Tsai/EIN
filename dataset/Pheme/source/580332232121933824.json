@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING: A Germanwings jet crashed in France as it traveled from Barcelona to Dusseldorf http://t.co/vqUUuspIFk http://t.co/mwguIFT1iu",
+        "user id": 17469289,
+        "tweet id": "580332232121933824",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost Wow this is happening too much.. Scare to go on vacation..",
+            "user id": 29493511,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost @KirFlem it's Better to take the high speed rail over there. Safer too.",
+            "user id": 253021891,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

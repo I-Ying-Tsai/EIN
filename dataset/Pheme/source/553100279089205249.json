@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Don't know if this Woody Guthrie-quoting #CharlieHebdo image is really by Banksy (@therealbanksy?) but I like it. http://t.co/MNXYEMIWMO",
+        "user id": 21186391,
+        "tweet id": "553100279089205249",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AndrewCollins It's not by @therealbanksy. @artsemergency tweeted it before he did and the pencils are by Oliver Jeffers I believe.",
+            "user id": 18218637,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AndrewCollins they’re real pencils you can (could?) buy. I have some too http://t.co/qy8O0iSipb",
+            "user id": 71763,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AndrewCollins @TheRealBanksy #iStandWithCharlie .. Do you? Join my hand : http://t.co/8OpbxZrLsS",
+            "user id": 2967365878,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@AndrewCollins http://t.co/UoYk4kwMXG when I got them the export slicker on the parcel worryingly said just “fascist pencils”",
+            "user id": 71763,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@bounder @AndrewCollins *gasp* you can actually buy them? I'm never going to write with anything else!",
+            "user id": 18218637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AndrewCollins @TheRealBanksy Rule of thumb: anything on twitter claimed to be by Banksy is not by Banksy.",
+            "user id": 254122734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AndrewCollins @TheRealBanksy I prefer Pete Seeger's mantra.I think there is too much wish to kill,it solves nothing. http://t.co/NAZtU6Mfzn",
+            "user id": 164430070,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AndrewCollins it's not and @therealbanksy isn't real either, apparently.",
+            "user id": 19562235,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AndrewCollins @TheRealBanksy It was Pablo Picasso who said \"Good artists copy, great artists steal.\"",
+            "user id": 37420839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "CONFIRMED: Three hostages, 2 customers, 1 worker, have been released from Cafe. #sydneysiege",
+        "user id": 423662810,
+        "tweet id": "544353303468199936",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage released or escaped?",
+            "user id": 8754802,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage http://t.co/QmgulquObV STOP THE VIOLENCE BY &amp; AGAINST YOUTH, POLICE &amp; ALL OTHERS! http://t.co/OXYD5vwsYF",
+            "user id": 2734020596,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

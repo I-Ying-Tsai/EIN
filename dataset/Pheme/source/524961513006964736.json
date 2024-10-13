@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "IN LOCKDOWN | Many buildings in downtown Ottawa in lockdown as shooting investigations continue: http://t.co/kKUgUz4zHC #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524961513006964736",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa School board is locked down city wide -- Kanata schools locked down",
+            "user id": 823015,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

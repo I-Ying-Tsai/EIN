@@ -1,0 +1,177 @@
+{
+    "source": {
+        "content": "Those people in #Ferguson must think they have some kind of constitutional right to protest or something.",
+        "user id": 26567591,
+        "tweet id": "499691556652449792",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@mattblaze Freedom of speech, freedom of assembly. What a great idea! Somebody should write that down someplace.",
+            "user id": 17495946,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@carlmalamud If you give people in Ferguson the right to protest, soon everyone will want it. And then where will we be?",
+            "user id": 26567591,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze @Thomas_Drake1 Or to stand in a group over a block from the police.",
+            "user id": 9745992,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze that probably got rescinded years ago via secret executive order. @Thomas_Drake1",
+            "user id": 40766692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze @DonteStallworth your definition of protest must be different than mine. MLK did it peacefully they are just acting out of line.",
+            "user id": 733991028,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze @DonteStallworth nothing wrong with protest but the looting and destruction takes away from the message.",
+            "user id": 40285143,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze @DonteStallworth Freedom Of Speech, DoeDoeBirds!\nDisappointed in U @DonteStallworth\nStuck behind U thru your trials!",
+            "user id": 194358270,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze @Sugarintheplum What a radical notion.",
+            "user id": 339003927,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze @gaildaye Geez ... next thing you know, they'll want to pursue happiness.  Where do they think they are ...America? Oh ...wait ..",
+            "user id": 515047062,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@mattblaze @jadedjenny71. One wonders if your President has anything to say on the matter, after.....days.",
+            "user id": 366628849,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@mattblaze: Those people in #Ferguson must think they have some kind of constitutional right to protest or something.” OH WAIT!!  THEY DO!!",
+            "user id": 710790529,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [
+                12
+            ],
+            "content": "@mattblaze Where will we be? We will have arrived in a better America. :)",
+            "user id": 17495946,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@carlmalamud @mattblaze *sigh*",
+            "user id": 354044734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 10
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

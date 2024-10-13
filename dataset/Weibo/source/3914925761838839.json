@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "#习主席出席巴黎大会#【习近平会见奥巴马 强调中美要牢牢把握构建新型大国关系正确方向】30日习近平在巴黎会见奥巴马时强调，中美两国应坚持不冲突不对抗、相互尊重、合作共赢原则，从双边、地区、全球各个层面推进两国务实交流合作。双方要共同努力，确保两国关系继续健康稳定发展。(央视记者王宇波)",
+        "user id": 2656274875,
+        "tweet id": "3914925761838839",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "+1",
+            "user id": 3860052944,
+            "user name": "紫竹林社区",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#习主席出席巴黎大会#",
+            "user id": 1055023423,
+            "user name": "盈点财富生活频道",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "[挖鼻][挖鼻]",
+            "user id": 1622235451,
+            "user name": "CAPT_Jin",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "转发微博",
+            "user id": 5052957414,
+            "user name": "陇南康县岸门口镇",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "",
+            "user id": 3778456060,
+            "user name": "陇南工商",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "[赞]",
+            "user id": 3541652521,
+            "user name": "陇南康县长坝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "#国际热点关注#【习总出访】",
+            "user id": 1781718090,
+            "user name": "-过客2011",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "看看这两天的雾霾，气候大会是要好好关注了[思考]",
+            "user id": 3866608175,
+            "user name": "杭州师范大学团委",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "习大大，回来管管北京的雾霾吧！要不十几二十年后，你曾经的子民都将死于肺癌",
+            "user id": 2068595625,
+            "user name": "瑞瑞_80",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "BREAKING: 10 reported dead in Charlie Hebdo HQ shooting - local media http://t.co/Q27XnP3AS3",
+        "user id": 64643056,
+        "tweet id": "552786361758265344",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RT_com Let me guess, muslim \"terrorists\" again?",
+            "user id": 2691186956,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@HopeNotPC @RT_com No! Just terrorists.",
+            "user id": 1100855744,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@rt_com I'm guessing they've annoyed either the Religion of Peace or the Religion of Hatred and Death",
+            "user id": 830674884,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@BoningMugger @RT_com here's your answer: the second one.",
+            "user id": 1100855744,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com \n\nSomebody is mad about a Mohammed joke or whoever....Allah? Who can we not draw pictures of without them freaking out?",
+            "user id": 2734598839,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Islamic terrorist?",
+            "user id": 362550270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "速報　パリの風刺新聞CharlieHebdoに銃持った男達が侵入　10人死亡という　地元メディア　 @iwakamiyasumi　#飛べサル　@RT_com http://t.co/p6kIb1g1hI",
+            "user id": 248095178,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com sounds like somebody is trying hard to make the point",
+            "user id": 105078752,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Someone must draw cartoons of the attack!",
+            "user id": 31319544,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com it's the brownshirts.",
+            "user id": 1100855744,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@RT_com: 10 reported dead in Charlie Hebdo HQ shooting - local media http://t.co/BK2siZZheq” http://t.co/zzkhUNaWIf",
+            "user id": 1382894354,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com you know The Arabs make a party for the killing and murder. Blood is so sweet for god of islam.",
+            "user id": 2373783968,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

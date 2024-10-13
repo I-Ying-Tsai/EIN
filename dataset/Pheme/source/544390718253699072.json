@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "LIVE: Updates on #SydneySiege via BBC http://t.co/uaz8P27xME http://t.co/oIKC3ZWxKL",
+        "user id": 2190056023,
+        "tweet id": "544390718253699072",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS Your tweet makes my page better: http://t.co/NCv8cwTzjf",
+            "user id": 460502356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCWorld OMG..",
+            "user id": 102736645,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCWorld \nA Right Royal Robbery: How the Al Khalifas Took a Quarter* of Bahrain’s Wealth https://t.co/FjvcHkRZlT #Bahrain",
+            "user id": 259166697,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCWorld Actors in action. Mindset: The British Queen Police rescue Chinese Woman. Hello Protestors in China..",
+            "user id": 1521716119,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcos EUA ATACA BRASILEIROS COM ARMAS PSICOTRONICAS FERE TRILOGIA DA LIBERDADE IGUALDADE FRATERNIDADE\nPRECISAMOS AGIR PT OMISSO",
+            "user id": 577180219,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@BBCOS @BBCNews  Islamic terror now truly global - US, UK, Euro, ME, India, and, after years of peace, Australia http://t.co/Qi0GhL3TqG",
+            "user id": 264103932,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@JohnK1954 Hi John are you in Sydney? We'd be very keen to speak to you to get your reaction to the siege. Would you be interested? thanks",
+            "user id": 132503444,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "Everywhere we have to be careful ! Scandal ! “@BBCOS: LIVE: Updates on #SydneySiege via BBC http://t.co/af2k5kmSUx http://t.co/eoF3egStEN”",
+            "user id": 2883191686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCNews Bless you Oz",
+            "user id": 1597935852,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCNews",
+            "user id": 2920099022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

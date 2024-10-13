@@ -1,0 +1,89 @@
+{
+    "source": {
+        "content": "DEVELOPING STORY: Soldier shot in #Ottawa at War Memorial. http://t.co/mm5SwzQpyZ http://t.co/U94FCGWlsi",
+        "user id": 17659340,
+        "tweet id": "524931019745812480",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVToronto We need to do something about this Canada!!",
+            "user id": 728394116,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CTVToronto @Elisa_Lo_ So sad.",
+            "user id": 345595739,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@KerriBennettW @CTVToronto enemies in our midst...it is very sad! And for what? Hard to understand! A precious life lost senselessly 😢",
+            "user id": 309809359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "content": "@Elisa_Lo_ @CTVToronto Crazy evil. :( Prayers for comfort for all those harmed/hurt, body or soul.",
+            "user id": 345595739,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@KerriBennettW @CTVToronto that is the word....evil... no other explanation for such an act! :(( Prayers...only God can comfort &amp; heal...",
+            "user id": 309809359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

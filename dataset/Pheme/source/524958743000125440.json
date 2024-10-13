@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING: #Ottawa Civic Hosp official says TWO NEW PATIENTS are enroute to hospital. 1 w/gunshot wounds. Both stable. @ctvottawa #ottnews",
+        "user id": 55011262,
+        "tweet id": "524958743000125440",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@CatherineCTV: BREAKING: #Ottawa CivicHosp official: TWO NEW PATIENTS are enroute to hospital\n1 w/gunshot wounds\nBoth stable",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CatherineCTV @ctvottawa That makes four in total?",
+            "user id": 1370207605,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

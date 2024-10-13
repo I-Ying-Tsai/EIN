@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "Canada investigating Michael Zehaf-Bibeau as possible suspect in Ottawa shooting: source. http://t.co/wDoVC3ro2V http://t.co/Futx84hFmU",
+        "user id": 1652541,
+        "tweet id": "525027539845410816",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@Reuters: Canada investigating Michael Zehaf-Bibeau as possible suspect in Ottawa shooting: source. http://t.co/GID3LlIUiH @paobarquet",
+            "user id": 629028228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Madortz @Reuters @paobarquet we need to eliminate 'its' name from public record. Simply refer to this coward as a nameless thing",
+            "user id": 162126760,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters its a strange surname, what region does it represent?",
+            "user id": 318463648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters هههههه وربي حساب عجيب شوفوآ بالله - @Question_arab",
+            "user id": 2295725031,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters ههههه ليش وليد الفراج متابع هالحساب ؟ @Question_arab",
+            "user id": 2787487678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters So... Maybe this kid had issues.",
+            "user id": 357019947,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters muchos locos sueltos ahora todo por region la mayoria de veces",
+            "user id": 2815235802,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters...Canada you're in my prayer...Canada means alot to mean...Debbie be strong",
+            "user id": 714530598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters why not mention the shooter was an Islamic follower",
+            "user id": 369437673,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters President Obama and Hillary Clinton would say this was because of a video",
+            "user id": 117509053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "MT @Reuters: Police investigate Michael Zehaf-Bibeau as suspect in Ottawa shooting: source http://t.co/QVboqvv4ee http://t.co/A4sZyWly7W",
+            "user id": 213202497,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters Canadian response team touch each other's shoulders so a sniper can pace his shots easier.",
+            "user id": 2614001430,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

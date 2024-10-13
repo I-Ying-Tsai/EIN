@@ -1,0 +1,189 @@
+{
+    "source": {
+        "content": "VIDEO: Watch the dramatic moment heavily armed police stormed the Lindt Chocolate Cafe http://t.co/6Nlwbf9BwL #sydneysiege #ABCNews24",
+        "user id": 129673790,
+        "tweet id": "544520195659014145",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ABCNews24 2 hostages dead",
+            "user id": 423247662,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ABCNews24  2 dead, 3 seriously injured, including a police officer",
+            "user id": 423247662,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 Watched that live on another network, scary stuff!",
+            "user id": 701089236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 @abcnews The person yelling \"what was that?!\"...it wasn't an invitation to dance. It was a live hostage taking. Expect explosions",
+            "user id": 2537547075,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 why is @cnnbrk reporting ABC said 2 dead in #sydneysiege but ABC reporters on ground saying they hope everyone's ok. Bizarre.",
+            "user id": 10861282,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 suggest a producer watching the same live footage we've been watching brief your reporters on the ground. #sydneysiege",
+            "user id": 10861282,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 @abcnews yes bizarre your reporters stating that all hostages came out looking healthy. We saw a number requiring CPR on footage",
+            "user id": 115600043,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 @abcnews Watch the dramatic breach of the cafe as special weapons police make a final assault. End of #sydneysiege",
+            "user id": 243983947,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Bloody hell “@ABCNews24: VIDEO: Watch the dramatic moment heavily armed police stormed the Lindt Chocolate Cafe http://t.co/8qYfFwFyDY",
+            "user id": 19896820,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 My heart stopped beating watching that footage :(",
+            "user id": 24125118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 geez the gunman was granted asylum. I bet Australia will scrutinize their decisions thus far. A shame for people needing asylum.",
+            "user id": 839824826,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "@ABCNews24 @MMcInerney89 Fuck!!!!!!!! Speechless?!?!?",
+            "user id": 190107791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@stevesilk1 wild man. Never seen anything like it.",
+            "user id": 297847624,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 Why did that take so long.",
+            "user id": 550679423,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNews24 http://t.co/s8NlbZXrRh http://t.co/Vx72ac6eTA",
+            "user id": 2596804566,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

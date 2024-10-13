@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "#Breaking: A plane carrying at least 142 people crashes in  France. French PM says unlikely anyone on the #Germanwings  jetliner survived",
+        "user id": 9648652,
+        "tweet id": "580332485030125568",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@myfoxla I would never fly w/ an #German Airline. Always technical problems Especially #Germanwings has always problem w/ smoke in the cabin",
+            "user id": 2592010609,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

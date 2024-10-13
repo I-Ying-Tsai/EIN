@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "Just in: U.S. Consulate near the scene in Sydney has accounted for all of its personnel: http://t.co/0h2F8SVCS2 @CNN http://t.co/UUiuFBi01A",
+        "user id": 281754653,
+        "tweet id": "544332610097676288",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cmanduley Thanks so much for sharing. Just added it to my @Nairobi411News http://t.co/UU14jhv9sz",
+            "user id": 28103908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cmanduley @CNN",
+            "user id": 2906757832,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "i bet he would dead @cmanduley @CNN",
+            "user id": 2476650373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@cmanduley @CNN politicians are always so much more important than the victims",
+            "user id": 2907264303,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@ToDoRoJoALLRED @cmanduley @CNN http://t.co/k83S5Wy6gd",
+            "user id": 329227314,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cmanduley @CNN bring mosque Imam or any Islamic community leader to talk to them",
+            "user id": 2688052579,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cmanduley @CNN Prayers to the victims and their families. 🙇",
+            "user id": 51093959,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@cmanduley @CNN is the purpose of this headline to assure Americans that they can stop paying attention now?",
+            "user id": 2209179798,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@AshleyGenno @cmanduley @CNN So it seems - as always. Ugh. Guess victims only count if they're American.",
+            "user id": 105653707,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@cmanduley @CNN thank christ. I had been sick w worry...",
+            "user id": 26342862,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@cmanduley @CNN this is #Not good peace and love to ALL #stinger11th #What happened to that?",
+            "user id": 80705922,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@cmanduley @CNN that's all that matters really I guess?! Wow. Insular.",
+            "user id": 1627448426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

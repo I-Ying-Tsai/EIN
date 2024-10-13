@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "RT this cartoon and pay your tribute\nshow them real face of MUHAMMAD\n#CharlieHebdo\n#ParisShooting http://t.co/a6SPI3F3ow",
+        "user id": 99333040,
+        "tweet id": "552826876398292992",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HinduDefense sure!",
+            "user id": 439922526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HinduDefense Twitter is not allowing retweet of your tweet!! @DushyantNaMo",
+            "user id": 2304846570,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@HinduDefense : please send this to Dhongi Khan &amp; Hirsni with challenge to make movie on this desert cult's messenger &amp; his antics.",
+            "user id": 2469622596,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@HinduDefense Somewhere in the heaven a painter called M F Hussain is laughing loud after reading this tweet of yours! @keshda",
+            "user id": 624563416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@HinduDefense @TeqTrader cc @Enli8ndMuslim",
+            "user id": 1306245326,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@crowthinks Gaandu kauvve, naatak mat kar @hindudefense @teqtrader",
+            "user id": 1635183072,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@HinduDefense @anilkohli54 TAKEN फिलम में ये बखूबी दिखाया है ।",
+            "user id": 1472240268,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@HinduDefense @Puchynator \"Ein Mädchen von drei Jahren und einem Tag ist zum Beischlaf geeignet.\" Steht so im Talmud.",
+            "user id": 488018270,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@HinduDefense @An_AtheistHindu पेरिस का हाल देखो, प्रण करो ! जहा कोई नेता, मीडीया वाला, सेकूलरिज़्म बके, चप्पल खोल लोगे ! वादा करो !",
+            "user id": 1147328557,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

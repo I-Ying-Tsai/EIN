@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Police are now investigating three shooting incidents in Ottawa at Parliament, shopping mall and War Memorial. http://t.co/1cKIHwuCzl",
+        "user id": 1652541,
+        "tweet id": "524955557686284288",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters هههههه وربي حساب عجيب شوفوآ بالله - @Question_arab",
+            "user id": 2598218616,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters Canada invited Wahhabbi-Soonni terror attacks. Public money used to sponsor Jehadi Mural? I don't sympathize with Canada any more",
+            "user id": 1686700296,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@Reuters 'Merica....oh, wait.",
+            "user id": 39612468,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

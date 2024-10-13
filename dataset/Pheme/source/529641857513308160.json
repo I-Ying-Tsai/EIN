@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Is Prince to perform surprise show in Toronto tonight?  http://t.co/zA1hH7lfc0",
+        "user id": 26020465,
+        "tweet id": "529641857513308160",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ETCanada If he is that's awesome!!!!",
+            "user id": 1059510637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "How come HR organisations in the west give awards to supporter of such actions as @AbdulEla who was awarded by Karama 2013  #CharlieHebdo",
+        "user id": 77685623,
+        "tweet id": "553125364520992768",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Dralnoaimi @AbdulEla well, it's seems like Bin Laden and Isis are the new generations of #HR representatives!!",
+            "user id": 477727042,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Dralnoaimi @AbdulEla \n\nThis means that their is a deficiency in the organization that give him the award,",
+            "user id": 774667758,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@dralnoaimi Unfortunately, such these mistake it considered as internal weakness, which unacceptable to comes out from organization like #HR",
+            "user id": 423188057,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Dralnoaimi  @AbdulEla \n\nThis is evidence that there is an agreement between them",
+            "user id": 1321331874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Dralnoaimi @AbdulEla \n\nThe question is what is the link between Karama and #HR organization ?? how both give such award to same person",
+            "user id": 1094741634,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@kmarzooqi @M_Alhameli_uae @Dralnoaimi whats wrong with @AbdulEla ?",
+            "user id": 2303769546,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Dralnoaimi Is this not an indication of the lack of credibility of these organizations or they sponsor of terrorism ? #ChalieHebdo",
+            "user id": 385610485,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Dralnoaimi @uaemoqrd @AbdulEla مباراة #الامارات_قطر بث مباشر على رابـــط بجوده عاليـة\nمن هـنا\nhttp://t.co/54zBS1Ysg1\nرتويت",
+            "user id": 2969322932,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Dralnoaimi @uaemoqrd @AbdulEla مباراة #الامارات_البحرين بث مبـاشر \nالكمبيوتر\nhttp://t.co/uZxy4LLrYt\nالموبايل\nhttp://t.co/tnmC60iuxv\nرتويت",
+            "user id": 2969322932,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

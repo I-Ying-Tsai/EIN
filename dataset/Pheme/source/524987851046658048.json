@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Police hold news conference on #OttawaShooting - follow our coverage here: http://t.co/0YmuK6kMQM",
+        "user id": 5402612,
+        "tweet id": "524987851046658048",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Follow--&gt;HISTORIC #CHILDABUSE COVER-UP #CSAinquiry @rights_victims  #CUSIPnumber #BREAKING #news  #building7  #OttawaShooting",
+            "user id": 2464329458,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking  we live in the era of spaces, regions and the world has become a small village",
+            "user id": 2252890903,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking We want justice freedom equality and education for all in accordance with the unified global strategy",
+            "user id": 2252890903,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking  we want is to achieve peace security and love among peoples and to renounce violence and terrorism in the world",
+            "user id": 2252890903,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@BBCBreaking you going to report on Israelis shooting at Gaza fishermen . Or Israeli settlers running over and killing children ? #bbcbias",
+            "user id": 241643059,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@ticgran @BBCBreaking or the Palestinian terror attack in Jerusalem today! #bbcbias",
+            "user id": 537748667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @BBCWorld Please don't turn the volume down when they speak French? I'd like to hear what they're saying.",
+            "user id": 243144602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking  How could #Canada say it took them By surprise, when Australia's PM was threatened by #ISIS , HUGE SECURITY MISTAKE #CANADA",
+            "user id": 281737861,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

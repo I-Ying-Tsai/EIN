@@ -1,0 +1,502 @@
+{
+    "source": {
+        "content": "Only photo I will tweet. CPR being performed on the soldier now. I heard four shots. #ottawa http://t.co/cqdw1yx8AI",
+        "user id": 44685373,
+        "tweet id": "524922729485848576",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Reports of gunshots unconfirmed RT @Henderburn: Only photo I will tweet. CPR being performed on the soldier #ottawa http://t.co/zO6CGFl7QR",
+            "user id": 147202533,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Henderburn thank you for posting. It may just be hard to tell in the picture but bystanders look quite calm considering gunfire in area.",
+            "user id": 26853979,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Henderburn @sherrilynne Who the hell would shoot a protector of our freedoms, not a Canadian I hope !",
+            "user id": 2847572610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Henderburn @alimhaider wow. Prayers for the soldier.",
+            "user id": 234213114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Henderburn Hi Peter, this is Marta, reporter from Demotix. Did you take the photo? Would be ok for us to use? Can you send it? thanks",
+            "user id": 360815021,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                14,
+                15
+            ],
+            "content": "@nomedeplume84 I would like to be paid for it, on account of being a journalist.",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@Henderburn why are there no police ??",
+            "user id": 16148520,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@cholmes96 I was there before the police were",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                10,
+                11
+            ],
+            "content": "@Henderburn so.. Instead of helping you took a picture for profit?",
+            "user id": 234922003,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@tdgecas yeah posting information about an evolving shooter situation is less worthwhile than an untrained journalist performing CPR",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                16,
+                17
+            ],
+            "content": "@tdgecas Fuck you idiot",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [
+                18,
+                19
+            ],
+            "content": "@tdgecas @Henderburn I agree Tyler, have some respect.That man shot is servicing your country and all you want to do is snap a pic.Pity you!",
+            "user id": 894946220,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "@Henderburn I'm a Photo Editor @ ABC- Would you be willing to share this with all ABC News platforms and with partners if we credit?",
+            "user id": 33339548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                20
+            ],
+            "content": "@skobos Yeah, sure. Please credit me though.",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 5,
+            "children": [],
+            "content": "@Henderburn @nomedeplume84 ...seriously?! You're trying to profit from this? Think about it...",
+            "user id": 406341532,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 5,
+            "children": [],
+            "content": "@Henderburn could you email me please to subeditors@demotix.com and I'll explain better, thx",
+            "user id": 360815021,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 10,
+            "children": [
+                21
+            ],
+            "content": "@Henderburn don't have to give cpr. Other ways to help. But yeah keep looking for profit. Great professionalism.",
+            "user id": 234922003,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 10,
+            "children": [
+                22
+            ],
+            "content": "@Henderburn stay safe. Hope you're never in the same situation.",
+            "user id": 234922003,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 11,
+            "children": [
+                23
+            ],
+            "content": "@DriesBrent do you think I shouldn't have used social media to warn people? What should I have done?",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 11,
+            "children": [],
+            "content": "@DriesBrent @tdgecas @Henderburn You have a phone! Did you call for help? Nope. I took pics to sell and tweeted that I'm on CNN and ABC.",
+            "user id": 433011370,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 13,
+            "children": [
+                24
+            ],
+            "content": "@Henderburn Will do! Would you Prefer your name or your handle?",
+            "user id": 33339548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": 16,
+            "children": [
+                25
+            ],
+            "content": "@tdgecas @Henderburn \"professional, adjective: engaged in a specified activity as one's main paid occupation rather than as a pastime\"",
+            "user id": 2584296595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 22,
+            "parent": 17,
+            "children": [],
+            "content": "@tdgecas @Henderburn well said @tdgecas",
+            "user id": 2770148554,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 18,
+            "children": [
+                26
+            ],
+            "content": "@Henderburn I have no issue with warning people whatsoever. But to take a photo, please!",
+            "user id": 894946220,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 24,
+            "parent": 20,
+            "children": [
+                27
+            ],
+            "content": "@skobos Will both fit on the lower thirds? I would appreciate name, then handle.",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 21,
+            "children": [
+                28
+            ],
+            "content": "@tdgecas @Henderburn so yeah, expecting to get paid for doing his job seems pretty professional to me",
+            "user id": 2584296595,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 26,
+            "parent": 23,
+            "children": [
+                29
+            ],
+            "content": "@DriesBrent the photo does not show the soldier. It shows the response. Brave bystanders trying to save him",
+            "user id": 44685373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 27,
+            "parent": 24,
+            "children": [],
+            "content": "@Henderburn Yep, I can add both for sure. Thank you!",
+            "user id": 33339548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 28,
+            "parent": 25,
+            "children": [
+                30
+            ],
+            "content": "@BigDilbertFan photography is his job? My whole issue was a man needed help. There are ways to help if you don't know cpr",
+            "user id": 234922003,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 29,
+            "parent": 26,
+            "children": [],
+            "content": "@Henderburn my main issue was the picture. Heard your reporting on cnn thought you did a good job. Continue to be safe.",
+            "user id": 234922003,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [
+                31
+            ],
+            "content": "@tdgecas @henderburn I didn't realize you were on the scene and could verify that he could have saved the life of the guy shot four times.",
+            "user id": 2584296595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 31,
+            "parent": 30,
+            "children": [
+                32,
+                33
+            ],
+            "content": "@tdgecas @Henderburn Getting the word out about an active shooter situation seems pretty helpful, but please, tell us what you'd have done.",
+            "user id": 2584296595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 32,
+            "parent": 31,
+            "children": [
+                34
+            ],
+            "content": "@BigDilbertFan Call 911? Signal for help? Keep an eye out for the rescuers? Simply ask the people if there's anything he can do?",
+            "user id": 234922003,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 33,
+            "parent": 31,
+            "children": [],
+            "content": "@BigDilbertFan we won't agree on this and that's okay. If you're in Ottawa stay safe.",
+            "user id": 234922003,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 34,
+            "parent": 32,
+            "children": [
+                35
+            ],
+            "content": "@tdgecas You don't have any evidence that he didn't do any of these things in addition to taking a picture, but you accuse away.",
+            "user id": 2584296595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [],
+            "content": "@tdgecas Way to care for people.",
+            "user id": 2584296595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

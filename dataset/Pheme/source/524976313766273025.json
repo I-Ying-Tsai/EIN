@@ -1,0 +1,147 @@
+{
+    "source": {
+        "content": "Thinking of Layton's words: \"Love is better than anger. Hope is better than fear. Optimism is better than despair.\" #ottawashooting",
+        "user id": 217104488,
+        "tweet id": "524976313766273025",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NanceAckerman I prefer Churchill: \"Our difficulties and dangers will not be removed by closing our eyes to them.\"",
+            "user id": 805477285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@justinmjdell @NanceAckerman Right on!",
+            "user id": 2257820275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NanceAckerman a beautiful sentiment for this challenging moment",
+            "user id": 41438067,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@NanceAckerman oh shut it. Not today chick.",
+            "user id": 356235103,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@BarbDDavison Cf. point #1 above.",
+            "user id": 1042800552,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NanceAckerman Not much solace for the mother and father of the soldier who was shot.",
+            "user id": 2257820275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@NanceAckerman http://t.co/CYzuF678bR",
+            "user id": 224403587,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@NanceAckerman So true!",
+            "user id": 1684750788,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@NanceAckerman and fantasy is better than reality. What drivel",
+            "user id": 325662379,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@NanceAckerman you got the best tweets",
+            "user id": 2728348911,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@parenti083 why, thank you.",
+            "user id": 217104488,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

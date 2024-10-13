@@ -1,0 +1,191 @@
+{
+    "source": {
+        "content": "#Charlie Hebdo are not just journalists, they are the bravest activists here in #france. love you all",
+        "user id": 732393506,
+        "tweet id": "552839972911611904",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@femeninna yay Inna be careful today they evacuating building in spain newspapers toothey might be doin stuff in chain, get ur girls at home",
+            "user id": 2820739154,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "content": "No entras en el bucle de propagar MIEDO, estais haciendo el rollito de los imperialistas  una vez mas 👿 @MissHipatia @femeninna",
+            "user id": 115650912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@femeninna\nWhat do you know about #CharlieHebdo?\nDon't use this fact to spread your islamophobia, you'll step from an idiot  to a cunt.",
+            "user id": 551211249,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@femeninna Must stop islamists from living in Europe, because to stop people from being stupid, illiterate and marrying cousins-impossible",
+            "user id": 163126577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@femeninna @Femen_France yeah the bravest http://t.co/3difJW099I",
+            "user id": 417074100,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@Facfortia @femeninna does not make sense your comment, try speak in english",
+            "user id": 2820739154,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@MissHipatia @femeninna my comment makes perfect sense if you speak Spanish:don't spread fear because you do the imperialist game again",
+            "user id": 115650912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@Facfortia @femeninna the ones who spread fear wear a gun, so stop talking bullshit to me",
+            "user id": 2820739154,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "content": "@MissHipatia @femeninna I agree on that but it's time to address the REAL issue: France must STOP arming terrorists.Charlie NOT responsible",
+            "user id": 115650912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@Facfortia @femeninna yah there migh be a big weapon contraband if shootings keeps happening",
+            "user id": 2820739154,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@MissHipatia @femeninna of course!and the SOABS who did it yesterday were KNOWN 2 the FR Interior minister and FREE to go around see?",
+            "user id": 115650912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "@MissHipatia @femeninna  this is exactly why I am saying: we must address the REAL issue.",
+            "user id": 115650912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

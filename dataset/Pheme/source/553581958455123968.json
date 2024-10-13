@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING Explosions at site where Charlie Hebdo suspects holed up: AFP",
+        "user id": 380648579,
+        "tweet id": "553581958455123968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Explosions at site where Charlie Hebdo suspects holed up: AFP”",
+            "user id": 19195094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Explosions at site where #CharlieHebdo suspects holed up: AFP”",
+            "user id": 258730076,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AFP: #BREAKING Explosions at site where Charlie Hebdo suspects holed up: AFP",
+            "user id": 17817491,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

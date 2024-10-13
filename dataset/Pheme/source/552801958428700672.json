@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "Nine journalists and two police officers killed in #CharlieHebdo attack, police spokesman confirms http://t.co/KtQOYWXKev",
+        "user id": 788524,
+        "tweet id": "552801958428700672",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews I strongly condemn this terrorist attack as a Turkish Muslim.I love my Prophet.But my Prophet rejects terrorism.",
+            "user id": 2464502209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardiannews: Nine journalists and two police officers killed in #CharlieHebdo attack, police spokesman confirms http://t.co/c61Ukd21R8”",
+            "user id": 34103099,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardiannews: Nine journalists and two police officers killed in #CharlieHebdo attack, police spokesman confirms http://t.co/yhhi8iKKBj”",
+            "user id": 255419444,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews Wild West Politics: Western Europe is suffering from its internal contradictions; welcome to the tribal politics of future.",
+            "user id": 25472797,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@guardiannews 10 halas…",
+            "user id": 2437743015,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@guardiannews 10 journalistes dead, 2 policemen",
+            "user id": 2437743015,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ajb_ank @guardiannews Bots will conquest all the world.",
+            "user id": 2856401319,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardiannews: ผู้เสียชีวิตเหตุยิงสนง.นสพ.ในกรุงปารีส 9 ราย เป็นนักข่าว 2 ราย เป็นตำรวจ #CharlieHebdo http://t.co/jwgo84MDfp”",
+            "user id": 2578182110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "this is vile!\n\nRT “@guardiannews: Nine journalists and two police officers killed in #CharlieHebdo attack... http://t.co/NjRYYxdVfH”",
+            "user id": 202141861,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews Dear Islamists - western values not your cup? Europe's prolly not for you.",
+            "user id": 703412466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews Horror in Paris",
+            "user id": 109535417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

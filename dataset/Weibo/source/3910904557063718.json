@@ -1,0 +1,90 @@
+{
+    "source": {
+        "content": "【声明】今天互联网上流传所谓“央视新闻发布微博，称'死者情绪稳定’”的截图，经确认该图是伪造图片！我们对这种利用同胞遇害一事，恶意炒作的行为，表示严厉谴责，并保留追究法律责任的权利。转发，传递真相！",
+        "user id": 2656274875,
+        "tweet id": "3910904557063718",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "谴责造谣者！支持依法惩治造谣生事的人！",
+            "user id": 1214199295,
+            "user name": "黄胜友微博",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2,
+                4
+            ],
+            "content": "严惩造谣者！",
+            "user id": 1044527073,
+            "user name": "吴其伦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "[作揖]",
+            "user id": 1214199295,
+            "user name": "黄胜友微博",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "[话筒]@吴其伦:严惩造谣者！",
+            "user id": 3167571163,
+            "user name": "香港卫视杜利勇",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "必须严惩，净化网络，加强意识形态管理！",
+            "user id": 5528286577,
+            "user name": "忠诚卫士刘杰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

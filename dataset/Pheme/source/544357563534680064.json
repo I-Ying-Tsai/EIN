@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "At least three hostages flee #lindtcafe in #Sydney  http://t.co/z9JrtJ2IN3 #sydneysiege http://t.co/1QgdVpZczx",
+        "user id": 5402612,
+        "tweet id": "544357563534680064",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: At least three hostages flee #lindtcafe in #Sydney  http://t.co/595P77Rxzp #sydneysiege http://t.co/z2h95CzMY6”",
+            "user id": 49259564,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@BBCBreaking: At least three hostages flee #lindtcafe in #Sydney  http://t.co/hyE1mYWqRL #sydneysiege http://t.co/EeG2oXgt1C”",
+            "user id": 33857678,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Are you sure they're hostages? RT“@BBCBreaking: three hostages flee #lindtcafe in #Sydney  http://t.co/G66PGbYNes http://t.co/VKS3Hdsh9l”",
+            "user id": 22110387,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking : Our thoughts and prayers are with the hostages.",
+            "user id": 25677647,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @KonaleePaterson wow. These images are powerful. Thank goodness they're out but hoping everyone gets out safe",
+            "user id": 767504844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Praying that mobody gets hurt #SydneyHostageCrisis",
+            "user id": 2467057226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: At least three hostages flee #lindtcafe in #Sydney  http://t.co/NbY2E77TVn #sydneysiege http://t.co/JhSqCQlIrk",
+            "user id": 23153001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "Just waking up to this, hope all my Sydney friends are ok. @BBCBreaking: At least three hostages flee #lindtcafe in #Sydney",
+            "user id": 817431612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@GemmaThomasonHR @BBCBreaking Really hope so too how scary!",
+            "user id": 182749452,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: At least three hostages flee #lindtcafe in #Sydney  http://t.co/37Vq2aV950 #sydneysiege http://t.co/8aZeZ1YgqX”",
+            "user id": 43086592,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "11 just killed in Paris by \"Alu Akhbar\" shouting armed men in attack on  satirical mag Charlie Hebdo. Background: http://t.co/MUf8ACNbVS",
+        "user id": 16589206,
+        "tweet id": "552815274848964608",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@wikileaks wtf is Alu Akhbar. Idiots.",
+            "user id": 21076985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@wikileaks do u have proofs of this \"\"alu akhbar \"\" shouting armed man ? any stupid cunt could say that under a hoody r u aware of that ?",
+            "user id": 98595881,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@wikileaks \"alu akhbar\" translates as Potato News. Just saying.",
+            "user id": 580979115,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@wikileaks BREAKING VIDEO ON PARIS MURDERS:  http://t.co/d2GGtLsdnJ",
+            "user id": 1849407440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        }
+    }
+}

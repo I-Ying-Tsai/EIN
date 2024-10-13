@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "The Civil Rights Act is 50 years old. These two pictures were taken 50 years apart. Behold our progress. #Ferguson http://t.co/8PNn8eteO2",
+        "user id": 18197912,
+        "tweet id": "499531968229683200",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@jackfrombkln @NewIlluminatus The change I see is that the police uses more protection devices now.",
+            "user id": 301673391,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@jackfrombkln @RoundHeeled Yes, but look how respectable we looked back then!!!! /sarcasm #Ferguson",
+            "user id": 20231767,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@jackfrombkln the people need to start arming themselves to offset the cops having better gear to use against its people.",
+            "user id": 49326736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@Mrodri0173 @jackfrombkln I don't think an arms race is the answer. The cops are our servants, we can disarm them rather than arm outselves.",
+            "user id": 269899108,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jackfrombkln @SaraJChipps The progress is that in both pictures the public opinion is against the people on the left.",
+            "user id": 2351612082,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jackfrombkln Nothing's changed :(",
+            "user id": 73329423,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@JamesEdSmith @Mrodri0173 The police are paramilitary. How is that an arms race?",
+            "user id": 18197912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                9
+            ],
+            "content": "@jackfrombkln @Mrodri0173 ... increasing your arms when faced with an armed opposition is an arms race.",
+            "user id": 269899108,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@jackfrombkln @Mrodri0173 I dont understand what the cops \"being paramilitary\" has to do with this.",
+            "user id": 269899108,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@JamesEdSmith @Mrodri0173 Tell it to the folks walking around Waco with AK47s.",
+            "user id": 18197912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

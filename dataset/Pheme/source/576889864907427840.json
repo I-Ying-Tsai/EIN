@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Putin ousted in coup???\n\nOk just asking!",
+        "user id": 403899803,
+        "tweet id": "576889864907427840",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@jasian12345 😳",
+            "user id": 380087607,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@jasian12345 Please, he is getting a face lift, I heard it through grapevine, not much more, and I'll loose my mind, honey, honey yea",
+            "user id": 2848666053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@jasian12345 Another Confirmation my readers #SecurityConcerns #Nemstov #Putin Next #Assassination #DrEd https://t.co/n7DQyio1Ej",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@jasian12345 I thought they loved him over there.",
+            "user id": 2471093864,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

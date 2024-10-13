@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "Shooting at Paris office of #CharlieHebdo magazine ranks as one of the deadliest attacks on Paris in 20 years. http://t.co/hyX5zWvaK2",
+        "user id": 3108351,
+        "tweet id": "552816539175763969",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ And quite possibly one of deadliest attacks on journalists in much longer",
+            "user id": 54589494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ  Interesting to see how they respond",
+            "user id": 1531935692,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @lyorcohen: Congrats to ddrs responsible. They have won free terminal cases of Evapola, the most deadly disease, ending them stat.",
+            "user id": 2462310905,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "So sad: RT @WSJ: Shooting at #CharlieHebdo magazine ranks as one of the deadliest attacks on Paris in 20 years. http://t.co/n7EIX6hFgk",
+            "user id": 11305972,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "Unbelievable what happens QT “@WSJ: Shooting at Paris office of #CharlieHebdo magazine -  http://t.co/Onxy7FWDMI”",
+            "user id": 2185497955,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@fuckyeahnoms @WSJ @megynkelly @greta  Any Muslim advocating Religious Violence should be immediately deported under force of Arms PERIOD!",
+            "user id": 24733289,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ \n\nJFC.  (Thankful I can write that without fear of bodily harm by others.)\n\n#CharlieHebdo",
+            "user id": 2824462458,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: Shooting at Paris office of #CharlieHebdo magazine 1 of the deadliest attacks on Paris . http://t.co/BbcP3MDzVx” Religion of Peace ?",
+            "user id": 342885148,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ France u have Islamic terrorists in your backyard killing your innocent citizens becoz of ur pseodosecular politicians.",
+            "user id": 934537771,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @DLoesch Ever since the Nazis and now Socialist's and Communist's took away their guns away from them, They are all sitting DUCKS!",
+            "user id": 24733289,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @DLoesch no mentioning of the #NAACPBombing are the media selective of what neighborhood matters...😒",
+            "user id": 236175465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ   Real consequences for liberal tolerance stupidity!",
+            "user id": 20148675,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @DLoesch Religion of peace, huh? Yeah right! Nobody was armed in the place? Fools",
+            "user id": 1483693003,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @lbbowyer84 @landauro Stay tuned for more of the same as long as you let Muslims run free in your country.",
+            "user id": 23074025,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

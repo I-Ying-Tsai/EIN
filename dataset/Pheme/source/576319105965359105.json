@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Rumors in Switzerland: Putin absence due to his girlfriend Alina Kabaeva giving birth in Ticino https://t.co/lBNIFEmzrW cc @russian_market",
+        "user id": 65616414,
+        "tweet id": "576319105965359105",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Rumors in Switzerland: Putin absence due to his girlfriend Alina Kabaeva giving birth in Ticino - @L0gg0l https://t.co/iV6Lzpu33A",
+            "user id": 2566535282,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@AttardMon  &gt;&gt; @rConflictNews @L0gg0l",
+            "user id": 1368100356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@L0gg0l @JF991 @russian_market source: blick.ch",
+            "user id": 376785468,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@L0gg0l @JF991 @russian_market BS",
+            "user id": 289035065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Rumors in Switzerland: Putin absence due to his girlfriend Alina Kabaeva giving birth in Ticino https://t.co/bnmBbcNZce -@L0gg0l",
+            "user id": 1333122608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

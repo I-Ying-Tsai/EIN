@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "All my thoughts are with Sydney right now. Scary, sad, day.",
+        "user id": 86793368,
+        "tweet id": "544403526773125120",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Ellagracedenton 😌😌 5 escaped and more than 10 inside 😔😌😌 I am from Melbourne 😌😌 so scary",
+            "user id": 1696105844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Ellagracedenton such a terrifying thing...",
+            "user id": 256574828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

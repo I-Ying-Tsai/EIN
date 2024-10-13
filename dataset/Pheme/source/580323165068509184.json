@@ -1,0 +1,131 @@
+{
+    "source": {
+        "content": "Germanwings plane crash: Airbus A320 crashes in French Alps with 148 on board -latest updates http://t.co/5K1ZxWqXh0 http://t.co/vzStX3iozK",
+        "user id": 16887175,
+        "tweet id": "580323165068509184",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@DailyMirror http://t.co/wzzW3hiWlQ",
+            "user id": 69101065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@jsblake_uk @DailyMirror http://t.co/7h7DYxczTy",
+            "user id": 281591919,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@DailyMirror sairbonvoiralessairebonvoyages",
+            "user id": 2888018411,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "@regeantremblay5 @DailyMirror http://t.co/7h7DYxczTy",
+            "user id": 281591919,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@dailymirror PRAY FOR,THEIR SAFETY.",
+            "user id": 2900288385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@hassan33035664 @DailyMirror http://t.co/7h7DYxczTy",
+            "user id": 281591919,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMirror @PVincent20 http://t.co/7h7DYxczTy",
+            "user id": 281591919,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMirror Numbers of people are dylng everyday via plane crash where are Engineers @DailyMirror",
+            "user id": 3028141931,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "@punongolibo @DailyMirror plaisirebonnejournée http://t.co/egCy9AkQpV",
+            "user id": 2888018411,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

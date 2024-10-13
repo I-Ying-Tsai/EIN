@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Last known location of crashed Germanwings plane in French Alps: http://t.co/lU1gH1c8dX",
+        "user id": 22650211,
+        "tweet id": "580332832544976896",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@GMA: Last known location of crashed Germanwings plane in French Alps: http://t.co/KovIniNPJj”",
+            "user id": 902817020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Globalgallop @ChiefDeBeers “@GMA: Last known location of crashed Germanwings plane in French Alps: http://t.co/bdcqtCclx3”",
+            "user id": 78272041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GMA What a tragedy! May God be with all their families! How very sad! (Hope ISIS had nothing to do with it)",
+            "user id": 1373090220,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

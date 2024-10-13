@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "Islam is a non-violent religion. Don't let a few extremists or the media fool you. #SydneySiege http://t.co/kamsNsPYLM",
+        "user id": 293838759,
+        "tweet id": "544384825332101120",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalVzla you should add muhammad into that list of extremists.",
+            "user id": 304753640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalVzla Even accepting your stats - which don't include several groups - why are most Muslims so passive in the face of the terrorists?",
+            "user id": 21059384,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalVzla Sure throw numbers around. Just ask what percentage of 1.5 billion muslims feel that death is right for apostasy. 80%?",
+            "user id": 71479252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@GlobalVzla @gitithadani Which Islam yours or theirs",
+            "user id": 84823872,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@DelhiMuse @GlobalVzla the 1.7 billion support the islamic caliphate incidently - its one explosive pot #sydneysiege",
+            "user id": 58419534,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@gitithadani @SisterModiModel @DelhiMuse @GlobalVzla they are 1.5 billion do not be part of propaganda",
+            "user id": 570204029,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@2012_bharat @SisterModiModel @DelhiMuse @GlobalVzla 1.5 billion supporting jihadis",
+            "user id": 58419534,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@2012_bharat @gitithadani @DelhiMuse @GlobalVzla Do not be part of \"head in sand\" flock!",
+            "user id": 88875512,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

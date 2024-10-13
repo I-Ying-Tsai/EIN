@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Charlie Hebdo shooting latest: 12 dead and gunmen still at large http://t.co/6jRqXgPogM http://t.co/hO7lvftma5",
+        "user id": 2461887810,
+        "tweet id": "552802654641225728",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Dua belas.\n\nRT @thei100: Charlie Hebdo shooting latest: 12 dead and gunmen still at large http://t.co/cFgVbBURhI http://t.co/cuY6pMdzBC",
+            "user id": 95191831,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 @Independent these fuckers thinking its a GTA heist mission",
+            "user id": 34899435,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "paris terrorist attack “@thei100: Charlie Hebdo shooting latest:12 dead&amp;gunmen still at large http://t.co/eA4cESRDN1 http://t.co/FfdTL3FJFC”",
+            "user id": 268422365,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 @Karachiet good",
+            "user id": 2907646738,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@thei100 @Independent your readers love Muslim multiculturalism so they can look forward to this in the UK soon.",
+            "user id": 2753139956,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@WilliamDFoster9 @thei100 @Independent don't.",
+            "user id": 76702224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Horrible! “@thei100: Charlie Hebdo shooting latest: 12 dead and gunmen still at large http://t.co/X4dB9rqK0k http://t.co/741oNWbSS9”",
+            "user id": 398103679,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

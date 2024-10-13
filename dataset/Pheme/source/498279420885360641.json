@@ -1,0 +1,167 @@
+{
+    "source": {
+        "content": "The police presence in #Ferguson following the shooting of Michael Brown was mind blowing. http://t.co/UGdNcWtpbH",
+        "user id": 20351594,
+        "tweet id": "498279420885360641",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Wat is that“@TammieHolland: The police presence in #Ferguson following da shooting of Michael Brown was mind blowin. http://t.co/sxw79raXuk”",
+            "user id": 97984672,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "absolutely not. RT @TammieHolland: The police in #Ferguson following the shooting of Michael Brown was mind blowing. http://t.co/gAUk7Xi1aH",
+            "user id": 27361519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TammieHolland A show of power against unarmed community seeking answers? #PureMediocrity! #justice must prevail",
+            "user id": 385991063,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TammieHolland all that for humans?! What are they using on the battle field?!!",
+            "user id": 379267458,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "what the fuck is this @TammieHolland @pookleblinky",
+            "user id": 16621063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@badsushichef @TammieHolland @pookleblinky An MRAP",
+            "user id": 326978607,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TammieHolland @blk_bk \"Patriot 3: Lenco Bear\" http://t.co/LYfUern0c2",
+            "user id": 456794981,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TammieHolland @SabinePublic Jesus Christ... it's almost like the police don't expect that they'll be criticized for this fuck up. :S",
+            "user id": 175853322,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TammieHolland What are they worried about exactly?",
+            "user id": 2574105462,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TammieHolland If they are concerned about a race riot, perhaps they should not have executed that kid.",
+            "user id": 2574105462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "Batman in real life is not fun “@TammieHolland: police presence following the shooting of Michael Brown. http://t.co/bugG4cw40B”",
+            "user id": 42855879,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "“@TammieHolland: The police presence in #Ferguson following the shooting of Michael Brown was mind blowing. http://t.co/6I4gA6nQUL”",
+            "user id": 884522502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@airsickk @NAShSatt @TammieHolland why do they even have that? Is there an insurgency in STL we don't know about?",
+            "user id": 29043017,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

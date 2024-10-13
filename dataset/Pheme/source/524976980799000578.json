@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: OTTAWA POLICE CONFIRM TO ABC NEWS THEY ARE LOOKING FOR 3 SUSPECTS, ONE HAS BEEN 'DEALT WITH' - http://t.co/lXFiYaVImZ",
+        "user id": 292777349,
+        "tweet id": "524976980799000578",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed that'd make two then",
+            "user id": 25206663,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed dead faggot",
+            "user id": 233367576,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@PzFeed @CDNGunner00 I love that word when dealing with Terrorist- \" Dealt With\" Not arrested, not on trial BUT DEAD FUCKING DEADIE DEAD",
+            "user id": 896542344,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@Fractrdinsanity amen to that brother",
+            "user id": 987487946,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed kill them all",
+            "user id": 2730333576,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@PzFeed: BREAKING NEWS: OTTAWA POLICE CONFIRM TO ABC NEWS THEY ARE LOOKING FOR 3 SUSPECTS, ONE HAS BEEN 'DEALT WITH' ”",
+            "user id": 753001742,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed I hope they turn those jihadist cowards into swish cheese.",
+            "user id": 83972548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed totally just followed you",
+            "user id": 2728366397,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @chFthemango DrPres, Starfall and Daniel Cardlucci on the run, chF tango'd.",
+            "user id": 629256391,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed allah hu akbar",
+            "user id": 2173335774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@CDNGunner00 Here we should be able to execute them send them on to their 72 Virginians if we can PROVE Bypassing death ROW,",
+            "user id": 896542344,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

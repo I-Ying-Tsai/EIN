@@ -1,0 +1,494 @@
+{
+    "source": {
+        "content": "TWITTER.  Charlie Hebdo is a racist publication.  Murderers murdering people are not justified in murdering people. Crazy paradox, I know.",
+        "user id": 15557246,
+        "tweet id": "552807874192482305",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@leninology Some people just need to get a sense of humour.",
+            "user id": 25398845,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@leninology so hard for ppl to get heads round. What? You can oppose racism and idiots shooting journalists? Really??! #CharlieHebdo",
+            "user id": 22150544,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@leninology @FeministaJones hmm hmm",
+            "user id": 269016791,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@leninology I cannot see why making fun of Islam is in itself racist, though it may be definitely motivated by racism. #CharlieHebdo",
+            "user id": 14491563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@johannes_rath context is all.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@leninology And yet if your first reaction to hearing about the shooting is to tweet that it is a racist mag, that in itself is telling.",
+            "user id": 97483085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@theOliJones it is.  It's telling that I think people are tacitly acknowleding that Charlie Hebdo's racism *might* be a factor here.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                11
+            ],
+            "content": "@leninology What about your own tweet and its context? #CharlieHebdo",
+            "user id": 14491563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@leninology @johannes_rath if it was the official magazine of the BNP it would have been just as bad. What purpose does your tweet serve?",
+            "user id": 391284225,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "@leninology Might yes. But seeing that tweet people think, why are you saying this in relation to what's just happened...",
+            "user id": 97483085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 6,
+            "children": [
+                14,
+                15
+            ],
+            "content": "@leninology ...and the only logical conclusion is justification. You could understand why people should find that so abhorrent.",
+            "user id": 97483085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [
+                16
+            ],
+            "content": "@johannes_rath The context of rabid Islamophobia to which the tweet referred is pretty obvious, no?",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [
+                17,
+                18
+            ],
+            "content": "@jlish1990 @johannes_rath \"if it was the official magazine of the BNP it would have been just as bad\".  Speak for yourself.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 8,
+            "children": [
+                19
+            ],
+            "content": "@jlish1990 @leninology My tweet?",
+            "user id": 14491563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [
+                20
+            ],
+            "content": "@theOliJones \"the only logical conclusion is justification\".  Of course, that is not logical.  There's a long history of such non-sequiturs.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 10,
+            "children": [],
+            "content": "@theOliJones It's basically a variant of \"you're with us or against us\".  Well understood reflex of authoritarians.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 11,
+            "children": [
+                21
+            ],
+            "content": "@leninology You may label anti-cleric jokes stupid,but calling it racist is off the mark, in today's context.",
+            "user id": 14491563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 17,
+            "parent": 12,
+            "children": [],
+            "content": "@leninology @johannes_rath so you're saying that they would be more deserving of death? Troubling implication",
+            "user id": 391284225,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 18,
+            "parent": 12,
+            "children": [
+                22
+            ],
+            "content": "@leninology @jlish1990 @johannes_rath wow.",
+            "user id": 234563256,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 19,
+            "parent": 13,
+            "children": [],
+            "content": "@johannes_rath @leninology no not your tweet, the one you replied to",
+            "user id": 391284225,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 20,
+            "parent": 14,
+            "children": [
+                23
+            ],
+            "content": "@leninology Why say it then? To offer context? If you think that is the context of these acts you're desperately misguided.",
+            "user id": 97483085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 21,
+            "parent": 16,
+            "children": [
+                24,
+                25
+            ],
+            "content": "@johannes_rath No, it isn't. If the only context you care about is one that excludes the racist demonisation of Islam, you are useless to me",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 22,
+            "parent": 18,
+            "children": [
+                26
+            ],
+            "content": "@MW_Lowe @leninology @johannes_rath I know... Yet to get a satisfactory response.",
+            "user id": 391284225,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 23,
+            "parent": 20,
+            "children": [],
+            "content": "@theOliJones I think it is *unquestionably* the context of the media/political response to this.  So so obviously.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 24,
+            "parent": 21,
+            "children": [
+                27
+            ],
+            "content": "@leninology If you want to find out about what I care,check out my posts from the last days.Hint:do some research on #Pegida &amp; #nopegida",
+            "user id": 14491563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 25,
+            "parent": 21,
+            "children": [
+                28
+            ],
+            "content": "@leninology @johannes_rath Islam isn't a race. It's a religion.",
+            "user id": 194953239,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 26,
+            "parent": 22,
+            "children": [
+                29
+            ],
+            "content": "@jlish1990 @leninology I actually agree with the article but these comments really do have troubling implications as you said.",
+            "user id": 234563256,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 27,
+            "parent": 24,
+            "children": [],
+            "content": "@johannes_rath If that context mattered in 'the last few days', it matters today.  I have no time for 'a decent interval' etc.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 28,
+            "parent": 25,
+            "children": [
+                30,
+                31
+            ],
+            "content": "@BlueMerleBill @johannes_rath name all the races for me. Describe what makes a race. Then we can assess your point.",
+            "user id": 15557246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 29,
+            "parent": 26,
+            "children": [
+                32
+            ],
+            "content": "@MW_Lowe @leninology what article are you referring to?",
+            "user id": 391284225,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [],
+            "content": "@leninology @johannes_rath I refer you to the dictionary (and not Wikipedia)",
+            "user id": 194953239,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 31,
+            "parent": 28,
+            "children": [],
+            "content": "@leninology @BlueMerleBill There are no human races.Sorting human beings into different races is the very definition of #racism",
+            "user id": 14491563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 32,
+            "parent": 29,
+            "children": [
+                33
+            ],
+            "content": "@jlish1990 the article he wrote about how the media shouldn't use this attack as an excuse to scapegoat Muslims. He tweeted it earlier.",
+            "user id": 234563256,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [
+                34
+            ],
+            "content": "@MW_Lowe I only saw a tweet retweeted into my timeline. Will have to find article. Obviously I agree with that sentiment",
+            "user id": 391284225,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 34,
+            "parent": 33,
+            "children": [],
+            "content": "@jlish1990 yes it seems to of been the timing of it that caused all of the furore he is now responding to in a pretty disheartening manner.",
+            "user id": 234563256,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 11
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "4-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "6-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "8-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "11-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

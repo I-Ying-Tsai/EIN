@@ -1,0 +1,185 @@
+{
+    "source": {
+        "content": "3月20日，河南洛阳，57岁的妇人孙爱云脱光衣服站在法院的车上喊冤。20年前她的弟弟被杀害，凶手至今逍遥法外，她自己反而因为告状而多次被拘留劳教。在一个号称盛世的时代，一个普通的公民被逼用撕破自己尊严的方式抗议不公，这是我们每一个人的耻辱。@南京蒋玲 @饮水谈史 @长江直播",
+        "user id": 2964962920,
+        "tweet id": "3559030854951184",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "[怒][吃惊][可怜]@孔智勇- @第一现场微播 @摆古论今 @杜芝富",
+            "user id": 2702359493,
+            "user name": "南京蒋玲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "血债最好还是血来偿！这位母亲的子女为什么不挥刀而上呢？让你的母亲受侮，心中不觉得惭愧吗[疑问]！",
+            "user id": 3028283857,
+            "user name": "忐忑1969",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1847287827,
+            "user name": "非官媒",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "挺一下",
+            "user id": 3193722132,
+            "user name": "幸福向前走mlj",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[怒]看，这位第一夫人一丝不挂的在鸣冤叫屈！",
+            "user id": 2935712154,
+            "user name": "观察与评论V",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "都这样？政府应该出来管了！[泪][泪][泪]",
+            "user id": 2028776425,
+            "user name": "吴毅wuuyii",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "不得已，实在是无奈。",
+            "user id": 2146566830,
+            "user name": "一芥斋主",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "中国遍地是冤魂＇问中共你还有何颜面存活于世＇",
+            "user id": 2557588243,
+            "user name": "骏盛国际",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                10
+            ],
+            "content": "",
+            "user id": 1766433977,
+            "user name": "天山雪莲0816",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "",
+            "user id": 1917397387,
+            "user name": "曹维录",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "社会的悲哀，人民的不幸。",
+            "user id": 1664761154,
+            "user name": "童熙轩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "沉冤代雪！",
+            "user id": 3046356363,
+            "user name": "不会飞的大鸟2013",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "看看实际情况 吧 http://t.cn/zYF1DC5 【家庭不幸令人怜 当街裸身不可取】",
+            "user id": 3174796500,
+            "user name": "洛阳大历史",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "[怒]",
+            "user id": 1805451955,
+            "user name": "申二宁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

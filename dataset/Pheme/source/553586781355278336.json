@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "#BREAKING\nBoth #CharlieHebdo suspects killed after police operation in Dammartin-en-Goele, reports AFP",
+        "user id": 25067168,
+        "tweet id": "553586781355278336",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews The World is Free again.",
+            "user id": 104394500,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews #greeksinart.com Hope so!! They deserve nothing better but hell!! Hold on #Paris and #France. We are all in this together!",
+            "user id": 427588761,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews @PerfectMindfuck good riddance",
+            "user id": 2494313337,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews oh thank god! What an awesome attack by the police!!! Hopefully these things won't happen again. #franceattack",
+            "user id": 1635904842,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews enfin un bon châtiment",
+            "user id": 935302063,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "“@euronews: #BREAKING\nBoth #CharlieHebdo suspects killed after police operation in Dammartin-en-Goele, reports AFP”someone else confirm this",
+            "user id": 2206690108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@yankee7kid Similar reports here: http://t.co/5LtJ61lNYY …",
+            "user id": 2407727400,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews  well this is good new...",
+            "user id": 2711184886,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews  Vive La France",
+            "user id": 2711184886,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@euronews: #BREAKING\nBoth #CharlieHebdo suspects killed after police operation in Dammartin-en-Goele, reports AFP” http://t.co/etk12WjycJ",
+            "user id": 558096359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@euronews @c0ldcall c'était un véritable succès cela???",
+            "user id": 66291237,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

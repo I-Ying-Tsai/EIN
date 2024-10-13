@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Police have clarified that there were two shootings in Ottawa today, not three: at the War Memorial and Parliament Hill.",
+        "user id": 203123011,
+        "tweet id": "524990163446140928",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews you guys \"confirmed\" there were 3 shootings not long ago. How about you wait for official reports before saying things.",
+            "user id": 503956899,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews get it right. http://t.co/GHYxMuzPG9",
+            "user id": 503956899,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Police have clarified that there were two shootings in Ottawa today, not three: at the War Memorial and Parliament Hill.” wow",
+            "user id": 1043778398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @CTVNews Police have clarified that there were two shootings in Ottawa today, not three: at the War Memorial and Parliament Hill. #Canada",
+            "user id": 102238015,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @ctvsaskatoon so what happened at Rideau? Nothing?",
+            "user id": 25412397,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

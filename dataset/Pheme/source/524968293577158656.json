@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "The powerful War Memorial mouth-to-mouth image being shared is by @OttawaCitizen's Wayne Cuddington. #ottnews #ottawa http://t.co/FcSGb097G9",
+        "user id": 111044562,
+        "tweet id": "524968293577158656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@darioayalaphoto @OttawaCitizen so sad to see this happening in Ottawa",
+            "user id": 505280930,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@darioayalaphoto @OttawaCitizen yeah. ....emergency response workers are asking to respect victims and families by NOT posting photos.",
+            "user id": 428309839,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@darioayalaphoto @TnucTew @OttawaCitizen I hope the whole of Islam is proud of its religion.Evil pure evil.",
+            "user id": 352560642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@darioayalaphoto @SNJeffBlair @OttawaCitizen Even more remarkable is this is a private citizen giving CPR....",
+            "user id": 1051623126,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@ronsplace2006 @darioayalaphoto @SNJeffBlair @OttawaCitizen thats how we are as Canadians, we do everything we can and never give up",
+            "user id": 81983387,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@darioayalaphoto @SNJeffBlair @OttawaCitizen i feel so sad for those people doing everything they can to save his life, feel so sad for him",
+            "user id": 81983387,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@darioayalaphoto @SNJeffBlair @OttawaCitizen     Sad Day in Canada",
+            "user id": 246218023,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@darioayalaphoto @karensd @OttawaCitizen Based on bags thrown to the side, these look like passersby rather than paramedics on duty.",
+            "user id": 480623325,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

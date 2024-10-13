@@ -1,0 +1,90 @@
+{
+    "source": {
+        "content": "Prince pulled this tweet, but I caught it. A Toronto surprise is coming. Let's go crazy. http://t.co/uu3vOm0FbK",
+        "user id": 291414445,
+        "tweet id": "529627706057834496",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@JillKrajewski ohhhhhhhhhh man. I can't wait to see what this is!",
+            "user id": 267219814,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Giuspar #PrinceWatch",
+            "user id": 291414445,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@JillKrajewski JEALOUS OF EVERYONE GOING... 😭 #concertbucketlist @3RDEYEGIRL",
+            "user id": 291427994,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JillKrajewski @Candice_Indie88 darn gotta work",
+            "user id": 28540234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@arikligeti please tell me you're on this!",
+            "user id": 291414445,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@JillKrajewski woah. Woah woah!!!!",
+            "user id": 251944136,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

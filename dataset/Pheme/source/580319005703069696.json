@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Several European news agencies reporting an accident involving a Germanwings Airbus A320 in southern France. Developing... #breaking",
+        "user id": 51381252,
+        "tweet id": "580319005703069696",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NYCAviation more and more running with it 😞 @minefornothing: 142 PEOPLE ON BOARD GERMANWINGS AIRBUS A320 THAT CRASHED IN SOUTHERN FRANCE",
+            "user id": 2893235717,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NYCAviation BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

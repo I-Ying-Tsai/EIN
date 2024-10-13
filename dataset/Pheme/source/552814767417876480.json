@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "This was a well-planned attack: the gunmen hit #CharlieHebdo in the middle of the weekly conference, with all staff present.",
+        "user id": 39750128,
+        "tweet id": "552814767417876480",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@daphneedenis they looked trained as well -- casual with guns.  Novice are less likely to execute an escape plan.",
+            "user id": 2360489875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "MT “@daphneedenis: This was a well-planned attack: the gunmen hit #CharlieHebdo in middle of weekly conference, with all staff present.”",
+            "user id": 110807429,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@daphneedenis not triggered by the artistic release of \"the interview?\"",
+            "user id": 25705786,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@daphneedenis @marklittlenews  smells like an inside job, to me anyways.",
+            "user id": 21997630,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@daphneedenis @BuzzFeedBen Some one on the staff leaked something Start with any Muslim employees",
+            "user id": 860616002,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@daphneedenis @allahpundit Inside accomplice?",
+            "user id": 876695682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@daphneedenis @MichaelSkolnik And despite the editor, who was present and appears to have died, being under police protection. Hmm.",
+            "user id": 22988800,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        }
+    }
+}

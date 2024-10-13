@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "French officials confirm i/d of #Germanwings copilot as being Andreas  Lubitz. Thought to be 28 y/o. Pictured here. http://t.co/bEKvhEACa1",
+        "user id": 302564474,
+        "tweet id": "581063816882065408",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Tburgeswatson @FchampeyF24  Hi, wondering whether NDTV can use this image ? with courtesy to your channel",
+            "user id": 32855189,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ratanb @FchampeyF24 the image comes from the Wall Street Journal &amp; ABC News. Need to check with them.",
+            "user id": 302564474,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Ottawa Police spokesman tells @ABC News that 3 suspects are being sought following shootings in Canadian capital - @WorldNews",
+        "user id": 28785486,
+        "tweet id": "524977321430630400",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABC Ottawa Police spokesman tells @ABC News that 3 suspects are being sought following shootings in Canadian capital.",
+            "user id": 309822757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "MT @ABC #Ottawa Police spokesman tells @ABC News that 3 suspects are being sought following shootings in Canadian capital",
+            "user id": 256615450,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@ABC @FaithBased92 @WorldNews Muslims I bet you",
+            "user id": 2310813366,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@cindogg88 @ABC @WorldNews After the hit and run attack on a soldier yesterday? I believe it.",
+            "user id": 2723735572,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@ABC: Ottawa Police spokesman tells @ABC News that 3 suspects are being sought following shootings in Canadian capital - @WorldNews” #MM330",
+            "user id": 718737756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC  Why does ABC insist on preemptive disruption of scheduled shows to rehash old news &amp; footage. Take a lead from CBS, NBC, &amp; FOX ...",
+            "user id": 935856000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Last position of the #GermanWings Airbus A320 passenger jet that crashed in the French Alps http://t.co/8UPMsinQkX http://t.co/K3etnEPmxk",
+        "user id": 7587032,
+        "tweet id": "580329219646988289",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews awful.",
+            "user id": 2824552901,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews President Hollande says it's likely not to find survivors ....",
+            "user id": 2485233738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Where on earth do you get these commentators from? They know nothing about aviation or A320. Embarrassing",
+            "user id": 298701234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews terrifying news .we continue to pray for their relatives!",
+            "user id": 199459019,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

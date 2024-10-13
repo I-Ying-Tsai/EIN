@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "After criticism, Uber now picking riders in downtown Sydney for free during hostage crisis. https://t.co/BrmZCdZpxj http://t.co/9OUdn7HZBd",
+        "user id": 14940354,
+        "tweet id": "544332254068350978",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@nycjim That doesn't seem to make sense? Rides are free but rates are high?",
+            "user id": 2199541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@HelenKennedy @nycjim Welcome to the world of Uber!  Common sense like rules, safety and all the other stuff are just irrelevant.",
+            "user id": 323485509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "First time for everything. “@nycjim: Uber now picking riders in downtown Sydney for free during hostage crisis. https://t.co/YQ4Z7bUPNi”",
+            "user id": 283869205,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim Do they know who are the hostages? God be with them.",
+            "user id": 77284148,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim how about just charge regular rates? It's like they only do extremes.",
+            "user id": 19062512,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim @Uber_Sydney So who is paying the cab fare?",
+            "user id": 379700347,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim @LenaForCongress ONLY if they are leaving, not trying to get in",
+            "user id": 15877276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim CBD=?",
+            "user id": 23111958,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim And now I wonder if the drivers are still getting paid!",
+            "user id": 19622848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim @bruce_arthur How do all the Uber loving Ayn Rand fanboys square this with their constant harping about basic economics?",
+            "user id": 95293452,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim @missb62 sure, Uber. And gouging on prices during a supply crisis is simply to encourage more sales.",
+            "user id": 66278875,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim @sethmnookin Possibly the best example of social media's ability to influence events in real time.",
+            "user id": 2450833706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim Of course the criticism related to the ridiculous surge pricing on the weekend and the fares are being paid by Uber - not free.",
+            "user id": 323485509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "【烟台长岛附近 3.7 级地震，大连震感明显】中国地震台网正式测定：03月27日22时06分在山东烟台市长岛县海域（北纬38.11度，东经120.79度）发生3.7级地震，震源深度9千米。（ @震长 ） ",
+        "time": "17-3-27 23:20",
+        "user id": "1801817195",
+        "tweet id": "EBMGproHp",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "2632712131",
+            "user name": "韩超-超人",
+            "content": "莫慌，朋友圈的震感比实际要大。",
+            "time": "17-3-27 23:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "3030570372",
+            "user name": "彭丹er",
+            "content": "@雪泥欧尼",
+            "time": "17-3-28 09:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "2264800892",
+            "user name": "一杯冰美式哦ni",
+            "content": "",
+            "time": "17-3-28 09:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "2319612860",
+            "user name": "生活在东亚的懦夫",
+            "content": "北京一点感觉都没有",
+            "time": "17-3-27 23:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "2325290621",
+            "user name": "荔枝lizhen",
+            "content": "@我本麋鹿 ",
+            "time": "17-3-28 01:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "1800256105",
+            "user name": "李无味l",
+            "content": "没感觉到",
+            "time": "17-3-28 07:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "3730762863",
+            "user name": "诺诗朵精油护肤",
+            "content": "驴民莫慌",
+            "time": "17-3-28 00:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5144629795",
+            "user name": "Kristenna",
+            "content": "烟台地震 大连上热搜6666666666",
+            "time": "17-3-27 23:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5725655258",
+            "user name": "美哒小范儿",
+            "content": "@时秒厘微 厉害了，",
+            "time": "17-3-28 10:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "2329745091",
+            "user name": "是美少女萌崎崎啊",
+            "content": "因为睡得早没感觉到地震，但是迷迷糊糊觉得男朋友用身体挡在了我身上，早上起来才知道是地震了",
+            "time": "17-3-28 06:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "5871545281",
+            "user name": "c宁的天下",
+            "content": "明天要去大连呢",
+            "time": "17-3-27 23:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "1838145193",
+            "user name": "金_kp",
+            "content": "@大连老湿王博文",
+            "time": "17-3-27 23:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "5211978471",
+            "user name": "巧乐兹小李Sweetie",
+            "content": "明明是我大烟台震感强烈 怎么大连上热搜？？？",
+            "time": "17-3-28 07:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "Do u know how powerful it is 4 blk ppl to be able to tell their OWN stories in the face of oppression?! That's what's happening in #Ferguson",
+        "user id": 23831448,
+        "tweet id": "499411596255719424",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision but is it enough!?",
+            "user id": 727461444,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision I mean it's terrible that kid died but what's this oppression? And what does it have to do with stealing stuff?",
+            "user id": 178009878,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision words are powerful, but powerless in a corrupt system of \"justice\". Video documentation is the best action 4 govt injustice.",
+            "user id": 303568121,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision @OccupyLA the destruction and looting is a horrible story.  What is gained by that?  #setback",
+            "user id": 408997163,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@SoulRevision Wrong. A bunch of niggers acting like apes is what's happening in Ferguson. #Ferguson",
+            "user id": 2530867874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@nig_da @SoulRevision &lt;---- Pray for his soul.",
+            "user id": 596879956,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SoulRevision Yea we had to set up a no fly zone cuz y'all wanted to shoot at helicopters. The world is watching #Ferguson so keep it up !",
+            "user id": 2397107492,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@DrinkAs_iPoet @nig_da lol I'm not even gonna feed that troll. Look at the number of tweets they have. They literally created acct to troll",
+            "user id": 23831448,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@SoulRevision lol smh that don't make no sense they love to hate us",
+            "user id": 596879956,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@SoulRevision @DrinkAs_iPoet Well I have a job. I can't afford to sit on my ass twitting all day unlike you niggers.",
+            "user id": 2530867874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

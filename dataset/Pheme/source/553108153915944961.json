@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Today's newspapers all over Europe are relaying the shock of #CharlieHebdo attack. More here - http://t.co/pzZIS77o5A http://t.co/cpIV5dhCGr",
+        "user id": 501987780,
+        "tweet id": "553108153915944961",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCFreeSpeech Францию наказали за Рабле и Вольтера...https://t.co/LxIDNBTASc …",
+            "user id": 391220786,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCFreeSpeech but not one has dared to re-print the cartoons in solidarity. #JeSuisCharlie",
+            "user id": 450942890,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

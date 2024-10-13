@@ -1,0 +1,326 @@
+{
+    "source": {
+        "content": "蛋糕里面有棉花 秒拍视频 ",
+        "time": "17-5-24 22:48",
+        "user id": "6001255601",
+        "tweet id": "F4DO2eanF",
+        "label": 1,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "2802378744",
+            "user name": "威海市跃进街101号",
+            "content": "浙江永康的那位先生已经进去了",
+            "time": "17-5-25 05:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "user id": "2091256417",
+            "user name": "恰口小笼包",
+            "content": "希望你知道有种东西叫肉松",
+            "time": "17-5-25 13:15",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "1586095397",
+            "user name": "-HH-LIFE-",
+            "content": "鬼知道",
+            "time": "17-5-25 18:59",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "user id": "2091256417",
+            "user name": "恰口小笼包",
+            "content": "棉花是不要钱了是吗，还拿去当肉松",
+            "time": "17-5-25 18:49",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "user id": "1586095397",
+            "user name": "-HH-LIFE-",
+            "content": "然后现在又出来了说肉松里面放棉花系列",
+            "time": "17-5-25 17:49",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "2794744883",
+            "user name": "富杨小朋友",
+            "content": "是不是傻啊？肉松不认识啊！拉丝蛋糕不懂啊？傻×",
+            "time": "17-5-25 13:17",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "3482894592",
+            "user name": "Roy丶左三圈",
+            "content": "你可能只是知识不够丰富",
+            "time": "17-5-26 07:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "2707720891",
+            "user name": "LaPoirexuelicake甜品定制",
+            "content": "哈哈哈哈哈哈哈 愚昧",
+            "time": "17-5-26 16:35",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "3151981172",
+            "user name": "黎谧626",
+            "content": "这是肉松鸡肉肉松，是白色的",
+            "time": "17-5-26 09:12",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1842740991",
+            "user name": "-green-wasabi-",
+            "content": "不知道大姐吃过面筋没，就凉皮里放的那个",
+            "time": "17-5-26 16:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "3249688195",
+            "user name": "苏瓦西里畅",
+            "content": "上一个说棉花的，现在还没刑满释放",
+            "time": "17-5-26 07:35",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5471788577",
+            "user name": "柔性风暴-",
+            "content": "棉花20块钱一斤 肉松7块钱一斤 棉花嚼不烂 一烧就成灰了 能不能别当个文盲就出来糊弄人",
+            "time": "17-6-23 23:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "6049982850",
+            "user name": "小马不要拖拖拉拉",
+            "content": "@是等待是细水长流",
+            "time": "17-5-26 15:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "5826175891",
+            "user name": "伊莎贝拉Lee",
+            "content": "不知道有拔丝蛋糕的吗，还是肉丝又出问题",
+            "time": "17-5-26 15:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "5631114356",
+            "user name": "kenken菌",
+            "content": "肌肉纤维？还是说是面筋？",
+            "time": "17-6-26 18:50",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "5878551012",
+            "user name": "岁月清浅涓涓细水",
+            "content": "……棉花真的吃不来……吗？",
+            "time": "17-6-25 22:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "1750485963",
+            "user name": "_青青青青青青_",
+            "content": "这些大妈又来了，不查清楚就出来造谣，就像前段时间的胶面条",
+            "time": "17-5-26 22:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "2077922313",
+            "user name": "糖皮儿糖",
+            "content": "不是现在有一种拔丝蛋糕吗？",
+            "time": "17-5-26 14:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "6186654400",
+            "user name": "化妆小师妹",
+            "content": "这个不是棉花，新闻上都说不是棉花",
+            "time": "17-5-26 13:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "3815188361",
+            "user name": "卢瑟娜",
+            "content": "@开水族馆的生物男 为嘛又是这人",
+            "time": "17-5-26 09:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "6013499100",
+            "user name": "黑袍大人的人间使者",
+            "content": "那是肉松。。。。。",
+            "time": "17-5-25 18:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "2645836322",
+            "user name": "雯宝要变身",
+            "content": "是不是傻",
+            "time": "17-5-25 13:23",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "5261867827",
+            "user name": "佚名的无名",
+            "content": "没有吃过肉松吗",
+            "time": "17-5-25 11:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "5238263955",
+            "user name": "吹动少年的心阿",
+            "content": "青岛的",
+            "time": "17-5-25 10:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "5974693657",
+            "user name": "卧看星宿",
+            "content": "别是个啥子吧",
+            "time": "17-5-26 09:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 19
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

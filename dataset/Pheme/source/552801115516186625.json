@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "#France has a problem (and quite a serious one) #CharlieHebdo http://t.co/H15l2ARF3d",
+        "user id": 308167013,
+        "tweet id": "552801115516186625",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@abelicc source? Sounds unbelievable.",
+            "user id": 305544474,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@viktoriaasp http://t.co/3H8jgfiGgX",
+            "user id": 308167013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@abelicc i don't know where this has come from but as someone who lives in France i find this rather unbelievable.",
+            "user id": 294564024,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@abelicc thanks! Looked through http://t.co/2UGedIGabJ but I think http://t.co/22MevACVyB put it in good perspective. Still chilling numbers",
+            "user id": 305544474,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@abelicc This is extremely worrying.",
+            "user id": 2787148060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Belfastonian @abelicc And simply not true. http://t.co/tYi5gvVOdw",
+            "user id": 18838687,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@abelicc @kikollan :-o ¿Fuente?",
+            "user id": 208430193,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@oscarvalero_ @kikollan http://t.co/3H8jgfiGgX",
+            "user id": 308167013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@abelicc Source?",
+            "user id": 791141563,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@thymocyte http://t.co/3H8jgfiGgX",
+            "user id": 308167013,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@abelicc @paleofreak lo tienes por religion? Es para un amigo.",
+            "user id": 300349681,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@Duenyas14 @paleofreak No. Los datos disponibles en referencia al estudio están aquí: http://t.co/3H8jgfiGgX",
+            "user id": 308167013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

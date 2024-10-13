@@ -1,0 +1,447 @@
+{
+    "source": {
+        "content": "NEWS: 'Emergency Emergency' was the final distress call that was sent from the cockpit of flight #4U9525  - @PollyR_Aviation",
+        "user id": 2280470022,
+        "tweet id": "580352273001410560",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @PollyR_Aviation is that a normal call in this situation ?",
+            "user id": 2264857795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @airlivenet: NEWS: 'Emergency Emergency' was the final distress call that was sent from the cockpit of flight #4U9525  - @PollyR_Aviation",
+            "user id": 380487157,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@airlivenet: NEWS: 'Emergency Emergency' was the final distress call that was sent from the cockpit of flight #4U9525  - @PollyR_Aviation”",
+            "user id": 1222704571,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "I doubt any pilot would say 'Emergency', but rather 'Mayday' RT \"@airlivenet NEWS: 'Emergency Emergency' was the final distress call #4U9525",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@PascalSyn @airlivenet it’s a scale. Emergency &lt; Mayday",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @PollyR_Aviation @crislomb Looks terribly off course on a map. Nothing earlier? Like much earlier?",
+            "user id": 2539215060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @PollyR_Aviation So sad...prayers to the families and friends...",
+            "user id": 28104354,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@damienramage @airlivenet No, then you would say PANPAN. Trust me, I'm a pilot! Besides: Mayday is when lives are in danger...",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@PascalSyn @airlivenet but isn’t declaring an emergency the proper procedure if you still have control of the situation ?",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@PascalSyn @airlivenet or think you do ? or it hasn’t been assessed ?",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@damienramage @airlivenet Normal descend rate for A320 is 2500fpm. Now 4000fpm (for 8 minutes) which is much, but contrallable. #u4u9525",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@damienramage @airlivenet Plus they stayed more or less constant speed, which means they reduced throttle, so they were in control #u4u9525",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@PascalSyn @airlivenet exactly. So emergency would be appropriate, for example in case of cabin decompression, right ?",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                15
+            ],
+            "content": "@damienramage @airlivenet That would certainly explain why pilots set steap descend. Maybe they passed too quickly (oxygen masks?) #u4u9525",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [
+                16,
+                17,
+                18
+            ],
+            "content": "@damienramage @airlivenet By the way: Cabin pressure loss in an airliner is a classic case for MAYDAY ! #4u9525",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [
+                19
+            ],
+            "content": "@PascalSyn @airlivenet if they had, it’s likely the descent rate would’ve been steeper and the speed not reduce, no ?",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [],
+            "content": "@PascalSyn @airlivenet true...",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 17,
+            "parent": 14,
+            "children": [
+                20
+            ],
+            "content": "@PascalSyn @airlivenet what’s the exact procedure btw ? What altitude would you drop down to ? at which rate of descent ?",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 18,
+            "parent": 14,
+            "children": [
+                21
+            ],
+            "content": "@damienramage I've seen friends with nasal oxygen masks on (General Avation), just to fly over the Channel :) http://t.co/nVB4NILrCx",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 19,
+            "parent": 15,
+            "children": [],
+            "content": "@damienramage @airlivenet At that altitude you have about 20 sec before you pass out. They started steep descend, reduced engine... #4U9525",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 20,
+            "parent": 17,
+            "children": [
+                22,
+                23
+            ],
+            "content": "@damienramage @airlivenet immediately manual (autopilot off), throttle, oxygen masks + passngrs, radio call. All that in 20 seconds? #4U9525",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 21,
+            "parent": 18,
+            "children": [
+                24
+            ],
+            "content": "@PascalSyn that's just for the high",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 22,
+            "parent": 20,
+            "children": [
+                25,
+                26
+            ],
+            "content": "@PascalSyn @airlivenet radio call then passengers, no ? 20 sec isn’t much… it takes me longer to tweet sometimes ;-)",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 23,
+            "parent": 20,
+            "children": [
+                27
+            ],
+            "content": "@PascalSyn @damienramage @airlivenet What about icy sensors and software telling autopilot to dive as happened with AF447?",
+            "user id": 13468682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 24,
+            "parent": 21,
+            "children": [],
+            "content": "@damienramage yes, and they have a bottle behind them with this tube connected. But it looks very stupid LOL",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 25,
+            "parent": 22,
+            "children": [],
+            "content": "@damienramage radio call to passengers: not a priority at all !!",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 26,
+            "parent": 22,
+            "children": [],
+            "content": "@damienramage @airlivenet From Airbus FlightOps: When the cabin altitude rises above 14 000 feet, the oxygen masks will deploy automatically",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 27,
+            "parent": 23,
+            "children": [
+                28,
+                29
+            ],
+            "content": "@larsst @damienramage I don't know about that. Graphs don't show a sign of leveling off at a certain altitude.",
+            "user id": 388751649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [
+                30
+            ],
+            "content": "@PascalSyn @larsst plus af447 was exceptionnal weather conditions",
+            "user id": 185133565,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 29,
+            "parent": 27,
+            "children": [],
+            "content": "@PascalSyn @damienramage With iced sensors it won't level off. Apparently a computer glitch - pilot would need to override system manually",
+            "user id": 13468682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [],
+            "content": "@damienramage @PascalSyn GW flight had same descent rate as near crash LH flight. Check https://t.co/m2UVxkJqyC or https://t.co/3jPBYgeqqA",
+            "user id": 13468682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "8-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "10-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "12-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "13-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

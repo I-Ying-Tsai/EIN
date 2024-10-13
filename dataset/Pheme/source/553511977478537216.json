@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Google is donating nearly $300,000 to Charlie Hebdo http://t.co/t9c80aSkhL http://t.co/qWqHwnPtAX",
+        "user id": 10876852,
+        "tweet id": "553511977478537216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @TheNextWeb: Google is donating nearly $300,000 to Charlie Hebdo http://t.co/gFnYKxKMck http://t.co/fMbL8tPUJG",
+            "user id": 284243803,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@TheNextWeb: Google is donating $300k to Charlie Hebdo http://t.co/xp7GwHSF5n” That could buy 3k £10 blankets for the homeless #justsaying",
+            "user id": 22937325,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@TheNextWeb @ArabDissident it was a crappy newspaper with poor taste, not a sacred war memorial!!!",
+            "user id": 87895274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@redowl8 @TheNextWeb @ArabDissident another jackhole just woke up. Yah!",
+            "user id": 2344637336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TheNextWeb @BillNigh no amount of money will bring back the dead satirists who died in that office, sadly.",
+            "user id": 5854302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TheNextWeb I almost read this as \"Jesus Charlie\". Hmmm",
+            "user id": 389583000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

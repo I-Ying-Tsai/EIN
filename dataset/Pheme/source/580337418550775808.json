@@ -1,0 +1,129 @@
+{
+    "source": {
+        "content": "#GermanWings A320 Airbus 24 yrs old, first flight was in November 1990 http://t.co/zU6hn03xzU #4U9525 http://t.co/picb9shVF2",
+        "user id": 64643056,
+        "tweet id": "580337418550775808",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com United States Patent #5,003,186 March 26 1991!\nSTRATOSPHERIC WELSBACH SEEDING - metal oxides\nhttp://t.co/Ko2mBaJyzO",
+            "user id": 225937279,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@RT_com War Crimnal CIA Brennan orders Flt 370, MH 17, Flt 8501 downed, Now Flt 320. like Fulushima hit, all 5 to trigger Fed's W 3 agenda",
+            "user id": 2960946279,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@moxie_raw @RT_com did you  not have enough characters to include lizards and jew s?",
+            "user id": 1064312154,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com very strange crash!",
+            "user id": 176123550,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": ".@RT_com if you had any idea of aviation you'd know that the age of the plane is not important, but its maintenance.",
+            "user id": 257186141,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "content": "@elreystadesnudo @RT_com La edad de los Tu-95 con los que se dedican a tocar los huevos a media Europa, esa no importa.",
+            "user id": 602062366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Уже найдены уламки :( http://t.co/ePtzlkI6MS #4U9525 #A320 #Airbus #новини #новости #трагедия #катасрофа #ато",
+            "user id": 1298672137,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com love these plane's. ... I have has some of the best flights in airbus ..... I believe more airlines should have them ...so spacious",
+            "user id": 211264482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "content": "@abel9x @RT_com eso",
+            "user id": 257186141,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

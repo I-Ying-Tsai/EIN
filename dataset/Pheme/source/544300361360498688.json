@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "This is the scene of the #Sydneysiege at the Lindt Chocolate Cafe in #MartinPlace | Live blog: http://t.co/AG0jQb072Q http://t.co/kLzdEKnILC",
+        "user id": 16215478,
+        "tweet id": "544300361360498688",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnewsSydney Great coverage by the ABC. keep up the good work. Im staying tuned in to ABC 24",
+            "user id": 2315166895,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "MT @abcnewsSydney: Scene of #Sydneysiege at Lindt Chocolate Cafe in #MartinPlace | Live blog: http://t.co/WPF1XDEzNj http://t.co/zHCgqUPWpS",
+            "user id": 17919393,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@abcnewsSydney @_archristiansen This is awful news! Please let this end peacefully!",
+            "user id": 701895396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@mscollan @abcnewsSydney lets hope so.",
+            "user id": 309365680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

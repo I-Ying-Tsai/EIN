@@ -1,0 +1,361 @@
+{
+    "source": {
+        "content": "上海、杭州、徐州突发新冠病例\n据知情者说，疫情缘于葛兰素史克高级业务代表请各大医院科主任吃阳澄湖大闸蟹，结果吃出了一场悲剧\n防不胜防啊！ ",
+        "time": "21-11-26 20:54",
+        "user id": "1652024543",
+        "tweet id": "L3jbH55ju",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                5,
+                7,
+                9
+            ],
+            "user id": "2612145873",
+            "user name": "shanda255368",
+            "content": "谣言不要发了，徐州输入阳性患者也不是医生",
+            "time": "21-11-26 21:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "1930846375",
+            "user name": "rainy_gong",
+            "content": "图片评论 查看图片",
+            "time": "21-11-26 22:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 2,
+            "parent": 7,
+            "children": [
+                1
+            ],
+            "user id": "3179944402",
+            "user name": "吾吾静",
+            "content": "还问别人确不确定，你自己不识字没有自己的逻辑思维嘛？谣言张口就来，垃圾",
+            "time": "21-11-26 21:37",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 7,
+            "children": [],
+            "user id": "2786442481",
+            "user name": "今天学够四小时了吗",
+            "content": "这已经不是误传了，是造谣好吗",
+            "time": "21-11-26 21:36",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [],
+            "user id": "2612145873",
+            "user name": "shanda255368",
+            "content": "",
+            "time": "21-11-26 21:36",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "user id": "3179944402",
+            "user name": "吾吾静",
+            "content": "终于有一个思维清晰，有自己判断力的了",
+            "time": "21-11-26 21:35",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [],
+            "user id": "2612145873",
+            "user name": "shanda255368",
+            "content": "但是疫情源于医药代表宴请各地医生就是虚假消息，还是不要乱传为好",
+            "time": "21-11-26 21:20",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [
+                2,
+                3,
+                6
+            ],
+            "user id": "1652024543",
+            "user name": "羊城老刘",
+            "content": "官方疫情公告确实没有提到患者是医务人员。现在信息管控的很严，出现一些误传也正常。但新发病例是真的，这就够了；上海三个病例是朋友关系，提醒一下疫情期间做好个人防护，也是应该的",
+            "time": "21-11-26 21:17",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [],
+            "user id": "2612145873",
+            "user name": "shanda255368",
+            "content": "当然确定，徐州输入型患者是给徐州乐园维修设备的，怎么可能是医生",
+            "time": "21-11-26 21:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "user id": "1652024543",
+            "user name": "羊城老刘",
+            "content": "你确定？",
+            "time": "21-11-26 21:11",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                12
+            ],
+            "user id": "1870785287",
+            "user name": "小猪仔zengh",
+            "content": "江西哪里？",
+            "time": "21-11-26 20:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "2231072493",
+            "user name": "沉默的沉默568",
+            "content": "瞎说，徐州的是个工人",
+            "time": "21-11-26 22:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "user id": "1652024543",
+            "user name": "羊城老刘",
+            "content": "江西尚未查出病例（行内同事称都是大医院的消化科主任）",
+            "time": "21-11-26 21:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "5703406425",
+            "user name": "游若浮云何时定",
+            "content": "造谣吧 杭州那个又不是医院里的",
+            "time": "21-11-26 21:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "2786442481",
+            "user name": "今天学够四小时了吗",
+            "content": "造谣吧徐州那个是乐园设备的维修人员",
+            "time": "21-11-26 21:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "1710422087",
+            "user name": "神之犬憷",
+            "content": "不是考古人员吗",
+            "time": "21-11-27 00:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "1265394487",
+            "user name": "培根太阳蛋",
+            "content": "假消息不要传了",
+            "time": "21-11-26 23:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "6006642663",
+            "user name": "小萝莉LOUSE",
+            "content": "拜他们所赐，上海人没地方看病了，什么鬼，还来辟谣！要脸不",
+            "time": "21-11-26 22:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "6012372292",
+            "user name": "祁乒堵祁",
+            "content": "据知情者说，造谣真的是不要一点成本的",
+            "time": "21-11-26 23:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "3237206174",
+            "user name": "西山人氏金",
+            "content": "辟谣了十二个人只有一个医生",
+            "time": "21-11-26 22:00",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5643771846",
+            "user name": "轮子会飞哈哈",
+            "content": "不会是造谣吧？卫健委已经官宣是谣言",
+            "time": "21-11-26 21:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "2690695255",
+            "user name": "无知少女729",
+            "content": "好像不是医学院的老师啊",
+            "time": "21-11-26 21:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "3354066572",
+            "user name": "枫枫小清新ABC",
+            "content": "这个猜测太假了，在上海医生想出市都要报批，院长可能还不同意呢，药代给红包会把不同医院医生聚在外地一起给钱吗，你要联想也应该是葛兰素史克许多药代是确诊会记的密接，药代跑医院药剂科或医生那里按照医生开药数量给医生回扣，所以上海才史无前例的关了很多医院排查，这种猜测才更合理吧",
+            "time": "21-11-28 12:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "user id": "1288391847",
+            "user name": "上海集付通招聘",
+            "content": "估计是这个医药公司会计确诊了，然后发现这个医药公司的销售拜访了一票三甲医院",
+            "time": "21-11-26 21:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "user id": "3354066572",
+            "user name": "枫枫小清新ABC",
+            "content": "虽然医生办公室门口都写着医药代表不准入内，这家公司在华行贿很猖狂的，百度葛兰素史克行贿，会发现惊喜",
+            "time": "21-11-28 12:05",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "2207051997",
+            "user name": "妈妈的小小雪",
+            "content": "上海封了20多家医院了已经",
+            "time": "21-11-26 21:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 10
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

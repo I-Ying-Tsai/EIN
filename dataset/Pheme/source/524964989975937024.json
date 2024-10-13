@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Canadian authorities 'were aware of potential #Isis-style attacks for weeks'\nhttp://t.co/AEMhmInJxm #OttawaShooting http://t.co/TDL4Wl1lFL",
+        "user id": 47916714,
+        "tweet id": "524964989975937024",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@IBTimesUK @MarianneSansum Zippy's Canada pals were supposed to lay low til AFTER election. Now there's \"workplace violence\" in Canada!",
+            "user id": 30953058,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@IBTimesUK: Canadian authorities 'potential #Isis-style attack\nhttp://t.co/CPvv0SplOq #OttawaShooting http://t.co/v8QVKO5JuZ”\n#Ottawa",
+            "user id": 562264738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@IBTimesUK How can they fight ISIS in Iraq when they have so many in Canada.",
+            "user id": 18553655,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@IBTimesUK Entire free world aware of possibility of attack for months.Great story,keep digging, when's recess for Gr.7 journalism class?",
+            "user id": 1015591315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@IBTimesUK  Ah that's how they're going to get into the USA  through Canada &amp; not through Mexico.",
+            "user id": 166270542,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

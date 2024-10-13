@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "RCMP yelling everyone to back away from Parliament Hill. Weapons out. Word of shooting inside. #cdnpoli http://t.co/aiXtvjlLP6",
+        "user id": 42896073,
+        "tweet id": "524924346411020288",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RichardMadan @CTVWindsor ........texting and shooting ?....",
+            "user id": 315853121,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "MT\"@RichardMadan: RCMP yelling everyone to back away from Parliament Hill. Weapons out. Word of shooting inside. http://t.co/hMJMaMLpNl”",
+            "user id": 904060616,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RichardMadan @CJBK how did he get on property in the first place with rifle.",
+            "user id": 1405382442,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @RichardMadan: RCMP yelling everyone to back away from Parliament Hill. Weapons out. #breaking #cdnpoli http://t.co/50y1PbKZRQ",
+            "user id": 83993450,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT @RichardMadan RCMP yelling everyone to back away from Parliament Hill. Weapons out. Word of shooting inside. http://t.co/BOhR4i2Nbx",
+            "user id": 456648619,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

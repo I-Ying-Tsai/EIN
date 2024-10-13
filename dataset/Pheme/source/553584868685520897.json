@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Smoke seen from building where Charlie Hebdo attack suspects are located. LIVE video: http://t.co/kaVQ74BAQw http://t.co/ZCWaUZUIc8",
+        "user id": 15108702,
+        "tweet id": "553584868685520897",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@ReutersLive: Smoke seen from building where Charlie Hebdo attack suspects are located: http://t.co/PCtlXpVgtU http://t.co/HvWT8NKLWW”",
+            "user id": 220981466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@PaulivW @ReutersLive I hope they kill them. No mercy.",
+            "user id": 32255020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters",
+            "user id": 340815286,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "RT to fuck terrorism http://t.co/7SHjMeJ0iD http://t.co/TSMMnxz0Ya",
+        "user id": 164397041,
+        "tweet id": "552825402872590336",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "content": "@justinjm1 so let's also insult 2 billion muslims its ignoramus actions like this that fuel the terrorist armoury #jackass   #why?",
+            "user id": 209748032,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                12
+            ],
+            "content": "@MOHAMMEDFAS @justinjm1 Because 2 billion muslims don't dictate what the rest of the world gets to say.",
+            "user id": 2857523995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@MOHAMMEDFAS @justinjm1 If you kill people because your feelings were hurt, maybe you're a shitting fucking person?",
+            "user id": 2747004308,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                13
+            ],
+            "content": ".@MOHAMMEDFAS Some people need to learn that being offended or insulted doesn't justify murder. @Tomblvd @justinjm1",
+            "user id": 101791784,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "@MOHAMMEDFAS @justinjm1 utterly ridiculous comment.",
+            "user id": 1003681236,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "“@MOHAMMEDFAS: @justinjm1 so let's also insult 2 billion muslims its ignoramus actions like this that fuel the terrorist armoury you twat!",
+            "user id": 44602339,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "content": "@MOHAMMEDFAS Be ashamed of your vile death cult right now! It's nothing but Bronze Age savagery dreamed up by goat herders. @justinjm1",
+            "user id": 129028329,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "content": "@MOHAMMEDFAS @Steve_o_herts @justinjm1 bollocks! You are the most vile creatures on earth. I think you'll get a shock in the paedo cult soon",
+            "user id": 305634200,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@justinjm1 @IMZ_Politics",
+            "user id": 49077214,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@justinjm1 @redsteeze no, fuck Islam",
+            "user id": 378642998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@justinjm1 Fuck terrorist",
+            "user id": 231638455,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@justinjm1 Fuck them",
+            "user id": 824250668,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [],
+            "content": "@Bananaramble @MOHAMMEDFAS @justinjm1 Who funded/armed/trained gunmen? https://t.co/iPBkLwhQk8 Jeffrey Epstein CFR+Trilateral Commission too",
+            "user id": 1348798826,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [],
+            "content": "@stephensheiko @MOHAMMEDFAS @justinjm1 Agreed, well said @SuperBuyandSell",
+            "user id": 49025610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

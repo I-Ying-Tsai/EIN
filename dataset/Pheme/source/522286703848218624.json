@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Essien and his lawyers are considering to file a lawsuit against the Nigerian media that reported the fake Ebola story.",
+        "user id": 24044553,
+        "tweet id": "522286703848218624",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Let's go! @milanello @martinsfm1",
+            "user id": 126924499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Milanello they are",
+            "user id": 2676429780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@Milanello: Essien and his lawyers are considering to file a lawsuit against the Nigerian media that reported the fake Ebola story.”",
+            "user id": 1598026315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "This problem isn't a joke is something serious. How people play with that? @milanello",
+            "user id": 2451620079,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Milanello They should",
+            "user id": 205661285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Petty “@Milanello: Essien and his lawyers are considering to file a lawsuit against the Nigerian media that reported the fake Ebola story.”",
+            "user id": 35793755,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

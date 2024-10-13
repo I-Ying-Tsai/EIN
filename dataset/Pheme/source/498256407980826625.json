@@ -1,0 +1,173 @@
+{
+    "source": {
+        "content": "Another day, another shooting of an unarmed black teenager in America by authority figures. #STL #Ferguson",
+        "user id": 158561160,
+        "tweet id": "498256407980826625",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms what happened now?? This world is loosing it's Damn Mind!!!",
+            "user id": 2606792022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@traciethoms when are we going to take a stand and no longer accept these types of injustices?",
+            "user id": 64255344,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                12
+            ],
+            "content": "@davidsingletary I am SO tired. So tired of all of it.",
+            "user id": 158561160,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms police are supposed to protect and help citizens. Not kill innocent people. What the hell?!",
+            "user id": 417235892,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms just sad. Really feels like warfare against our youth.",
+            "user id": 26557935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms it's really sad because it happens all the time",
+            "user id": 1155479377,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms and it just keeps happening over time",
+            "user id": 1155479377,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms breaks my heart that any child dies. There needs to be some major reform asap!!!",
+            "user id": 2606792022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "They keep killing us \"@traciethoms: Another day, another shooting of an unarmed black teenager in America by authority figures. #Ferguson”",
+            "user id": 20488207,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@AtoEssandoh @traciethoms but some one love it =]",
+            "user id": 1290361158,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms @kasieveggies While I'm disgusted, I'm not even shocked. That's the worst part. This shit happens too much.",
+            "user id": 885800893,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@traciethoms . . . authority figures whose Constitutional / Financial bosses are Eric Holder (DOJ) and President Obama (Executive Branch).",
+            "user id": 467026225,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 2,
+            "children": [],
+            "content": "@traciethoms change is coming...it has to",
+            "user id": 64255344,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

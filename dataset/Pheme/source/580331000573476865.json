@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "My heart goes out to the victims of GermanWings crashed near Marseille, France. 142 passengers, 6crew all feared dead http://t.co/8HbQacJ3id",
+        "user id": 575260236,
+        "tweet id": "580331000573476865",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Baekyeoliee BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Baekyeoliee @precious_luhan when it happen?",
+            "user id": 354690273,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,321 @@
+{
+    "source": {
+        "content": "看！看这个鸡蛋，搁老六批发部买的！买十好几块钱的你看鸡蛋黄，捏也捏不烂弹跑了表不孙了~你看~你看~ 秒拍视频 ",
+        "time": "17-5-23 19:31",
+        "user id": "2604139437",
+        "tweet id": "F4t5vueVO",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "1594341737",
+            "user name": "紫燕抛剪",
+            "content": "这个枣庄身边事有些不靠谱，应该举报",
+            "time": "17-5-23 20:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "2604139437",
+            "user name": "枣庄身边事",
+            "content": "我是男的",
+            "time": "17-5-23 20:24",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [
+                1
+            ],
+            "user id": "1594341737",
+            "user name": "紫燕抛剪",
+            "content": ":视频并没有标注转载，好像就是你制作的视频吧",
+            "time": "17-5-23 20:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "2604139437",
+            "user name": "枣庄身边事",
+            "content": "你是说我呢还是说这事咩",
+            "time": "17-5-23 20:16",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "1564508217",
+            "user name": "孺子小牛",
+            "content": "饲料配比有时也影响鸡蛋黄有弹性，鸡蛋放时间长了，或者冻过都可能。。。鸡蛋造假成本太高了，比真鸡蛋高多了。。。早辟谣了，别乱带节奏好么",
+            "time": "17-5-23 19:59",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "5654433432",
+            "user name": "薇薇萧蔷_",
+            "content": "不可能是假的，真的才两块多钱一斤，假的成本会更高",
+            "time": "17-5-23 20:02",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "user id": "2852993554",
+            "user name": "tzf往事如烟",
+            "content": "一个批发部会卖假鸡蛋？这个女人发现是假的还不疯",
+            "time": "17-5-23 20:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "5654433432",
+            "user name": "薇薇萧蔷_",
+            "content": "要真是假的估计得把批发部闹个底朝天",
+            "time": "17-5-23 20:12",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "user id": "2852993554",
+            "user name": "tzf往事如烟",
+            "content": "就是，还在这录视频",
+            "time": "17-5-23 20:46",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5654433432",
+            "user name": "薇薇萧蔷_",
+            "content": "我想起来了，我做月子的时候，没吃完的鸡蛋被我婆婆放冰箱给冷冻了起来，煮完之后就是这样的",
+            "time": "17-5-23 20:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2292610361",
+            "user name": "张家师爷",
+            "content": "  制作过程？",
+            "time": "17-5-23 19:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "3794231385",
+            "user name": "陬绎部乡",
+            "content": "这种鸡蛋造假成本太低了，高中实验室就能做，大批量量产",
+            "time": "17-5-23 19:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 13,
+            "children": [],
+            "user id": "3794231385",
+            "user name": "陬绎部乡",
+            "content": "",
+            "time": "17-5-24 19:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 14,
+            "children": [
+                12
+            ],
+            "user id": "3746736802",
+            "user name": "那一季我们青春的张扬",
+            "content": "我该说我没上过高中还是该说化学课没有好好听！",
+            "time": "17-5-24 19:01",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 15,
+            "children": [
+                13
+            ],
+            "user id": "3794231385",
+            "user name": "陬绎部乡",
+            "content": "高中化学都教过啊！还啥内幕",
+            "time": "17-5-24 09:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "user id": "3746736802",
+            "user name": "那一季我们青春的张扬",
+            "content": "上边都说假鸡蛋成本高，就你一个说低的，你是不是知道啥内幕！",
+            "time": "17-5-24 08:52",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "3354340022",
+            "user name": "潘曦彤耶",
+            "content": "你的微博被处理了",
+            "time": "17-5-25 08:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "5095387247",
+            "user name": "请叫我瑞宝",
+            "content": "这个视频是我同事的邻居发的，地点是峄城的",
+            "time": "17-5-24 09:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "5952020343",
+            "user name": "相愛相殺-",
+            "content": "你同事的邻居简直了，服气这种娘们想骂她",
+            "time": "17-5-27 23:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "3175097004",
+            "user name": "颜料用完的梵高",
+            "content": "@m喵先生",
+            "time": "17-5-23 22:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21
+            ],
+            "user id": "3610207820",
+            "user name": "铃铛哪去了",
+            "content": "弹跑个表荀子了",
+            "time": "17-5-23 23:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "3175097004",
+            "user name": "颜料用完的梵高",
+            "content": "哈哈哈",
+            "time": "17-5-23 23:24",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

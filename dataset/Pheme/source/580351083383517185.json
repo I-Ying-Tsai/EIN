@@ -1,0 +1,138 @@
+{
+    "source": {
+        "content": "BREAKING Emergency units staging in Seyne-les-Alpes, near #4U9525 crash site /@Aviaponcho http://t.co/wFg8KTSve2 http://t.co/NaHq3MIOlz",
+        "user id": 2280470022,
+        "tweet id": "580351083383517185",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@airlivenet: Emergency units staging in Seyne-les-Alpes, near #4U9525 crash site /@Aviaponcho http://t.co/50wbmhofS0 http://t.co/DSNsPibjI3",
+            "user id": 248317578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@airlivenet @Aviaponcho That can’t be real. Lots of official statements say it could take hours for vehicles to reach the crash site.",
+            "user id": 2267934601,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": ".@ThisWeekGermany @airlivenet @Aviaponcho \"near\" crash site = relative &amp; staging = usually not in *immediate* vicinity of incident.",
+            "user id": 2269313743,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Primeras llegadas a la zona #4U9525 en Seyne-les-Alpes #AccidenteAereo via @airlivenet http://t.co/pXriAVOMLZ http://t.co/aSrhVP5xsN”",
+            "user id": 358661916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@airlivenet: BREAKING Emergency units in Seyne-les-Alpes #4U9525 /@Aviaponcho http://t.co/dFOUgUcn8N http://t.co/GdYbZvH3lb”",
+            "user id": 123280834,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @inglesi @Aviaponcho The pics reminded me of this\nhttp://t.co/WQdq3XP4YB",
+            "user id": 326709238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @Aviaponcho",
+            "user id": 26272964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "BREAKING #AlpsCrash MT “@airlivenet: Emer units Seyne-les-Alpes near 4U9525 crash @Aviaponcho http://t.co/fGQp5nZ6wk http://t.co/2YTj2o6gGo”",
+            "user id": 32410054,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @LizaDoukakarou1 @Aviaponcho",
+            "user id": 2950690353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [],
+            "content": "@Felix_CGN @ThisWeekGermany @airlivenet @Aviaponcho",
+            "user id": 2180162246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

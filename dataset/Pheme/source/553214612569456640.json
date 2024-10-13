@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "We stand with #CharlieHebdo, the only French newspaper that dedicates a weekly column 2 #AnimalRights: http://t.co/o44i7F5wsM #JeSuisCharlie",
+        "user id": 9890492,
+        "tweet id": "553214612569456640",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@peta 4 of their cartoons, each of them drew by one of the cartoonists killed yesterday. http://t.co/CMRyJycBKI",
+            "user id": 1319286648,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@peta And we too........",
+            "user id": 1481249077,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@peta thank you for the support!",
+            "user id": 309561448,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@peta I did not know that, thanks!",
+            "user id": 38124709,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@peta @peta2 bye",
+            "user id": 2166192232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": ".@peta को #CharlieHebdo के साथ खड़े होना भी चाहिए, पिछले साल भोपाल में @petaindia पे भी इसी #ReligionOfPeace का हमला हुआ था। #JeSuisCharlie",
+            "user id": 366679122,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@An_ajnabi #JeSuisCharlie",
+            "user id": 2893518209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

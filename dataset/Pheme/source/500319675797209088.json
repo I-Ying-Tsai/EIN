@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "If we shot everyone in the street for stealing, imagine the carnage on Wall St. #mikebrown #ferguson",
+        "user id": 6482142,
+        "tweet id": "500319675797209088",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@originalgriz ladies and gentlemen, don't tip your waitress as it perpetuates wage slavery.",
+            "user id": 168531961,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "He went there. “@originalgriz: If we shot everyone in the street for stealing, imagine the carnage on Wall St. #mikebrown #ferguson”",
+            "user id": 48867028,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@originalgriz @dacmetallica there'd be no one left in government #parasites",
+            "user id": 2227505683,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@originalgriz \n\nThe halls of congress would be empty too. And every union official would be waiting for a coroner pick up.",
+            "user id": 322093913,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Does Missouri, St. Louis County &amp; #Ferguson have rules &amp; laws about cops using deadly force? What are they?\n@originalgriz @randyprine",
+            "user id": 1615736210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@originalgriz @randyprine Those thefts are all well clear of the legal limit.",
+            "user id": 60767885,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@originalgriz: If we shot everyone in the street for stealing, imagine the carnage on Wall St. #mikebrown #ferguson”",
+            "user id": 21330040,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@originalgriz @sweetangelface yes but cops only shoot for stealing material things. Not peoples life savings.",
+            "user id": 975407076,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@originalgriz @northvalleys99 \nwe're going to need to try it out, before I comment",
+            "user id": 217178177,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@please_continue @originalgriz oops, getting sleepy...kitty meowed out all nite!",
+            "user id": 291041644,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@originalgriz @randyprine They would need a helluva huge cannon..........",
+            "user id": 291041644,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

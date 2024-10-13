@@ -1,0 +1,73 @@
+{
+    "source": {
+        "content": "I am reminded of the words of @stephenfry ...\n#JeSuisCharlie http://t.co/MOSenZwI5q",
+        "user id": 20222791,
+        "tweet id": "552830459273809920",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@GodlessRobin @LeeCooperMCR @stephenfry \nEveryone says that, til they're the ones offended.",
+            "user id": 87562872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@JenLLM Well in a world home to 7 billion people chances are someone, somewhere will offend you at some point. You just get over it.",
+            "user id": 979699830,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@JenLLM @GodlessRobin @stephenfry not everyone.  When I'm the one offended, I fuck off. http://t.co/aK3jcX8LG7",
+            "user id": 508611304,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@LeeCooperMCR \nI wonder where we should draw the line between whats personally offensive  &amp; what is \"an incitement to hatred\" ?",
+            "user id": 87562872,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

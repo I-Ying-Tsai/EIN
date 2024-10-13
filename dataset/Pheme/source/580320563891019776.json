@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "BREAKING: Germanwings Airbus A320 crashes in French Alps | via @BBCBreaking",
+        "user id": 44728980,
+        "tweet id": "580320563891019776",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Things like this make me scared to travel 😩 RT @ANCALERTS: BREAKING: Germanwings Airbus A320 crashes in French Alps | via @BBCBreaking",
+            "user id": 179342983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@camiejuan Same here :(",
+            "user id": 524290145,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "OMG “@ANCALERTS: BREAKING: Germanwings Airbus A320 crashes in French Alps | via @BBCBreaking”",
+            "user id": 22745684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@ANCALERTS: BREAKING: Germanwings Airbus A320 crashes in French Alps | via @BBCBreaking”oh my",
+            "user id": 371172907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@ANCALERTS: BREAKING: Germanwings Airbus A320 crashes in French Alps | via @BBCBreaking”",
+            "user id": 43594398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@ANCALERTS: BREAKING: Germanwings Airbus A320 crashes in French Alps | via @BBCBreaking” :(",
+            "user id": 2239350804,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@RxquelMallillin Ang scary :( I know plane crashes happen a lot in a year but with social media and easy info, we hear about it more often 😔",
+            "user id": 179342983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@camiejuan I've only experienced little turbulences and I really get so scared na. News like this make me don't want to travel at all :( :))",
+            "user id": 524290145,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

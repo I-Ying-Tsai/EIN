@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "#BREAKING: #Prince reportedly to perform surprise show at Massey Hall tonight\nhttp://t.co/WpiPU0aYwK #Toronto",
+        "user id": 14705603,
+        "tweet id": "529645026452979712",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@680News: #BREAKING: #Prince reportedly to perform surprise show at Massey Hall tonight\nhttp://t.co/xQCitnkNQF #Toronto” @mshowdimascio",
+            "user id": 26357759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "WHAAAT RT @680News: #BREAKING: #Prince reportedly to perform surprise show at Massey Hall tonight\nhttp://t.co/TWtM6IuqvD #Toronto",
+            "user id": 21054285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@680News where's the tickets? Not on #ticketmaster. I love #Prince!",
+            "user id": 15149803,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@blondecyndi @680News if it's like his other shows, only those in line get tickets...old school!! good luck!",
+            "user id": 1891692247,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@680News: #BREAKING: #Prince reportedly to perform surprise show at Massey Hall tonight\nhttp://t.co/LO8pKYzF0V #Toronto” ouu exciting!",
+            "user id": 2838430584,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

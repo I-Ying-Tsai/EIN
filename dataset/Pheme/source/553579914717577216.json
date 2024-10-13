@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "We should never be ashamed to be Muslim but we should publicly condemn the savages who tarnish our name ##ParisShooting #CharlieHebdo",
+        "user id": 2891439673,
+        "tweet id": "553579914717577216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@hikmahpubs. You never condemn what happen in gaza did you?",
+            "user id": 2811304921,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@hikmahpubs: We should never be ashamed to be Muslim but we should publicly condemn the savages who tarnish our name #CharlieHebdo”",
+            "user id": 2162678190,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@hikmahpubs If only you would all start doing that - everytime one of these evil events happen instead of making excuses.",
+            "user id": 624963853,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

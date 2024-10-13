@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Amazing @AFP photo apparently of hostages at #Paris supermarket siege being carried away. All app alive #c4news http://t.co/u9eIZVG0xE",
+        "user id": 255527829,
+        "tweet id": "553591841996951553",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thompwalker @bbclysedoucet @AFP all alive?  I thought earlier reports said two killed?",
+            "user id": 102082508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@thompwalker: Amazing @AFP photo apparently of hostages at #Paris supermarket siege being carried away http://t.co/UdG5Nu3xM5” @Katkatenn",
+            "user id": 19228639,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thompwalker @intelwire @AFP at least four dead",
+            "user id": 2793020689,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thompwalker @AFP can i laugh a little at the lady being carried?",
+            "user id": 38124709,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@thompwalker Just praying for the people's safety in France!! world global religion news http://t.co/0t1vIjKqW1",
+            "user id": 1408458926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

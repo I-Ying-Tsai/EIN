@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Rescue teams near #4U9525 crash site http://t.co/zU6hn03xzU (pics via @ActuSecours) #Germanwings http://t.co/IDeO1SpaM4",
+        "user id": 64643056,
+        "tweet id": "580354367796166656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@RT_com: Rescue teams near #4U9525 crash site http://t.co/bFq1Iqu0gl (pics via @ActuSecours) #Germanwings http://t.co/pb4Uk4gFox”",
+            "user id": 15037033,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "Treffen hier die ersten #Rettungskräfte ein? “@henkvaness: “@RT_com: http://t.co/Auhfhs3q50 (pics via @ActuSecours) http://t.co/57qLkIvBAY””",
+            "user id": 2965771385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@RT_com: Rescue teams near #4U9525 crash site http://t.co/do4oVJncQG (pics via @ActuSecours) #Germanwings http://t.co/uXWmNCsak4”",
+            "user id": 204195016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @jatirado @ActuSecours @CNNEE El mundo consternado x esta catástrofe aérea. D.E.P.",
+            "user id": 556503737,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com: \"Rescue teams near #4U9525 crash site http://t.co/Vec3EuIA7q (pics via @ActuSecours)…\" #1 in #Pakistan http://t.co/lecIF3QLCV",
+            "user id": 851323664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

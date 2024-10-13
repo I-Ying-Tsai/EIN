@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#Paris update 3: Multiple mosques attacked in France after #CharlieHebdo. http://t.co/bvWHrN4Q7y via @mashable http://t.co/7PiVltMrbR",
+        "user id": 14940354,
+        "tweet id": "553156988356820992",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim @mashable “Islam is worse than Nazism” by ex-Muslim poet from #Turkey\nhttp://t.co/NWzw8x2eoF \n#CharlieHebdo #BanIslam",
+            "user id": 1344297120,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim Great #Paris Post! hy Not post on http://t.co/tXGMBRYHGX Proximity Based Travel Network? @mikepenrod http://t.co/whJYNAHUbL",
+            "user id": 551551599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@yusufa511 @mashable @nycjim Cartoons drawn for Charlie Hebdo: http://t.co/Wjbxph6AcV  #CharlieHebdo #ParisShooting",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Any media coverage or just collateral damage? #IslamIsPeace “@nycjim:Multiple mosques attacked #France #CharlieHebdo http://t.co/L03PueNnTN",
+            "user id": 1455108678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

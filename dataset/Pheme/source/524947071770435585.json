@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Updated: List of reporters, witnesses, citizens, police and military tweeting from downtown #ottawa. https://t.co/ICwqKFUPpV",
+        "user id": 156123647,
+        "tweet id": "524947071770435585",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @sladurantaye Updated list of reporters, witnesses, citizens, police &amp; military tweeting from downtown Ottawa https://t.co/olplnxk23f …",
+            "user id": 22251439,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "MT @sladurantaye: \"Updated: List of reporters, witnesses, citizens, police &amp; military tweeting from #ottawa. https://t.co/sR5JKZJnCx”",
+            "user id": 23468553,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@sladurantaye I have been tweeting from hotel lobby in lockdown",
+            "user id": 20258171,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@MedicineMatters #love &amp; #solidarity . Stay strong!",
+            "user id": 2813594772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

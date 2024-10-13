@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "There is something profoundly sinister about a shooting on Parliament Hill. It is a sacred space, where we use words, not weapons.",
+        "user id": 30346204,
+        "tweet id": "524943114885427203",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MattCampbellca @JadenFitz ....well, we use words to plan wars and order bombings....",
+            "user id": 146317151,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "* @MattCampbellca @kay_seven Words as weapons, sharper than knives\nMakes you wonder, how the other half die... INXS\nhttps://t.co/3nIaol2rU0",
+            "user id": 15257975,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

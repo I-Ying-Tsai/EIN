@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "WATCH VIDEO: Ottawa shooting witness clips: http://t.co/HnxkAfJDP1",
+        "user id": 6433472,
+        "tweet id": "524954661703680000",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews RCMP is asking us not to post videos of the on-going incident to protect first responders",
+            "user id": 382793951,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews what about the soldier? Please gets us news on his condition.",
+            "user id": 17461235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews Take this down dumb fucks",
+            "user id": 2307421946,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews @ColorMeRed Looks like they were doing CPR on the soldier. I hope he comes through.  One witness stated the man left via carjacking",
+            "user id": 347913941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

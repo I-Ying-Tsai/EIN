@@ -1,0 +1,129 @@
+{
+    "source": {
+        "content": "Canadian media: Gunman shot soldier at war memorial. http://t.co/zNhxK6wBoy",
+        "user id": 428333,
+        "tweet id": "524934381828603904",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@cnnbrk So Canada's strict gun control policies have failed again",
+            "user id": 1403764388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@CutGovtSpending @cnnbrk oh puhleeez  one gun death for every couple of thousands in the us - and probably terrorist",
+            "user id": 14066645,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Non terrorism by definition @cnnbrk: Canadian media: Gunman shot soldier at war memorial. http://t.co/L5km1a7ui9”",
+            "user id": 2408067523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "OMG!!! I don't think of this kind of thing in Canada. RT @cnnbrk Canadian media: Gunman shot soldier at war memorial. http://t.co/FOhdzj2rof",
+            "user id": 15844512,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@cnnbrk and so it begins ISIS invades Our Peaceful country starting with the ones we let in",
+            "user id": 80384548,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@ericabecks @cnnbrk do you really think that it's possible to stop everyone?",
+            "user id": 334387917,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnnbrk: Canadian media: Gunman shot soldier at war memorial. http://t.co/U1k0RqJuv0” what",
+            "user id": 1021042393,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "カナダのオタワの議会周辺、戦争追悼施設で銃撃、兵士1人負傷。@cnnbrk Canadian media: Gunman shot soldier at war memorial. http://t.co/fJ39PwvEtr",
+            "user id": 123628014,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@schwaid @CutGovtSpending @cnnbrk exactly. Safer there than here in the States by far.",
+            "user id": 334387917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

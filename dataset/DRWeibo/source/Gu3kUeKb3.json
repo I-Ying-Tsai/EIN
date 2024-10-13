@@ -1,0 +1,170 @@
+{
+    "source": {
+        "content": "经过一个小时的劝说，在同意替我爸手机订票去山东后，父上终于同意不和我一起去北安了。我告诉他新乡没有直达北安的高铁，但是非常庆幸北安有火车站———这么地广人稀的地儿————不通火车可就要了卿命了。要先坐高铁去哈尔滨，再倒普快去北安。高铁最便宜的座800块钱，还没算普快票价，来回一人1600，你们真没必要陪我去啊！！",
+        "time": "18-8-11 00:30",
+        "user id": "1234923241",
+        "tweet id": "Gu3kUeKb3",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                5,
+                6,
+                8,
+                9
+            ],
+            "user id": "2763690275",
+            "user name": "琴瑟在御小嬛嬛",
+            "content": "北安虽然落后了一点但是不至于没有火车站啊",
+            "time": "18-8-11 10:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2763690275",
+            "user name": "琴瑟在御小嬛嬛",
+            "content": "假期蛮短的，就在河北这边亲戚家待几天再回学校啦～",
+            "time": "18-8-11 21:57",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "2763690275",
+            "user name": "琴瑟在御小嬛嬛",
+            "content": "嗯嗯，这两个地方也还好～",
+            "time": "18-8-11 21:57",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 5,
+            "children": [],
+            "user id": "1234923241",
+            "user name": "考古之声",
+            "content": "好的，待我练就心如治水之功。怎么不回家啊，太远了？？",
+            "time": "18-8-11 21:55",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [],
+            "user id": "1234923241",
+            "user name": "考古之声",
+            "content": "时间有限，黑龙江实在太大了。。。。应该能去黑河和五大连池转转就不错了。。。。。锅包肉和地三鲜蛮有名的。",
+            "time": "18-8-11 21:54",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [
+                3,
+                4
+            ],
+            "user id": "2763690275",
+            "user name": "琴瑟在御小嬛嬛",
+            "content": "对了对了，您有机会去齐齐哈尔吗！推荐去吃齐齐哈尔的烤肉！撸串！如果不去的话勉为其难在北安吃也行不过还是齐齐哈尔的好吃一点还有锅包肉地三鲜一定要尝尝哦！",
+            "time": "18-8-11 21:02",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "user id": "2763690275",
+            "user name": "琴瑟在御小嬛嬛",
+            "content": "哇，北安以前也会，这些年好多了，宰你你就换个车，去东北就是不要吵就好啦，多数人都蛮好的，有的人可能脾气暴躁一点，说话冲一点，现在城里人多数不会无事生非哒～我只是在南方上学啦，假期没有回去～",
+            "time": "18-8-11 20:58",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [],
+            "user id": "1234923241",
+            "user name": "考古之声",
+            "content": "听你这么说我就放心了。上次去了郑州底下的县级市荥阳，上车就宰客，开口要五十呢。。。你在海外上学么？？",
+            "time": "18-8-11 20:54",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "user id": "2763690275",
+            "user name": "琴瑟在御小嬛嬛",
+            "content": "有的有的，不过有点慢，不是公司制，是私人承包那种，不过去哪距离都很近的，出租车也遍地都是，计价的话城内不太远基本上6元起价，10元以内都能到的。可惜我在外上学，不然可以带您哦～",
+            "time": "18-8-11 20:24",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 0,
+            "children": [],
+            "user id": "1234923241",
+            "user name": "考古之声",
+            "content": "我能不能问一下。。。。你们城区有公交车么？？",
+            "time": "18-8-11 20:04",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "3810437813",
+            "user name": "没事多动脑",
+            "content": "妈蛋，你发的我都看不懂，啥意思呢",
+            "time": "18-8-11 07:21",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

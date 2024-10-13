@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "ALERT: @ABC News Special Report:\n\nTactical units storm Sydney cafe - LIVE on @ABC TV and http://t.co/JRybQXm28D http://t.co/wnTY37HjxP",
+        "user id": 28785486,
+        "tweet id": "544520888003985408",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ": @ABC News Special Report:\n\nTactical units storm Sydney cafe - LIVE on @ABC TV and http://t.co/zUWj7bLzmh http://t.co/li43lGxJOh”",
+            "user id": 2394981079,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @ABC2020 http://t.co/qO1EW182sq",
+            "user id": 847605858,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @WNTonight Who gives a shit !!",
+            "user id": 2603703420,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC that mad man could have long been monitored before causing the embarrassing episode.My sympathy yo the family of the deceased",
+            "user id": 1721215850,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

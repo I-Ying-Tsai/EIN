@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "French cartoonists Charb, Cabu, Tignous and Wolinski all killed in  Charlie Hebdo attack http://t.co/RO1XV1AZaG http://t.co/0gkVyvhZSS",
+        "user id": 2461887810,
+        "tweet id": "552827123963281408",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 At least 12 killed in shooting at office of French satirical: http://t.co/dTrEfTWyLp #paris Charlie Hebdo",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 AND HILLARY RECOMMENDS EMPATHY FOR THE TERRORISTS..YUCK! MY SYMPATHY TO THE FAMILIES AND FRIENDS OF THOSE KILLED. SO SAD. #RIP",
+            "user id": 313381710,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@thei100 @PaddyVipond Is #Israel punishing France for supporting Palestine or just coincidence? Israeli owned MSM will have field day today.",
+            "user id": 2690144502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@stevemakastevem Not sure Israel had anything to do with the events in Paris today.",
+            "user id": 2279460956,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Today we are all Cartoonists @thei100 @film_girl",
+            "user id": 202007411,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 @red13charlie Shit, not Cabu?  Oh no.",
+            "user id": 96309117,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@PaddyVipond Then mission accomplished. Others such as this one have been expecting their retaliation.",
+            "user id": 2690144502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8,
+                9
+            ],
+            "content": ".@stevemakastevem I think you're drawing conclusions where there are none. Terror attacks in Europe don't detract from Palestines struggle.",
+            "user id": 2279460956,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@PaddyVipond We no have to agree what you think.  Was much surprise for many when find who fund al Qaeda &amp; JSIL though many already knew.",
+            "user id": 2690144502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@PaddyVipond RT @Perseus009 Recent French publication Charlie Hebdo widely criticized for being overly pro Palestinian pro Muslim #lookitup",
+            "user id": 2690144502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

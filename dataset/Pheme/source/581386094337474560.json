@@ -1,0 +1,150 @@
+{
+    "source": {
+        "content": "RT @khjelmgaard: German media reporting #AndreasLubitz had a 'serious depressive episode' six years ago http://t.co/MUdmHPz2ro #Germanwings",
+        "user id": 15754281,
+        "tweet id": "581386094337474560",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@usatoday @khjelmgaard davvero?! Effettivamente viviamo in un mondo fantastico, chi di noi si deprime mai!",
+            "user id": 112233466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Col @OliverNorthFNC, military like you &amp; Gens J Keane have to say to Obama: \"You have to bomb the Iran's nuclear facilities.\"",
+            "user id": 56735779,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY @khjelmgaard Him and millions of others no doubt but WHAT tipped him six years later to commit such an atrocious act??",
+            "user id": 35222419,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY best follow I ever did",
+            "user id": 2345690030,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@USATODAY @khjelmgaard #AndreasLubitz #GermanWings #A320 #DrEd #splitup with #girlfriend one day before crash http://t.co/D9MWIenFHP",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@EdWardMDBlog @USATODAY @khjelmgaard all rumors.not confirmed at all",
+            "user id": 113361389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY @khjelmgaard \n #A320 #PilotsNoFlyNoseDoors http://t.co/zmhXh54CLz #OffCourse #Barcelona2Dusseldorf #DrEd http://t.co/uBwbqAm0Jn",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY @khjelmgaard ers a link to prove @AndreasLubitz27 intentionally set out to kill http://t.co/jDawh1xh9q",
+            "user id": 359015191,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY @khjelmgaard Sure #GermanWings CoPilot #AndreasLubitz #NewMotive #DeadVisitorWalking #DrEd https://t.co/LLiUd9Ftov",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 5,
+            "children": [],
+            "content": "@tinkalee_12 @USATODAY @khjelmgaard My 2nd source is confirm 4 me French media is reporting 2fer Unverified #DrEd http://t.co/jOYHr0pPBd",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 5,
+            "children": [],
+            "content": "@tinkalee_12 @USATODAY @khjelmgaard #F4Phantom #crash #500mph #hit #ConcreteWall #DrEd https://t.co/wOhFk6288U From https://t.co/5O1bfTYft3",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

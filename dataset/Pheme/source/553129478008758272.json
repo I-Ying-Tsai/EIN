@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "A few of the best cartoons drawn &amp; shared in solidarity with #CharlieHebdo after yesterday's massacre #JeSuisCharlie http://t.co/87et0xpNwr",
+        "user id": 14722676,
+        "tweet id": "553129478008758272",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@theinquisitr War profiteers x'd #PrincessDiana &amp; DodiFayed in #Paris. Pushing #France to join war on terror VIDEO&gt;&gt;http://t.co/TySY8Ys49w",
+            "user id": 1020681224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@theinquisitr L'Amérique se tient avec la France. #JeSuisCharlie",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

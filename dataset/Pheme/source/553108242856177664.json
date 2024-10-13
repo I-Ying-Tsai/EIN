@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "The Men Behind the Cartoons at Charlie Hebdo http://t.co/bBoc0tSszE",
+        "user id": 807095,
+        "tweet id": "553108242856177664",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes unless it's \"were anti black, anti Arab racists with a special hate on for Muslims but who also occasionally taunt other religions\"",
+            "user id": 1854612889,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@nytimes Oh gee, you seem to have omitted a newsworthy item: the actual satirical cartoons that caused such bloodshed",
+            "user id": 14888597,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@zoeythegreat @nytimes they won't republish it for fear of a similar attack surely",
+            "user id": 2962699317,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes what if we lose our freedom of speech? We must not and will not! People who really take cartoons seriously just don't get it!",
+            "user id": 582489442,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes \n\nThey had been \"insistent\"on publishing cartoons depicting the Prophet Muhammad.\" They wanted to cause a problem \"  ?",
+            "user id": 328682085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes I feel so sad for Cabu, I grew up with his drawings #franceattack",
+            "user id": 25500715,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@nytimes: The Men Behind the Cartoons at Charlie Hebdo http://t.co/jqaUevUra1”",
+            "user id": 14792167,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "Thumbnails on 4 cartoonists killed at #CharlieHebdo from @nytimes: http://t.co/yo8MxXHoVE”",
+            "user id": 519804064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@nytimes: The Men Behind the Cartoons at Charlie Hebdo http://t.co/2HTMCidX7w”",
+            "user id": 87779569,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes nobody can kill someone because thing different, that's unacceptable.",
+            "user id": 2521757999,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "RT @nytimes: The Men Behind the Cartoons at Charlie Hebdo http://t.co/5adfw9v9te",
+            "user id": 18089481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "RT @nytimes: The Men Behind the Cartoons at Charlie Hebdo http://t.co/3gAxwUJj7X",
+            "user id": 345592846,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "RT @nytimes: The Men Behind the Cartoons at Charlie Hebdo http://t.co/DIHPaYrY3p",
+            "user id": 19983101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

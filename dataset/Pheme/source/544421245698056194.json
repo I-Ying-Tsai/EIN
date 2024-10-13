@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "Much love to everyone tweeting #illridewithyou.\n\nSolidarity. \n\n#TeamHumanity \n\nAustralia at its best. #sydneysiege http://t.co/JeSipaebUX",
+        "user id": 238575113,
+        "tweet id": "544421245698056194",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Kon__K I know of hundreds of hostages kept in detention but unfortunately the media doesn't go nuts over them.",
+            "user id": 1893224126,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MissLaraBelle @Kon__K I agree. This is more likely to make us a better people #IllRideWithYou",
+            "user id": 1269908395,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Kon__K better than #teamAustralia",
+            "user id": 2196766572,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Kon__K @francosoup definitely better than us. We get attacked by Muslim extremists and immediately assault Hindus cuz, eh, close enough.",
+            "user id": 363010394,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@namtien92 ❤️",
+            "user id": 28197830,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Kon__K @McKateus Rita panahi Murdoch patsy already dissing it!!",
+            "user id": 179113074,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Kon__K  team illridewithyou is something much better than team Australia",
+            "user id": 1978253712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@Kon__K @Alanlsg Mr King was one of the wisest, most gracious human beings!",
+            "user id": 56018585,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@Ed_co33 @Kon__K Thanks for your kind words and indeed MLK Jnr was a man of integrity and compassion :-)",
+            "user id": 56363520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

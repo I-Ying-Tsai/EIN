@@ -1,0 +1,524 @@
+{
+    "source": {
+        "content": "9/11 attacks, London 7/7 bombings, Madrid, Boston Marathon, Fort Hood, Paris, Oklahoma Beheading... but we're not supposed 2 question Islam?",
+        "user id": 20748745,
+        "tweet id": "553491517462315008",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BradThor When will so-called moderate Muslims rise up, crush the barbarians in their midst? Hyperbole is nice, but acts are bankable.",
+            "user id": 1635639588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@BradThor Oklahoma City bombing, Norway, Knoxville Unitarian church, 96 Olympic bombing, Brookline bombing...grow up. Psychological issues.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@HarrisNaemi What's your point?",
+            "user id": 20748745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@HarrisNaemi @BradThor http://t.co/fP4aqfMS0G",
+            "user id": 422277246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BradThor A monkey could see the connection, but the superior apes tell us up is really down.",
+            "user id": 1909281625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BradThor @_Gautt More important \"not to hurt feelings\" than to stop terrorism.",
+            "user id": 2809029093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@BradThor many carried by 'Christian extremist'. Religion is used as an excuse.All these people suffer from psychological issues.What's urs?",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                9,
+                10,
+                11
+            ],
+            "content": "@HarrisNaemi What?  Can you please use correct grammar?",
+            "user id": 20748745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@HarrisNaemi @BradThor The difference is our Bible doesn't tell it's followers to behead, rape, lie,etc The Qur'an teaches these atrocities",
+            "user id": 422277246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@BradThor @HarrisNaemi great point Harris, Brad your acting childish when solid points hit you",
+            "user id": 346080985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                13
+            ],
+            "content": "@BradThor @HarrisNaemi  And your still unable to explain how you can judge a religion based on 1 percent?",
+            "user id": 346080985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [
+                14
+            ],
+            "content": "@BradThor so that's your argument? Great, 140 character limit. Go Google your response on something you don't have knowledge about.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [
+                15
+            ],
+            "content": "@bohnkat @BradThor never studied the bible and can't comment. Read small bits. But I can tell you you're wrong. God bless you though!",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [
+                16,
+                17,
+                18
+            ],
+            "content": "@Sanaullah_Niazi @BradThor @HarrisNaemi We can judge it by the fruit it bears: beheading, rape, stoning, oppression, control...",
+            "user id": 1909281625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [],
+            "content": "@HarrisNaemi Your Tweet made no sense. Neither does your argument.  Islam takes the prize for terrorism in its name.  No contest. Deal w/ it",
+            "user id": 20748745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 15,
+            "parent": 12,
+            "children": [],
+            "content": "@HarrisNaemi @BradThor \n\"I've never studied it\" \"you're wrong\" \nWe call that an oxymoron..you've never studied.but I'm wrong??? You're wrong",
+            "user id": 422277246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [
+                19
+            ],
+            "content": "@sarahzview @Sanaullah_Niazi @BradThor recent NY beheading, Christian. Rape prevalent in America, women were only recently given vote rights",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 17,
+            "parent": 13,
+            "children": [],
+            "content": "@sarahzview men still hold control in the US over women, salary is just one area. Go look at Turkey and see the difference.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 18,
+            "parent": 13,
+            "children": [
+                20
+            ],
+            "content": "@sarahzview I thought people in Seattle were educated. Cultural issues in Pakistan vs Turkey. Both Islamic states.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [
+                21,
+                22,
+                23
+            ],
+            "content": "@HarrisNaemi @sarahzview @Sanaullah_Niazi Rapes not in name of religion, vote was 1920. Women have it far better here than in Muslim world.",
+            "user id": 20748745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 20,
+            "parent": 18,
+            "children": [
+                24
+            ],
+            "content": "@HarrisNaemi You mean educated as in \"tolerant\" of a assbackward violent fascist cult? Yeah, no.",
+            "user id": 1909281625,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 21,
+            "parent": 19,
+            "children": [
+                25
+            ],
+            "content": "@BradThor in a lot of them, yes. And that's a cultural issue. Turkey different story. Indonesia. Different. Afghanistan pre Taliban...",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 22,
+            "parent": 19,
+            "children": [
+                26
+            ],
+            "content": "@BradThor when you have the idea of Wahhabism spread from Saudi, which I don't know why we support them still, that's a problem.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 23,
+            "parent": 19,
+            "children": [
+                27,
+                28,
+                29
+            ],
+            "content": "@BradThor if you want to speak on the root of all evil, that's it. But due to dependence on foreign oil, we are too scared as a nation.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 24,
+            "parent": 20,
+            "children": [],
+            "content": "@sarahzview Enjoy your night. If all you can do is insult, that's a great measurement of your intelligence. Good luck in the playoffs!",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 25,
+            "parent": 21,
+            "children": [],
+            "content": "@HarrisNaemi @BradThor \nIslam http://t.co/PcRVy2pu8N",
+            "user id": 422277246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 26,
+            "parent": 22,
+            "children": [],
+            "content": "@HarrisNaemi @BradThor \nIslam http://t.co/PJKbZjnh6A",
+            "user id": 422277246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 27,
+            "parent": 23,
+            "children": [],
+            "content": "@HarrisNaemi @BradThor \nIslam http://t.co/qydSsGdh9f",
+            "user id": 422277246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 28,
+            "parent": 23,
+            "children": [
+                30,
+                31
+            ],
+            "content": "@HarrisNaemi @BradThor \nStop the stupid rhetoric, we're not gullible babies. If you believe in the Qur'an then you are commanded to kill us!",
+            "user id": 422277246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 29,
+            "parent": 23,
+            "children": [],
+            "content": "@BradThor gonna sleep champ, but do some good research when you get time. Hope you read the last few you didn't respond to. God bless.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [],
+            "content": "@bohnkat @HarrisNaemi @BradThor if you believe that every Muslim follows strictly what the Quaran says then christians should be still",
+            "user id": 94419041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 31,
+            "parent": 28,
+            "children": [
+                32,
+                33
+            ],
+            "content": "@bohnkat @HarrisNaemi @BradThor should be still stoning gays coz that's what the bible says. See, not everyone takes everything literally",
+            "user id": 94419041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 32,
+            "parent": 31,
+            "children": [
+                34,
+                35
+            ],
+            "content": "@Fearganainm well said. However @BradThor doesn't respond to true statements, he just lives in a fantasy world slandering others.",
+            "user id": 2182711838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 33,
+            "parent": 31,
+            "children": [
+                36
+            ],
+            "content": "Wrong. Jesus said he who is without sin cast the first stone. Love your neighbor as yourself @Fearganainm  @BradThor",
+            "user id": 45657792,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 34,
+            "parent": 32,
+            "children": [],
+            "content": "@HarrisNaemi @BradThor he must work for fox news or else he was sent to train under them just like the terrorists going to Iraq for training",
+            "user id": 94419041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 35,
+            "parent": 32,
+            "children": [],
+            "content": "@HarrisNaemi @BradThor ironic really that he chooses to ignore our freedom of speech imploring that we only listen to his opinion",
+            "user id": 94419041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 36,
+            "parent": 33,
+            "children": [],
+            "content": "@RDub810 @BradThor pretty sure in Levictus it said if a man lays with another man he should be stoned, never studied bible just seen a quote",
+            "user id": 94419041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "6-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "8-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "10-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "12-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "13-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

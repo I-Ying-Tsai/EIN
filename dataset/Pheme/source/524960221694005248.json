@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Chairs against door. MT @grahamctv: Photo from inside caucus room after shooting http://t.co/ELaGEUBVM1",
+        "user id": 76394861,
+        "tweet id": "524960221694005248",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @irene_thomaidis sillas contra la puerta.  MT @grahamctv: Foto de uno de los salones después del tiroteo. http://t.co/CWER5OE1G3",
+            "user id": 40491446,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@irene_thomaidis @Sid_Seixeiro @grahamctv @NESticles_",
+            "user id": 413306333,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

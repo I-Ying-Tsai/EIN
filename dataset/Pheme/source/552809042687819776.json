@@ -1,0 +1,84 @@
+{
+    "source": {
+        "content": "People who have actually died of being offended: 0\nPeople who have died because others were offended: far too many.\n#CharlieHebdo",
+        "user id": 265321840,
+        "tweet id": "552809042687819776",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@MirabilisDave I'm seriously thinking all supporters of free speech should launch an annual holiday aimed at offending every religion #1A",
+            "user id": 2522419897,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MirabilisDave actually make that offending every major belief system",
+            "user id": 2522419897,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@Hedge76 Good idea, I'm in. And quite happy if they want to try offending me right back!",
+            "user id": 265321840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MirabilisDave can we count the bullied young kids that committed suicided has being offended and died? @Ohnoffris",
+            "user id": 277196843,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@MirabilisDave same!",
+            "user id": 2522419897,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

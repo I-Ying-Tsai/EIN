@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Swiss tabloid drops this about: Putin secret baby mission in Ticino http://t.co/zfEayq07I5 http://t.co/S7ri70b66G",
+        "user id": 324964171,
+        "tweet id": "576348679231033344",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RyskeldiSatke @myroslawabrulak .hmm so Russian medical care not good enough?",
+            "user id": 19819752,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

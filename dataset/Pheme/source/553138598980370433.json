@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "#JeSuisCharlie NO TWEET between 12h00 and 12h01 (French Time) Please RT",
+        "user id": 11793022,
+        "tweet id": "553138598980370433",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@misterclem @farrugiadom",
+            "user id": 2864330493,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

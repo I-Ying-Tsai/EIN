@@ -1,0 +1,61 @@
+{
+    "source": {
+        "content": "To Hell, Yankees slaves, warmongers! #putindead http://t.co/WfTRcOkOOl",
+        "user id": 766462243,
+        "tweet id": "576407819353780224",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@lucma66 they keep hoping for him to get ill - that's sick! But it shows a hidden truth: the West losers know they just can't win.",
+            "user id": 2260255682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "content": "@pozzdan @lucma66 The west already won. Everyone else is fighting for second.",
+            "user id": 242367693,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Keikerdo @lucma66 wrong - the West is losing, at home and abroad. Everyone else is fighting for multipolarism.",
+            "user id": 2260255682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

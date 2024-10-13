@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Clarissa, 27 years old, police trainee of Montrouge Police in #France. Victim of this morning's attack. via @_batou_ http://t.co/kk0w0D6NNv",
+        "user id": 2779009591,
+        "tweet id": "553221600955621376",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ArmedResearch @_batou_ RIP",
+            "user id": 2459596554,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ArmedResearch @mattdpearce RIP Clarissa",
+            "user id": 25201206,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

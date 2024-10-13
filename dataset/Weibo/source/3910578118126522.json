@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "人有时候会突然变得脆弱，突然地就不快乐，突然地被回忆里的某个细节揪住，突然地陷入深深的沉默，不想说话。",
+        "user id": 2084348103,
+        "tweet id": "3910578118126522",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "那个时候请不要理我",
+            "user id": 5723693026,
+            "user name": "噢惑",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "。",
+            "user id": 5607594678,
+            "user name": "小幸运云云",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "戳中泪点",
+            "user id": 5458648280,
+            "user name": "赵小妮410",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "这是说我么，哎，太感性的缘故[挖鼻][挖鼻]",
+            "user id": 2953869597,
+            "user name": "刘湘IMagic",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 5344882494,
+            "user name": "李-世-雄",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "[微笑]",
+            "user id": 5763038661,
+            "user name": "GUO74647464",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        }
+    }
+}

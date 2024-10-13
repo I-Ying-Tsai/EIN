@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "原本就没想过去看！[哈哈][哈哈]",
+        "user id": 1703990825,
+        "tweet id": "3487238812292624",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "额，南京大屠杀不是12月13日吗？",
+            "user id": 1805304320,
+            "user name": "余大胃",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "百度说：12月13日",
+            "user id": 1877038145,
+            "user name": "知SUE达礼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "敢",
+            "user id": 1276883482,
+            "user name": "STAR姚敏杰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "转发微博",
+            "user id": 2378194581,
+            "user name": "eyesbaobao",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "绝对不会去看~~！去TMD鬼子贞子",
+            "user id": 1809459014,
+            "user name": "菓姿情调",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "這種假信息還轉的那麽開心……真是腦子壞了……還貞子呢，怎麽可能放……放放柯南差不多…",
+            "user id": 1925068222,
+            "user name": "KinkyGu",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                13
+            ],
+            "content": "尼玛！一个贞子谁要看啊！坚决不看！",
+            "user id": 1870470645,
+            "user name": "已经快要抓狂的luna",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8,
+                9
+            ],
+            "content": "本来也完全不知道这片子上映",
+            "user id": 1400760550,
+            "user name": "Michael---Jay",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "为什么非要在我生日这天，搞这么恶心的事",
+            "user id": 2098532045,
+            "user name": "善良的乐业安居",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                10
+            ],
+            "content": "尼马，本来不知道这片子的，真心怀疑这帖子到底是宣传还是抵制！",
+            "user id": 1968280175,
+            "user name": "Alan-俊",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "",
+            "user id": 1768556544,
+            "user name": "生活家-金",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "支持！坚持不看，我怕看鬼片[嘻嘻]",
+            "user id": 2083249831,
+            "user name": "小聚頭",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "坚决不看！！",
+            "user id": 1832214172,
+            "user name": "机器猫0922",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 6,
+            "children": [],
+            "content": "本來就不看！",
+            "user id": 1846276454,
+            "user name": "MoMo-MoMo酱",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

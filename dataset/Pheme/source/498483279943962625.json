@@ -1,0 +1,172 @@
+{
+    "source": {
+        "content": "happening now in #ferguson https://t.co/MYPxUyo7Xx",
+        "user id": 14090948,
+        "tweet id": "498483279943962625",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: happening now in #ferguson https://t.co/jaCRFaCnfq”",
+            "user id": 2421086706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: happening now in #ferguson https://t.co/7JRa8BxRpc” @CBSAndrew",
+            "user id": 433050685,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench thank you for the coverage thus far",
+            "user id": 1963293276,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @scATX Where are the white protestors? Seriously, WTF white St Louis? Have you no compassion?",
+            "user id": 63157671,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: happening now in #ferguson https://t.co/7JRa8BxRpc” @csmcdaniel",
+            "user id": 433050685,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @DrJamesPeterson something have too change about cop killing African American men just because nothing we happen 2 them🙏",
+            "user id": 489243839,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: happening now in #ferguson https://t.co/NwlhHNdznz” look at police stance. #nerdland",
+            "user id": 16190068,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "Not sure why police insisting on facing off against peaceful protest. Over reaction. @AntonioFrench @kennethlipp",
+            "user id": 390696780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: happening now in #ferguson https://t.co/H82jbooPop”my hearts go out to them 💚💚💚 it's not right what's happening",
+            "user id": 20353305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "“@AntonioFrench: happening now in #ferguson https://t.co/Ip3GV4u9ki” @leecrowe follow this guy, Lee. @hosienation",
+            "user id": 166804265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11,
+                12
+            ],
+            "content": ".@4UrSpirit @AntonioFrench @leecrowe seeing people march makes me mad. It does nothing.",
+            "user id": 35818208,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@hosienation @AntonioFrench @leecrowe I've always said that black people don't get mad enough...which is why shit will never change.",
+            "user id": 166804265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@hosienation @AntonioFrench @leecrowe Not sure if you've noticed, but I randomly tweet #ChrisDorner's name when shit like this happens.",
+            "user id": 166804265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

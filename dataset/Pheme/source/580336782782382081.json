@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "UPDATE Yesterday #4U9525 took exactly the same route /@planefinder http://t.co/wFg8KTSve2 http://t.co/UyLWPJArJ5",
+        "user id": 2280470022,
+        "tweet id": "580336782782382081",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet looks like a stall? Control forward to pick up speed then desperate to pull control back as they got low? http://t.co/yd66XuPHSX",
+            "user id": 164897733,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@airlivenet and? Planes typically fly the same route on a flight unless they plan a deviation for something such as weather.",
+            "user id": 271113988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@CRWjay There are idiots everywhere hahaha",
+            "user id": 834772386,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @planefinder and... How exactly is a plane, taking a certain air route, breaking news?",
+            "user id": 46670604,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @planefinder That's because it was flying the company route",
+            "user id": 2283919106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet Oh so the same plane had already done that route the day previous? I did wonder why it had taken that route in the first place.",
+            "user id": 138126754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

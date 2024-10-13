@@ -1,0 +1,61 @@
+{
+    "source": {
+        "content": "That oil-hungry #CharlieHebdo with its murderous foreign policy. \n\n#religionofpeace",
+        "user id": 20891396,
+        "tweet id": "552823108537954306",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@aliamjadrizvi Wtf. They are murderous? You are precisely what is wrong with Islam. Y'all need to die and leave us in peace.",
+            "user id": 438149280,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "content": "@Raghav_wrote if you can't see that he's being sarcastic in saying a satirical publication is oil-hungry, get off Twitter @aliamjadrizvi",
+            "user id": 145051504,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@sixfootten @aliamjadrizvi So were the cartoonists sire. Does a moderate Muslim understand that? Anyways thanks for the gyaan unkil.",
+            "user id": 438149280,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

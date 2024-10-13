@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "And best drawing so far RT @kylecmatthews: This is just brilliant #charliehebdo #sonyhack http://t.co/EXmNt0Vxrr",
+        "user id": 22516998,
+        "tweet id": "553521697350234112",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GregFleurot Just praying for the people's safety in France!! world global religion news http://t.co/sgvCHxCafa",
+            "user id": 1408458926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GregFleurot @ImAnotherVoice @kylecmatthews Western Civ needs to stop feeling bad for its beliefs and start fighting for them.",
+            "user id": 27201623,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

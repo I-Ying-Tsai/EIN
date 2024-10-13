@@ -1,0 +1,262 @@
+{
+    "source": {
+        "content": "Paramedics are currently carrying out a number of hostages in #MartinPl. #SydneySiege #9News",
+        "user id": 171802941,
+        "tweet id": "544512108885725184",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@9NewsSyd: Paramedics are currently carrying out a number of hostages in #MartinPl. #SydneySiege #9News”",
+            "user id": 90282879,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "content": "RT @9NewsSyd: Paramedics are currently carrying out a number of hostages in #MartinPl. #SydneySiege #9News”",
+            "user id": 2502895924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@blastedsilver @9NewsSyd Police stormed cafe.",
+            "user id": 2886799455,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@blastedsilver @9NewsSyd terrorist was corralling hostages.thats when they stormed cafe.",
+            "user id": 2886799455,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@blastedsilver @9NewsSyd  Watching on CNN.Assume scumbag is dead.",
+            "user id": 2886799455,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@blastedsilver oh no!",
+            "user id": 1643704652,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @charlescwcooke I just pray the hostages will all live to see another day.",
+            "user id": 2753308284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @charlescwcooke I hope I'm wrong, but sounded like 3 shotgun blasts started activity...then automatic weapons fire. 1/2",
+            "user id": 772671188,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @charlescwcooke That would mean worst case: scumbag started shooting hostages and police responded. Hope that is not the case. 2/2",
+            "user id": 772671188,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@9NewsSyd @marilynmaupin Should have snipered him.",
+            "user id": 27637361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@TexasJew I heard (who knows if it's true) there might be explosives.  Not a good time to shot.",
+            "user id": 334933170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                14
+            ],
+            "content": "@TexasJew Aside from that, yeah.",
+            "user id": 334933170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "RT @9NewsSyd: Paramedics are currently carrying out a number of hostages in #MartinPl. #SydneySiege #9News",
+            "user id": 187815608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "“@9NewsSyd: Paramedics are currently carrying out a number of hostages in #MartinPl. #SydneySiege #9News”",
+            "user id": 2290935068,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@marilynmaupin This peaceful resolution shit just resulted in dead and wounded hostages",
+            "user id": 27637361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                17
+            ],
+            "content": "@TexasJew Again, so far as I can tell, they were worried about explosives, and it appears there was an explosion.",
+            "user id": 334933170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [],
+            "content": "@TexasJew My only issue with shooting him in the head was that it's too quick of a death.",
+            "user id": 334933170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [
+                18
+            ],
+            "content": "@marilynmaupin That was probably a flash-boom from police",
+            "user id": 27637361,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "content": "@TexasJew No idea, but Muslim terrorists do love their explosives.",
+            "user id": 334933170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

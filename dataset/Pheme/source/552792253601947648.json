@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "#Freespeech is a non-negotiable human right. We condemn the appalling attack on Charlie Hebdo, and any attempt to silence the free press.",
+        "user id": 19341389,
+        "tweet id": "552792253601947648",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "We send our thoughts and solidarity to the staff of Charlie Hebdo.",
+            "user id": 19341389,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

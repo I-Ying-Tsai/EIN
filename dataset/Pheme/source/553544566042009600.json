@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Photo posted online shows scene by Paris supermarket where gunman reportedly holding hostages http://t.co/Ya62OhLzBz http://t.co/hV8jt1fgum",
+        "user id": 5402612,
+        "tweet id": "553544566042009600",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @Veronicasanztv",
+            "user id": 196968989,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking should we really be posting them pictures this could give further gang members info of police whereabouts",
+            "user id": 19589595,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

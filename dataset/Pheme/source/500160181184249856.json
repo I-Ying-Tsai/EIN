@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "That iconic #Ferguson photo reminds me of somewhere. The West Bank. http://t.co/UVF5zYeaRV",
+        "user id": 20639175,
+        "tweet id": "500160181184249856",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JFXM Thanks for sharing! It's now featured on \" In my view \" http://t.co/AM7yfzIO7V",
+            "user id": 69948337,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JFXM It does. I doubt you’ll find many in territories wearing an Israeli flag. Such a strange, compelling picture from #Ferguson.",
+            "user id": 166967730,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@JFXM: That iconic #Ferguson photo reminds me of somewhere. The West Bank. http://t.co/3D38SOHj7V”",
+            "user id": 159939228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Message “@JFXM: That iconic #Ferguson photo reminds me of somewhere. The West Bank. http://t.co/c4HtSTigl7”",
+            "user id": 135370173,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "And Cairo and Tehran “@JFXM: That iconic #Ferguson photo reminds me of somewhere. The West Bank. http://t.co/8lwpaYdN7y”",
+            "user id": 22819351,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Mwforhr @LibyanBentBladi @JFXM هههههههه واحد لابس -لامؤخذه- علم أمريكا والتاني لابس ماركة أمريكية \"مقاومة مقاومة يعني\"",
+            "user id": 433344503,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@JFXM: That iconic #Ferguson photo reminds me of somewhere. The West Bank. http://t.co/QyM9yiIHPA” #ajagaza #FreePalestine",
+            "user id": 18535252,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

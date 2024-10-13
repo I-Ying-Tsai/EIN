@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "What we know so far about the #Germanwings crash: http://t.co/eV7PQABBTz http://t.co/Q7wY7GER82",
+        "user id": 2097571,
+        "tweet id": "581247335998431232",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni it was ISIS",
+            "user id": 2438901478,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Theory, Nazi pissed with Merkle/Greece bailout feud and wwII reparations demands, takes it out on PIIGS spainards enroute2 studdenland",
+            "user id": 233225182,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT  @cnni What we know so far about the #Germanwings crash: http://t.co/bp9XCSONhB",
+            "user id": 128917051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@cnni Bull shit,l'aereo è esploso in volo,non c'è il cratere di IMPATTO,frammenti sparsi su vasta area,non c'è stato incendio a terra,",
+            "user id": 2296443458,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@cnni Vuol dire che il carburante è bruciato in aria.Probabilmente è stato un missile portatile",
+            "user id": 2296443458,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni If your suicidal depression threatens to take over, park the plane.",
+            "user id": 2965096007,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnni: What we know so far about the #Germanwings crash: http://t.co/6jbmHZskm8 http://t.co/M2Ed1BXa0d” so scary 😳",
+            "user id": 970088376,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni What does \"even Turkey\" supposed to mean? Are you picking moronic reporters oblivious to demographics to cover international stories?",
+            "user id": 2713629013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni May God in his grace comfort you all at this very sad time. To all passengers and crew lost, R.I.P. -  #Germanwings crash",
+            "user id": 2788944340,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Ok...",
+            "user id": 41523333,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Let's do as in old times again. 3 pilots on board instead of 2. It will be safer, better for security, crew, passengers and flight.",
+            "user id": 20275809,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni More #Germanwings reports point to Co-Pilot &amp; his conversion to #Islam http://t.co/B9Pqrj2H12",
+            "user id": 3005762823,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni did his religion played any role in his action?!!!! I bet if he was Muslim it most definitely did!!!!!!",
+            "user id": 548073137,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni What we know so far #Germanwings\nIf it was a brown Muslim u would have said these terrorist r cruel\nyou would not use da sympathy card",
+            "user id": 529206033,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

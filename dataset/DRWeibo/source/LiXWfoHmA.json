@@ -1,0 +1,326 @@
+{
+    "source": {
+        "content": "看别人发的，上海疫情比想象中严重，说是嘉定都开始建方舱了🆘 ",
+        "time": "22-3-9 20:14",
+        "user id": "6170643303",
+        "tweet id": "LiXWfoHmA",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                4,
+                5,
+                6,
+                8,
+                12
+            ],
+            "user id": "3922822819",
+            "user name": "玩毛线球的兔子",
+            "content": "嘉定确实开始建方舱了，隔离的人太多了，住不下",
+            "time": "22-3-9 20:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2281808924",
+            "user name": "Makoto_Lin",
+            "content": "我就住在赛车场后面一站，那个视频纯属扯谈，周边根本就不是赛车场那边的建筑，真的是闲的。",
+            "time": "22-3-10 11:19",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 9,
+            "children": [],
+            "user id": "5510142989",
+            "user name": "码不16533",
+            "content": "核实了吗，一个聊天记录当证据？",
+            "time": "22-3-10 11:06",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 3,
+            "parent": 9,
+            "children": [],
+            "user id": "1840654581",
+            "user name": "LAHeiKing123",
+            "content": "那个已经被附近的人辟谣了",
+            "time": "22-3-10 08:53",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "5428923106",
+            "user name": "miki21087",
+            "content": "方仓去年就建好了，上海好几个",
+            "time": "22-3-10 00:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "user id": "1423711672",
+            "user name": "momoxbear",
+            "content": "刚刚刷陆渡菜场看到人家说娄塘菜场，一看吓一跳，越来越近了",
+            "time": "22-3-9 23:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "user id": "5864134441",
+            "user name": "可以和他一起看海吗",
+            "content": "娄塘菜市场确诊了一个",
+            "time": "22-3-9 23:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 9,
+            "children": [],
+            "user id": "5195397807",
+            "user name": "小小梁已被占用",
+            "content": "同问，真的看到在建了么",
+            "time": "22-3-9 23:02",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [],
+            "user id": "1605565524",
+            "user name": "名不名字的无所谓了",
+            "content": "安亭",
+            "time": "22-3-9 21:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 11,
+            "children": [
+                2,
+                3,
+                7
+            ],
+            "user id": "3922822819",
+            "user name": "玩毛线球的兔子",
+            "content": "应该是隔离点而不是医院",
+            "time": "22-3-9 20:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [],
+            "user id": "3389674832",
+            "user name": "胖青不是喵",
+            "content": "那个视频应该是援建香港的方舱",
+            "time": "22-3-9 20:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 12,
+            "children": [
+                9,
+                10
+            ],
+            "user id": "3922822819",
+            "user name": "玩毛线球的兔子",
+            "content": "我看到有人拍了在安亭赛车场那边",
+            "time": "22-3-9 20:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "user id": "5266381986",
+            "user name": "猫和老鼠X",
+            "content": "在哪里建方舱，看到了吗",
+            "time": "22-3-9 20:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "5993526656",
+            "user name": "alwayskkme",
+            "content": "没事的hhh不用担心，我已经心平气和covid共存了",
+            "time": "22-3-12 20:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "6146646011",
+            "user name": "哈不是柠",
+            "content": "注意安全啊！",
+            "time": "22-3-14 22:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "6979990303",
+            "user name": "Erinyes70626",
+            "content": "不是方舱，隔离酒店就十几个，境外太多。住不下。而且每个街镇都有，人员分散不好调配。集中统一可以提高效率而且能降低风险。一切等政府发布为准哦，不要越穿越离谱啊！嘉定加油！",
+            "time": "22-3-9 20:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "1068540683",
+            "user name": "xiaohuaYM008",
+            "content": "假新闻，官方都辟谣了",
+            "time": "22-3-10 15:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "1898437822",
+            "user name": "依蕴宠物-方益波",
+            "content": "FP",
+            "time": "22-3-10 16:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "6143925695",
+            "user name": "NorthWayLand",
+            "content": "说是谣言",
+            "time": "22-3-10 11:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "6354508390",
+            "user name": "Kaep00",
+            "content": "听说宝山也在建方舱",
+            "time": "22-3-9 22:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5618558645",
+            "user name": "Phlaica卡卡",
+            "content": "安晓路宝安公路附近",
+            "time": "22-3-9 20:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "5525747297",
+            "user name": "我有肉你吃不吃",
+            "content": "大哥你别吓我，我就在嘉定",
+            "time": "22-3-9 20:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "7637805865",
+            "user name": "天空的汤力水2",
+            "content": "方舱医院？？！！确定？@上海发布",
+            "time": "22-3-9 20:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "source": {
+        "content": "Our thoughts and prayers are with everyone in Ottawa this morning.",
+        "user id": 29460627,
+        "tweet id": "524947036228317184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FlaPanthers Thank you - classy thing to say.",
+            "user id": 633292597,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FlaPanthers @DaveBolland classy organization! Lots of love from Ft. Lauderdale!",
+            "user id": 69031247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FlaPanthers thank you, buildings are on lockdown",
+            "user id": 316443593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@FlaPanthers @TylerKern27 What happened?",
+            "user id": 233755153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@DizzyForRzeznik shooting in Ottawa, at the war memorial and parliament buildings.",
+            "user id": 24107467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@saskrabbit79 Thanks for the info! I just saw it on @ABC ....hope everyone is ok :-)",
+            "user id": 233755153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@DizzyForRzeznik @ABC I hope so too. Senseless that's for sure.",
+            "user id": 24107467,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

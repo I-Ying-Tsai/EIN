@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "Darren Wilson is a six year veteran of the #Ferguson Police and had no disciplinary actions against him.",
+        "user id": 89887215,
+        "tweet id": "500280422295937024",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Yamiche In case you haven't been told enough, you've done a fantastic job covering this story. Really great work.",
+            "user id": 531648876,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Yamiche you do an amazing job! Thank you.",
+            "user id": 2659323462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Yamiche @USATODAY - Is it true there was a struggle in the squad car, before shooting?",
+            "user id": 125189949,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Yamiche I'm sure they covered up all his disciplinary actions. They've had almost a week to set up a defense strategy!",
+            "user id": 2190284711,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "6 years is a \"veteran\"? “@Yamiche: Darren Wilson is a six year veteran of the #Ferguson Police and had no disciplinary actions against him.”",
+            "user id": 29484974,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Translation: killing unarmed teen his first. MT @Yamiche: Darren Wilson 6-yr vet of #Ferguson Police w/ no disciplinary actions against him.",
+            "user id": 50197083,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Yamiche @USATODAY  yamiche. you didnt get this topic cause your black right?  i hope its of your enduring work ethic",
+            "user id": 503580426,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Yamiche @USATODAY im sure none of the  officers in #fergurson have any infractions against them........",
+            "user id": 67925952,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Yamiche @USATODAY Can we see video proof",
+            "user id": 37255084,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "HE ISN'T THE SHOOTER RT @Yamiche: Darren Wilson is a six year veteran of the #Ferguson Police and had no disciplinary actions against him.",
+            "user id": 69658823,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                12
+            ],
+            "content": "@BobbyHundreds22 well who is #Ferguson",
+            "user id": 26177118,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@Yamiche: Darren Wilson is a six year veteran of the #Ferguson Police and had no disciplinary actions against him.”",
+            "user id": 449323809,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@Nola_Darling84 @BobbyHundreds22 Bryan Willman",
+            "user id": 223517739,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

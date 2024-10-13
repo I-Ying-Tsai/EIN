@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#putindead #putin Can Putin's Absence Indicate A Palace Coup In Moscow? http://t.co/ImBuKEacO1 via @forbes",
+        "user id": 19432996,
+        "tweet id": "576225987119198208",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@kssg @Forbes If Putin remains out of sight for another week we conclude its  in a palace coup or possibly been screwed by EU sanctions",
+            "user id": 721722306,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@kssg @Forbes About Putin's where abouts? He has gone for a fishing holiday in Crimea",
+            "user id": 721722306,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@kssg @Forbes and what else?",
+            "user id": 47694125,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@kssg @Forbes Just curious, Is the job of the media to report on an ongoing event or to just speculate on things and spread hysteria?",
+            "user id": 492068053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

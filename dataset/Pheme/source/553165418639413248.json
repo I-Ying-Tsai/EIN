@@ -1,0 +1,115 @@
+{
+    "source": {
+        "content": "Jon Stewart on the Charlie Hebdo attack: 'Comedy shouldn't have to be an act of courage' http://t.co/xmQCP2OcHm",
+        "user id": 87818409,
+        "tweet id": "553165418639413248",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian @ComedyCentral @SouthPark",
+            "user id": 363723508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian But didn't his employers, Comedy Central, censor South Park, for fear of reprisal?",
+            "user id": 479297318,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian Stick to racist jokes about blacks and mother-in-laws and you should be OK",
+            "user id": 56114051,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian Thats one of the big problems with radical Islam. There is no place for humour or one enjoying oneself. 7th Century dogma",
+            "user id": 60848534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian Cowardice Islamic terrorist Charlie Hebdo is the Same as nefarious PTism that kills thousands of Brazilians through corruption!",
+            "user id": 82639973,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardian: Jon Stewart on the Charlie Hebdo attack: 'Comedy shouldn't have to be an act of courage' http://t.co/RoYgStdLXC” well said",
+            "user id": 221876750,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian But it is.",
+            "user id": 89303569,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardian: #JonStewart on the #CharlieHebdo attack: '#Comedy shouldn't have to be an act of courage' http://t.co/3KG5F16qFe”  It always is!",
+            "user id": 1252741896,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian  If humor dies, dies intelligence.",
+            "user id": 239019535,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        }
+    }
+}

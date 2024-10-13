@@ -1,0 +1,148 @@
+{
+    "source": {
+        "content": "From Ottawa police, a map of the downtown Ottawa safety perimeter. #cbcOTT #OTTnews http://t.co/VMGdZ2g6G3",
+        "user id": 18999969,
+        "tweet id": "525033443076628480",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Close to home. RT “@CBCOttawa: From Ottawa police, a map of the downtown Ottawa safety perimeter. #cbcOTT #OTTnews http://t.co/7QweLvdmLb”",
+            "user id": 41368058,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CBCOttawa there are still people in lock down there. Are police still clearing buildings?",
+            "user id": 1284520375,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@Chelsea_Buddy @CBCOttawa they've just reinstated the lockdown.",
+            "user id": 388047205,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@CBCOttawa @LehnerFaithful So how does anyone swimming in that water know whether or not they're in the area?",
+            "user id": 346822246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@nickgarciataria you shouldn't be swimming in there at all tbh",
+            "user id": 853270471,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: From Ottawa police, a map of the downtown Ottawa safety perimeter. #cbcOTT #OTTnews http://t.co/gxU0xMwj3H”@sorayapremji",
+            "user id": 454672909,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: From Ottawa police, a map of the downtown Ottawa safety perimeter. #cbcOTT #OTTnews http://t.co/quDWrht04Z”",
+            "user id": 250985183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@christinekasnak that's what we just read, glad Blondie is home.\nI guess they're are doing building searches",
+            "user id": 1284520375,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@LehnerFaithful That is true. Just weird how the perimeter includes some of the water.",
+            "user id": 346822246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@nickgarciataria I think they're talking more the road area what people want to avoid",
+            "user id": 853270471,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

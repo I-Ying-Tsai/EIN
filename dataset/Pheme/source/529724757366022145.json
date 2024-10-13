@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Prince never meant to cause you any sorrow, Massey Hall people standing in the rain.",
+        "user id": 21359504,
+        "tweet id": "529724757366022145",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@joshvisser @acoyne their happy...its purple rain",
+            "user id": 187685383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@joshvisser This is what it sounds like when pigeons cry.",
+            "user id": 12987202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@acoyne People in line singing \"we're a liiiiiiiittle red, cause no set!\"",
+            "user id": 80897013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@joshvisser @acoyne It's not happening",
+            "user id": 22195515,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@joshvisser @acoyne  Of course not! Jerk!!",
+            "user id": 23608974,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@joshvisser Is the rain purple?",
+            "user id": 246574430,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@joshvisser @acoyne \"Sorry u r wet.\"—Prince",
+            "user id": 35745942,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

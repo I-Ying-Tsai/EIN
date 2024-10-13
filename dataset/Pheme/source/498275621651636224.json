@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "Notice it's \"involved in the shooting\" not \"killed a child.\" \nNotice it's \"paid administrative leave\" not \"has been arrested\"\n#Ferguson",
+        "user id": 304695261,
+        "tweet id": "498275621651636224",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@_peech or suspended w/o pay",
+            "user id": 343571392,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "Nah, they gonna make sure that white man gets his blood money. RT @PostRacialMyAss _peech or suspended w/o pay",
+            "user id": 304695261,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@_peech @KathrynBruscoBk And they always \"clash\" with protestors, never \"attack\" them.",
+            "user id": 19808025,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@_peech @tavilabradog my blood is boiling, just sent an email to the DOJ, something has got to change.",
+            "user id": 104077046,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@_peech yup. with an \"at a boy\" to go along with it #Ferguson",
+            "user id": 343571392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

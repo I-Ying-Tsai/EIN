@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "First, #MikeBrown was accused of shoplifting. Now, it's a robbery? It's very telling how the #Ferguson PD keeps spewing lie after lie.",
+        "user id": 325265073,
+        "tweet id": "500278365031370752",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka Did he ever say #MikeBrown was a suspect? It just sounds like he was profiled and improperly approached.",
+            "user id": 894194737,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka @tressiemcphd And a strongarm robbery at that. At a different store.",
+            "user id": 78665762,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka We knew the thuggification of Mike Brown was inevitable....",
+            "user id": 244787190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@NerdyWonka shoplifting is robbery",
+            "user id": 464329417,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@CRAZYONSI @NerdyWonka and a cover up is a COVER UP!!",
+            "user id": 143455403,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka Sign and share! http://t.co/q6hCYydZgi #justiceformikebrown #ferguson",
+            "user id": 1559556577,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka @amk4obama just look at the difference in clothes between Michael and the cigar store robber...not the same guy..",
+            "user id": 19129405,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka @amk4obama #ShopliftingIsNotRobbery",
+            "user id": 1482492223,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

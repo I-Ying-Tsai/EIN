@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "#NMOS14 demonstrators holding up signs right now at Washington, DC's Malcolm X Park: #Ferguson http://t.co/s3nDHSeH8o V \n@news_2_share",
+        "user id": 230527949,
+        "tweet id": "500073002101665792",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonymousPress @news_2_share Please sign and share! Time to end the militarization of our police force!   https://t.co/ubkuXAg9xr",
+            "user id": 601342849,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonymousPress @OpFerguson @news_2_share She's trynna get noticed for her rhymes. I see you there 👀 But all support! 😤✊",
+            "user id": 307674834,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonymousPress @news_2_share Got that Pac quote on that sign.",
+            "user id": 2210110092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonymousPress @CaitySult @news_2_share \nDid that say Malcolm X Park ?",
+            "user id": 2337625975,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonymousPress fuck the police. Support the cause. http://t.co/AbXZnq5z1b",
+            "user id": 1517610810,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

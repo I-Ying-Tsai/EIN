@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Soldier killed in Ottawa was a Sherwood grad. He couldn't wait to serve his country. RIP Cpl. Nathan Frank Cirillo http://t.co/w9XGuun0PH",
+        "user id": 563229397,
+        "tweet id": "525047767325220865",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@MrHamOnt how sad, Chris. The whole day's been surreal. Having it hit this close to home really hurts.",
+            "user id": 14614701,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@OmoricaPicea Tragic. My heart goes out to his whole family.",
+            "user id": 563229397,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MrHamOnt: Soldier in #ottawashooting Sherwood grad.He couldn’t wait to serve his country. #ripnathancirillo http://t.co/CrNOUKSs9r #hamont",
+            "user id": 28977158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MrHamOnt @johnny_mansilla 😰😰😰",
+            "user id": 1943982199,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MrHamOnt holy fuck..",
+            "user id": 438624942,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "source": {
+        "content": "Police forces take position by the kosher grocery store in Saint-Mande, near Porte de Vincennes in Paris. #AFP http://t.co/ANkBZtMTSJ",
+        "user id": 868112707,
+        "tweet id": "553552493561798656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@AFPphoto MAIS ATTENDEZ AU MOINS QUE CE SOIT FINI POUR PUBLIER LES PHOTOS !",
+            "user id": 612544994,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AFP plus con tu meurs AFP, vous ne voulez pas publier l'emplacement exact des snipers tant que vous y êtes????",
+            "user id": 113755825,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Vía @AFPphoto :Policía toma posiciones cerca al supermercado kosher en Saint-Mande, París. #terrorenparis http://t.co/ivdz59gylT”",
+            "user id": 97003915,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto les immat´ du RAID sans filoutage c'est peut être pas gégé, non?",
+            "user id": 608074953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@AFPphoto Not in Saint-Mandé ! But inside Paris, 12th arrondissement",
+            "user id": 93055009,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@superzim75  Derrière le periph c'est plus paris, c'est le principe de paris ;-)",
+            "user id": 44400851,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @proudZionistJew Shoot between their eyes &amp; thighs and hang them as trophies in front of the store.",
+            "user id": 351433890,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AFP don't you think, suspects can be also reading these tweets? Be carful/ soyez prudents a ne pas aider des suspects!!!",
+            "user id": 168592906,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPphoto @AnxoRey. Los musulmanes moderados no están integrados en sociedades democráticas valorar expulsión objetiva",
+            "user id": 2563950688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 5,
+            "children": [],
+            "content": "@scarfayz ce n'est pas derrière le périphérique ! Je connais le quartier",
+            "user id": 93055009,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

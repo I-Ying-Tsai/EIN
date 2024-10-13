@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Chambers and W. Florissant right now. #Ferguson http://t.co/fLag6Sw0MU",
+        "user id": 14090948,
+        "tweet id": "499435341259223040",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench - is this in the area of protests and police presence?",
+            "user id": 302439867,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench",
+            "user id": 58092088,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench You are not helping by posting these pics. You are giving away police tactical info by posting their pictures!",
+            "user id": 28528271,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Everyone should travel in groups of 4. No one should be alone on the streets! Pick your teams. Stay connected!",
+            "user id": 362136016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Chambers and W. Florissant right now. #Ferguson http://t.co/USyxF3DNl3”",
+            "user id": 39672597,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "Australians tweet #illridewithyou to support Muslims fearing an anti-Islam backlash from the Sydney hostage siege http://t.co/sIu9ovm0l8",
+        "user id": 380648579,
+        "tweet id": "544482745637158912",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP Thank You Aussies UR simply Great PPL n I salute ur wisdom n courage",
+            "user id": 735705336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP maybe they could tweet something for the hostages too",
+            "user id": 34178535,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@AFP @Global_Bearings why is that necessary? all muslims need do is to stand up and shout the loudest of all about this evil. don't you see?",
+            "user id": 286801248,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@AFP @Global_Bearings or have i got it arse about tit, &amp; it's some infidel who's threatening to murder a cafe full of peaceful muslims?",
+            "user id": 286801248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@bob682 @AFP Pretty much every Muslim org in Australia incl. the Grand Mufti have loudly denounced it... what do you want?",
+            "user id": 394612386,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@afp theseguys hav habit of playin \"victim\".Everywhere in world.\nThey cry dey fear dey dare dey kill. First nonbelivers, later belivers.",
+            "user id": 2440645811,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@Global_Bearings @AFP good. and so they should. what do i want? well, what i don't want is to see the usual victim role reversal bullshit.",
+            "user id": 286801248,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@Global_Bearings time for outrage &amp;mass rallies now? shoe throwing book burning? ah, wait, they only murdered children, didn't draw cartoons",
+            "user id": 286801248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

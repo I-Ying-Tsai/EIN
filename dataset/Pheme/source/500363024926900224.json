@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "“Which cop killed #MikeBrown?”\n\n“Sorry. Can’t tell you that.”\n\n“Why’d you release the video?”\n\n“Because you asked.”\n\n#MikeBrown #Ferguson",
+        "user id": 66750855,
+        "tweet id": "500363024926900224",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Eric_Haywood realest shit EVER",
+            "user id": 22340156,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Eric_Haywood Semantics are a motherfucker. He might as well have said   \"What do you mean when you say kill?\". You said Wilson shot him.",
+            "user id": 40815842,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Eric_Haywood So, one can deduce that if Wilson was the shooter then Wilson was the killer. Elementary, my dear Watson. He's an idiot.",
+            "user id": 40815842,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Eric_Haywood @AC_Hussle http://t.co/aZpLmQMl1I",
+            "user id": 52552110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

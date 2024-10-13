@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "Recap: Parliament Hill in lockdown after uniformed Canadian soldier shot at War Memorial. Suspect on loose; witnesses say he had rifle.",
+        "user id": 19038934,
+        "tweet id": "524932792925569024",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: How does this happen? Shooting a soldier who served our great nation. Radical? #Ottawa #Canada",
+            "user id": 279643305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@CBCAlerts Any word on soldier's condition? They must've let an ambulance in.",
+            "user id": 272112035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@CBCAlerts Got it.\nhttps://t.co/FhROjvDoeF",
+            "user id": 272112035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts  I am sickened. This has to stop.  It's murder. Soldiers have families, they have Mothers.",
+            "user id": 398401797,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts are the \"Terrorists \" being followed by CSIS?  That's what they say they are doing",
+            "user id": 398401797,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts",
+            "user id": 273006611,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts the while diwntown is on lockdown!",
+            "user id": 621930944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @JeffreyGuterman unconfirmed but reliable source /Ottawa and RCMP not commenting police/Suspect has been killed inside Parliament",
+            "user id": 221355278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "MT @CBCAlerts Parliament Hill on lockdown after uniformed Canadian soldier shot at War Memorial. Suspect on loose witnesses say he had rifle",
+            "user id": 16072089,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @JeffreyGuterman Very sad week for Canada. Our #CanadianForces aren't safe in their own country.",
+            "user id": 2284145784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCAlerts: Parliament Hill in lockdown after uniformed Canadian soldier shot at War Memorial.Suspect on loose;witnesses say he had rifle.”",
+            "user id": 590520318,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @milnews_ca 2 witnesses say he kicked them out of their car &amp; drove off in it. (NPR)",
+            "user id": 16105433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

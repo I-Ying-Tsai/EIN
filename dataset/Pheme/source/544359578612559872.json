@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "UPDATE: Police confirm they have made contact with the gunman. There are no reported injuries. #9News http://t.co/nZWY5ZyWBe",
+        "user id": 171802941,
+        "tweet id": "544359578612559872",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@9NewsSyd @SkyNewsAust @nswpolice http://t.co/8UYQHcBtN8",
+            "user id": 231309915,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@fraggles74 @9NewsSyd @SkyNewsAust @nswpolice http://t.co/om4oswcJSO",
+            "user id": 30654634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd this is all a diversion think about it there's only one gunman he's shown the Isis flag and he has hostages,Enough to make a scene",
+            "user id": 2351231514,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@9NewsSyd @nbnnews It is an Arabic flag you ignorant people",
+            "user id": 108721985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@peterfra  It is an Arabic flag displaying the shahada, The Black Standard used by Mohamed &amp; emblem of modern jihad.",
+            "user id": 232837467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd there's something else planned ! The gunman hasn't made any demands he's just stalling you all it's so obvious come on people",
+            "user id": 2351231514,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @9NewsPerth hope everyone gets out safe",
+            "user id": 2515882963,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd Peaceful place under attack ... Now world must unite against these forces",
+            "user id": 376679692,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "This sums it up &gt; RT @9NewsSyd: UPDATE: Police confirm they have made contact with the gunman. #9News http://t.co/BUUWpPj8xm",
+            "user id": 342127347,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @9NewsAUS isis",
+            "user id": 2471020940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd \nthey will experience trauma.",
+            "user id": 2373833395,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "请好心人帮忙转发，特别是@黄海冰 @胡歌 @文章同學 @赵薇，麻烦尽你们一份微力量吧，谢谢！",
+        "user id": 2433578042,
+        "tweet id": "3516618472368802",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "哦,好,了解,是因為有朋友直接轉來,大家就急著把這消息散佈...謝謝您",
+            "user id": 2425410362,
+            "user name": "心海任遨遊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[good]",
+            "user id": 2479617055,
+            "user name": "孙娜2479617055",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "好心人有好报，我们支持转发的",
+            "user id": 2479617055,
+            "user name": "孙娜2479617055",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "[怒]",
+            "user id": 1444212255,
+            "user name": "茉清76",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2713972457,
+            "user name": "无色地芳香",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "大家帮帮忙@Annabelle葉 @Viki小鱼 @Chan_Tt @雅秋zheng @林心如 @夢想家林志穎",
+            "user id": 1894274914,
+            "user name": "梦想家咚咚-Mei",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2397566883,
+            "user name": "安放人生的雅舍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "多可爱的孩子，早日早到自己的父母吧，不怕不怕啊，世上好心人多，大家帮忙转起来",
+            "user id": 1236418630,
+            "user name": "五曲观鱼乐悠悠",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "content": "尽份微力量、让这个可爱的孩子找回自己的家[心]@于波 @于波工作室 @茂lv",
+            "user id": 1819842241,
+            "user name": "Annabelle-葉秋芳",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2942388914,
+            "user name": "王菲price",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "source": {
+        "content": "The pen is mightier than the sword, and the cowards were afraid of it. So don't stop writing. #JeSuisCharlie #CharlieHebdo",
+        "user id": 244181007,
+        "tweet id": "552816883012239360",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@shumylaj",
+            "user id": 2397594482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@shumylaj dont justify terrorism but the systematic mock isn't equalizing to freedom of speech.The continous offence isnt democragy,is hate.",
+            "user id": 2397594482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": "@lucilla908 @shumylaj Freedom of speech is easy to defend when you agree. Freedom of speech = Free speech at all times if you like it or not",
+            "user id": 233045198,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Nor drawing ... don't stop publishing satirical pictures of religious doctrines @shumylaj",
+            "user id": 2605930819,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "@_D79_ @shumylaj It's no matter to agree or not but of ethics.",
+            "user id": 2397594482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@lucilla908 @shumylaj You really don't understand the conceptof free speech do you?",
+            "user id": 233045198,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@_D79_ @shumylaj Yes I know, but you don't know what means ethics.",
+            "user id": 2397594482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@lucilla908 @shumylaj Ethics has absolutely nothing to do with it. You should be free to speak your mind, no matter what. That = Free speech",
+            "user id": 233045198,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@lucilla908 @shumylaj That's the only ethical position to take. Not to silense because you don't like what's being said.#Norighttobeoffended",
+            "user id": 233045198,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

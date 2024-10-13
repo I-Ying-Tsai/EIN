@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Heartfelt thoughts with the hostages of the #SydneySiege &amp; their families.",
+        "user id": 234874463,
+        "tweet id": "544341124614459393",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ChakerKhazaal here's to the hostages getting safe passage on this day @ChangeTip #SydneySeige",
+            "user id": 2371415304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ChakerKhazaal, @AdmiralLeviathn wants to send you 1 safe passage (5,719 bits/$2.00) Collect➔http://t.co/15aedfMHIl",
+            "user id": 2238411649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

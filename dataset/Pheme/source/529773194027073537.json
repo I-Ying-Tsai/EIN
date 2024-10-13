@@ -1,0 +1,78 @@
+{
+    "source": {
+        "content": "Is anyone still in line at Massey Hall? #Prince",
+        "user id": 421251101,
+        "tweet id": "529773194027073537",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@MissLady_Di did u line up? Just heard...#hoax???",
+            "user id": 105272508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "content": "@eddie1079 I don't think it was a hoax. Think something happened \nI was on my way down then I heard it was cancelled. #phewf",
+            "user id": 421251101,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@MissLady_Di wow...crazy!! still ppl waiting...saw it on the news...glad u heard in time! :)",
+            "user id": 105272508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@eddie1079 you never know with him. So it doesn't surprise me, people are waiting.",
+            "user id": 421251101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

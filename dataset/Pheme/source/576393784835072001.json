@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Is Putin dead? 144% of people say no. #putindead #Russia",
+        "user id": 266052569,
+        "tweet id": "576393784835072001",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@madeinrussia83 http://t.co/kM9RnLBulI",
+            "user id": 3077745647,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "UPDATE: Police have confirmed that live ammunition was used as heavily armed police stormed the café in #MartinPl. #SydneySiege #9News",
+        "user id": 171802941,
+        "tweet id": "544511263788003329",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@9NewsSyd: Police have confirmed that live ammunition was used as heavily armed police stormed the café in #MartinPl. #SydneySiege #9News”",
+            "user id": 43759072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @BuzzFeedNews Live ammunition? Really? As opposed to... Blanks? Toy weapons?",
+            "user id": 128696124,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Wow great tweet. “@9NewsSyd: UPDATE: Police have confirmed that live ammunition was used as heavily armed police stormed the café",
+            "user id": 128696124,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd I hope they killed that bastard &amp; that the hostages were unharmed. #PrayForSydney",
+            "user id": 151284118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @LeeannWright4 Well, GEE.  WTF else would they use???  BLANKS?  Oh--I forgot--we can't yell at terrorists, so shooting is a no-no",
+            "user id": 35806119,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd What else would they use besides live ammo?",
+            "user id": 111165218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

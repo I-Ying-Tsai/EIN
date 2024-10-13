@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#BREAKING - At least five hostages in Paris kosher supermarket: (AFP) https://t.co/h1qXZG6GlP #Vincennes http://t.co/NYRdp3n1lT",
+        "user id": 25049056,
+        "tweet id": "553535829529100288",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "フランスで新たに発生した人質事件の方は人質が少なくとも５人だそう。“@France24_en:  - At least five hostages in Parishttps://t.co/h1qXZG6GlP #Vincennes http://t.co/bYlFnTcCD9”",
+            "user id": 145851251,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @France24_en #BREAKING - At least five hostages in Paris kosher supermarket: (AFP)",
+            "user id": 36033359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

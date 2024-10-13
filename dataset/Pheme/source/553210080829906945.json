@@ -1,0 +1,177 @@
+{
+    "source": {
+        "content": "There is a sickness in the world, but it's not #islam, it's religious extremism everywhere. #JeSuisCharlie http://t.co/zNRSUFbd0P",
+        "user id": 17994522,
+        "tweet id": "553210080829906945",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 Charlie Hebdo shooting: Who are the suspects? #JeSuisCharlie http://t.co/rHqCJl5hp6",
+            "user id": 2249449765,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 religion is the beast. it always creates an we here and they there.",
+            "user id": 75819129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 person like you is a cancer.This losing mentality is our danger. We need crush islam mercilessly. stop immigration",
+            "user id": 49961419,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 except that when you read the tweet on the left, you'd know it was a joke. The one on the right probably says something scary.",
+            "user id": 20000069,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 Religion causes death and destruction when it's twisted into an excuse for mankind to kill with a sense of righteousness",
+            "user id": 237752180,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 CHRIS O BRIEN , THE BIBLE  SAY S THAT THERE WILL BE A HOLY WAR , AND WE ARE SEEING THIS HAPPING NOW , B4 THE 2ND COMEIN",
+            "user id": 2829884893,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617  ...or just extremism everywhere.",
+            "user id": 76131051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 Amazing display of intellectual dishonesty.  The one on the left is obviously a joke.  Did you even read the tweet, you nitwit.",
+            "user id": 359247016,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrisOB617 As they say, 'it can happen here', only if the conditions are ripe . . .and we might be heading in that direction.",
+            "user id": 2273789838,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@ChrisOB617 She's mocking the President's comment from when he was campaigning.  It's satire.  How ironically stupid of you.",
+            "user id": 21598538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@OPlz but she represents something very real. It's not about one person/pic, it's a larger point.",
+            "user id": 17994522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@ChrisOB617 Something real like what?  The President's absurd view of half the country's population?",
+            "user id": 21598538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@OPlz Not at all absurd. How ironically stupid if you.",
+            "user id": 17994522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

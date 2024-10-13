@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "\"How can you just leave me standing, alone in a world that's so cold?\"\n― Prince fans in line outside Massey Hall since 7am",
+        "user id": 38495710,
+        "tweet id": "529725387400835072",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@LaurenPelley http://t.co/MLrziziNVg",
+            "user id": 165821699,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@LaurenPelley Faaaaaaantastic tweet. I'm over here clapping with the utmost vain disinterest.",
+            "user id": 2433526788,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@LaurenPelley Well played.",
+            "user id": 349829359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

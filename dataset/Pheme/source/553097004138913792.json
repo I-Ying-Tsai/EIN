@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "One of the best #JeSuisCharlie cartoons I have seen so far by @RteeFufkin http://t.co/VNMqFaJLxW",
+        "user id": 350341283,
+        "tweet id": "553097004138913792",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SirWilliamD @RteeFufkin Excellent",
+            "user id": 111294127,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SirWilliamD @RteeFufkin Please RT - Download a hilarious FREE Koran PARODY for infidels of all ages - https://t.co/hXbeZHdguj",
+            "user id": 2886586060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@SirWilliamD: One of the best #JeSuisCharlie cartoons I have seen so far by @RteeFufkin http://t.co/i3wtGIu6KY”",
+            "user id": 14792167,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@chmayer @SirWilliamD @RteeFufkin Paris victims, we all must stand for charlie. Give your support here : http://t.co/2bILdMPZ1u",
+            "user id": 2967365878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SirWilliamD @RteeFufkin CharlieHebdo the #cartoonist http://t.co/2bILdMPZ1u",
+            "user id": 2967365878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@SirWilliamD: One of the best #JeSuisCharlie cartoons I have seen so far http://t.co/tDd8xPfinN”Leh 3am yebri la yesta3mel l me77aye ?",
+            "user id": 510746497,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@SirWilliamD: One of the best #JeSuisCharlie cartoons I have seen so far by @RteeFufkin http://t.co/qBqjbkREaz”\n\n#Halleuja",
+            "user id": 127450313,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SirWilliamD @RteeFufkin   L'Amérique se tient avec la France. #JeSuisCharlie",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SirWilliamD @RteeFufkin nice!",
+            "user id": 853366958,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SirWilliamD @RteeFufkin",
+            "user id": 19129400,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

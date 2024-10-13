@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Terrible news... Airbus A320 from Barcelona to Dusseldorf has crashed in France (Germanwings Flight 9525). http://t.co/C3zpWZ5bIF",
+        "user id": 93735135,
+        "tweet id": "580320893668364288",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@champ_ian wow 😓😓😓",
+            "user id": 1324997816,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@champ_ian oh GOD not again",
+            "user id": 1580265168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "148 people on board. Plane has crashed near the town of Digne (southern French Alps). #4U9525",
+            "user id": 93735135,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": ".@fhollande: “No survivors expected.”",
+            "user id": 93735135,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@champ_ian 148 people on the plane. Souce: French Medias.",
+            "user id": 46527626,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "French president Hollande does not expect survivors from #Germanwings plane crash http://t.co/0YLB5DTeso http://t.co/UK8LVyuBbN",
+        "user id": 14173315,
+        "tweet id": "580335578069209091",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews What a sad news on the day when I started tweeting after several days!",
+            "user id": 1943263711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "So sad RT \"@NBCNews: French president does not expect survivors from #Germanwings plane crash http://t.co/8QjO8KnRqi http://t.co/VJRQ8HikSz”",
+            "user id": 2330527741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews how come he is so sure this early on???",
+            "user id": 17235165,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @SquawkCNBC what an optimistic man",
+            "user id": 2735568390,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "#BREAKING RT@NBCNews: French president does not expect survivors from #Germanwings plane crash http://t.co/MaCE23e0x9 http://t.co/Y3HRsy0N9V",
+            "user id": 523349706,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @vwarrenon7 All of those that were lost are in my thoughts and prayers today and always.",
+            "user id": 1623289296,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

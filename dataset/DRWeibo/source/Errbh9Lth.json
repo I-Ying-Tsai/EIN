@@ -1,0 +1,389 @@
+{
+    "source": {
+        "content": "#大智聊手机#罗永浩又忍不住爆料了他自信满满的T3，价格应该也很亲民，这次我们是不是该支持一下罗老师了？ ",
+        "time": "17-1-18 22:13",
+        "user id": "2667922521",
+        "tweet id": "Errbh9Lth",
+        "label": 0,
+        "theme": "财经商业"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5687640622",
+            "user name": "科技社区bot",
+            "content": "翻翻你的微博。这不是T3吧",
+            "time": "17-3-2 10:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "2667922521",
+            "user name": "IT大智",
+            "content": "坚果2",
+            "time": "17-3-2 10:18",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "5687640622",
+            "user name": "科技社区bot",
+            "content": "坐等…",
+            "time": "17-3-2 10:19",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5,
+                9
+            ],
+            "user id": "3601708575",
+            "user name": "樊羽徽",
+            "content": "就不能是坚果么",
+            "time": "17-1-18 22:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 6,
+            "children": [],
+            "user id": "2915920201",
+            "user name": "喵喵喵大少",
+            "content": "坚果主打外观，t主打外观和性能。",
+            "time": "17-1-19 11:13",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "user id": "5620346116",
+            "user name": "清风明台",
+            "content": "锤子以后没有千元机了",
+            "time": "17-1-18 23:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [
+                4
+            ],
+            "user id": "2667922521",
+            "user name": "IT大智",
+            "content": "我错了😷",
+            "time": "17-1-18 23:12",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 9,
+            "children": [
+                6
+            ],
+            "user id": "2881429740",
+            "user name": "小可爱海岸",
+            "content": "就是坚果2",
+            "time": "17-1-18 22:43",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [],
+            "user id": "3601708575",
+            "user name": "樊羽徽",
+            "content": "那就难说了",
+            "time": "17-1-18 22:38",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [
+                7,
+                8
+            ],
+            "user id": "2667922521",
+            "user name": "IT大智",
+            "content": "坚果设计岂能干掉t",
+            "time": "17-1-18 22:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2667922521",
+            "user name": "IT大智",
+            "content": "转发微博 ",
+            "time": "17-1-18 23:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12,
+                13,
+                14,
+                15
+            ],
+            "user id": "1640571365",
+            "user name": "交个朋友直播间",
+            "content": "不是T3。另外，很感谢，但请不要“支持”。我们会致力于让大家情不自禁地购买，并且买完了觉得赚，而不是“支持”。",
+            "time": "17-1-18 23:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "2691582605",
+            "user name": "青瓷蓝",
+            "content": "来打脸了",
+            "time": "17-1-19 08:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "user id": "5060745017",
+            "user name": "Mr__SF",
+            "content": "罗老师昨晚是不是喝大了",
+            "time": "17-1-19 07:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [],
+            "user id": "2807483970",
+            "user name": "默默的小小悟空",
+            "content": "哈哈…",
+            "time": "17-1-19 00:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 11,
+            "children": [],
+            "user id": "2141851880",
+            "user name": "与众不同的周同学",
+            "content": "活捉罗永浩",
+            "time": "17-1-18 23:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "3295058462",
+            "user name": "Heaven-Xie",
+            "content": "相声的嘴巴",
+            "time": "17-1-18 23:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "1938689523",
+            "user name": "杰森Goo",
+            "content": "想了想 还是买iPhone8吧",
+            "time": "17-1-19 12:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "1705692660",
+            "user name": "方鑫哥哥",
+            "content": "溜溜溜，被老罗翻牌子了，大智你要火了",
+            "time": "17-1-19 08:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "2006494621",
+            "user name": "缺席的患者",
+            "content": "话说你的截图，是一部很丑的手机",
+            "time": "17-1-19 00:19",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "2881429740",
+            "user name": "小可爱海岸",
+            "content": "真的好那自然买。现在还确定不了是不是T3",
+            "time": "17-1-18 22:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "1936269067",
+            "user name": "太阳每天升起831",
+            "content": "支持罗总",
+            "time": "17-1-20 12:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "5726112920",
+            "user name": "ANJUDE",
+            "content": "TMD 该D系列了",
+            "time": "17-1-19 23:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "2207019022",
+            "user name": "战栗c",
+            "content": "T2 呗",
+            "time": "17-1-19 01:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "2173692252",
+            "user name": "Gooseathome",
+            "content": "感觉m1l真的不漂亮，还是希望t系列的高配旗舰，三大金刚可以考虑撤了。。。",
+            "time": "17-1-19 01:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "1946101031",
+            "user name": "来自壹玖捌叁",
+            "content": "要是都和大家想象中差不多的手机，应该大家都会买账！//@罗永浩: 不是T3。另外，很感谢，但请不要“支持”。我们会致力于让大家情不自禁地购买，并且买完了觉得赚，而不是“支持”。",
+            "time": "17-1-18 23:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "1930081271",
+            "user name": "北极的松鼠",
+            "content": "坚果2",
+            "time": "17-1-18 23:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "2162665910",
+            "user name": "林老栋",
+            "content": "期待！",
+            "time": "17-1-18 22:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 14,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

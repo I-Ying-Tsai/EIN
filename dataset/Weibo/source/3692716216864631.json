@@ -1,0 +1,891 @@
+{
+    "source": {
+        "content": "李大眼被抓了",
+        "user id": 1653222735,
+        "tweet id": "3692716216864631",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "是吗?",
+            "user id": 2005499341,
+            "user name": "阳光0501",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "遥言？",
+            "user id": 1878948923,
+            "user name": "吾亦与点也",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "这消息有证据支撑吗？",
+            "user id": 1043166932,
+            "user name": "做合格的公民",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "求证@李承鹏 [疑问]？",
+            "user id": 2410985144,
+            "user name": "五里河灯火",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "李大演",
+            "user id": 1045595405,
+            "user name": "月上柳梢T",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "[疑问]",
+            "user id": 2373190070,
+            "user name": "万股来三笑",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[思考]前罪还是近祸？！~",
+            "user id": 2033470943,
+            "user name": "等待枪的子弹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "content": "先转一个再说",
+            "user id": 1813555160,
+            "user name": "咱就一山里人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "证据？[泪]",
+            "user id": 1426114941,
+            "user name": "秀月醉姜",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "我就相信你一次，自干五的工作虽然辛苦，客观事实的问题，可不能像公知那样造谣啊。",
+            "user id": 1770244685,
+            "user name": "扑克火花",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                12,
+                13
+            ],
+            "content": "看热闹不嫌事儿大",
+            "user id": 1749704975,
+            "user name": "懒羊羊_Kakitani8",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "content": "转发微博",
+            "user id": 2611451627,
+            "user name": "劳动者花七",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                16,
+                17,
+                30
+            ],
+            "content": "这不是丫一心所求么，得倡所望多好[挖鼻屎]",
+            "user id": 1905701417,
+            "user name": "Lionel-Luthor",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "不至于吧。大眼手眼通天，谁都不怕!(某案子的余波?)",
+            "user id": 3888350532,
+            "user name": "厚颜无耻囧斯诺",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "content": "是韩寒的生父吗",
+            "user id": 2641320571,
+            "user name": "蕗透社",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "？",
+            "user id": 2239040765,
+            "user name": "云梦泽人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 12,
+            "children": [
+                27
+            ],
+            "content": "真的抓了？啥罪名",
+            "user id": 1731661833,
+            "user name": "ka_等等等等等等等等等等",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 12,
+            "children": [],
+            "content": "丫肯定要借事继续炒作",
+            "user id": 1767938240,
+            "user name": "毒男大叔",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "转你500，敢抓我家爱宠！？",
+            "user id": 3320463221,
+            "user name": "裸嚸",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "content": "为何？",
+            "user id": 2013709945,
+            "user name": "雷亚雷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": 7,
+            "children": [],
+            "content": "老婆抓的还是猫抓的？还是犯法逮了？原博表达不明确。",
+            "user id": 1616254440,
+            "user name": "司南i",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                51
+            ],
+            "content": "不能吧，不过我倒相信是真的，昨晚的事",
+            "user id": 1341756511,
+            "user name": "胖尊者",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "有点像二傻子所谓的女儿的生父，从长相看//回复@云梦泽人：？",
+            "user id": 1341756511,
+            "user name": "胖尊者",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "染香说开复去，被封！你说大眼抓，没事？",
+            "user id": 1205194452,
+            "user name": "他六爷",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [
+                25,
+                26
+            ],
+            "content": "我就转转看",
+            "user id": 2548118440,
+            "user name": "五姑娘假装仁波切被切",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [],
+            "content": "我不明真相",
+            "user id": 2079933335,
+            "user name": "饰目以黛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 26,
+            "parent": 24,
+            "children": [],
+            "content": "如果真，喜大普奔。。。",
+            "user id": 2119730855,
+            "user name": "圣光六翼路西法_SHR",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": 16,
+            "children": [
+                33
+            ],
+            "content": "真的假的～[鼓掌]",
+            "user id": 1935943361,
+            "user name": "佛陀佛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 28,
+            "parent": 11,
+            "children": [],
+            "content": "猫抓伤的？",
+            "user id": 1232907084,
+            "user name": "奉天大y",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "“给你个五毛”[偷笑]",
+            "user id": 2091231895,
+            "user name": "Akiba2012",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": 12,
+            "children": [],
+            "content": "[围观]",
+            "user id": 1517214317,
+            "user name": "围观表示无鸭梨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [
+                62,
+                65
+            ],
+            "content": "别问了 真的",
+            "user id": 1653222735,
+            "user name": "人民没有人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "content": "如果是真的，他的头型会剔成茶叶蛋，[哈哈]",
+            "user id": 1341756511,
+            "user name": "胖尊者",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": 27,
+            "children": [],
+            "content": "要是真的那就太好了！",
+            "user id": 1733446371,
+            "user name": "无_飞这个翅_行",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "content": "[威武]",
+            "user id": 2935789740,
+            "user name": "太白山人李雪木",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "content": "大眼进去了？消息属实吗！？",
+            "user id": 2419517341,
+            "user name": "DL南山樵夫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "content": "喜大普奔",
+            "user id": 3231730752,
+            "user name": "天生黑眼圈真烦人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "content": "你说的是哪只眼？被挠了？",
+            "user id": 1910049564,
+            "user name": "无眠-2012",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "content": "什么事情，什么证据？ 虽然和@李承鹏 没什么关注，但如果仅因为说几句话无故抓人真的不好",
+            "user id": 1444151667,
+            "user name": "先椽",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [
+                40
+            ],
+            "content": "猫？狗？鸡？老婆？莫非～上东芫了？",
+            "user id": 2014781881,
+            "user name": "平淡激越",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 1685560041,
+            "user name": "丁力同志",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [
+                43,
+                56,
+                61,
+                72
+            ],
+            "content": "让全世界公知都知道[嘻嘻]",
+            "user id": 3279710155,
+            "user name": "斯图卡98",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "content": "[哈哈][哈哈]",
+            "user id": 1484947761,
+            "user name": "源远一流长",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": 41,
+            "children": [],
+            "content": "[围观]",
+            "user id": 3297521271,
+            "user name": "春眠不觉晓之梦浩然",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "content": "消息来源？？？？？",
+            "user id": 1438402817,
+            "user name": "zjwzlcw",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [],
+            "content": "如果他真的和恐怖分子有关系，支持抓。如果只是领基金会的钱，可以放出来啊——公知的敌人是公知自己的知识水平和思维能力，怎么能把公知的敌人也抓起来呢？",
+            "user id": 1741206051,
+            "user name": "三体-维德",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "content": "虽然是大家众望所归，但是消息来源毕竟不是警方。",
+            "user id": 2720344303,
+            "user name": "青春太白",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [
+                54,
+                55
+            ],
+            "content": "[鼓掌]众望所归,但愿是真。",
+            "user id": 1749004134,
+            "user name": "大锣锵锵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "content": "关注",
+            "user id": 2675818190,
+            "user name": "七点钟001",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "content": "在台湾抓的？",
+            "user id": 2062570873,
+            "user name": "肖新海",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "content": "举国欢庆",
+            "user id": 1984503727,
+            "user name": "菲力城",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": 21,
+            "children": [],
+            "content": "估计理由只有一个，从事分裂活动。",
+            "user id": 2720344303,
+            "user name": "青春太白",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [],
+            "content": "这个消息比@染香 的早！",
+            "user id": 3930188265,
+            "user name": "源清依然",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [],
+            "content": "谣言倒逼真相",
+            "user id": 1747872267,
+            "user name": "春哥曾哥都是我的姐",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 54,
+            "parent": 47,
+            "children": [],
+            "content": "估计德国之行是他的“死亡之旅”",
+            "user id": 1749004134,
+            "user name": "大锣锵锵",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 55,
+            "parent": 47,
+            "children": [],
+            "content": "哈哈，盼丫进去是全世界人民的夙愿。",
+            "user id": 1749004134,
+            "user name": "大锣锵锵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 56,
+            "parent": 41,
+            "children": [],
+            "content": "哇！",
+            "user id": 1849324263,
+            "user name": "飞翔的五对负重轮",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "content": "看起来要火。。",
+            "user id": 1577868022,
+            "user name": "baosha100",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [
+                59
+            ],
+            "content": "啊！？[哈哈][哈哈][哈哈]",
+            "user id": 1401305113,
+            "user name": "伐豁胖伐IB",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 59,
+            "parent": 58,
+            "children": [
+                60
+            ],
+            "content": "普大喜奔",
+            "user id": 1866922960,
+            "user name": "静静sabrina",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 60,
+            "parent": 59,
+            "children": [
+                66,
+                67
+            ],
+            "content": "[哈哈][哈哈]",
+            "user id": 1282057112,
+            "user name": "CSH00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 61,
+            "parent": 41,
+            "children": [],
+            "content": "不许造谣！但希望是真的。谁来辟谣呢？[炸鸡和啤酒]",
+            "user id": 1201704637,
+            "user name": "阿弥陀佛1219",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 62,
+            "parent": 31,
+            "children": [],
+            "content": "大眼是谁",
+            "user id": 1401034843,
+            "user name": "竹韵的花园",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [],
+            "content": "此消息可靠否？",
+            "user id": 2703061051,
+            "user name": "陶仁雨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 64,
+            "parent": -1,
+            "children": [],
+            "content": "发个微博有人想揍俺一看都是南方的。南方人打架招笑，先来个战前预报，交流下套路。不像俺们东北这噶，看谁不顺眼有过节，直接上门削，有时走道一个眼神，一个动作看不顺眼就直接比划了，而且没有多余动作，不拖泥带水，基本都是一招制敌，打完就走，俩家不找后账，被揍还心里贼服，伤势轻重，药费自理",
+            "user id": 1653222735,
+            "user name": "人民没有人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 65,
+            "parent": 31,
+            "children": [],
+            "content": "！！！？？？",
+            "user id": 2283918632,
+            "user name": "猫猫爸爸是老虎",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 66,
+            "parent": 60,
+            "children": [],
+            "content": "好像不是第一次被抓了吧[哈哈]",
+            "user id": 1887855570,
+            "user name": "喧闹清晨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 67,
+            "parent": 60,
+            "children": [
+                69
+            ],
+            "content": "[鼓掌]",
+            "user id": 1966385005,
+            "user name": "h_evil",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 68,
+            "parent": -1,
+            "children": [],
+            "content": "帮你转500次[哈哈]",
+            "user id": 1494689242,
+            "user name": "我才是黑子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 69,
+            "parent": 67,
+            "children": [
+                70
+            ],
+            "content": "谁",
+            "user id": 1868721380,
+            "user name": "3A牌马夹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 70,
+            "parent": 69,
+            "children": [
+                71
+            ],
+            "content": "李承鹏",
+            "user id": 1762313752,
+            "user name": "话痨的周周",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 71,
+            "parent": 70,
+            "children": [],
+            "content": "啥罪名",
+            "user id": 1963271087,
+            "user name": "德才兼备小阿姨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 72,
+            "parent": 41,
+            "children": [],
+            "content": "靠，真的假的?哈哈。还有慕容雪村那个阴毒的傻逼什么时候排队进去捡肥皂?",
+            "user id": 2918387140,
+            "user name": "凝眸时刻",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 28,
+            "state_1": 16
+        },
+        "2-hop": {
+            "state_0": 14,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

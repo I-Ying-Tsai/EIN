@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "BREAKING: Another hostage situation developing in a Parisian Kosher supermarket http://t.co/f48bgredPb #CharlieHebdo http://t.co/nl4ipAXaHw",
+        "user id": 271413771,
+        "tweet id": "553534768537939968",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostUK @mehdirhasan fuck!",
+            "user id": 1080276308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostUK watching the happenings all the way frm Kenya... its so sad #CharlieHebdo hope the hostages are evacuated safely. ..",
+            "user id": 500794290,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostUK @HuffPostUKPol http://t.co/zvZUBVHlsC...Untold Stories....Read Share Follow Enjoy....",
+            "user id": 497463899,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostUK this hasn't even been confirmed connected to #CharlieHebdo, no?",
+            "user id": 423600623,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

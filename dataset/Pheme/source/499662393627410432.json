@@ -1,0 +1,168 @@
+{
+    "source": {
+        "content": "Community organizations on-site in #Ferguson http://t.co/mDz9Z9dque",
+        "user id": 14090948,
+        "tweet id": "499662393627410432",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Community organizations on-site in #Ferguson http://t.co/Zn87vDsUQd” wonderful! #JusticeForMikeBrown",
+            "user id": 89260763,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench are the cops still trying to run you off?",
+            "user id": 2614453742,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@AntonioFrench: Community organizations on-site in #Ferguson http://t.co/B0nYtdE71g” now I want barbecue",
+            "user id": 1967842039,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@1000Jasus come down to stl then jass , lol you gone think twice about that ! 💯",
+            "user id": 2495616336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@AntonioFrench Is there a voter registration table out there? #Ferguson Needs New Leadership! #MikeBrown",
+            "user id": 253647516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@adjordan @AntonioFrench YES!! Should be Voter Registration at every table! And on foot, moving through the crowds!!",
+            "user id": 703983715,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AntonioFrench Community organizations on-site in #Ferguson http://t.co/bF4V6pWI6Y &lt;---- YES, YES, YES!!!",
+            "user id": 25244789,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "\"@AntonioFrench: Community organizations on-site in #Ferguson http://t.co/19ZPrLv3Fx\" 🙌🙌✌",
+            "user id": 2461027308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @brianowenstv We have few #Veteran #Smallbiz in the areal.  If any other #Veterans need Free Assistanct give us a yell.",
+            "user id": 18483231,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench any of them registering residents to vote? @andie_walsh",
+            "user id": 22047952,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "“@OverlyyLoved: @1000Jasus come down to stl then jass , lol you gone think twice about that ! 💯” HELL NAH 😂",
+            "user id": 1967842039,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@1000Jasus right , shit crazy down here ! 🙅",
+            "user id": 2495616336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

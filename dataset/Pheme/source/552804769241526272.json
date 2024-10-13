@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "Wide and uncompromising condemnations on Arab Twitter of insane attack on #CharlieHebdo - I hope everyone sees this. Don't focus on fools.",
+        "user id": 213326209,
+        "tweet id": "552804769241526272",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@koertdebeuf too bad we can't read that scribbling",
+            "user id": 2620831379,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@longlivescience @koertdebeuf well, then listen to us who can",
+            "user id": 362052272,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@koertdebeuf @jdceulaer Focus on the victims and their family first in stead of your fear for general condemnation on Islam. #charliehebdo",
+            "user id": 347213348,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@koertdebeuf @cinemonkey thank you. this is very important for a balanced view, are translations available?",
+            "user id": 26295559,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@koertdebeuf well said, couln't agree more",
+            "user id": 362052272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@koertdebeuf oh, really? watch shameful coverage by #Al_Jazeera and you will see. There were not fools but organized murderers.",
+            "user id": 252466428,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "zeg @koertdebeuf veel fools gesignaleerd! http://t.co/n2yIstwLtL",
+            "user id": 486448476,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "hier @koertdebeuf , nog meer 'uncompromising' fools  (kan zo nog talloze blijven sturen) http://t.co/tOPlFR4Pkk",
+            "user id": 486448476,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@koertdebeuf Toon dat eens.",
+            "user id": 712168447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@koertdebeuf Focus op \"gematigde\" gekken dan... http://t.co/t7juWDWcTF",
+            "user id": 712168447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@PiaOhlsson certainly @koertdebeuf",
+            "user id": 2620831379,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

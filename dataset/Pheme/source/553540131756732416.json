@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "Turns out #CharlieHebdo was a two face douche on free speech - Telegraph http://t.co/aYmG7XeGY5 http://t.co/hiiW3qt2p0",
+        "user id": 13374,
+        "tweet id": "553540131756732416",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@charlesfrith That's a false compare.",
+            "user id": 185658709,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@charlesfrith Not true. They mocked EVERY religion. #CharlieHebdo\n\nDo your research. http://t.co/x1ff5Im73c",
+            "user id": 20281336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@charlesfrith: Turns out #CharlieHebdo was a two face douche on free speech - Telegraph http://t.co/1vgGm1reYV http://t.co/ypcF5XN3o2”",
+            "user id": 563506837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@charlesfrith Looks to me like he's highlighting Western policy on said 'free speech'. OK to mock anyone but Israel. Illegal in Canada even!",
+            "user id": 34530769,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@jontask @charlesfrith -France boasts of 'free speech' to mock religions; but bans 'freedom of rights' 2 muslim women concerning dressing!",
+            "user id": 832861190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@charlesfrith: Turns out #CharlieHebdo was a two face douche on free speech - Telegraph http://t.co/Ed9geKHz77 http://t.co/YWba1IpBGZ”",
+            "user id": 577592572,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@charlesfrith @GBabeuf That's...not really proving your point. At all. In fact, it shows they mocked everyone and not just Muslims.",
+            "user id": 2798309898,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@widar01 @charlesfrith @GBabeuf -Paris False Flags ; http://t.co/mx5IGsuewV more https://t.co/0x8zXXFDex; http://t.co/xgpGjMyKTh",
+            "user id": 832861190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@charlesfrith @wherepond \n\nNobody should have been killed over those cartoons.\nFuck those cartoons.\n\n- See more at: http://t.co/nn2HqfAjk8",
+            "user id": 42792991,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "“@jimmyh740: @charlesfrith @wherepond \n\nNobody should have been killed over those cartoons.\nFuck those killers.” \n\nAgreed.",
+            "user id": 866303856,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "Ja, schon...\n@charlesfrith @PiratJames1964",
+            "user id": 2366054586,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@charlesfrith '..bien sur, everyone is equal, but some are more equal than others..' http://t.co/i3i0orGkYJ",
+            "user id": 281942499,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

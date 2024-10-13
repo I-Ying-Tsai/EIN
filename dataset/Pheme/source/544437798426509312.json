@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "We love the #illridewithyou initiative. Spread #love and compassion. Thoughts are with all those affected. #sydney http://t.co/EK8UycpKDn",
+        "user id": 26654287,
+        "tweet id": "544437798426509312",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AmnestyNSW this quote was the first thing I thought when I heard about #illridewithyou. Dr King would be proud of us today.",
+            "user id": 1350594962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@KatSiecris we agree. It's important to remember this today and everyday. Make #illridewithyou a lifelong pledge!",
+            "user id": 26654287,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

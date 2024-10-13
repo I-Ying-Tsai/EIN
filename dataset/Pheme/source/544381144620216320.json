@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "These hostages' faces say so much http://t.co/FkqkWrumfZ #sydneysiege http://t.co/alk2z0Lsgj",
+        "user id": 35466620,
+        "tweet id": "544381144620216320",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@theheraldsun This really hit me when I saw it...",
+            "user id": 137200672,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@theheraldsun that's it, broadcast that people are getting out you clowns so that it makes it harder for others inside you media dickheads",
+            "user id": 51245437,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@theheraldsun @LukeDennehy pray they will be ok #sydneysiege #weareaustralian",
+            "user id": 327421990,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@theheraldsun: These hostages' faces say so much http://t.co/dFXYepU0V4 #sydneysiege http://t.co/mvfoM698sb”",
+            "user id": 1072387866,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@GibberishBabble @theheraldsun In America, all of them would have been shot in the head because our cops are knee jerking idiots.",
+            "user id": 16569663,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@theheraldsun @BridgeRdMelb it says loads about your lack of ethics and class. Have a thought for those women and blur their faces you scum.",
+            "user id": 248440784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@theheraldsun @margokingston1 Aren't things hard enough for these people without splashing their anguish all over social media - JUST DON'T!",
+            "user id": 560664451,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@theheraldsun @margokingston1 Surprised the Herald Sun published them. They may be Muslims. Daily Terror's 2pm front page.....",
+            "user id": 1721130294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [],
+            "content": "@RenagadeGirl do you want to fucking live under the rule of law or not?",
+            "user id": 370534934,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

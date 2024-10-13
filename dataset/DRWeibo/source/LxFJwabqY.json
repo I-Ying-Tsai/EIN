@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "#家暴梗引来流量失了德#江苏的女孩 实名举报，被几个男人殴打，同行伙伴致死，视频发不出来，只能讲述过程，蹲一个后续！ ins明星日常的微博视频 ",
+        "time": "22-6-14 13:27",
+        "user id": "5148538440",
+        "tweet id": "LxFJwabqY",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "5979482122",
+            "user name": "向善的恶徒",
+            "content": "唉 好多这种无处申冤的",
+            "time": "22-6-14 14:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "1864745692",
+            "user name": "momosama02",
+            "content": "做女人真的好难",
+            "time": "22-6-14 14:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "5919522232",
+            "user name": "为自己想要过成的样子而努力",
+            "content": "发不出去？我们国家什么时候变成这样了？悲哀啊！",
+            "time": "22-6-14 17:48",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "2270550245",
+            "user name": "brush0",
+            "content": "太大了，联邦制会不会好点，你看德国，英国就咱们一个省那么大，好管理",
+            "time": "22-6-14 21:55",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "2284136165",
+            "user name": "当年追明月",
+            "content": "微博开始审案",
+            "time": "22-6-14 21:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "1765033324",
+            "user name": "小半黑白",
+            "content": "海门公安通报了，不实。",
+            "time": "22-6-14 23:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "2284136165",
+            "user name": "当年追明月",
+            "content": "这种挺可恶了，蹭热度 夸大事实",
+            "time": "22-6-15 10:34",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "7244229963",
+            "user name": "三文鱼的自我修养",
+            "content": "很多男的真的从小没学过尊重女性",
+            "time": "22-6-14 14:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "6274783234",
+            "user name": "泡泡小纤",
+            "content": "热度下去了，越来越难了",
+            "time": "22-6-14 16:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "6560687243",
+            "user name": "莂忲滈看洎己孒",
+            "content": "一直以为国泰民安， 原来内患这么严重啊 ， 贪腐 这么严重",
+            "time": "22-6-14 20:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "6336564100",
+            "user name": "氪了给吗求求啦QAQ",
+            "content": "顶，姐姐加油",
+            "time": "22-6-15 10:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "7280829443",
+            "user name": "在天空中飞的鱼1573",
+            "content": "严肃处理严肃处理严肃处理",
+            "time": "22-6-15 10:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "3146601170",
+            "user name": "闻经读典",
+            "content": "🙏🙏🙏",
+            "time": "22-6-15 09:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

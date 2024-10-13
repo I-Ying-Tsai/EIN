@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "French police are looking for two more suspects in the #Montrouge shooting: https://t.co/3GAC1myxzZ http://t.co/5wX2rPoGF5",
+        "user id": 16525194,
+        "tweet id": "553546679161745408",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Observers @FRANCE24 Un sonninké terroriste? Douteux. Sont les gens les plus discipliné et réservés",
+            "user id": 509485463,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Observers @Quickieleaks French Police is Super Confused, #CharlieHebdo #FrenchPolice #Confusion",
+            "user id": 53641740,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@FarhanAhmed_80 @Observers not surprised really",
+            "user id": 263981499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Observers @bluedevildavey the face of the enemy of Western Civilization",
+            "user id": 554548215,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Observers @FRANCE24 France should surrender to muslims and declare it muslim country, perhaps only way it can save its citizen lol",
+            "user id": 1857982483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Observers @FRANCE24 pity to see France helpless in hands of Muslims",
+            "user id": 1857982483,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Observers @FRANCE24  WAKE UP 'VIVE LA FRANCE\" TWO ARE OLD NEWS \"WHY ARE TERRORIST LET GO OUT OF PRISONS?WHY FRANCE HAVE NO DEATH PENALTY",
+            "user id": 368392804,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@Quickieleaks @Observers yea... now French Police diverting from Islamic Jihadi attention to non-islamic ethnic french hot pursuit",
+            "user id": 53641740,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

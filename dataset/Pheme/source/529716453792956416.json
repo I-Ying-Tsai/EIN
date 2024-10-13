@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Is #Prince in #Toronto? Rumours fly of surprise show... @masseyhall http://t.co/ySchlys6DA",
+        "user id": 21212604,
+        "tweet id": "529716453792956416",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ctvottawa @masseyhall  holding suicide prevention event and fundraiser for funeral costs for my cousin who passed on sun",
+            "user id": 2806596777,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ctvottawa any help with this event even raffle prizes are much appreciated",
+            "user id": 2806596777,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

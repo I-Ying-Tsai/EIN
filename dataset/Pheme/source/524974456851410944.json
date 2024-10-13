@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Map of the locations of shootings in Ottawa, at War Memorial, House of Commons and nearby mall http://t.co/X88Z25p9Tx http://t.co/oFsyyJQ4Qp",
+        "user id": 1877831,
+        "tweet id": "524974456851410944",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@nytimesworld @MikePMoffatt Something is spelled wrong, Rivière des Outaouais.",
+            "user id": 185947193,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MVLibertas @nytimesworld @MikePMoffatt How is it spelled wrong?",
+            "user id": 556355482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimesworld @nytimes",
+            "user id": 2859825620,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimesworld @nytimes god blesh them whose sufer from war",
+            "user id": 306155621,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

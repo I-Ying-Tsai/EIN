@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Report: Co-Pilot Locked Out Of Cockpit Before Fatal Plane Crash http://t.co/aXGQuacv2E #Germanwings http://t.co/T80L7BhXX6",
+        "user id": 1020058453,
+        "tweet id": "580882341880446977",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews Suicide mission?  That's crazy stuff.",
+            "user id": 14386498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews doesn't mention if it's the co-pilot in the report.",
+            "user id": 15224425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews that's suspicious!",
+            "user id": 632640024,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@buzzfeednews This sounds like pilot suicide.",
+            "user id": 17971617,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@rshak8 @BuzzFeedNews My thought too! Question is then if his motives where his own or something else?",
+            "user id": 2545900439,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

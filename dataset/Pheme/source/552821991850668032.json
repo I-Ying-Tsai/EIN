@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "#CharlieHebdo imam of drancy, Paris, condemns attack, says it has nothing to do with Islam, calls on Muslim \"silent majority\" to condemn it",
+        "user id": 246758084,
+        "tweet id": "552821991850668032",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@jackyaljaz @rkd993 It is time many Muslims realised they CAN criticise the bad elements of their religion.",
+            "user id": 420176985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@abdr7mansalh7 \"@jackyaljaz: imam Paris condemns attack says NOTHING to do with Islam calls on Muslim silent majority to condemn it\"👍 #ISIL",
+            "user id": 1261294051,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@jackyaljaz @Freedland too late , tell me what he say when money was offered by his ayatolahs for the head of Salman Rushdie #CharllieHebdo",
+            "user id": 83592019,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@jackyaljaz US drones have killed more civilians than terrorist since inception, but no Christian was called to apologise for that.",
+            "user id": 423262886,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Quite @jackyaljaz: \"#CharlieHebdo imam of drancy Paris condemns attack ...nothing to do with Islam, Muslim...\"silent majority\"...condemn it”",
+            "user id": 21993076,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jackyaljaz @danieljerivers They will never condemn it. That is why they are becoming untouchables in the whole world.",
+            "user id": 74737184,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        }
+    }
+}

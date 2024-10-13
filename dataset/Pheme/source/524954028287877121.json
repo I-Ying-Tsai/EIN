@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "Police in Ottawa are searching for suspected gunmen who shot a solider and fired shots in Parliament this morning. http://t.co/1cKIHwuCzl",
+        "user id": 1652541,
+        "tweet id": "524954028287877121",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters حساب فيه اسئلة سحريه -_- !! - @Question_arab",
+            "user id": 2847978979,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters يارجال وش هالحساب ؟ - تابعوه @Question_arab",
+            "user id": 1111570514,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters CONFIRMED 1 gunman SHOT DEAD, 2 MORE on the loose in Ottawa near the Rideau Center Mall.",
+            "user id": 2651807532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters LIVE COVERAGE: http://t.co/g3QaJKWZ35",
+            "user id": 2651807532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters Cue the bombardment now.",
+            "user id": 2768705528,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters @IslamZimbabwe How many politicians needed clean underwear? Easy 2  send soldiers into war but shuts down a state becoz of gunshots",
+            "user id": 2704216071,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters  Definitely will shake Canadian complacency and make it a meaner place to live.",
+            "user id": 868082467,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        }
+    }
+}

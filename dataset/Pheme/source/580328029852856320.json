@@ -1,0 +1,112 @@
+{
+    "source": {
+        "content": "FOX NEWS ALERT: Germanwings Airbus A320 was 24 years old, traveling from Barcelona to Dusseldorf http://t.co/OvBETeYbMt",
+        "user id": 15513604,
+        "tweet id": "580328029852856320",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@foxandfriends Fantastic. Didn't you there at fox hear him say: HE IS SPECULATING ??? Talking heads don't listen to anything really.",
+            "user id": 600346411,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@foxandfriends https://t.co/vIgkCFktwj",
+            "user id": 296986026,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@foxandfriends Age of aircraft is rarely an issue. flight hours since engine overhaul, continuous flight time and mech records",
+            "user id": 21743685,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@MilitaryRosary @foxandfriends I wonder about a possible Hacking???",
+            "user id": 3049833302,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@foxandfriends it wasn't going to slow.  http://t.co/FfG6qXNS6K indicates 500kts",
+            "user id": 2160057899,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@foxandfriends also, the flight was airborne 30 minutes late. Look at flightaware",
+            "user id": 2160057899,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@foxandfriends I do not believe I would get on a plane right now. There seems to be more crashes than usual.",
+            "user id": 2318938087,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@foxandfriends Inside job.",
+            "user id": 2571860615,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

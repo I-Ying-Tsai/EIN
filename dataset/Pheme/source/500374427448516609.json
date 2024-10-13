@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": ".@CNN KEEPS playing the video while saying it has nothing to do with the murder of #MikeBrown this is PSYCHOLOGICAL WARFAE. #FERGUSON",
+        "user id": 1291770157,
+        "tweet id": "500374427448516609",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa @msnbc is giving better coverage from what I've been seeing",
+            "user id": 56038455,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa No surprises. @CNN has its own agenda. The weasel words in its tweets alone are appalling. Ignore them. Stay strong!",
+            "user id": 1445009911,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa CNN hired #zimmerman's lawyer Mark O'Mara.... just sayin'!!!!",
+            "user id": 1630910881,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

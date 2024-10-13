@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "Love is stronger than hate/L'amour plus fort que la haine h/t @bouckap #CharlieHebdo http://t.co/TvgGJIMdr0",
+        "user id": 29979814,
+        "tweet id": "552827606715076608",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@monaeltahawy @missellabell @bouckap Why provoke the enemy? You like war? Have you had any of your friends killed, as I have. GROW UP!",
+            "user id": 228535069,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@andystez @monaeltahawy @missellabell @bouckap Sometimes it has to be done, otherwise freedom of speech and belief = down the pan!",
+            "user id": 1100846148,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "#jesuischarlie RT@monaeltahawy: Love is stronger than hate/L'amour plus fort que la haine h/t @bouckap #CharlieHebdo http://t.co/3SeGxQ4Hju”",
+            "user id": 471795640,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@monaeltahawy @bouckap Great message,wish THEY understand that through logic you can move mountains and not through brazen brutal attacks!",
+            "user id": 899716645,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@monaeltahawy Prophet(PBUH) forgave his enemies despite losing his dear ones to them! How can you wreak havoc in HIS name?Simple!",
+            "user id": 899716645,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT @monaeltahawy: Love is stronger than hate/L'amour plus fort que la haine #CharlieHebdo http://t.co/GVWDTkiZL2",
+            "user id": 26279847,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@monaeltahawy Tu parle Francais, aussi? #WonderWoman @bouckap",
+            "user id": 41670593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@monaeltahawy @Helskog @bouckap Love doesn't seem to be winning at the moment.",
+            "user id": 175307482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@monaeltahawy @bouckap fuck religion in the ass",
+            "user id": 335871995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@monaeltahawy: Love is stronger than hate/L'amour plus fort que la haine h/t @bouckap #CharlieHebdo http://t.co/XhUdFvS8yu”",
+            "user id": 159544191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@monaeltahawy: Love is stronger than hate/L'amour plus fort que la haine h/t @bouckap #CharlieHebdo http://t.co/RsAgfVglwz”",
+            "user id": 2402563808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

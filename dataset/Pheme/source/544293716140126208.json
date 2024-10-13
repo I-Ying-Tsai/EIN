@@ -1,0 +1,137 @@
+{
+    "source": {
+        "content": "Fear is what criminals want. Show no fear. The media must calm down and wait for information, and stop the speculation. Thanks. #sydneysiege",
+        "user id": 2832527047,
+        "tweet id": "544293716140126208",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HeyASIO: Fear is what criminals want. Show no fear. The media must calm down and wait for information, and stop the speculation.Thanks. #fb",
+            "user id": 2326251524,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "content": "@HeyASIO Oh Gawd guess who's going to address the Nation",
+            "user id": 550754544,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@lotzalozza @HeyASIO Don't tell me! Quentin Crispe? Buster Keaton? Harpo Marx? Marcel Marcaux?",
+            "user id": 714434936,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@lotzalozza I've got a CD playing at the moment. I don't think I'll bother tuning in to any address to the nation.",
+            "user id": 714434936,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@lotzalozza @lorrainewhat @HeyASIO guess he's furiously thrashing out a 3 worded slogan as we tweet!",
+            "user id": 2341047859,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@lotzalozza @Subdo2 @HeyASIO Mustn't accidentally turn the TV on.Let me know when it's safe again",
+            "user id": 243882040,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@HeyASIO @Jason_Chatfield alarming when a joke account speaks more sense than news outlets.",
+            "user id": 219920548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@HeyASIO @amirMusthafa hey... Is this reeeeeeeally #ASIO?",
+            "user id": 259590755,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@clever_munky naa. Not official account @HeyASIO",
+            "user id": 26331472,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@HeyASIO @amirMusthafa",
+            "user id": 259590755,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        }
+    }
+}

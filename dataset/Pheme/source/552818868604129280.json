@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Charlie Hebdo’s editor:  \"When activists need a pretext to justify their violence, they always find it.”  #CharlieHebdo",
+        "user id": 20136892,
+        "tweet id": "552818868604129280",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@StephenMangan",
+            "user id": 38243468,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@StephenMangan: Charlie Hebdo’s editor:  \"When activists need a pretext to justify their violence, they always find it.”  #CharlieHebdo”",
+            "user id": 184443817,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@StephenMangan Perhaps replace \"activists\" with \"thugs\".",
+            "user id": 28131012,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@StephenMangan and you call the terrorists by activists?!!!",
+            "user id": 262325178,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@LeJoe_ No I didn't. He did.",
+            "user id": 20136892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@StephenMangan http://t.co/USz45uoxan",
+            "user id": 1553907199,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@StephenMangan You're right, Aesop's fable about the wolf says it all.",
+            "user id": 1370252941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@StephenMangan I'm sorry, I didn't notice that he's not in the mention .",
+            "user id": 262325178,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

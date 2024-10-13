@@ -1,0 +1,163 @@
+{
+    "source": {
+        "content": "#BREAKING: Ottawa Police now confirming a 3rd shooting. This one at the Rideau Centre Mall. No word on injuries at that one.#OttawaShooting",
+        "user id": 176930329,
+        "tweet id": "524949887591653376",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@dave_bradley @GCGATOR24 sounds like the rag heads gone wild in Canada",
+            "user id": 473545254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@BrianTaxwhiz @dave_bradley @GCGATOR24 don't worry , we'll kill em",
+            "user id": 2550678733,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@dave_bradley @Olivianuzzi Apparently not? https://t.co/fM2wj2Rt8V",
+            "user id": 3817401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@dave_bradley @NoahCRothman Sounds like MUSLIMS! Coordinated attack of ISIS sympathizers...soon in USA! Start packing heat folks!",
+            "user id": 24041474,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@dave_bradley @sophielui OMG, is Senator Duffy okay?",
+            "user id": 568940880,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "holy hell. RT @dave_bradley: #BREAKING: Ottawa Police now confirming a 3rd shooting. This one at the Rideau Centre Mall.",
+            "user id": 261023298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": ".@dave_bradley @mletterle latest update is one soldier shot (maybe dead) and one shooter killed. #ottawa",
+            "user id": 14216544,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@dave_bradley @Steven31015146 Now we cant profile here, just because these guys dressed like ISIS doesnt mean they are Muslim terrorists...",
+            "user id": 57995307,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@CounterJihad @dave_bradley http://t.co/p2Ey3AgaVE",
+            "user id": 930808560,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@dave_bradley @Steven31015146 Yes, just because they read the Qur'an and use Islamic theology to justify terror doesnt mean they're Muslims",
+            "user id": 57995307,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@dave_bradley @pathomas626 USA needs to implement this. Shoot killers, shoot fleeing criminals, imprison gangsters, rapist, murderers,",
+            "user id": 1039855052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "@BrianTaxwhiz @dave_bradley @GCGATOR24 they got him , we, in Canada , have no tolerance for this , just Trudeau wants their votes, we don't",
+            "user id": 2550678733,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "#sydneysiege: No confirmation airspace has been shut down yet in Sydney but planes are avoiding the area. http://t.co/7NdqPYhwcY",
+        "user id": 2768501,
+        "tweet id": "544284823041212416",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews Police must be terrified of an all-mighty bang or helis being brought down...",
+            "user id": 420176985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @Asher_Wolf ffs do planes normally fly over the sydney CBD",
+            "user id": 266236372,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews  Commentator deducts choice of Lindt a botched choice. I'm thinking perfectly positioned opposite news outlet!! News !,",
+            "user id": 2857138922,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@abcnews: #sydneysiege: No confirmation airspace has been shut down yet in Sydney but planes are avoiding the area. @R2GFifa",
+            "user id": 364132055,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@AlexBullions @abcnews yep that's right",
+            "user id": 2656378525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "I expect histrionic falsehoods from your commercial cousins, @abcnews, facts from you.",
+            "user id": 1317741559,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

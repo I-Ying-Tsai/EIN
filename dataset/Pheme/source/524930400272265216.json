@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Canada Prime Minister Stephen Harper safe, has left parliament Hill: TV quoting PM's office",
+        "user id": 1652541,
+        "tweet id": "524930400272265216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters en la mañana es mejor",
+            "user id": 2831689129,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters",
+            "user id": 2712357938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@Reuters: Canada Prime Minister Stephen Harper safe, has left parliament Hill: TV quoting PM's office”",
+            "user id": 339312080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

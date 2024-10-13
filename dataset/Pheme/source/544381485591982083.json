@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "Reports on @channeltennews #sydneysiege gunman wants #ISIL flag delivered to cafe and he also wants to speak to PM or people will be killed.",
+        "user id": 597251143,
+        "tweet id": "544381485591982083",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @australian @channeltennews",
+            "user id": 372731520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @KKeneally @channeltennews Yay Tony will save the day",
+            "user id": 44082577,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston Source from Ray Hadley shows confirmed same report of gunman claiming there are four packages around Sydney",
+            "user id": 158775651,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @australian @channeltennews four packages better get Lambie on the case are they large ?",
+            "user id": 2206466353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @australian @channeltennews is this same as the \"call\" to Ray Hadley by \"POI\" from 10.30am? Or new info?",
+            "user id": 356846507,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @channeltennews fool bought the wrong flag with him.",
+            "user id": 2809130314,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @channeltennews Deliver him the Australian SAS instead.",
+            "user id": 2262083481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@TroyBramston @srod009 @channeltennews haha getting your news from 10 is like watching Looney Tunes for Social skills ha #MartinPlace",
+            "user id": 469271212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@TroyBramston @srod009 @channeltennews &amp; really an #ISIL flag? Surely when packing his shot gun, that would be the first item he'd pack!",
+            "user id": 469271212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @australian @channeltennews pathetic islamist coward",
+            "user id": 2909294196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @Eagle_Vision @channeltennews take the shot...#snipertime",
+            "user id": 1519867134,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@TroyBramston @channeltennews terminate him.doing this 2 innocent ppl.give the coward a uniform&amp;put him on battlefield 2 see how tough he is",
+            "user id": 2909294196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

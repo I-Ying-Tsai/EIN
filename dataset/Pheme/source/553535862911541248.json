@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "Paris: reports that man suspected of killing policewoman has 5 hostages at kosher supermarket  http://t.co/ZuU5xaf25I http://t.co/DVYPLL3XbF",
+        "user id": 788524,
+        "tweet id": "553535862911541248",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews It seems the level of tactical intervention needed to answer this Double situation is almost overwelming the authorities",
+            "user id": 195036383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@guardiannews @pugwash1000.  Nothing to do with Islam. Nothing to do with Islam.  Any word on the driver of the Glasgow bin lorry?",
+            "user id": 2245441478,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@FaithJupiter Nothing to do with Islam?",
+            "user id": 217158737,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews Will b terrorists r surely taking notes somewhere that multiple unsophisticated attacks by few well prepared men could ...",
+            "user id": 195036383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "“@guardiannews:man suspected of killing policewoman has 5 hostages at kosher supermarket  http://t.co/p9Rx7HaFP0 http://t.co/CY7VxLMerh”",
+            "user id": 38445526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@prozactaker @guardiannews  just warching the Live report",
+            "user id": 1096498950,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews ...lead to chaotic situation pretty easily How long b4 we fall into the trap of war law measures &amp; have our freedoms destroyed",
+            "user id": 195036383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews 3 thousand men to capture 2 terrorists and now this? Seriously? @LaSuperNea",
+            "user id": 157217875,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews @The_Real_Fly I'm guessing La Pen will make good use of this tragedy with the Ultra-Nationalist upsurge that likely follows.",
+            "user id": 215303514,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews Wtf?",
+            "user id": 1080276308,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@guardiannews @guardian Lets help this poor Editor of this Joke newspaper which should be sold only as a toilet paper-its a muslim terrorist",
+            "user id": 41108256,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

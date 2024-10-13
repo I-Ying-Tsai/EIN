@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "France's transport minister says distress signal was sent from Germanwings plane - @patthomas, @europe1 http://t.co/by471NAzFg",
+        "user id": 6017542,
+        "tweet id": "580325043705667586",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @patthomas @Europe1 are there any casualties?????",
+            "user id": 263465449,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@BreakingNews: France's transport minister says distress signal was sent from Germanwings plane @patthomas, @europe1 http://t.co/czq9GBodrl",
+            "user id": 354917016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @patthomas @Europe1 BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BreakingNews @patthomas @Europe1 Heartbreaking. So sorry to hear.",
+            "user id": 3029778698,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

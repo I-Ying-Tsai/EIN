@@ -1,0 +1,107 @@
+{
+    "source": {
+        "content": "Australian Muslim youth handed out 2000 flowers and 3600 water bottles to people in sydney #illridewithyou http://t.co/DDUknU9jqr",
+        "user id": 573897929,
+        "tweet id": "544496602262806528",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ZohaibTarar and each flower is explosive.",
+            "user id": 118978879,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@MrYantastic racist spotted!......... this shows Islam is a religion of peace.  :)",
+            "user id": 573897929,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ZohaibTarar @indianmuslim @Islam is a religion of peace. I condemn the @Sydneysiege. May @Allah get them all out safe and healthy",
+            "user id": 110296818,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ZohaibTarar what an amazing young woman! :)",
+            "user id": 77922891,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@likeabigfox thumbs up for australians :)",
+            "user id": 573897929,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ZohaibTarar YESSSS! \nDeclare LOVE proudly, wear this movement together today --&gt; http://t.co/Ps12ajbOm7 \n\n#illridewithyou #peace #love",
+            "user id": 786589926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@ZohaibTarar Did you just call them a race?",
+            "user id": 118978879,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. [Daily Times] http://t.co/r6y8d9HMAw",
+        "user id": 1594903015,
+        "tweet id": "521360486387175424",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FutbolLife @TransferSelect no he hasn't",
+            "user id": 528837552,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@FutbolLife: AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. [Daily Times] http://t.co/htvSb4ZIZ7”",
+            "user id": 483739492,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FutbolLife no he hasn't. The man himself confirmed not true @MichaelEssien",
+            "user id": 731357286,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@FutbolLife: AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. [Daily Times] http://t.co/5izSo4f134”",
+            "user id": 861997543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@FutbolLife: AC Milan midfielder Michael Essien has been diagnosed with Ebola. Get well soon Michael. http://t.co/uxxr2UdAOg”\n\nFuck off😳",
+            "user id": 518034679,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Glad to hear this is just a rumour. Disgusting whoever made this up. Apologies to @MichaelEssien and for any offence caused.",
+            "user id": 1594903015,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@FutbolLife @blayrobert @Carlosisking7",
+            "user id": 149021247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@Gonzoradlife @FutbolLife @Carlosisking7 woah wtf 😩",
+            "user id": 1161707989,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

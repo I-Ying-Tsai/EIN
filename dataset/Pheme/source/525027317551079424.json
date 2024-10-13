@@ -1,0 +1,153 @@
+{
+    "source": {
+        "content": "NEW: Sources: Deceased gunman who killed soldier in Ottawa has been identified as Canadian national Michael Zehaf-Bibeau - @WorldNews",
+        "user id": 28785486,
+        "tweet id": "525027317551079424",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ABC @WorldNews Let me guess, he is Muslim....",
+            "user id": 21803786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@bohratom @ABC @WorldNews probably just hit the nail on the head with that guess.",
+            "user id": 188030355,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@ABC @theviewtv @WorldNews in the photo of him he is wearing palestinian scarf. A palestinian terrorist killed infant in Jerusalem today",
+            "user id": 428750698,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@TrainerGloria @ABC @theviewtv @WorldNews \nISRAEL KILLS HUNDREDS EVERYDAY JUST TO TAKE OVER THEIR LANDS.\nPALESTINIANS BORN AND DIE IN CAMPS",
+            "user id": 250707028,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @WorldNews can I have more foreigners did we do they got to stop them now",
+            "user id": 2211081060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @WorldNews we've let the enemy in the front door.",
+            "user id": 2429548903,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @WorldNews Did he work nearby and go after co-workers prompted @BarackObama and the Admin to Canada ?",
+            "user id": 841058988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@ABC @WorldNews \n\nCAN THIS CANADIAN COULD BE CALLED A CHRISTIAN TERRORIST?\nIF HE WAS A MUSLIM HE COULD BE NAMED AN ISLAMIST EXTREMIST?",
+            "user id": 250707028,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@ABC @WorldNews \nIT IS A SHAME TO ACT TWO FACES. ISRAEL TAKE OVER PALESTINIAN HOUSES BY USING FORCE AN NOBODY WANT TO SEE IT.SEE NAZI ISRAEL",
+            "user id": 250707028,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC",
+            "user id": 2193063652,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@albanyly @ABC @theviewtv @WorldNews piss off jew-hating jihadist troll",
+            "user id": 428750698,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

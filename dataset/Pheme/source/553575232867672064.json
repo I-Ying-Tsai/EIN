@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "MORE: Official: gunman holding at least five hostages in Paris market has threatened to kill them if police approach: http://t.co/KId3U6zhCK",
+        "user id": 51241574,
+        "tweet id": "553575232867672064",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AP Locate more photograph here! http://t.co/6KRxOLohFk",
+            "user id": 2717034139,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AP Two words....political correctness....",
+            "user id": 46991806,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AP hombre mantiene como rehenes a cinco personas en un mercado de París. Amenaza con matarlos http://t.co/tVG1Uv0t8u",
+            "user id": 326466265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "RT “@RegiNoticias62: @AP hombre mantiene como rehenes a cinco personas en un mercado de París. Amenaza con matarlos http://t.co/YvGOebM6jo”",
+            "user id": 179324508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AP @YahooNews hitler saison deux de retour .............hhhhhhhhhhh les pauvre français http://t.co/rl3dsuB7iS",
+            "user id": 1415442320,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AP Sorry but does people probably will be dead by the end of the day as well as the Killers.",
+            "user id": 2824442646,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@AP chicken finally came home too roost... NATO.. started this in Afganistan....",
+            "user id": 2935553688,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@AP NATO is financing terror in India... thru pakistan.... a dose of their own medicine",
+            "user id": 2935553688,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@AP: Official: gunman holding at least 5 hostages in Paris market has threatened to kill them if police approach: http://t.co/JzQ9hzY9nL”",
+            "user id": 1663914396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AP\nThis is unbelievable!!! Complete failure of intelligence and security agencies!\nDid France become too liberal with the terrorists?",
+            "user id": 2360490967,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AP: คนร้ายจับตัวประกันที่ซูเปอร์มาร์เก็ตทางตอ.ของกรุงปารีสขู่ฆ่าตัวประกันหากตำรวจมีท่าทีว่าจะบุกเข้ามา http://t.co/m52Mr4iCXq",
+            "user id": 2578182110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AP \"JE SUIS CHARLES\" Wonder about the limits and rights ... destruction and death. Or is that blood man should drink to quench your maldad.",
+            "user id": 703306700,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

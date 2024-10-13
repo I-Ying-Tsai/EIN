@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#Russia prepares for a military parade in #Moscow marking 1 y anniversary of #Crimea occupation. #putindead http://t.co/wEtHVvXk2S",
+        "user id": 2539073085,
+        "tweet id": "576815154735775744",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ZombieTVonline very conveniently surrounding Kremlin with gear in case of...unrest.",
+            "user id": 2704027533,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ZombieTVonline Москва - это город не для жизни человека ... Органы, танки , власть ...  И всё НЕЛЬЗЯ..Загон для скота",
+            "user id": 433231620,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

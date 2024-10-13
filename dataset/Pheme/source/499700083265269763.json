@@ -1,0 +1,141 @@
+{
+    "source": {
+        "content": "A reminder: A SWAT team the size of TX showed up to the top location, but not the bottom one. #Ferguson #BundyRanch http://t.co/3Gjo0VFQ2E",
+        "user id": 14526877,
+        "tweet id": "499700083265269763",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@TUSK81 THANK YOU, I've been meaning to look for a photo of one those Bundy Ranch assholes aiming at the feds.",
+            "user id": 2363574036,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                9
+            ],
+            "content": "@GrouchoGlasses @TUSK81 they're not assholes,  it's called the 2nd amendment brother. .",
+            "user id": 488898360,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TUSK81 @ManEegee \n hint.. whites will fight back w arms,weapons..the power structure knows this.. blacks and Latinos? AFRAID of REVOLUTION!",
+            "user id": 416690465,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TUSK81 Odd, there's something about the two situations I can't put my finger on. Perhaps some physical difference between the two groups ?",
+            "user id": 27145054,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "This? @Karnythia\"@TUSK81: A SWAT team showed up to the top location, not bottom one. #Ferguson #BundyRanch http://t.co/nhKFP0Ntgi”",
+            "user id": 165122959,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@erin_meyers @TUSK81 Yes thank you.",
+            "user id": 100136358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@erin_meyers @wendmyoung @Karnythia @TUSK81 \nA valid point. However, don't forget law enforcement at Bundy was federal, not local.",
+            "user id": 133986031,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TUSK81 militia will not back rioting but now with cooler heads and proper protest stl militia should be there covering protesters #ferguson",
+            "user id": 582369711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TUSK81 time to get armed",
+            "user id": 47783064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [],
+            "content": "@sagecutter @TUSK81 Bundy is a moocher and that guy is an asshole.",
+            "user id": 2363574036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

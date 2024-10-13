@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "LIVE: @9NewsAUS coverage of ongoing hostage situation in Sydney's business district: http://t.co/ntlKVOgGWE http://t.co/leHfgNvMgQ",
+        "user id": 384438102,
+        "tweet id": "544302851158470657",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNewsLive @9NewsAUS",
+            "user id": 188401426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNewsLive @RobertFife @9NewsAUS $25,000.00 REWARD For Public Assistance In Seeking Criminal Investigation http://t.co/dQ6pGhOF28",
+            "user id": 2888321602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABCNewsLive @9NewsAUS",
+            "user id": 22865856,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

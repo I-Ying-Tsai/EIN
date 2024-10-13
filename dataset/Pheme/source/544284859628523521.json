@@ -1,0 +1,191 @@
+{
+    "source": {
+        "content": "The flag in the Lindt cafe window appears to be a Shahada flag, not an Islamic State flag. Live blog: http://t.co/3yf38dA6Gs #SydneySiege",
+        "user id": 16675569,
+        "tweet id": "544284859628523521",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@smh Thank you!!",
+            "user id": 305508680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "Saying thank you for invoking name of Mohammed &amp; Allah in #sydneyseige &gt; \"@ZakyMallah : @smh @smh Thank you!! \"",
+            "user id": 459023633,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@smh  What`s a Shahada flag ?",
+            "user id": 211113654,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@smh so it's ok then. Is it connected to a christian terror group",
+            "user id": 193129397,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "You mean to say in name of Mohammed &amp; Allah?\" @smh The flag in the Lindt cafe window appears to be a Shahada flag, not #ISIS  #SydneySiege \"",
+            "user id": 459023633,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@RobbieSingh2 @AnthonyJMConroy @smh   Who cares - it's Islamic.  @AustralianLabor @QandA #SydneySiege",
+            "user id": 2861527184,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@smh What's the difference they have them hostage!!!!",
+            "user id": 2887197776,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "The flag in Lindt cafe window appears to be a Shahada flag,not an Islamic State flag.Live blog http://t.co/lWF8YCYy9O #SydneySiege via @smh",
+            "user id": 37595323,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@smh @NewsAustralia yeah because why ask someone who understands these things? lol #auspol",
+            "user id": 14643310,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "“@smh: flag in Lindt cafe appears to be a Shahada flag, not an Islamic State flag ttp://ow.ly/FSraF #SydneySiege” #martinplace #auspoI",
+            "user id": 19898890,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": ".@SuzanneCarbone .@smh Same shit, different smell! #islamisevil",
+            "user id": 2329801698,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@smh until u know for sure why are u reporting",
+            "user id": 347883924,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@smh @TonyAbbottMHR No matter which flag is shown at the Lindt, please do not give in to the perps, unless you want to 'islamise' Australia",
+            "user id": 121120097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@smh @ShivAroor It can say free pizza for all you care. There are people being held hostage by rabid Muslims &amp; here we are discussing fonts.",
+            "user id": 2833082389,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@smh The Black Standard jihadist flag is prophet Mohammed's banner. #SydneySiege  @ShivAroor",
+            "user id": 573490762,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

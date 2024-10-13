@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "If you're on Parliament Hill, please don't Tweet your location or that/activities of police for your/their safety during incident. #Ottawa",
+        "user id": 18145829,
+        "tweet id": "524944178586091520",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@towhey What the Hell???!!!  Really brave - shoot an UNARMED War Memorial Guard!!  Douchebags!!!",
+            "user id": 194617976,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@towhey @mattgurney Incident? Me punching a guy at a bar is an incident. This is an attack.",
+            "user id": 276708416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

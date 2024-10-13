@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "News Corp seems to be having an internal conflict over whether we \"changed forever\" today or not. #SydneySiege http://t.co/X8QIjGxwAC",
+        "user id": 489336004,
+        "tweet id": "544432190281359360",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler Oooo, burn.",
+            "user id": 543124662,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler existential crisis",
+            "user id": 1547497346,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler @TheMurdochTimes And we all thought climate change was the biggest contributor to cognitive dissonance!",
+            "user id": 25658504,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler If we changed forever by being rid of the Tele we would have a positive outcome.",
+            "user id": 205549245,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler nice catch!",
+            "user id": 336151296,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler No conflict, the answer is whatever @rupertmurdoch tells us to write. Easy, no morals, no questions, no conflict.@paigecardona",
+            "user id": 775751720,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@denhamsadler @AnnieCA33 What else would you expect from the Daily Telebogan",
+            "user id": 108721985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@peterfra It's hilarious! Morons are just beside themselves trying to milk this for all it's worth",
+            "user id": 29920671,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler @paigecardona No conflict, whatever it takes to sell papers. That's all.",
+            "user id": 21476870,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler @hoodathort They like hyperbole ... I guess with the cops not allowing the space to be filled with BS, they are facing facts!",
+            "user id": 613852418,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler Skidmarks all over the Murdoch press as they try and slam their bigotry into reverse.",
+            "user id": 37602035,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@denhamsadler @paigecardona ugh- the media race to be profound.",
+            "user id": 65757298,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

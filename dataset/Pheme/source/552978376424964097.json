@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "Evet! : From Banksy #JeSuisCharlie http://t.co/7QX4hhYytl”",
+        "user id": 1488110497,
+        "tweet id": "552978376424964097",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@yildirim_turker \"Genocide in the name of Allah\" http://t.co/ESONuICuCw\n#Armenian #Greek #Assyrian #Genocide #Islam #CharlieHebdo",
+            "user id": 1344297120,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "content": "@serkanengin @yildirim_turker siz ne güzel insanlarsınız, böyle günlerde tıkanan ciğerlerimize bir nefes oluyorsunuz, iyi ki varsınız..",
+            "user id": 2277828612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@yildirim_turker Ölüm toplasa da çiçekleri, çiçekte tohum biter mi? #JeSuisCharlie #MetinGöktepe",
+            "user id": 2364531078,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@yildirim_turker “Külliyen Dininiz Elden Gitsin İstiyorum” - Serkan Engin http://t.co/kJgOx0jzVP  #İslam #İfadeÖzgürlüğü #CharlieHebdo",
+            "user id": 1344297120,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@yildirim_turker",
+            "user id": 227968510,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@tdbk56 @yildirim_turker Eksik olmayın Turgay Bey...Saygılar, incelikler...",
+            "user id": 1344297120,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

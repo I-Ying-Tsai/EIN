@@ -1,0 +1,181 @@
+{
+    "source": {
+        "content": "一条年轻的生命，定格在22岁。合肥蹦极，工作人员忘系绳索了，将姑娘推了下去后发现没系绳索，绳子却在工作人员身上。由于工作人员严重失误，断送了女孩的生命！不要轻易把自己的生命交给别人，不要去做冒险的娱乐活动！[皱眉] 阿正说动漫的秒拍视频 ",
+        "time": "18-6-26 07:22",
+        "user id": "5991015245",
+        "tweet id": "Gn6nlAOi8",
+        "label": 1,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                4,
+                6,
+                7
+            ],
+            "user id": "1862659104",
+            "user name": "蛋高Green",
+            "content": "有毛病！辟谣都满天飞了还复制然后发这种无脑的文字！",
+            "time": "18-6-26 15:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "5991015245",
+            "user name": "阿正说剧漫",
+            "content": "是，扣除信用积分，郁闷了",
+            "time": "18-6-27 13:29",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "5491766706",
+            "user name": "兰州阿豪",
+            "content": "还有处罚……",
+            "time": "18-6-27 12:59",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [],
+            "user id": "5991015245",
+            "user name": "阿正说剧漫",
+            "content": "已被新浪处理我了，得到惩罚，我记住这个教训",
+            "time": "18-6-27 12:22",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "user id": "5491766706",
+            "user name": "兰州阿豪",
+            "content": "没事，",
+            "time": "18-6-27 12:13",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "5991015245",
+            "user name": "阿正说剧漫",
+            "content": "谢谢你，我真不知道",
+            "time": "18-6-27 09:59",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "user id": "5491766706",
+            "user name": "兰州阿豪",
+            "content": "图片评论 查看图片",
+            "time": "18-6-27 09:26",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "user id": "5991015245",
+            "user name": "阿正说剧漫",
+            "content": "我在朋友圈看到的，哪里说假的，发给我看一下好吗？谢谢，如是假的，我即刻删掉",
+            "time": "18-6-26 15:52",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1785782473",
+            "user name": "咕咕咕咕R",
+            "content": "心头一紧",
+            "time": "18-6-26 10:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "2353649753",
+            "user name": "紧望劳资搞哼个阿",
+            "content": "造谣的，合肥没有蹦极，",
+            "time": "18-6-28 14:07",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2356891993",
+            "user name": "Virgo_大鹏",
+            "content": "假的，不要造谣",
+            "time": "18-6-26 10:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "3383282142",
+            "user name": "甘油三酯偏高了",
+            "content": "不传谣",
+            "time": "18-6-27 05:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

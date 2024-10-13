@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "RAW VIDEO : Parliament Hill shooting.\nVideo from inside Parliament Hill after shots were fired. #breaking http://t.co/sIwoId5RoH #CBCNews",
+        "user id": 6433472,
+        "tweet id": "524948941956448257",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews what is the door at the end of the hall during the shooting?  Is that the parliamentary library?",
+            "user id": 107801808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews Looks like  a movie scene on set!\n#toManyDonuts",
+            "user id": 2790184530,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@CBCNews  Mr Harper is responsible for this shooting after involving Canada in bombings to Siria and Iraq. @pmharper",
+            "user id": 141416686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@alfonsotellezr so defending sinjar and kobane are unjustified?",
+            "user id": 6068542,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Shocking @CBCNews Parliament Hill shooting. Video from inside Parliament Hill after shots were fired. #breaking http://t.co/lNBc1IFiuz",
+            "user id": 284804728,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews Globe and Mail posted this one a little more dramatic. http://t.co/CoLvBrpqu7",
+            "user id": 17257471,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@basznocz it's not our war.",
+            "user id": 141416686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@alfonsotellezr thanks for not answering my question",
+            "user id": 6068542,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

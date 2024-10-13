@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "Hostages are posting the requests of the gunman on social media. @nswpolice has asked the media not to publish those requests #SydneySiege",
+        "user id": 279534015,
+        "tweet id": "544407139205132288",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@em_partridge @smh @nswpolice unfortunately hasn't stopped The Straits Times",
+            "user id": 70344806,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@em_partridge @smh @nswpolice censorship is not the answer people have a right to know!!",
+            "user id": 25265852,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@firefly_rfs @em_partridge @smh @nswpolice I think the intention is to protect the hostages",
+            "user id": 2351312120,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@em_partridge @nswpolice @smh Not if it harms the hostages",
+            "user id": 2863756561,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@em_partridge @BevForte @nswpolice Let me guess, the filthy Muzzie terrorist wants 72 virgin goats to fuck or else?",
+            "user id": 1866480170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@em_partridge @smh @nswpolice well they are contacting media not social media there is a big difference",
+            "user id": 2900998022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8,
+                9
+            ],
+            "content": "“@em_partridge: Hostages posting the requests of the gunman on social media. Police asked media not to publish those requests #SydneySiege",
+            "user id": 2502895924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@blastedsilver @em_partridge if anyone has links and stuff please don't share or post",
+            "user id": 40040253,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@blastedsilver @em_partridge And for a very good reason! Really disturbing actually... #sydneysiege",
+            "user id": 1440333937,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "@blastedsilver @em_partridge why are we so worried about offending these people they don't care about us..",
+            "user id": 164390412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                11,
+                12
+            ],
+            "content": "@mariajohnson77 @em_partridge @smh @nswpolice my issue is police having control over what is broadcast, this is a dangerous precedent! Shame",
+            "user id": 25265852,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@firefly_rfs @em_partridge @smh @nswpolice true but I guess it's such an unknown you don't know what is best",
+            "user id": 2351312120,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@firefly_rfs @mariajohnson77 @em_partridge @smh @nswpolice true, but it is necessary in emergencies like this.",
+            "user id": 543291783,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

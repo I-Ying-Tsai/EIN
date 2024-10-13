@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "#BREAKING Australian police say responding to 'incident' at Sydney Opera House",
+        "user id": 380648579,
+        "tweet id": "544287252306997249",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "#sydneysiege\n@AFP: #BREAKING #Australia police responding to 'incident' at #Sydney #OperaHouse",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP  @FGunay1 nog meer ontwikkelingen, nu bij het opera house",
+            "user id": 2723802684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Australian police say responding to 'incident' at Sydney Opera House” incident = #ISIS flag waving ppl hostage ppl",
+            "user id": 885272058,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "#BREAKING Australian police say responding to 'incident' at Sydney Opera House (@AFP)",
+            "user id": 17408916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP Not at Opera House. No incident there. Get your reports correct",
+            "user id": 125016785,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@AFP @tiredoflaundry And Lindts too?  This is not going to end well. I'm surprised we haven't been targeted, the protesters are easy target.",
+            "user id": 1232348810,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@MyersSuzan @AFP that's what I fear the most w protesters. But they think Pd presence is show of force rather than protection from .",
+            "user id": 19449079,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @stacyherbert",
+            "user id": 18759573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @tom_allard Location wrong, details wrong",
+            "user id": 1634512056,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @nickdepetrillo uh oh here we go",
+            "user id": 1498797607,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP I do not think this is what is happening",
+            "user id": 15430237,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

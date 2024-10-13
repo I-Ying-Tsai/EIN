@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "We are in full lock down until further notice from Ottawa Police.",
+        "user id": 1900801694,
+        "tweet id": "524937542131793920",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Stay safe my friends. RT @RideauCentre: We are in full lock down until further notice from Ottawa Police.",
+            "user id": 34404941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RideauCentre any reports of shots fired inside the Rideau Centre or just nearby?",
+            "user id": 22642829,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@RideauCentre Conflicting reports regarding a possible shooting on/near the Centre, but your GM said no shooting. Can you clarify at all?",
+            "user id": 3847661,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@RideauCentre @bernardcolin we were near here trying to drive to Wakefield. Stuck in tfc now",
+            "user id": 1180798231,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@mercy2us @RideauCentre Glad you guys are ok.",
+            "user id": 217099144,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@bernardcolin glad you're safe too!! Was weird to be only car on rideau &amp; not know about the #ottawashooting til afterwards",
+            "user id": 1180798231,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

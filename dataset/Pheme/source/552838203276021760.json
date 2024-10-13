@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Danish paper that published Mohammed cartoons ups security after #CharlieHebdo attack\nhttp://t.co/PcUCgT7OMd #AFP",
+        "user id": 2240567468,
+        "tweet id": "552838203276021760",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPNordic @AFP Les bêtes enragées, on les achève: les Danois réservent un comité d'accueil à la hauteur des espérances des djihadistesl!",
+            "user id": 93401682,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AFPNordic @AFP Faut-il tuer au npm de Dieu? http://t.co/qkawdDnHcl",
+            "user id": 48061264,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "I don't agree with what you have to say,\nbut I'll defend to the death your right to say it.\n#Voltaire\n\n#JeSuisCharlie http://t.co/0bTQmQPmn1",
+        "user id": 2368811822,
+        "tweet id": "553131797379551232",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MineParis81 L'Amérique se tient avec la France. #JeSuisCharlie",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MineParis81 @GypsieDanger Voltaire never said that. Google it.",
+            "user id": 14594712,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MineParis81 you are quite right as it turns out. Tidy.",
+            "user id": 2265850060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MineParis81 But, are the images and messages depicted by #CharlieHebdo #JeSuisCharlie really worth defending? http://t.co/exy7h6xCwD",
+            "user id": 2923868135,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

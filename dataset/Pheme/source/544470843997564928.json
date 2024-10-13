@@ -1,0 +1,100 @@
+{
+    "source": {
+        "content": "Sending love to Sydney. #illridewithyou #sydneysiege http://t.co/CFDtYzehDp",
+        "user id": 21642733,
+        "tweet id": "544470843997564928",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RedGray \n&gt;get attacked by islamists\n&gt;declare solidarity with them\nwtf logic",
+            "user id": 2877238739,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@JarzyJarzy there is a difference between Islam &amp; fundamentalism.",
+            "user id": 21642733,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RedGray  Reddit link to offer and request help http://t.co/YGopWwaemt",
+            "user id": 953169685,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@RedGray: Sending love to Sydney. #illridewithyou #sydneysiege http://t.co/yV1gpyiioE”",
+            "user id": 426606273,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "@RedGray first what this terrorist did was declaring his faith by http://t.co/Z2L4lguQMI with a shahada on it",
+            "user id": 2877238739,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@JarzyJarzy the terrorist is a fundamentalist - the other 476,000 Muslims in Australia are not.",
+            "user id": 21642733,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

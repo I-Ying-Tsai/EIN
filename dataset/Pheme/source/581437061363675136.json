@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "GERMAN NEWS REPORT: Co-Pilot of Germanwings Airbus Was MUSLIM CONVERT …’Hero of Islamic State’ http://t.co/JDZ3vZuO2k http://t.co/NqHmAGt6Mf",
+        "user id": 143695063,
+        "tweet id": "581437061363675136",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MarcHilliker @foxandfriends",
+            "user id": 375669510,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@MarcHilliker What is it about Islam that it attracts all the psychopathic mass murderers?",
+            "user id": 288138954,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@NotreDameFan27 @MarcHilliker I guess it was either that, or politics, really...what other positions are open to psychopaths these days?",
+            "user id": 170597868,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@MarcHilliker No cockpit audio of him praising Allah before crash. Why didn't he target \"infidels\" on the ground? Not buying it.",
+            "user id": 76978453,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                10
+            ],
+            "content": "@MarcHilliker RE #Germanwings FAA should require all foreign carriers transiting U.S. airspace to use 2-person in cockpit at all times rule.",
+            "user id": 76978453,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MarcHilliker calling a plane crash a 9/11 seems out of line. It would take 20 of those planes to get 3k casualties. A whole fleet of them",
+            "user id": 30351538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MarcHilliker @Tinawanis The investigators are saying the \"items of interest\" were doctors notes excusing him from flying",
+            "user id": 16569075,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MarcHilliker If it walks like a duck and quacks like a duck, it's probably a Muslim.",
+            "user id": 2973751984,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@MarcHilliker Thar we go!  He just turned into \"a brown guy who probably don't even talk the language proper!\"  Surprise, surprise...",
+            "user id": 170597868,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MarcHilliker @Tinawanis confirm please",
+            "user id": 1046135256,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [],
+            "content": "@SgtTim911 @MarcHilliker Pee in a bottle for all I care but just stay put",
+            "user id": 66843801,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

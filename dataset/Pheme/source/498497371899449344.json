@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Still conflicting reports about death of the witness. Police say it's not true. Tempers are rising here in #Ferguson http://t.co/nbbr7XvJxk",
+        "user id": 14090948,
+        "tweet id": "498497371899449344",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AntonioFrench what city is this",
+            "user id": 31104889,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Qiydarr @AntonioFrench Close to St Louis...",
+            "user id": 234953933,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench a woman who was trying to get her kids out, I heard.",
+            "user id": 1167824414,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench So where's the witness? Where's Mike Brown's friend?",
+            "user id": 144846097,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench are you kidding me!? WTF is going on there!? The govt needs to step in now! @BarackObama",
+            "user id": 29046653,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench How are they saying he died? Shot?",
+            "user id": 175654607,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Figure we are still hours, if not days, before we know the 'facts' of what happened.",
+            "user id": 19408219,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "BREAKING UPDATE - FRANCE: Police order all shops closed in famed Jewish neighborhood in central Paris following attacks.",
+        "user id": 322572436,
+        "tweet id": "553561452318322688",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah Capitulation to terror. Their failure for not protecting them properly in the first place.",
+            "user id": 902921690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@IsraelHatzolah And now what? How long can they be closed? French authorities should have drawn conslusions from rise in antisemitic acts",
+            "user id": 540903074,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@keller_lind @IsraelHatzolah Remember WWII and what happened in France. France has always capitulated or tried to appease.",
+            "user id": 2723735572,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah @rogsahl so the only thing u care about are the jews lol",
+            "user id": 305171317,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah they will be closed anyway bc it's shabbos soon,",
+            "user id": 1238567425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah Damn. I can  imagine how awesome a French,kosher corned beef sandwich must be.",
+            "user id": 178232832,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@IsraelHatzolah Ireland supports you...Islam is the cancer of planet earth",
+            "user id": 2919349733,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@FaithBased92 @IsraelHatzolah France just pushed PA &amp; voted for \"Pal state\", like Parliament &amp; Senate, to please Arab world. This is answer",
+            "user id": 540903074,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

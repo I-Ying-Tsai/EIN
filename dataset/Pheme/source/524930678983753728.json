@@ -1,0 +1,228 @@
+{
+    "source": {
+        "content": "Our thoughts are with everyone involved in what is happening on Parliament Hill and Confederation Square this morning. Stay safe, Ottawa.",
+        "user id": 43885373,
+        "tweet id": "524930678983753728",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Senators let's hope the game is safe",
+            "user id": 2652322208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@Senators i hope the game gets cancelled want a refund",
+            "user id": 2239613018,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                14
+            ],
+            "content": "@SaadQERSHI @Senators Huh?  You hope it gets cancelled?  You want a refund?",
+            "user id": 39481036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@SaadQERSHI  @sentators why say something so senseless? You must be a Torontonian. we don't need trash at our games. stay safe #RCMP",
+            "user id": 14793439,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Senators @Sportsnet will the game still be played tonight?",
+            "user id": 1420429104,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Thomaskeenan16 @Senators @Sportsnet Stay classy Toronto while Ottawa protect you #RCMP",
+            "user id": 14793439,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Senators #weareottawa",
+            "user id": 2642437857,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@Senators What's happened?! I'm in the UK!",
+            "user id": 516859581,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                15
+            ],
+            "content": "@trentca @Senators soldier shot at the war memorial. Shooting inside parliment",
+            "user id": 152621442,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Senators stay safe guys",
+            "user id": 1652869519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Senators is game still on..",
+            "user id": 68197005,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Senators any word on the game possible being postponed due to the situation happening downtown?",
+            "user id": 20218403,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Senators Is the game still on?",
+            "user id": 405284803,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@Senators #OttawaStrong",
+            "user id": 1117980007,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 2,
+            "children": [
+                16
+            ],
+            "content": "@The_JimmyIce @Senators same thing with the boston incident",
+            "user id": 2239613018,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 8,
+            "children": [],
+            "content": "@ThisIsLaurelM @Senators Shiiiiiit, thanks.",
+            "user id": 516859581,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [],
+            "content": "@SaadQERSHI @Senators I don't think they're the same thing.  I'm fine with whatever, but I think the game is a long time from now.",
+            "user id": 39481036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

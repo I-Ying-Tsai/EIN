@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "#习主席出访津巴布韦#【津巴布韦总统和夫人到机场迎接】当地时间1日上午10时15分许，习近平抵达非洲“花树之都”哈拉雷，开始对津巴布韦进行国事访问。穆加贝总统和夫人、两位副总统到机场迎接习主席夫妇。当地少年儿童献上花环花束，热情民众载歌载舞，欢迎远方贵客。(央视记者王宇波)",
+        "user id": 2656274875,
+        "tweet id": "3915329963001824",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "老穆媳婦年輕漂亮。",
+            "user id": 2081902865,
+            "user name": "李泓波",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#国际热点关注#【习总出访】",
+            "user id": 1781718090,
+            "user name": "-过客2011",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "你看到几个保镖？",
+            "user id": 1749006992,
+            "user name": "袁军伟yuanjunwei",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "據說老穆己91歲(1924年)，看看人家的身子骨。",
+            "user id": 2081902865,
+            "user name": "李泓波",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[心]",
+            "user id": 5119286993,
+            "user name": "中航生意贷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "出访展现中国形象",
+            "user id": 2094826445,
+            "user name": "运城视听网",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@王昌明v @雁在天边 @veggieg @小陶虹 @yc浮云 ",
+            "user id": 2118720870,
+            "user name": "袁雪梅2011",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "DETAILS: #Germanwings Airbus #A320 crashes near small town of #Barcelonnette in Alpes-de-Haute-Provence #4U9525 http://t.co/zU6hn03xzU",
+        "user id": 64643056,
+        "tweet id": "580328708675887104",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @RT_com  At least they can't blame this one on Russia.",
+            "user id": 2235299638,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

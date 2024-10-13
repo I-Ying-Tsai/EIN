@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Cartoonists fight back. This may be the best yet. #JeSuisCharlie  http://t.co/hfoxT6dh1T",
+        "user id": 30138572,
+        "tweet id": "553207514222063618",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Graydio1 How to defeat an idea? Challenge the idea. I learned that last night #JeSuisCharlie",
+            "user id": 2931653816,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Awesome. \n@Graydio1 @nancyforn",
+            "user id": 285243757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Graydio1 Charlie Hebdo shooting: Who are the suspects? #JeSuisCharlie http://t.co/rHqCJl5hp6",
+            "user id": 2249449765,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Graydio1 Utterly Brilliant! 👏👏👏👏",
+            "user id": 1631065567,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Graydio1 Stop Lying This Attack Was Nothing To Do With Free Speech  https://t.co/odHoHQB11a",
+            "user id": 190280139,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

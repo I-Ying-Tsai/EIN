@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Why do these catastrophes happen?Awful news about the #germanwings plane that has crashed. Thoughts are with those affected. Very sad indeed",
+        "user id": 256754533,
+        "tweet id": "580337178506584064",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CharlieKing85 seems to be a very unlucky couple of years for planes. these poor families 😔",
+            "user id": 63498269,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CharlieKing85 its so sad , going to affect a lot of people",
+            "user id": 1485520778,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

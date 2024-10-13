@@ -1,0 +1,111 @@
+{
+    "source": {
+        "content": "BREAKING: Name of co-pilot of crashed #Germanwings flight was Andreas Lubitz",
+        "user id": 2566535282,
+        "tweet id": "581061272856326145",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@rConflictNews scroll down --&gt; http://t.co/E5wphZ6VRm",
+            "user id": 1475403872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@rConflictNews it is really not necessary to publish his name",
+            "user id": 450202935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@rConflictNews what nationality ?",
+            "user id": 2829195081,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@rConflictNews @TeachESL they have all his info &amp;background as an employee..they refuse to divulge more. Deliberate act suicide/murder.",
+            "user id": 2858679020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@delaynelee hubby thinks it was a malfunction &amp; blaming it on the co-pilot so as not to damage Airbus future sales.",
+            "user id": 17679507,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@TeachESL guess we'll find out if the tapes are leaked to the public. I imagine ppl who lost loved 1s are going to investigate on their own",
+            "user id": 2858679020,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@delaynelee It's the airline that has all the info; they'll have to get lawyers to get access. Don't know how that works.",
+            "user id": 17679507,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

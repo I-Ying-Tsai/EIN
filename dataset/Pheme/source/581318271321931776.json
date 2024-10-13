@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Airlines begin requiring 2 crew members in cockpit at all times after #Germanwings crash: http://t.co/buO4yfkjx2",
+        "user id": 86141342,
+        "tweet id": "581318271321931776",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WNTonight They might wanna consider wearing  #Depends like former Astronaut, #LisaNowak, to cutdown on #BathroomBREAKS too!",
+            "user id": 218284934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WNTonight I thought this was already proper protocol...",
+            "user id": 2896040005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WNTonight That's reasonable! Pilot can always pee in a bottle or cup and it would not be necessary to leave the cockpit.",
+            "user id": 3041819821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

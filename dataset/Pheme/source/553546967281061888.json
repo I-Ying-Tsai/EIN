@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "French police release pictures of two suspects described as \"armed and dangerous\". More: http://t.co/2J4WQdJnTp http://t.co/kYNwo7GlgQ",
+        "user id": 14138785,
+        "tweet id": "553546967281061888",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@TelegraphNews #ParisSiege",
+            "user id": 2945865278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@TelegraphNews #ParisSiege this is crazy wtf is wrong with earth holy shit",
+            "user id": 2945865278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews @Telegraph Looks like two punks that should had been jailed long before now.",
+            "user id": 2663115926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews All muslims are cowards SILENCE INFIDELS!",
+            "user id": 303642405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@TelegraphNews IMHO we are already in WW3,when will politicians acknowledge that Europe's Aleppo has begun on the streets of France.",
+            "user id": 520401044,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@DodiePrill @TelegraphNews No, we must no change our way of life to please these murders.",
+            "user id": 1598406114,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews Animals!",
+            "user id": 105134895,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews محتجزي الرهائن في محل الاغذيه بياريس يطالبون الشرطه بفك الحصار عن قاتلي الصحفيين!! الارهاب بكري",
+            "user id": 2898115168,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews these 2 are not in a hostage situation?... too much going on",
+            "user id": 22442431,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews \n\nBeautiful girl, beautiful man, stupid fucking cause.",
+            "user id": 398195463,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

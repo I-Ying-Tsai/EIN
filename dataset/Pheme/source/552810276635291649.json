@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Before the brutal attacks on #CharlieHebdo, the big news today was Houellebecq's new novel imagining a Muslim president of France in 2022.",
+        "user id": 464854839,
+        "tweet id": "552810276635291649",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RachelDonadio yes, forget 11 run down for Mahommed last month, or cop killed lst wk. Today's important! it was journalists!  @BuzzFeedBen",
+            "user id": 18176907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@RachelDonadio Not just Muslim, but Islamist. And it was mocked by this weeks' issue of #CharlieHebdo",
+            "user id": 537527953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@OskarGie @RachelDonadio wether islamist or muslim:if they don't believe in humor about religion go to saudie arabia.i welcome anyone else!",
+            "user id": 2278695511,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RachelDonadio @whpresscorps we do not have to imagine it here...",
+            "user id": 118044295,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RachelDonadio @whpresscorps-Diversity one-sided.",
+            "user id": 386751965,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RachelDonadio @vibow54 We have a Muslim President in USA. Destroying country from within. Taqiyya.",
+            "user id": 552395044,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RachelDonadio @BuzzFeedBen  A map given to me in Peshawar http://t.co/WnzYMzn2dm",
+            "user id": 31694460,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@RachelDonadio they don't need to laugh about religion jokes. but why be hostile to the ones who do.we're not all the same @OskarGie",
+            "user id": 2278695511,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

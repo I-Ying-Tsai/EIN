@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Patrol cars still flood the streets in #ferguson more than 6 hours after police officer shot teenager @ksdknews http://t.co/fCCGAfIRbG",
+        "user id": 27801824,
+        "tweet id": "498255721260400640",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethKSDK thank you",
+            "user id": 56867393,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethKSDK @ksdknews At least THOSE police know there will be a consequence 4 killing someone. Many places, seem 2 face no consequence..",
+            "user id": 17217995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethKSDK @Floodette07 @ksdknews what are they looking for more kids to shoot?",
+            "user id": 458826615,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

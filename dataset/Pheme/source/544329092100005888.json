@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Praying for #Sydney. These crazies have no idea what Islam is, yet have the hubris to “act in the name of” it. Despicable.",
+        "user id": 17387561,
+        "tweet id": "544329092100005888",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AbdelRahmanM that's y we need proper muslims doing/teaching proper jihad so these uneducated youth don't act off anger &amp; do wrong",
+            "user id": 1260682932,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@AbdelRahmanM cause even me years ago seeing muslims hurt all over the news had me very angry &amp; i could easily have fallen into these things",
+            "user id": 1260682932,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AbdelRahmanM @AtefehNaeemi Hey its a jolly practice run  I feel but yeah to keep people against the Moslem community yet again so sad ZIO",
+            "user id": 388896551,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AbdelRahmanM @AtefehNaeemi Its my feeling its a two fold situation keep negative feelings for Moslems and practice run for Cops think about",
+            "user id": 388896551,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AbdelRahmanM \n\nAre there any muslims that DON'T agree with the slogan on the flag?\n\nNo?\n\nDidn't think so.\n\nThis IS Islam.",
+            "user id": 2885208507,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AbdelRahmanM @RukiaWadaat 1994 - How to Create an \"Islamic Enemy\" - http://t.co/mzxzVWDkH1",
+            "user id": 503203687,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AbdelRahmanM Praying for the disbelievers taken hostage by a Muslim? But Allah hates disbelievers, he wants to burn their skins off.",
+            "user id": 2841798801,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

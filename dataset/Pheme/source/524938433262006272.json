@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "#Ottawa: MP Gerry Byrne inside building on lockdown. Says this is tactical team. Live coverage http://t.co/HrGKEeJZL4 http://t.co/b7WVOT640l",
+        "user id": 69329527,
+        "tweet id": "524938433262006272",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsUS @BBCWorld should he be giving out tactical information to would-be attackers?",
+            "user id": 53826692,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@BBCNewsUS @bbcworldservice omg... What's going on with the world today!! Xx",
+            "user id": 22618913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Gabriellelala @BBCNewsUS @bbcworldservice Obama Planners, my opinion.Seeking to take over US, world thru ISIS! http://t.co/hQk26P5072",
+            "user id": 2282662302,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsUS @BBCWorld #Islamic_State\nMessage from Mujahid\nhttp://t.co/dSOluMUy6d",
+            "user id": 2796029406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsUS @BBCWorld A video seized from the Ukrainian troops is showing Nazi battalion Donbass executing Donbass.. http://t.co/HfS3Fubj0k",
+            "user id": 2607703608,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsUS @BBCWorld Police are asking NOT to tweet pics of their locations!! Don't be an @$$#@T take pic down.",
+            "user id": 2822901832,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsUS Prime Minister Harper is safe. #maybenexttime",
+            "user id": 575851852,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

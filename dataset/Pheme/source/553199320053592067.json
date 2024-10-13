@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Ukrainian journalists in front of embassy of #France today, via @HromadskeTV #JeSuisCharlie #CharlieHebdo http://t.co/UDymk4KC0K",
+        "user id": 1725292759,
+        "tweet id": "553199320053592067",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Kateryna_Kruk @HromadskeTV Дайте мені точку опори, і я переверну світ.",
+            "user id": 2483091416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Kateryna_Kruk @chastime @HromadskeTV А как же Одесса и Донбас? Они не украинцы?",
+            "user id": 2790465506,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Kateryna_Kruk @ukrpravda_news @HromadskeTV and some MP as well",
+            "user id": 19366393,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Kateryna_Kruk @ukrpravda_news @HromadskeTV пидрилы дешевые",
+            "user id": 2292857964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Kateryna_Kruk @ukrpravda_news @HromadskeTV когда убили российских журналистов на Донбассе вы также выражали им свою солидарность?",
+            "user id": 265539601,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Kateryna_Kruk @ukrpravda_news @HromadskeTV на Украине нет журналистов. Здесь школьники могут писать на заказ и они уже журналисты, да?",
+            "user id": 1362340202,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

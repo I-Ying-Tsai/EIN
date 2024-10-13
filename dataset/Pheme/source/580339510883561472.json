@@ -1,0 +1,195 @@
+{
+    "source": {
+        "content": "Single-aisle Airbus A320s are the workhorses of the global fleet &amp; proliferate across European skies #4U9525 http://t.co/pe6OCMiy0q",
+        "user id": 14892330,
+        "tweet id": "580339510883561472",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower Same in Asia and SE Asia...",
+            "user id": 30788083,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower @callejo3 mira este tweet",
+            "user id": 202689872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower @flightradar24 European skies would certainly look very different with the A320!",
+            "user id": 20837425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@jonostrower @flightradar24 und trotzdem googlet jeder jetzt den Flugzeugtyp des eigenen nächsten Flugs...",
+            "user id": 95988799,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "Meiner ist ein A-319",
+            "user id": 95988799,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower @flightradar24 Europe is Greece too.  Even Cyprus.",
+            "user id": 1110652069,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower @bettinagalo buen dia sra galo como has estado veo que siempre activa el avion A320 ya tenia sus 20 años abrazos saludos",
+            "user id": 362080302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@jonostrower @UmarMSheikh do we know the cuaseof the crash #4U9525",
+            "user id": 20664583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                14
+            ],
+            "content": "@Tmckinnin @jonostrower no",
+            "user id": 465092094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower @flightradar24 ok. But almost 23yo A320 ? Shouldn't appear on FR24 so much !!!",
+            "user id": 119859149,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower What about the theory of Hypoxia",
+            "user id": 396890769,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower @flightradar24 A320's and 737's flying nearly all short- to medium-Range routes on globe",
+            "user id": 3026690904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@jonostrower Hallo I hope you visit Luxor its amazing city in Egypt pleas check this site http://t.co/eoZN4vAot9  greeting Mostafa.",
+            "user id": 2953068574,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "Para los que piensan que el A320 es inseguro: A320 en vuelo “@jonostrower: Single-aisle Airbus A320s #4U9525 http://t.co/VVF7iCLVSl”",
+            "user id": 146421638,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 8,
+            "children": [],
+            "content": "@UmarMSheikh ashame what happend to #4U9525 terrible tragic news",
+            "user id": 20664583,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

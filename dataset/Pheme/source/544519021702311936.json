@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "#SydneySiege\n- 5 people injured\n- Reports of at least 2 dead\n- Bomb disposal unit inside cafe\n- Police confirm siege is over.",
+        "user id": 491960101,
+        "tweet id": "544519021702311936",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork finally!",
+            "user id": 1384940730,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AusNewsNetwork: #SydneySiege\n5 people injured\nReports of at least 2 dead\n- Bomb disposal unit inside cafe\n- Police confirm siege is over",
+            "user id": 29059784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork wait, who confirmed the deaths? If you're quoting Seven, they're report isn't confirmed. #sydneysiege",
+            "user id": 1342067257,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork#SydneySiege - 5 people injured - Reports of  2 dead - Bomb disposal unit inside cafe - Police confirm siege is over.\" :/",
+            "user id": 2248074170,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork @Micaela_Heather",
+            "user id": 142976521,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork @KennyTomlinson",
+            "user id": 379464110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork heinous Islamic Terrorists Crimes against modern society .. Killer was a cleric even worse. !! RIP to the dead hostage !",
+            "user id": 1729770470,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        }
+    }
+}

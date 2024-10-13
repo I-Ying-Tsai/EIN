@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "Germanwings flight 4U9525 crashes in French Alps: weather calm at time of crash, debris found - live updates http://t.co/kRtcwgrW86 #4U9525",
+        "user id": 87818409,
+        "tweet id": "580338189904285697",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@guardian If we were meant to fly, evolution would have gave us wings. \n#germanwings",
+            "user id": 2882214527,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "\"@BipolarPope: If we were meant to fly, evolution would have gave us wings. \n#germanwings\" And if meant to tweet it would give us Twitter??",
+            "user id": 45326924,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Airbus A320 with attractive tailfin design crashes in Alps: @guardian live updates http://t.co/XpOISjXJJk #4U9525",
+            "user id": 45326924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian \n#4U9525 A320  Germanwings\ntopography of the Crash trough the ski slope of la Foux d'Allos / 3 Evéchés http://t.co/B67G88OHa1",
+            "user id": 542705314,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@roddie_digital good point. I must ponder this now.",
+            "user id": 2882214527,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

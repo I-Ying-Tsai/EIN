@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "Cartoonists Georges Wolinski and Cabu are among victims of attack on #CharlieHebdo in Paris http://t.co/EJ0gGFsRZ1 http://t.co/42xHoEocru",
+        "user id": 18424289,
+        "tweet id": "552840037642297345",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews the best response of the west to attacks on journalists is press freedom &amp; better reporting of #Dirtywars #dronewars #blackops",
+            "user id": 16071327,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews just featured you on my @RebelMouse http://t.co/usFWsXLy1e",
+            "user id": 2589988879,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews http://t.co/kYyX2kbP6z",
+            "user id": 797743976,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @AJEnglish \"If Europe's Freedom of Speech has no boundaries, then open your hearts to our Freedom of Action.",
+            "user id": 103350059,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @AJEnglish some how I feel like it's not Muslims who killed them:/ if Muslims wanted to kill him that would be along time ago !",
+            "user id": 2491948466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @AJEnglish someone is trying really hard to throw this on Muslims. Why now!?",
+            "user id": 2491948466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @AJEnglish Attack? Try cold blooded murder by peace loving #muslims in the name of #islam over a cartoon of #allah",
+            "user id": 1319453274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @marcylauren Vive la France !",
+            "user id": 2294804946,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews #CharlieHebdo #JeSuisCharlie",
+            "user id": 1198971475,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@AJENews @AJEnglish We stand united with France, Islamic monsters will fry in hell.  Islam brings nothing but evil, and death, ban it",
+            "user id": 1050521179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@SarniamakChris there are close to 2 Billion Muslims, thats 1/4 of the world population,  and if they were terrorists u will be dead by now",
+            "user id": 613345582,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @AJEnglish  these misguided brainless acts only  cause harm Nonmuslims die and the average Muslims have to deal with the aftermath",
+            "user id": 269460044,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews Ironical how the bigots at the helm of #CharlieHebdo are now martyrs. Or, is it #PoeticJustice?",
+            "user id": 28107803,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@ThaSonOfSomalia @SarniamakChris \n\nSupport #Justce and #RuleOfLaw. http://t.co/kfiK21pIRe",
+            "user id": 246801406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

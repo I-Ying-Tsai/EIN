@@ -1,0 +1,129 @@
+{
+    "source": {
+        "content": "4 cartoonists in Paris had more convictions than the whole of Indian mainstream media put together. #CharlieHebdo",
+        "user id": 429864309,
+        "tweet id": "552850079074099201",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@IndiaSpeaksPR http://t.co/ZSISV85hf3",
+            "user id": 2848657556,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@IndiaSpeaksPR  EXactly and please include those sickular politicians with those media actors",
+            "user id": 47397689,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Quite a few on this list of shame are from the Indian media.\nSurprised? If yes, then you are an idiot\nhttp://t.co/7wJONhA156",
+            "user id": 429864309,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@IndiaSpeaksPR @vijay750 wonder anyone from bollywood condemn #CharlieHebdo ! Freedom of expression and all that .....I'm an #idiot !",
+            "user id": 379872065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@IndiaSpeaksPR By Comparing the 4 immortals to these dead souls is an insult. @RpG_89",
+            "user id": 132814447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@IndiaSpeaksPR @_mdayal Convictions = Balls",
+            "user id": 32758143,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@IndiaSpeaksPR @guptarohit93 Indian Media are convinced the freebies thrown at them by Congi Govt are denied them now. So they sulk &amp; gripe.",
+            "user id": 68192805,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@shankarchanda6 @kailashkaushik8 @IndiaSpeaksPR @guptarohit93 Yes, can't travel free on PM's plane, no free drinks.",
+            "user id": 2515370004,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@chandri1940 @kailashkaushik8 @IndiaSpeaksPR @guptarohit93 Free food, flight, cars, passes, parties etc N Radia favours to journos by Congis",
+            "user id": 68192805,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

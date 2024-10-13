@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "CLARIFICATION | The shooting was near the Rideau Centre, police say. Not inside it. #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524952995034042368",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CBCOttawa @BeccaBabe_",
+            "user id": 847128294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@CameronRooney1 @CBCOttawa was anyone hurt?",
+            "user id": 2370804955,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews Naive Canadians are what is really scary.",
+            "user id": 2606735004,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@CBCOttawa: CLARIFICATION | The shooting was near the Rideau Centre, police say. Not inside it. #cbcOTT #OTTnews”. THEY SENT US OUTSIDE",
+            "user id": 25910445,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@kristabaumgart I hope you're not still near there!!!!!",
+            "user id": 40122069,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @curryb  https://t.co/DrmhQ5Nf6i",
+            "user id": 859316666,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews tell your radio reporters to correct their report because they're reporting the shooting was inside",
+            "user id": 14267221,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "[correction] RT @CBCOttawa: CLARIFICATION | The shooting was near the Rideau Centre, police say. Not inside it. #cbcOTT #OTTnews",
+            "user id": 14360516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa can u please take the film of our soldier being given first aid off the air.  Ur disgusting. The family may not even been told",
+            "user id": 384036772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: CLARIFICATION | The shooting was near the Rideau Centre, police say. Not inside it. #cbcOTT #OTTnews”",
+            "user id": 351784223,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @mouthnoize there is crime in canada?",
+            "user id": 196227338,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@saraAxxoo I'm on the Ottawa u campus in lockdown!",
+            "user id": 25910445,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

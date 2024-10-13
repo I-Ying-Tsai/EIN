@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Paris-based journalist says the attack on Charlie Hebdo's HQ involved men armed with \"rocket propelled grenades\" http://t.co/1PJH17mcLz",
+        "user id": 7587032,
+        "tweet id": "552790878805168129",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Moderate Muslims need to protest and not allow the radical elements to create chaos and mayhem",
+            "user id": 218104926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews as much try to keep our liberty free speech,if your going to get shot for it,your not going speak freely or feel at liberty sadly.",
+            "user id": 315326703,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews they are changing our society scared to say a word incase they say ur racist,they cut a soldiers head off we get told not to judge.",
+            "user id": 315326703,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews keep having islamic attacks and media are scared to report it as such,say they were loners mental probs,nev org pre meditated plan",
+            "user id": 315326703,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "組織的なのか。。 RT @SkyNews: Paris-based journalist says the attack on Charlie Hebdo's HQ involved men armed with \"rocket propelled grenades\"",
+            "user id": 101499891,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

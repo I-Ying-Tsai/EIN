@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Tragedy mounts as soldier shot this AM dies of his wounds in an Ottawa Hospital. Deep sympathy to his family and friends. #shooting #ottawa",
+        "user id": 16220555,
+        "tweet id": "524983403775799297",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay remember my advice to have the Force go with you @rcmpgrcpolice : No more wandering the sticks and boonies without protection.",
+            "user id": 2398593854,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay \nCheck the #boots. \nThis could be #Montebello all over again.",
+            "user id": 431504592,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay this is surreal",
+            "user id": 2362657602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

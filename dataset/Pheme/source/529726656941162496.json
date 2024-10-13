@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Prince not performing tonight, Live Nation says\nSTORY: http://t.co/R3LrDeLIka #PrinceTO #Toronto",
+        "user id": 12993222,
+        "tweet id": "529726656941162496",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CityNews @mubasherlucman's twitter account has become the MOST FOLLOWED twitter account of any PAKISTANI JOURNALIST in the history.",
+            "user id": 2540432978,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CityNews I'm so upset. I love Prince!",
+            "user id": 1626623202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

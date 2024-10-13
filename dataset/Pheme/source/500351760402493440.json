@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "You'd think it would've been more newsworthy when Missouri got rid of due process and made shoplifting a capital crime #Ferguson #MikeBrown",
+        "user id": 858924511,
+        "tweet id": "500351760402493440",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@YesYoureRacist \"strong arm robbery\" cut he touched dude. El. Oh. El. America",
+            "user id": 114260411,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "content": "That happened, right? Bc that's the only thing that explains all these ppl falling over themselves to justify #MikeBrown's death. Unless...",
+            "user id": 858924511,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@YesYoureRacist it couldn't possibly be..",
+            "user id": 62283599,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@YesYoureRacist No judge, no jury. Shot like 10 times. Because he “matched description.” Totally not racist.",
+            "user id": 2191079702,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@YesYoureRacist Why does not CNN live broadcast. the whole world should see this brutality\n#FergusononfireUSA",
+            "user id": 1386607296,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@YesYoureRacist Not to mention the clothes on the guy in the store...not the same as the man that was shot...Ugh welcome to 'merica.",
+            "user id": 30458278,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@YesYoureRacist don't forget he shoved someone.  I'm sure that justifies it...",
+            "user id": 778321764,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@YesYoureRacist Sign and Share! Time to End Police Militarization Now! https://t.co/JUFy46rOeA",
+            "user id": 601342849,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@YesYoureRacist the Ferguson police department conducting the investigation on the Ferguson police. #Coverup #Ferguson  #icallbullshit",
+            "user id": 2672591285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [],
+            "content": "@jemimamon @YesYoureRacist Only in America is \"Black Male\" an acceptable description of a suspect for police. It's disgusting and shameful.",
+            "user id": 9858142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "I just found this and never have I ever seen such a thing. Sending all my love and support to Sydney.\n#illridewithyou http://t.co/8zOBdjUYLs",
+        "user id": 2319496214,
+        "tweet id": "544444189078208512",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheMissyKaty I'm new on twitter. How do I support #illridewithyou ?",
+            "user id": 1496277661,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheMissyKaty favorite thing ever",
+            "user id": 2468533250,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@TheMissyKaty Thanks for sharing my FB status. Its been a tough day but t makes it easier when so many people get around eachother.",
+            "user id": 304323235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@jase_maggs this is something that deserves to be seen. Keep it up, man. Sending all my love and support :)",
+            "user id": 2319496214,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

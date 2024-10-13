@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Police chopper hovers over a deserted Opera House concourse.   #sydneysiege http://t.co/7NdqPYhwcY @cberkman http://t.co/BiZO12n1St",
+        "user id": 2768501,
+        "tweet id": "544295871592951808",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @cberkman Plenty of people still at Opera Bar, I understand.",
+            "user id": 275942257,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@abcnews @cberkman that photo is 40 minutes old, why tweeting it now?",
+            "user id": 32358289,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@troutish @abcnews @cberkman probably a good idea not to tweet anything of police actions, resources, timelines.",
+            "user id": 1323276181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @cberkman",
+            "user id": 480445875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @KNX1070 @cberkman Yo @robertbrand what's up?",
+            "user id": 232367421,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "According to @abcnews (the real one not the infotainment factory @ABC) a bunch of crazy Black-Flag Muslims are holding hostages in  Sydney.",
+            "user id": 232367421,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @cberkman Pretty sure you've been asked NOT to post pictures of police operations",
+            "user id": 330341835,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @cberkman",
+            "user id": 752643217,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @cberkman it's a racist colonial outpost that treats its own aboriginals &amp; asylum seekers like second class citizens #dump",
+            "user id": 893485608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @abcnewsPerth @cberkman all this because of islam people.why'do u have to wreck our continent just ur country is not perfect.",
+            "user id": 2921307308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

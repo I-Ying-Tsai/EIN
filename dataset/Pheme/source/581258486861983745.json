@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "#Germanwings black box data released in 48 hrs but #MH17 data not released after 8 months Why?\nhttp://t.co/ZaNa7mXvng http://t.co/U94WB4f8Uu",
+        "user id": 403647191,
+        "tweet id": "581258486861983745",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "content": "@Ian56789 &lt;- obvious Putin troll &amp; liar as #MH17 data released 6 months ago - http://t.co/4CIcHAV2Jo http://t.co/MQuBc1Iavh",
+            "user id": 1670939658,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Ian56789 &lt;- Despicable Putin trolls capitalizing on #Germanwings tragedy to promote lies about #MH17. Disrespectful of victims of both.",
+            "user id": 1670939658,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@ASpinOfTheWheel @Ian56789 #Dutch released nothing, signed NDA with the #zionazi junta in kiev to suppress unfavourable evidence bullshitter",
+            "user id": 1476204271,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "@ASpinOfTheWheel @Ian56789 and you are nazi Poroshenko troll",
+            "user id": 267906861,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@ASpinOfTheWheel  does structural damage caused by high-energy objects that penetrated aircraft from outside proves any Putin's involvement?",
+            "user id": 212944599,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Ian56789 If, by hiding truth on #germanwings, #Germany doesn't protect its label \"Top Quality\", Germany will be  poor as #Zimbabwe in 2 yz",
+            "user id": 33408119,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Ian56789 Shouldn't comment actually cause I can't read your article without glasses. Later and btw thanks 😳 #NederlandMH17geheim",
+            "user id": 33408119,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Ian56789 GUN CONTROL? IF a Pilot of a plane kills 150, should the Governments ban Planes like they ban Guns? Just thinking....",
+            "user id": 2938592060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@Ian56789 @mkj1951 have they recovered the FDR memory card yet? #Germanwings",
+            "user id": 19356796,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@missingsnowman @Ian56789 I don't know, sorry",
+            "user id": 217044098,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ian56789 Germanwings A320's crash? http://t.co/yTA3Ed3qyh",
+            "user id": 88238377,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@lawandsea http://t.co/nAut6aVxct",
+            "user id": 1670939658,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "source": {
+        "content": "Police have blocked us from getting to the protestors. Full riot gear. #Ferguson http://t.co/U6EhL6y19X",
+        "user id": 1716581,
+        "tweet id": "499691224169590784",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames Damnit Elon, be safe!",
+            "user id": 14630261,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@elonjames are you guys walking?",
+            "user id": 21274637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                11
+            ],
+            "content": "@GeekNStereo we have a car but we parked to get closer. Can't get pass the cops...",
+            "user id": 1716581,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "What happened to freedom of the press? RT @elonjames: Police have blocked us from getting to the protestors.#Ferguson http://t.co/MdLpkAQWzg",
+            "user id": 19948174,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@elonjames if you'd like to get dinner at your break let me know #hometown #welcometoSTL",
+            "user id": 9416112,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Raquita @elonjames Let me know if they come by I'll bring dessert. You know I stockpile, lol",
+            "user id": 271260356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "“@Raquita: @elonjames if you'd like to get dinner at your break let me know #hometown #welcometoSTL” (I'm gonna tag his wife @EmEps jik)",
+            "user id": 271260356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames please stay safe. I have no trust in our hyper militarized police force.",
+            "user id": 44802230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames be careful.",
+            "user id": 1309386828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames @markos want would provoke policemen to shoot unarmed citizens? #Ferguson",
+            "user id": 317745935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames @AngryBlackLady How the fk can they do this? Did @GovJayNixon declare Martial Law? Has to be illegal. @aclu_mo",
+            "user id": 13444192,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "Hey @cjayconrod they're trying to get in RT @elonjames: @GeekNStereo we have a car but we parked to get closer. Can't get pass the cops...",
+            "user id": 21274637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@GeekNStereo @elonjames They're forcing the crowd to either head to Canfield Green or walk down W. Florissant.",
+            "user id": 22656297,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

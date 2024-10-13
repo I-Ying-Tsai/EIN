@@ -1,0 +1,191 @@
+{
+    "source": {
+        "content": "I support #CharlieHebdo and a free press. Please RT these cartoons to show a united and dignified defiance. http://t.co/Mc2aOwSHYA",
+        "user id": 568143078,
+        "tweet id": "552804784819154944",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@MartinDaubney isn't it shocking, SHOCKING? And Hollande has reacted w all the enthusiasm of like a limp wet rag.",
+            "user id": 259182329,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@SamanthaBrick How these guys can just drive out of Paris will shame France if they are not apprehended, pronto",
+            "user id": 568143078,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@SamanthaBrick Today's  #PARIS \nP-Prevent\nA-Any\nR-Rise of\nI -Islamic\nS- Sanctimony #CharlieHebdo #ParisShooting",
+            "user id": 459936806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinDaubney @SamanthaBrick \nAngry demonstrations on the strength of those cartoons maybe, but murder?",
+            "user id": 1340348983,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinDaubney Today's  #PARIS \nP-Prevent\nA-Any\nR-Rise of\nI -Islamic\nS- Sanctimony",
+            "user id": 459936806,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@MartinDaubney @duongdustin what is the English translation?",
+            "user id": 210751927,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@carolmckayau @MartinDaubney 100 lashes, if you are not dead by laughter. Love is stronger than hate.",
+            "user id": 120269800,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@MartinDaubney Fortunately they won't. the French equivalent of SAS are hardcore.",
+            "user id": 259182329,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                11
+            ],
+            "content": "@duongdustin @MartinDaubney thank you! :-)",
+            "user id": 210751927,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "@duongdustin @carolmckayau \"Love is stronger than hate\" - a fitting, if tragic, epitaph",
+            "user id": 568143078,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@SamanthaBrick @MartinDaubney  They are quite fierce-interestingly French military have recently savaged Hollande-not like UK pussy Generals",
+            "user id": 196142199,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@carolmckayau @MartinDaubney de rien",
+            "user id": 120269800,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@SherrinThePain @SamanthaBrick @MartinDaubney The British military should question Dave: https://t.co/Tl8Bi5aOnR",
+            "user id": 2782791979,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

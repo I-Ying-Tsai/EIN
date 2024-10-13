@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Between governrment attacks and terrorist attacks, it's hard to be a journalist these days. #Charlie #hebdo",
+        "user id": 225235528,
+        "tweet id": "552804592988479488",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps cuz, the truth is, there are few clowns on the left, as well as several jokers on the right",
+            "user id": 2606130408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@AnonyOps The attacks were despicable but don't try and tell me #CharlieHebdo staff are journalists",
+            "user id": 385195352,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": ".@CryingWolfe No one will try. For obvious reasons. @AnonyOps",
+            "user id": 60165404,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps You mean it's hard to communicate, to distribute information, to exercise freedom of speech... #Hebdo",
+            "user id": 60165404,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps @CommanderXanon unbiased journalists are offed by governments..",
+            "user id": 280939062,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps True",
+            "user id": 224963680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

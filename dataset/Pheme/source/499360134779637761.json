@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "Federal grants drive cop militarization: in '12 St. Louis County got Bearcat armored vehicle, other goodies http://t.co/uZymzagDmU #ferguson",
+        "user id": 16164636,
+        "tweet id": "499360134779637761",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson Glad we have the necessary resources these came in handy during Sandy in NJ!  #Ferguson",
+            "user id": 1199712426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson @YourAnonNews But they didn't manage to grab a single dash cam?",
+            "user id": 74214410,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4,
+                5
+            ],
+            "content": "@walterolson Dont you think crime has played a major role in that. Gun violence has to be near an all time high. Police being targeted",
+            "user id": 420481816,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@StopTheWooo @walterolson gun violence is at a 23 year low. Fed grants are way to shift fed dollars without congress.",
+            "user id": 273510876,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@StopTheWooo @walterolson grants also lock local pd's into a fed grant dependency. Hving to keep the grants going to fund the pd...",
+            "user id": 273510876,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@StopTheWooo @walterolson and the revenue coming back from grant spending isnt allocated to any 1 program. Free money for the govt.",
+            "user id": 273510876,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson @YourAnonNews I had to know what UASI is.  Are there terrorists in #Ferguson? Is this misappropriation? http://t.co/LJ7dzTaWsx",
+            "user id": 310065187,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson why don't the cops end this now arrest the murder give them some thing",
+            "user id": 1656207200,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson @narendramodi @PMOIndia @HMOIndia @BJPRajnathsingh @arunjaitley @rsprasad @DVSBJP @RailMinIndia @MVENKAIAHNAIDU @nitin_gadkari",
+            "user id": 982953108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson @YourAnonNews Also, the \"War on Drugs\" provides cops with almost limitless assets: https://t.co/X6xXrb8rVG",
+            "user id": 9745992,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson @YourAnonNews I bet they were just dying to use their new toys and play rambo.",
+            "user id": 43527209,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@walterolson it's probably safer for officers to approach a barricaded, armed subject in an armored car rather than a car. I could be wrong.",
+            "user id": 865806026,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

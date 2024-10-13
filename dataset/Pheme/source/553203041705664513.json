@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "The hashtag #JeSuisAhmed is a powerful one. For Ahmed, the Muslim cop killed outside #CharlieHebdo http://t.co/cE1xLniFDm",
+        "user id": 9507342,
+        "tweet id": "553203041705664513",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@meganspecia maybe something to look into?",
+            "user id": 9507342,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@moneyries definitely.",
+            "user id": 52557443,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@moneyries @leonidasmujahid Stop Lying This Attack Was Nothing To Do With Free Speech — It Was About War https://t.co/odHoHQB11a",
+            "user id": 190280139,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@moneyries I've also been thinking of it this way today.",
+            "user id": 21649184,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@moneyries @lauriellemaven Dumb thing to say.  Anybody who read them knows they ridiculized islam extremists, not islam in general.",
+            "user id": 17268383,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@moneyries: The hashtag #JeSuisAhmed is a powerful one. For Ahmed, the Muslim cop killed outside #CharlieHebdo http://t.co/VWivXd3ZhL”",
+            "user id": 267324615,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@moneyries @malaprensa i thought he was defending their lives. Crazy me.",
+            "user id": 493583449,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@moneyries terror attack on #freedomofspeech. A sad week for humanity. world global religion news http://t.co/zZcE943318",
+            "user id": 1408458926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@moneyries #JeSuisAhmed did a great service. He was a Muslim policeman.",
+            "user id": 97781259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

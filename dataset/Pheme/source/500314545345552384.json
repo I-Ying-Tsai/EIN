@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "It's a lot more quiet here at #qt as Capt. Johnson speaks. One guy just yelled \"we want answers.\" #ferguson #ksdk http://t.co/XpWHqqvzl6",
+        "user id": 73929665,
+        "tweet id": "500314545345552384",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@JohnHenryKSDK @ksdknews They all have the day off work?",
+            "user id": 18179086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@featherchick @JohnHenryKSDK @ksdknews LOL.You would think maybe the whole town out there in a small city.Yet,some could be from around U.S.",
+            "user id": 1494212108,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK @ksdknews damn they surely are running out of vacation days by now",
+            "user id": 336305413,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK @USATODAY GOOD MORNING WORLD. Sad Song of \"PALESTINE\"  Composed by Dedy Gondewa Indonesia: http://t.co/WlFlpSs6Hv v @YouTube",
+            "user id": 110129833,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK @USATODAY Everyone wants answers. Can't have police randomly shooting people. But it's not an excuse to destroy my property.",
+            "user id": 1589077634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK @USATODAY we want answers too!! http://t.co/MzXRX3Y9iF",
+            "user id": 29587258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@JohnHenryKSDK forgot you moved for a second and thought, \"wow, WBIR sent him up there to cover the story\".",
+            "user id": 134899190,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@NibbleMeThis haha, yeah, I'm back in Missouri",
+            "user id": 73929665,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK @USATODAY I got a answer Jesus",
+            "user id": 1173642396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK @USATODAY how about the kid was a thief and was running from the cops",
+            "user id": 23237055,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK If you tie the hands of the police, we all might as well run for cover.",
+            "user id": 412415245,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@JohnHenryKSDK Ferguson police has to be held accountable for their actions.you can't shoot a person for walking while black.",
+            "user id": 2400964796,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

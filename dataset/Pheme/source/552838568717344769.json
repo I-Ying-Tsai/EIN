@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "#CharlieHebdo: Now is the time to uphold freedoms, not give in to fear - @SimonJenkins4 http://t.co/qlYAT1a4bq http://t.co/JBDj5RX0aT",
+        "user id": 14275129,
+        "tweet id": "552838568717344769",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree @simonjenkins4 Indian TV @timesnow @ndtv report cartoonists died due to dehydration from drawing cartoons not terror attacks",
+            "user id": 1910930526,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@commentisfree @simonjenkins4 by reprinting the \"offending\" articles?",
+            "user id": 41067395,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@spoonlamp @commentisfree @simonjenkins4 nononon can't do that!!!",
+            "user id": 2292797061,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree @simonjenkins4 Mal wieder ein kleines Einzelfällchen...ts ts..https://t.co/DpJftBupA3 #charlieHebdo",
+            "user id": 326801831,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree @simonjenkins4 Courage, le Monde entier.",
+            "user id": 933379238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "RT@commentisfree: #CharlieHebdo: Now is the time to uphold freedoms, not give in to fear - @SimonJenkins4 http://t.co/042qk0ciRa",
+            "user id": 401348748,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree @simonjenkins4 An absolutely brilliant statement. This disgusting attack must not have the effect 9/11 had on the world.",
+            "user id": 1155296046,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree @annejanbrouwer @simonjenkins4 Fear? Why should we fear? We dont know anything yet??",
+            "user id": 830622012,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree @CHSommers @simonjenkins4 I read \"upload\" freedoms. Too much interwebs:)",
+            "user id": 282265521,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree  @simonjenkins4 \nKey point in this article, Which knee jerk reaction do these gunmen want to initiate? Remember Bush",
+            "user id": 422366976,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@commentisfree  “Islam is worse than Nazism” by ex-Muslim poet from #Turkey http://t.co/xxE6fLat8B #JeSuisCharlie #FreedomOfExpression",
+            "user id": 1344297120,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

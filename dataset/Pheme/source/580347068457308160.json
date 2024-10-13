@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#BREAKING Germanwings says 144 passengers and 6 crew on crashed plane",
+        "user id": 380648579,
+        "tweet id": "580347068457308160",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "สายการบินเยอรมันวิงส์ แถลงล่าสุดมีผู้โดยสารบนเครื่อง 144 ราย ลูกเรือ 6 ราย รวมทั้งหมด 150 ราย #4U9525 via @AFP",
+            "user id": 180747828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ":| RT @AFP: #BREAKING Germanwings says 144 passengers and 6 crew on crashed plane",
+            "user id": 31617052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

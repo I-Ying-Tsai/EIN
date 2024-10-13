@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "now 13 dead at Charlie #Hebdo; gunmen show signs of military training; fled in black car, dumped it, hijacked another; set off for suburbs",
+        "user id": 16183458,
+        "tweet id": "552805619301097472",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@jamiewrit if only people didn't hand out guns+training:https://t.co/iPBkLwhQk8 Jeffrey Epstein also in CFR+Trilateral Commission",
+            "user id": 1348798826,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@jamiewrit @EliotHiggins Looking at handling of  weapons , use of protective vests and how they moved very calmly , that seems correct.",
+            "user id": 2567292679,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@jamiewrit @SkyZeLimit the shooter (without beige tactical vest) used his weapon as a kid... not sure of your comment",
+            "user id": 2220396942,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@space_trader @SkyZeLimit look at the close grouping of fired AK47 rounds; and covering each other. That's training, kid or otherwise.",
+            "user id": 16183458,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jamiewrit @jpereztriana holding ak, relaxing position you see all the time in ckeck points even after the policeman",
+            "user id": 81972445,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@jamiewrit Military training, or watching a few caper movies?",
+            "user id": 216900031,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@berthyman US and UK vets say training of some kind",
+            "user id": 16183458,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@jamiewrit But one of them (unconfirmed) conveniently left their identity pass? #Hebdo",
+            "user id": 515662121,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jamiewrit well good thing OUR military is in place to counter them-- oh wait Obama completely retreated our military from evrywhere, nvm",
+            "user id": 76584326,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

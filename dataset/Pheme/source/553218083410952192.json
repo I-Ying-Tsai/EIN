@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "'We have stories to tell.\nNot everyone will like them. \nStand with us.'\n#TellYourStory\n#JeSuisCharlie http://t.co/jx8We9hCgS",
+        "user id": 109042732,
+        "tweet id": "553218083410952192",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MrASingh L'Amérique se tient avec la France. #franceattack #FranceStrong",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MrASingh Stop Lying This Attack Was Nothing To Do With Free Speech  https://t.co/odHoHQB11a",
+            "user id": 190280139,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@MrASingh Hi Amrit. Did you draw this or do you know who did? I am compiling a record of cartoons so that artists can be acknowledged",
+            "user id": 170613780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "content": "@fairtirade Hi, unfortunately not as someone sent me this image",
+            "user id": 109042732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@MrASingh thanks anyway. I found it. It's by @jabberworks. Massive list of attributed cartoons (170 so far) at http://t.co/CA9eY9hwuC",
+            "user id": 170613780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

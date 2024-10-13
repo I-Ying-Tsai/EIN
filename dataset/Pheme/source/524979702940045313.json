@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "I've left the Hill. Want to say I'm really impressed by way Ottawa Police and RCMP handled this miserable business.",
+        "user id": 82120358,
+        "tweet id": "524979702940045313",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@stphnmaher Stay safe",
+            "user id": 2431432212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@stphnmaher - glad you're safe.",
+            "user id": 150051773,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@stphnmaher @stephen_taylor Me too Stephen. Everybody have been doing their part well.",
+            "user id": 185947193,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@MVLibertas @stphnmaher @stephen_taylor  By the way, October 70 saw troops in streets during FLQ crisis. Enemy:Quebec terrorists #cdnpoli",
+            "user id": 30672522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@stphnmaher",
+            "user id": 587047233,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@stphnmaher Agree we have really good people protecting us.",
+            "user id": 459312720,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@stphnmaher @stephen_taylor Including letting the shooter(s) onto the Hill and into the Centre Block? #incredulous",
+            "user id": 264265349,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": ".@stphnmaher And impressed with Parliament's security officials, notably the Sgt of Arms, and others.",
+            "user id": 286723230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@stphnmaher I agree from our lock down standpoint they seemed to be very in charge. We could see alot from our office window.",
+            "user id": 1354971534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@stphnmaher go somewhere safe! :)",
+            "user id": 16210710,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "source": {
+        "content": "BREAKING @SkyBusiness : another five hostages seen escaping #sydneysiege http://t.co/vyRgI10t7F (@carsonscottLIVE)",
+        "user id": 16834659,
+        "tweet id": "544510402454110208",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": ".@SkyNewsAust @Ostrov_A @SkyBusiness @carsonscottLIVE Where is Monis that they are able to get out? Asleep?",
+            "user id": 2273282888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@LaDonnaRae1961 @SkyNewsAust @Ostrov_A @SkyBusiness @carsonscottLIVE wanking I guess ...",
+            "user id": 2663033660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@LaDonnaRae1961 @SkyNewsAust @Ostrov_A @SkyBusiness @carsonscottLIVE Surely he breaks for prayer 5 times a day?  Ideal chance to leg it.",
+            "user id": 316389691,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsAust Thank goodness!",
+            "user id": 114466080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsAust: BREAKING @SkyBusiness : another five hostages seen escaping #sydneysiege http://t.co/lvsvJl8Ljh\" @themusicpimp",
+            "user id": 2747371108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsAust: BREAKING @SkyBusiness : another five hostages seen escaping #sydneysiege http://t.co/OaFQhQgp3S (@carsonscottLIVE)”",
+            "user id": 951710294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsAust @SkyBusiness @carsonscottLIVE Praying🙏! Taking ppl captive very scary..",
+            "user id": 2844361126,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsAust: BREAKING @SkyBusiness : another five hostages seen escaping #sydneysiege http://t.co/uNDG5rGhz6 (@carsonscottLIVE)”",
+            "user id": 103972238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": ".@HMantour @SkyNewsAust @Ostrov_A @SkyBusiness @carsonscottLIVE AP is reporting a \"loud bang\". (NOT a play on words.)",
+            "user id": 2273282888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

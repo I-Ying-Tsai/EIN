@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Germanwings Airbus A320 crashes in French Alps: What we do and do not know http://t.co/3xKSCtFFwT http://t.co/ugwghZVbHr",
+        "user id": 16973333,
+        "tweet id": "580325243631321088",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: Germanwings Airbus A320 crashes in French Alps: What we do and do not know http://t.co/xvHPn5Pr6C http://t.co/wIFUH340Yp” 😥",
+            "user id": 60766201,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: Germanwings Airbus A320 crashes in French Alps: What we do and do not know http://t.co/bkEtPeRF8d http://t.co/xuU9wFsDB9” :(",
+            "user id": 33478717,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent So you know noting",
+            "user id": 42438301,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

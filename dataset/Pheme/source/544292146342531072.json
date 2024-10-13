@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Reports the #SydneySiege gunman wants to speak to Tony Abbott. http://t.co/HNY7NGZa9F http://t.co/wvVGxDFIYh",
+        "user id": 9609632,
+        "tweet id": "544292146342531072",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@australian It's not that meteorology is not being spent. Ladies and gentlemen, it's now my happy berry to more fully introduce Paul Kelly.",
+            "user id": 1391675646,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@australian BLUR THEIR FACES YOU DERPS.",
+            "user id": 17017548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@australian that gunman would speak to any idiot if thats the case",
+            "user id": 2341512036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@australian our PM does not negotiate w terrorists.cockraches which must be crushed unceremoniously",
+            "user id": 1329199266,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@australian send Tony in with a m16 and few grenades will raise his popularity to stratospheric heights",
+            "user id": 2206466353,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@australian: Reports the #SydneySiege gunman wants to speak to Tony Abbott. http://t.co/MnCicxGBgl http://t.co/R5bTneau22”#fightterror",
+            "user id": 41486349,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "“@australian: Reports the #SydneySiege gunman wants to speak to Tony Abbott. http://t.co/CCUb8zP4yn http://t.co/q8H0R3yD8K”",
+            "user id": 104299137,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@DavidMDrucker @ellisonbarber @australian  way to go Australia ! You took everyone's guns from them ! You missed one",
+            "user id": 1077891882,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "8款超快手凉菜，美味又开胃~[花心]",
+        "user id": 3613440743,
+        "tweet id": "3912098189003145",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2306578195,
+            "user name": "Oo天帅oO",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "转发微博",
+            "user id": 5768534008,
+            "user name": "天山飞雪5768534008",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "凉拌菜",
+            "user id": 3823705584,
+            "user name": "木子娜An",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "好吃的流口水。[馋嘴][馋嘴]",
+            "user id": 5764407836,
+            "user name": "M小鹿520M",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "，",
+            "user id": 5768534008,
+            "user name": "天山飞雪5768534008",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "凉菜",
+            "user id": 5640434401,
+            "user name": "美味墨鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "试试",
+            "user id": 5626293507,
+            "user name": "诗怡书香",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "下次又有的吃了@张筱伊 ",
+            "user id": 5061370914,
+            "user name": "若初825",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "下次试试",
+            "user id": 3763683495,
+            "user name": "张筱伊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

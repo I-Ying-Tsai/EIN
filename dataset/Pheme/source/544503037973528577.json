@@ -1,0 +1,160 @@
+{
+    "source": {
+        "content": "Reports: Gunman in #sydneysiege claims bombs are scattered citywide: http://t.co/ffSEaB7Zfc (Peter Parks, Getty) http://t.co/QyUi25IeVM",
+        "user id": 15754281,
+        "tweet id": "544503037973528577",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@USATODAY: Gunman in #sydneysiege claims bombs are scattered citywide: http://t.co/7GD1LofyuG (Peter Parks, Getty) http://t.co/JCIpE7uwCn”",
+            "user id": 18821140,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY This should not have been reported. We know it has happened but media here in Aus have been told this should not be made public",
+            "user id": 1863699235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY hope all the hostages are alive and safe.pray for all of them.  terrorism is so horrible😨  #sydneysiege",
+            "user id": 534328852,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@USATODAY @Truth007Seeker gun man or terrorist bet he a Muslim bet me",
+            "user id": 2363741781,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@tonyfawbush Cant make a bet I would lose!  Its said he sent hate mail to families of dead soldiers http://t.co/FAaMmieYvL @USATODAY",
+            "user id": 2730745842,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY just don't water board him he has rights",
+            "user id": 2339262414,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY #Sydneysiege selfies\nhttp://t.co/nfr5rLKhJM",
+            "user id": 61755415,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Better get the right COUNTRY idiots. #notaustria",
+            "user id": 17124173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY @MikkiL well maybe just the one, because it's the only way he will get punished in today's liberal society.",
+            "user id": 256456300,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY STOP reporting.",
+            "user id": 17124173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY CIA BLACK OP PRESS LYING TO WORLD AGAIN PER USUAL #FALSEFLAG WE ARE ABOUT TO HEAR THAT HUMANITY IS FREE #NESARA",
+            "user id": 17436585,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@Truth007Seeker @tonyfawbush @USATODAY  who does that?? Sending hate mail to dead soldiers???! Cannot understand  his brainwaves",
+            "user id": 705123059,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

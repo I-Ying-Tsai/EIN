@@ -1,0 +1,216 @@
+{
+    "source": {
+        "content": "Police surrounding cafe in central Sydney after reports of hostages being taken",
+        "user id": 87416722,
+        "tweet id": "544274879055675392",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak Really shit coffee apparently....",
+            "user id": 2848043788,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SkyNewsBreak was the food really that bad ????",
+            "user id": 2256809998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@HannahC19 cunt",
+            "user id": 285493238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak @CarlyJay20 just some scousers nicking hubcaps !! Don't panic",
+            "user id": 1009543891,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@SkyNewsBreak Any one read Arabic script? what's on the flag?!?",
+            "user id": 1434028597,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                13
+            ],
+            "content": "@cocteau501 @SkyNewsBreak sounds like the isis are involved",
+            "user id": 203679586,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "“@SkyNewsBreak: Police surrounding cafe in central Sydney after reports of hostages being taken” you're not in there are you @Kerry_Rad ? 😳😁",
+            "user id": 44883498,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                14
+            ],
+            "content": "@GreenieC Nope safe at work Mrs G! Not far from here though!! 😳",
+            "user id": 954530826,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsBreak: Police surrounding cafe in central Sydney after reports of hostages being taken”",
+            "user id": 407661988,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsBreak: Police surrounding cafe in central Sydney after reports of hostages being taken” rubber dingy rapids",
+            "user id": 772997556,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsBreak: Police surrounding cafe in central Sydney after reports of hostages being taken” @Hannah_Dornan 😱",
+            "user id": 62862239,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak 'Shahada' flag is the flag on display.",
+            "user id": 21612139,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "“Police surrounding cafe in central Sydney after reports of hostages being taken” rt@SkyNewsBreak",
+            "user id": 62591883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 5,
+            "children": [],
+            "content": "@Chrisrhodespoke @SkyNewsBreak Yep, guessed that but the flag looks different to the ones seen before. Helpful to get translation though",
+            "user id": 1434028597,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 7,
+            "children": [
+                15
+            ],
+            "content": "@Kerry_Rad ooooh Radders! Nothing like dramas on your last few days... Have a safe flight home &amp; I hope you &amp; the fam have a great crimbo xx",
+            "user id": 44883498,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@GreenieC thank you Mrs G and you! 🎅🎄❄️ xxx",
+            "user id": 954530826,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

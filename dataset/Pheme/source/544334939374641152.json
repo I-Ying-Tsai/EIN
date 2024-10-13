@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "Martin Place, Sydney Opera House &amp; State Library evacuated due to #sydneysiege follow our blog\nhttp://t.co/4MUc9ivwbK http://t.co/s6hCQ8QOAs",
+        "user id": 2768501,
+        "tweet id": "544334939374641152",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews oh...no....please save those hostages ....",
+            "user id": 2234329771,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews this person has a message but what to do this kind of act!",
+            "user id": 864927037,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@abcnews this is my opinion he wants to convey a msg",
+            "user id": 864927037,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@kathyrice15 @abcnews See https://t.co/MFOsuu6Hox - they using a hostage to get that message to the media and bypassing the police?",
+            "user id": 407350333,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews look at the Vultures, how about leaving the police to do their job and stop giving that moron his \"Fame\" #MoveAlongFools",
+            "user id": 25478590,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "MT @abcnews: Martin Place, Sydney Opera House &amp; State Library evacuated due to #sydneysiege \nhttp://t.co/05aFiwRE9v http://t.co/fyfKtWS7jq",
+            "user id": 194758773,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews Me, I would not be standing around in a crowd in Sydney right now. #sydneysiege",
+            "user id": 423994870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @abcnewsSydney Seriously people follow directions and evacuate the area. That include dumbass spectators. Give the authorities room",
+            "user id": 1616213659,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Thanks @abcnews for pic of Martin place. It shows how #sydneysiege is crowded with onlookers. In real war places like Syria crowds scatter..",
+            "user id": 18328908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "“@abcnews: Martin Place, Sydney Opera House &amp; State Library evacuated due to  @LJCambria \nhttp://t.co/DxeH92kVRE http://t.co/LGIgdZVYQm”",
+            "user id": 23712477,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@alixsk28 @abcnews and expect more of this now that Ozero has given the green light.",
+            "user id": 529555835,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews should all people give hand to Kurdish Peshmarga to finish of ISIS \nLong live Australia &amp; long live Kurdistan free",
+            "user id": 2177982396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@TimKofCanberra @abcnews what are they saying?",
+            "user id": 864927037,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@kathyrice15 @abcnews No idea.  Not a listener.",
+            "user id": 407350333,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

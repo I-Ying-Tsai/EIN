@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Cartoon by Australian artist @davpope - \"can't sleep, thoughts with my French cartooning colleagues\" #CharlieHebdo http://t.co/GHWJYbFOg7",
+        "user id": 330378192,
+        "tweet id": "552845255796461569",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@TheMurdochTimes @davpope Brilliant.",
+            "user id": 1068809875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@canthavepudding @davpope It is brilliant and extremely moving.",
+            "user id": 330378192,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TheMurdochTimes @davpope insightful as always  #art #empathy #powerful",
+            "user id": 341330045,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

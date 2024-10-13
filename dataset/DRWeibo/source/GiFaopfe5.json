@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "#吉林松原5.5级地震新闻#很想知道松原怎么样了、有人在松原市么尤其是宁江区 ",
+        "time": "18-5-28 02:45",
+        "user id": "5778629110",
+        "tweet id": "GiFaopfe5",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1958981311",
+            "user name": "张喵姐姐",
+            "content": "啥事没有 放心",
+            "time": "18-5-28 02:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5778629110",
+            "user name": "Lz兰朋友",
+            "content": "谢谢、谢谢",
+            "time": "18-5-28 02:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "3891607430",
+            "user name": "高坂桐乃o",
+            "content": "宁江区的.没事.震感强烈但是没有事.",
+            "time": "18-5-28 02:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "5778629110",
+            "user name": "Lz兰朋友",
+            "content": "感谢、",
+            "time": "18-5-28 02:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "5585580170",
+            "user name": "Z猫饵儿",
+            "content": "还好，我宁江区，虽然最吓人的一次但应该没什么危险，很多人都去继续睡了，别担心",
+            "time": "18-5-28 02:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "5778629110",
+            "user name": "Lz兰朋友",
+            "content": "感谢",
+            "time": "18-5-28 02:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "user id": "6026588357",
+            "user name": "李爽改名叫李卓轩拉",
+            "content": "内快很可能已经没有信号了，我朋友在宁江区一直没有回我微信，一切都好叭🙏🏻",
+            "time": "18-5-28 02:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "5778629110",
+            "user name": "Lz兰朋友",
+            "content": "好的、好的",
+            "time": "18-5-28 03:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "user id": "6026588357",
+            "user name": "李爽改名叫李卓轩拉",
+            "content": "真心希望一切都好🙏🏻有消息了告诉我一声",
+            "time": "18-5-28 03:02",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "user id": "5778629110",
+            "user name": "Lz兰朋友",
+            "content": "我兄弟在北京呢、刚刚我给打电话了、让他问问家里人",
+            "time": "18-5-28 02:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 6,
+            "children": [],
+            "user id": "6026588357",
+            "user name": "李爽改名叫李卓轩拉",
+            "content": "你可以打个电话试试，",
+            "time": "18-5-28 02:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 6,
+            "children": [],
+            "user id": "5778629110",
+            "user name": "Lz兰朋友",
+            "content": "担心、我好兄弟的家人都在那边",
+            "time": "18-5-28 02:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "1760613011",
+            "user name": "Frodeooooo",
+            "content": "市区没事",
+            "time": "18-5-28 02:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 8,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "In solidarity with all the journalists pursuing their profession and freedom of speech. #CharlieHebdo http://t.co/n7WSJsf0Si",
+        "user id": 33464913,
+        "tweet id": "552817391181103104",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@pankajpachauri Blog on INC by me https://t.co/o9pAjGlm6f",
+            "user id": 1635183072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PankajPachauri",
+            "user id": 2613274158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PankajPachauri          Islam Denounces Terrorism\nhttp://t.co/gCwKWElhFr …",
+            "user id": 1653834024,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PankajPachauri segui que sigo de volta amor ? 😍😍😍✨",
+            "user id": 2271943451,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@PankajPachauri @Stackpoler  In solidarity! Like how the world's cartoonists have drawn their tribute. Here's two: http://t.co/GAcquw01oZ",
+            "user id": 30286958,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@wendyannes @PankajPachauri @Stackpoler dessin de caricature\n(French for Cartoon)\nThese Islamists r caricaturing  their own religion instead",
+            "user id": 110132327,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PankajPachauri how come freedom of speech becomes mockery of a religion?Will u say the same thing if I make derogatory remarks on ur Gods?",
+            "user id": 2928399541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PankajPachauri instead of making fun of anyone's religion hang Baghdadi,drag him do anything but spare the religion",
+            "user id": 2928399541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@PankajPachauri ur this kind of attitude is not going to help you in discrediting terrorism.",
+            "user id": 2928399541,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@PankajPachauri This cartoon sharing is only compelling law abiding Muslims to think of ur intentions sceptically.",
+            "user id": 2928399541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

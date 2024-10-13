@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Ottawa shooting: Soldier dies of injuries, gunman shot dead http://t.co/6D9NofyId5 http://t.co/IO19HlsUms",
+        "user id": 6433472,
+        "tweet id": "525006356731166720",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "O.O OMG... prayers for the families... RT @CBCNews Ottawa shooting: Soldier dies of injuries, gunman shot dead http://t.co/1a4CntdL4P …",
+            "user id": 32662315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews thoughts and prayers with our Neighbors to the North\n#StaySafeOttawa",
+            "user id": 32909508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews   Too bad .@he should have had to face our rage .",
+            "user id": 1167413696,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews Please don't show images of our soldier dying and receiving CPR, invasive and disrespectful #OttawaShooting",
+            "user id": 22986475,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCNews I'm heartbroken at the loss of this young soldier in Ottawa! My condolences to his family! Thanx CBC for your delicate reporting.",
+            "user id": 455019202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

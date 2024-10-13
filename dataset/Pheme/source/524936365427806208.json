@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "DEVELOPING: Shooting suspect at large inside Canadian Parliament: reports\nhttp://t.co/hU0OfoOGEC http://t.co/5fkHcPaK97",
+        "user id": 14173315,
+        "tweet id": "524936365427806208",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @NBCNews: DEVELOPING: Shooting suspect at large inside Canadian Parliament: reports\nhttp://t.co/yKkdH4M2Wh http://t.co/LtdGgv0Stw",
+            "user id": 21923301,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews How glamorous they look?",
+            "user id": 467087280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews illuminati",
+            "user id": 348147023,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @KING5Seattle put a bullet in his head!",
+            "user id": 1060478178,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews they already shot him",
+            "user id": 282133249,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews I THOUGHT WE WERE SAFE IN CANADA...ALAS EVIL EXEMPTS NONE..",
+            "user id": 2479789147,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@NBCNews ISIS + gun laws = lots of dead people",
+            "user id": 2500030157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                10
+            ],
+            "content": "@61Webhead @NBCNews only 1 so far and that's the shooter...",
+            "user id": 225521111,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @MarkMullenNBC \n\nDoes anyone know where Ted Cruz is?",
+            "user id": 321059889,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@NBCNews: DEVELOPING: Shooting suspect at large inside Canadian Parliament: reports\nhttp://t.co/vUi8ccO227 http://t.co/Dk2uo41chN”",
+            "user id": 363119009,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                11
+            ],
+            "content": "@tomzedd @NBCNews yeah, use your kind words to stop terrorists! better yet, put up another \"Gun Free Zone\" sign!",
+            "user id": 2500030157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@61Webhead @NBCNews what...",
+            "user id": 225521111,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "content": "@tomzedd @NBCNews This was the 2nd terrorist attack in 3 days with 3 dead now. Gun laws kept citizens from shooting back at the terrorist",
+            "user id": 2500030157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@61Webhead @NBCNews  that is the dumbest conclusion you could have made. Give your head a shake.",
+            "user id": 225521111,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

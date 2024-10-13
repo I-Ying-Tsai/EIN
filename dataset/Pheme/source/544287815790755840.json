@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "Hostages being held in a Sydney cafe; Islamic flag seen in window, local news reports http://t.co/qMagxP5wuc",
+        "user id": 16664681,
+        "tweet id": "544287815790755840",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes @rulajebreal @rezaaslan @billmaher @SamHarrisOrg I'm sure it has nothing to do with religion.",
+            "user id": 2743621676,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@latimes: #Hostages being held in a #Sydney cafe; #Islamic flag seen in window, local #news reports http://t.co/x43Wb1m8Fo” #international",
+            "user id": 23990555,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes \"a flag that appears to be connected to a terrorist organization.\" \nNo one has been able to identify the flag yet.",
+            "user id": 185472553,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@latimes: Hostages being held in a Sydney cafe; Islamic flag seen in window, local news reports http://t.co/s58PbvOAYQ” piss off",
+            "user id": 106651328,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes If ISIS flag is put up at the Cafe by the captors then it's the job for Australian Special Air Service Regt to deal with!",
+            "user id": 1047778988,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes The outrage of the #Franchisemafiosi is that they stir up hatred for Muslims. Believing them genuine ,they shelter in community.",
+            "user id": 2214510864,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes @MaraWritesStuff This will be used to 'justify' all kinds of official and unofficial racist violence over the coming months.",
+            "user id": 618407853,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        }
+    }
+}

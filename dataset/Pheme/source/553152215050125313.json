@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "UPDATE: Cop fatally shot as France hunts #CharlieHebdo massacre suspects http://t.co/DIw8C6Ng1s http://t.co/Rhfb6vC84P",
+        "user id": 14173315,
+        "tweet id": "553152215050125313",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews\n#ParisShooting\nwake up call 2all pro #civilsociety\nwhy #CharlieHebdo\nsupported #Kobane #resistance vs #ISIS \nhttp://t.co/qbj6dk5DC2",
+            "user id": 48304732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @WTHRcom  This is ashamed they don't even carry guns there I hope they find the shooter",
+            "user id": 1332666337,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews where do you get your \"breaking news\"?! Every update you tweet is wrong! Check French news please #CharlieHebdo",
+            "user id": 345555307,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

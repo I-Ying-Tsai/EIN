@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "With the #sydneysiege now in its tenth hour, police say they're in contact with the gunman. http://t.co/Au4T7dsSAh http://t.co/KQftolnHji",
+        "user id": 7587032,
+        "tweet id": "544403913076924417",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@SkyNews: With the #sydneysiege now in its tenth hour http://t.co/s53yM5rLSF” spotted @SarahHDean",
+            "user id": 36649116,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@philipe20 oh!",
+            "user id": 20858066,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews I'm thinking same as Simon",
+            "user id": 587412250,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Shoot him and interrogate him .",
+            "user id": 1062498002,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Great pic.",
+            "user id": 2408509784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews how about referring to him as an Islamic terrorist and not a gunman? Speak the truth for once! Radical Islam is Poison",
+            "user id": 21175450,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews",
+            "user id": 610256326,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews hhhhhh",
+            "user id": 2900433696,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews I bet there in contact arranging how much there all gonna get so why is he actually holding them hostage can you answer that",
+            "user id": 1291930495,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

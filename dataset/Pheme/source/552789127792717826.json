@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Just confirmed. 10 people dead at shooting in the centre of #Paris. Many believed to be journos working for #CharlieHebdo",
+        "user id": 297325085,
+        "tweet id": "552789127792717826",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AnnetteF24: Just confirmed. 10 people dead at shooting in the centre of #Paris. Many believed to be journos working for #CharlieHebdo”",
+            "user id": 429054107,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "But guns are illegal “@AnnetteF24: 10 people dead @ shooting in the centre of #Paris. Many believed to be journos working for #CharlieHebdo”",
+            "user id": 29829696,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AnnetteF24 @France24_en Confirmed by whom? This has not been confirmed.",
+            "user id": 2466301080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AnnetteF24 @mofitzmaurice If ur seriously held religious beliefs make it ok 2 murder&amp;behead innocents then ur beliefs are truly fucked up.",
+            "user id": 636415876,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AnnetteF24 @France24_en As they left the building. They shouted \"The prophet has been avenged\" Guess it has nothing to do with islam Pftttt",
+            "user id": 1262536770,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AnnetteF24 @Arno_ri 11 deads",
+            "user id": 2343941361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

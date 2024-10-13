@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "I can confirm that I am not performing at Massey Hall tonight either. #Prince",
+        "user id": 36065127,
+        "tweet id": "529727601280307201",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCQueensPark ok, forget it then, I'm not going.",
+            "user id": 105198606,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCQueensPark sad ;(",
+            "user id": 144628953,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCQueensPark There's just no demand for tap dancing acts any more.",
+            "user id": 280543667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

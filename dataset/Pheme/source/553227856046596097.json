@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "In the wake of #CharlieHebdo attack, let's not sacrifice even more rights https://t.co/DZoVYASb9V",
+        "user id": 4816,
+        "tweet id": "553227856046596097",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@EFF Sure Theresa May is working her strategy for eroding more of our rights under the guise of terrorism using #CharlieHebdo as excuse!",
+            "user id": 2965807427,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@EFF @SteveNixonIP The right to freedom of expression is as important as the right to privacy. Without both we have neither.",
+            "user id": 31271055,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@PACC_CCAP @EFF Couldn't agree more.",
+            "user id": 1963785025,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @EFF: In the wake of #CharlieHebdo attack, let's not sacrifice even more rights https://t.co/jsaroBzFp9",
+            "user id": 134807370,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@EFF #CharlieHebdo let's don't get setup &amp; sucker punched like we did on #911 &amp; #Iraq. #NeverForget #InsideJob Bush Cheney Sharon #Traitors",
+            "user id": 33705455,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

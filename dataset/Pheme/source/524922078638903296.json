@@ -1,0 +1,710 @@
+{
+    "source": {
+        "content": "Ottawa police are confirming a shooting at the War Memorial. Minutes ago. No other info. #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524922078638903296",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": ".@dominiquehardy @CBCOttawa related to St-Jean ?",
+            "user id": 2433907530,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@petitmetroide @CBCOttawa Il est tôt pour une quelconque hypothèse.",
+            "user id": 15816550,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "Prudence avant d'en savoir plus “@CBCOttawa: Ottawa police are confirming a shooting at the War Memorial. Minutes ago. No other info.",
+            "user id": 1206639234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@StephBerthomet Ça va être rapporté partout sans validation,sur les radio poubelles pour crée une panique collective. L'EI nous attaque !!!",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@StephBerthomet @CBCOttawa c'est déjà sur LCN et partout.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: Ottawa police are confirming a shooting at the War Memorial. Minutes ago. No other info. #cbcOTT #OTTnews”",
+            "user id": 96146974,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Wow. Drove by, saw yellow tape, assumed renos. MT @CBCOttawa: Ottawa police confirm a shooting at the War Memorial minutes ago. #OTTnews",
+            "user id": 19267038,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "カナダの戦争記念碑で銃撃。オタワ州警察が確認。 @CBCOttawa Ottawa police are confirming a shooting at the War Memorial. Minutes ago. No other info. #cbcOTT #OTTnews",
+            "user id": 172292855,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [
+                10
+            ],
+            "content": "“@RenkoQC: @StephBerthomet Ça va être ...Pkoi parles tu de radio poubelle ?",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@RenkoQC @StephBerthomet Heinh?? Ça va man? Tu as pris te pilules ?",
+            "user id": 18669387,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@en_passant_la @StephBerthomet Parce que tout les journaux et radio ont rependu la nouvelle avant même d'avoir la confirmation des faits.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "@Sebas_Lev @StephBerthomet Apprend à lire, comprend le sarcasme et après tu devrais avoir le droit de m'écrire.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "“@RenkoQC: @en_passant_la @StephBerthomet ?.. Mais, tu veux qu'ils attendent la fin ? Des fois, ça peut sauver des vies donner info ?",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14,
+                15
+            ],
+            "content": "@en_passant_la @StephBerthomet Dans l'état actuel post-Richlieu, ça va juste créé de la panique surtout si c'est pas fonder.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                16,
+                17
+            ],
+            "content": "“@RenkoQC: @en_passant_la @StephBerthomet ... Mais comment procèderais tu ?",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [
+                18,
+                19
+            ],
+            "content": "@RenkoQC @en_passant_la c'est confirmé et des journalistes étaient sur place.",
+            "user id": 1206639234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [
+                20
+            ],
+            "content": "@en_passant_la @StephBerthomet J'attendrais que ce soit fonder ? Je vit pas ma vie pour des côté d'écoute.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 17,
+            "parent": 14,
+            "children": [
+                21,
+                22
+            ],
+            "content": "@en_passant_la La peur fait bien souvent beaucoup plus de mal que de potentiels balles. L'humain étant ce qu'il est.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 18,
+            "parent": 15,
+            "children": [],
+            "content": "@StephBerthomet @en_passant_la Sauf que ça c'est retrouver partout bien avant d'être confirmé. Bien triste nouvelle au final.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 19,
+            "parent": 15,
+            "children": [],
+            "content": "“@StephBerthomet: @RenkoQC Ça me rappelle au parlement de Québec 1984",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 20,
+            "parent": 16,
+            "children": [
+                23
+            ],
+            "content": "“@RenkoQC: @en_passant_la @StephBerthomet ?.. Honnêtement, je pense pas qu'un journaliste souhaite amener une fausse info ?",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 21,
+            "parent": 17,
+            "children": [],
+            "content": "“@RenkoQC ... Auront ils moi s peur quand si c'est fondé ?",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 22,
+            "parent": 17,
+            "children": [
+                24
+            ],
+            "content": "@RenkoQC @en_passant_la Et c'est justement pour ça que c'est du terrorisme.",
+            "user id": 400972999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 23,
+            "parent": 20,
+            "children": [
+                25,
+                26,
+                27,
+                28
+            ],
+            "content": "@en_passant_la @StephBerthomet Je sais pas pour tout les médias mais @NRJ943Montreal et @tvanouvelles sont les experts du non-fondé.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 24,
+            "parent": 22,
+            "children": [],
+            "content": "@3strokes @en_passant_la Au sens large qu'on donne à ce terme, oui.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 25,
+            "parent": 23,
+            "children": [
+                29,
+                30,
+                31
+            ],
+            "content": "“@RenkoQC  @StephBerthomet .. Si tu savais la pression qu'ils ont parfois d'amener de la viande à tout prix ! (Amener ou emener) Jhais ce mo",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 26,
+            "parent": 23,
+            "children": [],
+            "content": "@RenkoQC @en_passant_la @StephBerthomet Si on en parle et qu'il ne se passe rien, tout à coup on est les experts du non-fondé, si on n'en",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 27,
+            "parent": 23,
+            "children": [
+                32,
+                33
+            ],
+            "content": "@RenkoQC @en_passant_la @StephBerthomet parle pas et que ça se passe réellement on est à côté de la track... c'est quoi TA formule à toi?",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 28,
+            "parent": 23,
+            "children": [
+                34
+            ],
+            "content": "@RenkoQC @en_passant_la @StephBerthomet c'est TELLEMENT facile de jouer les experts si t'as pas à le vivre toi-même au quotidien, buddy.",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 29,
+            "parent": 25,
+            "children": [
+                35
+            ],
+            "content": "@en_passant_la @StephBerthomet J'en doute pas et tant mieux ( journalistiquement parlant ) si l'événement rapporter était vrai mais 1/2",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 30,
+            "parent": 25,
+            "children": [],
+            "content": "@en_passant_la @StephBerthomet c'est trop souvent baser sur rien. Comme ce que TVA a rapporter à propos de la prière de la Ronde et qui",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 31,
+            "parent": 25,
+            "children": [],
+            "content": "@en_passant_la @StephBerthomet c'est avérer être un montage de toute pièce par un groupe haineux.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 32,
+            "parent": 27,
+            "children": [],
+            "content": "@tobiebh @en_passant_la @StephBerthomet Éviter le sensationnalisme et attiser la haine racial et y aller avec des faits ? 1/2",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 33,
+            "parent": 27,
+            "children": [
+                36
+            ],
+            "content": "@tobiebh @en_passant_la @StephBerthomet 2/2 va faire un tour sur la page NRJ de Facebook c'est commentaire raciste sur commentaire raciste.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 34,
+            "parent": 28,
+            "children": [
+                37,
+                38,
+                39
+            ],
+            "content": "@tobiebh @en_passant_la @StephBerthomet expert ? Est-ce si dur de devoir attendre qu'un fait soit fonder ? Toujours vouloir le scoop. Buddy.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 35,
+            "parent": 29,
+            "children": [],
+            "content": "“@RenkoQC: @en_passant_la @StephBerthomet J'en doute pas et tant.. Et ça mène à des distorsion !",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 36,
+            "parent": 33,
+            "children": [],
+            "content": "@RenkoQC @en_passant_la @StephBerthomet N'importe quel média qui a 100k+ sur sa page fb va finir par y voir arriver des commentaires",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 37,
+            "parent": 34,
+            "children": [],
+            "content": "@RenkoQC @en_passant_la @StephBerthomet De tous les temps tous les médias ont toujours utilisé le conditionnel tant que ça n'est pas con-",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 38,
+            "parent": 34,
+            "children": [
+                40,
+                41,
+                42
+            ],
+            "content": "@RenkoQC firmé. Si les gens ne font pas la distinction dans leurs temps de verbe, je vois pas ce qu'on peut faire.",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 39,
+            "parent": 34,
+            "children": [],
+            "content": "@RenkoQC J'ai fait le tour des principaux médias et je suis curieux de savoir quelle info fallacieuse on donne de plus? Hormis les com-",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 40,
+            "parent": 38,
+            "children": [
+                43,
+                44
+            ],
+            "content": "@tobiebh C'est encore une fois de vouloir le scoop. C'est probablement une question de rentabilité, je ne gère pas NRJ ni TVA. Je doute 1/2",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 14
+        },
+        {
+            "comment id": 41,
+            "parent": 38,
+            "children": [],
+            "content": "@tobiebh 2/2 que ma \"formule\" serait rentable mais aurait au moins l'intérêt de ne pas vouloir créer des mouvements de panique sv infondée.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 14
+        },
+        {
+            "comment id": 42,
+            "parent": 38,
+            "children": [],
+            "content": "@tobiebh @RenkoQC   Et voilà.... Et il faut arrêter de chercher des dieux à tout prix ! L,erreur est humaine et ils sont aussi humain !",
+            "user id": 582603780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 14
+        },
+        {
+            "comment id": 43,
+            "parent": 40,
+            "children": [],
+            "content": "@RenkoQC mentaires auxquels tu fais allusion et sur lesquels on n'a ultimement aucun contrôle",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 15
+        },
+        {
+            "comment id": 44,
+            "parent": 40,
+            "children": [
+                45,
+                46
+            ],
+            "content": "@RenkoQC fais-moi une liste des informations erronées qui ont été communiquées par nous et pas par les autres stp.\nAprès on jasera",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 15
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [],
+            "content": "@tobiebh Donc parce que tout le monde le fait, c'est correct ? C'est la norme ?",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 16
+        },
+        {
+            "comment id": 46,
+            "parent": 44,
+            "children": [
+                47
+            ],
+            "content": "@tobiebh J'ai pas dit que vous étiez les pire, 130 caractère laisse pas assez de place pour citer toute la crap journalistique du QC.",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 16
+        },
+        {
+            "comment id": 47,
+            "parent": 46,
+            "children": [
+                48
+            ],
+            "content": "@RenkoQC bien d'accord! Trop court pour expliquer un point comme l'autre. Mais tsé tu nous nommes, normal que je réponde ;)",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 17
+        },
+        {
+            "comment id": 48,
+            "parent": 47,
+            "children": [
+                49
+            ],
+            "content": "@tobiebh J'aurais du aussi faire une distinction entre votre radio et votre Facebook, mon propos aurait sûrement sembler moins agressif :/",
+            "user id": 347531577,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 18
+        },
+        {
+            "comment id": 49,
+            "parent": 48,
+            "children": [],
+            "content": "@RenkoQC T'inquiète, dans la vie j'aime beaucoup argumenter. C'est jamais de la chicane mais plutôt de la simple opposition de points de",
+            "user id": 26088254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 19
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "9-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "12-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "13-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "14-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "15-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "16-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "17-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "18-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "19-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

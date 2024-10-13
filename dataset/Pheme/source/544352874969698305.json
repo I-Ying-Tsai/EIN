@@ -1,0 +1,112 @@
+{
+    "source": {
+        "content": "#SYDNEYSIEGE: 3 people escape gunman-held Lindt Café http://t.co/1ZlzKDjvSf http://t.co/DJCj55u6qk",
+        "user id": 64643056,
+        "tweet id": "544352874969698305",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@RT_com Hostage are still trapped. #PrayForSydney #sydneysiege",
+            "user id": 117584614,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "content": "@gskn4u @RT_com they really SHOULD NOT be publishing pics, don't know that might hurt others from escaping.",
+            "user id": 400360169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@gskn4u @RT_com don't publish escape routes!",
+            "user id": 400360169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com \n.\nReligion of Peace? \n\n#The_Proper_Way_to_Beat_Your_Wife \n\n.\n\nhttps://t.co/l41uc90c3A http://t.co/b2wDDMNhl1",
+            "user id": 2380248444,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @ERAvaCole move run get out! Do not stay and become a hostage!",
+            "user id": 497537643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@Nickarama1 @RT_com I agree. 2008 Mumbai attacks, Indian media helped terrorist. I guess media is not learning from mistakes. #PrayForSydney",
+            "user id": 117584614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@gskn4u @RT_com yes, I have video of the escape here, not publishing it until I am sure it will not hurt. Media needs to be responsible.",
+            "user id": 400360169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Police vehicles chase #CharlieHebdo suspects on French motorway http://t.co/k3G8Y2jdE8 http://t.co/MBUxnx3KRv",
+        "user id": 21866939,
+        "tweet id": "553472488462901248",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews @JBsSidekick  det e den jag kollar på",
+            "user id": 279512802,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@itvnews: Police vehicles chase #CharlieHebdo suspects on French motorway http://t.co/3yLvQR1ckv http://t.co/MoKcNov0og” OMQ",
+            "user id": 183372304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@KareemFenty @itvnews This cannot happen in France and in 2015 for Christ sake!Without Security there is CHAOS! http://t.co/j3mqEX6PUa",
+            "user id": 2692257313,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews they should of just ram them off the road",
+            "user id": 2881721902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

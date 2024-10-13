@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "We're deeply shocked and saddened by the despicable violence in Paris today. Freedom of expression is fundamental. #JeSuisCharlie",
+        "user id": 207985340,
+        "tweet id": "552850599168196608",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Indeed. Vive la Paris. MT \n“@Shakespeare_Co: We're deeply shocked and saddened by the despicable violence in Paris today. #JeSuisCharlie”",
+            "user id": 50445664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

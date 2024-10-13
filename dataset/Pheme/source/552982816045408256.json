@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": ".@jonathanchait on #CharlieHebdo and the right to commit blasphemy: http://t.co/XuRzCwxO3w http://t.co/KhOXObej0d",
+        "user id": 45564482,
+        "tweet id": "552982816045408256",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NYMag @jonathanchait : #JeSuisCharlie",
+            "user id": 1658312030,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@RogerAttick @NYMag @jonathanchait hi how are you this late evening?  Find want to chat? Cynthia casteel 2",
+            "user id": 2773666720,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NYMag @jonathanchait Who has the eraser!!\nhttp://t.co/JMzKHoJj9y http://t.co/EYSVohjGxX",
+            "user id": 2332669549,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Only if you have the guts to defend it. MT @NYMag: .@jonathanchait on #CharlieHebdo and the right to commit blasphemy http://t.co/AmOCQ5XYrU",
+            "user id": 492529570,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@NYMag: .@jonathanchait on #CharlieHebdo and the right to commit blasphemy: http://t.co/XvX1m2Y0G3\" thought provoking for sure...",
+            "user id": 1033411472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@NYMag: .@jonathanchait on #CharlieHebdo and the right to commit blasphemy: http://t.co/YAAlKCTnm0 http://t.co/x0D9Hebntd” #JeSuisCharlie",
+            "user id": 2200646119,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

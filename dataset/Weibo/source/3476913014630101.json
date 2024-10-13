@@ -1,0 +1,469 @@
+{
+    "source": {
+        "content": "刘翔手术曝光，啥也不说了。",
+        "user id": 1447021637,
+        "tweet id": "3476913014630101",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "看到就覺得很痛，辛苦劉翔你了[愛心傳遞][愛心傳遞][愛心傳遞]",
+            "user id": 1706487810,
+            "user name": "LuisaTou",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "重口味，胆小慎入。",
+            "user id": 1447021637,
+            "user name": "陪伴老妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@北京厨子",
+            "user id": 1447021637,
+            "user name": "陪伴老妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "无语。@董路",
+            "user id": 1447021637,
+            "user name": "陪伴老妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                10,
+                16
+            ],
+            "content": "你瞎了，换你试试",
+            "user id": 1447021637,
+            "user name": "陪伴老妈",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "真實照片？",
+            "user id": 2118033207,
+            "user name": "尋找Reagan",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "content": "这是为啥呀，受这罪？",
+            "user id": 2401821313,
+            "user name": "陈源TL",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "刘翔好样的！加油！",
+            "user id": 2368057867,
+            "user name": "aima59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "content": "图中这只伤脚是左脚，而且脚龄约为53-58年，而刘翔时年29，伤的是右脚。",
+            "user id": 1957166903,
+            "user name": "水里石头水上桥",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                17,
+                27
+            ],
+            "content": "也叫断脚筋",
+            "user id": 1717722793,
+            "user name": "杜葆荣",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [
+                24,
+                28
+            ],
+            "content": "图还是挺恐怖的[衰]",
+            "user id": 1639997041,
+            "user name": "蒋萌神",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "这左脚的手术是因为单腿跳造成的吧 强烈谴责伦敦奥委会 PS.右脚跟腱断裂不上图 真的大丈夫？",
+            "user id": 1846316647,
+            "user name": "强行卖萌却老失败的拉面君",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "翔哥，受苦了",
+            "user id": 2664524114,
+            "user name": "李畅Clear",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "content": "这条腿是刘翔的？？？",
+            "user id": 1421801301,
+            "user name": "当年你还是液体",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                31
+            ],
+            "content": "再一次胆颤心惊[生病][生病]",
+            "user id": 1858960884,
+            "user name": "揸哥_Zzzz",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "content": "这脚脖子血留干了还是做冷冻处理了？",
+            "user id": 1624110344,
+            "user name": "北京团子",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 4,
+            "children": [],
+            "content": "",
+            "user id": 1633960623,
+            "user name": "漫咖啡",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 9,
+            "children": [
+                32
+            ],
+            "content": "加个油吧，他也是人！",
+            "user id": 2084736372,
+            "user name": "博雅商旅网",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 6,
+            "children": [],
+            "content": "残腿-收山吧!",
+            "user id": 1842864843,
+            "user name": "无地老农民",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": 8,
+            "children": [
+                20
+            ],
+            "content": "[疑问][晕][围观]",
+            "user id": 2260301205,
+            "user name": "幸运Bonnie001",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21,
+                25
+            ],
+            "content": "没说是这次的，下面那只脚也不是刘翔的，是图例，让大伙看看受伤装不出来。",
+            "user id": 1447021637,
+            "user name": "陪伴老妈",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "content": "谴责教练和后勤团才是对的，2个月前还跑进12秒87，现在成这样了？",
+            "user id": 1447021637,
+            "user name": "陪伴老妈",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "谴责教练和后勤团才是对的，2个月前还跑进12秒87，现在成这样了？",
+            "user id": 1447021637,
+            "user name": "陪伴老妈",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "这么严重",
+            "user id": 1652141182,
+            "user name": "条形码记者吴春明",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 10,
+            "children": [],
+            "content": "这是上次美国的吧[衰][衰][衰]",
+            "user id": 1434720022,
+            "user name": "小大琦",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 20,
+            "children": [],
+            "content": "既然不是他的，却放在一起，也太混淆视听了吧？",
+            "user id": 2147402215,
+            "user name": "甫跃辉",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "content": "第二个图是果壳的教科图好不好！为了让人们发东西谨慎点，我决定骂一回: sb!",
+            "user id": 2414481233,
+            "user name": "hal90",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": 9,
+            "children": [],
+            "content": "人至贱，必无敌",
+            "user id": 1458115312,
+            "user name": "鲜血和荣誉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 28,
+            "parent": 10,
+            "children": [
+                30
+            ],
+            "content": "口味比较重…",
+            "user id": 1251870804,
+            "user name": "凌空的秋",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "[good]",
+            "user id": 2912127314,
+            "user name": "林麟-LYN",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [],
+            "content": "是他的吗？那还能站起来吗？",
+            "user id": 1946657305,
+            "user name": "旦壳丢丢",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 31,
+            "parent": 14,
+            "children": [
+                33
+            ],
+            "content": "看着真不好受！不过想问一下，伤的不是右脚吗？怎么变左脚了？",
+            "user id": 1879332470,
+            "user name": "AnsonZhong的围脖",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 32,
+            "parent": 17,
+            "children": [],
+            "content": "[可怜]",
+            "user id": 1684484295,
+            "user name": "钟MINing",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 33,
+            "parent": 31,
+            "children": [],
+            "content": "@揸哥_Zzzz 在趴着的情况下，小脚内侧向左凹的是左脚，可看看自己的是不是？[吃惊]",
+            "user id": 1879332470,
+            "user name": "AnsonZhong的围脖",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "content": "心疼！！！",
+            "user id": 2882659152,
+            "user name": "千寻瀑一",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "content": " @窗缝的一缕阳光",
+            "user id": 2634563223,
+            "user name": "浅草双鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "content": "[泪][泪][泪][泪][泪][泪][泪]",
+            "user id": 2202737250,
+            "user name": "虫宝月月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 14,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

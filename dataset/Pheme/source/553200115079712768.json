@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Charlie Hebdo will publish this week with a print run of 1 million, up from the usual 60,000 http://t.co/Xy5jyLxGZt http://t.co/5P7HpPUAT2",
+        "user id": 15279429,
+        "tweet id": "553200115079712768",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "I keep reading different numbers for their regular circulation... 30k, 45k, 60k. It's growing? @VanityFair @revmagdalen #CharlieHebdo",
+            "user id": 22819351,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "Although I hope it changes to a permanent 1 Million! ;) #CharlieHebdo #JeSuisCharlie @VanityFair @revmagdalen",
+            "user id": 22819351,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@VanityFair I would be nice if you could share a link to buy for U.S. readers",
+            "user id": 117316720,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@VanityFair @joshgroban : soooo saaaaad!",
+            "user id": 70018589,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@VanityFair @joshgroban Way to go, #CharlieHebdo!!! Never cower like @SonyPictures did!",
+            "user id": 150849903,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@VanityFair @joshgroban Good for them!",
+            "user id": 32818358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@VanityFair I THINK THAT PARIS SHOULD BE ASHAMED IF I'M NOT ALLOWED TO SPEAK/LAUGHT ABOUT YOUR JEWISH RELIGION SO, DON'T DO IT ABOUT MINE!!!",
+            "user id": 1875617287,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@vanityfair @joshgroban  I Think That's Wonderful:)!!",
+            "user id": 482647633,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@VanityFair @joshgroban it's so sad of what had happen to the Frenchpeople,it's great to see them stick together like family&amp;show they care.",
+            "user id": 2768628327,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@VanityFair @joshgroban I retweeted this &amp; 2 others!",
+            "user id": 14105520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

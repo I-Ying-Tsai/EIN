@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Three people spotted running out of #Lindt cafe, shielded by heavily armed police. #sydneysiege #martinplacesiege http://t.co/DCezDxucaj",
+        "user id": 156464691,
+        "tweet id": "544353793270243328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsSydney @sunriseon7 May be weird camera angle but who are people in the bground walking around? Cordoned off? http://t.co/cQBJqO34AX",
+            "user id": 226037655,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsSydney live from Sydney https://t.co/2WUqcXhNYk",
+            "user id": 955701642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsSydney #StayStrongSydney",
+            "user id": 115031056,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsSydney @EamonnHolmes hopes everyone gets home safe &amp; sound for Christmas!! #SydneyHostageCrisis",
+            "user id": 1158176480,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsSydney prayers!!! ♥♥",
+            "user id": 1947763856,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

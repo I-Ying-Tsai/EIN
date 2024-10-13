@@ -1,0 +1,167 @@
+{
+    "source": {
+        "content": "#JeSuisCharlie trends worldwide: Online solidarity after Charlie Hebdo attack http://t.co/q1yC7tmhDN http://t.co/nvrKqRY6EL",
+        "user id": 16343974,
+        "tweet id": "552845250268766209",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph publish the unpixelated cartoons please. Show your solidarity #jesuischarlie",
+            "user id": 160327704,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph but you totally lack the balls to print the cartoons..... so much for your solidarity @RolandXSweden",
+            "user id": 14473462,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph",
+            "user id": 160346049,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@Telegraph: #JeSuisCharlie trends worldwide: Online solidarity after Charlie Hebdo attack http://t.co/SQYioeeeRG http://t.co/ExZIPoDoRi”",
+            "user id": 54172127,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph @TelegraphNews PRINTE THE CARTOONS #JeSuisCharlie",
+            "user id": 598505996,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Ed Ward, MD’s Blog: #1 Google Result: Boston Treason, 4 Articles https://t.co/sSTSOh5hNl",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8,
+                9
+            ],
+            "content": "@Telegraph What people really need to be doing is questioning why EU leaders are allowing this to happen. Dark forces are indeed at work!",
+            "user id": 279157541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@bnp @Telegraph http://t.co/iVoC8HlSzc Dark forces are indeed at work here too.",
+            "user id": 2441634745,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@bnp @superhoops34 @Telegraph #Jews http://t.co/gO1Z1nskXO",
+            "user id": 2940238558,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "@bnp @superhoops34 @Telegraph Yep aint that the TRUTH...",
+            "user id": 1145837502,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph #JeSuisCharlie",
+            "user id": 1198971475,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph",
+            "user id": 26994823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph @TelegraphNews what would jesus do? prolly not sit around and draw satirical cartoons of  the founder of islam and get paid 4 it!",
+            "user id": 83032558,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

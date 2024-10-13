@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "#食品安全# 现在食品还有放心的吗 秒拍视频 ",
+        "time": "17-5-18 20:21",
+        "user id": "1758168181",
+        "tweet id": "F3Ih5gRzc",
+        "label": 1,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "2079226894",
+            "user name": "楚門Cesar",
+            "content": "已辟谣了，是鸡肉肉松没有异常",
+            "time": "17-5-18 23:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "1758168181",
+            "user name": "涵爸视觉",
+            "content": "这样是最好的",
+            "time": "17-5-18 23:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "5142147760",
+            "user name": "天使的红领巾",
+            "content": "我从来不吃这种肉松蛋糕。。。话说这女的手指甲更使我恶心。。。",
+            "time": "17-5-18 23:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "1758168181",
+            "user name": "涵爸视觉",
+            "content": "",
+            "time": "17-5-18 23:26",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "1758168181",
+            "user name": "涵爸视觉",
+            "content": "我也是服了水军们了",
+            "time": "17-6-15 11:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "1595825512",
+            "user name": "Yobgnaw",
+            "content": "赞你有勇气造谣，那两个老太婆被关了10天好象，，，我要举报你",
+            "time": "17-6-11 20:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "5372908371",
+            "user name": "明早八点一定睡觉",
+            "content": "天天不要到处传播谣言",
+            "time": "17-6-8 21:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5987093437",
+            "user name": "菜狗不要叫",
+            "content": "真能造谣啊",
+            "time": "17-6-12 08:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5731078904",
+            "user name": "ssssaplos",
+            "content": "我煮菜放了胡椒粉和酱油，然后把菜放在水里洗洗，不知道水和菜会是什么颜色，视频又能说明什么。",
+            "time": "17-5-20 13:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5173530001",
+            "user name": "丶GuArd丶",
+            "content": "已举报",
+            "time": "17-6-12 13:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "5770678232",
+            "user name": "朱道长1566",
+            "content": "这俩人已经被抓了，你还发",
+            "time": "17-6-12 09:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5827825970",
+            "user name": "木子楊的李",
+            "content": "不吃这个就。",
+            "time": "17-5-30 09:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "5829561961",
+            "user name": "嘉人晨曦m",
+            "content": "",
+            "time": "17-5-18 20:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

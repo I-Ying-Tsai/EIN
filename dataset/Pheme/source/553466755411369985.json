@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "\"State surveillance of emails will prevent a #CharlieHebdo atrocity.\"\n\n- But France already has email surveillance.\n\n\"Let's have it anyway.\"",
+        "user id": 33315010,
+        "tweet id": "553466755411369985",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JackofKent yeah... I pushed something out about that kind of talk yesterday: http://t.co/yzUDupQMum",
+            "user id": 18031814,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JackofKent I can see how every email can be captured, but not how they can be read or interpreted sensibly. One spook per tweeter?",
+            "user id": 15659240,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@JackofKent I ask people if they are comfortable with the government also opening and reading your letters before you do.",
+            "user id": 146832028,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "No arrests last night in #Ferguson (per @BreakingNews)",
+        "user id": 24165761,
+        "tweet id": "500236187395571713",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "It's Obama fault. \"@MichaelSkolnik: No arrests last night in #Ferguson (per @BreakingNews)\"",
+            "user id": 21117305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@MichaelSkolnik: No arrests last night in #Ferguson (per @BreakingNews)”&lt;--- nice",
+            "user id": 574857684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "“@oldmanebro: “@MichaelSkolnik: No arrests last night in #Ferguson (per @BreakingNews)”&lt;--- nice” Anonymous has spoken 😭😭",
+            "user id": 180150418,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik I just watched the governor and the police on #GMA and they are going to release the name today",
+            "user id": 38339586,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@MichaelSkolnik: No arrests last night in #Ferguson (per @BreakingNews)” 👍👍👍",
+            "user id": 1043957966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@MichaelSkolnik just a shooting, assault, and 3 damaged cops cars so far #Ferguson  @BreakingNews",
+            "user id": 127566165,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@northcountryjen @MichaelSkolnik @BreakingNews 🔥",
+            "user id": 17718055,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik nobody was doing anything wrong except for that Nazi fuck who shot #MikeBrown and thinks its funny.  #Ferguson",
+            "user id": 18539636,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik @BreakingNews pls Share it if you against POLICE BRUTALITY http://t.co/K8nq9YVNXr",
+            "user id": 192896660,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik @BreakingNews it's about time. They are going to confirm the name",
+            "user id": 67929450,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

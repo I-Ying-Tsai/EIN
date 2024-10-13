@@ -1,0 +1,89 @@
+{
+    "source": {
+        "content": "At least 11 dead and 5 injured after gunmen storm Charlie Hebdo office in Paris http://t.co/Ujw9LonL8N http://t.co/JnhZmKeW5M",
+        "user id": 15438913,
+        "tweet id": "552792193992519680",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@MailOnline @ArtemZeleny  \nFucking russia!!! http://t.co/Huo80HpIqa",
+            "user id": 151651683,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Danielerlin @molevitckiy @MailOnline @ArtemZeleny ну да, а поначалу театр целый разыгрывали с НОНОЙ",
+            "user id": 540266049,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@Danielerlin @ArtemZeleny @MailOnline Только подтвердил свою позицию пособника терроризма и разжигателя конфликтов",
+            "user id": 2445635994,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mailonline Rip ...Actually If Peopla Are Dyin Lik It Shows Alot Abt D Security Of A Place",
+            "user id": 2937111401,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline هجوم على مبنى مجله فرنسيه يؤدي الى مقتل ١٠ وجرح ٤ اخرين واعلان حاله الطوارئ في باريس",
+            "user id": 2898115168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @erinkennedyCBS2 Often times this is done by losers. This is the only time they feel empowered is when they're killing people.",
+            "user id": 158170143,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

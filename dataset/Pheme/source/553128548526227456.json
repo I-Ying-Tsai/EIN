@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Salman Rushdie makes an impassioned plea to defend the art of satire #CharlieHebdo http://t.co/brDi8yvxKf http://t.co/GXppLKIzc0",
+        "user id": 239825437,
+        "tweet id": "553128548526227456",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheIndyPeople @DeepSearch17 Am I an \"extremist\"? http://t.co/n5tk5dKdqt  &amp; a \"Waspish Fatwa\"? http://t.co/GtlDgADwZ8 #CharlieHebdo #NATO",
+            "user id": 74743684,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheIndyPeople @monaanis et pourquoi pas approuver ce droit pour \"Dieudonné\"??",
+            "user id": 1496859834,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

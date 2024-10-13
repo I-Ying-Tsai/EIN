@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": ".....for a cover-up to be successful....you must first discredit the victim.....\n\n#Ferguson",
+        "user id": 608161678,
+        "tweet id": "500287479015292928",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@wizdom4you the owner &amp; employees already stated that #MikeBrown was NOT the robber, so that robbery story is beyond dead. NEXT!",
+            "user id": 61371669,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@LISSAHryaan @wizdom4you u got a link?",
+            "user id": 1670200692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@wizdom4you: .....for a cover-up to be successful....you must first discredit the victim.....\n\n#Ferguson” RIGHT!!!!",
+            "user id": 81270312,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@wizdom4you @blackrepublican said Barack Obama",
+            "user id": 278257674,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@wizdom4you @blackrepublican thats what it seems like",
+            "user id": 2587698164,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "!!! “@wizdom4you: .....for a cover-up to be successful....you must first discredit the victim.....\n\n#Ferguson”",
+            "user id": 59019999,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

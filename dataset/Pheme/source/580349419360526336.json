@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Germanwings has posted the following updated statement via Twitter: http://t.co/q1I8tkghmf http://t.co/odiENY7FDw",
+        "user id": 16343974,
+        "tweet id": "580349419360526336",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Telegraph: Germanwings has posted the following updated statement via Twitter: http://t.co/W3wlgge4Dd http://t.co/TwfgY6AYIo”",
+            "user id": 51109281,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph @GretchenCarlson \nThat is so sad. God bless them &amp; their families.",
+            "user id": 24136030,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

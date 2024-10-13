@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Last night in #Ferguson started with joyous hymns &amp; calls for peace. It ended with another police shooting. My latest http://t.co/ckmGk9TnWA",
+        "user id": 14849562,
+        "tweet id": "499553426133753857",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@WesleyLowery the link to the post dispatch story in your story is broken",
+            "user id": 91704031,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@_jden will get fixed. In meantime here's the link http://t.co/OnT9QBCjzF",
+            "user id": 14849562,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@WesleyLowery: Last night in #Ferguson started w/ calls for #peace but ended w/ another #police shooting: http://t.co/0KlyU6YtGG”",
+            "user id": 245878149,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@WesleyLowery The men in ski masks pulled guns on cops, right?",
+            "user id": 59690775,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@WesleyLowery @PlayVicious Al Sharpton \"inside to discuss\" knowing that these young people are outside being shot at. Nothing new here.",
+            "user id": 304118094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@WesleyLowery @PMorris153 so very sad.",
+            "user id": 139551592,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@WesleyLowery This is heartbreaking to read.",
+            "user id": 624702245,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

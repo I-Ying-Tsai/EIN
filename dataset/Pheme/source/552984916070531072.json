@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "R.I.P. Ahmed Merabet, a French #Muslim Cop, first victim of #CharlieHebdo attack http://t.co/vEHq0PAZwE",
+        "user id": 39609732,
+        "tweet id": "552984916070531072",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "RT @JeffersonObama: R.I.P. Ahmed Merabet, a French #Muslim Cop, first victim of #CharlieHebdo attack http://t.co/Mff547SxfL",
+            "user id": 1575138829,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@RobProvince God bless him and comfort his loved ones. @JeffersonObama",
+            "user id": 629884158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@JeffersonObama @MonsieurFoum Ce sont ces policiers tués qui me font le + mal au cœur !  Aucune provoc, ils avaient juste fait leur travail",
+            "user id": 1249436738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JeffersonObama @MonsieurFoum C policiers n'étaient probablement pas assez armés contre ces criminels !",
+            "user id": 1249436738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@JeffersonObama Le terrorisme n'a pas de religion",
+            "user id": 1249436738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@JeffersonObama Beautiful heroes see you on that golden journey so I can thank you for your service🌹🌝",
+            "user id": 236175465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@JeffersonObama #JeSuisCharlie too🌝",
+            "user id": 236175465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@JeffersonObama such a happy smiling face. Can't get him out of my head today. Can only hope he's in a good place.",
+            "user id": 146404350,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@JeffersonObama Congrats on your 250★ tweet! http://t.co/Jw6HpL9qvB",
+            "user id": 404460410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

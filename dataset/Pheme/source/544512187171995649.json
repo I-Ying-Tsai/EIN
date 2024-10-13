@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Young woman carried out with blood running down her left leg. #sydneysiege",
+        "user id": 19318739,
+        "tweet id": "544512187171995649",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@alextcullen: Young woman carried out with blood running down her left leg. #sydneysiege”no",
+            "user id": 489336441,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@alextcullen @7NewsMelbourne Here's hoping thats the worst that happens to any innocent person",
+            "user id": 51969823,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@alextcullen @7NewsSydney this is horrible 😥 praying that that's the worst",
+            "user id": 2334913614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "RT @alextcullen: Young woman carried out with blood running down her left leg. #sydneysiege",
+            "user id": 2502895924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@blastedsilver @alextcullen 2 people given CPR...one hostage one police officer.",
+            "user id": 2886799455,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

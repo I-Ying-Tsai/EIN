@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "#BREAKING - At least 2 dead in  hostage standoff in Paris Kosher supermarket (AFP) http://t.co/OYSXRQ9xuv http://t.co/SQUsZcitcO",
+        "user id": 25049056,
+        "tweet id": "553542235661553665",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@France24_en #BREAKING At least 2 dead in  hostage standoff in Paris Kosher supermarket (AFP) http://t.co/HpEA0cWrFh http://t.co/812VNhQrA4",
+            "user id": 354917016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @comradewong People in #france invite la @legionetrangere to join the fight &amp; protect them #VivelaFrance http://t.co/GjfNAOnP4u",
+            "user id": 387516768,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@France24_en @exiledenglander FRANCE NEEDS @MLP_officiel",
+            "user id": 2966255939,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@France24_en @exiledenglander @MLP_officiel #LePenMightierThanSword",
+            "user id": 2966255939,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Hay al menos dos muertos en el secuestro en el supermercado judío en París, según informa @France24_en.",
+            "user id": 12895152,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "France24 live MT @France24_en At least 2 dead in hostage standoff in Paris Kosher supermarket http://t.co/aeli4lL6aR http://t.co/svrqi9v4ng",
+            "user id": 165335229,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

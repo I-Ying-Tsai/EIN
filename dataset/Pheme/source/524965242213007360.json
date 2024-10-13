@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "Our thoughts are with the city of Ottawa and those affected by today's events. Be safe.",
+        "user id": 44166798,
+        "tweet id": "524965242213007360",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NHLBruins @DarrenDreger Meanwhile @CanadiensMTL busy peddling merchandise.",
+            "user id": 1524801662,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@Pete514z really?? show some class bud",
+            "user id": 253645657,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@NHLBruins: Our thoughts are with the city of Ottawa and those affected by today's events. Be safe.”\n\nFINALLLYYY!!!👏👏👏👏👏",
+            "user id": 476325615,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NHLBruins @DarrenDreger Classy guys.!! #respect",
+            "user id": 18649788,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NHLBruins @DarrenDreger Bless you, the city of Boston AND all of the U.S for the support. Thank you.",
+            "user id": 26703928,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NHLBruins : Thank you for offering our Nations Capital your sincerest thoughts of concern. 📕🍁📕\n#OttawaStrong  \n#CanadaStrong",
+            "user id": 493737355,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "RT ''@NHLBruins Our thoughts are with the city of Ottawa and those affected by today's events. Be safe.'' Today, I agree with the Bruins.",
+            "user id": 22419328,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@NHLBruins @Hits93Toronto #Ottawa true!!!!!",
+            "user id": 1433475794,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@BIGBADBRU1NS Im hoping my hometown team would. Makes no sense that the @NHLBruins do this before Montreal.",
+            "user id": 1524801662,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@Pete514z It makes sense the @NHLBruins said something, theres deep roots to canada in Mass, im surprised about that. i apologize.",
+            "user id": 253645657,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@BIGBADBRU1NS @Pete514z We did tweet about it. https://t.co/5VLIdxW2Lb ^ER",
+            "user id": 19678937,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@CanadiensMTL i had figured as much. Thanks for the love habs youre a class organization",
+            "user id": 253645657,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

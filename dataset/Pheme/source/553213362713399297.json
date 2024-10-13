@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "These cartoons are poignant tributes to victims of the Charlie Hebdo attack http://t.co/R59wUj58Pp http://t.co/5BhfsdNYfe",
+        "user id": 16973333,
+        "tweet id": "553213362713399297",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: These cartoons are poignant tributes to victims of the Charlie Hebdo attack http://t.co/xZ4LqPWWHw http://t.co/L5THc3Ez4L”",
+            "user id": 15721747,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Independent \n#CharlieHebdo \nArtists should work for peace and love not hatred and blasphemy..",
+            "user id": 444459896,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@ANA_JED1 @Independent \"blasphemy\"~  you've just betrayed yourself as a narrow minded zealot.",
+            "user id": 469845522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@independent Everyone should just reprint the cartoons rather than these ineffectual insults #JeSuisCharlie #CharlieHebdo @mvuchiri",
+            "user id": 19792878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent they are deeply moving",
+            "user id": 2817435066,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Genau so! @Independent http://t.co/JXEGf4HHnz http://t.co/UqS9LZfNSR”",
+            "user id": 264210776,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

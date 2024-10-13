@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "10 people confirmed dead in Paris attack - rocket launcher used in assault, according to reports http://t.co/7N7uvClhWY",
+        "user id": 16343974,
+        "tweet id": "552790875492073472",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Oh no .. How terrible! My heart goes out to those who were caught up in it and their families!",
+            "user id": 357081216,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "ロケットラウンチャーに自動小銃って。。。\n“@Telegraph: 10 people confirmed dead in Paris attack - rocket launcher used in assault, according to reports\"",
+            "user id": 108003115,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RPG used in the Paris streets? Madness! RT@Telegraph 10 people dead in Paris attack - rocket launcher used in assault http://t.co/74nAb9vYnn",
+            "user id": 383506589,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph how the fuck do you get away with a fucking rocket launcher! Even in America I cannot imagine someone with a rocket launcher",
+            "user id": 168815068,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph just casually strolling by to blow up a building.",
+            "user id": 168815068,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

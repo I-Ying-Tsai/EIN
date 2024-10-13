@@ -1,0 +1,186 @@
+{
+    "source": {
+        "content": "NSW Transport Management has just told Seven News everyone in CBD of Sydney should now leave if they're able.",
+        "user id": 195160252,
+        "tweet id": "544319450569134081",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@laurelirving7: RT NSW Transport Management has just told Seven News everyone in CBD of Sydney should now leave if they're able.”",
+            "user id": 49808343,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@laurelirving7 @Y7News",
+            "user id": 2903157546,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@laurelirving7 @7NewsSydney it would be wise to Marshall law the streets at this point of time.",
+            "user id": 2795504520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@laurelirving7: NSW Transport Management has just told Seven News everyone in CBD of Sydney should now leave if they're able.”",
+            "user id": 2502895924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@laurelirving7 @hapryson",
+            "user id": 337469563,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@laurelirving7 @NextThere link us to the source of this?",
+            "user id": 14448996,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@laurelirving7 @NextThere if you must claim such statements about leaving Sydney CBD, link to the true article source.",
+            "user id": 14448996,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@purana @laurelirving7 @NextThere There is no source because she's making it up.",
+            "user id": 18317751,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@laurelirving7 @nswincidents Would strongly suggest following official advice. Listen to official news outlets directly. Not 2nd hand info.",
+            "user id": 1228903394,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@laurelirving7 @tyroga Well that’s interesting, Premier Baird &amp; Police Chief moments ago said “go about your business”…",
+            "user id": 1947671,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@techydude I don’t think I’d be staying… oh look Joe Hockey talking about our budget today! It’s bury the lead day!",
+            "user id": 771528,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@laurelirving7 NSW Transport Management has just told Seven News everyone in CBD Sydney should now leave if they're able.” @Roger_Rogering",
+            "user id": 41771226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "content": "@i94bar @laurelirving7 @NextThere clearly, hence I requested source. Another person who is full of shit.",
+            "user id": 14448996,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@tyroga yep",
+            "user id": 1947671,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

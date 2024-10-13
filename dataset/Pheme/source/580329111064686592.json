@@ -1,0 +1,115 @@
+{
+    "source": {
+        "content": "It’s not just CNN. This France24 anchor is asking whether it’s normal that planes would fly over mountains. #4U9525 http://t.co/fR6EGJbfKQ",
+        "user id": 5943072,
+        "tweet id": "580329111064686592",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn One again a lack of knowledge sparks questions about the benefit of being first versus actually having information.",
+            "user id": 307938124,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn BBC asking the question too.",
+            "user id": 29687956,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn 😑",
+            "user id": 149807159,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn I heard Fox News ask who decides where to land the plane.",
+            "user id": 1885483244,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn oh my god. What???",
+            "user id": 19910285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn @shortstack81 Does make u wonder abt. education system in France...",
+            "user id": 17301087,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn *facepalm* I long for the days when being a newsreader meant you had some level of intelligence.",
+            "user id": 17439480,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn This is really being asked?",
+            "user id": 612505092,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn @Rand_Simberg Instead of taking the tunnel?",
+            "user id": 1140164587,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 8
+        }
+    }
+}

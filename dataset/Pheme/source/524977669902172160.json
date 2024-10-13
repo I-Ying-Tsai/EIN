@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "NHL postpones Wednesday's Leafs-Senators game due to tragedy in Ottawa  http://t.co/Ohec0ceae7 http://t.co/sLeiCmoUN6",
+        "user id": 21660529,
+        "tweet id": "524977669902172160",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@Sportsnet: NHL postpones Wed's Leafs game due to tragedy in Ott http://t.co/MlSmmggLiS http://t.co/wZA33H8ZUu” #KeepPhilSafe #TMLtalk",
+            "user id": 17878141,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@martyzylstra @Sportsnet - Seriously? Wow. Only a Leaf fan. #pureclass",
+            "user id": 2837019397,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Sportsnet",
+            "user id": 266353234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

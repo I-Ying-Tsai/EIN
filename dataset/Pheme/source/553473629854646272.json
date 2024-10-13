@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "I know a guy that feels really weird hearing all this media fountain about European freedom of speech. #CharlieHebdo http://t.co/1IqtP6jE9M",
+        "user id": 2315411725,
+        "tweet id": "553473629854646272",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BungeeWedgie   indeed...freedom of speech only if it suits the powers that be...",
+            "user id": 2206925360,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@BungeeWedgie @POOCHI_POOCHIE Indeed, I thought the same thing.",
+            "user id": 2333745212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@MaurilioVitto @BungeeWedgie me too",
+            "user id": 2718581956,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@BungeeWedgie @taigstaigs To be fair Assange is fighting extradition to SWEDEN on sexual assault charges. #ChooseYourMartyrsWisely",
+            "user id": 280459733,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@the_mcquade @BungeeWedgie Sweden cd interview #Assange in England but they want to do a #Manning on him",
+            "user id": 1315370654,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BungeeWedgie \nBravo 👍👍",
+            "user id": 1719561684,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BungeeWedgie I know the other one: http://t.co/5FCDitbClS @mina_ysf",
+            "user id": 48395238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BungeeWedgie @erie_ben What about http://t.co/hizxTnhgk9 or http://t.co/DkCB07tcmm? Their crimes: singing songs &amp; doing scientific research",
+            "user id": 2289664622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BungeeWedgie @sharpfang Gladstone, ca 1860s: Denial fr (us) OTHERS of RIGHTS U claim 4 urselves IS INSANE!\". NWO's Human Kill rte now 2/min",
+            "user id": 711719886,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BungeeWedgie The traitor n coward hiding from justice!! @kevarist",
+            "user id": 30065994,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BungeeWedgie If you are for free speech then this #tshirt is for you support #JeSuisCharlie #CharlieHebdo buy it now http://t.co/XKBSwygvDG",
+            "user id": 1963662985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

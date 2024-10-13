@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "BREAKING - #Ferguson's police chief has announced Darren Wilson as the cop who shot and killed #MikeBrown.",
+        "user id": 23995748,
+        "tweet id": "500277477986828288",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheRoot What was the Bryan Willman stuff about? Thought he was identified...?",
+            "user id": 636503611,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@TheRoot: BREAKING - #Ferguson's police chief has announced Darren Wilson as the cop who shot and killed #MikeBrown.”",
+            "user id": 90906852,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TheRoot FOLLOW ME..ILL FOLLOW BACK ASAP.. #promise (not spam)!",
+            "user id": 68036352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

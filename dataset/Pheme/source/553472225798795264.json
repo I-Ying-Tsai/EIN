@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "BREAKING: Gunfire reported in French town as police hunt suspects in #CharlieHebdo attack | More soon at: http://t.co/SIQeukZutl",
+        "user id": 4970411,
+        "tweet id": "553472225798795264",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "RT @AJEnglish BREAKING: Gunfire reported in French town as police hunt suspects in #CharlieHebdo attack  http://t.co/P7wi7pQi68",
+            "user id": 311028372,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@SALSIKandar @AJEnglish Someone wants the french real bad i guess.",
+            "user id": 2959175634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AJEnglish hands crossed",
+            "user id": 2460904493,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

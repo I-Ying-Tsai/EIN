@@ -1,0 +1,407 @@
+{
+    "source": {
+        "content": "据办公室同事说，今天下午六点开始， 上海的高清探头全部启动，副驾驶室不系安全带相同处罚，开车时打电话罚款50元，闯黄闪罚200，越线停车罚100，今天起晚六点半至深夜二点，为期60天。各位，全当是真的吧，万一被罚了可真划不来啊！@新民周刊 @海上鱼子酱 @宝熙妈 @胡新社 @小芭 @小眼睛的老婆",
+        "user id": 2071839291,
+        "tweet id": "3518055328369428",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "合格公民理应按规守法地参与交通活动。违规受罚事小，造成他人受害可就人命关天喽！",
+            "user id": 2632469704,
+            "user name": "hs_特大雄的快乐生活",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                4,
+                5,
+                10,
+                24
+            ],
+            "content": "今天末有开车[汗]幸运！",
+            "user id": 1400884772,
+            "user name": "胡新社",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@龙之树",
+            "user id": 1717563625,
+            "user name": "老卡Chris",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 1497157952,
+            "user name": "Pluto韬韬",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "装给上海的童鞋",
+            "user id": 2249979132,
+            "user name": "七-里河",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "一个月收骨头了。",
+            "user id": 1683261040,
+            "user name": "肖恩哥_司令",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "司机朋友们要注意啦",
+            "user id": 2691322424,
+            "user name": "勤奋滴小苍蝇",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "我觉得这些的确是开车应该遵守的规则，即使没有探头也是应该做的，没觉得是麻烦事情",
+            "user id": 1490498234,
+            "user name": "闲敲岁月",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "坐出租车记得系安全带，别给辛苦的的哥添麻烦",
+            "user id": 1074517544,
+            "user name": "悠悠菲霖之梦想走天涯",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "不太相信。",
+            "user id": 1849146303,
+            "user name": "-飚哥-",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [
+                11
+            ],
+            "content": "副驾驶和你开车有关系吗?",
+            "user id": 2612855257,
+            "user name": "马年转运",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "银子就是这样出去的",
+            "user id": 1680936587,
+            "user name": "壹壹-我爱头哥",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "全当是真的吧",
+            "user id": 2299309814,
+            "user name": "cocoyan212",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14,
+                15
+            ],
+            "content": "我们那车不系一直叫 输给它",
+            "user id": 1919375567,
+            "user name": "爱谁谁爱谁谁爱谁",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                23
+            ],
+            "content": "转",
+            "user id": 1661788700,
+            "user name": "豆圆的小世界",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "content": "据说是假的，但是这些难道不是本就应该遵守滴么？",
+            "user id": 1247725625,
+            "user name": "蛋皮酱",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "content": "过年了，该给辛苦的交警同志发年终奖了",
+            "user id": 1407673622,
+            "user name": "爸气外漏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18,
+                21
+            ],
+            "content": "假消息，好久之前的假消息，又来说。再说了，难道是为了不罚钱才不闯黄闪，如果不罚款，开车就能乱来来了!!!副驾驶不带安全带，出了事儿是自己的命!!!!",
+            "user id": 1836756114,
+            "user name": "王小宝想念小王宝",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [
+                19
+            ],
+            "content": "@江小静新民周刊总监",
+            "user id": 1836756114,
+            "user name": "王小宝想念小王宝",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [
+                20,
+                22
+            ],
+            "content": "毛毛发飙了。[威武]",
+            "user id": 2501983584,
+            "user name": "压缩机BG4DPD",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "content": "快过年了，1都没钱了。",
+            "user id": 1816867480,
+            "user name": "天地无用流氓兔",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 21,
+            "parent": 17,
+            "children": [],
+            "content": "真的？假的？吓丝丝滴",
+            "user id": 1376160327,
+            "user name": "朱大人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 22,
+            "parent": 19,
+            "children": [],
+            "content": "要过年啦，开车的同学小心。。。最近楼下交警查违章停车的频率明显增加。。。",
+            "user id": 1282032440,
+            "user name": "bettier",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 23,
+            "parent": 14,
+            "children": [],
+            "content": "@一个人的行走-SK @",
+            "user id": 2645273383,
+            "user name": "神龟夫人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 24,
+            "parent": 1,
+            "children": [],
+            "content": "转：应该的，安全第一，生命珍贵！",
+            "user id": 3170294747,
+            "user name": "上海求索影视制作有限公司",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                26,
+                30
+            ],
+            "content": "转发微博",
+            "user id": 1851453691,
+            "user name": "兔兔的期盼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "content": "各位注意了",
+            "user id": 1815312455,
+            "user name": "eric---babi",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "content": "当老百姓傻子，就算拍下来，你有人力去挨个看图片？呵呵",
+            "user id": 1686215593,
+            "user name": "罗恩Ron_ACC",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "content": "新民周刊不能看了",
+            "user id": 1973896514,
+            "user name": "leewarn",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "我半个月前就从市建委里听说已经开始测试了，我已经当真了。",
+            "user id": 1957826530,
+            "user name": "徐j进",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": 25,
+            "children": [],
+            "content": "@ramboqi",
+            "user id": 2640276561,
+            "user name": "lynn霄霄花园",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "\"You tell the media it was al-Qaeda in Yemen\" - reported words of #CharlieHebdo attackers. \nRead more: http://t.co/qDPrycGtAR\n#c4news",
+        "user id": 14569869,
+        "tweet id": "552822434639126528",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Channel4News: \"You tell the media it was al-Qaeda in Yemen\" - reported words of #CharlieHebdo attackers.\"",
+            "user id": 52404825,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News in a hebrew accent was it?",
+            "user id": 2279864526,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News Waiting for a Tory #fuckwit to claim not their fault and privatization the answer.",
+            "user id": 163852928,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News Dont say aword against Islam freedom is conditional.",
+            "user id": 1914421867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Channel4News The attack on #CharlieHebdo has all the hallmarks of a false-flag operation, cf Northwoods,MI6 attack on Qadahfi, 9/11 and 7/7",
+            "user id": 968138851,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Gods_Spy @doufous @Channel4News Thick and fast excuses to hate &amp; kill. So how come we aren't hearing about the 2,500 killed by Israel ?",
+            "user id": 2471587969,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News no, it was mossad in Is Ra Hell.",
+            "user id": 467290324,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News @MuhajiriShaam2 Would that be actually true, typical ISIS-trolling or a deranged eye-witness?",
+            "user id": 16901935,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News @PeterAdamSmith sounds like an inside job",
+            "user id": 25995131,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News Who funded/armed/trained gunmen? https://t.co/iPBkLwhQk8 Jeffrey Epstein also in CFR+Trilateral Commission",
+            "user id": 1348798826,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@channel4news At least 12 killed in shooting at office of French satirical: http://t.co/dTrEfTWyLp #paris Charlie Hebdo",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News Ha ha - Yemen the new country in the #GreaterIsrael programme &amp; al-Qaedo who Robin Cook said no such thing - its CIA Mossad",
+            "user id": 23444554,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 10
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

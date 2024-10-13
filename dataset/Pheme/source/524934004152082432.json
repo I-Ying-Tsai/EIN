@@ -1,0 +1,153 @@
+{
+    "source": {
+        "content": "BREAKING: Police: Shooting incident reported near Canadian Parliament.\n\nSpokesperson: Prime Minister Harper \"is safe\" - @WorldNews",
+        "user id": 28785486,
+        "tweet id": "524934004152082432",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ABC @WorldNews So Canada's strict gun control policies have failed again",
+            "user id": 1403764388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                9
+            ],
+            "content": "@CutGovtSpending @ABC @WorldNews Does Canada have a gun problem that everyone doesn't know about? Educate yourself before commenting BS",
+            "user id": 1258325856,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC hummmmm",
+            "user id": 2285944336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @WorldNews mounties are on the scene",
+            "user id": 406445860,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @Stefanelli @WorldNews dafuq? Canada is meant to be really boring! :/",
+            "user id": 1027528664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @brendanloy @WorldNews Can't be, they have strict laws against such things",
+            "user id": 409335738,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "BUT CANADA CANT HAVE GUN CRIME!!!! RT @ABC: BREAKING: Police: Shooting incident reported near Canadian Parliament.",
+            "user id": 2355478825,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                10
+            ],
+            "content": "@politicalshon @ABC much safer than here",
+            "user id": 334387917,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @WorldNews",
+            "user id": 815481722,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [],
+            "content": "@JonnoJ75 @CutGovtSpending @ABC @WorldNews seriously tho. Glad you said that to him.",
+            "user id": 334387917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "content": "@MattHoagie @ABC Not disagreeing. I was just surprised at the headline.",
+            "user id": 2355478825,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "BREAKING UPDATE: 2 hostages escape Lindt Café through front door, 1 via fire door http://t.co/1ZlzKDjvSf #Sydneysiege http://t.co/TRUBNRw7wa",
+        "user id": 64643056,
+        "tweet id": "544353502689251329",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RT_com \n\nKaty &amp; Bieber embrace Islam: http://t.co/VWPGkmeXLy\n\nThe Bible &amp; NASA embrace Islam: http://t.co/NpPT6HimrS. .",
+            "user id": 2215260181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@abkoma @RT_com islam sucks",
+            "user id": 2777537827,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com thank god",
+            "user id": 131395119,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com 3 isn't it?",
+            "user id": 284551366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Nvm I see what you mean",
+            "user id": 284551366,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com You endangered anyone trying to escape! Stop it!",
+            "user id": 1048389972,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com http://t.co/QmgulquObV PREVENT THE VIOLENCE ! Author Avail 24 hrs 1-778-908-2811 http://t.co/5wFvkVVnlA",
+            "user id": 2734020596,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com guy in white looks like quite a gay mincer.",
+            "user id": 282756639,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Manager asks staff to clock out before fleeing hostage site",
+            "user id": 16071327,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": ".@RT_com 1/2 Yeah following Friday's rebellion a lot of climate negotatiors will be feeling an affinity w/ the hostages.",
+            "user id": 458768756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": ".@RT_com 2/2 Perhaps they'd like to take this opportunity to talk about their trauma.",
+            "user id": 458768756,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

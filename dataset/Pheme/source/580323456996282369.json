@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "A @germanwings A322 #4U9525, BCN-DUS,  with at least 143 passengers has crashed today at 9.39 UTC http://t.co/L7Wtodurt7",
+        "user id": 827765124,
+        "tweet id": "580323456996282369",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AircraftTalking @germanwings",
+            "user id": 2999872846,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

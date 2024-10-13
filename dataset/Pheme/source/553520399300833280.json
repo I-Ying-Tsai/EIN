@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "Who is scared? Sify cartoon. #CharlieHebdo http://t.co/qN6WizQg2l",
+        "user id": 25106021,
+        "tweet id": "553520399300833280",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@satishacharya Well done. That IS the point. They kill us because we threaten their totalitarian self righteousness under a false cloak.",
+            "user id": 2611111758,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@satishacharya  are you scared man? \nI love to much?",
+            "user id": 2953464422,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "just accept  cartoonists specially in India are really scared to do anything near to what Jesuis Charlie did . @satishacharya",
+            "user id": 145991416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "@VivekAchar @satishacharya Its' not that they r scared... thy know whr to draw the line ... Thr's always a line to draw for evrythng",
+            "user id": 2173204789,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@satishacharya this cartoon hold good if that cartoonist is french one. Not for Indian cartoonist. They are scared for sure.",
+            "user id": 145991416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@satishacharya Charlie Hebdo: Norway's Christians didn't have to apologise for Anders Breivik, and it's the same for Muslims now",
+            "user id": 529660770,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@satishacharya Terrorizing a terrorist with a quill, and succeeding also.",
+            "user id": 2401478346,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@satishacharya In this Cartoon, nobody knows who is in face cover. Who provide rocket launcher and gun in Paris? #CharlieHebdo",
+            "user id": 481055346,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@BhumikaDhanaraj Don't shamelessly boast yourself that you don't fear. This cartoon is related to killing of jesuis Charlie @satishacharya",
+            "user id": 145991416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "@VivekAchar @satishacharya Hey, I just said we need to draw a line.. I know wat d cartoon is related for, I nvr said wat hpnd der was jstfd",
+            "user id": 2173204789,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "@VivekAchar @satishacharya n drawing a line is definitely not related to fear is wat i meant to say",
+            "user id": 2173204789,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                12
+            ],
+            "content": "@BhumikaDhanaraj TRUE. There should be lakshman rekha. But killing a person for crossing that rekha is not justified. @satishacharya",
+            "user id": 145991416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@VivekAchar @satishacharya dat definitely..",
+            "user id": 2173204789,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

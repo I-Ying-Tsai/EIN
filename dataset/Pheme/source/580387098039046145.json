@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Reports of \"moving body\" amidst #Germanwings wreckage #A320 http://t.co/GLMUsaPbGo http://t.co/WS2M4YCly3",
+        "user id": 16887175,
+        "tweet id": "580387098039046145",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMirror get the choppers up there",
+            "user id": 2932869688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@dailymirror TIME IS OF D ESSENCE.",
+            "user id": 2900288385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMirror Stop with the bullshit news.",
+            "user id": 84798933,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMirror Where have you got this 'news' from? No other sites reporting 'moving body'!",
+            "user id": 1198746512,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMirror trashy news. Officials are stating no survivors",
+            "user id": 44753321,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMirror This is horrendous sensationalism with no basis in fact, and clearly impossible given the nature of the crash. Shameful.",
+            "user id": 234952070,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        }
+    }
+}

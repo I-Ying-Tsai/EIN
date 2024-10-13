@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "French President François Hollande states that there are no survivors expected in the Germanwings #4U9525 crash.",
+        "user id": 5943072,
+        "tweet id": "580324697415360512",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thatjohn this is just breaking. Surprising that a head of state is writing off survivors so early into the incident.",
+            "user id": 558008921,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

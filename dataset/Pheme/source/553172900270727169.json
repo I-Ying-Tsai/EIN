@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The threat of violence should not become an excuse or justification for restricting freedom of speech. #JeSuisCharlie http://t.co/kXp2qJzFUM",
+        "user id": 864871926,
+        "tweet id": "553172900270727169",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thenikhilkapur i was gonna show them terrorists by making a punny pencil cartoon but then i realized there's just no point #CharlieHebdo",
+            "user id": 318557570,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thenikhilkapur saying that any holy book is a piece of crap , is disrespectful, even tho killing them was wrong",
+            "user id": 2407292252,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thenikhilkapur A complete GIF guide to Muslims Denouncing terrorism. http://t.co/s9rGMNFzda",
+            "user id": 234912898,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

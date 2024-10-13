@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING - Hostage taken at kosher shop in #Paris by ‘suspect in police officer shooting' https://t.co/h1qXZG6GlP http://t.co/vpD5A5FYGi",
+        "user id": 25049056,
+        "tweet id": "553532980896231424",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en @lebribri Weren't they in a warehouse like an hour ago? What happened to that?",
+            "user id": 19516869,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@France24_en @tagesschau The two suspects have now taken hostages and holed themselves up at three different places simulatenously.",
+            "user id": 2788122942,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@France24_en",
+            "user id": 1263176426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

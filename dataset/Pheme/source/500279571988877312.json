@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "5) if #Ferguson PD were already put on notice about a Quick-Mart robbery, why was that NEVER part of the narrative till now?",
+        "user id": 116520227,
+        "tweet id": "500279571988877312",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@DreadlockDipset they said something about robbery in the beginning and the employees at that QuickTrip said they never called the police",
+            "user id": 37143698,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@DreadlockDipset They never called in shooting, just for crowd control, put Mike's body in police SUV. No ambulance called #lies #ferguson",
+            "user id": 2723428980,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

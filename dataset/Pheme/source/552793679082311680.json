@@ -1,0 +1,197 @@
+{
+    "source": {
+        "content": "11 confirmed dead, Francois Hollande to visit scene of attack - latest from Paris: http://t.co/7N7uvClhWY http://t.co/EgmxARAdEP",
+        "user id": 16343974,
+        "tweet id": "552793679082311680",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Sickening \"@Telegraph: 11 confirmed dead, Francois Hollande to visit scene of attack: http://t.co/g1eoeo9iiO http://t.co/spETEzMnQF”",
+            "user id": 182006778,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+            ],
+            "content": "Hi @Telegraph this is the photo of our journalist @WilliamMolinie please credit him at least.",
+            "user id": 2649991,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@20Minutes @Telegraph @WilliamMolinie Heu à ce stade on s'en fiche non ?",
+            "user id": 38551917,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": ".@20Minutes Le sens des priorités...",
+            "user id": 2774516734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@20Minutes @Telegraph @WilliamMolinie  indeed, this is called \"courtesy\" (thing often unknown by british papers)",
+            "user id": 223382695,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "Je disais quoi ? Smh.. RT \"@20Minutes: Hi @Telegraph this is the photo of our journalist @WilliamMolinie please credit him at least.\"",
+            "user id": 125025920,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@20Minutes franchement déplacé vu le contexte...",
+            "user id": 300136686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "“@20Minutes: Hi @Telegraph this is the photo of our journalist @WilliamMolinie please credit him at least.” lol business .. Encore et encore",
+            "user id": 361062854,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@20Minutes @Telegraph @WilliamMolinie il y a des morts. Pendant ce temps, le pb de 20 minutes c'est les photos...",
+            "user id": 405174559,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@Telegraph Photo shows attackers are at least trained &amp; possibly experienced with combat weapons. More tracking needed of overseas fighters.",
+            "user id": 1435073588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": ".@AuthorABurrett @Telegraph Won't happen. Dover checks are focused mainly on de-worming treatments for dogs.",
+            "user id": 101445204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": ".@Telegraph @acooper3 Well, @SkyNewsBreak are noting that whoever fired those bullets knew how to fire the gun properly. PN office dead?",
+            "user id": 101445204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Wild West Politics: Western Europe is suffering from its internal contradictions; welcome to the tribal politics of the future.",
+            "user id": 25472797,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "content": "@Telegraph lol nd u lot wanted to go paris to get our headgears ripped off @_naboox @cocoa_ktr",
+            "user id": 2203942282,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@khadij_s @cocoa_ktr nah not even on that man, habibi marseille 💕",
+            "user id": 2153574327,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 7
+        }
+    }
+}

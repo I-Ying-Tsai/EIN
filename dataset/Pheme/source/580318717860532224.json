@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Airbus passenger plane crashed in French Alps said to belong to Lufthansa subsidiary Germanwings, flying Barcelone-Dusseldorf",
+        "user id": 6591312,
+        "tweet id": "580318717860532224",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

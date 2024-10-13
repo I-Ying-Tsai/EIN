@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "四川藏区需要4一10岁小孩的衣服和鞋子，新旧不限，洗干净就可以。地址：四川省甘孜藏族石渠县西区长沙贡马乡小学， 邮编：627350 校长：达洼15884044467 如果没有合适的衣服可以邮寄的，帮忙转一下贴也好，也许您的一下简单复制，就能给孩子们一个幸福的明天 ！谢谢大家了[爱心]",
+        "user id": 2727662307,
+        "tweet id": "3531794916008696",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "[爱心传递]@蚂蚁共和国牙牙 @音乐咖啡 @红叶的季节说88 ",
+            "user id": 1658936217,
+            "user name": "肥肥安的加肥猫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[呵呵]",
+            "user id": 1039409795,
+            "user name": "只想与你走",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "温暖转起来",
+            "user id": 1496948835,
+            "user name": "音乐咖啡",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "扩散",
+            "user id": 1599708790,
+            "user name": "吃木头不吐大铁皮",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "朋友們一起呼籲轉發下！",
+            "user id": 2022373520,
+            "user name": "晟太郎壽司",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "我准备寄一些，你们有吗？可以一起打个包。@贝贝鱼-东东妈 @开悟我心 @摩羯西和天秤川 @野火心",
+            "user id": 1960028533,
+            "user name": "樱桃HAPPY丸子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "#爱心温暖#看到这些小朋友，你心里有没有震撼和心酸呢~~把你的想法化为行动吧！！！将那些积压的衣服送给这些需要温暖的小朋友！！！即使没有衣服也帮忙转下贴，让更多的爱心传递，更多的温情不至于流失~~[爱你][爱你][爱你]",
+            "user id": 2801866452,
+            "user name": "乐会网",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "",
+            "user id": 1764349200,
+            "user name": "麽心么肺_刀刀",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "[心]我怎么没想到发到微博哦~好聪明哈你~[亲亲]",
+            "user id": 2798045280,
+            "user name": "速度网罗-时尚创意形象设计",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": " @晋江共青团 @泉州轻工学院团委 @泉州轻工学院贴吧 @泉州轻工学院舞苑 @轻舞飞扬文学社",
+            "user id": 3066527907,
+            "user name": "泉州轻工学院自行车协会",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "帮忙宣传",
+            "user id": 3038760227,
+            "user name": "轻舞飞扬文学社",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2033996943,
+            "user name": "亚华彩妆造型",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

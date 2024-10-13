@@ -1,0 +1,108 @@
+{
+    "source": {
+        "content": "#CharlieHebdo killers dead, confirmed by gendarmerie.",
+        "user id": 501768982,
+        "tweet id": "553587735613952001",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AgnesCPoirier: #CharlieHebdo killers dead, confirmed by gendarmerie.",
+            "user id": 178288356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@AgnesCPoirier @HPIAndyCowper great news.",
+            "user id": 303647815,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "@drkimholt @AgnesCPoirier I'm glad it's over, but sad they couldn't have been slammed up for life.",
+            "user id": 171435540,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@drkimholt @AgnesCPoirier @HPIAndyCowper Not really great news - martyrdom is what they wanted.  Should have rotted in jail.",
+            "user id": 1254806700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AgnesCPoirier Just praying for the people's safety in France!! world global religion news http://t.co/n53rRLZbUp",
+            "user id": 1408458926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@HPIAndyCowper @AgnesCPoirier yes maybe better but others will see that martyrdom doesn't follow.",
+            "user id": 303647815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@DesktopGamer @drkimholt @AgnesCPoirier Yes. We should work out what such people want (martyrdom &amp; to divide us) and strive for the opposite",
+            "user id": 171435540,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

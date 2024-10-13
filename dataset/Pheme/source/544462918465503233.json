@@ -1,0 +1,180 @@
+{
+    "source": {
+        "content": "I condemn the Sydney cafe siege of innocent civilians ... such terrorism and negativity has no place in 21st century civilization.",
+        "user id": 258703448,
+        "tweet id": "544462918465503233",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@APJAbdulKalam yet in islam it does.",
+            "user id": 475626780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "says a guy who hasnt even read books by kalam or anyone for that matter“@ibedaboss123: @APJAbdulKalam yet in islam it does.”",
+            "user id": 195607280,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@ibedaboss123 @APJAbdulKalam  Wrong idea,some  misguided people think so",
+            "user id": 1333901118,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@APJAbdulKalam We condemn all forms of Terrorism and use of force .No place for hate and hurt .May God guide all\n.",
+            "user id": 33219696,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@APJAbdulKalam but nuclear bomb is essential for 21st century civilization???",
+            "user id": 127632303,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@azhagi_ @APJAbdulKalam i like this question",
+            "user id": 195607280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@APJAbdulKalam islam shall die",
+            "user id": 475626780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@APJAbdulKalam We are with you sir.\nYou are absolutely right. @DivyaHariOm",
+            "user id": 1916564341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@APJAbdulKalam I agree with you Kalam Sahab",
+            "user id": 474143902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@nheptulla @APJAbdulKalam \n\nAll such enemies of humanity must be hanged or shot dead in full public view.",
+            "user id": 1672452854,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@foolsdie326 shut up and go join your so called brothers in syria. Go blow yourself up idiot. Not even worth my time you terrorist.",
+            "user id": 475626780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [],
+            "content": "@ShukurAbdus go strap on a bomb you idiot.",
+            "user id": 475626780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [],
+            "content": "@Tiranga_Sena @APJAbdulKalam yes they should be hanged",
+            "user id": 474143902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

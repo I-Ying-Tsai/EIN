@@ -1,0 +1,292 @@
+{
+    "source": {
+        "content": "'Journalism is printing what someone else does not want printed: everything else is public relations' - Orwell #JeSuisCharlie",
+        "user id": 182091416,
+        "tweet id": "552850282410176512",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Journalism is printing what someone else does not want printed: everything else is public relations - Orwell #JeSuisCharlie via @PMRRECORDS",
+            "user id": 103615910,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@PMRRECORDS @Fydsy well that's bullshit",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "content": "@adamp29 @PMRRECORDS It's polemicism, but not wholly bullshit. Considering your profession, I'm not surprised you don't like it! :)",
+            "user id": 61260065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PMRRECORDS Its almost always bullshit",
+            "user id": 126975375,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "@Fydsy @PMRRECORDS My profession?! Haha why?",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@Fydsy @PMRRECORDS go on....?",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "@Fydsy @PMRRECORDS I've long hated journalists and their excuses because of both football and political lies for self gain",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@Fydsy @PMRRECORDS anyway as a definition, Orwell was wrong. Journalism is writing for public consumption, he talks of antagonism",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [],
+            "content": "@adamp29 @PMRRECORDS Digital marketing!",
+            "user id": 61260065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@adamp29 @PMRRECORDS I know what you mean, but surely that's a bit over-generalised?",
+            "user id": 61260065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@Fydsy @PMRRECORDS Yes which ironically I also hate. Correction - I hate liars and 'reworkers' of the truth, I just find journos are often..",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@Fydsy @PMRRECORDS ...guilty of self-interest at the expense of truth, clarity and respect",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@adamp29 @PMRRECORDS I do think there's too much of that these days. The truly investigative reporters, independent and in pursuit of the",
+            "user id": 61260065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "@adamp29 @PMRRECORDS truth, no matter who it embarrasses are far fewer than I once remember.",
+            "user id": 61260065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "@Fydsy @PMRRECORDS Agreed. If it's virtuous, then they are often focusing on truth, not selves. Some truths don't need to be told tho",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                16
+            ],
+            "content": "@adamp29 @PMRRECORDS Question then is, who decides?",
+            "user id": 61260065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [
+                17
+            ],
+            "content": "@Fydsy @PMRRECORDS Me. Always me! :)",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "content": "@adamp29 @PMRRECORDS Fascisti! ;)",
+            "user id": 61260065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "content": "@Fydsy Haha, benevolent dictator I say",
+            "user id": 20554822,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 11
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

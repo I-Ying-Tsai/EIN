@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#JesuisAhmed commemorates Muslim police officer Ahmed Merabet murdered in Charlie Hebdo attack http://t.co/qfxjQMhUoN http://t.co/U1AyY3wWYY",
+        "user id": 271413771,
+        "tweet id": "553214939838836736",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostUK killing their own people... Sad....",
+            "user id": 173525747,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HuffPostUK RIP",
+            "user id": 398055381,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

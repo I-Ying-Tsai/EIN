@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "Australian Muslim community releases statement in response to #sydneysiege. http://t.co/VJofHybEUi",
+        "user id": 74382140,
+        "tweet id": "544410907204259840",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@7NewsBrisbane: Australian Muslim community releases statement in response to #sydneysiege. http://t.co/onM4AbRnw5” so important to read",
+            "user id": 47929018,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@brodiekane @7NewsBrisbane It is sad that they even have a need to issue this.",
+            "user id": 33752742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@7NewsBrisbane: Australian Muslim community releases statement in response to #sydneysiege. http://t.co/egEBmuMmFp”see this @TelegraphNews",
+            "user id": 26737316,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@7NewsBrisbane It's about time Muslim leaders don't sweep things under the carpet like reducing it to a criminal act. IT'S TERRORISM!!;",
+            "user id": 142512260,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@realestatqldcat @7NewsBrisbane no, you're an idiot",
+            "user id": 2881264909,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsBrisbane #illridewithyou",
+            "user id": 384174868,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsBrisbane",
+            "user id": 142512260,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@areptiledysfunc Oh, that's what the \"dysfunc\" mean...",
+            "user id": 142512260,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

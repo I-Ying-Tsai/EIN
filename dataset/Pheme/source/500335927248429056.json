@@ -1,0 +1,108 @@
+{
+    "source": {
+        "content": "The #TeaParty was unable to stand up to Goverment tyranny in #Ferguson due to being too busy tweeting about President Obama's golf game.",
+        "user id": 17072206,
+        "tweet id": "500335927248429056",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@clydetheslyde lol this goes in my top 25",
+            "user id": 2735211549,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@clydetheslyde One question, why now? Not one person spoke out about Boston PD showing in force the same equipment during the bombing!",
+            "user id": 56952290,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                6
+            ],
+            "content": "@clydetheslyde same militarized PD just as #Ferguson.. Yet, always want to blame the #Teaparty...",
+            "user id": 56952290,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@clydetheslyde easy to blame an entity that does not hold office eh? All this is part of the Patriot Act Bush and Obama endorsed!",
+            "user id": 56952290,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@clydetheslyde Its a silly manufactured event. A bunch of actors to CREATE CHAOS of RACISM. TEAPARTY ROCKS!",
+            "user id": 341744476,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@hotair_canbgood You are serious, right?  You're not a parody account?",
+            "user id": 17072206,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [],
+            "content": "@madscape Did the Boston PD kill any citizens or tear gas crowds of protesters?",
+            "user id": 17072206,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

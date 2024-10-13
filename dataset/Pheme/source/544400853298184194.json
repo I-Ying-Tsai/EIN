@@ -1,0 +1,135 @@
+{
+    "source": {
+        "content": "Map: Exclusion zone remains around #MartinPlace as the #Sydneysiege continues  http://t.co/aOuG4dmrHb http://t.co/ZP0U1xNQzA",
+        "user id": 2768501,
+        "tweet id": "544400853298184194",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@abcnews http://t.co/0ivENdymAf",
+            "user id": 785390214,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@Sydneykiz @abcnews wouldn't supporters of IS have thought about the flag in the first place? who are these guys?",
+            "user id": 2222007591,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@abcnews can't wait for the new light rail, people won't need @Uber_Sydney holding them hostage. #sydneysiege #jokesagainstterror",
+            "user id": 1342067257,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@vxfe976 @abcnews Uber trips out of the CBD today are free for all riders to help Sydneysiders get home safely. See http://t.co/UIwoom25Bm",
+            "user id": 508110571,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews saw this on faceboook. Terrifying to say the least !!! http://t.co/PwSc4OV1rC",
+            "user id": 190204183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews - We need more CCTV cameras in public places combined with facial recognition systems.",
+            "user id": 213479625,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews how about an award for the most stupid question asked at press a conference.",
+            "user id": 1676855215,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "@the_nucleotid @abcnews exactly! It's not making sense :/",
+            "user id": 785390214,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@Sydneykiz @abcnews but if it's not about IS showing their ubiquity, why take hostages then? there is no way out now..",
+            "user id": 2222007591,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

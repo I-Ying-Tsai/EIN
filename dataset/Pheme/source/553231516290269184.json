@@ -1,0 +1,142 @@
+{
+    "source": {
+        "content": "Pictures From #CharlieHebdo Solidarity Vigils Across The Globe\nhttp://t.co/PwIlxlQEuD http://t.co/dgR5c4Tr6m",
+        "user id": 5695632,
+        "tweet id": "553231516290269184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Lets see some solidarity with the millions of innocent victims from corrupt, out-of-control SV #Media &gt;&gt;&gt; @BuzzFeed #CharlieHebdo",
+            "user id": 348301649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "The power-hungry, media-control fiends, are jumping on this issue because they have long $upported, violent Hate Speech. @BuzzFeed",
+            "user id": 348301649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@BuzzFeed I love that there is only one photo from America. I guess everyone was too busy plotting which brunch spots to invade next...",
+            "user id": 21547276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "@emilysirko @BuzzFeed So I guess you led your neighborhood vigil then?",
+            "user id": 632539802,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuzzFeed: Pictures From #CharlieHebdo Solidarity Vigils Across The Globe\nhttp://t.co/xklMWMrglK http://t.co/Bv44Htnfa5” So powerful",
+            "user id": 25785671,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "#FreedomOfSpeech “@BuzzFeed: Pictures From #CharlieHebdo Solidarity Vigils Across The Globe\nhttp://t.co/x22sr7kOeL http://t.co/ElD0lXZW62”",
+            "user id": 2777192663,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeed \n😢🙉🙈🙊",
+            "user id": 393457695,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeed You're awesome! You're also featured on my @RebelMouse http://t.co/oDJ1TPntiU",
+            "user id": 150360761,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "Its been a profit source for them, its also been a method to spread hatred and bigotry around the Globe. Wake up, @BuzzFeed",
+            "user id": 348301649,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [],
+            "content": "@81KGB no sir, I did not. But in all fairness I haven't participated in any of the protests, either.",
+            "user id": 21547276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

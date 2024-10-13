@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "BREAKING: Injury reported after shooting at Canada’s War Memorial, near country’s Parliament, police say. http://t.co/k5lmH7nmsE",
+        "user id": 2097571,
+        "tweet id": "524928863714168832",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni http://t.co/ASq9UY6CC4",
+            "user id": 96966077,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@cnni: BREAKING: Injury reported after shooting at Canada’s War Memorial, near country’s Parliament. http://t.co/4lsgxMSHFF”#MCJ102FL14",
+            "user id": 1198580988,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni",
+            "user id": 605401945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

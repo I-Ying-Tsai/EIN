@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Rose petals and candles have been placed in the street where #MikeBrown's body laid. #Ferguson http://t.co/kCn4dHqNwQ",
+        "user id": 14090948,
+        "tweet id": "498280074941313024",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @scATX so sad.",
+            "user id": 133820471,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@AntonioFrench @jaythenerdkid the monkey? wait... what!?",
+            "user id": 261808801,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Basslands @AntonioFrench @jaythenerdkid God dammit. You're right. WTF?!!",
+            "user id": 1457834712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @UnToldCarlisle Racist monkey. Seriously? That's absolute crap.",
+            "user id": 1457834712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: Rose petals and candles have been placed in the street where #MikeBrown's body laid. #Ferguson http://t.co/Z6PgsOUUzo”",
+            "user id": 12710012,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

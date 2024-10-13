@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "The pen is mighter than the sword #JeSuisCharlie http://t.co/wYYLQLXChI",
+        "user id": 566312210,
+        "tweet id": "553181500104269824",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@heartsincamelot Je Suis Charlie.\n#JeSuisCharliePencil #CharlieHebdo #JeSuisCharlie http://t.co/Tscj14u3eU",
+            "user id": 420223654,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@TheJonnyAmerica @heartsincamelot awesome!!!!!!!",
+            "user id": 512246275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@heartsincamelot 100 RTs in 20 minutes... just shows how we all come together. Thoughts are with the families of those murdered.",
+            "user id": 566312210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@heartsincamelot @oluwashina powerful stuff.",
+            "user id": 1101308304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@heartsincamelot https://t.co/kvj71lxQ8i in 14 modern #languages &amp; #Greek #dialects @vallance22 #Canada &amp; retweeted http://t.co/zmTBwQjzDu",
+            "user id": 240114180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

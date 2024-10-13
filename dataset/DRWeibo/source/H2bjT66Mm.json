@@ -1,0 +1,1495 @@
+{
+    "source": {
+        "content": "【七天天气预报——降温已经安排上了】天气话你知超话 #小编精分日常# \n小编A：大家期待的明显降温的感觉要来啦\n小编A：什么时候来呀\n小编A：下周末\n小编A：……\n小编A：确实有点远，不过这几天也有弱冷空气哦，气温会比今天略低一点\n小编A：……\n小编A：雨雾时能见度较低，大家要注意交通安全哦",
+        "time": "18-11-11 16:05",
+        "user id": "2294193132",
+        "tweet id": "H2bjT66Mm",
+        "label": 1,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1614896020",
+            "user name": "爱听音乐的小魔怪",
+            "content": "只想降温不降雨",
+            "time": "18-11-11 16:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "那不行",
+            "time": "18-11-11 17:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "1614896020",
+            "user name": "爱听音乐的小魔怪",
+            "content": "",
+            "time": "18-11-11 17:13",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5,
+                7,
+                9,
+                11,
+                13
+            ],
+            "user id": "5210063586",
+            "user name": "M林深时见鹿MLH7",
+            "content": "冷空气：不了不了，你们继续做干蒸吧",
+            "time": "18-11-11 16:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [],
+            "user id": "5210063586",
+            "user name": "M林深时见鹿MLH7",
+            "content": "",
+            "time": "18-11-11 17:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                4
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "",
+            "time": "18-11-11 17:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [],
+            "user id": "5210063586",
+            "user name": "M林深时见鹿MLH7",
+            "content": "怕融化了，哈哈哈哈哈哈",
+            "time": "18-11-11 17:11",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "哈哈哈哈哈害怕被吃掉么",
+            "time": "18-11-11 17:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [],
+            "user id": "5210063586",
+            "user name": "M林深时见鹿MLH7",
+            "content": "感受到了来自广东的恶意，还是走了，哈哈哈哈哈哈，感觉我入戏太深了",
+            "time": "18-11-11 17:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "",
+            "time": "18-11-11 17:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [],
+            "user id": "5210063586",
+            "user name": "M林深时见鹿MLH7",
+            "content": "不不不",
+            "time": "18-11-11 17:01",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [
+                10
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "站住！",
+            "time": "18-11-11 17:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 13,
+            "children": [],
+            "user id": "5210063586",
+            "user name": "M林深时见鹿MLH7",
+            "content": "溜了溜了",
+            "time": "18-11-11 16:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "别跑",
+            "time": "18-11-11 16:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "1681176967",
+            "user name": "人囝囝",
+            "content": "龙娘已满破，等153",
+            "time": "18-11-11 16:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 16,
+            "children": [],
+            "user id": "6071710470",
+            "user name": "小小Kitty鱼",
+            "content": "惊了，怕不是今天游戏维护玩跑去肝爆（ps:来个好友号？）",
+            "time": "18-11-12 07:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 16,
+            "parent": 17,
+            "children": [
+                15
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "真是给面子",
+            "time": "18-11-11 17:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 18,
+            "children": [
+                16
+            ],
+            "user id": "1681176967",
+            "user name": "人囝囝",
+            "content": "会噶，3个10抽的情况下",
+            "time": "18-11-11 17:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 14,
+            "children": [
+                17
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "抽爆吗",
+            "time": "18-11-11 16:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "3808668328",
+            "user name": "期待8238",
+            "content": "唉，双十一默默的买了几件短袖",
+            "time": "18-11-11 16:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "是正常操作呀",
+            "time": "18-11-11 16:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "user id": "1748956322",
+            "user name": "廉廉廉廉茹",
+            "content": "今天跟夏天一样",
+            "time": "18-11-11 16:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": 23,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "嗯嗯，明天开始会低一点点",
+            "time": "18-11-11 17:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 24,
+            "children": [
+                22
+            ],
+            "user id": "1748956322",
+            "user name": "廉廉廉廉茹",
+            "content": "哈哈哈哈哈哈，居然翻我牌了明天没今天热吗？",
+            "time": "18-11-11 16:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 24,
+            "parent": 21,
+            "children": [
+                23
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "是早晚没那么热的夏天",
+            "time": "18-11-11 16:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                26,
+                27
+            ],
+            "user id": "1977756595",
+            "user name": "同传Rainmaker",
+            "content": "买了新羽绒服的我无语问苍天 网页链接",
+            "time": "18-11-11 16:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "好好供着",
+            "time": "18-11-11 17:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": 25,
+            "children": [],
+            "user id": "6068817815",
+            "user name": "很多事情是无法忘记的",
+            "content": "2017年冬天羽绒服都没穿上，还敢买羽绒服，我买几件短袖",
+            "time": "18-11-15 14:09",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [
+                29
+            ],
+            "user id": "2834625317",
+            "user name": "TTH是我",
+            "content": "确定下周末是降到20吗？收到请回复over！",
+            "time": "18-11-11 16:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "具体数值是有可能调整的啦，不过降温趋势不会变得",
+            "time": "18-11-11 16:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                31,
+                33
+            ],
+            "user id": "2877532814",
+            "user name": "光年外的人类",
+            "content": "这是我们双十一买的冷空气吗？",
+            "time": "18-11-11 19:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": 30,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "",
+            "time": "18-11-11 23:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 32,
+            "parent": 33,
+            "children": [],
+            "user id": "5026917282",
+            "user name": "一瓶无糖奶绿",
+            "content": "请给我链接，我买五份",
+            "time": "18-11-11 22:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [
+                32
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "谁悄悄下单了",
+            "time": "18-11-11 20:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [
+                35,
+                36,
+                37
+            ],
+            "user id": "1243219334",
+            "user name": "星际幽叶",
+            "content": "每到周末就是阴雨天的意思，。。。周一到周五上班日，天气灿烂，一到周六日，就呵呵呵",
+            "time": "18-11-11 19:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [],
+            "user id": "1243219334",
+            "user name": "星际幽叶",
+            "content": "我想周末也晴天阳光",
+            "time": "18-11-12 07:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 36,
+            "parent": 34,
+            "children": [],
+            "user id": "6124584444",
+            "user name": "-1心",
+            "content": "难道你想又上班又下雨吗，喵啊多难受",
+            "time": "18-11-12 01:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 37,
+            "parent": 34,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "",
+            "time": "18-11-11 20:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "6599865149",
+            "user name": "深圳市龙华新区五羊饰工艺品厂",
+            "content": "求告知什么时候可以真正入秋???我不求冬天了",
+            "time": "18-11-15 12:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [
+                40
+            ],
+            "user id": "5899449008",
+            "user name": "luckcaro",
+            "content": "小编，周末想去澳门，应该阴天不太美腻，还下雨~ 那为什么下周初温度又回来了呢~？",
+            "time": "18-11-14 14:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "预报结论每天都会更新的，请关注我们最新的预报消息哦",
+            "time": "18-11-14 15:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "1655414765",
+            "user name": "Hoja",
+            "content": "每次都发这个图就是了 网页链接",
+            "time": "18-11-14 13:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "2029361147",
+            "user name": "bbcwater",
+            "content": "月球天气预报",
+            "time": "18-11-13 11:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "user id": "2485233020",
+            "user name": "养咕咕鸡的PP",
+            "content": "广州天气提醒您该肝万圣复刻了",
+            "time": "18-11-12 21:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "user id": "5028439473",
+            "user name": "屁桃睡了吗",
+            "content": "周末降温后，还会再热回去吗？",
+            "time": "18-11-12 15:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [],
+            "user id": "2022271135",
+            "user name": "羽球小芬",
+            "content": "周日户外婚礼怎么破😂😂😂",
+            "time": "18-11-12 15:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "user id": "5449954931",
+            "user name": "肥妮珍珍_",
+            "content": "那时候双十一抢的衣服应该备上了哈哈哈哈",
+            "time": "18-11-12 13:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [],
+            "user id": "1718115193",
+            "user name": "sanchan",
+            "content": "今年究竟会不会冻啊，买到冷衫我觉得穿不上",
+            "time": "18-11-12 13:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "user id": "2655814204",
+            "user name": "-白雪与引生",
+            "content": "呵 我不信",
+            "time": "18-11-12 13:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "user id": "2858088462",
+            "user name": "零零隆隆",
+            "content": "别人穿着毛衣自拍。我穿着短袖自拍。棒棒哒",
+            "time": "18-11-12 12:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "user id": "1659754851",
+            "user name": "源老板的聚义堂",
+            "content": "我昨晚开起了空调-_-||",
+            "time": "18-11-12 12:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [],
+            "user id": "1816396813",
+            "user name": "某旦ArmChannel",
+            "content": "12月初会冷吗。。",
+            "time": "18-11-12 12:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [],
+            "user id": "1825377415",
+            "user name": "mairisa",
+            "content": "双十一下单了暖炉🙏",
+            "time": "18-11-12 12:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [],
+            "user id": "1686711840",
+            "user name": "中医通乳高医生",
+            "content": "昨天明显升温，搞得家长前段时间给小朋友穿的很厚，昨天又不得不减少衣服，生病儿童明显多了",
+            "time": "18-11-12 11:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 54,
+            "parent": -1,
+            "children": [],
+            "user id": "6278460436",
+            "user name": "少吃辣不长痘",
+            "content": "降温之后还会升上来吗",
+            "time": "18-11-12 11:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [],
+            "user id": "2397985804",
+            "user name": "一杯敬过往的KK大人",
+            "content": "求冷空气快点安排，我的毛衣也想被我安排",
+            "time": "18-11-12 10:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [],
+            "user id": "1977382367",
+            "user name": "mo豆糖",
+            "content": "还想着周末洗狗呢",
+            "time": "18-11-12 10:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "user id": "1733297117",
+            "user name": "nnlee9750",
+            "content": "再不降温蚊子快吃人了",
+            "time": "18-11-12 10:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [],
+            "user id": "1768487104",
+            "user name": "-CCaroline-",
+            "content": "26度也热死啦！",
+            "time": "18-11-12 10:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 59,
+            "parent": -1,
+            "children": [],
+            "user id": "2499349412",
+            "user name": "不要吃掉芋圆哦",
+            "content": "我可没有没有买外套，今天这么热我还多买了两件t恤 ",
+            "time": "18-11-12 00:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [],
+            "user id": "1212810367",
+            "user name": "梁柏翘Joei",
+            "content": "热啊，好热",
+            "time": "18-11-11 16:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "user id": "1995922263",
+            "user name": "郑小wenwen",
+            "content": "很热的周一",
+            "time": "18-11-12 09:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": -1,
+            "children": [],
+            "user id": "3084901033",
+            "user name": "_菜甜甜",
+            "content": "整篇对话都是小编A自言自语？",
+            "time": "18-11-12 08:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [],
+            "user id": "1851201061",
+            "user name": "悭D拉baby2002",
+            "content": "一早就热到满脑子汗！",
+            "time": "18-11-12 08:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 64,
+            "parent": -1,
+            "children": [
+                65,
+                66,
+                67
+            ],
+            "user id": "1838842152",
+            "user name": "猪蜜小爱可的养总彭",
+            "content": "下星期六下雨？有户外活动哦",
+            "time": "18-11-11 17:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 65,
+            "parent": 64,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "",
+            "time": "18-11-11 17:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 66,
+            "parent": 64,
+            "children": [],
+            "user id": "1838842152",
+            "user name": "猪蜜小爱可的养总彭",
+            "content": "回复 @广州天气:哭唧唧...要穿不过膝的短裙 我会冷死",
+            "time": "18-11-11 17:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 67,
+            "parent": 64,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "注意安全和保暖哦",
+            "time": "18-11-11 17:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 68,
+            "parent": -1,
+            "children": [
+                69
+            ],
+            "user id": "1791385850",
+            "user name": "Kayla0224",
+            "content": "啥时才能吃上西北风呀",
+            "time": "18-11-11 17:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 69,
+            "parent": 68,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "一周之后",
+            "time": "18-11-11 17:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 70,
+            "parent": -1,
+            "children": [
+                71
+            ],
+            "user id": "2658426380",
+            "user name": "秋尤嫣姬0",
+            "content": "也不知道今年毛衣能不能穿上",
+            "time": "18-11-11 17:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 71,
+            "parent": 70,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "真让人头大",
+            "time": "18-11-11 17:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 72,
+            "parent": -1,
+            "children": [
+                74,
+                75
+            ],
+            "user id": "5487979704",
+            "user name": "城岛溱",
+            "content": "我刚才把无限池抽完",
+            "time": "18-11-11 17:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 73,
+            "parent": 74,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "无解",
+            "time": "18-11-11 17:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 74,
+            "parent": 72,
+            "children": [
+                73
+            ],
+            "user id": "5487979704",
+            "user name": "城岛溱",
+            "content": "最遥远的距离",
+            "time": "18-11-11 17:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 75,
+            "parent": 72,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "苹果端的小编还在努力中",
+            "time": "18-11-11 17:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 76,
+            "parent": -1,
+            "children": [
+                77
+            ],
+            "user id": "6185065257",
+            "user name": "小满12月要去看雪啦",
+            "content": "开心，双十一没白剁手",
+            "time": "18-11-11 16:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 77,
+            "parent": 76,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "噗",
+            "time": "18-11-11 17:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 78,
+            "parent": -1,
+            "children": [
+                79
+            ],
+            "user id": "2003067391",
+            "user name": "小妖七七的回归",
+            "content": "看着购物车里的毛衣、大衣、皮裤不敢下单啊",
+            "time": "18-11-11 16:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 79,
+            "parent": 78,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "本来就很少用到呀",
+            "time": "18-11-11 17:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 80,
+            "parent": -1,
+            "children": [
+                81
+            ],
+            "user id": "5475066019",
+            "user name": "过夜蛋糕",
+            "content": "麻烦小雨 我不想跑操",
+            "time": "18-11-11 16:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 81,
+            "parent": 80,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "好吧",
+            "time": "18-11-11 16:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 82,
+            "parent": -1,
+            "children": [
+                83
+            ],
+            "user id": "2849927642",
+            "user name": "lamlamxy",
+            "content": "呀一周都有雨啊、那就洗不了床单",
+            "time": "18-11-11 16:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 83,
+            "parent": 82,
+            "children": [
+                84
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "如果不怕被局部的话",
+            "time": "18-11-11 16:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 84,
+            "parent": 83,
+            "children": [],
+            "user id": "2849927642",
+            "user name": "lamlamxy",
+            "content": "呀谢谢小编回复！好的，不怕被局部的去洗了！",
+            "time": "18-11-11 19:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 85,
+            "parent": -1,
+            "children": [
+                86
+            ],
+            "user id": "2722918425",
+            "user name": "闲食茶也",
+            "content": "冬装还没怎么卖，就在备明年春款了",
+            "time": "18-11-11 16:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 86,
+            "parent": 85,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "本来这边需求就不大呀",
+            "time": "18-11-11 16:48",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 87,
+            "parent": -1,
+            "children": [
+                88
+            ],
+            "user id": "1809481310",
+            "user name": "可可煮鸡蛋",
+            "content": "都不记得广州的20度要穿什么了，上次20度仿佛是很久很久以前的事了。。。",
+            "time": "18-11-11 16:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 88,
+            "parent": 87,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "哈哈哈哈哈哈哈哈一时间小编也想不起来",
+            "time": "18-11-11 16:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 89,
+            "parent": -1,
+            "children": [
+                90
+            ],
+            "user id": "1879517201",
+            "user name": "Ben明",
+            "content": "17-20",
+            "time": "18-11-11 16:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 90,
+            "parent": 89,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "已经不错啦",
+            "time": "18-11-11 16:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 91,
+            "parent": -1,
+            "children": [
+                92
+            ],
+            "user id": "1758981252",
+            "user name": "馨奇士果粒橙",
+            "content": "火锅券屯起来",
+            "time": "18-11-11 16:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 92,
+            "parent": 91,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "哈哈哈哈哈可以可以",
+            "time": "18-11-11 16:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 93,
+            "parent": -1,
+            "children": [
+                95,
+                96
+            ],
+            "user id": "2628106757",
+            "user name": "KevinK_K",
+            "content": "最低17°.果然系一件衬衫就可以解决.",
+            "time": "18-11-11 16:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 94,
+            "parent": 95,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "好吧",
+            "time": "18-11-11 17:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 95,
+            "parent": 93,
+            "children": [
+                94
+            ],
+            "user id": "2628106757",
+            "user name": "KevinK_K",
+            "content": "回覆@广州天气:都系因为冷空气唔给力.",
+            "time": "18-11-11 16:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 96,
+            "parent": 93,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "这么壮的吗",
+            "time": "18-11-11 16:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 97,
+            "parent": -1,
+            "children": [
+                98
+            ],
+            "user id": "2700399620",
+            "user name": "XY77心",
+            "content": "啊啊啊 为什么跟我想的一样啊  18号要回家 就降温",
+            "time": "18-11-11 16:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 98,
+            "parent": 97,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "注意安全哦！",
+            "time": "18-11-11 16:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 99,
+            "parent": -1,
+            "children": [
+                100
+            ],
+            "user id": "1852323751",
+            "user name": "夏之楓叮",
+            "content": "空气很差，要带个口罩😷",
+            "time": "18-11-11 16:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 100,
+            "parent": 99,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "没错",
+            "time": "18-11-11 16:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 101,
+            "parent": -1,
+            "children": [
+                102
+            ],
+            "user id": "1911619657",
+            "user name": "失物招领易拉罐",
+            "content": "神他妈龙娘……还是咕哒友军？",
+            "time": "18-11-11 16:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 102,
+            "parent": 101,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "事友军，不如点个赞吧",
+            "time": "18-11-11 17:02",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 103,
+            "parent": -1,
+            "children": [
+                104,
+                106
+            ],
+            "user id": "1749741932",
+            "user name": "熊本縣本田株式会社首席代言熊",
+            "content": "什么？！下周末？告辞",
+            "time": "18-11-11 16:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 104,
+            "parent": 103,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "",
+            "time": "18-11-11 17:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 105,
+            "parent": 106,
+            "children": [],
+            "user id": "1749741932",
+            "user name": "熊本縣本田株式会社首席代言熊",
+            "content": "汗流浃背11月了",
+            "time": "18-11-11 17:44",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 106,
+            "parent": 103,
+            "children": [
+                105
+            ],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "现在的年轻人这么没有耐性的",
+            "time": "18-11-11 17:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 107,
+            "parent": -1,
+            "children": [
+                108
+            ],
+            "user id": "2694633062",
+            "user name": "再累都要笑哈哈哈哈哈哈",
+            "content": "真的吗?",
+            "time": "18-11-11 16:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 108,
+            "parent": 107,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "坐等",
+            "time": "18-11-11 16:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 109,
+            "parent": -1,
+            "children": [
+                110
+            ],
+            "user id": "1645768437",
+            "user name": "丫真漂亮",
+            "content": "20℃，咱们分手吧，我不想再见到你了",
+            "time": "18-11-11 16:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 110,
+            "parent": 109,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "",
+            "time": "18-11-11 16:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 111,
+            "parent": -1,
+            "children": [
+                112
+            ],
+            "user id": "6196033953",
+            "user name": "小笨笨狗狗猪",
+            "content": "又想骗我买厚衣服",
+            "time": "18-11-11 16:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 112,
+            "parent": 111,
+            "children": [],
+            "user id": "2294193132",
+            "user name": "广州天气",
+            "content": "真的吗",
+            "time": "18-11-11 16:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 54,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 36,
+            "state_1": 7
+        },
+        "3-hop": {
+            "state_0": 10,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

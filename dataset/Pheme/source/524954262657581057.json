@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Our thoughts are with our nation's capital right now. Praying for those affected by today's tragic events at Parliament Hill in Ottawa.",
+        "user id": 15361389,
+        "tweet id": "524954262657581057",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@EdmontonOilers @_ThomasVanek Thanks Oilers",
+            "user id": 1680688580,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@EdmontonOilers pushing your sectarian religious beliefs? Now is not the time for praying to your god.There's atheists and Muslims there too",
+            "user id": 22751821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@montion @EdmontonOilers Jamie, this is NOT the time for that crap. Grow up.",
+            "user id": 24187839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@EdmontonOilers Jamie Green. Now's not the time to be pushing your religious agenda. You're pathetic.",
+            "user id": 345158357,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "MT @EdmontonOilers thoughts are with our nation's capital. Praying for those affected by today's tragic events at Parliament Hill in Ottawa",
+            "user id": 181064916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@EdmontonOilers @OctaneAdrienne can I have job?",
+            "user id": 461428190,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

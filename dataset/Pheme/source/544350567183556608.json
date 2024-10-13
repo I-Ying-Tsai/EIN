@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "We can see people coming out a firedoor near the Lindt cafe to waiting police. 2-3 people. Hard to see. #sydneysiege",
+        "user id": 25210650,
+        "tweet id": "544350567183556608",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@lucethoughts @Xenojay have they shot them",
+            "user id": 191330576,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@lucethoughts @774melbourne does it mean the hostage crisis is over ?",
+            "user id": 337597451,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": ".@KristinaSyk the latest...via @russian_market MT Putin absence due to girlfriend giving birth http://t.co/TdOhhuy3XH http://t.co/hRqXb1r0mb",
+        "user id": 2676385764,
+        "tweet id": "576321889276207105",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@anke_sf @KristinaSyk Hehe ja faktiskt varför inte, tokigare saker har ju hänt.",
+            "user id": 974710136,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Jagarchefen Eller hur? \"Und dann kommt doch alles anders als man denkt...\" @KristinaSyk",
+            "user id": 2676385764,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@anke_sf @KristinaSyk @russian_market This is by far my favorite theory, regardless of its probability :)!",
+            "user id": 2396755825,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

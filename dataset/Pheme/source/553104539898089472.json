@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "This is what Paris looked like last night #charliehebdo http://t.co/HLeIy0187C http://t.co/LFqlElCl6C",
+        "user id": 2461887810,
+        "tweet id": "553104539898089472",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@thei100: This is what Paris looked like last night #charliehebdo http://t.co/ckvhYOvPT9 http://t.co/5zeigNTw1B”",
+            "user id": 16663691,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#Paris standing strong: “@thei100: This is what Paris looked like last night #charliehebdo http://t.co/ccecBWOdCW http://t.co/3C4DuXrQCx”",
+            "user id": 16865661,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 @Independent Amazing turnout in #Paris defending #CharlieHebdo",
+            "user id": 38313468,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

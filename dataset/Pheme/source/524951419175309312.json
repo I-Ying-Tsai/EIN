@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "#BREAKING : 3rd shooting incident reported in #ottawa at Rideau Centre Mall",
+        "user id": 957502914,
+        "tweet id": "524951419175309312",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman Do you think this could be #IS / #ISIS related?",
+            "user id": 2723979715,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @CBCNews INSIDE the rideau centre or outside BY the mall????",
+            "user id": 491363571,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@cbcsaltzman and now reported as false.  No shooting at mall",
+            "user id": 278635502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@cbcsaltzman: #BREAKING : 3rd shooting incident reported in #ottawa at Rideau Centre Mall” Stay safe everyone involved!",
+            "user id": 518176436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @kellyoxford This was refuted by the mall it self.",
+            "user id": 44610597,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman Now they say not inside the Rideau Centre.",
+            "user id": 2683742138,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsaltzman @CBCNews There is an entrance to DND through the Rideau Centre.",
+            "user id": 176249183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        }
+    }
+}

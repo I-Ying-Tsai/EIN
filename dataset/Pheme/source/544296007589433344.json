@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Police: Operation dealing with \"armed incident\" in Sydney's Martin Place; people nearby urged to shelter in place - http://t.co/iqgdmiCDNh",
+        "user id": 28785486,
+        "tweet id": "544296007589433344",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ABC This is the bullshit that happens when you take peoples guns away..they are left defenseless",
+            "user id": 1206161593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@TexasLiberty15 @ABC yessir! I'll give you an amen to that one I was fixing to tweet the same thing l.",
+            "user id": 38990352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Sydney police - Kill them all!!!",
+            "user id": 344816505,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @GStephanopoulos #WorldTerror and #Mayhem. Let's keep calm about this. Who is good at it? #ISIL, #AlQuaeda, @Putin? #LookIntoIt",
+            "user id": 42565336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

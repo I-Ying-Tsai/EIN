@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "BREAKING: Australian police say #SydneySiege is over; cannot confirm status of gunman",
+        "user id": 28785486,
+        "tweet id": "544519635916169218",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@ABC: BREAKING: Australian police say #SydneySiege is over; cannot confirm status of gunman”",
+            "user id": 26615884,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@ABC: BREAKING: Australian police say #SydneySiege is over; cannot confirm status of gunman”",
+            "user id": 523467953,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC who comes up with this ridiculous hash tags?",
+            "user id": 969418525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Anyone interested in more news the hostage taker got agitated and forced police to come in and open fire. CPR was also used on a person",
+            "user id": 2783818447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC I couldn't care less about the gunman. How are the hostages?",
+            "user id": 305502995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "“@ABC: BREAKING: Australian police say #SydneySiege is over; cannot confirm status of gunman”",
+            "user id": 59612303,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@__Mo @ABC  Hopefully, he's pining for the fjords....",
+            "user id": 394703874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABC: BREAKING: Australian police say #SydneySiege is over; cannot confirm status of gunman",
+            "user id": 70617933,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABC: BREAKING: Australian police say #SydneySiege is over; cannot confirm status of gunman",
+            "user id": 774735289,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC hope he shot himself",
+            "user id": 615739534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC I thought everyone knew that Australians don't play, apparently I was wrong. Guy never had a chance!",
+            "user id": 377119331,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC #TORTUREREPORT #FALSEFLAG CIA BLACK OP LIES LIES LIES FAKE FAKE FAKE http://t.co/YFMRexNL1S",
+            "user id": 17436585,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC haron monis under ex name\nManteghi Boroujerdi says Aussaved him,own family hostage. http://t.co/16A0fVOegj http://t.co/Q4frIPRcCQ",
+            "user id": 2263772618,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

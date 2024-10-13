@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "\"I have never once in my life seen a fanatic with a sense of humor.\" --Amos Oz #CharlieHebdo",
+        "user id": 479793246,
+        "tweet id": "552815712432316417",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@warren_bass Correct.  They have no humour, no mercy and no shame. @londonnw8",
+            "user id": 17665641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Neither have I, unfortunately! RT“@warren_bass:\"I have never once in my life seen a fanatic with a sense of humor.\" --Amos Oz #CharlieHebdo”",
+            "user id": 44217047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

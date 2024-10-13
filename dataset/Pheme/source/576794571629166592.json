@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Palace coup? \"It's quite possible we are seeing the last days of the setting of the political star of V.V. Putin\" http://t.co/5fGilLyrXq",
+        "user id": 1265727487,
+        "tweet id": "576794571629166592",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Interpreter_Mag What comes next could be a whole lot worse...",
+            "user id": 2882523239,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "If it is a coup, here is what it may be happening: http://t.co/L1bBhA4mNz via @Interpreter_Mag #Putin #Russia #putindead | @RadioFreeTom",
+            "user id": 230067026,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Interpreter_Mag Yes, a palace coup.....the aliens took over.",
+            "user id": 2972998455,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Interpreter_Mag or maybe it's just a botox session gone wrong...",
+            "user id": 2896351425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Interpreter_Mag ...or it's a ruse to see who steps up",
+            "user id": 2896351425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@osli73 @Interpreter_Mag Such a ruse didn't turn out so well for Romeo and Juliet...",
+            "user id": 2314227096,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Interpreter_Mag @20committee major problem I have with coup scenario is by now one side or other should have moved hard /2",
+            "user id": 17879224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Interpreter_Mag @20committee how long were rumours circulating before GKChP putsch? Yakovlev knew something when he quit 24 hrs before.",
+            "user id": 17879224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Interpreter_Mag @boixserra el que tinc clar és que al que digui the interpreter més val no fer-hi gaire cas...",
+            "user id": 239875207,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

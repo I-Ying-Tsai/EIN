@@ -1,0 +1,433 @@
+{
+    "source": {
+        "content": "Reports of a plane crash near the French Alps, a GermanWings A320 http://t.co/WDso9Euyhp http://t.co/mpNENahmaW",
+        "user id": 100936791,
+        "tweet id": "580320890086383616",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "“@planefinder: Reports of a plane crash near the French Alps,GermanWings A320 http://t.co/ck9vxtZznK http://t.co/0vd82EaZPJ” @cruevertonian",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@JulieB_LFC  Think it was near a french village",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@JulieB_LFC Sad news....",
+            "user id": 583752274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@Steve_Gwen 180 on board just checking accounts now",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@tuggysts11 very.. No survivors",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@JulieB_LFC is it on the news?",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@JulieB_LFC French president recons they are all dead.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@JulieB_LFC It went down fairly rapidly...",
+            "user id": 583752274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                10
+            ],
+            "content": "@Steve_Gwen im not at home so not sure be hone soon I'll check sky",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                11
+            ],
+            "content": "@tuggysts11 yeah seen that.. Apparently there wasn't time for a sqwak to be sent it happened that fast",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@JulieB_LFC Well you best hurry, how am o supposed to discuss planes with you lol.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "@JulieB_LFC They'll no doubt find the black box and hopefully find out the cause.....",
+            "user id": 583752274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "@Steve_Gwen 😂😂 look at my RTs",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "content": "@JulieB_LFC ok but shouldn't we go for dinner first lol",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@Steve_Gwen 😂😂",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@JulieB_LFC Came down fast from 38000 ft my god wonder what caused it...",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [
+                17
+            ],
+            "content": "@JulieB_LFC sky news are covering it.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "content": "@Steve_Gwen just home",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [
+                19
+            ],
+            "content": "@JulieB_LFC those poor people.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [
+                20
+            ],
+            "content": "@Steve_Gwen apparently it happened that fast there wasn't time for a squawk to be sent ..",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21
+            ],
+            "content": "@JulieB_LFC it all seems very odd, must of had a masive drop in pressure, they would have to get bellow 10000 ft to breathe.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 14
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                22
+            ],
+            "content": "@Steve_Gwen says there was a sudden loss of altitude and the plane might Id stalked even tho it's rare for that plane.. It's mad",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 15
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [
+                23
+            ],
+            "content": "@JulieB_LFC yeah I know, they did manage a mayday, but they said it plummeted.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 16
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [
+                24,
+                25
+            ],
+            "content": "@Steve_Gwen it's crazy.. Too many air crashes these days",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 17
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "content": "@JulieB_LFC yes it's been a bad year, they are safe planes too.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 18
+        },
+        {
+            "comment id": 25,
+            "parent": 23,
+            "children": [
+                26
+            ],
+            "content": "@JulieB_LFC it dropped 5000ft per minute airline press conference at two.",
+            "user id": 192218238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 18
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "content": "@Steve_Gwen just tweeted that haha snap",
+            "user id": 86602719,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 19
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "12-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "13-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "14-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "15-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "16-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "17-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "18-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "19-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

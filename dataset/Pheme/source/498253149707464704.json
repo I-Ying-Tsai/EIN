@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Police of #Ferguson murdered a boy in cold blood. Now they're spinning the story &amp; intimidating the community into silence.",
+        "user id": 228120405,
+        "tweet id": "498253149707464704",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@JChiron18: Police of #Ferguson murdered a boy in cold blood. Now they're spinning the story &amp; intimidating the community into silence.”",
+            "user id": 181388264,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@JChiron18: Police of #Ferguson murdered a boy in cold blood. Now they're spinning the story &amp; intimidating the community into silence.”",
+            "user id": 19880027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

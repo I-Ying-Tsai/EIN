@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "If you are working in the Ottawa dowtown area; follow the instructions from the building management you are in. #ottnews",
+        "user id": 23937894,
+        "tweet id": "524944788525973505",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice\n Dale Lezon @DaleLezon",
+            "user id": 2706071510,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @dawntracz  sad sad news! I've been to Parliament twice, beautiful",
+            "user id": 620944092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

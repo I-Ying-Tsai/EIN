@@ -1,0 +1,464 @@
+{
+    "source": {
+        "content": "青岛封城了。全民居家隔离。街道不允许任何非批准人员流动。 ",
+        "time": "22-3-14 12:30",
+        "user id": "5715124024",
+        "tweet id": "LjG2EkDc2",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                9
+            ],
+            "user id": "3287128851",
+            "user name": "湘琴青岛分琴",
+            "content": "没封我举报你",
+            "time": "22-3-14 17:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5715124024",
+            "user name": "林夕0木子",
+            "content": "有病吧，你怎么不去拯救世界！闲的蹭热搜呢！",
+            "time": "22-3-21 18:29",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "6430237586",
+            "user name": "ishuniang",
+            "content": "哈哈",
+            "time": "22-3-20 22:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 3,
+            "parent": 6,
+            "children": [
+                2
+            ],
+            "user id": "5863848673",
+            "user name": "多特小将PD",
+            "content": "只有疫情潜在危险的地方啊，市内四区只是做核酸",
+            "time": "22-3-15 12:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 4,
+            "parent": 6,
+            "children": [],
+            "user id": "3866009734",
+            "user name": "胖胖的肥圆圆",
+            "content": "城阳多起，数一下市区有多少",
+            "time": "22-3-15 11:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "3287128851",
+            "user name": "湘琴青岛分琴",
+            "content": "那是城阳，不是青岛所有市区",
+            "time": "22-3-14 22:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 6,
+            "parent": 8,
+            "children": [
+                3,
+                4,
+                5
+            ],
+            "user id": "6430237586",
+            "user name": "ishuniang",
+            "content": "图片评论 查看图片",
+            "time": "22-3-14 22:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [],
+            "user id": "6430237586",
+            "user name": "ishuniang",
+            "content": "城阳好多小区",
+            "time": "22-3-14 22:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [
+                6,
+                7
+            ],
+            "user id": "3287128851",
+            "user name": "湘琴青岛分琴",
+            "content": "请问哪里？",
+            "time": "22-3-14 21:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "user id": "6430237586",
+            "user name": "ishuniang",
+            "content": "现在很多封了 你怎么感谢博主",
+            "time": "22-3-14 19:47",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "5715124024",
+            "user name": "林夕0木子",
+            "content": "青岛封城封的是快递，我们小区这天就是全部居家隔离，只进不出，小区都拦上了。所有餐饮门店营业活动场所学校等全关了，街道上就是禁止流动了。我有图，有真相！都脑子不好吧！闲的！",
+            "time": "22-3-21 18:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5715124024",
+            "user name": "林夕0木子",
+            "content": "我这发完后，今天刚开微博看到，有毛病吧…你是社会愤青吗？除暴安良？维护社会和谐？我自己的私人微博、而且确实接到了物业社区通知。我就自己感慨一句，我还得把主谓宾、前后语句都写清楚？",
+            "time": "22-3-21 18:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "2210464673",
+            "user name": "咪了个咪小喵",
+            "content": "倒也不是全青岛吧，市北崂山依旧在上班",
+            "time": "22-3-14 14:34",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "user id": "5521605623",
+            "user name": "哥的胸前开着小红花",
+            "content": "你哭啥，能上班还不好吗？我们小区封了，单位不同意居家办公，就是一分钱没有",
+            "time": "22-3-16 09:31",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "2210464673",
+            "user name": "咪了个咪小喵",
+            "content": "呢你哭吧",
+            "time": "22-3-16 15:45",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "1840937997",
+            "user name": "玻璃恋珠",
+            "content": "没有啊",
+            "time": "22-3-14 15:50",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "1950840873",
+            "user name": "八分厂凉皮代言人会暴富",
+            "content": "是城阳吧…",
+            "time": "22-3-14 14:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "2424745672",
+            "user name": "流浪的蓝色哈士奇",
+            "content": "包括即墨吗？",
+            "time": "22-3-15 04:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "5287275692",
+            "user name": "victory凡",
+            "content": "要封了吗？",
+            "time": "22-3-14 12:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "2060893802",
+            "user name": "只想清净清净一点",
+            "content": "脑子是个好东西，可惜不会用",
+            "time": "22-3-15 11:00",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5822142032",
+            "user name": "小泷包不蘸醋",
+            "content": "青岛？？？？你确定？",
+            "time": "22-3-15 11:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "5411587442",
+            "user name": "韩狗蛋二",
+            "content": "求求了大姐，别瞎说了行不",
+            "time": "22-3-15 10:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "6918102166",
+            "user name": "小伍哥xug",
+            "content": "胡话是要负法律责任的",
+            "time": "22-3-14 17:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "6901282257",
+            "user name": "Heishislover",
+            "content": "青岛哪？莱西吗🙃",
+            "time": "22-3-14 16:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "5142633354",
+            "user name": "超级无敌霹雳啪_",
+            "content": "城阳的很多小区封控了",
+            "time": "22-3-14 15:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "5672744611",
+            "user name": "柒柒呀丿",
+            "content": "没有吧，李沧还在上班啊？",
+            "time": "22-3-14 14:38",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "5404159058",
+            "user name": "今儿响叮当",
+            "content": "李沧没有啊",
+            "time": "22-3-14 13:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "1734093302",
+            "user name": "不可以胖胖子",
+            "content": "哪里啊？",
+            "time": "22-3-14 13:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "6223984246",
+            "user name": "梦梦梦梦盟",
+            "content": "真的么，我也听说了，不知道真假",
+            "time": "22-3-14 13:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "5992766344",
+            "user name": "臨時哭泣點_",
+            "content": "黄岛没封啊",
+            "time": "22-3-14 12:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "6529158700",
+            "user name": "谁不爱我宋哈娜",
+            "content": "哪里的消息呀…市内四区没有封，城阳也只封了几个小区呀",
+            "time": "22-3-14 12:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "1959643087",
+            "user name": "四喜Gero",
+            "content": "市区都封了？",
+            "time": "22-3-14 12:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "1923945582",
+            "user name": "每天想吃三文鱼",
+            "content": "不是只有城阳封了吗",
+            "time": "22-3-14 12:31",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "6490591762",
+            "user name": "晴朗的天空呵呵爱美丽",
+            "content": "全青岛吗？",
+            "time": "22-3-14 12:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 15
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

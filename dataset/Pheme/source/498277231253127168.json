@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Michael Brown was supposed to start classes at Vatterott College on Monday. Instead gunned down in street by #Ferguson police.",
+        "user id": 47475039,
+        "tweet id": "498277231253127168",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@sarahkendzior I'm a young angry person smh I'll be writing this later! Hoping to spread awareness!",
+            "user id": 23636341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@sarahkendzior if you have any more personal details about him, id love to share it",
+            "user id": 23636341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

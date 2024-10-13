@@ -1,0 +1,79 @@
+{
+    "source": {
+        "content": "《@张桐 再饰柔情硬汉 片场战火硝烟弥漫》 （分享自 @新浪娱乐 ）新浪娱乐讯 抗战题材电视剧《一个和八个》自开拍以来，一直受到众媒体及广大观众的强烈关注，其中很大一部分关注点都在主演——80后新晋实力派小生#张桐#身上。很多观众都知道，《一个和八个》取材于郭小川的…… http://t.cn/zRcCeOF",
+        "user id": 1359918671,
+        "tweet id": "3634064315604696",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@月飞月高 @经理人王寰 @王詩貽 @石小妞Bunny @幸福快乐关思婷 @白濤RONIN @北京羽菲 @丁爽 @河北小光 @青桐de时代 @笙磬桐音 @张桐加油2011 @张桐粉丝团",
+            "user id": 3800527075,
+            "user name": "北京新月明天文化传媒有限公司",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "content": "#一个和八个#桐桐的眼神好犀利哦 ！《一个和八个》值得大家期待！[爱你]",
+            "user id": 3424297880,
+            "user name": "一个和八个电视剧",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "",
+            "user id": 2884116403,
+            "user name": "老爸旋饼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2931965380,
+            "user name": "小o又鸟T",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "大家是不是喜欢张桐，反正我要一如既往观住他的",
+            "user id": 3153262357,
+            "user name": "觜宿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

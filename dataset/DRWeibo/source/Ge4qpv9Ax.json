@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "米脂事件开始删除帖子了。官方通报未成年，那网上传的照片到底是谁？搞不懂，孩子们都没了，也没换取一个真相。 ",
+        "time": "18-4-27 21:51",
+        "user id": "1822429632",
+        "tweet id": "Ge4qpv9Ax",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "2469662850",
+            "user name": "弱水煮牛肉",
+            "content": "不造谣会死？哪里开始删了？",
+            "time": "18-4-27 21:59",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "1892591547",
+            "user name": "拍砖王子_760",
+            "content": "哪个官方说未成年了？",
+            "time": "18-4-27 22:00",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "1892591547",
+            "user name": "拍砖王子_760",
+            "content": "又开始带节奏了！我只想说！那些带有煽动性的言论删的好！",
+            "time": "18-4-27 21:59",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "1822429632",
+            "user name": "三月弯刀",
+            "content": "是的",
+            "time": "18-4-27 22:02",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "1781076845",
+            "user name": "若水丢丢",
+            "content": "不造谣会死啊",
+            "time": "18-4-27 21:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "1822429632",
+            "user name": "三月弯刀",
+            "content": "对啊，把谣言者找出来，为什么华商报说他未成年？",
+            "time": "18-4-27 21:58",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "5514068793",
+            "user name": "馋你身子呀",
+            "content": "不是未成年，90年的",
+            "time": "18-4-27 22:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "1822429632",
+            "user name": "三月弯刀",
+            "content": "是的，媒体报道错了。所以简直是胡闹。",
+            "time": "18-4-27 22:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "1810819441",
+            "user name": "孙功旭Simon",
+            "content": "之前的第一时间一线报道可能有误，凶手为90年生人",
+            "time": "18-4-27 21:55",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "1822429632",
+            "user name": "三月弯刀",
+            "content": "是的，所以此人成年了，而且有行为能力。",
+            "time": "18-4-27 21:57",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "1880580831",
+            "user name": "陈剑殛",
+            "content": "眼瞎吧。。90年未成年？",
+            "time": "18-4-27 21:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "1822429632",
+            "user name": "三月弯刀",
+            "content": "所以不知道什么原因。",
+            "time": "18-4-27 21:53",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "5268966370",
+            "user name": "别特么给我乱吠",
+            "content": "米脂官微说了是90年的",
+            "time": "18-4-27 22:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 4
+        }
+    }
+}

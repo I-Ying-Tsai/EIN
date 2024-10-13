@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "Update - five more hostages have escaped from the Lindt cafe in Sydney city centre",
+        "user id": 87416722,
+        "tweet id": "544509086998749186",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@SkyNewsBreak @xkenerzDB #SydneySiege",
+            "user id": 189579869,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@WileyUpdates just retweeted me and I was like OMG but I forgot he follows me😂😂😂",
+            "user id": 291355998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "RT @SkyNewsBreak: Update - five more hostages have escaped from the Lindt cafe in Sydney city centre",
+            "user id": 64657863,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@prchovanec @SkyNewsBreak also loud bang and screaming",
+            "user id": 34002867,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak send in the #sas",
+            "user id": 349766971,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak If they are escaping cant the police go in the same way?",
+            "user id": 23231169,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak There was 6 escaped not 5 a man in white goes to the left first away from the other 5",
+            "user id": 179837791,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak how can they just kerp escaping? there should be more to the story#investigatemore",
+            "user id": 749000928,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak @Holbornlolz #2inthehead1inthechest",
+            "user id": 431590274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak 6 left the building,  one ran in a different way. The man on the floor is different to the one in the group!",
+            "user id": 50823122,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsBreak: Update - five more hostages have escaped from the Lindt cafe in Sydney city centre” these guys suck at keeping them hostage",
+            "user id": 701132841,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

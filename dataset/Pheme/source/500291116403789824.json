@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "Let's not forget that even if Mike Brown did shoplift, that's not why police said he was stopped or why he was shot. #mikebrown #ferguson",
+        "user id": 31352434,
+        "tweet id": "500291116403789824",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@OrionBuckingham And that is the point...forget an alleged shoplift over some swishers..Why was he executed? Unarmed?",
+            "user id": 17218594,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OrionBuckingham @drgoddess very true indeed !",
+            "user id": 181800015,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@OrionBuckingham @drgoddess noticed they said robbery and not shoplift.",
+            "user id": 275642056,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5,
+                6,
+                7
+            ],
+            "content": "Then there'z the jaywalking... #Ferguson #MikeBrown “@deebarc1: @OrionBuckingham noticed they said robbery and not shoplift.”",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@OrionBuckingham @SirTrillington according to their initial report Brown initiates contact. NOW the cop stopped him as a potential suspect?",
+            "user id": 121418106,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@drgoddess @deebarc1 @OrionBuckingham  Alleged use of force to allegedly push store person make it robbery and not shoplifting.",
+            "user id": 36449013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@drgoddess @deebarc1 @OrionBuckingham did they say he was  armed. Howdo you justify shooting an unarmed man?my bust he's blk U don't have 2",
+            "user id": 894422480,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@drgoddess @deebarc1 @OrionBuckingham  So still the police officer should be charged with 1st degree murder. Nothing changes that",
+            "user id": 36449013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                11
+            ],
+            "content": "#Ferguson “@legalspeaks: @deebarc1 @OrionBuckingham  Alleged use of force to allegedly push store person make it robbery and not shoplifting",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@legalspeaks @drgoddess @OrionBuckingham I'm all for truth and transparency. How what happened at store vilify cop shooting Brown?",
+            "user id": 275642056,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "#Ferguson “@legalspeaks: ...So still the police officer should be charged with 1st degree murder. Nothing changes that”",
+            "user id": 19468168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@drgoddess @legalspeaks @deebarc1 Too many questions still, descriptions not accurate to ANY especially a trained investigator, &amp; no 911?",
+            "user id": 1129319629,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@drgoddess @legalspeaks what 'beige' mammy name her son 'darren' unless for a black man or the trailer park?",
+            "user id": 579477995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

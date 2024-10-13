@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "What 14 British Muslims think about the Charlie Hebdo attack\nhttp://t.co/LDERW9d1LN http://t.co/KiT0OduVsC",
+        "user id": 1068121346,
+        "tweet id": "553226059836297216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @BuzzFeed Heartbreaking. #soitgoes",
+            "user id": 109986058,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @BuzzFeed what do the victims think?",
+            "user id": 261241914,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK \"Jesus Charlie\" #C http://t.co/hTh6JANqOa",
+            "user id": 96148306,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@BuzzFeedUK @BuzzFeed  Quran commands to kill infidels!  Allah will send them to Hell if they do not join the slaughter.",
+            "user id": 2784761424,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@MickSPrice @BuzzFeedUK @BuzzFeed \nStop being an idiot! http://t.co/VtGHx4vDr9",
+            "user id": 248021167,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuzzFeedUK: What 14 British Muslims think about the Charlie Hebdo attack\nhttp://t.co/68MH801d0q http://t.co/6JTIQQGbUq”",
+            "user id": 72381210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK @BuzzFeed So asking the moderates makes it all ok then? All religion is poison.",
+            "user id": 207980039,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedUK “Islam is worse than Nazism” by ex-Muslim poet from #Turkey\nhttp://t.co/NWzw8x2eoF \n#CharlieHebdo #JeSuisCharlie",
+            "user id": 1344297120,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@BuzzFeedUK @gaileryn How sad!!!",
+            "user id": 1493984264,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@CorinaMarvel @BuzzFeedUK yeah it is! Unjust deaths these were. #JeSuisCharlie",
+            "user id": 2527730201,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "What 14 British Muslims (including myself) think about the #CharlieHebdo attack\nhttp://t.co/TaY5sr1wde via @HKesvani @BuzzFeedUK",
+            "user id": 226672378,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

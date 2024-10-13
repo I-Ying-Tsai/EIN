@@ -1,0 +1,181 @@
+{
+    "source": {
+        "content": "Trayvon Martin. Jordan Davis. Renisha McBride. Mike Brown. Our streets are stained with the blood of unarmed, black teens. #Ferguson",
+        "user id": 65860206,
+        "tweet id": "498314939359301632",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@capetownbrown Chris Lane, Brad Heyka, Heather Muller, Aaron Sander, Jason Befort. One was jogging and the four others were in their house",
+            "user id": 75720265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@James1085 @capetownbrown not even the same thing. thanks for trying to excuse murder, real american you are!",
+            "user id": 17346499,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown @MissAbsinthe if this becomes another 2-year-Jackson-Sharpton media circus, i'm blocking race-baiting. A KID got shot. a guy.",
+            "user id": 2488864572,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown @HiJCP Fortunately Ann Coulter declared racism dead in America, so problem solved.",
+            "user id": 267454085,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown Especially in Chicago . Where is the outrage ?",
+            "user id": 65187918,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown @GrooveSDC all these names from the last couple of years.",
+            "user id": 232851192,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@capetownbrown @scottsmith349 SICK    http://t.co/cOpF2x4XHx",
+            "user id": 254809254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                11
+            ],
+            "content": "@matwilson6 @capetownbrown It's just Heartbreaking Man.",
+            "user id": 2331432673,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown http://t.co/QWSsRXYhiN",
+            "user id": 387587226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown Yeah and over 98% are due to their same race.\nBut let's focus on the 2% 😂😂😂😂",
+            "user id": 25156047,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@CMartin88 @capetownbrown I'm just saying it can happen to anyone",
+            "user id": 75720265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@scottsmith349 @capetownbrown ABSOLUTELY  !    http://t.co/cOpF2x4XHx\n\nKeep the faith  -KARMA LIVES !",
+            "user id": 254809254,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@matwilson6 @capetownbrown Always do.",
+            "user id": 2331432673,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

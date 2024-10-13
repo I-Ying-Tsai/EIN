@@ -1,0 +1,168 @@
+{
+    "source": {
+        "content": "Meet Ahmed Merabet, first officer on scene to die at #CharlieHebdo , #ParisShooting http://t.co/D5z1suuB7P",
+        "user id": 487600344,
+        "tweet id": "552983966932688897",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism @lsferguson Awwww... 🙏",
+            "user id": 1272713011,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@Bipartisanism the problem is Islam, it matters not a jot if Muslims are amongst the victims",
+            "user id": 48471001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mememdo the problem is hate/intolerance. If not religion the psychos will find something else to kill over - like race @Bipartisanism",
+            "user id": 2788991785,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@mememdo @Bipartisanism nasty comment to make about an officer dying in the line of duty. Condolences to all the families of victims.",
+            "user id": 130586799,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism Ironically tragic. He was a Muslim.",
+            "user id": 304691182,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism @lsferguson Killed in the line of duty.May God have mercy on your soul.",
+            "user id": 520401044,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism Ahmed Merabet. May God honour you.\nThere is only one God. To think that God can be diminished means that one's faith is weak.",
+            "user id": 2765484507,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism proving not all Muslims are terrorists...but these were.",
+            "user id": 149343637,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism I wonder if France's police will blame everyone BUT the shooters. Like NYPD.",
+            "user id": 181450119,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism A muslim victim of deranged muslims. RIP Ahmed Merabet!",
+            "user id": 1567581847,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "“@Bipartisanism: Meet Ahmed Merabet, first officer on scene to die at #CharlieHebdo , #ParisShooting http://t.co/wiJ2A2oDRC” 😔",
+            "user id": 451781294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@patrypl @Bipartisanism God Bless and sympathies to those that know and love him",
+            "user id": 122451514,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism @tee_reed May he rest in peace.",
+            "user id": 2461872043,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

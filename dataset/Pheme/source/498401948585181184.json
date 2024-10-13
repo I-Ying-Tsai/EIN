@@ -1,0 +1,142 @@
+{
+    "source": {
+        "content": "17-yr-old unarmed black kid #MikeBrown was murdered by a cop in #Ferguson, Missouri yesterday. This is his stepdad: http://t.co/p8mqVvh9GY",
+        "user id": 395836614,
+        "tweet id": "498401948585181184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "content": "He had his arms in the air but the policeman shot him 10 times. His body was left on the street for 4 hours http://t.co/Ojn5jdwhvo #Ferguson",
+            "user id": 395836614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@OccupiedTimes 😡😡😡😡😡",
+            "user id": 21663095,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@OccupiedTimes we seeing this as common practice on a global scales .. Wickedness ... Echo's The Murder of Londons Mark Duggan .London riots",
+            "user id": 21663095,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "@OccupiedTimes God bless this family, I hope they get justice. US is a society in collapse. Thnx for publicising.",
+            "user id": 2499577535,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@OccupiedTimes for real, seriously that's sad😖 what is society coming too??",
+            "user id": 2697182287,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@OccupiedTimes @JacksonsHIStory This has got to stop, we are all equal and deserve the same respect.",
+            "user id": 2489886546,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@OccupiedTimes then his unarmed son shouldn't have been stealing",
+            "user id": 910802034,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                9
+            ],
+            "content": "@King_haram @OccupiedTimes There is absolutely no excuse for the extra judicial execution of unarmed children, you utterly despicable person",
+            "user id": 474200660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@OccupiedTimes Mike Brown Tribute song, #DontShoot by K-Von. Please listen &amp; share this message! https://t.co/CmLw7aUIJF RT!",
+            "user id": 59619358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@Jacqueimo stfu if he wasn't stealing would even been in that situation",
+            "user id": 910802034,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

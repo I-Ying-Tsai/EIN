@@ -1,0 +1,167 @@
+{
+    "source": {
+        "content": "Shocked and disgusted about what's happening in Sydney... Those poor people trapped in that cafe.. #illridewithyou",
+        "user id": 286886892,
+        "tweet id": "544438653410639872",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@HarryKewell Blame the PC brigade making these fanatics feel as if they're \"right\"",
+            "user id": 2308597885,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HarryKewell flew into Sydney today for work. So shocking when we landed to hear about it. Very scary stuff and pray that all will be safe!",
+            "user id": 415910282,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@HarryKewell it's such a terrible time!!! #PrayForSydney",
+            "user id": 33816036,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@HarryKewell great tweet I love how we all push racism to the curb",
+            "user id": 42753869,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@HarryKewell this jadhidi group m8 need killing all of them. #PrayForSydneyHostages 🙏🙏🙏",
+            "user id": 88995489,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@basher1008 @HarryKewell Irony is complaining about religious loons and then praying to a sky pixie. FFS",
+            "user id": 872917746,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                10
+            ],
+            "content": "@basher1008 @tech_pearce @HarryKewell we need planetary unification before we should even dream of this",
+            "user id": 25609737,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@HarryKewell: Shocked and disgusted about what's happening in Sydney... Those poor people trapped in that cafe.. #illridewithyou” #fb",
+            "user id": 25440868,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@HarryKewell - @RitaPanahi thinks it's all BS http://t.co/gQyjnA2qeK",
+            "user id": 431185506,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@HarryKewell I live in the UK and my heart goes out to them. They must be so scared, wondering if they'll c their child, husband/wife again",
+            "user id": 52142359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 6,
+            "children": [
+                11
+            ],
+            "content": "@S94TM @tech_pearce @HarryKewell no kill you them all. Fuck they think are be heading innocent people cheeky bastards",
+            "user id": 88995489,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@basher1008 @tech_pearce @HarryKewell I replied to the wrong tweet.  my phone is bloated with malware.  idk  much of this topic.  my bad",
+            "user id": 25609737,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

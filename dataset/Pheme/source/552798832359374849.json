@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Our thoughts go out out to people at Charlie Hebdo and their families. Senseless violence is never the answer. http://t.co/YGscPqvtYM",
+        "user id": 194042592,
+        "tweet id": "552798832359374849",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cartoonmovement @robinince liblabcon voters can't destroy Western Europe quick enough,they're horrible horrible people",
+            "user id": 22490737,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cartoonmovement @EdzardErnst Which seems to suggest that violence, if it makes 'sense' is an answer of sorts...#JeSuisCharlie",
+            "user id": 256030065,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cartoonmovement how would the brain fly out when they have a towel wrapped around their heads? #Muslims",
+            "user id": 418721927,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Security bulletin from Parliament Hill: #ottawa http://t.co/79DHcPi530",
+        "user id": 15966995,
+        "tweet id": "524965077318107137",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@l_stone Belt trick. Take off your belt, fold it, jam it under the door like a door stop.",
+            "user id": 1081973952,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@l_stone @acoyne if your door doesn't lock? oh please let's fix THAT",
+            "user id": 1552882350,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

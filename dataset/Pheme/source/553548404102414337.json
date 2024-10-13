@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Still amazed by Uderzo's tributes to #CharlieHebdo. He's 87, but style, line, attitude unchanged. #InimitableGaul http://t.co/gerLPc0x3u",
+        "user id": 4126501,
+        "tweet id": "553548404102414337",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@mihirssharma superb",
+            "user id": 19929890,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@bdutt @mihirssharma lets pay our tributes to indian cartoonists wh commitd sucide after Uderzo's(87) http://t.co/IKSCAH9LnX",
+            "user id": 365948819,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mihirssharma If you are for free speech then this #tshirt is for you support #JeSuisCharlie #CharlieHebdo buy it now http://t.co/OwJbnPnzMx",
+            "user id": 1963662985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mihirssharma  Salute that person with GUSTO when many media bugs under fear!",
+            "user id": 823640412,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

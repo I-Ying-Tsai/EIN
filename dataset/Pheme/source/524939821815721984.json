@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "RT @ctvmercedes: Ottawa: don't tweet your location. Don't tweet the location of police units. Resist urge to look at what's happening",
+        "user id": 203123011,
+        "tweet id": "524939821815721984",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: #Ottawa Ottawa: don't #tweet your location. Don't tweet the location of police units. Resist urge to look at what's happening”",
+            "user id": 2159537998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @CTVMercedes lol",
+            "user id": 2431432212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @CTVMercedes and make sure shooters are NOT taken alive",
+            "user id": 1258326056,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @davidcollict @CTVMercedes fast to be the most responsible statement from a news station, wish more would do it.",
+            "user id": 40747060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@CTVNews @Peady @CTVMercedes I guess it's not safe on our patio?",
+            "user id": 46558416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "content": "@oldbakerman @CTVNews @CTVMercedes Stay inside. Just stay inside.",
+            "user id": 7623352,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @kelly_t_mac @CTVMercedes No. DO Look and wake up and realize the world is a scary place. Look dont Tweet",
+            "user id": 402425839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews  @CTVMercedes @dmartin_19",
+            "user id": 2859027206,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                9
+            ],
+            "content": "@Peady @CTVNews @CTVMercedes Too much shooting going on! #CityOfOttawa @JimWatsonOttawa &lt;---Help! save ME! The walk home is too far!",
+            "user id": 46558416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@oldbakerman Where are you, Winston? Stay put.",
+            "user id": 7623352,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@Peady Sorry I Stepped away from Twitter, Linda and I are indoors where we are safe!",
+            "user id": 46558416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@oldbakerman Good. Thank you for letting me know.",
+            "user id": 7623352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

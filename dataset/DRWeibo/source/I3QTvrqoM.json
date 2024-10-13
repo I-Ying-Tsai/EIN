@@ -1,0 +1,186 @@
+{
+    "source": {
+        "content": "某学校校长为了防止学生早恋，专门设计的这种校服！ ",
+        "time": "19-8-25 14:30",
+        "user id": "5547568925",
+        "tweet id": "I3QTvrqoM",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5256522532",
+            "user name": "俞与鱼芋",
+            "content": "???啥意思",
+            "time": "19-8-25 14:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "5546368936",
+            "user name": "cc小白6",
+            "content": "男生和女生站一块，这个亮条的形状是不一样的",
+            "time": "19-8-25 14:43",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "5256522532",
+            "user name": "俞与鱼芋",
+            "content": "哦😯",
+            "time": "19-8-25 17:07",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "2399010735",
+            "user name": "属于我的Dy",
+            "content": "不会不穿这衣服",
+            "time": "19-8-25 14:36",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "5196644539",
+            "user name": "笑颜Ryan",
+            "content": "是不是怕学生去小树林或者楼背角😂🙈🙈🙈",
+            "time": "19-8-25 15:21",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "1039729410",
+            "user name": "用户wmedbgxrhs",
+            "content": "年轻时不让早恋长大了又要催婚真难伺候",
+            "time": "19-8-25 15:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "6402684315",
+            "user name": "市宮神",
+            "content": "不是防早恋，是安全问题，此校服可让晚归学生晚上在外减少事故发生",
+            "time": "19-8-26 18:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5225318257",
+            "user name": "橘子果酱啊呢",
+            "content": "反光条",
+            "time": "19-8-25 19:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5923567073",
+            "user name": "菜I鸡",
+            "content": "全国最炫校服，不接受反驳。哈哈哈哈",
+            "time": "19-8-25 15:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "6989789364",
+            "user name": "日语老师taku哥哥",
+            "content": "换校服不行？",
+            "time": "19-8-25 14:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "6240990335",
+            "user name": "ALLwkk",
+            "content": "教育机构：不让早恋是对孩子的未来着想，早恋了成绩会下降。 我就想问，成绩好的，想要成绩好的真的会想早恋吗？别搞得好像学生都是恋爱脑一样！",
+            "time": "19-8-26 14:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "6203164519",
+            "user name": "嘻嘻哈哈sqq",
+            "content": "亮",
+            "time": "19-8-25 14:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "3518418035",
+            "user name": "甜甜甜馨儿nice",
+            "content": "@喜欢女生的直男",
+            "time": "19-8-25 16:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

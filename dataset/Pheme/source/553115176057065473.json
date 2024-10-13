@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "The moving tributes to the victims of the Charlie Hebdo shooting http://t.co/pxRaFxCWMP http://t.co/BMoDaSBcdZ",
+        "user id": 16973333,
+        "tweet id": "553115176057065473",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "\"@Independent: The moving tributes to the victims of the Charlie Hebdo shooting http://t.co/nBQ8M78vd8 http://t.co/lqKO6CXBK9\" &lt;Amazing",
+            "user id": 2756953204,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent who did this?",
+            "user id": 1277113134,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: The moving tributes to the victims of the Charlie Hebdo shooting http://t.co/ab9P8nv8qq http://t.co/SQn70WbyHh”",
+            "user id": 752726084,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Independent great cartoon @Kameleon1977 Faisal no !",
+            "user id": 351739907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@KnightsofChrist @Independent I know I've seen it , typical Faisal innit",
+            "user id": 879978907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent They polarize the homeless and people with limited education and  1-",
+            "user id": 244396093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent Or the holding of any in their homelands and their religion is their obedience and plain brainwashed2-",
+            "user id": 244396093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent  If it's okay if they left their homes and sought refuge in them to you3-",
+            "user id": 244396093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "LiveNation confirms that Prince will not be performing at Massey Hall tonight.",
+        "user id": 19636948,
+        "tweet id": "529723684454666240",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: LiveNation confirms that Prince will not be performing at Massey Hall tonight.” Sorry @SarahPSmart !",
+            "user id": 1488080096,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 Those ppl that waited in line are gonna be pissed.",
+            "user id": 24035263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 and here comes the (purple) rain..",
+            "user id": 29894737,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6
+            ],
+            "content": "“@CP24: LiveNation confirms that Prince will not be performing at Massey Hall tonight.” @PrecillaAldaz_",
+            "user id": 255268761,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@AnnzBananz @CP24 this was confirmed along time ago :) super awesome!",
+            "user id": 20957280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@AnnzBananz @CP24 @MSBalvin https://t.co/0NVbz5WoFm",
+            "user id": 20957280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@AnnzBananz @CP24 no way... :( lol",
+            "user id": 20957280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 @PopGoMomma ohhh bad decision!!!",
+            "user id": 175662236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 LMAOOOOOOOO",
+            "user id": 290245939,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 so this is what is sounds like, when doves.cry....",
+            "user id": 2264940392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 :o",
+            "user id": 425383187,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: LiveNation confirms that Prince will not be performing at Massey Hall tonight.” @AkariBatman HA!😒",
+            "user id": 403031191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

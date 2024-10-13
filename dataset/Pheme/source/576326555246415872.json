@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Is Putin in Switzerland with Kabayeva? I'm skeptical @StrebelLuca @BBCDanielS http://t.co/Hcax5bZoNo",
+        "user id": 90275200,
+        "tweet id": "576326555246415872",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ASLuhn @BBCDanielS Very skeptical indeed. Pretty thin evidence. If I see him, I will tell you! ;)",
+            "user id": 299328210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@StrebelLuca thanks man, keep an eye out!",
+            "user id": 90275200,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ASLuhn @StrebelLuca haven't see him either ;)",
+            "user id": 1854772404,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ASLuhn @StrebelLuca @BBCDanielS U r terminally skeptical, not 2 say cynical Alec. Not as slime-ridden as colleagues Shitford/Wanker however",
+            "user id": 308130306,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

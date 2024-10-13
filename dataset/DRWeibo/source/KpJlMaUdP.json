@@ -1,0 +1,208 @@
+{
+    "source": {
+        "content": "郑州海洋馆逃出来的鲨鱼、鳄鱼。 网页链接 ",
+        "time": "21-7-21 09:13",
+        "user id": "5533202744",
+        "tweet id": "KpJlMaUdP",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "3243126482",
+            "user name": "蓝海和他的3只猫",
+            "content": "传谣这么爽？",
+            "time": "21-7-21 09:50",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "5533202744",
+            "user name": "九洲风云",
+            "content": "不爽，没仔细看呵，抱歉！",
+            "time": "21-7-21 18:25",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "3243126482",
+            "user name": "蓝海和他的3只猫",
+            "content": "问题不大。",
+            "time": "21-7-21 23:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "5204188982",
+            "user name": "Zhovo",
+            "content": "假的",
+            "time": "21-7-21 09:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "5533202744",
+            "user name": "九洲风云",
+            "content": "",
+            "time": "21-7-21 18:27",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "6617101340",
+            "user name": "嗨吼武家二愣子",
+            "content": "删掉吧",
+            "time": "21-7-21 11:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "5533202744",
+            "user name": "九洲风云",
+            "content": "",
+            "time": "21-7-21 18:24",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "5986651118",
+            "user name": "这辈子只想做锦鲤",
+            "content": "假的，删掉吧",
+            "time": "21-7-21 09:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "5533202744",
+            "user name": "九洲风云",
+            "content": "谢谢！",
+            "time": "21-7-21 18:26",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "6701357588",
+            "user name": "豆瓣男神神",
+            "content": "举报了造谣",
+            "time": "21-7-21 09:34",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "5533202744",
+            "user name": "九洲风云",
+            "content": "谢谢",
+            "time": "21-7-21 18:23",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "7186312888",
+            "user name": "北方有个叫白宇的崽",
+            "content": "假的假的",
+            "time": "21-7-21 09:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "5533202744",
+            "user name": "九洲风云",
+            "content": "",
+            "time": "21-7-21 18:27",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "3789386490",
+            "user name": "Ro_yaung",
+            "content": "鳄鱼那个是外国的，查查原视频吧，造谣好玩吗？",
+            "time": "21-7-21 10:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

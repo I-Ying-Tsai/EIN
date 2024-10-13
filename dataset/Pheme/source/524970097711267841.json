@@ -1,0 +1,189 @@
+{
+    "source": {
+        "content": "Conservative caucas informed soldier shot at War Memorial in Ottawa this morning has died.  A sad development on a shocking day.",
+        "user id": 747398809,
+        "tweet id": "524970097711267841",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews sad",
+            "user id": 170539874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "So sad :-( “@cbcJillDempsey: Conservative caucas informed soldier shot at War Memorial in Ottawa this morning has died.”",
+            "user id": 41954836,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews many thoughts and prayers to his family",
+            "user id": 268392945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews very sad news.",
+            "user id": 495080703,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews news doesn't say that ????",
+            "user id": 23627768,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@cbcJillDempsey: Conservative caucas informed soldier shot at War Memorial in Ottawa has died.  A sad development on a shocking day.”",
+            "user id": 27443402,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews \n\ndid the DND tell you this?",
+            "user id": 20022064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews  so sad :(",
+            "user id": 23473776,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@cbcJillDempsey @mmdenisrc MP Kenney withdrew his tweet...confusion around...",
+            "user id": 1201868095,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@Mabergeron1974 @cbcJillDempsey @mmdenisrc info is sadly true",
+            "user id": 339847349,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews It's NOT up to MP's to release any info on anyone shot, let alone a Canadian Soldier. Think of the family!",
+            "user id": 15740635,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "@cbcJillDempsey @CBCNews has this been confirmed? Apparently Mr Kenny may be combining the 2 incidents from today and the other day in Qc",
+            "user id": 519562759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@VibezMediaIntl @cbcJillDempsey @CBCNews no info is sadly true",
+            "user id": 339847349,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @dangles70 RIP",
+            "user id": 448661662,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcJillDempsey @CBCNews Such sad news - thoughts and prayers to his family, friends, and military family. #dnd #military #hamilton",
+            "user id": 1408816128,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

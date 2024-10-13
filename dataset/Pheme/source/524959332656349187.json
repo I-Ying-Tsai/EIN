@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Police in Canada have confirmed to NBC that multiple gunmen were involved in what appears to be coordinated series of shootings in #Ottawa",
+        "user id": 21220931,
+        "tweet id": "524959332656349187",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeRussert call it what it is... Terrorism",
+            "user id": 17130275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeRussert a coordinated attack may not necessarily mean a terrorist attack in the context that people generally think of - NA. 2early2no",
+            "user id": 275624263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@LukeRussert @ott_deb obama said just coincidence, and be quiet he's teeing off.",
+            "user id": 2748447515,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@meileiend @LukeRussert @ott_deb Soldiers of your main ally due, and you use it as a moment to b this disrespectful abt us AND Potus? Wow.",
+            "user id": 16351985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeRussert @ddiamond isis recruits?",
+            "user id": 43763392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeRussert when will @mitchellreports @chucktodd n @morning_joe blame this on Obama?",
+            "user id": 51310793,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@LukeRussert Well, Canadians have not been told this by our national media, specifically the CBC. ???? #Ottawa",
+            "user id": 16351985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@vancouverboomer @LukeRussert @ott_deb duh huh?",
+            "user id": 2748447515,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "What we do and do not know about Germanwings flight 4U9525 http://t.co/9oV6x1lrrf http://t.co/ZFaHUwPx4B",
+        "user id": 16973333,
+        "tweet id": "580327960638521344",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: What we do and do not know about Germanwings flight 4U9525 http://t.co/oFw7TazDK2 http://t.co/PEb5T9kws0” anything. The end",
+            "user id": 3080919807,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent so anything?",
+            "user id": 3080919807,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @AmyLouiseHanna hahahahahaha you love planes so much ❤️✈️👉👌",
+            "user id": 731478738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

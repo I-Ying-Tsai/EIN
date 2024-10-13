@@ -1,0 +1,747 @@
+{
+    "source": {
+        "content": "The @NewYorker cartoonist's response to the #CharlieHebdo attack: http://t.co/uxDrVwl4M3",
+        "user id": 25190181,
+        "tweet id": "552845711289909248",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@danielnyari @joolsd @NewYorker this is the dumbest thing I've ever seen",
+            "user id": 2922827869,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@rebrandist @joolsd @NewYorker It's heavy handed but poignant nevertheless.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@danielnyari I think it was made in 2012, Daniel. But what a picture..",
+            "user id": 88984534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "@TPiccioni Sorry I should have clarified. Just found it relevant enough for today's event.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@danielnyari @KHShan @NewYorker Giving the Muslim terrorists exactly what they want. What an embarrassment to journalism!",
+            "user id": 29303201,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@gr8tale @KHShan @NewYorker It's satirical though.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@danielnyari @LauraVanVleet @NewYorker  Thank God Islam is the religion of peace, or they'd have killed two dozen.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@DanCChamberlain Be careful your ignorance and superficial views are showing.  @danielnyari @NewYorker",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "no, it's facile @danielnyari @joolsd @NewYorker",
+            "user id": 2922827869,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [],
+            "content": "@danielnyari of course it is. So powerful. (and in fact it was published in 2006 http://t.co/unkhye3TsN)",
+            "user id": 88984534,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@LauraVanVleet @danielnyari @NewYorker Coddle a religion that allows men to marry 12 year old girls, and cut the heads off those who object?",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@LauraVanVleet @danielnyari @NewYorker If Islam is a religion of peace, why would its practitioners live in fear of their fellow followers?",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                15,
+                16,
+                17
+            ],
+            "content": "@DanCChamberlain Jihadists don't represent every Muslim. &amp; to be so glib about the quantity of people murdered. @danielnyari @NewYorker",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@DanCChamberlain No organized religion was or is entirely peaceful. Remember the inquisition?  @danielnyari @NewYorker",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [
+                18,
+                19
+            ],
+            "content": "@DanCChamberlain @LauraVanVleet @NewYorker You know the majority of the Muslim population regularly condemn these brutal actions?",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 12,
+            "children": [],
+            "content": "@LauraVanVleet @DanCChamberlain @NewYorker agreed Laura. Let's not fall into the typical Western neo-liberal/right wing trap here.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 16,
+            "parent": 12,
+            "children": [
+                20
+            ],
+            "content": "@LauraVanVleet @danielnyari @NewYorker Glib? It's an atrocity and thank God the cartoonist hadn't upset the methodists...",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 17,
+            "parent": 12,
+            "children": [
+                21
+            ],
+            "content": "@LauraVanVleet I see you retweeted something about anti-bullying, yet you are defending a religion that allows a man to punish his wife?",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 18,
+            "parent": 14,
+            "children": [],
+            "content": "@danielnyari @LauraVanVleet Condemn? My God, tens of thousands of fellow Muslims can no longer condemn anything as their throats are cut!",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 19,
+            "parent": 14,
+            "children": [
+                22,
+                23,
+                24,
+                25
+            ],
+            "content": "@danielnyari @LauraVanVleet Condemn with what? Rhetoric? Then they are in good company. Rhetoric is in heavy supply in your camp.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 20,
+            "parent": 16,
+            "children": [],
+            "content": "@DanCChamberlain Okay, that made me laugh. @danielnyari @NewYorker",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 21,
+            "parent": 17,
+            "children": [
+                26,
+                27
+            ],
+            "content": "@DanCChamberlain There are many passages in the King James Bible that pretty much say the same thing. I defend no religion, but the people",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 22,
+            "parent": 19,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet Again the problem with your argument is that it's a blanket statement you can apply to any religion/ideology",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 23,
+            "parent": 19,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet which remains true. \"if christianity is religion of peace, etc\". for sake of argument let's presume any",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 24,
+            "parent": 19,
+            "children": [
+                28,
+                29
+            ],
+            "content": "@DanCChamberlain @LauraVanVleet ideology can be hijacked. fundamentalism often has nothing to do with religion but with authoritarianism.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 25,
+            "parent": 19,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet In this case it's the problem of a perception of cultural intrusion, fighting own temptation to integrate.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 26,
+            "parent": 21,
+            "children": [],
+            "content": "@LauraVanVleet Yes, that argument is often used. We \"used\" to allow slavery too, but the enlightened have moved on to the New Testament now",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 27,
+            "parent": 21,
+            "children": [
+                30
+            ],
+            "content": "@LauraVanVleet Just so you know, I'm not religious. I'm just tolerant of all religions as long as THEY are tolerant as well.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 28,
+            "parent": 24,
+            "children": [],
+            "content": "@danielnyari @LauraVanVleet Daniel, the \"fundamentals\" of Islam already place \"Man\" in a position of authoritarianism over woman.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 29,
+            "parent": 24,
+            "children": [
+                31
+            ],
+            "content": "@danielnyari @LauraVanVleet Christianity has accepted that woman is a partner. In spite of the Old Testament, Christianity does preach love.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 30,
+            "parent": 27,
+            "children": [
+                32,
+                33
+            ],
+            "content": "@DanCChamberlain Tolerance will not educate or make change. Quick naive judgments need more than just tolerance.",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 31,
+            "parent": 29,
+            "children": [
+                34
+            ],
+            "content": "@DanCChamberlain @LauraVanVleet Except against Homosexuals right?",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 32,
+            "parent": 30,
+            "children": [],
+            "content": "@LauraVanVleet Yes, quick naive judgements like all police are racists. There is more than enough naiveté to go around.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [],
+            "content": "@LauraVanVleet All religions are not equal. Religions that oppress based on sex, belief, sexual orientation etc cannot be supported. Period.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 34,
+            "parent": 31,
+            "children": [
+                35,
+                36,
+                37,
+                38,
+                39,
+                40
+            ],
+            "content": "@danielnyari @LauraVanVleet Wrong. I know of no western religious leader that promotes the persecution of gays. Isis tosses them to death!",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet What about the subject of gay union in the eyes of God? Look, this isn't the point. Yea there might be",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 36,
+            "parent": 34,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet varying degrees of interpretation of freedom, which is always relative to socio-economic context, etc but",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 37,
+            "parent": 34,
+            "children": [
+                41
+            ],
+            "content": "@DanCChamberlain @LauraVanVleet when we talk about terrorists THIS good/evil argument is the problem and avoids the fundamental questions",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 38,
+            "parent": 34,
+            "children": [
+                42,
+                43,
+                44,
+                45
+            ],
+            "content": "@DanCChamberlain No death by burning, true, but they make it clear gays are not welcome...  @danielnyari",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 39,
+            "parent": 34,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet which don't really have to do with religion. If you want to have that debate, that's separate and NOT",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 40,
+            "parent": 34,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet for you but the Muslim community to debate over.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 41,
+            "parent": 37,
+            "children": [
+                46,
+                47
+            ],
+            "content": "@danielnyari @LauraVanVleet The \"Fundamental\" question is, will Islamic leaders ever recognize the human rights of those who dissent?",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 42,
+            "parent": 38,
+            "children": [],
+            "content": "@LauraVanVleet @danielnyari Laura, again, I know of no sane Christian religious leader who preaches hate against gays. No one is excluded...",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 43,
+            "parent": 38,
+            "children": [],
+            "content": "@LauraVanVleet @danielnyari The whole \"marriage\" vs \"union\" debate is silly. However, journalists will allow the bashing of Christianity...",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 44,
+            "parent": 38,
+            "children": [
+                48,
+                49
+            ],
+            "content": "@LauraVanVleet @danielnyari even embrace it, but they run in fear of bashing Islam...almost religiously! Journalists are a fucking joke.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 45,
+            "parent": 38,
+            "children": [],
+            "content": "@LauraVanVleet @danielnyari Also, for the record, even \"moderate\" Islamic leaders for the most part, \"hate\" the existence of Israel.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 46,
+            "parent": 41,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet No it's not. Not in this argument. Because that's not what spawned ISIS and various fundamentalist groups.",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 47,
+            "parent": 41,
+            "children": [
+                50,
+                51,
+                52,
+                53
+            ],
+            "content": "@DanCChamberlain Recommended reading. \"hijacking of Islam by the Taliban\" http://t.co/C4Xxw3x1hr @danielnyari",
+            "user id": 31532999,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 48,
+            "parent": 44,
+            "children": [],
+            "content": "@DanCChamberlain @LauraVanVleet there's an argument for pro-western liberal anti Islam-bashing yes but its inverse also equally deterrable",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 49,
+            "parent": 44,
+            "children": [
+                54
+            ],
+            "content": "@DanCChamberlain @LauraVanVleet This quick read is gateway into right perspective towards issue i'll leave it at that http://t.co/9BENju8zyd",
+            "user id": 25190181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 50,
+            "parent": 47,
+            "children": [],
+            "content": "@LauraVanVleet @danielnyari Malala is a wonder. The UN pays lip service to her courage and cause.",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 51,
+            "parent": 47,
+            "children": [],
+            "content": "@LauraVanVleet @danielnyari No one \"Hijacked\" Islam. Islam made it possible to justify horrible acts in its name...",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 52,
+            "parent": 47,
+            "children": [],
+            "content": "@LauraVanVleet @danielnyari If the Catholics started murdering, journalists would immediately point to the Old Testament and say the bible..",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 53,
+            "parent": 47,
+            "children": [],
+            "content": "@LauraVanVleet @danielnyari taught the hate!",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 54,
+            "parent": 49,
+            "children": [],
+            "content": "@danielnyari @LauraVanVleet Guys, enjoyed it. I gotta cook supper for my wife or she'll beat me. Best to you.  Dan",
+            "user id": 326785759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 13
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "6-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "8-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "10-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "12-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "13-hop": {
+            "state_0": 1,
+            "state_1": 4
+        }
+    }
+}

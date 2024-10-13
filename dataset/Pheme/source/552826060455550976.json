@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Please enjoy this culturally, ethnically, religiously, and politically correct cartoon responsibly #CharlieHebdo http://t.co/L0ALhejpYu",
+        "user id": 320418413,
+        "tweet id": "552826060455550976",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PascalBarollier @xavier_alberti Ah oui, celui là il est bien halal... #CharlieHebdo",
+            "user id": 1374142200,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@PascalBarollier @pattheo @richardhetu @NewYorker sad cartoon but better than to insult a religion.",
+            "user id": 255222076,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@S_khal Islam; not any religion. Islam is more than religion. evil. @PascalBarollier @pattheo @richardhetu @NewYorker",
+            "user id": 1292788680,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PascalBarollier religion will die soon.logic will make sure of that.",
+            "user id": 335871995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PascalBarollier @LawfulRebelli0n no Muslims, Arabs nor pegida or afd-good ol terrorism #divideandrule we need a common #enemy #cia #mossad",
+            "user id": 1198993620,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PascalBarollier u drew Allah now... now they have to bomb u.",
+            "user id": 136303911,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

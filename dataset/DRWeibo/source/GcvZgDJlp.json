@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "#鸿茅药酒案最新进展# \n@内蒙古检察 ：指令@凉城县检察院 将该案退回公安机关补充侦查并变更强制措施。\n公安部：已责成内蒙古公安机关依法开展核查工作。@公安部打四黑除四害 @内蒙古公安厅指挥中心 ",
+        "time": "18-4-17 16:21",
+        "user id": "2389641745",
+        "tweet id": "GcvZgDJlp",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "6208409319",
+            "user name": "咔咔瘦砸",
+            "content": "@咔咔瘦砸: 两兄弟。 大哥，二弟我最近跨省抓了个嫌疑人，有空给判一下。 好的，二弟。 然后出事了。 二弟对大家说：跟我没关系，人在我大哥那。 大哥：人退给你，你这么做是不对的。！谴责你！ 二弟：呃，我想想，当初是谁让我抓的来着？谁打的招呼？",
+            "time": "18-4-17 16:26",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2389641745",
+            "user name": "AI财经社",
+            "content": "",
+            "time": "18-4-17 16:27",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "2389641745",
+            "user name": "AI财经社",
+            "content": "#鸿茅药酒案最新进展# 【谭秦东辩护律师：正在赶往凉城办取保候审手续】刚刚，谭秦东的辩护律师胡定锋接到检察院的通知称，可以办取保候审手续，把人接走。目前，胡律师正在从呼和浩特赶往凉城县看守所办理相关手续。（北京青年报）",
+            "time": "18-4-17 16:48",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "1143158391",
+            "user name": "潘二戒",
+            "content": "还是根据最高检指示",
+            "time": "18-4-17 23:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "3851586079",
+            "user name": "德布罗罗罗",
+            "content": "这些地方上的公安人员都不上网的吗？",
+            "time": "18-4-17 19:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "5607213052",
+            "user name": "蓝耳兔子I",
+            "content": "@ID手扶拖拉机: 请大家不要再黑鸿茅药酒了，这药酒确实有效果，而且有很长的历史沉淀，早在宋朝时期就有关于鸿茅药酒的记载。  施耐庵在古典文学《水浒传》上写到：那年那月那日，潘金莲温柔地对武大郎说：“大郎，你病了，该起来喝药了” 。 大郎说：“人固有一死，或重于泰山，或轻于鸿茅，我干了。",
+            "time": "18-4-17 16:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "2565303374",
+            "user name": "还是梦花泪海",
+            "content": "目无法纪，呼格吉勒图的声音还在，警察若是一直如此，那真是居心叵测。",
+            "time": "18-4-17 18:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "1195689251",
+            "user name": "磨磨唧唧的一只鱼",
+            "content": "大家都散了吧，没啥好说的，鸿茅国药集团的临时工指使凉城县公安分局协警干的，相关人员并不知情。",
+            "time": "18-4-17 16:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1828163444",
+            "user name": "Rackar",
+            "content": "饮鸿止渴",
+            "time": "18-4-17 23:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

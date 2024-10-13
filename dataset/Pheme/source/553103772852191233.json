@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The Image That Everyone Is Sharing isn't By Banksy — But It's Awesome. #CharlieHebdo http://t.co/YF1d7tvNwE http://t.co/UfBtgLRRYc",
+        "user id": 21291400,
+        "tweet id": "553103772852191233",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@dandemoustier @avcvdb \nVery nice, but the real solution is this: http://t.co/inOOD21zWe",
+            "user id": 199744293,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@dandemoustier @kirstymhall It is great though. @LucilleClerc is a very talented artist.",
+            "user id": 69882515,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@dandemoustier \nNo I didn't think it was Banksy but just that it  was a powerful message.\nSent it today on a postcard to Charlie Hebdo.",
+            "user id": 1673770003,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

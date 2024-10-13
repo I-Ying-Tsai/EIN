@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "PHOTO: Police release a photo of an accomplice to man who has taken at least five people hostage in Paris market: http://t.co/GdjPjbqbLs",
+        "user id": 51241574,
+        "tweet id": "553560480586166272",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AP Locate more photo here! http://t.co/6KRxOLohFk",
+            "user id": 2717034139,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@AP Just saw on TV a squad of French cops armed with WWII US M1 carbines.",
+            "user id": 225503094,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@TheodoreBNolan they probably had some Tikka T3 or something like that.",
+            "user id": 153166339,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@AP hmmm isn't the news shot down by French minister. He stated it's a false alarm.",
+            "user id": 1387046798,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                9
+            ],
+            "content": "@shawalras @AP hmmmm no that's another area",
+            "user id": 993203154,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AP These two #MuslimScum will be the new poster boy &amp; girl for #AndreaMitchell's &amp; #WolfBlitzer's #Netanyahu &amp; his next ignorant UN speech.",
+            "user id": 2560148358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AP Cuties teen girl in your area: http://t.co/A7xwOu4X1I",
+            "user id": 2587656930,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AP and the NFL Wants to play their.  Wake up.",
+            "user id": 1285944709,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AP Okay",
+            "user id": 2969487896,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [],
+            "content": "@Kennyrobinson83 @AP ah alright. Noted. Thanks.",
+            "user id": 1387046798,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

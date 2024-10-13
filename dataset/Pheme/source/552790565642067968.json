@@ -1,0 +1,147 @@
+{
+    "source": {
+        "content": "Jews, Catholics, Muslims, white people, black people. Everyone attacked by Charlie Hebdo, yet who reacts like this? http://t.co/gG5ZCJK9Ac",
+        "user id": 2579312316,
+        "tweet id": "552790565642067968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@EnaLolena Who else can it be? Fanatic Fundamentalists only can do this.",
+            "user id": 454909442,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@EnaLolena Do you already know? Please tell.",
+            "user id": 231741450,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@enalolena @quimmonzo religious fanatic.. flavour (jew, catholic, or musllim) is not the question..",
+            "user id": 808518342,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@GosCatala @QuimMonzo This shows that nobody reacts to the cartoons, in this way how react radical Islamists with terorist act!!!",
+            "user id": 2579312316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@EnaLolena @_shaytan666",
+            "user id": 947879461,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@EnaLolena @antoniorossi No al radical. Libertad de expresión, no al terrorismo de cualquier signo,  #JeSuisCharlie http://t.co/QQEn9TWFoI",
+            "user id": 102943871,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@EnaLolena the peaceful muslims!!!",
+            "user id": 2358527281,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9,
+                10
+            ],
+            "content": "@EnaLolena You can't blame an entire religion over an attack. Each group has extremist sections.",
+            "user id": 169237647,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@alichatur who blame?",
+            "user id": 2579312316,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@alichatur These cartoons show that this newspaper has not spared no one religion, but also that no one was killed because of caricatures",
+            "user id": 2579312316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "content": "@alichatur 2/ only radical islamist",
+            "user id": 2579312316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

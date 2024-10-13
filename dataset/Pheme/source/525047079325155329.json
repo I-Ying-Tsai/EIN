@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "I applaud @CBCNews for not speculating and only reporting what is known. American media could use some of this restraint. #OttawaShooting",
+        "user id": 90243293,
+        "tweet id": "525047079325155329",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ianp89 @CBCRadioCanada @CBCNews bullshit, CBC is is afraid of their skin they only report press releases now",
+            "user id": 16271356,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ianp89 @realag_lyndsey @CBCNews Just 'some'?\n\nWe need it by the bucketful.\n\nAlas, many of my fellow countrymen are mobile turnips.",
+            "user id": 2714803526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "@Othmar_Wonders @ianp89 @CBCNews It's been a rough day. CBC has done a hell of a job today. #welldone",
+            "user id": 53424213,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ianp89  And I applaud u for that recognition  I fully agree w u! Thx for that...",
+            "user id": 2778005963,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ianp89 \nEspecially since American media is HELPING the 2 spread their 💩 message! @CBCNews #OttawaShooting",
+            "user id": 157745193,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@realag_lyndsey @ianp89 @CBCNews No doubt.\n\nI followed along via @nationalpost - they did a very sharp job without bluster or hyseria.",
+            "user id": 2714803526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

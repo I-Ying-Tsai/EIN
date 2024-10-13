@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Story of Paris attack broke after our cartoon deadlines, so this will only appear in print tomorrow.\n#JeSuisCharlie http://t.co/jNiF6HJyEz",
+        "user id": 250056239,
+        "tweet id": "553103134210666497",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@madamevecartoon However, if you were really ballsy...",
+            "user id": 135798266,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@madamevecartoon:\n#JeSuisCharlie http://t.co/WIw4HSAN0m” Wonderful solidarity from SA cartoonists with Charb and CharlieHebdo",
+            "user id": 112984990,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Thank you! @madamevecartoon Paris attack tribute http://t.co/pvnlI2JI4f”",
+            "user id": 42723543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

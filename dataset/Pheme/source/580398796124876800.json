@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "PHOTO: Another image of crash site from #4U9525. (Pic via @laprovence) \n http://t.co/K4O8fxQqzn - @PollyR_Aviation",
+        "user id": 2280470022,
+        "tweet id": "580398796124876800",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@airlivenet @laprovence @PollyR_Aviation fake for sure",
+            "user id": 398225102,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@henryhaste @airlivenet @laprovence @PollyR_Aviation how is it fake?",
+            "user id": 1146487831,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@henryhaste @airlivenet @laprovence @PollyR_Aviation what a stupid comment",
+            "user id": 18845980,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @laprovence @PollyR_Aviation",
+            "user id": 196019844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "RT @airlivenet PHOTO: Another image of crash site from #4U9525. (Pic via @laprovence) \n  - @PollyR_Aviation http://t.co/PtWTI76Vci",
+            "user id": 567486774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                11
+            ],
+            "content": "@Kantucke @airlivenet @laprovence @PollyR_Aviation Jesus Christ! #prayers",
+            "user id": 62157278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "#Prayers RT“@airlivenet: PHOTO: Another image of crash site from #4U9525. (Pic via @laprovence) \n http://t.co/TaCMkBlPOn - @PollyR_Aviation”",
+            "user id": 1973012293,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @sadalabla omg",
+            "user id": 1281559164,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "ほんとに粉々。\n\n“@airlivenet: PHOTO: Another image of crash site from #4U9525. (Pic via @laprovence) \n http://t.co/PNBQzcgT9b - @PollyR_Aviation”",
+            "user id": 146728493,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@airlivenet: PHOTO: Another image of crash site from #4U9525. (Pic via @laprovence) \n http://t.co/mTSBRldlkq - @PollyR_Aviation”",
+            "user id": 220117227,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [],
+            "content": "@AndyB73 @airlivenet @laprovence @PollyR_Aviation it's recycled. Now bore off",
+            "user id": 398225102,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 5,
+            "children": [],
+            "content": "@jtrue28 @airlivenet @laprovence @PollyR_Aviation right, so sad",
+            "user id": 567486774,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

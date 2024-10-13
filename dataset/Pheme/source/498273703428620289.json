@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "The mother of #MikeBrown, the 17-year-old killed by #Ferguson police today, says her son was about to start at Vatterott College next week.",
+        "user id": 14090948,
+        "tweet id": "498273703428620289",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench The Faces Project paints portraits of children killed by gun violence &amp; donates the portraits to the victim's family.  #STL",
+            "user id": 22301728,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench I am in tears. This Mother has to bury her son instead of sending him off to college.  #ferguson #nojusticenopeace",
+            "user id": 1898991397,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AntonioFrench @crewoldt  Very sad story! Regards to the family!",
+            "user id": 28837388,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@9kittens @AntonioFrench I think they left because they knew America was watching. We need eyes everywhere. Sad for his mother and community",
+            "user id": 25346069,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench / Thanks for putting this message out here. Something Needs to be done . Praying for the family.#NoJusticeNoPeace",
+            "user id": 2494817430,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

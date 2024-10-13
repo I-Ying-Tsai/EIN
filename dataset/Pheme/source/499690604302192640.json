@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "im so, so glad there's such extensive social media coverage of what's going on in #ferguson. i fear we'd know nothing otherwise.",
+        "user id": 15932715,
+        "tweet id": "499690604302192640",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@brokeymcpoverty #Anonymous just released police dispatch audio. Dispath found out from NEWS media not police",
+            "user id": 110326494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@brokeymcpoverty yep...which is why the police were tear-gassing the media",
+            "user id": 17581953,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@brokeymcpoverty me too #ferguson",
+            "user id": 22708578,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@brokeymcpoverty my grandfather is shamed he said we took take of diversty in the 60s here it is again our turn I quess",
+            "user id": 448043662,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@brokeymcpoverty YOU TAKE BACK YOUR COUNTRY. http://t.co/ivY9Em1JLr http://t.co/2hZTZwES6p",
+            "user id": 2730032553,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@brokeymcpoverty @lizhenry the news is all about invading the family privacy of a dead celebrity at a sad time. No #Ferguson",
+            "user id": 155711076,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@brokeymcpoverty @deathrep no doubt. Who knows how many such incidents happened on the past and we knew nothing.",
+            "user id": 232851192,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@theonlyadult @brokeymcpoverty I'm sure their righteous voices were silenced. They can't do it now SM is instantaneous",
+            "user id": 45647641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": ".@brokeymcpoverty @AlliedStylesTK None. Social media is forcing them to cover what little they have. #Ferguson",
+            "user id": 18209248,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Picture of explosion in Dammartin-en-Goele.t all happened suddenly. http://t.co/6qFD7HaFSW",
+        "user id": 1280328260,
+        "tweet id": "553582465734832128",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ZorcJoze @evakropman fire",
+            "user id": 714046998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ZorcJoze @RobPulseNews stop making movies out of books as quick as they do. make a movie, then release a new book years apart.",
+            "user id": 929959202,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ZorcJoze @Herissident RPG7 impact !",
+            "user id": 1483295245,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ZorcJoze I am with ABC News in NY-did you take this photo/can we use for all partners/platforms? We will credit you. Thx, please be safe.",
+            "user id": 333026230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@aabramson Nope: http://t.co/uty0OQpt5A",
+            "user id": 1280328260,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ZorcJoze Thank you",
+            "user id": 204597340,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

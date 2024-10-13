@@ -1,0 +1,150 @@
+{
+    "source": {
+        "content": "辟谣请转发扩散⚠️、尽管电视台辟谣，紫菜塑料袋还是引起轩然大波！我想说的是，不管真假紫菜，买回去用打火机烧一下，真紫菜有种烧毛发的味道！为了家人的健康谨慎是对的！ 网页链接 网页链接 . ",
+        "time": "17-2-22 22:28",
+        "user id": "5893562732",
+        "tweet id": "EwLeHqb7o",
+        "label": 1,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "user id": "3506467752",
+            "user name": "凌小宁同学",
+            "content": "这么一大块塑料薄膜 你告诉我。打你脸吗？ ",
+            "time": "17-2-23 16:23",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2178755832",
+            "user name": "牛先生SS",
+            "content": "1.紫菜富含胶类等多糖物质，收割晾干后，富有韧性，遇到冷水就变得很坚韧，难以撕破。凝胶特性与水温有关。遇到热水后，紫菜就会变得松散。2.冷水浸泡紫菜产生红色水，遇热水会产生绿色属正常现象3.好紫菜的标准应有几大指标:颜色乌黑发亮，片形完整，叶面越细越好，煮后口感嫩脆",
+            "time": "17-2-24 02:15",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "2178755832",
+            "user name": "牛先生SS",
+            "content": "你这个完全可以去维权",
+            "time": "17-2-24 02:11",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "5893562732",
+            "user name": "飞龙映画",
+            "content": "我弟弟厨师，也遇到了这种塑料紫菜，我在微博发了，结果被黑手党屏蔽",
+            "time": "17-2-23 17:30",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "3506467752",
+            "user name": "凌小宁同学",
+            "content": "图片评论 查看图片",
+            "time": "17-2-23 17:26",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "user id": "5893562732",
+            "user name": "飞龙映画",
+            "content": "我发这个微博被新浪官方屏蔽，并警告我处罚我积分。就尼玛会屏蔽怕揭露事实真相。垃圾",
+            "time": "17-2-23 17:25",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "user id": "3506467752",
+            "user name": "凌小宁同学",
+            "content": "我是真吃出来了。 我买了几盘紫菜 煮锅里面 煮出来 黑色塑料袋 你告诉我 这一大锅菜 还能吃吗。你吃吗？",
+            "time": "17-2-23 17:22",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "user id": "5893562732",
+            "user name": "飞龙映画",
+            "content": "牛逼",
+            "time": "17-2-23 17:19",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1825263353",
+            "user name": "致富路上奔小康",
+            "content": "你烧下自己也着，你是什么做的？",
+            "time": "17-2-25 21:52",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "3107948687",
+            "user name": "4海8荒",
+            "content": "紫菜是很有营养的海产品",
+            "time": "17-2-23 09:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "UPDATE CRASH #4U9525 The arrivals board at Dusseldorf Airport http://t.co/wFg8KTSve2 http://t.co/P9d4CguBBi",
+        "user id": 2280470022,
+        "tweet id": "580339662096605184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@airlivenet there is no info on that flight. What happened?",
+            "user id": 287167329,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@JunpeiShibayama @airlivenet crashed, no survivors...",
+            "user id": 498025128,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@JunpeiShibayama @airlivenet I think, they are waiting oficial information from germanwings",
+            "user id": 2291114941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet so which flight number is this  GWI9525 or are we talking about to different flights here??",
+            "user id": 92775108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@airlivenet: UPDATE CRASH #4U9525 The arrivals board at Dusseldorf Airport http://t.co/OaYcl4Bkq2 http://t.co/y4g2jt1QDj”@BFMTV",
+            "user id": 496115505,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet sad day. hope they found some survivors. #4u9525 . sending my prayers to the families of the passengers. #God comfort them.",
+            "user id": 211512265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @La1_tve @antena3com @telecincoes",
+            "user id": 2219280755,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet Terrible",
+            "user id": 2339321969,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet keine Antwort ist auch ne Antwort....",
+            "user id": 1923713816,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

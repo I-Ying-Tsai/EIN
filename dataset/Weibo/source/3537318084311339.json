@@ -1,0 +1,836 @@
+{
+    "source": {
+        "content": "今日爆炸性新闻！！！@京华时报：@头条新闻：“赵本山涉黑转巨资被扣留”！ 想不到！有点意外！有点惊讶！有点不敢相信！[吃惊]",
+        "user id": 3197877895,
+        "tweet id": "3537318084311339",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "呦！不上春晚要挨办！ ",
+            "user id": 1745196625,
+            "user name": "郭什么什么",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊][吃惊][吃惊]",
+            "user id": 2504602245,
+            "user name": "WY阿哥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "[汗][疑问][疑问][疑问]求证！",
+            "user id": 2673965791,
+            "user name": "拈花微笑001",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "[吃惊][吃惊]不会吧",
+            "user id": 1804339503,
+            "user name": "张旾琇",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "爆炸好几次了。",
+            "user id": 2170510747,
+            "user name": "平民老百姓365",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "过时的，PS的。",
+            "user id": 1772042214,
+            "user name": "四眼看天",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "content": "老段子了！山寨报纸！",
+            "user id": 2432156943,
+            "user name": "刘晨阳2014",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "不是新闻了",
+            "user id": 1190016612,
+            "user name": "不太爱说话",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "拿着外籍护照装土鳖，忽悠13亿劳动人民[怒]",
+            "user id": 2692497115,
+            "user name": "70后的爱",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "以前小时候北京站总会有这种山寨小报，说什么伟人挂在国外，明星什么什么丑事。",
+            "user id": 1820749312,
+            "user name": "河囧蟹",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                13,
+                15,
+                16,
+                17
+            ],
+            "content": "转发微博",
+            "user id": 1792319067,
+            "user name": "小惠惠的小月月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12,
+                14,
+                18
+            ],
+            "content": "[围观][围观][围观][围观]",
+            "user id": 1273272781,
+            "user name": "sonic0905",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "[围观]",
+            "user id": 2250217655,
+            "user name": "幽_冥robert",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [
+                19,
+                26
+            ],
+            "content": "@京华时报 跟京华快报能一样么，西单那边天天卖这种小报儿，天天喊这个死了那个死了的",
+            "user id": 1233832242,
+            "user name": "滕竹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 11,
+            "children": [],
+            "content": "[嘻嘻]",
+            "user id": 1273272781,
+            "user name": "sonic0905",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 10,
+            "children": [],
+            "content": "[围观]",
+            "user id": 2155384681,
+            "user name": "绣手-旁观",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 10,
+            "children": [
+                21
+            ],
+            "content": "钱多烧的",
+            "user id": 1224404892,
+            "user name": "陈亚楠-CYN",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": 10,
+            "children": [
+                20
+            ],
+            "content": "嚯",
+            "user id": 2829399230,
+            "user name": "恬恬恬小静",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 11,
+            "children": [],
+            "content": "[吃惊][吃惊]",
+            "user id": 1919607517,
+            "user name": "大刘小温",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 13,
+            "children": [],
+            "content": "本山大叔不会涉黑吧，有点不敢相信",
+            "user id": 1967401124,
+            "user name": "北方的狼爷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 17,
+            "children": [],
+            "content": "真的假的啊？",
+            "user id": 2081676283,
+            "user name": "HR不会说",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": 16,
+            "children": [],
+            "content": "都有那么点事",
+            "user id": 1949502911,
+            "user name": "anselvip",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [
+                23
+            ],
+            "content": "阿得！",
+            "user id": 2397212423,
+            "user name": "源琪语博",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [
+                24,
+                25,
+                27,
+                28
+            ],
+            "content": "[挖鼻屎]真的么",
+            "user id": 1213608554,
+            "user name": "国安猴子宝猴子",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "content": "不会吧。。。",
+            "user id": 1153381302,
+            "user name": "BJ摩羯杰",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": 23,
+            "children": [
+                32
+            ],
+            "content": "[吃惊]",
+            "user id": 2201692444,
+            "user name": "流星的世界的世界",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 26,
+            "parent": 13,
+            "children": [],
+            "content": "山寨版的京华时报",
+            "user id": 1879188651,
+            "user name": "17上-6上郝队长",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 27,
+            "parent": 23,
+            "children": [
+                29
+            ],
+            "content": "这是山寨的“京华时报” 吧？",
+            "user id": 2112205975,
+            "user name": "国安白三爷",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 28,
+            "parent": 23,
+            "children": [],
+            "content": "真的假的啊？[吃惊]",
+            "user id": 1812320605,
+            "user name": "我是杨大蕊我什么都不怕",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 29,
+            "parent": 27,
+            "children": [],
+            "content": "这么大的“京华快报”……",
+            "user id": 1409330403,
+            "user name": "败家爷们",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                40
+            ],
+            "content": "转发微博",
+            "user id": 2907011265,
+            "user name": "章鱼爱国安",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [
+                34
+            ],
+            "content": "我也不敢相信，《京华时报》拢共就四个字儿，博主愣能看错25%…………[挖鼻屎]",
+            "user id": 1647562525,
+            "user name": "先知维纶",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": 25,
+            "children": [
+                33
+            ],
+            "content": "这要唱哪出啊",
+            "user id": 1782578705,
+            "user name": "月光轻语",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [],
+            "content": "真的假的！",
+            "user id": 1832749190,
+            "user name": "肥肥丫爱肥肥",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 34,
+            "parent": 31,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 1880377622,
+            "user name": "北京-LIV8",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [
+                36
+            ],
+            "content": "转发微博",
+            "user id": 1171190765,
+            "user name": "行空大师",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [
+                37,
+                38
+            ],
+            "content": "介个。。。",
+            "user id": 2170509834,
+            "user name": "刘长青微博",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 37,
+            "parent": 36,
+            "children": [
+                39
+            ],
+            "content": "求辟谣",
+            "user id": 1496911830,
+            "user name": "王岩---37地产",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 38,
+            "parent": 36,
+            "children": [],
+            "content": "真的吗？",
+            "user id": 2112922002,
+            "user name": "销售管理变革",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 39,
+            "parent": 37,
+            "children": [],
+            "content": "[疑问]",
+            "user id": 2412891833,
+            "user name": "中国人爷",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 40,
+            "parent": 30,
+            "children": [],
+            "content": "我没觉得新鲜，因为一个艺人跟当官的混，你付出的不是尊严而是生命。",
+            "user id": 2813513061,
+            "user name": "字的意思",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "content": "酒归酒，烟归烟，泥沙归泥沙，江河归江河。",
+            "user id": 1446343612,
+            "user name": "光传过疾",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "content": "你信么?我信!因为没有什么可信的，所以什么都要信!",
+            "user id": 1050830523,
+            "user name": "丁晖培训",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [
+                44
+            ],
+            "content": "转发微博",
+            "user id": 3186420187,
+            "user name": "新疆切糕A",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": 43,
+            "children": [],
+            "content": "",
+            "user id": 2890186764,
+            "user name": "肥猫老伯伯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [],
+            "content": "这条新闻隔一段时间又冒出来一次",
+            "user id": 1854911715,
+            "user name": "lzscript",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "content": "等着看后续",
+            "user id": 1896881775,
+            "user name": "21g简单设计",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [
+                49,
+                52,
+                53,
+                58,
+                62,
+                63
+            ],
+            "content": "这个暴发户终于被抓了？",
+            "user id": 1248097471,
+            "user name": "水银河",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "content": "啊？",
+            "user id": 1499096633,
+            "user name": "老-铁锤",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": 47,
+            "children": [
+                50,
+                54,
+                57
+            ],
+            "content": "地铁小报吧",
+            "user id": 1061829590,
+            "user name": "侯琳飞",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 50,
+            "parent": 49,
+            "children": [
+                51
+            ],
+            "content": "今天没有山西矿工 刘德华 的死讯？",
+            "user id": 1400215320,
+            "user name": "白云飞",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 51,
+            "parent": 50,
+            "children": [],
+            "content": "不是死了很多年了么?",
+            "user id": 1990349982,
+            "user name": "立志做个技术宅",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 52,
+            "parent": 47,
+            "children": [],
+            "content": "求证？",
+            "user id": 1417744613,
+            "user name": "敬而远之我见",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 53,
+            "parent": 47,
+            "children": [],
+            "content": "真的假的？",
+            "user id": 1971275397,
+            "user name": "匡岩峰",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 54,
+            "parent": 49,
+            "children": [],
+            "content": "[围观]地铁小报啊！不仔细看真以为是“京华时报”呢",
+            "user id": 2234483065,
+            "user name": "飘飘宝贝888",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [],
+            "content": "京华时报的小蜜报 @简光洲 对不对.[偷笑]",
+            "user id": 1715231164,
+            "user name": "vanstar",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [],
+            "content": "逗网友一笑,说明本山形象不佳,事实上,赵本山,刘翔,雷锋是中国最大的忽悠,整整害了一代人",
+            "user id": 1715231164,
+            "user name": "vanstar",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 57,
+            "parent": 49,
+            "children": [
+                59,
+                60
+            ],
+            "content": "@微博辟谣",
+            "user id": 1476952867,
+            "user name": "饭稀",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 58,
+            "parent": 47,
+            "children": [],
+            "content": "不会吧~",
+            "user id": 1819448845,
+            "user name": "匹诺曹dairy",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 59,
+            "parent": 57,
+            "children": [],
+            "content": "没看见那是“京华快报”吗？不是@京华时报",
+            "user id": 1404093580,
+            "user name": "一小一",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 60,
+            "parent": 57,
+            "children": [],
+            "content": "快报和时报，一字之差！就像松花江和松花蛋的区别！",
+            "user id": 1251174587,
+            "user name": "高明",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "content": "希望是真料！",
+            "user id": 3022459867,
+            "user name": "朝河水曲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": 47,
+            "children": [],
+            "content": "这是什么时候的消息啊？没听到过啊~~",
+            "user id": 1681174563,
+            "user name": "雨中浮萍_bertonl",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 63,
+            "parent": 47,
+            "children": [],
+            "content": "赵本山不是暴发户，天朝官员才是暴发户。名人说话也得靠谱。[ok]",
+            "user id": 1613129084,
+            "user name": "刘弈茹还叫小米",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 64,
+            "parent": -1,
+            "children": [],
+            "content": "爆炸新闻",
+            "user id": 1180047651,
+            "user name": "山海一色",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 65,
+            "parent": -1,
+            "children": [],
+            "content": "博主没有说是他们的报纸刊登！！！@京华时报：@头条新闻：，仅仅是“捆绑”，强迫看而已。",
+            "user id": 3186652765,
+            "user name": "青稞酒K",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊][吃惊][吃惊]",
+            "user id": 1998533033,
+            "user name": "coolronny",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 15
+        },
+        "2-hop": {
+            "state_0": 10,
+            "state_1": 8
+        },
+        "3-hop": {
+            "state_0": 11,
+            "state_1": 6
+        },
+        "4-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

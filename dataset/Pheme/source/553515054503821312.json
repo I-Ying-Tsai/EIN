@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Update - French media: identified suspect in #Paris policewoman killing is known associate of suspected #CharlieHebdo gunman Cherif Kouachi",
+        "user id": 87416722,
+        "tweet id": "553515054503821312",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak another crazy muslim!! \n#illridewithyou",
+            "user id": 249130717,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak let's hope these cowards die in a slow painful way ..I don't give a shit about their legal rights etc",
+            "user id": 1344175285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak please provide proof if they did it.why no blood in shooting of policeman",
+            "user id": 76779374,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak they wrong if they did it",
+            "user id": 76779374,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak So with so much police presence at #CharlieHebdo scene near airport how secure is the rest of #Paris from other associates?",
+            "user id": 221804660,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak how come perpetrators leave Id at scene of crime",
+            "user id": 76779374,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        }
+    }
+}

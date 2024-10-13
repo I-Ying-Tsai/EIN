@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "All bus service in downtown Ottawa is currently under major detours. Details: http://t.co/hcXDtQ7uLK",
+        "user id": 126447030,
+        "tweet id": "524947604690702336",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @OC_Transpo: All bus service in downtown Ottawa is currently under major detours. Details: http://t.co/kxWlL27Uuu",
+            "user id": 551142028,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @OC_Transpo: All bus service in downtown Ottawa is currently under major detours. Details: http://t.co/rP5R8XSn13",
+            "user id": 35303265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@OC_Transpo cc @Grasswire",
+            "user id": 240039489,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@OC_Transpo @dischordani",
+            "user id": 92468659,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@OC_Transpo All buses using Laurier??? Why can I see buses on Albert on GPS???",
+            "user id": 228838883,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

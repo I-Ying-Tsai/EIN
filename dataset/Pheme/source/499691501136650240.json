@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "#Ferguson cops keep complimenting crowd, says we're working together on this, crowd not buying it chant \"hell no we won't go\"",
+        "user id": 17068692,
+        "tweet id": "499691501136650240",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PDPJ Is it me or does the guy on the PA sound like John Ulett?",
+            "user id": 28628390,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "So let me get this straight, @PDPJ, #Ferguson cops are complimenting peaceful protesters while pointing rifles and scopes at them? Got it.",
+            "user id": 45411487,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PDPJ Thank you for cooperating while I have several machine guns pointing at your head.",
+            "user id": 1543242296,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@PDPJ #Ferguson cops keep complimenting crowd, says we're working together on this, crowd not buying it chant \"hell no we won't go\"Turn",
+            "user id": 27601528,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

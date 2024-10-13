@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "This is well written and comforting as well. #sydneysiege #SydneyHostageCrisis http://t.co/mdJvf6NEdf",
+        "user id": 98057278,
+        "tweet id": "544357264333615104",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@arlinabanana Don't know who wrote this, but it's the most intelligent commentary I've seen so far! 🏆 👏 🌟\n#sydneysiege #auspol",
+            "user id": 140315951,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@AB_Owl my friend wrote this!",
+            "user id": 98057278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@arlinabanana maybe the wider Islamic community should be doing more themselves to stop these things happening #justsaying",
+            "user id": 260679786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@arlinabanana Those poor muslims r stereotyped with every bombing, stoning, acid facial, child marriage, and terrorist attack.#excuses4evil",
+            "user id": 2410116193,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@arlinabanana Congratulations to them!! A terrific comment!!",
+            "user id": 140315951,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

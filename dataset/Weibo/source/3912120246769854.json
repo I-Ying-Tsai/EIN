@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "我会渐渐和你保持距离，直到和你再也没有关系。",
+        "user id": 2287681313,
+        "tweet id": "3912120246769854",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "[心]",
+            "user id": 5682254830,
+            "user name": "用户5682254830",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "我以为不会想念，没想到我会哭泣",
+            "user id": 5217510578,
+            "user name": "我以为你是女生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "[good]",
+            "user id": 5570234432,
+            "user name": "同芯难改",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "慢慢的淡去比猛然分开更让人心酸",
+            "user id": 1365103154,
+            "user name": "不二良人vip",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "心情",
+            "user id": 5098901565,
+            "user name": "我家大男神-Jason",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "[月亮]",
+            "user id": 5685281882,
+            "user name": "Mia王馨妤",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        }
+    }
+}

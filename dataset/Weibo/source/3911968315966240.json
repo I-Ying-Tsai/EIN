@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "柠檬水，你喝对了吗？不同的做法，有不同的效果哦～",
+        "user id": 3613440743,
+        "tweet id": "3911968315966240",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "(*ﾟ∀ﾟ*)",
+            "user id": 5310929099,
+            "user name": "鸳相抱之",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

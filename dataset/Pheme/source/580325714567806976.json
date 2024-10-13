@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "French President Hollande says that he expects there to be \"no survivors\" in the Germanwings plane crash. 148 passengers reportedly onboard.",
+        "user id": 24165761,
+        "tweet id": "580325714567806976",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik Oh no. #prayers 🙏",
+            "user id": 148294757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik //sorry to hear that. Our prayers to victims &amp; families",
+            "user id": 2999184193,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MichaelSkolnik the last 10 minutes had a steady directional decent of about 3000 ft per minute. Strange! Pilots may have tried to land",
+            "user id": 2752548731,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

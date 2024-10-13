@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "Timing of Parliament shootings - an hour later and 200+ MPs and dozens of reporters would have been in hall where shooting took place",
+        "user id": 16307818,
+        "tweet id": "524960247518330881",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen My stomach just turned reading that.",
+            "user id": 278771183,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen Well that's good to know for the next attack",
+            "user id": 188821336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen stay safe, Nathan!",
+            "user id": 48340786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@nathancullen Pretty poorly planned attacks if you asked me.   Don't let the Gov't use this to railroad through their draconian legislation.",
+            "user id": 2318216868,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@Drew675r  Disgraceful. This just happened, to a Canadian, in Canada. Save your Harper hate for another day please. http://t.co/ZsL5iVMgDy",
+            "user id": 250094359,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen @christofow that's a sobering thought. Wow.",
+            "user id": 380363643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen @althiaraj Perhaps that's the type of non-news info shouldn't be tweeted, for security reasons?",
+            "user id": 473916623,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen @CKNW dumbass",
+            "user id": 306880668,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen @WoodfordCKNW98",
+            "user id": 283763415,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen @WoodfordCKNW980 not exactly classified information",
+            "user id": 283763415,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen Why not just hand the attacker(s) your personal itinerary? I'm sorry, but this isn't a smart tweet to make &amp; should be removed",
+            "user id": 74484364,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@nathancullen so if shooter came an hour later he might have killed multiple MP's &amp; reporters. Which Minister will resign? #ottawashooting",
+            "user id": 246667561,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@RickFuerst I beg to differ.   This is exactly the time for cooler heads to prevail.",
+            "user id": 2318216868,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@Drew675r cooler heads being? What exactly does that mean in light of what has/is happening?",
+            "user id": 250094359,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@Drew675r there's a dead Canadian soldier. Today. Shot for no reason. I refuse to be cool today. I refuse to listen to apologists.",
+            "user id": 250094359,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

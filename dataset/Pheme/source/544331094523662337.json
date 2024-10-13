@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "Join us in praying for Sydney right now and the safety of those involved in the current situation. Pray for peace. #PrayForSydney",
+        "user id": 113164127,
+        "tweet id": "544331094523662337",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@hillsongNYC Yes, let's pray to the god who let this happen in the first place. That makes sense.",
+            "user id": 287084075,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@hillsongNYC",
+            "user id": 38887379,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@hillsongNYC Amein",
+            "user id": 1922444030,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@hillsongNYC @veriphile Lord, I pray You would provide a window of opportunity for Aussie Commandos to get inside cafe and kill terrorists",
+            "user id": 60581210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@bj_sager @hillsongNYC @veriphile AMEN! SO LET IT BE!",
+            "user id": 704306828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@hillsongNYC @veriphile Thank you Lord for the answered prayer!",
+            "user id": 60581210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@hillsongNYC @dumisani6 Round up all the Muslims and send them to ISIS occupied Syria &amp; Iraq 121414",
+            "user id": 524143466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@hillsongNYC HOUSTON, TEXAS IN PRAYER WITH #YA'LL!",
+            "user id": 704306828,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@hillsongNYC dont start praying till we know how this ends, if your wrong gods gonna look like a real dick.",
+            "user id": 28766498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

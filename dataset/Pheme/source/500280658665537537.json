@@ -1,0 +1,800 @@
+{
+    "source": {
+        "content": "REMINDER: #MikeBrown was a kid who just wanted to walk down a street. And for that, HE IS DEAD. Those are the facts. #Ferguson",
+        "user id": 172869874,
+        "tweet id": "500280658665537537",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @scATX: REMINDER: #MikeBrown was a kid who just wanted to walk down a street. And for that, HE IS DEAD. Those are the facts. #Ferguson",
+            "user id": 122283649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@scATX Reminder,  he is a suspect in a crime and allegedly assaulted a police officer.",
+            "user id": 134284658,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@scATX Maybe some facts...but you're not telling all of the facts...only some of the story.",
+            "user id": 1531438382,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@scATX You were there? You saw with your own eyes?  I prefer to wait for full truth. If chief is lying, then he should be fired.",
+            "user id": 17502297,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11,
+                12
+            ],
+            "content": "@caldodge @scATX the chief has now told two contradictory stories. By definition, he is lying in at least one of them.",
+            "user id": 16836184,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@scATX he committed a robbery then punched a cop in the face, those are facts",
+            "user id": 2174352541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                13
+            ],
+            "content": "@RMoronie no they are not.",
+            "user id": 64326023,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@scATX @rgay can you say \"Trayvon Martin?\"",
+            "user id": 18375977,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                14
+            ],
+            "content": "@xtx33 @scATX seriously",
+            "user id": 6974622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@scATX @MaraWritesStuff - unpopular opinion incoming. Would this have been as big, if the police officer was dead instead?",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                15
+            ],
+            "content": "@Gorbles @MaraWritesStuff What is your point?",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [
+                16
+            ],
+            "content": "@r4v5 @scATX He could be, or he could have been given bad info before. But given Ferguson history, it doesn't look good for chief.",
+            "user id": 17502297,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@r4v5 @scATX Jose Guerena case shows cops may lie to deflect blame. Guerena's family won lawsuit, but Tucson sheriff won reelection anyway.",
+            "user id": 17502297,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 6,
+            "children": [],
+            "content": "@MichelleHux yes, they are. The photos of him match the police report",
+            "user id": 2174352541,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 8,
+            "children": [
+                17,
+                18
+            ],
+            "content": "@rgay @xtx33 how many names could we say?",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 10,
+            "children": [
+                19,
+                20,
+                21,
+                22
+            ],
+            "content": "@scATX - because making an emotive tweet on a tragic death isn't the best presentation of it. I doubt it'd have been done for the officer.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 11,
+            "children": [
+                23,
+                24
+            ],
+            "content": "@caldodge @scATX if he's \"been given bad info before\" and publicly states that bad info, that is called \"lying\"",
+            "user id": 16836184,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 14,
+            "children": [],
+            "content": "@scATX @xtx33 far too many",
+            "user id": 6974622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 14,
+            "children": [],
+            "content": "@scATX @rgay 😥",
+            "user id": 18375977,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 19,
+            "parent": 15,
+            "children": [],
+            "content": "@Gorbles An unarmed kid was shot dead in the street, his body left for hours, and the police keep changing the story. EXCUSE MY EMOTING.",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 20,
+            "parent": 15,
+            "children": [],
+            "content": "@Gorbles why the fuck does it matter what would be done if it had been the officer? IT COULDN'T HAVE BEEN; THE KID WAS UNARMED.",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 21,
+            "parent": 15,
+            "children": [
+                25
+            ],
+            "content": "@Gorbles you wanting to change the story to make this about the not-dead or not-even-injured or not-arrested cop is ridiculous derailing.",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 22,
+            "parent": 15,
+            "children": [],
+            "content": "@Gorbles also it's not an opinion.",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 16,
+            "children": [],
+            "content": "@r4v5 @scATX Not if he doesn't know it's bad info at the time.",
+            "user id": 17502297,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 24,
+            "parent": 16,
+            "children": [
+                26
+            ],
+            "content": "@r4v5 @scATX If somebody tells you something that's not true, and you repeat it (because you thought it was truth), does that make you liar?",
+            "user id": 17502297,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 25,
+            "parent": 21,
+            "children": [
+                27,
+                28
+            ],
+            "content": "@scATX - sorry for that impression, I don't want to make it about the officer. I want objective views, not emotive tangents. Nothing more.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 26,
+            "parent": 24,
+            "children": [
+                29,
+                30
+            ],
+            "content": "@caldodge @scATX depends on the obligation one would expect you to do due diligence before passing on lies, no?",
+            "user id": 16836184,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 27,
+            "parent": 25,
+            "children": [
+                31,
+                32,
+                33
+            ],
+            "content": "@Gorbles idea that anything can be \"objective\" is false. And the idea that \"emotion\" somehow means \"not trustworthy\" = WHATEVER",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 28,
+            "parent": 25,
+            "children": [
+                34
+            ],
+            "content": "@Gorbles @scATX Not sure why you think anybody gives a fuck what you \"want\".",
+            "user id": 29215157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 29,
+            "parent": 26,
+            "children": [],
+            "content": "@r4v5 @scATX It's called delegation. Person in charge expects underlings to do gruntwork of due diligence.",
+            "user id": 17502297,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 30,
+            "parent": 26,
+            "children": [],
+            "content": "@r4v5 @scATX I'm not asserting police chief IS telling truth. I'm saying he COULD have thought story was truth at time.",
+            "user id": 17502297,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 31,
+            "parent": 27,
+            "children": [
+                35
+            ],
+            "content": "@scATX - Twitter's crap at letting me get it all out decently. Basically, reminding people someone's dead is pointless. Everyone knows (1/2)",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 32,
+            "parent": 27,
+            "children": [],
+            "content": "@scATX - you're in a position of authority, and you're using that to leverage this view. Just my opinion, I'm not the only one to reply.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 33,
+            "parent": 27,
+            "children": [
+                36,
+                37
+            ],
+            "content": "@scATX @Gorbles This. we are made up of emotion. Objective is often a code for male/real/white.",
+            "user id": 224778221,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 34,
+            "parent": 28,
+            "children": [
+                38
+            ],
+            "content": "@Philosopher_Dad - nor you. Personal attacks aren't the best way to conduct yourself, yo.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 35,
+            "parent": 31,
+            "children": [
+                39
+            ],
+            "content": "@Gorbles it's not pointless. And fuck yeah, I am leveraging my opinion. It's my Twitter account. I should apologize for this?",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 36,
+            "parent": 33,
+            "children": [
+                40,
+                41,
+                42,
+                43
+            ],
+            "content": "@JulieGillisTX @scATX - we are indeed, but ya need to consider things without emotion sometimes. Judges don't rule on emotion!",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 37,
+            "parent": 33,
+            "children": [
+                44
+            ],
+            "content": "@JulieGillisTX @scATX @Gorbles his profile states 100% dolt. we have our answer.",
+            "user id": 17028578,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 38,
+            "parent": 34,
+            "children": [],
+            "content": "@Gorbles Yo, go fuck yourself, yo.",
+            "user id": 29215157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 39,
+            "parent": 35,
+            "children": [
+                45
+            ],
+            "content": "@scATX - not at all, sorry again. I'm offering my opinion like you were offering yours. That's all. I didn't even expect a reply!",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 40,
+            "parent": 36,
+            "children": [],
+            "content": "@Gorbles @JulieGillisTX hahahahahahaa sure ok, player",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 41,
+            "parent": 36,
+            "children": [
+                46
+            ],
+            "content": "@Gorbles @JulieGillisTX I think you really need to study \"objectivity\" and question that concept.",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 42,
+            "parent": 36,
+            "children": [
+                47,
+                48
+            ],
+            "content": "@Gorbles @JulieGillisTX @scATX yeah, definitely no \"emotion\" in the way the criminal justice system pursues alleged cop killers either.",
+            "user id": 24749234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 43,
+            "parent": 36,
+            "children": [
+                49,
+                50
+            ],
+            "content": "@Gorbles @scATX If you really think that you need to go back to school. Everyone absolutely does, unless they are sociopathic.",
+            "user id": 224778221,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 44,
+            "parent": 37,
+            "children": [
+                51
+            ],
+            "content": "@meadowgirl - in joke, community-related. It's funny how quick people jump to insults though :/",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 45,
+            "parent": 39,
+            "children": [],
+            "content": "@Gorbles surprise!",
+            "user id": 172869874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 46,
+            "parent": 41,
+            "children": [],
+            "content": "@scATX @JulieGillisTX - sure thing. I'm young, I've got plenty to learn.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 47,
+            "parent": 42,
+            "children": [
+                52,
+                53
+            ],
+            "content": "@dansolomon @JulieGillisTX @scATX - definitely a huge problem. The biggest problem here though is a lack of transparency all round.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 48,
+            "parent": 42,
+            "children": [],
+            "content": "@dansolomon @JulieGillisTX @scATX - not that I ever stated what my feelings on the #Ferguson situation was. Death is awful.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 49,
+            "parent": 43,
+            "children": [],
+            "content": "@JulieGillisTX @scATX - if a judge ever sent someone to prison because the judge didn't like the defendant, then that's unlawful.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 50,
+            "parent": 43,
+            "children": [],
+            "content": "@JulieGillisTX @scATX - deciding without emotions on occasion != devoid of emotions (sociopathy).",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 51,
+            "parent": 44,
+            "children": [
+                54
+            ],
+            "content": "@Gorbles waaaa waaaaaa poor widdle white dude feefees. yawn. don't make it about emotion! suck it up!",
+            "user id": 17028578,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 52,
+            "parent": 47,
+            "children": [
+                55
+            ],
+            "content": "@Gorbles @JulieGillisTX @scATX don't know what your point is. People are emotional when someone's shot. If it's a cop, cops are emotional.",
+            "user id": 24749234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 53,
+            "parent": 47,
+            "children": [
+                56
+            ],
+            "content": "@Gorbles @JulieGillisTX @scATX when it's a kid, people who empathize with kids are emotional. There is no emotion-free perspective.",
+            "user id": 24749234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 54,
+            "parent": 51,
+            "children": [
+                57
+            ],
+            "content": "@meadowgirl - I'm not. It's funny. Having to resort to personal attacks in order to bait some kinda rise.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 55,
+            "parent": 52,
+            "children": [],
+            "content": "@dansolomon @JulieGillisTX @scATX - original point was lost somewhat, no worries. People are emotional, never disputed that.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 56,
+            "parent": 53,
+            "children": [],
+            "content": "@dansolomon @JulieGillisTX @scATX - when observing the situation, then you have to have more of a clear head.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 57,
+            "parent": 54,
+            "children": [
+                58
+            ],
+            "content": "@Gorbles yes, yes bc you are clearly the smartest, best and more deserving of humanity. yes, we know white man, it is about YOU here.",
+            "user id": 17028578,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 58,
+            "parent": 57,
+            "children": [],
+            "content": "@meadowgirl - more about me than you, given the attention I'm getting. Peace out.",
+            "user id": 92307848,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "4-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "6-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "8-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "10-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "11-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "12-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "13-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

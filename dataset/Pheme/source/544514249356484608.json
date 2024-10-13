@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "MORE: Heavily armed police storm the Sydney cafe shortly after 5 or 6 hostages were seen running out: http://t.co/YPkzCkNoOt",
+        "user id": 51241574,
+        "tweet id": "544514249356484608",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AP @AmericaNewsroom There is no Islamic gunman in Sydney.  ISIL is on the run.  Osama bin Laden is dead.  America is not at war with Islam.",
+            "user id": 79284431,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@AP: Heavily armed police storm the Sydney cafe shortly after 5 or 6 hostages were seen running out: http://t.co/EtU2jncwgI”@RJRemedios",
+            "user id": 2401156465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AP @AmericaNewsroom OMG! Martha/Fox News is on the Warmongering Rampage again. Let's glorify murderers and call them terrorists....",
+            "user id": 48310336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AP @AmericaNewsroom No, Martha. Police/Fed Agents have no authority to 'judge' anyone as a 'Terrorist.' We learn that from the judge/jury..",
+            "user id": 48310336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AP",
+            "user id": 392996036,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

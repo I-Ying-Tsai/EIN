@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "If you tweeted #JeSuisCharlie, now we need you to tweet #JeSuisJuif",
+        "user id": 2924591292,
+        "tweet id": "553543032642220033",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@simoncobbs1 @IntJewCon It must be clear Jews + Israel LOVE us - Islam HATES THEM + US. stand for Israel = PEACE. #JeSuisJuif #ILoveIsrael",
+            "user id": 1151095778,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MarthavanderPol @simoncobbs1 @IntJewCon true English men support Israel... We are watching Gaza's spring up all around us in the UK!!",
+            "user id": 2853718565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@simoncobbs1 @MelanieLatest Dream!",
+            "user id": 285693924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@simoncobbs1 @MarthavanderPol #JeSuisJuif",
+            "user id": 1607967380,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@simoncobbs1 Doing better!  #JeSuisJuif  @GoldsteinBrooke",
+            "user id": 17665641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@simoncobbs1 @StandWithUs #JeSuisJuif",
+            "user id": 2270656754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@simoncobbs1 @GoldsteinBrooke #JeSuisJuif #AmYisraelChai",
+            "user id": 1700583302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

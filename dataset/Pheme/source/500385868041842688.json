@@ -1,0 +1,136 @@
+{
+    "source": {
+        "content": "WOKE. #Ferguson #mikebrown RT @ChamNature: 10 mins RT @DragonflyJonez: 6'4 290. In sandals. RT @_TheSpeakEasy: Hmm http://t.co/urAzIWRNI6",
+        "user id": 235610395,
+        "tweet id": "500385868041842688",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@hollywood_trey @ChamNature @DragonflyJonez @_TheSpeakEasy are you all calling him un athletic for making that far with sandals, smh",
+            "user id": 244738934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@juan93diego @hollywood_trey @DragonflyJonez @_TheSpeakEasy muhfuckah, I'm saying it's unlikely to run that far in sandals.",
+            "user id": 111220509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@hollywood_trey @ChamNature @DragonflyJonez @_TheSpeakEasy @JustCallMeDay it's .5 miles, map says 11 minute walk",
+            "user id": 38337279,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@MeroWavy @hollywood_trey @DragonflyJonez @_TheSpeakEasy @JustCallMeDay you the fuckin feds, bruh",
+            "user id": 111220509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "@ChamNature @hollywood_trey @DragonflyJonez @_TheSpeakEasy smh, he was probably athletic and quick. Don't judge a book by its cover",
+            "user id": 244738934,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@juan93diego @hollywood_trey @DragonflyJonez @_TheSpeakEasy he never played football because he didn't like hitting ppl. WHAT THE FUCK IDIOT",
+            "user id": 111220509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@ChamNature @hollywood_trey @DragonflyJonez @_TheSpeakEasy whatever dude you are judgemental",
+            "user id": 244738934,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@juan93diego @hollywood_trey @DragonflyJonez @_TheSpeakEasy while you're not judging books by covers, get a fact or two while you're at it.",
+            "user id": 111220509,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

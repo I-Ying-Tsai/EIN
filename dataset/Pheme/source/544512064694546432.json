@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "GUNFIRE AND EXPLOSIONS CONTINUE AS POLICE STORM CAFE IN SYDNEY.",
+        "user id": 292777349,
+        "tweet id": "544512064694546432",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed 😧😧",
+            "user id": 2282954094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed the one time yall don't have a live stream",
+            "user id": 974205336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@PzFeed WHY YOU TYPING IN CAPS FAM",
+            "user id": 276193153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@TristanGHill @PzFeed lmfao",
+            "user id": 2405747680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed Tac medics are doing CPR on someone..",
+            "user id": 1474440043,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed NIGGGAAAA",
+            "user id": 800973974,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@PzFeed GUNFIRE AND EXPLOSIONS CONTINUE AS POLICE STORM CAFE IN SYDNEY.” LOUD NOISES.",
+            "user id": 2576370989,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed Jesus Christ.  I wonder If it actually only one guy",
+            "user id": 2448419816,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed",
+            "user id": 234391949,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "We must confirm to our deepest regret that Germanwings Flight 4U 9525 from Barcelona to Düsseldorf has suffered an accident over the...",
+        "user id": 25360913,
+        "tweet id": "580350000074457088",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Lufthansa_DE @ThisWeekGermany :'(",
+            "user id": 219464552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Lufthansa_DE @LauraBorras",
+            "user id": 252702251,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Lufthansa_DE So sorry for the loss of all those lives. My deepest condolences to the families.",
+            "user id": 92775926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Lufthansa_DE  #pray #Germanwings #4U9525",
+            "user id": 3099838283,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Lufthansa_DE please accept my condolences...l'm to hear that. God bless all that family. ..",
+            "user id": 2511220736,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        }
+    }
+}

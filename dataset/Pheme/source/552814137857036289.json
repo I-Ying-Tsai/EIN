@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Real Muslims have never seen, and cannot see #terrorism as a way for solving their problems.*** #CharlieHebdo http://t.co/sdJvdNxAGM",
+        "user id": 607082634,
+        "tweet id": "552814137857036289",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@israfilaydemir Real Muslims have never seen, and cannot see #terrorism as a way for solving their problems.*** #CharlieHebdo",
+            "user id": 888865760,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@israfilaydemir Real Muslims have never seen, and cannot see #terrorism as a way for solving their problems.*** #CharlieHebdo",
+            "user id": 730548824,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@israfilaydemir It is really quite simple.  Real Muslims believe that those who do not worship are infidels and must be destroyed.",
+            "user id": 277810106,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@israfilaydemir Well how else will you achieve your goal of ridding the world of those who do not worship Allah? The infidels. Not buying it",
+            "user id": 277810106,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

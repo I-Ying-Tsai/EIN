@@ -1,0 +1,194 @@
+{
+    "source": {
+        "content": "#今日车吻# 大过年买车就买车好好开车啊！郑州林肯4S店试驾车带客户试驾过程中秀车未成功，据说死两个人了。大家去试驾也好，试乘也好，一切以安全为主。其他都是扯淡！ ",
+        "time": "20-1-12 14:24",
+        "user id": "2677617437",
+        "tweet id": "Ip8Gk34G6",
+        "label": 1,
+        "theme": "灾难事故"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                5
+            ],
+            "user id": "2384025110",
+            "user name": "一不小心成现任",
+            "content": "客户自己开的车，出事故造成试驾员工死亡，不知道情况别乱说",
+            "time": "20-1-12 15:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2677617437",
+            "user name": "海明威评",
+            "content": "呵呵。",
+            "time": "20-1-12 19:21",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "2881402692",
+            "user name": "KumokumoC",
+            "content": "您觉得您这是在强词夺理吗？",
+            "time": "20-1-12 18:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [
+                2
+            ],
+            "user id": "2677617437",
+            "user name": "海明威评",
+            "content": "客户不能秀车技嘛？",
+            "time": "20-1-12 16:27",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [
+                3
+            ],
+            "user id": "3169881047",
+            "user name": "大乌贼学长",
+            "content": "如果确实是客户在主驾驶位的话，这句秀车未成功，明显会诱导以为是试驾员开的车。",
+            "time": "20-1-12 16:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "user id": "2677617437",
+            "user name": "海明威评",
+            "content": "认识字不，我说的试驾车带客户试车，说了试驾专员嘛！",
+            "time": "20-1-12 16:07",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "2413739412",
+            "user name": "佑佑0822",
+            "content": "总有些半吊子司机拿了驾照没几天，自以为技术不错，买不起车还冒充大尾巴狼去拿4s店的试驾车去过车瘾。",
+            "time": "20-1-13 08:47",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "2677617437",
+            "user name": "海明威评",
+            "content": "不管怎么说，道路试驾还是安全第一。驾驶员要有自知之明，同时试驾专员要评价驾驶员的安全驾驶能力。总之，安全无小事！",
+            "time": "20-1-13 09:07",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                11
+            ],
+            "user id": "1985089787",
+            "user name": "从别后_忆相逢_几回魂梦与君同",
+            "content": "A柱弯了？",
+            "time": "20-1-12 17:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "2677617437",
+            "user name": "海明威评",
+            "content": "嗯",
+            "time": "20-1-13 14:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [],
+            "user id": "1985089787",
+            "user name": "从别后_忆相逢_几回魂梦与君同",
+            "content": "是的 这条路走过几次 基本没啥车 速度肯定快",
+            "time": "20-1-12 19:43",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "2677617437",
+            "user name": "海明威评",
+            "content": "速度太快和撞的位置都有关系。说明不了汽车结构是否安全。",
+            "time": "20-1-12 19:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

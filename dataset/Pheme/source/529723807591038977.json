@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": ".@LiveNationON tweets \"Prince will not be performing at Massey Hall tonight.\" #cbcto",
+        "user id": 19000033,
+        "tweet id": "529723807591038977",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCToronto @LiveNationON Why were people left out in the rain for hours?",
+            "user id": 307554061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

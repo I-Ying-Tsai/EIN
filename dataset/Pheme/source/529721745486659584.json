@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Security at Massey Hall tells @CP24 there is NO Prince show #Toronto #prince'd #purple'd",
+        "user id": 22192440,
+        "tweet id": "529721745486659584",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@stephaniesmyth @CP24 Looks like the stage is set up though! https://t.co/mjafKISgG5",
+            "user id": 20008319,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Huh @stephaniesmyth: Security at Massey Hall tells @CP24 there is NO Prince show #Toronto #prince'd #purple'd",
+            "user id": 14231419,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@stephaniesmyth @KatieSimpson24 @CP24 This rumour started early this morning...pretty late in the day to be clarifying....boo Massey Hall",
+            "user id": 18191382,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@stephaniesmyth @CP24 @KatieSimpson24 So why did security allow them to queue up behind barriers all day?",
+            "user id": 366820602,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

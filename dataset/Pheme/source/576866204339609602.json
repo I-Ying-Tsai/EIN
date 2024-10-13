@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "No, don't know where #Putin is but no coup's today \nhttp://t.co/pmZoSJUGFo #Russia\n\n-- ever rational @MarkGaleotti on current tea cup storm",
+        "user id": 248505587,
+        "tweet id": "576866204339609602",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@bizneweurope @MarkGaleotti it is #psyops",
+            "user id": 2654660036,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#Putin spoke w/ #Obama on 3/12 “@bizneweurope: No, don't know where #Putin is but no coup's today \nhttp://t.co/KuvsGgogC6 #Russia",
+            "user id": 414437543,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

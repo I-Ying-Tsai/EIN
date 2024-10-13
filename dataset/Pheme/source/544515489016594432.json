@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "Gunfire and explosions have been heard as armed police stormed the Lindt cafe building in Sydney #sydneysiege",
+        "user id": 87416722,
+        "tweet id": "544515489016594432",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsBreak: Gunfire and explosions have been heard as armed police stormed the Lindt cafe building in Sydney #sydneysiege” This is crazy",
+            "user id": 166758079,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak bing bong he's gone #72virgins",
+            "user id": 571262169,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak my money is on this guy being an absolute amateur.",
+            "user id": 397512639,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak  CPR being given?? Were hostages harmed???!!",
+            "user id": 705123059,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak turn out to be mentally ill on day release.",
+            "user id": 317902092,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak imagine how rubbish these morons would be if they didn't have their peaceful theology to guide them #dickheads",
+            "user id": 2861194665,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@SkyNewsBreak Stop him he's getting away!!! #sydneysiege http://t.co/20Tdb38z2N",
+            "user id": 63224277,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@pad1966 @SkyNewsBreak take this crap down",
+            "user id": 187387276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak @Napoleon_Celtic chocolate wars",
+            "user id": 246293216,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak http://t.co/AMMrZPVeHf",
+            "user id": 222796094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak love how the Aussie authorities take no crap and get the job done quick. In this country it would of gone on for weeks",
+            "user id": 158030840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak breach, bang and clear. That's the way to deal with terrorists. Good job, lads!",
+            "user id": 1202276791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "“@SkyNewsBreak: Gunfire and explosions have been heard as armed police stormed the Lindt cafe building in Sydney #sydneysiege” 😢😢😢😢",
+            "user id": 21642088,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@emmawwfcx @SkyNewsBreak it's over 1 hostage dead and the camel fucking rag head as well",
+            "user id": 2859122517,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 12,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

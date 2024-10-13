@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "RT .@FOX2now: The #STL SWAT team has weapons drawn in #Ferguson at a protest in broad daylight with media attending http://t.co/xVblIjQMwH",
+        "user id": 29330030,
+        "tweet id": "499689757652566016",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@bigboi @fox2now those white officers hate us blacks",
+            "user id": 495157374,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi @FOX2now if he move wrong shoot him",
+            "user id": 523218328,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi @FOX2now not even necessary bruh",
+            "user id": 2263391384,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Thank You @BigBoi for speaking out against this injustice!",
+            "user id": 51302561,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "WTF “@BigBoi: RT .@FOX2now: The #STL SWAT team has weapons drawn in #Ferguson at a protest with media attending http://t.co/XBnHiVxSzm”",
+            "user id": 22965968,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi RT.@FOX2now: The #STL SWAT team has weapons drawn in #Ferguson at a protest in http://t.co/y9e1OtMSZR Hooray for our Police State",
+            "user id": 38755205,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi @FOX2now The Pentagon------is now giving military equipment to police departments\n\nARTICLE http://t.co/QIafAMWSFe",
+            "user id": 1302282553,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi @FOX2now 😳😳😳",
+            "user id": 323556627,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi @FOX2now t",
+            "user id": 2505130834,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi 😓😓 WOW!!",
+            "user id": 1958688727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@BigBoi @The_U1 @FOX2now wtf",
+            "user id": 241970992,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "@DirtySouthCanes @BigBoi @FOX2now that shit crazy ain't it?",
+            "user id": 604752165,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@BigBoi I want to say un-fucking believable, but at the same time, not surprised. This country is sick.",
+            "user id": 357798713,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@The_U1 @BigBoi @FOX2now incredible.",
+            "user id": 241970992,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 12,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

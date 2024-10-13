@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "French radio @Europe1 says attackers on offices of Paris weekly ran out yelling \"Allahu Akbar\" #Charliehebdo",
+        "user id": 6591312,
+        "tweet id": "552785367972450304",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@marcburleigh @Europe1 figures....when will France and the EU learn.",
+            "user id": 1569448915,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@SottileStephen @marcburleigh @Europe1 Only after it's way too late and millions have to die to stamp out the savage muslims.",
+            "user id": 177830416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@SottileStephen  It is years since @MarkSteynOnline warned Europe. People called him names. Now people die. \n@marcburleighIt @Europe1",
+            "user id": 2378914268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh @michaeldickson @Europe1 How come they are telling the truth now? Waking up to Islam?  HAPPY NOW @ChTaubira ? Your protégés?",
+            "user id": 225970425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh @michaeldickson @Europe1 ..Of course they were!..",
+            "user id": 582523469,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh @pragnik @Europe1 I am told #Obama brushing microphone to tell it has nothing to do with Islam.",
+            "user id": 2378914268,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh @MumbaikiGirl @Europe1   \n\nAllahu Akbar :)",
+            "user id": 336118461,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh @michaeldickson @Europe1 \n\nNot lone wolves this time then. When will they learn?",
+            "user id": 220347418,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh @Europe1 @omalestafeito and that makes them muslims? I can shout that and im an atheist.",
+            "user id": 19392326,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@marcburleigh @BJPLucknowBJP @Europe1 All muslims are not terrorist but all terrorist are Muslims.",
+            "user id": 140749707,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "Cowardly attack on Charlie Hebdo's offices. The humourless fanatics can fuck off. Freedom of speech is more important than your feelings.",
+        "user id": 25058787,
+        "tweet id": "552791678881660928",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks No where safe! No where to run ?",
+            "user id": 282647835,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks I'm thinking that on many occasions, the 'cowardly' characterization of those attacks is redundant.",
+            "user id": 15797425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks With 10 killed this was probably the last edition.",
+            "user id": 490687640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks Freedom to defend the belief and  no one is going to mock against anyone. When some groups are mocked it's barbaric? @liivansh",
+            "user id": 31319544,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks man, people were forgetting they still exist, considering how unfunny they are. Attackers are really stupid.",
+            "user id": 485804094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@KarlreMarks @ArtWendeley\nnot attack on freedom of speech\nits strategy\n#IS wants Coalition groundtroops in theater\nSh.Adnani called for this",
+            "user id": 2908504576,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@KarlreMarks @ArtWendeley\nits deliberate provocation\nan act of war in asymmetrical warfare",
+            "user id": 2908504576,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks @ArtWendeley Stupid tweet",
+            "user id": 2409403250,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks @saikatd. Freedom of speech antagonistc to islam is not done. http://t.co/R37q8JwNtS",
+            "user id": 492075654,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks @saikatd. Freedom of speech antagonistc to islam is not done. http://t.co/Mw0g0Ukkdy",
+            "user id": 492075654,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": ".@KarlreMarks Freedom of speech for whom? http://t.co/edptV2opVV http://t.co/uZlUhTsHDW",
+            "user id": 15625485,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks @MazMHussain What is this new phenom? Piss someone off &amp; they do stupid things. I guess insults beget a good stomping. who knew",
+            "user id": 408969405,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": ".@KarlreMarks freedom of speech is also more important than someone's opinion re: an archaic, anachronistic storybook about a space pixie.",
+            "user id": 15697067,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks @DGisSERIOUS FOS is more important than an imaginary medieval merchant who lives in the fucking sky.",
+            "user id": 352048446,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@KarlreMarks @TiloJung then again,  you havent been shot.",
+            "user id": 53087327,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 12
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

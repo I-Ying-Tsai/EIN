@@ -1,0 +1,166 @@
+{
+    "source": {
+        "content": "Witness to #CharlieHebdo attack claims gunmen told him it was “Al-Qaeda in Yemen” (i.e. AQAP): http://t.co/gGyLxyvSTw http://t.co/3jcdj9dZcD",
+        "user id": 469509327,
+        "tweet id": "552829580579323904",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Charles_Lister He also said one of the attackers had a rocket launcher..",
+            "user id": 297967623,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Charles_Lister that means nothing, the #IslamicState would love it if AQ got bombed for this",
+            "user id": 2720366292,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Charles_Lister @SouthSideEaston",
+            "user id": 2780784711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Charles_Lister @gordoncorera No one is so dumb to believe that. Hold on ...",
+            "user id": 180961394,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@Charles_Lister: Witness to #CharlieHebdo attack claims gunmen told him it was “Al-Qaeda in Yemen” (i.e. AQAP)",
+            "user id": 1551594134,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Charles_Lister freedom fighters from Yemen",
+            "user id": 2301320077,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@Charles_Lister @daniel_lario it was the CIA",
+            "user id": 192359034,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                10
+            ],
+            "content": "@SiamedMehoAgent @Charles_Lister  What ever u like ;-))",
+            "user id": 1048468734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Charles_Lister they also killed 37 people in Yemen the same day. The world must unite to end Alqaeda who killed more Muslims than others.",
+            "user id": 31073943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Charles_Lister \n\nفضلاً لنتشارك:\nنحن نحترم جميع الأنبياء.\n\nPlease Let's share 👇 \n#WeRespectAllProphets",
+            "user id": 478374335,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                11
+            ],
+            "content": "@daniel_lario @Charles_Lister it's not what I like it's what happened",
+            "user id": 192359034,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@SiamedMehoAgent @Charles_Lister  checking my head:-())))",
+            "user id": 1048468734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

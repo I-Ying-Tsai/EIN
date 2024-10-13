@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "@FRANCE24 reporter James André at French Civil Aviation Authority HQ: \"#Germanwings plane did NOT report distress signal\", no mayday.",
+        "user id": 326140439,
+        "tweet id": "580360165540642816",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@RichelleVHP @France24_en @FRANCE24 Please take Hashtag #4U9525 for #Germanwings Plane crash. Thank you",
+            "user id": 125570941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RichelleVHP Safety record is not perfect. http://t.co/928i3ln8bl @France24_en @FRANCE24",
+            "user id": 1645064149,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

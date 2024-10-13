@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "#sydneysiege: Up to 20 hostages are being held in darkness in a cafe in Sydney. http://t.co/5jtd36wFOU http://t.co/Gmt7PAuHzb",
+        "user id": 7587032,
+        "tweet id": "544451181754744832",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews    The terrorists must be enjoying all this worldwide 'propaganda' as well as the copycat hostage-taking that will follow",
+            "user id": 746980435,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SkyNews how did Lorna Dunkly get to Sydney so quick to report on siege ?",
+            "user id": 900352195,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mpagemap @SkyNews I think she was already out there..",
+            "user id": 479259008,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews feel for them lets hope they all get out unhurt terrible frightening",
+            "user id": 521469669,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Sydney aatanke atek Mae mare gaye sabhe divangat aatmao ko sraddhanjale iesvar unke aatma ko santi pradan kare.",
+            "user id": 2856588296,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews http://t.co/iZxBmW22Rl",
+            "user id": 734713182,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "#Ferguson PD doesn't have 70+ SWAT officers &amp; 3 APC's. This has to a county wide response. The mayor &amp; the governor are culpable.",
+        "user id": 100136358,
+        "tweet id": "499703369108553730",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Karnythia it is county wide. ferguson has only 53 officers. they don't have the bandwidth for that kind of SWAT response.",
+            "user id": 18608431,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Karnythia If this were happening pre-internet, what kind of hardware d'you think they'd be threatening those people with?",
+            "user id": 167786742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@sinisteragent The dogs would be loose. And the hoses to go with them. We've seen this scene before...",
+            "user id": 100136358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Karnythia County PD is main presence, City PD and State patrol are backfilling other areas of the county.",
+            "user id": 139177867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Karnythia @CBPotts I've been wondering. Who called these extra people in. Who is responsible.",
+            "user id": 108094234,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Who is in tactical command of this threat of massacre?\n@Karnythia @thetrudz",
+            "user id": 1615736210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "MT @Karnythia #Ferguson PD doesn't have 70+ SWAT officers &amp; 3 APCs. Has to be county wide response. The mayor &amp; governor are culpable.",
+            "user id": 44100643,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Karnythia well, it is St. Louis County, isn't it? u expect Ferguson cops 2 go it alone?",
+            "user id": 2437571275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@Karnythia The mayor and the governor are prudent.",
+            "user id": 22208702,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "To let the police abuse a community? No riots or looting tonight. Be less worthless RT @BennettWJ @me The mayor and the governor are prudent",
+            "user id": 100136358,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                13
+            ],
+            "content": "@Karnythia Just hoses? You're an optimist.",
+            "user id": 167786742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [],
+            "content": "@Karnythia @sinisteragent yeah, I bet u have...",
+            "user id": 2437571275,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [],
+            "content": "@Karnythia @Me Perhaps the SWAT team is preventing additional looting and rioting. That = prudence.",
+            "user id": 22208702,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@sinisteragent Oh I know they wouldn't just be shooting the non lethal rounds. That's clear too. But it's still daylight.",
+            "user id": 100136358,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

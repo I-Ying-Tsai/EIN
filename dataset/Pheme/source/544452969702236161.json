@@ -1,0 +1,73 @@
+{
+    "source": {
+        "content": "Saying every Muslim is a terrorist is like saying every Christian is a member of the Klu Klux Klan.Completely untrue and unfair #sydneysiege",
+        "user id": 1678020594,
+        "tweet id": "544452969702236161",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@popsychoIogy Not every Muslim is a terrorist, that is true. But there are some Muslim terrorists, and this looks like an example.",
+            "user id": 341062104,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@RonnieDRocks there are also Christian members of the KKK who exercise extreme brutality and here's an example. http://t.co/13NAmGExNu",
+            "user id": 1678020594,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@RonnieDRocks @popsychoIogy they aren't terrorists because of their religion.",
+            "user id": 1378278439,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@popsychoIogy And there are also black Muslims in Africa slaughtering Christians.",
+            "user id": 341062104,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

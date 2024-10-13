@@ -1,0 +1,142 @@
+{
+    "source": {
+        "content": "It is a horrifying thought that people in our world would prefer to kill rather than allow critcism #CharlieHebdo http://t.co/DpLEYjEj7y",
+        "user id": 2270640056,
+        "tweet id": "552819208212717568",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@PhysicsHenry I feel offended, my religion forbid rectangle !",
+            "user id": 66966924,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8,
+                9
+            ],
+            "content": "Why is this image so white?! Why is it not enthically diverse? A sign of racism and xenophobia @natsfr @PhysicsHenry http://t.co/q3tg3WKXGA",
+            "user id": 140542416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@natsfr @PhysicsHenry \"There are no shapes but triangles and big bird is their prophet\".",
+            "user id": 292647591,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PhysicsHenry its racist. Look at all that white compared to the black. Horrible",
+            "user id": 2963992696,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PhysicsHenry @vincenzof The exaggerated use of whitespace is SO SinoCentric.",
+            "user id": 496723,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@PhysicsHenry @andreadelogu it's an horrible attack to art, humorism and freedom...in other words to our life!!!",
+            "user id": 1559012298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@shining_dust2  hi look at all of these beautiful painted rocks http://t.co/jKthmRtAaW",
+            "user id": 1963541156,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PhysicsHenry mental people",
+            "user id": 335871995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@NorBdelta @PhysicsHenry and there is a rectangle !!! I can't stand that make it black circle !!!",
+            "user id": 66966924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [],
+            "content": "@NorBdelta @natsfr @PhysicsHenry Shame for you. You just activated my Alucard http://t.co/MwIKATNI70",
+            "user id": 2174759425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

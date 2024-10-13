@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "Statement from Ottawa Hospital: received 3 patients. 2 in stable condition. http://t.co/zu5hYPrGDL",
+        "user id": 18711754,
+        "tweet id": "524972443308683264",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@amyminsky @GlobalNational 12:50am??",
+            "user id": 924559604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@cherylfolland @amyminsky @GlobalNational Probably meant PM, in the afternoon &gt;.&lt;",
+            "user id": 2432029212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@amyminsky @althiaraj Thank you for up date ---  great job --Thank you ------pnp---canada",
+            "user id": 2819496752,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@amyminsky @cindyreddeer Okay, so what's been happening in Canada?",
+            "user id": 80761856,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@amyminsky @cindyreddeer Okay did quick search.  Seems these are low level wannabe terrorists retaliating for Canada's stand against ISIS.",
+            "user id": 80761856,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@amyminsky @BretBaier this is s dry run for what that have planned for us in USA.",
+            "user id": 211314817,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": ".@mariaenchanted @cherylfolland  yes, certainly a typo. @GlobalNational",
+            "user id": 18711754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "content": "@Olternaut The terrorists bit has not been confirmed as far as I'm aware. Last guy who shot up Parliament 29 yrs ago was a nutcase. #waiting",
+            "user id": 180548274,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "content": "@cindyreddeer True.  But I hear there was a similar incident this past Monday. Is that correct?  That makes me think its low level terrorism",
+            "user id": 80761856,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@Olternaut A soldier was intentionally hit by a car driven by a radicalized person, also not really confirmed yet. http://t.co/5g4OhXoh2t",
+            "user id": 180548274,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@cindyreddeer Everything needs to be confirmed of course.  It would make sense though if true though.",
+            "user id": 80761856,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

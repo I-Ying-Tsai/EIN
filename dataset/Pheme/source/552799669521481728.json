@@ -1,0 +1,140 @@
+{
+    "source": {
+        "content": "\"100 lashes if you don't die of laughter.\" Eleven people killed over this. #Paris #CharlieHebdo http://t.co/87cB3mWVAQ",
+        "user id": 17027378,
+        "tweet id": "552799669521481728",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ninaburleigh @jbarro saying that we know the motive when the unidentified killers are still at large is unnecessary and stupid",
+            "user id": 90761544,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ninaburleigh @PeterBeinart In fact the precipitating satire was directed at ISIS.",
+            "user id": 23022488,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@ThorsProvoni @PeterBeinart well here's the oeuvre to RT http://t.co/Vq2zy4fFSW",
+            "user id": 17027378,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ninaburleigh @PeterBeinart they died because of radical Islam, not because of a cartoon.",
+            "user id": 2657146262,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ninaburleigh @PeterBeinart Thanks for posting Peter",
+            "user id": 391534562,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@ninaburleigh we MUST spread these satyrical images as much ss possible..Terrorists have to know that we are not going to be silent!!!",
+            "user id": 462427721,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@alinatede http://t.co/Vq2zy4fFSW",
+            "user id": 17027378,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@ninaburleigh: \"100 lashes if you don't die of laughter.\" 11 people killed over this. #CharlieHebdo http://t.co/a7QrYfvRgl” #JeSuisCharlie",
+            "user id": 290649890,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ninaburleigh r",
+            "user id": 238550101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [],
+            "content": "@ninaburleigh @PeterBeinart Seems to disrespect ISIS and not Islam.",
+            "user id": 23022488,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

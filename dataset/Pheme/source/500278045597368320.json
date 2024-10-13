@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "URGENT: Darren Wilson is the police officer who shot Mike Brown http://t.co/RZ1eYcKpiY #Ferguson http://t.co/D2HyKchWvq",
+        "user id": 64643056,
+        "tweet id": "500278045597368320",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Is this the right link?",
+            "user id": 33786971,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Micheal Brown was a hardened criminal. But , of course, shooting him was wrong and the cop should get the death penalty",
+            "user id": 150601108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @raulbrindis @jorgeramosnews @RealAlexJones @KPRCLocal2 @CesarRBShow",
+            "user id": 2360062596,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com hysterical",
+            "user id": 2311394295,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“URGENT: Darren Wilson is the police officer who shot Mike Brown http://t.co/bWq6nDuuWD #Ferguson http://t.co/4DEr4xSn0t” rt@RT_com",
+            "user id": 62591883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @FrenchR1ck deserved what he got. Don't attack police officers!!!!",
+            "user id": 295596713,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com excuses coming thick &amp; fast next",
+            "user id": 2223435566,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@RT_com  More of RT reporting on American news not it's own. hmhmhmhmhm...",
+            "user id": 2659206870,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@CelestialCylon @RT_com Because American media is staying incredibly quiet. Call RT propaganda but its more news than CNN, MSNBC or Fox.",
+            "user id": 2200860579,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "RT @RT_com: URGENT: Darren Wilson is the police officer who shot Mike Brown http://t.co/ag71jPElob #Ferguson http://t.co/5Ss8bHTuDY",
+            "user id": 924176922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Urgent: Fearmonger much?",
+            "user id": 51410043,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com#MikeBrown# now US American know and fine! But is he going  to pay for it? Stop those BULLIES from murdering again",
+            "user id": 2733503194,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

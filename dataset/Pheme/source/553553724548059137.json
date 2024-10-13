@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "French police: Hostage-taker at Paris market linked to #CharlieHebdo attack http://t.co/YfzbniZmak http://t.co/4HVVUhdG4C",
+        "user id": 972651,
+        "tweet id": "553553724548059137",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@mashable Brilliant news for France [and people everywhere] but, seriously, how stupid is this suspect for doing this so soon after?",
+            "user id": 1060743756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@Daniel_Bevis They think that they'll get rewarded with virgins if they die for their 'cause'.",
+            "user id": 2225184676,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable wai ca fait quand meme pas beaucoup pour les dalton moderne",
+            "user id": 22385603,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable #Pakistan Army had experience of fighting with Terrorist they well Trained and not  scared of Death",
+            "user id": 2315428177,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable @IntelGirl111 - I'm sorry but if those are the snipers for the police I feel for the hostages. Is that being a gun snob?",
+            "user id": 36394732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable can not accept the insulting to our prophet Muhammad S.A.W , however.. Condemned the blood bath decision make by Gunmen.",
+            "user id": 2320139270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable anyone ever recognize islam from friends and immediate family know how islam embrace and harmony.",
+            "user id": 2320139270,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable we love .fr , home of our fav xgames.. parkour.",
+            "user id": 2320139270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable dah if reasonably low iq, sukatilah to think otherwise.",
+            "user id": 2320139270,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable",
+            "user id": 43533780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@niutenisu @Daniel_Bevis LOL Denis",
+            "user id": 2315428177,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

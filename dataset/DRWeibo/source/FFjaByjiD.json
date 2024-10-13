@@ -1,0 +1,186 @@
+{
+    "source": {
+        "content": "#新疆乌鲁木齐县地震# 隔壁宿舍的女孩穿着雪地靴还等余震来了赶紧跑，而我伴着宿舍里此起彼伏的鼾声紧张地玩着手机…… ",
+        "time": "18-1-21 02:18",
+        "user id": "5529430710",
+        "tweet id": "FFjaByjiD",
+        "label": 0,
+        "theme": "灾难事故"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5874591832",
+            "user name": "Halo灬火",
+            "content": "乌鲁木齐。县？",
+            "time": "18-1-22 13:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "5529430710",
+            "user name": "没错我就是惠惠",
+            "content": "就相当于区……",
+            "time": "18-1-22 15:32",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "5874591832",
+            "user name": "Halo灬火",
+            "content": "乌鲁木齐不是市级的嘛",
+            "time": "18-1-22 15:53",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "5375293341",
+            "user name": "第一眼最好看",
+            "content": "老铁，这有点不对啊…………",
+            "time": "18-1-21 12:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "3227800673",
+            "user name": "是御寒",
+            "content": "上次地震都不让进寝室，一堆人大晚上看星星",
+            "time": "18-1-21 11:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "5562764901",
+            "user name": "IiMiku",
+            "content": "不是四川地震吗？",
+            "time": "18-1-21 10:56",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "3198192712",
+            "user name": "朝朝暮暮雨纷纷",
+            "content": "也很吓人了，惠惠注意安全呀",
+            "time": "18-1-21 09:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "6226777995",
+            "user name": "大猫23事",
+            "content": "来地震了吗？",
+            "time": "18-1-21 08:09",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "6107616955",
+            "user name": "惠惠的硬币",
+            "content": "厉害了我的惠，不过这个发微博的时间，惠惠注意休息，照顾好自己",
+            "time": "18-1-21 06:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5294296737",
+            "user name": "洺sir",
+            "content": "哈哈哈，厉害喽",
+            "time": "18-1-21 05:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "5972708023",
+            "user name": "谁又伤害了谁",
+            "content": "刺激",
+            "time": "18-1-21 02:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "6026453181",
+            "user name": "深巷老人与猫",
+            "content": "因为慧慧看到我们才能有安全感嘛",
+            "time": "18-1-21 08:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "6443655989",
+            "user name": "西木野真姬喵",
+            "content": "紧张的玩手机2333",
+            "time": "18-1-21 08:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

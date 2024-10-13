@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "A young woman right before she was arrested because she wouldn't move... #Ferguson http://t.co/wP8iQUvemv",
+        "user id": 1716581,
+        "tweet id": "499699435551866880",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @elonjames: A young woman right before she was arrested because she wouldn't move... #Ferguson http://t.co/1MqgJo63FH",
+            "user id": 21274637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames does anyone have her info? I would like to help",
+            "user id": 67929450,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames Is that an LRAD on top of the tank also?",
+            "user id": 20571597,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames is that the senator?!",
+            "user id": 29750665,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

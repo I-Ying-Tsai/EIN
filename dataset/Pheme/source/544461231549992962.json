@@ -1,0 +1,112 @@
+{
+    "source": {
+        "content": "My hometown, #Sydney, just showed the world how to face terrorism and fear. I'm moved to tears. #illridewithyou",
+        "user id": 602609422,
+        "tweet id": "544461231549992962",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MousaSally that's a lovely tweet 😊",
+            "user id": 708555061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@MousaSally we're all in this together to get our beautiful city back to normal... So proud of Sydney tonight #together #powertothepeople",
+            "user id": 175818264,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Aliboga absolutely! Love this city!",
+            "user id": 602609422,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@MousaSally Aussies are like any family we have our issues, BUT we are a family and we also have each others backs always. xxxx",
+            "user id": 225930977,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@PremiumIdeas sending you love, too!",
+            "user id": 602609422,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MousaSally @AnashayC That's what it's all about #Friendship #illridewithyou",
+            "user id": 1589579276,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MousaSally @realactivex : Some Cowards... make the life miserable for innocent peace loving citizens... Let God save the hostages!!",
+            "user id": 2417387923,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MousaSally me too!",
+            "user id": 42362563,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

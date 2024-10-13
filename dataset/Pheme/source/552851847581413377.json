@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "This #cartoon sums up the absurdity of the killings. #CharlieHebdo #ParisShooting #parisattack http://t.co/xBus9qWLpa",
+        "user id": 1102984189,
+        "tweet id": "552851847581413377",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@SirJadeja was waiting for your tweeet ... :-D",
+            "user id": 2951771978,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@gul_shreya was waiting for you. :D ;)",
+            "user id": 1102984189,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SirJadeja yepa pathalum twitter la irkiye, practise pogave matiya 😐",
+            "user id": 24381630,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SirJadeja waah guru kya baat hai",
+            "user id": 159793262,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SirJadeja ♥ Gud night bro ♥",
+            "user id": 2894255923,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SirJadeja va bhai kem cho\nHu rajkot ma rav chu and tamaru rstron bav saras che",
+            "user id": 2962650506,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Madness! RT @SirJadeja: This #cartoon sums up the absurdity of the killings. #CharlieHebdo  #parisattack http://t.co/x8kC0QmMGF",
+            "user id": 2469825921,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@sirjadeja Those are not from us who killed innocent people on the name of religion!! stop this idiots, We all are Humans. #parisattack",
+            "user id": 2479669832,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@SirJadeja thanku so much .... :-D ;-)",
+            "user id": 2951771978,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@sirjadeja @gul_shreya sir y so tharki :3",
+            "user id": 2728758804,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@illuminati5666 @SirJadeja really sir !! Y r u so tharki !! :-D ;-)",
+            "user id": 2951771978,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

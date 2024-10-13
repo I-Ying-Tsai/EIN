@@ -1,0 +1,497 @@
+{
+    "source": {
+        "content": "Flight #4U9525 was descending with a rate of about 3000-4000 feet per minute, which is quite standard for an airport approach.",
+        "user id": 134196350,
+        "tweet id": "580325799078793216",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@flightradar24 That is NO WHERE NEAR standard. Typically around 1,800ft/min at lower levels.",
+            "user id": 576499459,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                19
+            ],
+            "content": "@danieljaws93 @flightradar24 what if it was an emergency?",
+            "user id": 273718425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                20
+            ],
+            "content": "@danieljaws93 You're wrong, I've sat in the cockpit many times and we have exceeded -3000fpm... it is normal, but not throughout",
+            "user id": 143527839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 Not at 6,500ft with terrain at 6,300+ ft.",
+            "user id": 125139513,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 CNN discussing this right now.",
+            "user id": 347511105,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@flightradar24 did the squawk code change to 7700?",
+            "user id": 108577840,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                21
+            ],
+            "content": "@mattnobby @flightradar24 no squawk change but mayday sent",
+            "user id": 345246348,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 it's about right for engine out glide too. 38000 is very high for an A320. I'm thinking pressurization failure and passed out",
+            "user id": 21627425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Flight 4U9525 was descending at a rate of about 3000-4000 feet per minute, which is quite standard for an airport approach - @flightradar24",
+            "user id": 15817213,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24  https://t.co/BZtZQT22dC @Gerogriniaris",
+            "user id": 132275243,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+            ],
+            "content": "@flightradar24 Well- in my opinion it's rather steep. And this is a long time before the approach in DUS. Any MAYDAY call?",
+            "user id": 248816974,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                22
+            ],
+            "content": "@SasCaptain @flightradar24 Yes they did ( french media )",
+            "user id": 2900807218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                23,
+                24
+            ],
+            "content": "@SasCaptain @flightradar24 TV-News said there was a mayday call.",
+            "user id": 1468401108,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@SasCaptain @flightradar24 yes there was a mayday apparently but no 770 squawk",
+            "user id": 345246348,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [],
+            "content": "@SasCaptain @flightradar24 The plane had issued a distress call at 10:47 (09:47 GMT), according to sources quoted by AFP news agency.",
+            "user id": 394155302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 10,
+            "children": [],
+            "content": "@SasCaptain @flightradar24 The squawk doesn't show any sign of Mayday, could have been only vocal",
+            "user id": 18015844,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 10,
+            "children": [
+                25
+            ],
+            "content": "@SasCaptain also heading of plane kept constant 26 degrees during last minutes.",
+            "user id": 307228640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 Not really",
+            "user id": 20983376,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 Squawk 5512?",
+            "user id": 119129371,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 1,
+            "children": [
+                26
+            ],
+            "content": "@IgnacioZippy @flightradar24 Emergency descent is about 4,000ft/min in that aircraft yeah. It's not \"standard\" for an airport approach.",
+            "user id": 576499459,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 2,
+            "children": [
+                27
+            ],
+            "content": "@aeroalexGR You're telling me a decent into an airport approach at 3/4000ft is standard? You'd better do some research matey.",
+            "user id": 576499459,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": 6,
+            "children": [
+                28
+            ],
+            "content": "@neilh1983 @flightradar24 hmmm the aircraft climbed to 38,000 then descended at 3000-4000ft per min then sent distress call at 6,800ft",
+            "user id": 108577840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 22,
+            "parent": 11,
+            "children": [
+                29,
+                30
+            ],
+            "content": "@SmileMoreDubai @flightradar24 Thanks!",
+            "user id": 248816974,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 23,
+            "parent": 12,
+            "children": [],
+            "content": "@athletespw Thanks.",
+            "user id": 248816974,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 24,
+            "parent": 12,
+            "children": [
+                31
+            ],
+            "content": "@athletespw @SasCaptain @flightradar24 mayday broadcast, unknown if verbal or digital",
+            "user id": 247324712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": 16,
+            "children": [],
+            "content": "@antti_engineer Yes this puzzels me a bit. Seems like they have been very occupied with something important...",
+            "user id": 248816974,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 26,
+            "parent": 19,
+            "children": [],
+            "content": "@danieljaws93 @flightradar24 ok, thanks",
+            "user id": 273718425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 27,
+            "parent": 20,
+            "children": [],
+            "content": "@danieljaws93 initial descent rate usually passes -3000fpm",
+            "user id": 143527839,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 28,
+            "parent": 21,
+            "children": [
+                32
+            ],
+            "content": "@mattnobby @flightradar24 are we sure mayday sent at 6800ft at last second?",
+            "user id": 345246348,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 29,
+            "parent": 22,
+            "children": [],
+            "content": "@SasCaptain @flightradar24 at 10.45am",
+            "user id": 2900807218,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 30,
+            "parent": 22,
+            "children": [
+                33
+            ],
+            "content": "@SasCaptain @flightradar24 So they were wrong, they did not use MAYDAY at anytime... Marseille controler",
+            "user id": 2900807218,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 31,
+            "parent": 24,
+            "children": [],
+            "content": "@AberJohnny Thks!",
+            "user id": 248816974,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 32,
+            "parent": 28,
+            "children": [
+                34
+            ],
+            "content": "@neilh1983 @flightradar24 well almost every report is quoting ATC saying they received a distress call at 6800 apologies if I'm wrong",
+            "user id": 108577840,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [],
+            "content": "@SmileMoreDubai @flightradar24 Yes, I read that later. Well, thxs anyhow!",
+            "user id": 248816974,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 34,
+            "parent": 32,
+            "children": [
+                35
+            ],
+            "content": "@mattnobby @flightradar24 No need to apologise just as confused as anyone! As far as I heard contact was lost at 6800ft",
+            "user id": 345246348,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [
+                36
+            ],
+            "content": "@neilh1983 all I saw was that ATC \"received\" the distress call at 6,800 ft. Utterly baffling",
+            "user id": 108577840,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [],
+            "content": "@mattnobby Wow - that is strange. not heard that yet so thank you. Adds another layer of mystery",
+            "user id": 345246348,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

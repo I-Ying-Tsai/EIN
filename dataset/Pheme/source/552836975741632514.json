@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "Murderers hijacked religion just as the far-right will hijack the murders. Cycle of hate. #CharlieHebdo",
+        "user id": 6473022,
+        "tweet id": "552836975741632514",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrChristensen Simply brilliant!!",
+            "user id": 449436006,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrChristensen @Bonn1eGreer there's no moral equivalence between Islamist murders today and modern European far right; try as some might.",
+            "user id": 571062070,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrChristensen As, no doubt, will the state...",
+            "user id": 21434335,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ChrChristensen @LFBarfe Trouble is, it's not just the far right any more. More centrist parties also subscribing to Islamophobia. It sells.",
+            "user id": 33231821,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@kembrek83 @ChrChristensen Yes, it's becoming a no-risk punt.",
+            "user id": 24115508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrChristensen You're fundamentally missing the point. The insult to \"The Prophet\" has been avenged. This is the mentality in play.",
+            "user id": 495276178,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ChrChristensen @relvitme so true",
+            "user id": 560154116,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "content": "@LFBarfe @ChrChristensen Lowest common denominator. Everyone should be suspicious of each other. Helps get through restrictive legislation.",
+            "user id": 33231821,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@kembrek83 @ChrChristensen Divide and rule.",
+            "user id": 24115508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Where's Putin? https://t.co/qWoMgwmEn6 #putindead http://t.co/a6FSxHYplv",
+        "user id": 18025377,
+        "tweet id": "576526802056814593",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@michaeldweiss I'm pretty sure he's alive. \"Disparition\" was orchestrated to focus attention and awaiting on this weekend barnum",
+            "user id": 2795543358,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@michaeldweiss Probably sick of something. Maybe sick of the West.",
+            "user id": 210814143,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@michaeldweiss http://t.co/yS9KwaNX2B",
+            "user id": 114565156,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@michaeldweiss Bringing in the new tsar!",
+            "user id": 809880978,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

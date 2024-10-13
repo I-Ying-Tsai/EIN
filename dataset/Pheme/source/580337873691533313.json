@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "My most sincere condolences to the victims of flight #4U9525 catastrophe and their relatives. No words can help but we stand by you.",
+        "user id": 383733061,
+        "tweet id": "580337873691533313",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Есть украинский след ?@PavloKlimkin #4U9525",
+            "user id": 334542705,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PavloKlimkin Hallo I hope you visit Luxor its amazing city in Egypt pleas check this site http://t.co/eoZN4vAot9  greeting Mostafa.",
+            "user id": 2953068574,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@PavloKlimkin: My most sincere condolences to victims of flight #4U9525 catastrophe &amp; their relatives No words can help but we stand by you",
+            "user id": 2356127598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

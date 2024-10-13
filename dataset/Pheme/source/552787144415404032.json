@@ -1,0 +1,100 @@
+{
+    "source": {
+        "content": "Police car with bullet holes in front of Charlie hebdo headquarter. Photo  @WilliamMolinie http://t.co/k6inhBmGsf",
+        "user id": 9651232,
+        "tweet id": "552787144415404032",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JulienPain @WilliamMolinie Policemen seem relaxed though, the assaulter may have been shot dead.",
+            "user id": 56955600,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#Paris RT @JulienPain: Police car with bullet holes in front of Charlie hebdo headquarter. Photo  @WilliamMolinie http://t.co/I6oUE5kanw",
+            "user id": 45543485,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@JulienPain effrayant regarde @MelanieHerault",
+            "user id": 51034165,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "content": "@SandradeAguiar Oh punaise ils y ont été fort..",
+            "user id": 395455749,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@MelanieHerault 11 morts pour le moment, le dessinateur de #CharlieHebdo en fait parti et 2 flics",
+            "user id": 51034165,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@SandradeAguiar Punaise cest horrible.. Quel tristesse..",
+            "user id": 395455749,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

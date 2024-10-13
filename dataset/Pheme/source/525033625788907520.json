@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "Good news is Canadian gov't successfully prevented Zehaf-Bebeau from joining #ISIS abroad. Bad news is he waged jihad in #Ottawa today.",
+        "user id": 635608354,
+        "tweet id": "525033625788907520",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee Perhaps better to have let him gone and denied his return ? Big implications for Europe here :(",
+            "user id": 2491845824,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee @rbeestweets \n&amp;what about all these teens that we stop from going abroad does anyone think they wont be terrorists here?",
+            "user id": 2213157290,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee \nLooks like a fatal flaw in the prevent strategy then.",
+            "user id": 157437355,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee With idiots like this fanning the flames https://t.co/QmHStBalza it's no wonder",
+            "user id": 2559432516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee @BettinaVLA We can't give up our lives in the name of fear..Attack them head on.. Aggressively.",
+            "user id": 63497561,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee @BettinaVLA If he had gone maybe one of our airstrikes would have got him.",
+            "user id": 2314068637,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee @martina__1974 if he was a terror suspect he should have been locked up not stopped from travel",
+            "user id": 2805030041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": ".@20committee I kinda wonder if it would have been better to allow him to travel and just prevent his return. Makes probs for others though",
+            "user id": 159911529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@Corsair8X indeed",
+            "user id": 635608354,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@20committee I think you mean the other guy who ran over a soldier on Monday. He wanted to fly to Syria and was stopped. Your point stands.",
+            "user id": 254806449,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@20committee No, you're right. I just read that Zehaf-Bebeau wanted to go go to Libya and was prevented.",
+            "user id": 254806449,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@20committee there is a lesson to be learnt - send them to wherever they want to go, let them die there, but don't let them come back ever!",
+            "user id": 1098890888,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

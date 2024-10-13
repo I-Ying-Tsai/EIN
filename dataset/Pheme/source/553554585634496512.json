@@ -1,0 +1,209 @@
+{
+    "source": {
+        "content": "There are reports of an armed incident at the Trocadero near the Eiffel Tower. #ParisAttacks http://t.co/ATmBpjwW3b http://t.co/U7DXrdPheI",
+        "user id": 7587032,
+        "tweet id": "553554585634496512",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@SkyNews @RazAkkoc WTF",
+            "user id": 94365114,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@hannah__osborne @SkyNews mate I KNOW WTAF",
+            "user id": 237724213,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@SkyNews @OfMindOfGrime check this one",
+            "user id": 2544187700,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": "@BIGED04 @SkyNews Thus is another one, wtf",
+            "user id": 1655525964,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@BIGED04 @SkyNews *this",
+            "user id": 1655525964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews #JeSuisCharlie #CharlieHebdo http://t.co/WoCkwWdM0o",
+            "user id": 2288506714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "WTF? “@SkyNews: There are reports of an armed incident at the Trocadero near the Eiffel Tower. #ParisAttacks http://t.co/rhl8kMaLLd\"",
+            "user id": 585772278,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@MadonnaRebel @SkyNews apparently there's another man near the Eiffel Tower with a gun as well..",
+            "user id": 2397850208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @MitchKinney this is just getting crazy 😔",
+            "user id": 134595287,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Now confirmed as a false alarm thankfully.\n#CharlieHebdo #JeSuisCharlie #Kosher",
+            "user id": 2288506714,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@RazAkkoc @hannah__osborne @SkyNews unconfirmed. Lets keep our hats on for a moment.",
+            "user id": 25047467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 3,
+            "children": [],
+            "content": "@OfMindOfGrime @SkyNews Bruv everyone just needs to stay at home",
+            "user id": 2544187700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "content": "@MadonnaRebel @SkyNews no news about what he did or is doing though \nIt's all very vague atm",
+            "user id": 2397850208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@janemccallion @hannah__osborne @SkyNews looking like a false alarm",
+            "user id": 237724213,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [],
+            "content": ".@janemccallion @hannah__osborne @SkyNews https://t.co/Df7IqAGumv",
+            "user id": 237724213,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

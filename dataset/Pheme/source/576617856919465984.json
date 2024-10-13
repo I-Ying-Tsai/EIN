@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "I think President #Putin decided to die in order to divert attention from Nemtsov's death #WhereIsPutin #ПутинУмер #putindead #RIP",
+        "user id": 2331419624,
+        "tweet id": "576617856919465984",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@VlodkoB it is not Putin,  but RasPutin!",
+            "user id": 37919483,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

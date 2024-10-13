@@ -1,0 +1,129 @@
+{
+    "source": {
+        "content": "‘The Gurlitt collection should be sold to benefit Jewish organisations’ - The Art Newspaper http://t.co/6pU64J7SUx",
+        "user id": 1070801347,
+        "tweet id": "535828163402543104",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@erynecki maybe the collection should be given to the Jewish Museum in Berlin? It is part of Jewish and German history, I think.",
+            "user id": 2640650944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "content": "@anamcara2709 It's complicated, but if provenance research finds heirs to pieces that were looted, they should be returned.",
+            "user id": 1070801347,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "content": "@erynecki That's the first option. No doubt. But it isn't easy to find the heirs.",
+            "user id": 2640650944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "content": "@anamcara2709 Very, very true. Like I said, it's complicated. This blog post I wrote might interest you: http://t.co/dWzKuxSf1T",
+            "user id": 1070801347,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@erynecki Thank you. And have a nice weekend.",
+            "user id": 2640650944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@anamcara2709 You as well!",
+            "user id": 1070801347,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@erynecki Thanx.",
+            "user id": 2640650944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

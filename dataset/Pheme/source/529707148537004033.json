@@ -1,0 +1,137 @@
+{
+    "source": {
+        "content": "Prince fans are lined up from Massey Hall to Queen street to snag wristbands to his surprise shows http://t.co/W5rObSPMuN",
+        "user id": 16351521,
+        "tweet id": "529707148537004033",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nowtoronto OhNoLineUPS.OhYesPrincePlaying.:) OhHeadache.NapNow.",
+            "user id": 433675700,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @nowtoronto Prince fans are lined up from Massey Hall to Queen street to snag wristbands to his surprise show http://t.co/9GJJiubCpm",
+            "user id": 26585202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": ".@nowtoronto his fan base must be either unemployed or public sector to have that kind of time mid-day #prince #Toronto #torontoevent",
+            "user id": 2871458280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@ShartBlattersby Sure, or he's just one of the best performers of all time and it's worth it :)",
+            "user id": 16351521,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@ShartBlattersby @nowtoronto or wealthy/entrepreneurs/small biz owners/scalpers/taking sick days/vacation days",
+            "user id": 279818508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@nowtoronto definitely one of the best, no argument there :)",
+            "user id": 2871458280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@nowtoronto That was certainly quite a \"performance\" (of sorts).Who knew #prince could be such a drama #queen.Tears falling like purple rain",
+            "user id": 2871458280,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "content": "@TheBlueJaynator @nowtoronto now, now - don't combat my silliness with logic!",
+            "user id": 2871458280,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@ShartBlattersby @nowtoronto I can't help it, my cybernetic brain is a neural net processor, a learning computer.",
+            "user id": 279818508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Headquarters of @welt and @BILD in Berlin. #JeSuisCharlie http://t.co/ZsxHuTxcMj",
+        "user id": 2324408143,
+        "tweet id": "553152448077258753",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@charles_hawley @welt @BILD Please RT - Download a hilarious FREE Koran PARODY for infidels of all ages - https://t.co/hXbeZHdguj",
+            "user id": 2886586060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@charles_hawley @welt @BILD you'll find more photos of the gatherings around the world at https://t.co/9tfh1WkZWa #JeSuisCharlie",
+            "user id": 24907748,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@charles_hawley @welt @BILD   L'Amérique se tient avec la France. #JeSuisCharlie",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

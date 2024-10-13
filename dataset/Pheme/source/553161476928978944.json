@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "True story. #JeSuisCharlie http://t.co/s6dBFKSwD9",
+        "user id": 367044023,
+        "tweet id": "553161476928978944",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost L'Amérique se tient avec la France.",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost Soooo richtig...",
+            "user id": 50283332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost Please RT - Download a hilarious FREE Koran PARODY for infidels of all ages - https://t.co/hXbeZHdguj",
+            "user id": 2886586060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost Dein Werk?",
+            "user id": 7715292,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost Definitiv der Tweet meines Tages!!!!",
+            "user id": 138806842,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost Sehr treffend!! Dürfte ich die Quelle erfahren ? oder ist das von dir ? :)",
+            "user id": 1465735429,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost @nutellaberliner Schade, dass dort „Asylantenheim“ steht. Sonst ein sehr sympathischer Comic ;)",
+            "user id": 76921710,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@Mohrenpost: True story. #JeSuisCharlie http://t.co/5DcACcB0eg” #fb",
+            "user id": 32896380,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@Mohrenpost @Elondras what does it say?",
+            "user id": 1491546638,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@biggiesbars @Mohrenpost @Elondras Left sign: “Asylum” | Center: “Why am I damned with such dumb relatives?” (Free translation)",
+            "user id": 53520915,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Mohrenpost @OomenBerlin Asylant ist übrigens eine arge Beleidigung für Asylbewerber. Der Begriff wurde von dem Dummenblatt #Bild erfunden!",
+            "user id": 1291519784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

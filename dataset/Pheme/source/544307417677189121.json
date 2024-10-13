@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "HOSTAGE SITUATION IN SYDNEY\nTo all our fans and friends staying in Sydney, stay safe and keep praying... http://t.co/Sq62BaKeTz",
+        "user id": 606437303,
+        "tweet id": "544307417677189121",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Yeow_JX @SGAG_SG People praying is exactly what caused this situation in the first place.\n#YourGodsNotRealButMineIs",
+            "user id": 155763912,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Gabriel_Dertzer  Who are you? Do I even know you? Stay away SATAN!",
+            "user id": 313798674,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SGAG_SG What if it's an ISIS attack? So sorry to all those hostages, keep calm because the police will get you out.",
+            "user id": 2909512638,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

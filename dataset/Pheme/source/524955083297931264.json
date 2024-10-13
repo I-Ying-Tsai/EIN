@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Some sort of live terror shooting seems to be going on in Canada.  Pray for our polite neighbors to the north.",
+        "user id": 194272236,
+        "tweet id": "524955083297931264",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@OldRowOfficial thanks folks. Glad to say our fraternity Brothers working downtown are fine",
+            "user id": 44633641,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@OldRowOfficial: Some sort of live terror shooting seems to be going on in Canada.  Pray for our polite neighbors to the north.”",
+            "user id": 1173302090,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@OldRowOfficial http://t.co/1TbBQMKc9h They don't fuck around in Canada.",
+            "user id": 480109864,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@OldRowOfficial thank you for sending prayers up here. We have an attack on our parliament happening right now",
+            "user id": 2607765648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@OldRowOfficial @Ealasaid1743 Second military slaying this week.  Sad days 😞",
+            "user id": 2849410033,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@pammykns @OldRowOfficial It is very sad.",
+            "user id": 2796818297,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

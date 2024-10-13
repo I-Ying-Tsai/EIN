@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "My thoughts and prayers are with injured soldier. And such deep thanks to the security and RCMP on the Hill. #shooting #parliament",
+        "user id": 16220555,
+        "tweet id": "524940030109036544",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay stay safe!",
+            "user id": 36422158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay thank you, no one else seems to be talking about the soldier, prayers that  he will be ok.",
+            "user id": 425248926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay How is everyone doing right now in the House?",
+            "user id": 99571670,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ElizabethMay stay safe!!",
+            "user id": 268416076,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@Raffi_RC @ElizabethMay Very relieved to know that you are ok.",
+            "user id": 222954944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay Will Canadians realize that bombing ISIS fighters is what brings fanatics here? Will we now care for youth before they turn?",
+            "user id": 126714370,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay Heartbreaking that such senseless violence has reached \"our home and native land.\"",
+            "user id": 477958988,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay very many prayers for you all there and for the heroic solider! May god help you all there!#parlement ottawa shooting",
+            "user id": 106425159,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay So the soldier has been injured only?I mean that's awful, but I read reports of him bein dead..does anyone know his condition?",
+            "user id": 23129557,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay My thoughts exactly. Thinking of each of you directly experiencing this right now.",
+            "user id": 828169153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay I hope you are safe in all this may- ham?",
+            "user id": 17963691,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@ElizabethMay This will surely result in an fully armed Hill will it not?",
+            "user id": 25503622,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Hostage-taker appeared 'extremely agitated,' said journalist at scene of Sydney siege: http://t.co/nuQ1l0njgm http://t.co/Xztgfqtx51",
+        "user id": 14173315,
+        "tweet id": "544436666661085184",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews We Americans have to open are eyes it will happen in America too its a matter of time.",
+            "user id": 2824442646,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews This is torture what this animals are doing there can not be Law for them period.",
+            "user id": 2824442646,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "In there doing his little \"We want dead cops\" chants n'stuff.\n\n@NBCNews @JDBmsnbc",
+            "user id": 546886420,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @msnbc we need to let US citizens to be allowed to arm themselves period. We are not other countries.",
+            "user id": 1032825270,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "The death of Mike Brown was live tweeted http://t.co/UJNhP9jNeD via @7im #ferguson",
+        "user id": 53429839,
+        "tweet id": "500365332351971328",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "omg this is crazy RT \"@jaredbkeller: The death of Mike Brown was live tweeted http://t.co/BlxOGLfJv6 via @7im #ferguson\"",
+            "user id": 47545224,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "little did he realize, by live tweeting michael brown's murder he's about to be the witness to a major case http://t.co/pWTE7MQc8P",
+            "user id": 47545224,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@KrystieLYandoli @jaredbkeller @7im oh my god.",
+            "user id": 20182526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Wow. RT @jaredbkeller: The death of Mike Brown was live tweeted http://t.co/g2aTpfxLQr via @7im #ferguson",
+            "user id": 12990212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jaredbkeller @blakehounshell @7im Death of Mike Brown was live tweeted http://t.co/SLaAOeoevL  via @7im #ferguson cc:@goldietaylor @acarvin",
+            "user id": 14398864,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                7
+            ],
+            "content": "Wow. Real time witness. https://t.co/UMHcKRsgim  RT @jaredbkeller The death of Mike Brown was live tweeted http://t.co/3Aom1UwxWh via @7im",
+            "user id": 65375759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": ".@zeynep @jaredbkeller @7im I really hope nobody subpoenas anyone for his identity. Let him come forward if we wants, or stay anonymous.",
+            "user id": 15335778,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [
+                13
+            ],
+            "content": "Unless elaborate hoax, huge. Witness/citizen journalist live-tweeted Ferguson shooting h/t @zeynep @jaredbkeller http://t.co/WEi8PnK4Ld",
+            "user id": 703590811,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "Damn that's crazy RT @jaredbkeller: The death of Mike Brown was live tweeted http://t.co/LABmlVlax2 via @7im #Ferguson",
+            "user id": 244243390,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "“@_DanielRz_: Damn that's crazy RT @jaredbkeller: The death of Mike Brown was live tweeted http://t.co/61YTnbP4N6 via @7im #Ferguson” smh",
+            "user id": 22345466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@jaredbkeller @blakehounshell @7im Wow.",
+            "user id": 50371114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "Oh, god. RT @jaredbkeller: The death of Mike Brown was live tweeted http://t.co/NGVQnJLsAz via @7im #ferguson",
+            "user id": 12384312,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "Oh my God \"@jaredbkeller: The death of Mike Brown was live tweeted http://t.co/q2vFJX7fdX via @7im #ferguson”",
+            "user id": 17544644,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 7,
+            "children": [],
+            "content": "@adviserdavid @zeynep @jaredbkeller Whoa.",
+            "user id": 14164075,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

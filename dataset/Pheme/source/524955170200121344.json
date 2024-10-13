@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "We stand w/ our Canadian partners as scene unfolds in Ottawa. We stand resolute in defense of our 2 nations.First responders in our thoughts",
+        "user id": 18144581,
+        "tweet id": "524955170200121344",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NoradNorthcom we thank you for keeping the USA and #Canada safe right now as we sit in #Michigan 20 minutes frm Canadian border",
+            "user id": 22583725,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NoradNorthcom @HomefrontHugs thank you my friends to the south !",
+            "user id": 196810360,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NoradNorthcom Have you raised alert status or not? Reports conflict! Thank you. Will forward response to readers",
+            "user id": 262189336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

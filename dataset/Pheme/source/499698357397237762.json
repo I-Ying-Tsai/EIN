@@ -1,0 +1,204 @@
+{
+    "source": {
+        "content": "Those cops on line in #Ferguson don't have riot shields and batons. They have rifles. The only thing they can do with those is shoot people.",
+        "user id": 22903265,
+        "tweet id": "499698357397237762",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Joe_Schmucc i’m watching this live stream… this is ridiculous man. they out here like a Army unit.",
+            "user id": 21282872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@reesecollins518 even in military riot control training we put away our rifles and train with batons and shields.",
+            "user id": 22903265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Joe_Schmucc xand oddly they are completely peaceful (this time)",
+            "user id": 539453318,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Joe_Schmucc @jkfecke Yeah. If something doesn't go wrong w/that set-up it'll be a miracle.",
+            "user id": 636367222,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@Joe_Schmucc @nothingsmonstrd and they're pointing them AT PEOPLE. I thought the first rule of gun safety was keep the barrel down",
+            "user id": 148066896,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@sirosenbaum @nothingsmonstrd \"never point a weapon at anything you do not intend to shoot.\" Rule #2 actually.",
+            "user id": 22903265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Joe_Schmucc Kind of what got them into this situation in the first place... @pookleblinky",
+            "user id": 55957494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Joe_Schmucc @DataDataMonkey A journalist was shot with wooden pellets. Maybe the guns have those instead of bullets.",
+            "user id": 2599740468,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Joe_Schmucc I was just saying how they look eerily similar to the battle rattle thay we'd wear #Army",
+            "user id": 217132971,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@Joe_Schmucc You really make me want to shoot some shit.",
+            "user id": 15668875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@GGChanel me too honestly",
+            "user id": 22903265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Joe_Schmucc thanks for standing up for fairness, and safe protection",
+            "user id": 501660163,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 5,
+            "children": [],
+            "content": "@Joe_Schmucc @nothingsmonstrd Right? So many gun safety ppl have told me that",
+            "user id": 148066896,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 5,
+            "children": [
+                14
+            ],
+            "content": "@Joe_Schmucc @nothingsmonstrd wait what is the first rule of gun safety? \"Don't talk about gun safety\"?",
+            "user id": 148066896,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@sirosenbaum @nothingsmonstrd \"treat every weapon as if it were loaded.\"",
+            "user id": 22903265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Ottawa Police Press Release http://t.co/9RQ5CQ2Zdg",
+        "user id": 115514485,
+        "tweet id": "524981565462704129",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Ottawa police confirm death of shooting victim RT@cbcsteve: Ottawa Police Press Release http://t.co/yX5wog21Rk #OttawaShooting",
+            "user id": 79844482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@cbcsteve: Ottawa Police Press Release http://t.co/WrTQuLeaVk”",
+            "user id": 261326850,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Didn't the memorial just open? \"@cbcsteve: Ottawa Police Press Release http://t.co/yM1bU2cUDp”",
+            "user id": 18120722,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "On the darkest of days, like this, the French philosopher Voltaire perhaps say it best: #CharlieHebdo http://t.co/afM6QJUgrb",
+        "user id": 122195535,
+        "tweet id": "552821223676444672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@StianValla: On the darkest of days, like this, the French philosopher Voltaire perhaps say it best: #CharlieHebdo http://t.co/pPRHOSzjCi”",
+            "user id": 296997550,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@StianValla Except Voltaire never said that....",
+            "user id": 274441289,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@StianValla @zezitom Read \"Candide\" - it's great.",
+            "user id": 2886586060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@StianValla i don't agree with religion but i will defend the right to guck it in the ass",
+            "user id": 335871995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@StianValla this was actually penned by someone who wrote a biography on Voltaire... not Voltaire himself",
+            "user id": 183916106,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@StianValla @vicky_stoyanova VOLTAIRE NEVER SAY THAT ! This quote was invented by E.B. Hall in 1906.",
+            "user id": 243216985,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        }
+    }
+}

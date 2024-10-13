@@ -1,0 +1,91 @@
+{
+    "source": {
+        "content": "Clearly prince is having a show in #toronto @TorontoComms #tdot #gta #prince #concert http://t.co/e7oktlGd1v",
+        "user id": 2841460589,
+        "tweet id": "529695483661664257",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "content": "@Stazie_15 @PrincePartyUK @TorontoComms If there's one thing @3RDEYEGIRL fans love more than the music, it's queueing!",
+            "user id": 966491364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ianallen169 @PrincePartyUK @Stazie_15 @TorontoComms @3RDEYEGIRL and boy did we know how to queue mate.",
+            "user id": 1262820505,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@ianallen169 @PrincePartyUK @TorontoComms @3RDEYEGIRL very very true hope it's a heck of a concert.",
+            "user id": 2841460589,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "@Stazie_15 @PrincePartyUK @TorontoComms @3RDEYEGIRL I hope you enjoy! Only slightly jealous 😜",
+            "user id": 966491364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "@ianallen169 @PrincePartyUK @TorontoComms @3RDEYEGIRL I can't go lol I have to work or I would should be amazing.",
+            "user id": 2841460589,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Stazie_15 Enjoyyyyyy I'm jealous 😩@TorontoComms",
+            "user id": 346733298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "Even before #Charlie Hebdo killings, in many places journalism had become a life-threatening proposition. http://t.co/Fig0E5Vmkn",
+        "user id": 232235048,
+        "tweet id": "553525347266740226",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @washingtonpost places like Venezuela, for example",
+            "user id": 1327388634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @washingtonpost @farhip come on! Even after the attack you can't make comparisons with the real danger in Mexico and Syria e.g.",
+            "user id": 349907153,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @washingtonpost That's not true ('many places').",
+            "user id": 126254448,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @washingtonpost @farhip good article. As a writer I thought of this myself.",
+            "user id": 2473310334,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @washingtonpost Al Jazeera @ajam 's reporters still jailed n Egypt; problem n Russia, entire Asian continents,central&amp;Sth America",
+            "user id": 23262069,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @FatisBoughaleb @farhip because journalists should say the truth without taking positions or shut up forever",
+            "user id": 940583911,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @washingtonpost sick people's eh nothing to thinks of only to kills what kind human being from same w their brain I wonder d brai",
+            "user id": 2400408805,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron Can't honestly connect journos killed at #CharlieHebdo for what they wrote to journos dying for what they report @GlennKesslerWP",
+            "user id": 313373071,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@PostBaron: Even before #CharlieHebdo killings, journalism had become a life-threatening proposition for some. http://t.co/V3aDAFjrH9”",
+            "user id": 113380481,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@PostBaron @ProPublica So satire is journalism? I knew you guys made stuff up.",
+            "user id": 248480752,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@PostBaron @washingtonpost @farhip in the West they arrest journalists - Assange, Snowden. In East and Mid East sometimes they kill them.",
+            "user id": 211384657,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@Danny__Crane Depends on your definition of \"journalist.\" Snowden never claimed to be one.",
+            "user id": 18175442,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@farhip yes i know. But his information was relied upon by journos. Is exposing wrongdoing wrong?",
+            "user id": 211384657,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

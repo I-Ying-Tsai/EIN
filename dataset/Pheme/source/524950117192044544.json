@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "RCMP advises if you are in downtown Ottawa to stay away from windows and off roofs due to ongoing police incident.",
+        "user id": 39812267,
+        "tweet id": "524950117192044544",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@curryb Stay safe Bill!",
+            "user id": 246338482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "I'd say that also includes downtown Gatineau @curryb #ottawa #shooting",
+            "user id": 19902686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@curryb: RCMP advises if you are in downtown Ottawa to stay away from windows and off roofs due to ongoing police incident.” #BeSafeOttawa",
+            "user id": 103047728,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

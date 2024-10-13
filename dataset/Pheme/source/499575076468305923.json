@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "#MorningReads: Terrifying result of police militarization on display in #Ferguson, MO http://t.co/hpJPTohzzi",
+        "user id": 15667291,
+        "tweet id": "499575076468305923",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BillMoyersHQ  it's just the beginning Bill...",
+            "user id": 262187416,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "FIFY: Terrifying result of days of mob/thug violence on display in #Ferguson,MO http://t.co/MB9BBhlI1U @BillMoyersHQ",
+            "user id": 97559262,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": ".@BillMoyersHQ Thank you for linking that video. Police need to recognize that militarizing provokes ongoing righteous anger. #Ferguson",
+            "user id": 14789146,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@Pinkomomma @BillMoyersHQ It has been shown that when people are given undue authority or are armed to the teeth,they tend to do bad things.",
+            "user id": 15559808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@BillMoyersHQ: #MorningReads: Terrifying result of police militarization on display in #Ferguson, MO http://t.co/gYkM5NaFK9”",
+            "user id": 2553780078,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BillMoyersHQ Wow! Powerful video. Shameless action by #Ferguson police.",
+            "user id": 20293363,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BillMoyersHQ It may look that way to the public but as violence on the streets keep escalating the safety equip. Of the LE increases.",
+            "user id": 34099303,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BillMoyersHQ Can someone tell me again why our domestic police need to be militarized? Aren't military &amp; police supposed to be separate?",
+            "user id": 15559808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BillMoyersHQ Pentagon didn't have boots on the ground in Ferguson, but it did have wheels on the street http://t.co/oNZDUBVm9l",
+            "user id": 14327663,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "RT @BillMoyersHQ: #MorningReads: Terrifying result of police militarization on display in #Ferguson, MO http://t.co/xF4Zb82WCz",
+            "user id": 751741154,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@allen_osuno1 @BillMoyersHQ Or lack decent education about a more peaceful form of response to public anger.",
+            "user id": 14789146,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

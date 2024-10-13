@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Political cartoonists are mourning #CharlieHebdo by retaliating the only way they know how. On pen and paper. http://t.co/0GLdlkk5ja",
+        "user id": 487600344,
+        "tweet id": "553225701701066752",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism Cartoonists know other ways to retaliate. They choose pen and paper.",
+            "user id": 11644212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism",
+            "user id": 1252641541,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@Bipartisanism @robertwood2005 the pen really is mightier than the sword",
+            "user id": 2504242343,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@30daysbrighter I firmly believe that.",
+            "user id": 2201085688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Bipartisanism @superhumayne",
+            "user id": 32806761,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

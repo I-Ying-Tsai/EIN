@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "60 seconds of #solidarite. @INM_ie #CharlieHebdo #JeSuisCharlie http://t.co/eIKTErJ2dY",
+        "user id": 91334232,
+        "tweet id": "553144448452792321",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent_ie @INM_ie #JeSuisCharlie",
+            "user id": 332334250,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent_ie @INM_ie Too scared to put it on your front page though.",
+            "user id": 85011527,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent_ie @dublinrecruiter  Show the cartoon then... Come on",
+            "user id": 350362817,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent_ie @INM_ie BLUFFERS !! Hold up the cartoons !",
+            "user id": 53411777,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent_ie @Ben_1_Kenobi @INM_ie Unconditional support for Hamas Islamic terrorists but crocodile tears over Charlie Hebdo.",
+            "user id": 38635888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        }
+    }
+}

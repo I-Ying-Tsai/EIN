@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Name of the co-pilot: Andreas Lubitz. http://t.co/L7FDlo6Iom #4U9525",
+        "user id": 214007688,
+        "tweet id": "581061237783556096",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Co-pilot was a German national.",
+            "user id": 214007688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NewsOnTheMin \n@morandiniblog \n@GuillaumeAuda",
+            "user id": 22609944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Prince cancelled Massey Hall show to play Bridle Path house party tonight #princeTOrumours",
+        "user id": 32245579,
+        "tweet id": "529735608676413441",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@hlybrtn: Prince cancelled Massey Hall show to play Bridle Path house party tonight #princeTOrumours” lol 😂 too bad he sold that house",
+            "user id": 965424487,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@hlybrtn @AUXTV its a @koreandramaband show, #Prince recorded their new single.",
+            "user id": 633388300,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

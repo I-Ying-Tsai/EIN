@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Update: Massey Hall has confirmed Prince will not be playing a surprise show tonight. http://t.co/1vuq42ChDn",
+        "user id": 16351521,
+        "tweet id": "529758256596787200",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Yeah but now it would really be a surprise. RT @NowToronto Update: Massey Hall confirms Prince will not be playing a surprise show tonight.",
+            "user id": 19797755,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@nowtoronto: Update: Massey Hall has confirmed Prince will not be playing a surprise show tonight. http://t.co/0Hw7g5E0bN” sadness ensues.",
+            "user id": 48749294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nowtoronto It's funny. That tweet said nothing. People making something from nothing... Some are really PO'd at prince for what reason?",
+            "user id": 1692366960,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

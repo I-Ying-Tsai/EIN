@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "AC Milan have denied reports that midfielder Michael Essien has contracted Ebola while on national duty with Ghana #SSFootball",
+        "user id": 301413580,
+        "tweet id": "521595221155774464",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz hahahaha but he earlier on came out and denied the claims",
+            "user id": 257916644,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@supersportblitz I hope it's just a rumor.",
+            "user id": 44987811,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@SuperSportBlitz Italians are racist this is so like them! Smh they're disrespectful to Africans",
+            "user id": 801162632,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@oxytocinite @supersportblitz true tht italians are the biggest racists",
+            "user id": 1518875600,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@Oxytocinite @SuperSportBlitz Yeah they're racists by denying the false report?",
+            "user id": 454071517,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz hahahahahha ebola ebola",
+            "user id": 2490014614,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz Essien is not on national duty please",
+            "user id": 43304363,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz if you read @TimesLIVE article, Essien himself denies it. The insensitivity of these rumour are saddening. #SSFootball",
+            "user id": 2819506023,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz WTF!",
+            "user id": 199872709,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "Eh? RT @SuperSportBlitz: AC Milan have denied reports that midfielder Michael Essien has contracted Ebola while on national duty with Ghana",
+            "user id": 134039821,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz Essien is not part of the squad so he's on no national duty. This is an insult to Ebloa victims. Racism at it's best.",
+            "user id": 157964457,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz @BotswanaSoccer #SSFootball that is so sad, and shame to the spirit of football",
+            "user id": 469982790,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "content": "@SuperSportBlitz Essien doesnt get Ebola- Ebola gets Essien. #beast",
+            "user id": 537025780,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "Hehehe RT“@leiboff10: @SuperSportBlitz Essien doesnt get Ebola- Ebola gets Essien. #beast”",
+            "user id": 452993138,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@SuperSportBlitz you can't put rumours like these without being informed! Do you guys understand the lawsuit you're flirting with?",
+            "user id": 617309226,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 11
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

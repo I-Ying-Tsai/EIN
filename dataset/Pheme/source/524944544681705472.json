@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "Ottawa police: Actively looking for one or more suspects in Canadian parliament shooting. http://t.co/UQ4xo5jvhF",
+        "user id": 1652541,
+        "tweet id": "524944544681705472",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Big Trouble in Canuckistan, how's that #diversity #immigration working out for you up there in #Canada? @Reuters",
+            "user id": 292629799,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@Reuters: #Ottawa police: Actively looking for one or more suspects in Canadian parliament shooting\nhttp://t.co/HJ2M2oEBrj",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters Possibly more that one shooter? What are the odds this is terrorism?",
+            "user id": 2723735572,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters narcissistic stalker, what does it mean, who r the examples n does it mean that they believe victims r following the stalker!!?!??!",
+            "user id": 2241029670,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@Reuters: Ottawa police: Actively looking for one or more suspects in Canadian parliament shooting. http://t.co/ggMq8yCvyV”••@DeramosJen😳",
+            "user id": 68845525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@Reuters:..Actively looking for 1 or more suspects in Canadian parliament shooting..” #CanadaNeedsWBC #LiftTheBan #GodIsUrTerrorist #Repent",
+            "user id": 1273480106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@Reuters @TheMuslimIssue i think we very often hear the word CANADA",
+            "user id": 2839646410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@brahimelmaghrib @Reuters One day you'll be hearing the word \"you're the last Muslim left on earth\". #comingsoon",
+            "user id": 867087306,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@TheMuslimIssue @Reuters go fock yourself son of a biaaatch",
+            "user id": 2839646410,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

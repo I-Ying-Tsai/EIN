@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "When a policeman asks 'why are you filming?' ...\n#tcot #uniteblue #teaparty #gop #ferguson http://t.co/3Dlod16f5I",
+        "user id": 898533348,
+        "tweet id": "500369693203378176",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib Put your speaker phone on on your phone too if they stop you, Call a friend and let them listen.",
+            "user id": 2156190929,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib And after all that you get shot, dead people can't talk to defend themselves!!",
+            "user id": 27989993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib We don't want to end up like Egypt. We obviously couldn't depend on you to keep the man in line so this is my protection from you.",
+            "user id": 23013169,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@MiamiLib they are arresting people and have them sign over their recording so they not be detained",
+            "user id": 579477995,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@lady_nes @MiamiLib they know well most people to worried or can't afford delays, arrest or detaining",
+            "user id": 7812462,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib @SayNoToGOP Record every traffic stop. tell your sons &amp; daughters to call U  if they are being followed by the gestapo BKA police",
+            "user id": 2156190929,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib @misstcassidy Don't try that with the border patrol.--They will ask you to stop-if not arrested-if you do they erase all on camera",
+            "user id": 21009409,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib @elderberryplace Maybe the cops should make little signs for photographers: \"Don't Shoot\"",
+            "user id": 2157463010,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib @JessieFlagg1 When did this become an unlawful act?",
+            "user id": 1356427940,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib @BlueNationUntd 9 times out of 10 it doesn't go down like that.",
+            "user id": 1911726020,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@MiamiLib Answer; 1st amendment.",
+            "user id": 346257872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "#GoodAdvice “@MiamiLib: When a policeman asks 'why are you filming?' ...\n#tcot #uniteblue #teaparty #gop #ferguson http://t.co/UBaL5D8ZzU”",
+            "user id": 463182334,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@amunhay @wilde @MiamiLib As long as you're not in #Ferguson, as you'll probably get shot or have tear gas thrown at you for saying that.",
+            "user id": 210602332,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "“@MiamiLib: When a policeman asks 'why are you filming?' ...\n#tcot #uniteblue #teaparty #gop #ferguson http://t.co/CrfK3Q0fzT”",
+            "user id": 88125947,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

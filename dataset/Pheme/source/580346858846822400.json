@@ -1,0 +1,175 @@
+{
+    "source": {
+        "content": "This picture from a helicopter sent to the #Germanwings Alps plane crash site shows how remote the area is http://t.co/Fo6h66ZehE",
+        "user id": 7587032,
+        "tweet id": "580346858846822400",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Really shows a lot.......",
+            "user id": 2241324176,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews look for the smoke?",
+            "user id": 108459307,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @SkyNews picture from a helicopter sent to the #Germanwings Alps plane crash site shows how remote the area is http://t.co/fzk5UHxQWC",
+            "user id": 147202533,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews is that bear grylls?",
+            "user id": 2378065634,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @ricdaza its not remote. ...its foggy !!!",
+            "user id": 2915597476,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews s http://t.co/KIVVdgs7Rf",
+            "user id": 20617408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "content": "@SkyNews no credit for @airlivenet for the pic :-(",
+            "user id": 2280470022,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@airlivenet @SkyNews don't expect anything from them lot. Keep your content to yourself I recon",
+            "user id": 396021583,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@airlivenet @SkyNews did you guys actually take it? Credit lies with photographer not 1st to tweet it",
+            "user id": 56688219,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "@airlivenet Did you take the picture?",
+            "user id": 193422307,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@airlivenet just be thankful you're not being doorstepped to suicide. @SkyNews",
+            "user id": 2688202392,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 6,
+            "children": [],
+            "content": "@airlivenet @SkyNews of course not, it’s sky!",
+            "user id": 2873512124,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "“@Ricardo_Bald: @airlivenet just be thankful you're not being doorstepped to suicide. @SkyNews” #mccann #BrendaLeyland",
+            "user id": 18863590,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 5
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

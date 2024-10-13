@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "RETWEET!!! Before any cops were called, before anyone knew he was killed! One of them is his killer #ferguson http://t.co/MGqiSoj1Ab",
+        "user id": 227491174,
+        "tweet id": "499453410744483842",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@nicklito_ Not sure about that. New witness 2night on KTVI said officer who shot Mike left right away while other two officers secured scene",
+            "user id": 85368185,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ms15303 @nicklito_ if that is true, that needs to come out and spread with the rest of the information",
+            "user id": 1512496382,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CNN “@nicklito_: RETWEET!!! Before any cops were called, before anyone knew One of them is his killer #ferguson http://t.co/2NEyGuUdmC”",
+            "user id": 34923453,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

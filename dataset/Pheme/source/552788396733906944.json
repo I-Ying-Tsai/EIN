@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Breaking: Armed men attack offices of French satirical magazine Charlie Hebdo, killing at least 10, police say http://t.co/tYCeEMKwOo",
+        "user id": 3108351,
+        "tweet id": "552788396733906944",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @WSJ: Breaking: Armed men attack offices of French satirical magazine Charlie Hebdo killing at least 10 police say http://t.co/WGxWZgzDEN",
+            "user id": 67251641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Paris has too much \"skin in the game\" to stay on sidelines.They need a spot at the tip of the bullet",
+            "user id": 18826013,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

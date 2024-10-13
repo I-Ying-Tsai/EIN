@@ -1,0 +1,313 @@
+{
+    "source": {
+        "content": "#BREAKING Paris hostage-taker 'knows' one Charlie Hebdo killer: source",
+        "user id": 380648579,
+        "tweet id": "553553288625672192",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Paris hostage-taker 'knows' one Charlie Hebdo killer: source”#fox35",
+            "user id": 148063984,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@AFP: #BREAKING Paris hostage-taker 'knows' one Charlie Hebdo killer: source” what does that even mean?",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "@RichardSP86 @AFP I don't think even they know.",
+            "user id": 419322888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @Davinatics  this world is going crazy @nancylaws32  .",
+            "user id": 2956496417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AFP #BREAKING Paris hostage-taker 'knows' one Charlie Hebdo killer: source",
+            "user id": 36033359,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Paris hostage-taker 'knows' one Charlie Hebdo killer: source” WHAT THE HELL...?",
+            "user id": 2471649080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP WTF? Now I don't understand, the paris hostage-takers is the ones who killed the 12 people? I am mindfucked, someone explain.",
+            "user id": 910318406,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @Sara__Firth Melbourne airport down on terror alert",
+            "user id": 15634438,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "@FilaMagnus @AFP it's like they can't make up their mind if they were monitoring these guys or there was no warning....",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@RichardSP86 @AFP Seems like the script they have isn't as complete as it ought to be. Things are smelling as fishy as ever.",
+            "user id": 419322888,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@FilaMagnus @AFP someone is going to get the blame for this. Then also worry it'll just make conditions harder for all French Muslims",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@RichardSP86 @AFP All I'm wondering is \"who\", exactly. I truly fear for them. It's not like things aren't already hard, as it is.",
+            "user id": 419322888,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@FilaMagnus @AFP and about to get much worse. Collective punishment for government incompetence.",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                15
+            ],
+            "content": "@RichardSP86 @AFP That last bit sounds rather familiar, doesn't it? Had we not heard just about the same thing, with the attack in Sydney?",
+            "user id": 419322888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [
+                16,
+                17
+            ],
+            "content": "@RichardSP86 @AFP How can so many countries be making the same, simple, and highly incompetent mistake, at about the same time? It's crazy.",
+            "user id": 419322888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "content": "@FilaMagnus @AFP it's the story all over the world anymore yeah.",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [
+                18
+            ],
+            "content": "@FilaMagnus @AFP Australia was I think more genuinely unpredictable, in that his \"radicalization\" was internal, delusional, and grandiose",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 17,
+            "parent": 14,
+            "children": [
+                19
+            ],
+            "content": "@FilaMagnus @AFP that said you have to wonder how a man known for being psychotic and murderous had access to guns.",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [],
+            "content": "@RichardSP86 that most certainly is true. But...(eh, I guess with all the false flags, I can't help but see it all as something else)",
+            "user id": 419322888,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 19,
+            "parent": 17,
+            "children": [
+                20
+            ],
+            "content": "@RichardSP86 Exactly this. Especially with the amount of charges against him. I still really don't understand how he had walked free.",
+            "user id": 419322888,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "content": "@FilaMagnus incompetence. We see the same in all the US mass shootings preceded by ridiculous amount of red flags.",
+            "user id": 199149993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

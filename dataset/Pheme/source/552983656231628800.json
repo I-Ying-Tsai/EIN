@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "Crowds gather around the world in solidarity with #CharlieHebdo victims http://t.co/vKe1pHL8ls http://t.co/Ahkfs7wdan",
+        "user id": 15438913,
+        "tweet id": "552983656231628800",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline http://t.co/GdAAedOIOz",
+            "user id": 57023952,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @DreyfusJames \nThey'll be back at dissing #Pegida by Friday.",
+            "user id": 1003989258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline Free speech lost 12 brave voices today in Paris- Hidden behind masks as all cowards do, killed unarmed &amp; unafraid to speak aloud",
+            "user id": 537670884,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline One naturally wonders how many 'moderate' muslims are in these crowds, angrily denouncing terrorism.",
+            "user id": 33332251,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline UK still debating?",
+            "user id": 1355670361,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@MailOnline: Crowds gather around the world in solidarity with #CharlieHebdo victims http://t.co/1n2t8hKtjq http://t.co/szUHkQ5SxW”",
+            "user id": 42569338,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline every #newspaper should print the #cartoons to show the #terrorists they can not defeat us!!! - #CharlieHebdo",
+            "user id": 67137306,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@MailOnline and how do these protests stop/prevent/hinder global Islamic expansion",
+            "user id": 1177491776,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@MailOnline terroristic acts serve only to strike fear on any opposition to the totalitarian fascist Islamic political movement",
+            "user id": 1177491776,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @Neil7253 not many muslims or burkas there. Wonder why.",
+            "user id": 890094763,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline where was this when Israel was bombing and causing genocide of innocent Palestinians",
+            "user id": 303691467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@MailOnline: Crowds gather around the world in solidarity with #CharlieHebdo victims http://t.co/OmbkWHoBkQ http://t.co/wO55aKmCYd”",
+            "user id": 18945060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline Where are the Candle Brigade in India?",
+            "user id": 132577759,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

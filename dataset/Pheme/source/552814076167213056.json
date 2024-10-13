@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Simply put by our French colleagues in solidarity with the journalists of #CharlieHebdo http://t.co/mXwAsi2N4S",
+        "user id": 18021754,
+        "tweet id": "552814076167213056",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NeilMackay Oui cést ca",
+            "user id": 2637214800,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@NeilMackay: Simply put by our French colleagues in solidarity with the journalists of #CharlieHebdo http://t.co/dzuS8Uh3Jr”",
+            "user id": 1225553011,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@NeilMackay: Simply put by our French colleagues in solidarity with the journalists of #CharlieHebdo http://t.co/b8lz63yWAC”",
+            "user id": 47742491,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@NeilMackay @margaritateresa …in this country we are all Charlie…for our beliefs and the way we live.",
+            "user id": 17312357,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@GStuedler @NeilMackay agree! This is beyond sad. Condolences to our French brothers &amp; sisters.",
+            "user id": 18487837,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NeilMackay @Joumana333 éééé oui !!!!! vive la liberté d'expression",
+            "user id": 2846440516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

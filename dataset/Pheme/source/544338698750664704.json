@@ -1,0 +1,214 @@
+{
+    "source": {
+        "content": "Lindt Chocolate Cafe Australia issues #sydneysiege statement on Facebook: http://t.co/1YFI7UGv0W http://t.co/tyytSBUjtk",
+        "user id": 5402612,
+        "tweet id": "544338698750664704",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking \n\nKaty &amp; Bieber embrace Islam: http://t.co/5aZF6v6kxT\n\nThe Bible &amp; NASA embrace Islam: http://t.co/KL7Pm8FQcT,",
+            "user id": 607311691,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Lindt Chocolate Cafe Australia issues #sydneysiege statement on Facebook: http://t.co/qNFrzBosvk http://t.co/iB9wqGQz1s via @BBCBreaking",
+            "user id": 14071491,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking  pray for them all",
+            "user id": 1634366978,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@BBCBreaking This is a very serious act of terror and every single authoritarian figure needs to apprehend the suspects ASAP.",
+            "user id": 1098815064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@alesandrotea @BBCBreaking \"every single authoritarian figure\" - better get Kim Jong Un over right away then! can't leave anyone out.",
+            "user id": 469699513,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@alesandrotea @BBCBreaking Is there a non serious act of terror then?",
+            "user id": 469699513,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Because there is only one hostage taker, he will need to sleep, eventually.",
+            "user id": 1931711646,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking @BBCNews Thoughts and \"PRAYERS\"  I'll be buying their chocolats tomorrow.",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@BBCBreaking @nswpolice #SydenySiege all that over chocolate? Right before Christmas?  It's like a Lindt Chocolate commercial but a real one",
+            "user id": 294278734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@TheRihan @BBCBreaking @nswpolice Australian faction of ISIS is involved http://t.co/x6TScCMVoQ",
+            "user id": 1394262409,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: Lindt Chocolate Cafe Australia issues #sydneysiege statement on Facebook: http://t.co/ukgF6Sl5r7 http://t.co/uYIaNBJhHE”",
+            "user id": 103972238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [
+                12
+            ],
+            "content": "@Smeggypants Dumbass.",
+            "user id": 1098815064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "content": "@alesandrotea Indeed, but you were funny too :)",
+            "user id": 469699513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "content": "@Smeggypants This isn't a time to laugh asshole.  There are innocent people in danger and the authorities must act fast.",
+            "user id": 1098815064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@alesandrotea Oooooooooooooooo Mr Serious.",
+            "user id": 469699513,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

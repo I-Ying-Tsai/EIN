@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "I wish that all news outlets publish #CharlieHebdo 's cartoons/satire tomorrow on their front pages as a tribute to the dead. RIP",
+        "user id": 299416026,
+        "tweet id": "552802714816905216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal yah. good luck with that. when the danish cartoon scandal happened two US newspapers published *some* of them.",
+            "user id": 50294215,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal @lillai23 \nYES!!!👍",
+            "user id": 464857476,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal @Ostrov_A They must not just wish.",
+            "user id": 2285210078,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal @dorothyofisrael they won't. Cowards, liberals and panderers",
+            "user id": 2877276800,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal @dorothyofisrael As a matter a fact I bet news outlets blur the image",
+            "user id": 2877276800,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal @CiFWatch the UK papers have already done that. Pixelated!! Cowards",
+            "user id": 20301302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal @Ostrov_A i also wish same but media dont have balls to republish cartoon now. terrorism won.",
+            "user id": 1249284978,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal @Ostrov_A it's just a shame they won't.",
+            "user id": 35812581,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BenWeinthal Go ahead, tell your newspaper to be the first one to do it.",
+            "user id": 2511489271,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@BenWeinthal @cajunlawchick Twitter doing a great job of publicising the cartoons well done #JeSuisCharlie",
+            "user id": 482066341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@MaccLabour @BenWeinthal Let’s keep that up! X",
+            "user id": 411186985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,169 @@
+{
+    "source": {
+        "content": "You may want to stop and take a deep breath before tweeting insults at parliamentarians and reporters in #ottawa today, OK?",
+        "user id": 156123647,
+        "tweet id": "524964129745174528",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye who's yelling at reporters? Cause I'd like to smack them",
+            "user id": 503693698,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye Politics shouldn't exist on a day like today.",
+            "user id": 14268064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@sladurantaye @jm_mcgrath so democracy stops?",
+            "user id": 142847511,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Dia_volo @jm_mcgrath No, civility reigns.",
+            "user id": 156123647,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@sladurantaye Disagreement is unpatriotic.",
+            "user id": 73653847,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@DuncLuciak @sladurantaye disagreement's not unpatriotic n a time like this…it's just tasteless/vulgar/petty…inhuman.",
+            "user id": 216544692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @sunlorrie Except for the reporters tweeting police locations. Idiots.",
+            "user id": 579197401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye Agreed, but reporters and civilians should refrain from tweeting out police locations.",
+            "user id": 39704196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@sladurantaye @darrellbricker  Huh?",
+            "user id": 282195067,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@terencecorcoran @darrellbricker I presume you don’t need to be told. Other random mean people seem to need reminding.",
+            "user id": 156123647,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @darrellbricker Ok. Solidarity. We're all Canadians.",
+            "user id": 2369517908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye I pray for all those in lock down as a result of this shooter. But especially the families of the soldiers at this time.",
+            "user id": 2647049272,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @cmarkevich Right, but remember sh is not a parliamentarian.",
+            "user id": 474150173,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

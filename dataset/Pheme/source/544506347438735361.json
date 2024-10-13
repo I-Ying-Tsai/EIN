@@ -1,0 +1,90 @@
+{
+    "source": {
+        "content": "SYDNEY ATTACK LATEST:\n- 16th hour\n- 5 people escaped\n\nGUNMAN DEMANDS:\n- Speak to PM\n- ISIS flag\n\nClaims he has 2 bombs with him &amp; 2 in city",
+        "user id": 292777349,
+        "tweet id": "544506347438735361",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@PzFeed @davidwebbshow dumbasses have had multiple opportunities to kill the bastard with a sniper. WTF wrong with them?",
+            "user id": 426705135,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "content": "@TheSchwartz65 @PzFeed @davidwebbshow there's 2 gunmen if one gets taken out the other will take out the rest of the hostages",
+            "user id": 1465997580,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@TriComStorm @PzFeed @davidwebbshow one shooter in Australia. Only place I was talking about.",
+            "user id": 426705135,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@TheSchwartz65 @PzFeed @davidwebbshow I'm sorry early reports said 1 but I wasn't updated",
+            "user id": 1465997580,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@TheSchwartz65 @PzFeed @davidwebbshow early reports said 2 i meant",
+            "user id": 1465997580,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

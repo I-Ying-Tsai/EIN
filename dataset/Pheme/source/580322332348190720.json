@@ -1,0 +1,221 @@
+{
+    "source": {
+        "content": "Flightradar24 has this as the plane's last position. #4U9525 https://t.co/KffO4s4N6G",
+        "user id": 92771309,
+        "tweet id": "580322332348190720",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCRosAtkins: Flightradar24 has this as the plane's last position. #4U9525 https://t.co/2CN8LrhwWj” @T13",
+            "user id": 16933178,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@BBCRosAtkins: Flightradar24 has this as the plane's last position. #4U9525 https://t.co/sWDS9KoyxA”",
+            "user id": 1040962352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "content": "6800ft far too low RT @BBCRosAtkins: Flightradar24 has this as the plane's last position. #4U9525 https://t.co/hBZhx4Criy",
+            "user id": 19910285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Jonny_Hallam @BBCRosAtkins rate of descent very steep, though groundspeed suggests it wasn't stalled + falling out of sky",
+            "user id": 116910049,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@Jonny_Hallam @BBCRosAtkins no mayday ?",
+            "user id": 19145560,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@Jonny_Hallam @benmarsh @BBCRosAtkins It's the Vertical Speed of -3584fpm and the speed of the aircraft of 378kt which is most concerning",
+            "user id": 22272218,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [
+                9
+            ],
+            "content": "@Jonny_Hallam very low, but was it flying low or on its way down when that reading was taken?",
+            "user id": 18329957,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@Youngloch @benmarsh @BBCRosAtkins yes. Not nice at all",
+            "user id": 19910285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                10
+            ],
+            "content": "@Jonny_Hallam @benmarsh @BBCRosAtkins reminds me a bit too much of the Helios crash in Greece when everyone was unconscious",
+            "user id": 22272218,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [
+                11
+            ],
+            "content": "@dgoneill not intentional altitude at that rate of descent I would think.",
+            "user id": 19910285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@Youngloch yep. That's what I was thinking.",
+            "user id": 19910285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@Jonny_Hallam Just looked at this.. http://t.co/eivkL8iuMe Starts decending as soon as it hits 38000, takes 12 minutes to come down to 6800.",
+            "user id": 18329957,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                14
+            ],
+            "content": "@Jonny_Hallam Awful news today - if nothing else it's indirect terrorism... If 9/11 had never happened that door could have been opened.",
+            "user id": 22272218,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@dgoneill very odd",
+            "user id": 19910285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@Youngloch yep for sure.",
+            "user id": 19910285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

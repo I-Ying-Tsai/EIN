@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "Airport operator Aena: Crashed #GermanWings jet took off from Barcelona airport at 0855 GMT http://t.co/8UPMsinQkX http://t.co/4IpoDSEy7U",
+        "user id": 7587032,
+        "tweet id": "580331071457333248",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews My oh my..Very very very sad",
+            "user id": 716785466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews  Stop reporting that the aircraft was flying at 24kts. The aircraft hit the mountain at 378KTS (435 MPH).",
+            "user id": 1473132685,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews  The aircraft was descending at roughly 3000ft per minute. This is a little over normal but not uncontrolled.",
+            "user id": 1473132685,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews so horrible 😔...",
+            "user id": 25049396,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews  German society is so sunk in repression that does not allow employees with depression, THEY CONSIDER THEM WEAK AND ABNORMAL",
+            "user id": 1347116040,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

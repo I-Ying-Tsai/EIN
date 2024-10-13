@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "Rest In Peace Cpl. Nathan Cirillo and thank you for serving our country #OttawaShooting http://t.co/Tb062RSRtC",
+        "user id": 736798032,
+        "tweet id": "525026947307700225",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@Canadagentleman: Rest In Peace Cpl. Nathan Cirillo and thank you for serving our country #OttawaShooting http://t.co/P01lx5lUS7”",
+            "user id": 18222204,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@Greg_M_Schwartz Are you Canadian? We're having a debate on 31.",
+            "user id": 18999488,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Canadagentleman My condolences to his family, deeply sorry for your loss of this handsome man on his own soil. There is no justification.",
+            "user id": 2684065956,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Canadagentleman @jdee_ RIP CPT NATHAN CIRILLO,MY THOUGHT ARE WITH YOUR FAMILY AND FRIENDS LOVE FROM THE UK",
+            "user id": 280482995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Much power to his family: @Canadagentleman @quietfire Rest In Peace Cpl. Nathan Cirillo &amp; thank you for serving our country #OttawaShooting",
+            "user id": 80018611,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Canadagentleman brave man. May his soul RIP.",
+            "user id": 238941944,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@AlisonPaoli @Greg_M_Schwartz  half Canuck.",
+            "user id": 18222204,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@Greg_M_Schwartz Born in Canada, raised in the US?",
+            "user id": 18999488,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

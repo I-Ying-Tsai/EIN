@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "UPDATE | Shots were fired inside Parliament Hill and gun fire was exchanged with hill security. #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524938857180303360",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: UPDATE | Shots were fired inside Parliament Hill and gun fire was exchanged with hill security. #cbcOTT #OTTnews”",
+            "user id": 376188301,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa I believe the soldier had died",
+            "user id": 2187367754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa I just heard that the soldier has died.",
+            "user id": 2187367754,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: UPDATE | Shots were fired inside Parliament Hill and gun fire was exchanged with hill security. #cbcOTT #OTTnews” OMG!",
+            "user id": 25568513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

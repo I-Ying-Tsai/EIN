@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "DARREN WILSON\nMURDERED AN UNARMED TEEN\nLEFT HIS BODY IN THE STREET FOR 4 HRS\n\nAnything else is irrelevant.\n#MikeBrown\n#Ferguson\n#CoverUp",
+        "user id": 40293464,
+        "tweet id": "500396175753633792",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe word. I'm gonna go Mike Brown &gt; allegedly stolen box of swishers all the time. This is offensive.",
+            "user id": 928052875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Left his body in the street for hours.  As @TefPoe correctly points out, EVERYTHING ELSE IS IRRELEVANT. #MikeBrown",
+            "user id": 16502238,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe then stuffed him in the back of an SUV",
+            "user id": 24511815,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@TefPoe:DARREN WILSON\nMURDERED AN UNARMED TEEN\nLEFT HIS BODY IN THE STREET FOR 4 HRS\"&amp; then the body was put in a police SUV.no ambulance.",
+            "user id": 150470636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@TefPoe and the police chief said the reason he was stopped was walking in the street.  not an alleged robbery. case closed",
+            "user id": 41066750,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@judgebeats \"initial\" reason ... he came back, remember?  @TefPoe",
+            "user id": 725173022,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe Mike was not going to be arrested for the felony robbery and assault he had just committed @OpFerguson",
+            "user id": 725173022,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe it's a tactic lawyers use to present reasonable doubt",
+            "user id": 450954788,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe Shot twice in the back as he tried to run.This is Darren Wilson, shortly after he killed #MikeBrown #Ferguson http://t.co/bB7JFU3YUT",
+            "user id": 53190110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe @jasiri_x The law is lawless till #DarrenWilson is sent to Prison for a LONG Time. #MikeBrown was a Good KID, he committed NO crime.",
+            "user id": 542291870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe @No_Cut_Card",
+            "user id": 210919975,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@TefPoe @OpFerguson  can we release a photo?",
+            "user id": 1656207200,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

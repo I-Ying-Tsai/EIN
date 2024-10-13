@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "Wow. Photo from MP Nina Grewal showing the doors of Reading Room Barricaded.  #ParliamentHill #Ottawa http://t.co/vGsuHQqadi\"",
+        "user id": 106788285,
+        "tweet id": "524967631171117056",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@PTadros_RC Is it the best idea to be sharing this? Gunmen are still at large and risks remain.",
+            "user id": 514825795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@40oz__ @PTadros_RC That's what I was about to say. Bad idea to share on the Internet, people!",
+            "user id": 46225184,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

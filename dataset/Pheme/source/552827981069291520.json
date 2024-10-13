@@ -1,0 +1,156 @@
+{
+    "source": {
+        "content": "We didn't always agree with Charlie Hebdo but we believed in their right to express their views  - local mayor\nhttp://t.co/iHU9T3iynU",
+        "user id": 786764,
+        "tweet id": "552827981069291520",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Looks like Europe has lost its power in every way &amp; soon most of Europe would be worthless countries @bbcworldservice #Paris #ParisShooting",
+            "user id": 923278088,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcworldservice @BBCWorld the play of words",
+            "user id": 2399391152,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@bbcworldservice @BBCWorld \n#YPG / #YPJ fighter of #Kobane\nR very sadden by loosing our supporter &amp;friend of #Kurds  http://t.co/KvHfKkusIm",
+            "user id": 48304732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@_KOBANE @kaatje36 @bbcworldservice @BBCWorld With The Happy Family less Amsterdam Jihadists fighters’ abroad. http://t.co/43MOBjtnk6",
+            "user id": 2384915342,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcworldservice @BBCWorld there must be a limit on how people express themselves",
+            "user id": 283937135,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcworldservice @BBCWorld. Religious matter r alwez sensitive and we must respect each other. Freedom speech doesn't mean u hurt other.",
+            "user id": 282086738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcworldservice @BBCWorld These perpetrators are more like fascist thugs mistakenly believing 2 wrongs make a right #WeStandWithYouParis",
+            "user id": 556215216,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcworldservice @BBCWorld Here. Here.",
+            "user id": 1901962620,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@bbcworldservice @BBCWorld There should be a line between right of expression n abuse,if not then they used their right of action",
+            "user id": 1519268462,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@bbcworldservice @BBCWorld So playing with words n logic without any limit is illogical and dangerous",
+            "user id": 1519268462,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcworldservice @bbcworld  but many people didn't , people who'd already issued countless death threats",
+            "user id": 422543588,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcworldservice @BBCWorld Prophet forgave all,including poets who wrote snide verses against him on Kaaba wall/Peace\nhttp://t.co/V8h0r9JYcQ",
+            "user id": 1349852526,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

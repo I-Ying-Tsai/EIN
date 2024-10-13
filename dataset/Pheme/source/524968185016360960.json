@@ -1,0 +1,164 @@
+{
+    "source": {
+        "content": "#Leafs Joffrey Lupul praises officers in Ottawa, as team remains in lock down http://t.co/OPooNxTsiv http://t.co/yBjIu2JaaP",
+        "user id": 27947088,
+        "tweet id": "524968185016360960",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": ".@hockeynight at a time like this do we really need to know what a hockey player thinks?",
+            "user id": 307257945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ojazeera @hockeynight Why not? He's just as entitled to voice himself, as are you. #inappropriatescorn",
+            "user id": 2464875182,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@ojazeera @hockeynight I agree, this is Canada, everyone is able voice their opinions, whether they're just a hockey player or not.",
+            "user id": 525723368,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@hockeynight take down. Have people not been told NOT to post pictures of police, military positioning?",
+            "user id": 48809482,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@DrJamesNaismith @hockeynight does that look like police/military to you?",
+            "user id": 586149146,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@hockeynight there pictures are all over the news.. I highly doubt the ppl who did the shootings are watching TV or are tweeting.. #wakeup",
+            "user id": 1647991622,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@hockeynight The man (not the hockey player) is giving praise to police in their handling of the situation.In this day and age, I welcome it",
+            "user id": 2237873221,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@hockeynight leafs stay at the westin",
+            "user id": 292041890,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@Kasrth @hockeynight I'm looking at a 4\" screen. Bunch of people in dark clothes. Post all the pictures you want, when the area is secure.",
+            "user id": 48809482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@DrJamesNaismith well if you're looking at a 4\" screen maybe it's best you don't jump to conclusions?",
+            "user id": 586149146,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@Kasrth what's the fucking need to see anything until we figure it out... So twitter detectives can jump to conclusions? Fuck off.",
+            "user id": 48809482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "RT @AntonioFrench: State Senator asks the #Ferguson police chief if she's going to be gassed again. https://t.co/nOjU8ikmr2",
+        "user id": 169962549,
+        "tweet id": "499650234914713600",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@atmosphere: RT @AntonioFrench: State Senator asks the #Ferguson police chief if she's going to be gassed again. https://t.co/TyO4RHmudJ” 😮",
+            "user id": 21735682,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@atmosphere @2complex2know @AntonioFrench damn them some pig ol' fat #pigs",
+            "user id": 2490023184,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "这样的西瓜不能再吃了！有很多黑心商贩把针头对准了尚未成熟的西瓜，注射禁用食品添加剂甜蜜素和胭脂红！“打针西瓜”瓜瓤呈红色，汁液也很“丰富”，但没有一点西瓜味。所用添加剂破坏肝脏、肾脏的功能、影响儿童智力发育等毒性！夏天来了，请将此帖多多转发，让更多网友和市民的健康，不再遭受侵害！",
+        "user id": 1225357530,
+        "tweet id": "3477110834353749",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "受教了",
+            "user id": 1082964241,
+            "user name": "幸运无可取代777",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "学习下",
+            "user id": 1968849064,
+            "user name": "陈青微波",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "[good]",
+            "user id": 2807957603,
+            "user name": "魏宁雅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "习惯、了.中国人.",
+            "user id": 2674911527,
+            "user name": "一流代笔兼写手",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[呵呵]",
+            "user id": 2646090501,
+            "user name": "章淳棉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "我们的健康啊，哎。。。呵呵，还是上次叔叔送的西瓜好吃，嘿嘿。。。",
+            "user id": 1084215387,
+            "user name": "抽风乐和贱力宝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "[吃惊]我好想还吃过不少这样的西瓜呢~~~，分享给大家，赶紧注意的！！！！[话筒]",
+            "user id": 2304233851,
+            "user name": "善爱网",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "欺骗消费者可耻！[怒]",
+            "user id": 2051801221,
+            "user name": "善爱汇",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "爱吃西瓜的你们要记住哟@Sean瑶 @找寻不遍",
+            "user id": 2643132703,
+            "user name": "周华vs华华",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

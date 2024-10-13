@@ -1,0 +1,101 @@
+{
+    "source": {
+        "content": "Witnesses say several masked men were involved in the shooting at #CharlieHebdo's Paris HQ. http://t.co/xcK8lY9IeR http://t.co/QPKtv7stET",
+        "user id": 7587032,
+        "tweet id": "552791115599192064",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Πάρτε Μωάμεθ και πως γίνεται το μακελειό!",
+            "user id": 91528467,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@SkyNews doesn't mean they're Muslims. Not real Muslims anyway. Islam is the religion of peace don't you know.",
+            "user id": 2752626905,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@harrycarter87 No its not.",
+            "user id": 2195413480,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Jesus",
+            "user id": 259813726,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews \nTolerant Muslim no doubt?",
+            "user id": 1887799932,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@SkyNews @vyshakmv you join \"USA war against terror\" now pay for membership @JohnKerry  ##ParisShooting  #isis #Syria http://t.co/9huteRACn5",
+            "user id": 75977801,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@sandeepbaliga @SkyNews @vyshakmv @JohnKerry this is in bad taste. Dont justify the cowardice.",
+            "user id": 30657692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

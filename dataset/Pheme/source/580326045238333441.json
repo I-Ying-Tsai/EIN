@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "UPDATE: French President François Hollande has said that no survivors are expected in Germanwings plane crash over France. #9News",
+        "user id": 22993014,
+        "tweet id": "580326045238333441",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS 😔",
+            "user id": 289242244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS @Globalgallop they can predict if there's any survivors before they get to the crash site now?",
+            "user id": 340160734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "The NHL announces tonight's game between the #Leafs and #Sens in Ottawa has been postponed",
+        "user id": 430145070,
+        "tweet id": "524975642379816960",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SportsCentre @SusanneFox As it should be, having a #hockey game on the same day as a #shooting is just asking for trouble.",
+            "user id": 18014327,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SportsCentre @NHL @MapleLeafs well done #respect @Senators",
+            "user id": 405218158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Germanwings #A320 plane crashes in southern France, French prime minister says. More soon. http://t.co/cBKN5dN40H",
+        "user id": 28139873,
+        "tweet id": "580322349569994752",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJeurope @rezel RIP",
+            "user id": 2905066780,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

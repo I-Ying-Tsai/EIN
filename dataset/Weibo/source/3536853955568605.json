@@ -1,0 +1,161 @@
+{
+    "source": {
+        "content": "帮朋友转发:朋友在公交捡到了个钱包內有两张身份证,驾驶证和三张1月25号惠州到武昌的火车票名字是陈翠珍,高艳林,张馨元.春运期间,不知道失主花了多少功夫买这三张卧铺票,没了身份证如何回家过年,急疯了。转发举手之劳。 (联系:陈珉岩 13006609059) 有愛在廣州，不要讓冷漠成為我們的朋友，轉起來！",
+        "user id": 1750420913,
+        "tweet id": "3536853955568605",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                4,
+                5,
+                6
+            ],
+            "content": "识我者，帮忙转发",
+            "user id": 1750420913,
+            "user name": "牛魔王的BB",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[围观][围观]",
+            "user id": 1868270997,
+            "user name": "deedee323",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@G4落力帮",
+            "user id": 1750420913,
+            "user name": "牛魔王的BB",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": " @广州公安 @平安南粤",
+            "user id": 1647569637,
+            "user name": "草-丛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": " @新闻日日睇 @广州铁路公安处 @广州公安",
+            "user id": 1580883845,
+            "user name": "mingqian",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "幫轉@G4出动",
+            "user id": 1579532672,
+            "user name": "猫猫嬉嬉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [
+                7,
+                9
+            ],
+            "content": "",
+            "user id": 1740001281,
+            "user name": "ann_yu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "",
+            "user id": 1743885717,
+            "user name": "司徒Mon",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1781662663,
+            "user name": "kiki-小芸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "content": "",
+            "user id": 1766775823,
+            "user name": "糯米妹MM",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "各位热心的朋友，失主已经找到了，谢谢大家的帮忙[爱心传递]",
+            "user id": 1750420913,
+            "user name": "牛魔王的BB",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

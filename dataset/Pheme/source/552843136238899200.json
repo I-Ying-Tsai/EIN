@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "US Embassy in Paris changes Twitter pic to #JeSuisCharlie @USEmbassyFrance http://t.co/amZEARKIHq",
+        "user id": 230787751,
+        "tweet id": "552843136238899200",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@donie: US Embassy in Paris changes Twitter pic to #JeSuisCharlie @USEmbassyFrance http://t.co/EszVbtIcu9”",
+            "user id": 18558137,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "US Embassy in Paris changes Twitter pic to #JeSuisCharlie. http://t.co/Ewne76CFB6 Via @donie #CharlieHebdo",
+            "user id": 310341961,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@donie @michaeldweiss @USEmbassyFrance &gt;&gt;Good. Hang tough. (1) Muslims: if insulted, walk away. (2) Most Muslims are moderate, hence fine.",
+            "user id": 1155761568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@donie @blabalade @USEmbassyFrance US  have a responsabity about this.fuck a donky #obama",
+            "user id": 2603860506,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@donie @USEmbassyFrance So now they've changed it back?",
+            "user id": 55712928,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

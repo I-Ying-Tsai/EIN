@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "RT @CBCOttawa: CONFIRMED | 1 shooter shot dead at Parliament Hill, but there is more than 1 suspect. #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524944006577668096",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa",
+            "user id": 610005990,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa #staysafe #Ottawa #prayers",
+            "user id": 2184697412,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa All Government Buildings on lockdown as precaution. Employees told to stay way from windows. #parliament",
+            "user id": 25163161,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "source": {
+        "content": "Police asking you not tweet abt, retweet, or otherwise report police locations &amp; activity in #Ottawa. Help them do jobs safely. Please.",
+        "user id": 26599982,
+        "tweet id": "524945101542678529",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@DawsonOakes But media continues to do it?",
+            "user id": 21143053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@accfanto They do. On CBC, Rosemary Barton just talked about subject. Safety first should be only consideration right now.",
+            "user id": 26599982,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@DawsonOakes @TallApproved @cbcradio in Ottawa just gave a live action description of officers moving away from Parliament...",
+            "user id": 1957585262,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "@PotassiumBoron @TallApproved @cbcradio Oh dear. First responders need to be kept as safe as possible.",
+            "user id": 26599982,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@DawsonOakes joking right. news media broadcasting everything. Live on scene interviews from Canadian politician of what is going on.",
+            "user id": 7905512,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "@DawsonOakes @TallApproved @cbcradio exactly. It's that type of stupidity that could get officers killed.",
+            "user id": 1957585262,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@PotassiumBoron @DawsonOakes @cbcradio It's the same idiocy that happened during the Moncton shootings. Incredibly dangerous.",
+            "user id": 372932649,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@TallApproved @DawsonOakes @cbcradio there should be fines from CRTC when broadcasters do this. Safety of first responders &gt; live broadcast.",
+            "user id": 1957585262,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

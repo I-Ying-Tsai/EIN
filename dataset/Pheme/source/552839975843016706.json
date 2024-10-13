@@ -1,0 +1,107 @@
+{
+    "source": {
+        "content": "\"This is not a religion\" Important to remember in times like this. #CharlieHebdo http://t.co/h2va5LS6Yb",
+        "user id": 1277654299,
+        "tweet id": "552839975843016706",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@VikingBohman Dumb.",
+            "user id": 39213003,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@_Mauna_ because?",
+            "user id": 1277654299,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@VikingBohman: \"This is not a religion\" Important to remember in times like this. #CharlieHebdo http://t.co/QLf3kephm9” Pour certains, si !",
+            "user id": 494877276,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@KerrienY @VikingBohman La religion tue encore en 2015 http://t.co/d1TenNLjDo",
+            "user id": 464502436,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@VikingBohman @laurentbazin Abraham prêt à égorger son propre fils pour son dieu et donné en exemple par 3 religions http://t.co/FiIt4qqc6x",
+            "user id": 464502436,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "#IslamNonCoupable  “@VikingBohman: \"This is not a religion\" Important to remember in times like this. #CharlieHebdo http://t.co/kIXciBb8d0”",
+            "user id": 221506983,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@tetunicois @KerrienY Ce n'est pas les religions qui tuent mais les gens.. Les extrémistes.",
+            "user id": 1277654299,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

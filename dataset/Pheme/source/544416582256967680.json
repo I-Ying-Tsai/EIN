@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "and then came #illridewithyou - people offering to accompany those who fear for their safety on public transport #hope #sydneysiege",
+        "user id": 125486974,
+        "tweet id": "544416582256967680",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@lenoretaylor A story in that beautiful hashtag, I'm informed @sirtessa started it. Highly commended",
+            "user id": 71118174,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Brilliant MT @lenoretaylor: then came #illridewithyou - ppl offering to accompany those who fear for safety on public transport #sydneysiege",
+            "user id": 61436584,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@lenoretaylor So, campaining essentially in favour of the real violence in the #sydneysiege by fighting imaginary violence #illridewithyou",
+            "user id": 472513258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@lenoretaylor I also guarantee 99% of the social justice nitwits who tweeted #illridewithyou will not go anywhere near a muslim today",
+            "user id": 472513258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@chrishagentb Bus drivers are using it. Don't be such a cynic @lenoretaylor",
+            "user id": 316405268,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

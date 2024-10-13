@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": ". @USEmbassyFrance changes Twitter pic to #JeSuisCharlie #CharlieHebdo http://t.co/nCO0bEygIx",
+        "user id": 168828976,
+        "tweet id": "552846625467817984",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "h/t @elenacresci for that",
+            "user id": 168828976,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@Claire_Phipps @emilybell \"Misleading press reports\" -- mon dieu! Shocked, shocked that such a thing occurs. A foundation of belief shakes.",
+            "user id": 944620754,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Claire_Phipps @USEmbassyFrance their loss",
+            "user id": 35900612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Claire_Phipps @kady @USEmbassyFrance C'est la France! C'est le temps de montrer la porte a ceux qui veulent changer votre mode de vie.",
+            "user id": 551234726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

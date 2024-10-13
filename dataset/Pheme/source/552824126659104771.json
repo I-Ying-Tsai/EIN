@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "In this difficult time, People of Iran and their resistance movement stand by people of France and bereaved families #CharlieHebdo #Paris",
+        "user id": 56961858,
+        "tweet id": "552824126659104771",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mdoustmohamadi @maryam_rajavi Cartoons drawn for Charlie Hebdo:  http://t.co/Wjbxph6AcV #CharlieHebdo #paris",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Maryam_Rajavi @ahmadbo_bo #paris",
+            "user id": 297421895,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Kremlin just released a new photo: \n\"both president Putin and Kim are doing well, somewhere in hell.\" #putindead http://t.co/5bLbId1eWt",
+        "user id": 20826640,
+        "tweet id": "576546827643703296",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@sequoia2001 @hm_registered that's not kim, th pictured Korean has a normal hairstyle and he's shorter than Putin",
+            "user id": 718379855,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@sequoia2001 @AldisPravornis Doppelganger :)",
+            "user id": 28059319,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@sequoia2001 gotta love this tweet!",
+            "user id": 2891179943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@sequoia2001 He's having a hot toddie with Hitler too.",
+            "user id": 246082925,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 3
+        }
+    }
+}

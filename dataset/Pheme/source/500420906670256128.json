@@ -1,0 +1,157 @@
+{
+    "source": {
+        "content": "Never forget:\nTear Gas.\nRubber Bullets.\nAPCs.\nMilitarized Cops.\nNo Name Tags.\nNo Fly Zone.\nAl Jazeera.\nNever Forget Mike Brown.\n#ferguson",
+        "user id": 12442992,
+        "tweet id": "500420906670256128",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanodonnell don’t forget looting.",
+            "user id": 14839230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@ryanodonnell what's wrong with gassing Al Jazeera? And everyone should forget violent felons like #MikeBrown #JusticeForMikeBrown",
+            "user id": 350730193,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@lightofmankind @ryanodonnell So you're in favour of street executions for people who look similar to someone who committed a misdemeanor.",
+            "user id": 1101150086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@lightofmankind @ryanodonnell \"Light of Mankind\" you are outnumbered. We have love and truth and you have a sad and twisted mind. Peace.",
+            "user id": 113637226,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanodonnell Schedule this one to repeat every week until the ’16 election is done.",
+            "user id": 6273392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanodonnell Gun-crazed Americans...no hope for peace.",
+            "user id": 2166911444,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanodonnell The police state will become a military zone unless we stand together: black, white, brown - all of us against them. Let's win",
+            "user id": 113637226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanodonnell and irrelevant liberals",
+            "user id": 2543738855,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [],
+            "content": "@GameappMakerCo @ryanodonnell don't feed the trolls @lightofmankind",
+            "user id": 60771081,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@GameappMakerCo @ryanodonnell felony assault and theft at same time takes skills http://t.co/e9r2ZmYJ81",
+            "user id": 350730193,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@lightofmankind Even if that *was* Brown it wouldn't excuse bullets in the back. Nor gassing media. Nor shooting praying women. Nor tanks.",
+            "user id": 1101150086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

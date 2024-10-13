@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "Crowd near site of shooting chants \"hands up, don't shoot.\" #Ferguson http://t.co/QjRW4Zqa0n",
+        "user id": 7768402,
+        "tweet id": "499674991294951424",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @xeni lovely, a heart-shaped restrainer set. He does it for love.",
+            "user id": 736303,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @xeni I love black people. @chrisrock Say it loud",
+            "user id": 983294221,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@ryanjreilly: Crowd near site of shooting chants \"hands up, don't shoot.\" #Ferguson http://t.co/utmeundmdQ”",
+            "user id": 73425464,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @BoingBoing that's not a heart in the guys back. That's handcuff zipties\n#justincase\n#irony",
+            "user id": 497484572,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @atrios In 2013 alone, Pentagon transferred $449M worth of property to law enforcement http://t.co/1L0E9cKv3I Also, @fixthedebt",
+            "user id": 14570525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @Atrios THE FERGUSON COPS HAVE BEEN WATCHING TOOO MANY SWAT SHOWS WITH ALL THAT GEAR",
+            "user id": 63243885,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly at least the officers pictured here are wearing regular patrol uniforms, instead of looking like they're about to go to war.",
+            "user id": 234702415,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@ryanjreilly @jones410 It's sickening! Blessings to those hurting, thanks to those mobilizing.",
+            "user id": 715052108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                12
+            ],
+            "content": "@BermanJ1 @ryanjreilly Some crap just wrong! #FergusonPoliceDepartment",
+            "user id": 21281289,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @democatsanddogs GOOD JOB RYAN",
+            "user id": 24556105,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly I love the irony of the 'heart shape' the officer's zip-tie cuffs make on his back. :-)",
+            "user id": 6063082,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@ryanjreilly @AnneMcNamaraTV Don't let this be Detroit 1967 all over again. http://t.co/ipqYtp0l6i",
+            "user id": 16834815,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [],
+            "content": "@jones410 @ryanjreilly agreed, absolutely, &amp; far worse than wrong IMO. It's an abomination!",
+            "user id": 715052108,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Hostage situation ongoing in Sydney business district.\n\nLIVE: http://t.co/j1ljDbazOw\nUPDATES: http://t.co/PD7pVfU9pQ http://t.co/Q3ECKnYfPV",
+        "user id": 28785486,
+        "tweet id": "544396587192311808",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@ABC @wfaachannel8 democrats and muslims are an alliance of fools against america! http://t.co/dKSortuU1P",
+            "user id": 142150016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Tea_Alliance @ABC @wfaachannel8 Wow. You're like a propagandist's wet dream. They fuckin own your mind, my friend. Divide and conquer",
+            "user id": 283958013,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @wfaachannel8 \"an enemy of my enemy is my friend\"- The democrats",
+            "user id": 142150016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC",
+            "user id": 525702401,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @Saksith Uh oh, they took white people in a western country. I guess we'll all pay attention now.",
+            "user id": 283958013,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "BREAKING: Police search northern France gas station local media says was allegedly robbed by #CharlieHebdo suspects. http://t.co/BTqdPhZdL9",
+        "user id": 2097571,
+        "tweet id": "553176753297162240",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni did they rob it in the name of the prophet as well ??",
+            "user id": 2853256766,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni \"In deliberately targeting journalists the terrorists were attacking freedom and democracy.\" - Theresa May #CharlieHebdo",
+            "user id": 605265426,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni how did they rob it did they have guns",
+            "user id": 2902946913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni #pen_gun is gun; ink u bullets;U pub dark art 2 shed dark light:RIP;in dark grave;no night light 4family&amp;friend http://t.co/22i8OPZcvT",
+            "user id": 16408867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Wake up &amp; smell the coffee, French press.  War profiteers did this, not Islam. BREAKING VIDEO &gt;&gt; http://t.co/d2GGtLsdnJ",
+            "user id": 1849407440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

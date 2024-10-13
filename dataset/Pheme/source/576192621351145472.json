@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "\"Putin umer\" or \"Putin has died,\" is now trending on the Russian Internet. @LToddWood #putindead",
+        "user id": 1925331925,
+        "tweet id": "576192621351145472",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MikeDiazFL @LToddWood   We can only hope at this time. No proof as of yet.",
+            "user id": 2992686426,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

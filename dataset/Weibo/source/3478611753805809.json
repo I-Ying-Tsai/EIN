@@ -1,0 +1,173 @@
+{
+    "source": {
+        "content": "【广东河源4.8级地震已发生30次余震】今晨2时34分，广东河源市东源县发生4.8级地震。根据震源区的台站测定，至16日04时00分，发生余震30次，最大余震2.6级。广东省地震工作组已抵达河源，参加在应急指挥中心召开的市防抗救工作领导小组会议。 http://t.cn/zO2xKEA 30次余震，好恐怖啊！",
+        "user id": 2202930840,
+        "tweet id": "3478611753805809",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊]难道2012那天真的来临？",
+            "user id": 2653262995,
+            "user name": "DK新围佬辉记",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "希望一切安好",
+            "user id": 1728653715,
+            "user name": "乳伢松",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "哇靠。这也太恐怖了吧。",
+            "user id": 2919247280,
+            "user name": "东莞市泰桦软件科技有限公司",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "[蜡烛]希望一切安好",
+            "user id": 2084074467,
+            "user name": "惠love清",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@mamamia78 @mamamia78 不要去啊…",
+            "user id": 1851081794,
+            "user name": "君君Queenie",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "",
+            "user id": 2375813660,
+            "user name": "xie淇淇",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "5系吗…明天要过去哦[衰][衰][衰]",
+            "user id": 2173698564,
+            "user name": "DR-荣仔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@温泉陈少琼 小心了",
+            "user id": 2539238733,
+            "user name": "蕭光儁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": " @柳树上的小燕子",
+            "user id": 2501284305,
+            "user name": "静虹真的很喜欢静字",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "不是吧，不回去了",
+            "user id": 2377442564,
+            "user name": "老肥肥小猪0",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的，我怎么一点都不知道[衰]",
+            "user id": 2180970841,
+            "user name": "薇薇薇__",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "[嘻嘻]东莞的来通知我们，河源又地震了！",
+            "user id": 1833657820,
+            "user name": "ARS少鹄",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "我也听到了@这个不是何志源吗",
+            "user id": 2707833671,
+            "user name": "江立志-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

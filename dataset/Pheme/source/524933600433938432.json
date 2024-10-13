@@ -1,0 +1,195 @@
+{
+    "source": {
+        "content": "Shooting at War Memorial - part of the area has been evacuated - Avoid Rideau Center and surroundings @uOttawa Protection monitoring",
+        "user id": 70424993,
+        "tweet id": "524933600433938432",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@uOttawaDirect @uOttawa do we go to our classes???",
+            "user id": 178492650,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Caiitylin Avoid Rideau Center and surroundings, @uOttawa Protection monitoring ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@Caiitylin Courses and exams are cancelled for today (main campus, RGN &amp; Lees). The lockdown is still in effect. ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "content": "@uOttawaDirect @uOttawa yeah is it safe to go to class??",
+            "user id": 241554041,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@lauren_616 Avoid Rideau Center and surroundings, @uOttawa Protection monitoring ~AJ",
+            "user id": 352311644,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@lauren_616 Avoid Rideau Center and surroundings, @uOttawa Protection monitoring ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@lauren_616 We are in lockdown. Campus is closed. Classes are cancelled. ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@lauren_616 Courses and exams are cancelled for today (main campus, RGN &amp; Lees). The lockdown is still in effect. ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@uOttawaDirect @uOttawa this is all they've said about it so far @CarterG94",
+            "user id": 213128516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                13
+            ],
+            "content": "@dimitridemel be safe man",
+            "user id": 134762958,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "@dimitridemel @CarterG94 We are in lockdown. Campus is closed. Classes are cancelled. ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [],
+            "content": "@Caiitylin Lockdown is now lifted. Remain vigilant. Avoid downtown core as much as possible. Thanks for your cooperation. ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "content": "@lauren_616 Lockdown is now lifted. Remain vigilant. Avoid downtown core as much as possible. Thanks for your cooperation. ~AJ",
+            "user id": 70424993,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 9,
+            "children": [],
+            "content": "@CarterG94 thanks carter. Don't worry I'm in the basement level at school",
+            "user id": 213128516,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

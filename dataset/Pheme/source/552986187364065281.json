@@ -1,0 +1,79 @@
+{
+    "source": {
+        "content": "#Banksy's response to today's incident in Paris via his official #Instagram acct http://t.co/LtJ7vgGLau #CharlieHebdo http://t.co/mxbP6olZQD",
+        "user id": 16211566,
+        "tweet id": "552986187364065281",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@MattNavarra that's not banksy.",
+            "user id": 19337423,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MattNavarra Banksy doesn't run that Instagram.",
+            "user id": 19337423,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Love it even if not Banksy. \"@MattNavarra: #Banksy's response to Hebdo murders http://t.co/ut9LmUj8OK #CharlieHebdo http://t.co/MPfY1iCC67”",
+            "user id": 173167408,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@MattNavarra found out original was by Lucille Clerc",
+            "user id": 173167408,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MattNavarra @SemanticEarth it's @LucilleClerc",
+            "user id": 35710757,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

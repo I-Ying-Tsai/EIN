@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "After the whistleblower revealed what was happening, he was summarily harassed, got drug tests, car taken &amp; transferred. #Ferguson #StLouis",
+        "user id": 19468168,
+        "tweet id": "499361965035491329",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@drgoddess Wow!  It's deep in #Ferguson The Attorney General needs to turn this Police force inside out. They have lost their minds~",
+            "user id": 32904760,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@drgoddess They have gotten with to much and still calling people animals. Smh\n#STL #Ferguson",
+            "user id": 32904760,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@drgoddess They have gotten away w/ so much. (Typo)",
+            "user id": 32904760,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@drgoddess thank you for sharing this story. will look into it myself. appreciate you putting this important knowledge on my TL",
+            "user id": 554134186,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@drgoddess .....nah, y'all make sure this not be forgotten,  everybody get your boosie yoga On!",
+            "user id": 579477995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

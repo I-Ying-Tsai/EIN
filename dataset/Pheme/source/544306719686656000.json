@@ -1,0 +1,210 @@
+{
+    "source": {
+        "content": "US evacuated Consulate in Sydney after #sydneysiege. Emergency warning to U.S. citizens urging them to \"maintain high level of vigilance\".",
+        "user id": 14460241,
+        "tweet id": "544306719686656000",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @CV_People That's comforting",
+            "user id": 2744227350,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@WilliamsJon just curious: does 'evacuate' mean leave  country or city/area? Do you know?",
+            "user id": 1449711066,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                14
+            ],
+            "content": "@IsabelsBookClub means go home",
+            "user id": 14460241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                15
+            ],
+            "content": "@IsabelsBookClub @WilliamsJon The country would be safer, for us that is.",
+            "user id": 316364374,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @latikambourke With their destructive foreign policy, I would think every day would require vigilance.",
+            "user id": 316364374,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @lorizellmill Good thing Feinstein made sure this will never happen here.",
+            "user id": 2265151616,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon makes sense. Did you read the CIA report? Surprised it hS taken this long",
+            "user id": 2715760431,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon What ?? Sorry I missed this !! #",
+            "user id": 2638107556,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@WilliamsJon @morgfair how do we know the guy isn't just pissed that he got fired or foreclosed on. Or his gf is cheating on him.",
+            "user id": 336344015,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@jplang43 @WilliamsJon We don't.",
+            "user id": 156306739,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "@WilliamsJon @morgfair so why do twitterverse and the Aussies act like Normandy landing is imminent? Because of flag in arabic? Crazy fear.",
+            "user id": 336344015,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@WilliamsJon US evacuated Consulate in Sydney after #sydneysiege. Emergency warning to US citizens: \"maintain high level of vigilance\".”",
+            "user id": 110807429,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon @Sassafras_Knob maintain high level of vigilance? Against who? Obama said islamic terrorists don't exist in America remember?",
+            "user id": 247981000,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@WilliamsJon Consensus translation of the headband is \"We sacrifice ourselves for you, O Mohamed.” Caveat: photo blurry, text incomplete.",
+            "user id": 408241447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 2,
+            "children": [],
+            "content": "@WilliamsJon So scary. Hoping situation is resolved very soon &amp; as peacefully as possible.",
+            "user id": 1449711066,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 3,
+            "children": [],
+            "content": "@fairyofbloom Hoping for a safe and speedy resolution. Praying no one is hurt but that seems unlikely considering.",
+            "user id": 1449711066,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

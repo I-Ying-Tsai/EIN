@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Whoa #ferguson http://t.co/JSNZrnFMp5",
+        "user id": 44361097,
+        "tweet id": "500396366829735936",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "✊ “@kim_tastiic: Whoa #ferguson http://t.co/FvcgjRg8Xh”",
+            "user id": 49245107,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@kim_tastiic Oh god. It is heart-breaking and beautiful at the same time.",
+            "user id": 482628166,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@kim_tastiic @iamchriswms It's unbelieveble. If a country with such a lot of victims by their own law forces is still called a democracy",
+            "user id": 2572556132,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@kim_tastiic @iamchriswms Who can still be proud of a country where they kill their own kids mostley for racism?",
+            "user id": 2572556132,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@kim_tastiic Are those innocent lives? Where's the banner with lives saved by police?",
+            "user id": 1361446477,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

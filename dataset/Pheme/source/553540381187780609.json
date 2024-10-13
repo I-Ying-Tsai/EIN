@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "Police establish tight cordon around second hostage scene in #Paris. Eery quiet, except for buzz from helicopters. http://t.co/bw8vu18v8r",
+        "user id": 166002047,
+        "tweet id": "553540381187780609",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@griffwitte @washingtonpost Because of this 2 teroristov shum.Uchites Kadyrov how to militants kill!",
+            "user id": 2569349341,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@griffwitte hey griff. Looong time. No talk. Stay safe.",
+            "user id": 20548213,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@AdrienneWrites thanks, Adrienne. Great to hear from you and hope you're well.",
+            "user id": 166002047,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@griffwitte @washingtonpost i dont like how my papa aka pops called my jasmineflowers jasMINE! iamjaminesmellmyloveismyrose !",
+            "user id": 2919525786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@griffwitte @washingtonpost http://t.co/gFnt8yyoC3",
+            "user id": 2891832976,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@griffwitte @washingtonpost https://t.co/R4Q9snnHGz http://t.co/P0JXo1L07l",
+            "user id": 2891832976,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@griffwitte found similar by @hempembassy here:~ http://t.co/5e0AXpCueV entitled: 'Police raid cannabis crops'",
+            "user id": 39871064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@griffwitte likewise.",
+            "user id": 20548213,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

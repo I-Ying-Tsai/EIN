@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "Video of #terrorists attacking Charlie Hebdo HQ in Paris http://t.co/SdniwkJtT1 http://t.co/z6O8IhNjCk",
+        "user id": 243318995,
+        "tweet id": "552797170295144449",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "“@russian_market: Video of #terrorists attacking Charlie Hebdo HQ in Paris http://t.co/moL9XhDIZY http://t.co/xSm1TSZqm6”",
+            "user id": 117006605,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@JonDonnison Jon this one is terrifying watch via  @cyrbkk: Video of the attack at https://t.co/Az5oLh3A91",
+            "user id": 47594096,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "Allahu Akbar clearly heard. RT“@russian_market: Video of #terrorists attacking #CharlieHebdo http://t.co/Ra6fn0ZxSB http://t.co/NlUN2970F7”",
+            "user id": 821700726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@AAhronheim @russian_market  where do I click to watch?",
+            "user id": 909990571,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@russian_market @EliotHiggins they take the time it seems..making own video?",
+            "user id": 93410612,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Horrifying “@russian_market: Video of #terrorists attacking Charlie Hebdo HQ in Paris http://t.co/3ykXoKSS2j http://t.co/xSDXlnl4A5”",
+            "user id": 81134232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@russian_market @EliotHiggins THANK OBAMA, SUZIE RICE &amp; CREW FOR ENABLING TODAY’S TERRORIST ATTACK IN PARIS  http://t.co/ZkQoH3KivH",
+            "user id": 1309256510,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@Salted2 @russian_market its in the article",
+            "user id": 821700726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

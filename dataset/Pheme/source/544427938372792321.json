@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#SydneySiege\n- Entering 11th hour\n- At least 15 hostages\n- 5 hostages escaped\n- Motivation &amp; demands unknown\n- 1 gunman - rotating hostages",
+        "user id": 491960101,
+        "tweet id": "544427938372792321",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork  Motivation &amp; demands known: not being made known. Correct call",
+            "user id": 298900702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork 11 hours. Those poor people. I hope they can get some good therapy after this. I hope they can get out soon.",
+            "user id": 72233184,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AusNewsNetwork correction no one knows if they escaped or were released.",
+            "user id": 174056332,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

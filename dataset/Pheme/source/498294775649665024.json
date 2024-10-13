@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Reach RT @brennamuncy Someone please remind me what year it is again? #ferguson http://t.co/1Yz0RPNFIT",
+        "user id": 42938207,
+        "tweet id": "498294775649665024",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@I_HATE_VA @brennamuncy ha you all are a fucking work let the dogs and cops be. Highly doubt there was no reason to this at all. #Ferguson",
+            "user id": 1220674644,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@I_HATE_VA @brennamuncy man nothings changed",
+            "user id": 536845725,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@I_HATE_VA @brennamuncy yeah some bullshit! My family lives in Florrisant",
+            "user id": 26377451,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

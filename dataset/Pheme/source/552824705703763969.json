@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "At least 12 dead in terrorist attack at satirical magazine in Paris. Our live blog: http://t.co/FjgQjRzNaM http://t.co/XilbJcDuc0",
+        "user id": 1020058453,
+        "tweet id": "552824705703763969",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews @BuzzFeed Prayers for France! USA SUPPORTS FREEDOM OF THE PRESS!",
+            "user id": 517656712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedNews this is crazy, when will the terrorist attacks stop. All my prayers go out to France and all the family's that were involved.",
+            "user id": 2925159691,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,195 @@
+{
+    "source": {
+        "content": "#长沙身边事# 【长益高速湘江西互通通车 长沙走高速去益阳只要半小时】据@长沙发布 ：11月2日，益阳实施“东接东进”战略标志性工程——长益高速湘江西互通通车运营，标志着益阳正式融入长株潭半小时经济圈！益阳的朋友，以后回家更快了，这便利的交通点个赞！ ",
+        "time": "17-11-3 11:46",
+        "user id": "2094318234",
+        "tweet id": "Ftm882rDF",
+        "label": 0,
+        "theme": "政治"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "3844459028",
+            "user name": "亮爷",
+            "content": "很赞",
+            "time": "17-11-3 13:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                4,
+                6,
+                7
+            ],
+            "user id": "2114551575",
+            "user name": "董俊谦",
+            "content": "@yyyy_曦",
+            "time": "17-11-3 13:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "2114551575",
+            "user name": "董俊谦",
+            "content": "我怕太大了，在你家庄园里迷路了阿",
+            "time": "17-11-3 14:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [],
+            "user id": "2780983737",
+            "user name": "Elsa粥嘻嘻",
+            "content": "董老板愿意屈尊来，我肯定去长沙接",
+            "time": "17-11-3 14:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "2114551575",
+            "user name": "董俊谦",
+            "content": "什么时候能去你们家的庄园讨杯茶吃？",
+            "time": "17-11-3 14:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "2780983737",
+            "user name": "Elsa粥嘻嘻",
+            "content": "稳得很！！",
+            "time": "17-11-3 14:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "user id": "2114551575",
+            "user name": "董俊谦",
+            "content": "半小时了 很舒服",
+            "time": "17-11-3 13:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "user id": "2780983737",
+            "user name": "Elsa粥嘻嘻",
+            "content": "哇！！！！！",
+            "time": "17-11-3 13:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "3806707145",
+            "user name": "败事有鱼吃",
+            "content": "厉害了，不知道到南县的告诉还要多久啊",
+            "time": "17-11-3 13:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 10,
+            "children": [],
+            "user id": "3806707145",
+            "user name": "败事有鱼吃",
+            "content": "哈哈，还是期待到南县的高速吧，长沙回去太久了",
+            "time": "17-11-3 15:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                9
+            ],
+            "user id": "5733274888",
+            "user name": "唐心飞杨",
+            "content": "老乡耶",
+            "time": "17-11-3 15:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "2923986202",
+            "user name": "危笑的猫",
+            "content": "偷换概念啊",
+            "time": "17-11-14 15:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "2347720327",
+            "user name": "周周有个小小的梦想",
+            "content": "某丹小妞 对不起",
+            "time": "17-11-4 00:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

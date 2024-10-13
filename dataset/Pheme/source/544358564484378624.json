@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Police: Negotiators are now in contact with armed hostage-taker in Sydney situation; motive remains unknown - http://t.co/mp18E4DdjW",
+        "user id": 28785486,
+        "tweet id": "544358564484378624",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ABC: Police: Negotiators are now in contact w/ armed hostage-taker in #Sydney situation; motive remains unknown - http://t.co/DJds34016X",
+            "user id": 18455693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC Really?  The motive is unknown?  Does the flag in the window provide any possible clue?  Do you employ the world's worst reporters?",
+            "user id": 1078368642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

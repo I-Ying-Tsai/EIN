@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "German Wings airline tweeting now about reports of plane crashing in French Alps with 148 on board: @germanwings http://t.co/SqUrmcvNKt",
+        "user id": 18424289,
+        "tweet id": "580322453928431617",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @germanwings yes indeed :-(.",
+            "user id": 14800024,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @germanwings was the co-pilot Christian - since no ones calling this a terrorist act!",
+            "user id": 1428883938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

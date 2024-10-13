@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "148 people were on board the #Germanwings plane which crashed in the French Alps. Here's what we know so far http://t.co/5sZVPg9XFR",
+        "user id": 7587032,
+        "tweet id": "580352532167311362",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews 144 + 6 = 150. Why just 148?",
+            "user id": 369181340,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews G-d speed. Very sad news",
+            "user id": 125454330,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews  reminds me of Lufhansa A321 2014     Auto pilot descends plane rapidly",
+            "user id": 339187164,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews A Germanwings Airbus A320 plane carrying at least 148 people crashed in mountainous southeastern France...\nhttp://t.co/M63s9jKvOI",
+            "user id": 84429722,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews R I P sad news",
+            "user id": 1578120853,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @RobPortley",
+            "user id": 719862841,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews get your numbers right for goodness sake!",
+            "user id": 27602314,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "A reminder for those observing the shooting on Parliament Hill: DO NOT tweet police locations and movements #ottcity #ottawa",
+        "user id": 220765357,
+        "tweet id": "524928297986433024",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@DanielDickin @JustAnOttawaDad You mean like all the journalists?",
+            "user id": 459312720,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@DanielDickin: A reminder for those observing the shooting on Parliament Hill: DO NOT tweet police locations and movements #ottcity #ottawa",
+            "user id": 24809834,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@DanielDickin thank you #meaculpa",
+            "user id": 401499179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

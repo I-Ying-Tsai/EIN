@@ -1,0 +1,115 @@
+{
+    "source": {
+        "content": "State Sen. Maria Chappelle-Nadal: \"On Sunday, I literally had young people willing to die to get justice.\" #Ferguson http://t.co/8FTN46ZBCH",
+        "user id": 69004966,
+        "tweet id": "499654272342953984",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mattdpearce #MikeBrown #Ferguson EVERY DAY FROM NOW ON WILL BE #NationalFilmACopDay \nLET THE MOVEMENT BEGIN\nPLEASE RETWEET",
+            "user id": 277670569,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "content": "Sen. Chappelle-Nadal got teargassed with constituents Monday night, says police response was so extreme she worried \"we were going to die.\"",
+            "user id": 69004966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mattdpearce you should RT the vine on @AntonioFrench timeline when she asked during press conference",
+            "user id": 1396110848,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@mattdpearce Glad to see the militarization of police has worked so well. #community #PoliceBrutality http://t.co/Iqdr76HXaN",
+            "user id": 1687577660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@mattdpearce That's how an elected official is supposed to act, for her constituents! Senator, Job Well Done!",
+            "user id": 456031911,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@mattdpearce @GreatDismal sadly the politicians selling out the country are just greasing this slippery slope. Kudos they were representing",
+            "user id": 10766,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@mattdpearce In what country did this happen?",
+            "user id": 14377023,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@mattdpearce @BattyMamzelle Why brandish guns if not to shoot? Either they will or won't shoot on crowds, either a bluff or a massacre.",
+            "user id": 2720318384,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

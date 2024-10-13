@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "#Sydneysiege ends with shootout leaving two dead and more injured http://t.co/vsG9BlxKOk",
+        "user id": 16343974,
+        "tweet id": "544519788752818176",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Telegraph: #Sydneysiege ends with shootout leaving two dead and more injured http://t.co/6NaRxr7UCA” diabolical and sad news",
+            "user id": 22159006,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@Telegraph: #Sydneysiege ends with shootout leaving two dead and more injured http://t.co/qnBoHXFRoX” NOOOOO JESUS 😭😭🙏",
+            "user id": 27180727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@j_hunny @Telegraph OH GOD",
+            "user id": 571241678,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph WHAT'S THE SOURCE? NO CONFIRMATION ON DEATHS EXCEPT ONE OUTLET SO FAR. #sydneysiege",
+            "user id": 1342067257,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@Telegraph: #Sydneysiege ends with shootout leaving two dead and more injured http://t.co/qnuj3EFxLc”أمن مركز اضبش",
+            "user id": 195287600,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Immigrant gunman with 47 previous convictions incl sex assault.(BBC) Time to start deporting these thugs.",
+            "user id": 2843667729,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph hope the two dead were the Muslim terrorists",
+            "user id": 2471529011,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "RT @Telegraph: #Sydneysiege ends with shootout leaving two dead and more injured http://t.co/PYv5CbaS6F",
+            "user id": 21181417,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "RT @Telegraph: #Sydneysiege ends with shootout leaving two dead and more injured http://t.co/5qtNzmZcol",
+            "user id": 458500208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

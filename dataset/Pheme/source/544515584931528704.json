@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "To recap: police used flash bang grenades, went in shooting.  At least one female hostage has been shot. #sydneysiege",
+        "user id": 17919393,
+        "tweet id": "544515584931528704",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@W7VOA lol noobs",
+            "user id": 298719818,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@W7VOA  Flash bangs and going in shooting NEVER ends well...and we [and the police] never learn.",
+            "user id": 22254804,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

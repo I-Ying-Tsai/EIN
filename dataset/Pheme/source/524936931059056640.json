@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The scene from Ottawa http://t.co/aO700DweOW http://t.co/5djATU47fs",
+        "user id": 14216661,
+        "tweet id": "524936931059056640",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost @amberstefani",
+            "user id": 201563247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@nationalpost: The scene from Ottawa http://t.co/dkj6tUIgeg http://t.co/OX4KVi73PA”",
+            "user id": 74718935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@nationalpost: The scene from Ottawa http://t.co/cKBQTWQWdl http://t.co/hTZhZLXu3k” @chandralye",
+            "user id": 192035672,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

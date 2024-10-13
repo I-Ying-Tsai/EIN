@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Canadian soldier shot in Ottawa a reservist from Hamilton http://t.co/MTYfpfQLJY #HamOnt #Canpoli #ottawashooting http://t.co/geEQSNG1mi",
+        "user id": 410334710,
+        "tweet id": "524964223185850368",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCHamilton @LynneHolland11 R.I.P. young man. Deepest sympathies to those affected by these needless and tragic events, from the UK.",
+            "user id": 431946562,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCHamilton @CBCNews #HamOnt #Canpoli #ottawashooting Prayers to the Family n Military family of the murdered reservists!",
+            "user id": 360042106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCHamilton @CBCNews Harper brought war to Canada, open your eyes!!! We were peace keepers, gave aid. Then there was Harper who brought war",
+            "user id": 1855648321,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

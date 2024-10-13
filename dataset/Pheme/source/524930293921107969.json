@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "Soldier shot at National War Memorial in Ottawa http://t.co/atjCEAGiHB",
+        "user id": 18999969,
+        "tweet id": "524930293921107969",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CBCOttawa Arrest or neutralize these Islamist rapists, these chanting bastard slavers, BEFORE they murder more citizens!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ivoirien_com @CBCOttawa The OPS needs more funds for stormtrooper gear and mp5s to catch these scurytrrrsts!",
+            "user id": 2835720469,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa They are walking all over Canada's laws and loop-holes!  It's time to cut them out of society completely!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa The Islamists among us, shouldn't be among us!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: Soldier shot at National War Memorial in Ottawa http://t.co/zv39XfiWA3” Can't believe it.",
+            "user id": 215271732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Stay safe, Ottawa! RT @CBCOttawa: Soldier shot at National War Memorial in Ottawa http://t.co/HZah2xkjdV",
+            "user id": 174541759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Juz got evacuated at Rideau Centre “@CBCOttawa: Soldier shot at National War Memorial in Ottawa http://t.co/rwEsixDqsr”",
+            "user id": 52661692,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa: Soldier shot at National War Memorial in Ottawa http://t.co/TPKrwPf562”",
+            "user id": 109137646,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@CBCOttawa:#Soldier#shot at WarMemorial#Ottawa http://t.co/qn9pgu9P2Q” @VeteransFR_CA @ShyMoonEyes  3 #soldiers attacked in 2 days #cdnpoli",
+            "user id": 2401156465,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

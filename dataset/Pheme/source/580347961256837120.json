@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING: Death toll on #Germanwings flight #4U9525 rises to 150 #A320\nhttp://t.co/NK5U1GpHxL",
+        "user id": 16973333,
+        "tweet id": "580347961256837120",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent confirmed by who?",
+            "user id": 3042574384,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent",
+            "user id": 1129129021,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent really sorry for hearing such a news and feel soo sad for those who lost their lives and loved ones.",
+            "user id": 2525932772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

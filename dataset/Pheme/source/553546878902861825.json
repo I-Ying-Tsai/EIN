@@ -1,0 +1,134 @@
+{
+    "source": {
+        "content": "French police release pic of two suspects from Thursday shooting of officer as hostage situation unfolds in Paris: http://t.co/bkWxvLR4Yh",
+        "user id": 2097571,
+        "tweet id": "553546878902861825",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@cnni @rahulroushan LOL more peaceful Muslims.. hard to imagine France blowing up like that with Islamic terror..\"glorious\"past destroyed",
+            "user id": 130598585,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@manu1603 @cnni @rahulroushan hahah says the 1 who elected a terrorist party.Btw what about your assam &amp; Maoists?Lol http://t.co/9YQAUqhXXb",
+            "user id": 1080276308,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@cnni they don't really look like muslims",
+            "user id": 254536058,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@maiwandafghani @cnni lol. zijn meer regenboogmoslims he?",
+            "user id": 46486398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni @Victor_Glotov Tunisian  origin woman and Yemen/or Mali man,French nationals",
+            "user id": 2579312316,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni",
+            "user id": 408930110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni @RobPulseNews that ahole previously jailed for trying to jail break a Metro bomber? Nice to see French jail terms as crap as ours",
+            "user id": 336732239,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni keep me posted I only have @BBCBreaking",
+            "user id": 2847087043,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni death to murders and predators on innocence",
+            "user id": 2917387871,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni kill these bastards!! And I being a Muslim will not apologise for the this filth. People may go fuck themselves.",
+            "user id": 1080276308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

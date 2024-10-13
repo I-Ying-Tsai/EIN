@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "#BREAKING Hostages held inside Sydney cafe, Islamic flag held up",
+        "user id": 380648579,
+        "tweet id": "544278335455776769",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "бля “@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up”",
+            "user id": 309865110,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@mborzunova @AFP довыебывались",
+            "user id": 115707779,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP do you enjoy being consistently wrong or is it really inadvertent?",
+            "user id": 1072251836,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP That's not the flag, just looks like it",
+            "user id": 182920333,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Oh no. RT @AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up",
+            "user id": 468657693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up” #lrt",
+            "user id": 114073151,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up” oh god",
+            "user id": 218503228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "Actually debate on the flag @AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up”",
+            "user id": 2408067523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "NOT the ISIS flag RT “@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up”",
+            "user id": 38155149,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "RT @AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up",
+            "user id": 89947367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@isabelledaniel @AFP Don't let OBAMA or Holder talk, they would blame it on the racial make-up of Sydney!",
+            "user id": 35434532,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "¡¿?! RT “@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up”",
+            "user id": 223814664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "#Australia #ISIS #Terrorism\n@AFP: #BREAKING #Hostages held inside #Sydney cafe, Islamic flag held up",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "\"@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up\" &lt;&lt;Terrifying stuff.Nutters&gt;&gt;",
+            "user id": 22402352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "Thoughts with Sydney tonight. “@AFP: #BREAKING Hostages held inside Sydney cafe, Islamic flag held up”",
+            "user id": 449936336,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP this is not an \"Islamic\" flag, not even the ISIS flag. The Islamic community in no way condones these action.",
+            "user id": 14647203,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

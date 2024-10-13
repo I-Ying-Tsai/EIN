@@ -1,0 +1,184 @@
+{
+    "source": {
+        "content": "To the people taking 'selfies' and getting drunk whilst watching the #SydneySiege - as if it's a spectator sport - you dickheads",
+        "user id": 280784084,
+        "tweet id": "544420375224791040",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@TomChadwickFox It's Australia, what did you think they would do?",
+            "user id": 2823673777,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                13
+            ],
+            "content": "@usterlol @TomChadwickFox obviously a fuckwitt american are you.",
+            "user id": 2863424586,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox what wankers",
+            "user id": 909915714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox @JimmyDontDance fully agree should be made to trade places",
+            "user id": 2290642651,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox Absolute scum of the earth. http://t.co/Yv5FIUrnSJ",
+            "user id": 362383330,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox unfortunately http://t.co/O1aMfcRgW8",
+            "user id": 1605785060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox Its a disgrace!",
+            "user id": 603196345,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox the media coverage is turning it in 2 a spectator sport.  Don't blame d ppl. It's being fed to us like a veil of illusion.",
+            "user id": 269665582,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox Better than living in fear from the scare mongering from media. What  a joke the media doing a show about it -dickheads",
+            "user id": 464198476,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox ignore the dickheads on here bud",
+            "user id": 507847491,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@TomChadwickFox @melissahoyer best not to give dickheads oxygen by noticing",
+            "user id": 15476901,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@zebrasfly @TomChadwickFox true!",
+            "user id": 22315925,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@TomChadwickFox Congrats on your 250★ tweet! http://t.co/tw7lhHiJq0",
+            "user id": 40381745,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 1,
+            "children": [],
+            "content": "@SayinitJust @TomChadwickFox Nah Australian",
+            "user id": 2823673777,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

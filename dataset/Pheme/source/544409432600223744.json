@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "A hostage runs towards a police officer outside Lindt cafe #SydneySiege #SydneyCafeSiege http://t.co/hygtXFzItO",
+        "user id": 240649814,
+        "tweet id": "544409432600223744",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@timesnow: A hostage runs towards a police officer outside Lindt cafe #SydneySiege #SydneyCafeSiege http://t.co/oXOKWFtqRU”",
+            "user id": 1310344602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@timesnow brave lady. Hats off",
+            "user id": 92729849,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@timesnow @thenewshour I can see two of them !",
+            "user id": 96958492,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

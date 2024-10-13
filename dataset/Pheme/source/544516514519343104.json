@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "A bomb detection robot has entered the #MartinPl café. #SydneySiege #9News",
+        "user id": 22993014,
+        "tweet id": "544516514519343104",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @9NewsAUS: A bomb detection robot has entered the #MartinPl café. #SydneySiege #9News",
+            "user id": 2502895924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS You're coverage today has been phenomenal! Keep it up!",
+            "user id": 701089236,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@9NewsAUS: A bomb detection robot has entered the #MartinPl café. #SydneySiege #9News”",
+            "user id": 2356127598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsAUS @lokeshp07 Show the dog also",
+            "user id": 79802631,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

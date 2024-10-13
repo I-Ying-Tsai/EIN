@@ -1,0 +1,169 @@
+{
+    "source": {
+        "content": "中国红十字会是世界上唯一没有加入世界红十字会的组织，因为加入就必须在人员安排、管理、行动上符合国际红十字会的规程，并且账目必须向国际红十字会公开，中国政府以干涉内政为由拒绝加入，用这个无耻的借口逃避公众的监督，为其官员贪腐大开方便之门。说到底中国红十字会是伪红十字会！@K歌快乐",
+        "user id": 1073392335,
+        "tweet id": "3604696122007267",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "再擴",
+            "user id": 1140310060,
+            "user name": "曾戍疆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "扩散是必须的！ ✌",
+            "user id": 1909911673,
+            "user name": "桃花岛主之东邪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                3,
+                4
+            ],
+            "content": "[话筒]",
+            "user id": 2265130161,
+            "user name": "南阳奥奔小杨11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "可见他们是在欺骗大众 [话筒]",
+            "user id": 2265130161,
+            "user name": "南阳奥奔小杨11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": "",
+            "user id": 1945953645,
+            "user name": "舒阳艺述",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "",
+            "user id": 3144884944,
+            "user name": "世事沧桑之笑看",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "遇到对自己有利的就与世界接轨，没利的就叫中国特色，人在做天在看，必有报应！捐款大都喂了狼！",
+            "user id": 1780744191,
+            "user name": "好男005",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": " @亚洲动物基金AAF@PETA亚洲善待动物组织@国际爱护动物基金会@行动亚洲动物保护团队@小动物保护义工团@首都爱护动物协会@平安阿福流浪动物救助@土华爱护动物协会@请救非洲大象@平安北京",
+            "user id": 1236713127,
+            "user name": "rhythmxie",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "捐红十字她美妹妹",
+            "user id": 2876335000,
+            "user name": "春风的伟大",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "原来红十字会是红七公",
+            "user id": 1929608130,
+            "user name": "别叫我做农民工",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "红狮子会",
+            "user id": 2267232554,
+            "user name": "哈哈哈驿站",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "原来如此'",
+            "user id": 2111511620,
+            "user name": "娘希屁档",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

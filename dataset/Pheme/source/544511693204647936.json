@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "SIEGE ERUPTS: At least 7 Hostages released. Police fire live ammunition as they move into building. #sydneysiege",
+        "user id": 156464691,
+        "tweet id": "544511693204647936",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsSydney can they not overturn his asylum plee and send him back to Iran?",
+            "user id": 83421448,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@7NewsSydney @5SOSUpdatesAUT this happened",
+            "user id": 1608127213,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Annemarieeloves @7NewsSydney Omg 😳",
+            "user id": 1407508897,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @7NewsSydney: SIEGE ERUPTS: At least 7 Hostages released. Police fire live ammunition as they move into building. #sydneysiege",
+            "user id": 29059784,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@7NewsSydney: SIEGE ERUPTS: At least 7 Hostages released. Police fire live ammunition as they move into building. #sydneysiege” Come on🙏😥",
+            "user id": 232917391,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@7NewsSydney: SIEGE ERUPTS: At least 7 Hostages released. Police fire live ammunition as they move into building. #sydneysiege”",
+            "user id": 203032893,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@7NewsSydney: SIEGE ERUPTS: At least 7 Hostages released. Police fire live ammunition as they move into building. #sydneysiege”",
+            "user id": 951710294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@7NewsSydney Police paramedics also reviving someone, Multiple people injured. Suspect believed killed on sight.",
+            "user id": 2373397152,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@LionelMedia spot difference vs Robocop “@7NewsSydney: At least 7 Hostages released. Police fire live ammunition as they move into building”",
+            "user id": 102271403,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

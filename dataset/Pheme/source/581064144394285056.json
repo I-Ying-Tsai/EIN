@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "French prosecutor names co-pilot of #germanwings plane that crashed in the Alps as Andreas Lubitz. He was at controls of plane.",
+        "user id": 15754281,
+        "tweet id": "581064144394285056",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "RT @USATODAY French prosecutor names co-pilot of #germanwings plane that crashed in the Alps as Andreas Lubitz. He was at controls of plane.",
+            "user id": 73279371,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@JummyTV Good Morning!",
+            "user id": 2976256067,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@USATODAY: French prosecutor names co-pilot of #germanwings plane that crashed in the Alps as Andreas Lubitz. He was at controls of plane.",
+            "user id": 949990633,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@USATODAY: French prosecutor names co-pilot of #germanwings plane that crashed in the Alps as Andreas Lubitz. He was at controls of plane.”",
+            "user id": 43521065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@USATODAY Gasp!!!! OMG 😲",
+            "user id": 293420884,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Andreas Lubitz es el Co-Piloto que habria ocasionado intencionalmente caida vuelo #Germanwings segun el fiscal @USATODAY",
+            "user id": 1566494670,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "One photo was taken in a failed state whose people live under martial law. The other is from Iraq. #Ferguson http://t.co/2UyiWNNZi9",
+        "user id": 18839937,
+        "tweet id": "500239577387659265",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Popehat Unfortunately, not a failed state. But martial law indeed.",
+            "user id": 68522976,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Popehat pls Share it if you against POLICE BRUTALITY http://t.co/l6GZhgekVa",
+            "user id": 192896660,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@TroubleMakaPRO @Popehat Agree with you--police should not be brutal.  Let us slow down until we know the facts----then take proper action.",
+            "user id": 117459934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Popehat @LegallyErin I think the cops are better equiped!",
+            "user id": 105614255,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Popehat @nevmech fuck me! Land of the free",
+            "user id": 254781783,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Popehat Good stuff, have added it to my website, thanks :-)  http://t.co/hRFpFlSrEa",
+            "user id": 254781783,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Popehat @ytecollarrednek http://t.co/8nqJ5wu4Va",
+            "user id": 2489839538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "Meh, police work IS sometimes brutal. #realitycheck @wwwbighag @TroubleMakaPRO @Popehat",
+            "user id": 587939964,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

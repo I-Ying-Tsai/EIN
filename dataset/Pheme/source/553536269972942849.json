@@ -1,0 +1,198 @@
+{
+    "source": {
+        "content": "Update - AFP reports at least five people have been taken hostage and one person wounded after shooting at kosher grocery in eastern #Paris",
+        "user id": 87416722,
+        "tweet id": "553536269972942849",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@SkyNewsBreak will they use these hostages as a bargaining tool for the Brothers escape?",
+            "user id": 372703979,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@wbentonuk @SkyNewsBreak yes he has already",
+            "user id": 941878034,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@SkyNewsBreak is there a ink to any video on attack on kosher grocery market with children and women inside?",
+            "user id": 18171434,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@BobbiStorm Why is it important that there is women and children held?",
+            "user id": 806713213,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                14
+            ],
+            "content": ".@BobbiStorm @SkyNewsBreak Best I've found so far is here, but it's in French.\n\nhttp://t.co/fgNP53OHEU\n\nDesolé, mais ils ne marchent pas!",
+            "user id": 101445204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak I'm a Christian but why state kosher????",
+            "user id": 2960490339,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@SkyNewsBreak Among the hostages are women and children. Horrific",
+            "user id": 2530450641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@Maccabee3Star So? Hostages are hostages.",
+            "user id": 806713213,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Groovy. Now @SkyNewsBreak has covered the story that was on @france24_fr ... And @bbcbreaking?",
+            "user id": 101445204,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak @itvnews @AFP #CharlieHebdo #JeSuisCharlie #ParisAttack #ParisShooting #RussiainvadedUkraine http://t.co/4yotmexk7Y",
+            "user id": 478402262,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak line up his family and friends outside shop and shoot 1 every 5 minutes until he stops! Fight Islam as it fights us.",
+            "user id": 1372532851,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak I am Jewish and I say jamais. Never never bargain with terrorists because you are only curing the symptoms and not the cause.",
+            "user id": 2654320636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak http://t.co/Yn9LzUYKrx\n\nNow tell us who is repsonsible for the attack in france...",
+            "user id": 274880541,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak This is awful for the individuals and the people of Paris/France.  Thoughts and prayers with you all.  This madness has to end",
+            "user id": 1410065744,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 4,
+            "children": [],
+            "content": ".@BobbiStorm @SkyNewsBreak \n\nSorry, wrong link. Live coverage here:\n\nhttp://t.co/fgNP53OHEU\n\nI promise!",
+            "user id": 101445204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

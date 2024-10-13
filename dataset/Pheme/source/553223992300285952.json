@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "Did this in a rush for @SkyNews before latest #CharlieHebdo media maelstrom http://t.co/EFgnTIwouk",
+        "user id": 330906573,
+        "tweet id": "553223992300285952",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@MartinRowson @SkyNews",
+            "user id": 944298144,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@iamstoner @MartinRowson @SkyNews HaHaHa L{}Ve it !",
+            "user id": 2287612675,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinRowson I know everything you've done and said has been your own response but thanks from this old pencil pusher for saying it all",
+            "user id": 161214370,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinRowson @SkyNews vive tout les cartoonists",
+            "user id": 569104639,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinRowson \n#Kobane defender of #civilsociety\nv/sadden by loosing our supporter  #CharlieHebdo\n#ParisShooting http://t.co/a0NBTIBAqL",
+            "user id": 48304732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinRowson @PeterTatchell @SkyNews clowns to us, but sadly millions of extremist idolize such facist terrorists",
+            "user id": 114533091,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinRowson @SkyNews  🌟🌟🌟🌟🌎🌍🌏🎨✏✒📰👌👍👏👏👏👏🌊💙🌊💙🌊💙🌊⛵🌊🚢🌊💙  #NousSommesTousCharlie #weareallcharlie",
+            "user id": 315465312,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@MartinRowson @SkyNews if terrorists killed every one, would they have to do an honest job, or go on the dole?",
+            "user id": 2787591715,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                10
+            ],
+            "content": "@wheneverisit1 @SkyNews Good point. But if everyone was dead, who would they work for?",
+            "user id": 330906573,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinRowson @SkyNews Like the style Mr Rowson... V Beano :))",
+            "user id": 213038249,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "@MartinRowson @SkyNews i was thinking  about their ' real world survival' skills. bet they cant even do their own laundry.",
+            "user id": 2787591715,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

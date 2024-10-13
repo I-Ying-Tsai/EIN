@@ -1,0 +1,135 @@
+{
+    "source": {
+        "content": "That's the Sydney I recognise. RT @MichaelJames_TV: This, this is what good people do. #sydneyseige #MartinPlace http://t.co/rOgrMoOtXv",
+        "user id": 9517882,
+        "tweet id": "544401573968097280",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mathewlowry @OccupiedOutback @MichaelJames_TV  Somehow this Nation has gone right off the rails now, if it has to come to this, so sad.",
+            "user id": 229994594,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@mathewlowry @paulwiggins @MichaelJames_TV crying #SydneySeige standing with my sisters http://t.co/nEiyb9WNJ7",
+            "user id": 265931291,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "RT @ac_brite: @mathewlowry @paulwiggins @MichaelJames_TV crying #SydneySeige standing with my sisters http://t.co/l4FZLJ7q8y",
+            "user id": 10482452,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mathewlowry @MichaelJames_TV thanks for tweeting that.  I just got the piss taken out of me by celebrity for showing humanity against hate",
+            "user id": 233276466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@mathewlowry @MichaelJames_TV  have you got proof this is a real tweet?",
+            "user id": 1100048125,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@JulieOMarshall @mathewlowry she's a very real and dear friend of mine, it's copied from her Facebook.",
+            "user id": 515302920,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@mathewlowry @MichaelJames_TV as a muslim woman in hijab. You don't know how this actually feels. Thank you Sydney people. May God bless u 💕",
+            "user id": 29394934,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [
+                8
+            ],
+            "content": "@MichaelJames_TV @mathewlowry  cheers for that.  I just like to check before I repost.  Many thanks.",
+            "user id": 1100048125,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@JulieOMarshall @mathewlowry no worries, always good to do so",
+            "user id": 515302920,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Canadian parliament on lockdown after shooting – live updates http://t.co/PBLZPFqhAP",
+        "user id": 87818409,
+        "tweet id": "524934673760530432",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@guardian: Canadian parliament on lockdown after shooting – live updates http://t.co/b0V61RxZ0i”",
+            "user id": 506198762,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian @acoyne \"We are all infidels\" #outlawIslam",
+            "user id": 19111502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian That's very sad, RIP may gd lord ve mercy on u",
+            "user id": 2457759927,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

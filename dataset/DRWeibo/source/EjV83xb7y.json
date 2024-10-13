@@ -1,0 +1,144 @@
+{
+    "source": {
+        "content": "#上饶身边事#【央视追踪：上饶广丰追砸运钞车被击毙家属获赔180万案件被私了？】央视最新报道，上饶广丰男子黄武林在东莞被运钞员枪杀一案已过去一个月，受害方经过与东莞有关方面的谈判，最终达成180万元人民币的赔偿协议，赔偿款已足额打入受害方账户。家属表示在获得赔偿后，并没有放弃刑事诉讼。ps：案情真相呢追运钞车小伙家属获赔180万",
+        "time": "16-11-30 11:45",
+        "user id": "2716720395",
+        "tweet id": "EjV83xb7y",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                6,
+                7
+            ],
+            "user id": "2627250080",
+            "user name": "邓佳彬-",
+            "content": "打成赔偿协议，拿了钱又翻脸，有骨气点别拿那个钱，等到真正宣判结果再拿赔偿金",
+            "time": "16-11-30 12:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5439662622",
+            "user name": "lnvlone",
+            "content": "其实广丰的经济还可以吧，只是个别人的行为让我觉得恶心，丢人。",
+            "time": "16-11-30 19:43",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "5439662622",
+            "user name": "lnvlone",
+            "content": "首先我们认真的想一想  像涉枪的这种大案可能私了么？还是武装的押钞员。公检法是不可能坐视不管的，坐牢逃不掉，只是轻重的问题。",
+            "time": "16-11-30 19:40",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "5849337831",
+            "user name": "乖乖来吧2016",
+            "content": "据说刑事附带民事的赔偿不高，所以你懂的",
+            "time": "16-11-30 14:28",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 7,
+            "children": [],
+            "user id": "2627250080",
+            "user name": "邓佳彬-",
+            "content": "要赔款是很正常，但是我觉得这样就有点不妥，给人感觉不好",
+            "time": "16-11-30 14:25",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "2627250080",
+            "user name": "邓佳彬-",
+            "content": "反正我觉得这样不好，想给自己一个公道就是法院判决，赔款和当事人的处罚，又先感觉私了收了别人钱，现在又还继续闹，感觉像小丑，说的难听点",
+            "time": "16-11-30 14:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "user id": "5439662622",
+            "user name": "lnvlone",
+            "content": "只是解决了民事诉讼，刑事案件另外分开的吧，反正都是刑事诉讼附民事诉讼，大不了被害方不附带民事诉讼咯。",
+            "time": "16-11-30 12:54",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "user id": "5849337831",
+            "user name": "乖乖来吧2016",
+            "content": "就是冲着钱去的，回家了还可以炫耀一下自己多有钱",
+            "time": "16-11-30 12:48",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "1803877450",
+            "user name": "打命怪ke赶墟",
+            "content": "侬死弗能够复活，往后个日子，打起算盘过。180一个即大亦小和数字，算盘子弗到一世穷。",
+            "time": "16-11-30 18:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

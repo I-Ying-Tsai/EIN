@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Latest footage from #sydneysiege shows security forces throwing objects into the cafe http://t.co/HdTPHSMjUQ\nhttps://t.co/2pu3pWqHhz",
+        "user id": 21866939,
+        "tweet id": "544518415952539649",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@itvnews:footage from #sydneysiege shows security forces throwing objects into the cafe http://t.co/i4kha5ka8f\nhttps://t.co/iNUzYIZWL5”",
+            "user id": 295510001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews flash bangs",
+            "user id": 295970604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@itvnews @HeyitsSarahW",
+            "user id": 556709253,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

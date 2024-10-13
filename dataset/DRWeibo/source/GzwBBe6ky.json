@@ -1,0 +1,174 @@
+{
+    "source": {
+        "content": "作为中国一份子，真心的希望，广州认识的不认识的朋友，未来的日子，一切平安！🙏🙏🙏🙏🙏 财令的秒拍视频 ",
+        "time": "18-9-16 00:12",
+        "user id": "1786873881",
+        "tweet id": "GzwBBe6ky",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "2231698344",
+            "user name": "是小房子咯",
+            "content": "这个并不是山竹，散布谣言转发过500了解一下？？？",
+            "time": "18-9-16 20:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2380402352",
+            "user name": "秋秋秋秋_呀",
+            "content": "被人戳穿恼羞成怒又强词夺理的样子很可爱。",
+            "time": "18-9-17 22:57",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "1786873881",
+            "user name": "控榜",
+            "content": "就算不是，我想祈福一下广州同胞不行吗？500你妈了个逼，滚！",
+            "time": "18-9-16 21:32",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "user id": "6658307674",
+            "user name": "北京国安球迷俱乐部",
+            "content": "号称十六级的台风“山竹”",
+            "time": "18-9-16 00:24",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "1786873881",
+            "user name": "控榜",
+            "content": "太狠了。🙏🙏🙏🙏",
+            "time": "18-9-16 01:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "user id": "2231698344",
+            "user name": "是小房子咯",
+            "content": "这个是山竹……是大西洋上的一个飓风",
+            "time": "18-9-16 20:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "6128901989",
+            "user name": "坠了个落",
+            "content": "散播谣言举报了",
+            "time": "18-9-17 21:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "1919159311",
+            "user name": "花痴堂堂",
+            "content": "麻烦你绕个道",
+            "time": "18-9-16 09:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "2231698344",
+            "user name": "是小房子咯",
+            "content": "并不是山竹，是一个飓风",
+            "time": "18-9-16 20:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "3911739124",
+            "user name": "水木槿霖",
+            "content": "这是飓风",
+            "time": "18-9-17 16:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2409585350",
+            "user name": "小坡同志",
+            "content": "这好像是灾难电影《后天》的剧照。这么大一个飓风能覆盖整个亚洲了。",
+            "time": "18-9-17 06:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5215839602",
+            "user name": "星之冠观星者",
+            "content": "谣言举报了，不谢。",
+            "time": "18-9-17 23:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

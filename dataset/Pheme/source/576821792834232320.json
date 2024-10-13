@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Putin has obviously disappeared to binge watch the entire season 3 of House of Cards.. #putinmissing #putin",
+        "user id": 20541545,
+        "tweet id": "576821792834232320",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mennodejong is he fighting on the front line ? or his girlfriend gave birth ?",
+            "user id": 119078116,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mennodejong LOL",
+            "user id": 68647863,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mennodejong Hope he doesn't get upset at the mocked Russian diplomacy😱",
+            "user id": 480145762,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

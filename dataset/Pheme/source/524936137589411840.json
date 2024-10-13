@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "DEVELOPING MPs tweeting that gunman has been shot dead. CBC has not confirmed this. Condition of soldier also unknown\nhttp://t.co/QcwgN8OgHB",
+        "user id": 24000965,
+        "tweet id": "524936137589411840",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCTheNational @jacquigingras #BreakingConjecture",
+            "user id": 1312728277,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

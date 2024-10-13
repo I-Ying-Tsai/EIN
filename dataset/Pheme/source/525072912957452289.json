@@ -1,0 +1,217 @@
+{
+    "source": {
+        "content": "This photo, reported to be of suspected Ottawa shooter Michael Zehar Bibeau, came from suspended ISIS Twitter account http://t.co/QiM55Gu93N",
+        "user id": 19636948,
+        "tweet id": "525072912957452289",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CP24 http://t.co/hhiRSR4ZN6",
+            "user id": 119441850,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@allstaradele @CP24 what a hero! Gave his life serving this great nation. RIP.",
+            "user id": 322148870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 Oh, thats interesting it was #ISIL.",
+            "user id": 43089397,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6
+            ],
+            "content": "@CP24 How about have some class and focus on the victim instead.",
+            "user id": 23522112,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@beets79 @CP24 they are they did but the public also needs to know who this coward is and the coward group",
+            "user id": 481694798,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@beets79 @CP24 Yes because if we just let go of it Canada will be terrorized just as USA",
+            "user id": 1166409398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@beets79 @CP24 Class doesn't count when a murderer kills one of yours",
+            "user id": 1166409398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 So stop spreading it around then.",
+            "user id": 16206664,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 stop giving him a platform. It doesn't matter what he looks like.",
+            "user id": 221561433,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 I expect sometime in the future, computers would be able to reconstruct the photographer's silhouette...",
+            "user id": 2484888469,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 Please do not make this piece of trash infamous via media. Focus on the innocent soldier who was slain. And on our peaceful Canada.",
+            "user id": 366644497,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 gud canada deserves that shit dunt talk shit an get involved in other countries business pusssies lmaoo",
+            "user id": 100150714,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@Electric_robby @CP24 I understand that but there is always TOO much focus on it.",
+            "user id": 23522112,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 6,
+            "children": [
+                14,
+                15
+            ],
+            "content": "@ruthia911 @beets79 @CP24 Class is appreciating one of our own soldiers that is the good of Canada (Cirillo) not the bad (Bibeau)",
+            "user id": 28509248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@JFerraraF18 @beets79 @CP24 YES absolutely",
+            "user id": 1166409398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "content": "@JFerraraF18 @ruthia911 @beets79 @CP24 I agree with Jeff!",
+            "user id": 404610392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

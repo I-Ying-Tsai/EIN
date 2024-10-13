@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "有人说，旋转木马是世界上最残忍的游戏，彼此追逐，却怀着永恒的距离。",
+        "user id": 1832857505,
+        "tweet id": "3517127263003572",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "😢",
+            "user id": 1843958840,
+            "user name": "思纳女王范儿-vincy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "但是你们却总觉得很浪漫",
+            "user id": 2172931591,
+            "user name": "凌_夏日安晨",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "我们活在地球上，注定一个走、一个追。",
+            "user id": 2712676000,
+            "user name": "马家姑娘257",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "永恒的距离。",
+            "user id": 2242498662,
+            "user name": "于倩Queenie",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "永恒的距离，永恒的美！这样理解就不残忍了~~~",
+            "user id": 2293684974,
+            "user name": "南抓大小拽拽",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "任何事物总有它美好的一面[爱心传递][爱你]",
+            "user id": 2807228201,
+            "user name": "梦思殇忆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        }
+    }
+}

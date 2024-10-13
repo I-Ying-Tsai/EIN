@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "BREAKING Hostages held in Sydney, Australia, cafe with an Islamic flag displayed in window, according to local news: http://t.co/HdYk21TLGY",
+        "user id": 7309052,
+        "tweet id": "544280516821024769",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@YahooNews Doesn't sound good.  Call Obama he'll pay them off and give them some terrorists.",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@Nancywillask Jesus you're an idiot.",
+            "user id": 100005598,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooNews #GodsPrayerRoom",
+            "user id": 534689933,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@YahooNews:BREAKING Hostages held in Sydney, Australia, Islamic flag displayed in window, according to local news http://t.co/yXZD8ey6hx” 😳",
+            "user id": 2416235035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooNews residents should do the opposite of the U.S.  They should advocate to get rid of the public gun bans.",
+            "user id": 390232856,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooNews @katiecouric Sad. I was in Sydney last year. Amazing awesome city. Too bad their MP is such a Rupert tool!",
+            "user id": 31493602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooNews If Islam was such a peaceful religion as some claim, then this wouldn't be happening. Yeah, \"extremists\" #SydneyHostageCrisis",
+            "user id": 15517408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@YahooNews #Australia ignored Iranian pleas to extradite #Sydney hostage taker &gt;&gt;@iranfrontpage: http://t.co/dWGv3nWzDF",
+            "user id": 2830305847,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@hotelkeys Jesus is not.",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

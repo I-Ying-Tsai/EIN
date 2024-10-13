@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The City of Hamilton offers condolences to the family of Cpl. Nathan Cirillo, a #HamOnt native who bravely served with @TheArgylls. #Ottawa",
+        "user id": 44699893,
+        "tweet id": "525035552643751936",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@cityofhamilton @TheArgylls So sorry for the loss of your comrade. Sending prayers to his family and friends, may he rest in peace. #hamont",
+            "user id": 17605064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@cityofhamilton @TheArgylls I live in Hamilton, but was born in Ottawa. Two of my cities have been attacked today. Praying for everyone.",
+            "user id": 17605064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cityofhamilton @TheArgylls Sorry for the loss of your comrade #RIPNathanCirillo",
+            "user id": 2821256338,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

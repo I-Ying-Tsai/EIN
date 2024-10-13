@@ -1,0 +1,173 @@
+{
+    "source": {
+        "content": "So lets recap. No dashboard cam of the incident. But definitely photos of Michael Brown in a store. Funny how that happens #NMOS14 #Ferguson",
+        "user id": 12004852,
+        "tweet id": "500287538578587648",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GrooveSDC smh...",
+            "user id": 19594968,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GrooveSDC The slime is in.",
+            "user id": 462305473,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@GrooveSDC The Justice dept needs 2 investigate St. Louis Co Sheriff &amp; City &amp; Ferguson PD for corruption&amp;Civil Rights Violations N the past.",
+            "user id": 2514045312,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@GrooveSDC Funny how the #Ferguson PD prepares a 16-pg report with 2 pgs of still photos after a kid steals a pack of Swisher Sweets.",
+            "user id": 14123701,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8,
+                9
+            ],
+            "content": "Yeah. What's going to be interesting is the store owner. Will we hear from them @Mededitor",
+            "user id": 12004852,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@GrooveSDC @jkfecke and the #Ferguson police have tanks but no dash board cams.",
+            "user id": 451019170,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@GrooveSDC ...Yeah...the killakkop's assigned vehicle Needed to be Held forCritical Evidence+Analysis of Its RealTime data Capabilities!?",
+            "user id": 166001916,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@GrooveSDC @Alasscan_ Let's Recap. No Jobs. No Training. But MILITARY EQUIPMENT OUT THE YING YANG. WHY? War Against Citizens. Spend $ on Ppl",
+            "user id": 393771226,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                10
+            ],
+            "content": "@GrooveSDC Our man @ryanjreilly on the scene says they're declining to speak:  https://t.co/shuK5IdQUq",
+            "user id": 14123701,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [],
+            "content": "@GrooveSDC @Mededitor Was the clerk Black or White? Have the cops got something hanging over him/her.This is a #CoverUp #CoverUp #CoverUp",
+            "user id": 2514045312,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "@Mededitor @GrooveSDC @ryanjreilly QuikTrip will handle communications through their main offices in Tulsa. They are tightly managed.",
+            "user id": 1155007404,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@Mededitor @GrooveSDC @ryanjreilly (I was a reporter and I've dealt with QT before)",
+            "user id": 1155007404,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

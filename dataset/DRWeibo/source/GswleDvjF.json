@@ -1,0 +1,566 @@
+{
+    "source": {
+        "content": "三亚大东海，鲨鱼吞噬了游客， 众人纷纷拍照留念 ，无人施救。 三星-陈云峰的微博视频 ",
+        "time": "18-7-31 22:40",
+        "user id": "2627387221",
+        "tweet id": "GswleDvjF",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1551729367",
+            "user name": "眼哥险话连篇",
+            "content": "估计三星要出通知了，是临时工",
+            "time": "18-8-1 08:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2627387221",
+            "user name": "三星-陈云峰",
+            "content": "一语道破",
+            "time": "18-8-1 12:32",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "5042110657",
+            "user name": "untilyou520蒽蒽",
+            "content": "现在的人不是还有自己用手机拍自己自杀的么，现在这个社会！！",
+            "time": "18-8-5 21:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "2627387221",
+            "user name": "三星-陈云峰",
+            "content": "你说得这样的人毕竟只占极少数 不要那么消极",
+            "time": "18-8-6 07:28",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "5042110657",
+            "user name": "untilyou520蒽蒽",
+            "content": "不是消极，而是对孩子们的教育着急，不都是从网络及电视上学会很多",
+            "time": "18-8-6 18:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                7
+            ],
+            "user id": "2911734231",
+            "user name": "梦想天空分外-蓝",
+            "content": "假的，快删掉！三亚大东海，鲨鱼吞噬了游客， 网传视频中的生物并非鲨鱼，而是2017年12月9日在大东海因受伤而搁浅的一条鲸鱼。此外，也没有出现任何游客被咬受伤的情况。之所以会出现“鲨鱼咬人的传言极有可能是因为有游客拍下鲸鱼流血的画面被不明真相的网友看到，从而引发了误会网页链接",
+            "time": "18-8-2 15:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "2911734231",
+            "user name": "梦想天空分外-蓝",
+            "content": "误导大家",
+            "time": "18-8-19 08:11",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "user id": "6580306754",
+            "user name": "熊国的国王呆熊",
+            "content": "Ooooooooo吓死我",
+            "time": "18-8-14 00:08",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5361087660",
+            "user name": "colin白",
+            "content": "谣言止于智者",
+            "time": "18-8-1 00:48",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5484189369",
+            "user name": "97-10-06",
+            "content": "举报走一波，哈哈，造谣",
+            "time": "18-8-1 13:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                12
+            ],
+            "user id": "5936620470",
+            "user name": "没心没肺10666",
+            "content": "有没有看到吞噬的人？？？",
+            "time": "18-7-31 23:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "5484189369",
+            "user name": "97-10-06",
+            "content": "造谣的，这是去年12月份的视频，鲨鱼搁浅不是咬人",
+            "time": "18-8-1 13:39",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "user id": "5900915617",
+            "user name": "用户5900915617",
+            "content": "什么时候的事",
+            "time": "18-8-1 22:33",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "5374108542",
+            "user name": "偷得浮生半日闲得慌",
+            "content": "就这么想被拘留？",
+            "time": "18-8-1 15:35",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "3202827503",
+            "user name": "可是神明没有了",
+            "content": "图片评论 ",
+            "time": "18-8-2 14:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "5608087053",
+            "user name": "蔡依林的姐妹",
+            "content": "假的",
+            "time": "18-8-10 15:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "1750084357",
+            "user name": "翻水痞克",
+            "content": "举报了",
+            "time": "18-8-6 18:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "5427581548",
+            "user name": "你鲨掉啊",
+            "content": "举报一波造谣",
+            "time": "18-8-3 17:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "2201393137",
+            "user name": "朝lzh晖",
+            "content": "一定要造谣才开心？",
+            "time": "18-8-2 00:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "2176297812",
+            "user name": "NI耐叔",
+            "content": "招摇，",
+            "time": "18-8-1 23:24",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "6335418360",
+            "user name": "太阳当空照00091",
+            "content": "没有",
+            "time": "18-8-1 12:50",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "5218877072",
+            "user name": "夏南姬",
+            "content": "鬼扯",
+            "time": "18-8-1 07:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "6355421168",
+            "user name": "说好有福同享有肉你长",
+            "content": "大东海居然有鲨鱼，作为本地人这么多年第一次知道哈哈哈哈",
+            "time": "18-8-4 03:28",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "1913422093",
+            "user name": "爬坡的愤子",
+            "content": "已举报，沙雕",
+            "time": "18-8-1 14:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "1817547255",
+            "user name": "C_DoubleX",
+            "content": "真的是会造谣传谣，躺着刷手机不腰疼",
+            "time": "18-8-28 15:42",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "2014571655",
+            "user name": "迪迦奥特夫",
+            "content": "@狼牙久久",
+            "time": "18-8-7 22:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "5055731126",
+            "user name": "kneel-Call-me-Dad",
+            "content": "图片评论 ",
+            "time": "18-8-3 17:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "3795670391",
+            "user name": "PEACH吖吖吖",
+            "content": "假的！这根本不是三亚大东海 造谣！ 一个人造谣 不仅会对大东海这片海域经营带来影响 也会对三亚市景区管理带来影响 影响 国际旅游岛接客的服务安全等质量问题  这一切的切 只来自于一个不可证实真假的人的嘴巴   那个人 你付得起责任吗 祸从口出",
+            "time": "18-8-3 01:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "1917266153",
+            "user name": "Z猛烈",
+            "content": "@一切都来得及",
+            "time": "18-8-10 14:02",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "2895483651",
+            "user name": "疯狂小_土豆",
+            "content": "我tm啥都没看见 就看见一条鱼",
+            "time": "18-8-7 16:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "1869533953",
+            "user name": "星光引路__",
+            "content": "已举报",
+            "time": "18-8-5 17:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "6463391141",
+            "user name": "腾讯坑王",
+            "content": "转发微博",
+            "time": "18-8-5 13:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "3315362231",
+            "user name": "阿拉楠很强大",
+            "content": "是真的啊   就前两天的事",
+            "time": "18-8-3 17:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "6192085385",
+            "user name": "LenzoBenzo",
+            "content": "超过500转发，得拘留所豪华限量游一份。",
+            "time": "18-8-3 15:55",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "5264672076",
+            "user name": "漫天流萤o",
+            "content": "这帮人连鲨鱼和鲸鱼都分不清楚",
+            "time": "18-8-2 17:23",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "2955114887",
+            "user name": "有毒MD",
+            "content": "谣言止于智者！ 网传视频中的生物并非鲨鱼，而是2017年12月9日在大东海因受伤而搁浅的一条鲸鱼。此外，也没有出现任何游客被咬受伤的情况。",
+            "time": "18-8-2 16:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "2406173004",
+            "user name": "刘少VS做你的专属暖男",
+            "content": "这三星是要火呀。举报走你",
+            "time": "18-8-2 10:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "6298222631",
+            "user name": "天使傻蛋瓜16",
+            "content": "吹牛批，瞎扯，小心网警找你！",
+            "time": "18-8-1 08:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "6580306754",
+            "user name": "熊国的国王呆熊",
+            "content": "造谣的人有吃药吗！",
+            "time": "18-8-14 00:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "6463610472",
+            "user name": "婷兴宝贝",
+            "content": "造谣很好玩吗？回你家去玩",
+            "time": "18-8-3 14:23",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "5816424918",
+            "user name": "天方夜不谭",
+            "content": "旁边人说：完了，完了，什么意思？",
+            "time": "18-8-1 16:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "5886216226",
+            "user name": "海的旅人-婷婷13617587873",
+            "content": "请不要传播谣言！",
+            "time": "18-8-4 23:11",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "6601733280",
+            "user name": "安Ann若",
+            "content": "闲的蛋疼又造谣",
+            "time": "18-8-1 17:52",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "user id": "5622396494",
+            "user name": "三亚摄影师阿欣",
+            "content": "假的",
+            "time": "18-8-1 11:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 32
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

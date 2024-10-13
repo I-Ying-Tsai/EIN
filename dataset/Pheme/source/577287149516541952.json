@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Our QOTD: Where do you think #Putin has gone? @PaulineChiou @CNBCWorld #putinmissing",
+        "user id": 1461027876,
+        "tweet id": "577287149516541952",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinSoong @PaulineChiou @CNBCWorld what? wow really??",
+            "user id": 30372466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MartinSoong @PaulineChiou @CNBCWorld in hiding after cosmetic surgery will reappear even younger looking",
+            "user id": 1137832196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

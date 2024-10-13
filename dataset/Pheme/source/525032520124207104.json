@@ -1,0 +1,159 @@
+{
+    "source": {
+        "content": "CBC News Ottawa has independently confirmed that the gunman who was shot and killed is Michael Zehaf-Bibeau. #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "525032520124207104",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@CBCOttawa never again #OTTnews",
+            "user id": 1418188664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "content": "@CBCOttawa How bout that long gun registry now!?",
+            "user id": 2260621981,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@SmotheringTwat assuming didn't criminally acquire the firearm right?",
+            "user id": 199357853,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                8
+            ],
+            "content": "@SmotheringTwat And that would have stopped this guy from buying a gun and shooting someone... how?",
+            "user id": 2227591562,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@SmotheringTwat I highly doubt any of the firearms used in this attack were acquired legally, and even if they were the LGR wouldn't help",
+            "user id": 2305924741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @redsteeze Is that a Irish Catholic name?",
+            "user id": 969876055,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @bruce_arthur Isis",
+            "user id": 1084245319,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @UncleRee1 independent ???",
+            "user id": 2263235551,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [
+                10
+            ],
+            "content": "@Cmdrd5 Worth a try? Harpers policies basically welcome these kinds of things!",
+            "user id": 2260621981,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [],
+            "content": "@MrLucky1396 The lack thereof most certainly did help. There's no disputing that!",
+            "user id": 2260621981,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "@SmotheringTwat Guns don't kill people, people kill people. If this guy couldn't get a gun, could've used a knife. Knife registry next?",
+            "user id": 2227591562,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

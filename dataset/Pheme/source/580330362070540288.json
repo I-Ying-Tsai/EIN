@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Just landed, Barcelona to Kaunas. Found out about the Germanwings airplane tragedy. Our thoughts are with the passengers and their families.",
+        "user id": 45169955,
+        "tweet id": "580330362070540288",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BokiNachbar BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

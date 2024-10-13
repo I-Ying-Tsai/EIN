@@ -1,0 +1,144 @@
+{
+    "source": {
+        "content": "Let there be more, not less.  #CharlieHebdo http://t.co/Ut4yuxi30O",
+        "user id": 12716032,
+        "tweet id": "552814130827370498",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@sonaliranade @Oundhakar Those who are tweeting this, might become less in number. :P",
+            "user id": 120350623,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "Did you retweet? RT @sssingh21 @sonaliranade Those who are tweeting this, might become less in number. :P",
+            "user id": 1635187568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@sonaliranade and why cannot it be @BDUTT @sardesairajdeep @sagarikaghose @KaranThapar_TTP in such attack i.e.good riddance #CharlieHebdo",
+            "user id": 2637214800,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": ".@sonaliranade @RickCanton Let's make this go viral!!!",
+            "user id": 880734110,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@sonaliranade: Let there be more, not less.  #CharlieHebdo http://t.co/Kg74Ol3r40”. RETWEET !!!!",
+            "user id": 247456877,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@sonaliranade @eavesdropann lets see who's spirit is",
+            "user id": 54882415,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@sonaliranade: Let there be more, not less.  #CharlieHebdo http://t.co/sDDWQo43kC”",
+            "user id": 1461423726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@sonaliranade @AapChutiyeHain https://t.co/NOs7lEfJjm",
+            "user id": 612697234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@Oundhakar No, I want to live a bit longer. :)  @sonaliranade",
+            "user id": 120350623,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "OK, we'll defend your freedom for you RT @sssingh21 @sonaliranade No, I want to live a bit longer. :)",
+            "user id": 1635187568,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

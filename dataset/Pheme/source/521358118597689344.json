@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Milan have stated that the reports about Essien having Ebola are completely false.\nhttp://t.co/Sb9v9ulfTX\n@MichaelEssien",
+        "user id": 24044553,
+        "tweet id": "521358118597689344",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@milanello @michaelessien @kwaku_jerron haha. Ebola is in tue US and other countries,  hell not Ghana",
+            "user id": 2409229860,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Milanello @ACForzaMilano @MichaelEssien ミラン公式が、エッシェンのエボラ感染を否定。",
+            "user id": 1730212068,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Mr_Chelsea @Napheu “@Milanello: Milan have stated that the reports about Essien having Ebola are completely false.\nhttp://t.co/EorJSMsXHV",
+            "user id": 264279959,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Milanello @MichaelEssien Lol...Essien avin Ebola? Big lie",
+            "user id": 169127929,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

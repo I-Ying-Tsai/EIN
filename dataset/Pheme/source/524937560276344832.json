@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "Canadian police, backed by armoured vehicles, have surrounded Parliament building in Ottawa http://t.co/GZ0sW8Izdu http://t.co/rIZmHjHdlr",
+        "user id": 7587032,
+        "tweet id": "524937560276344832",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Go get um chaps",
+            "user id": 870691879,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNews: Canadian police, backed by armoured vehicles, have surrounded Parliament building http://t.co/b6R8coTBtS http://t.co/HdCEI9f8vH",
+            "user id": 354917016,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@SkyNews @CaitlinMack1996 Canada might not be a good shout 😩",
+            "user id": 312996321,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@stevenc0chrane @SkyNews there's always America where a shooting is just normal? 😂",
+            "user id": 23476172,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews Someone disgruntled by law/governing ?",
+            "user id": 387523648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews",
+            "user id": 997535641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews isis",
+            "user id": 420445035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@CaitlinMack1996 @SkyNews Canada seems no bad again 😂",
+            "user id": 312996321,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@stevenc0chrane @SkyNews always a positive eh?",
+            "user id": 23476172,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

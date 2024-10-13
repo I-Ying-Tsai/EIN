@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Among the 12 killed were France's most respected &amp; controversial cartoonists: http://t.co/yQRS1RGqso #CharlieHebdo http://t.co/ULvNrIfyeo",
+        "user id": 759251,
+        "tweet id": "553195852643442688",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Heartbreaking. @CNN: Among the 12 killed France's most respected cartoonists: http://t.co/KehaK39OO5 #CharlieHebdo http://t.co/rX8CoVHAr3”",
+            "user id": 40769714,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@CNN Communist News Network",
+            "user id": 176484991,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "Not you, too? RT @governmenthawk: @CNN Communist News Network",
+            "user id": 68956490,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@CNN: Among the 12 killed were France's most respected &amp; controversial cartoonists: http://t.co/mRvNjXmmlA http://t.co/4jHFiI3Tzr”",
+            "user id": 15367365,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CNN why is it taking them so long to catch them????what are they afraid of?????this is insane????",
+            "user id": 1857973608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CNN Free first class tickets to the hell.😜",
+            "user id": 161026267,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

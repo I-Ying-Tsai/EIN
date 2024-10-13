@@ -1,0 +1,364 @@
+{
+    "source": {
+        "content": "A silent vigil was held in London last night for the victims of the Charlie Hebdo shooting  http://t.co/DFl1SyXhCU http://t.co/D0rLz4LIHX",
+        "user id": 16973333,
+        "tweet id": "553190655011205120",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent http://t.co/lnjHG56Hh8",
+            "user id": 1234987687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent France is a secular country with freedom of speech; why killing other people all because of satirical &amp; religion? #CharlieHebdo",
+            "user id": 283582930,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@Independent how come they never held a vigil for the 23,000 children killed by Assad? Coz theyre Muslims ..right!! Je suis enfant Syrien 😓",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@BeirutdollyD @Independent and the Christians don't matter to you? How many Christian children have been slaughtered?",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @eddieizzard  #hypocrisy #Islamophobia #doublestandards wake up sheeple #falseflag http://t.co/X43Zvgkt8J",
+            "user id": 2964610828,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@Independent: A silent vigil was held in London last night for the victims of http://t.co/uya5IU3ZAk http://t.co/eV5iG5Y5m4”  ....so sad...",
+            "user id": 734305040,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Good to see Europe standing tall. @Independent @eddieizzard je suis Charlie. Stay strong France, and together. Liberte, egalite..",
+            "user id": 2815827712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "#JeSuisCharlie \n\n@Independent @eddieizzard http://t.co/e6FY0G3qY7",
+            "user id": 100882501,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "@Baumee @Independent tell me where???",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [
+                10
+            ],
+            "content": "@Baumee @Independent you're so insensitive",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@BeirutdollyD you go around throwing stones at everyone and when folk start throwing them back you cry you kick you scream Bly murder..",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@Baumee lol wtf",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "content": "@BeirutdollyD you cry and cry, you kill, you hate, you abuse, you disrespect, but we are the religion of peace you cry! You hate you hate",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "content": "@Baumee you hate you bomb you come terrorising us you make weapons you support dictators you  abuse our pple with twisted politics psycho",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@BeirutdollyD you copy you twist you persecute, you spread, you infect, you impose, you convert, you spit, you point, you divide, you cry",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                17
+            ],
+            "content": "@Baumee I believe you talking about YOU 👈",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [
+                18
+            ],
+            "content": "@Baumee imperialistc capitalist zionist killer user manipulator conspiracy formulator  terroriser bomber destroyer resources robber sucker",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [
+                19
+            ],
+            "content": "@BeirutdollyD we shall overcome..... You burn our churches but you won't burn our spirit or determination to live freely and live our lives",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [
+                20
+            ],
+            "content": "@BeirutdollyD Jesus would forgive you.... Others wouldn't.... Save yourself because judgement day is coming",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 19,
+            "parent": 17,
+            "children": [],
+            "content": "@Baumee burn your churches? R u out of ur mind? Jesus is our prophet go learn more about islam b4 u talk.. U want2live so let everybody live",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 20,
+            "parent": 18,
+            "children": [
+                21
+            ],
+            "content": "@Baumee i hope soon be ready coz no father no mother no son will save your soul.. It's so scary",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                22
+            ],
+            "content": "@BeirutdollyD you were the last ones in.... You will be the first ones out!",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [
+                23
+            ],
+            "content": "@Baumee how would you know?",
+            "user id": 415620907,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 13
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [],
+            "content": "@BeirutdollyD read your bible and educate yourself cupcake",
+            "user id": 44464005,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 14
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "10-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "12-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "13-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "14-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "LIVE: Police close in on Charlie Hebdo suspects; hostages taken in eastern Paris http://t.co/F6LMSCjCT4 http://t.co/WCjr5CthJZ",
+        "user id": 15108702,
+        "tweet id": "553566279953842176",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters \n#StopKillingInnocentPeople\n#FreePalestine\n#freeBurma\n#FreeSyria \n#FreeKashmir\nhttp://t.co/ggBNiIa9fq",
+            "user id": 2370908751,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ReutersLive @fitzfam2000 Maybe France needs to go into the \"No GO Zones\" and clean them out.  Fire is a useful tool.",
+            "user id": 457820209,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@ReutersLive @fitzfam2000 #France #Hostages",
+            "user id": 457820209,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @ReutersBefore France invited this attack: French began ceding control of neighborhoods to Islamists...",
+            "user id": 701094366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive its shameless for the security authorities why the can not catch them ?",
+            "user id": 268145836,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters Those are some simple looking SMGs they have. Look like they're made from bicycle frames.",
+            "user id": 399867737,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters police go arrest hot shot oil companies frackin America we're invaded by acid of frackin byproducts",
+            "user id": 2958255480,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@ReutersLive @jkellone and after this is over I guess we will need to sit down and talk about what we did to piss off Muslims again.",
+            "user id": 705821096,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                11
+            ],
+            "content": "@Gavin0503 @ReutersLive ya...let's have a national conversation about it.",
+            "user id": 614801913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive ☆ http://t.co/HsBeiLWSXh",
+            "user id": 2951968857,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@ReutersLive: LIVE: Police close in on Charlie Hebdo suspects; hostages taken in east Paris http://t.co/zFBC6pvxuJ http://t.co/GDy9uWkTfj”",
+            "user id": 33523573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@jkellone @ReutersLive I think we should. Perhaps Obama can explain to us what we have done to piss of these Muslims. Clearly it is us",
+            "user id": 705821096,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

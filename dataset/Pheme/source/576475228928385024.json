@@ -1,0 +1,167 @@
+{
+    "source": {
+        "content": "#Putin Mistress Alina Kabayeva announce she has given birth to a boy https://t.co/DNcti3SJW1 #Putindead via @Symmaque http://t.co/1ecwr8cN9G",
+        "user id": 52003080,
+        "tweet id": "576475228928385024",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 we don't know if this is an official or troll account though",
+            "user id": 127632704,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@raging545 @Symmaque \n... Is this realy the account? I don't believe it actually",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9,
+                10
+            ],
+            "content": "@cmsNetherlands @Symmaque Been advised that it might be a fake account.A Swiss newspaper however says she had a girl http://t.co/iDHOCRSxQ7",
+            "user id": 52003080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 @AlexandruC4 @Symmaque her a/c is not verified &amp; made only few tweets, so...",
+            "user id": 2734727143,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 account could be compromised @Symmaque @michaeldweiss",
+            "user id": 214558609,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 @michaeldweiss @Symmaque FAKE!",
+            "user id": 2866955944,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 @tufkaa @Symmaque Is the ROC-MP now OK w/ unwed mothers, or will Kirill declare this a virgin birth? #OrthodoxValues",
+            "user id": 929188134,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 @AlexandruC4 @Symmaque I don't think Putins spokesperson would outright say it's not true just to say its true days later.",
+            "user id": 534703497,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@raging545 https://t.co/D2Ad7Oc9Wh @AmDefNews @Symmaque",
+            "user id": 108077798,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [],
+            "content": "@raging545 @Symmaque yeah I hear see that too.",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": "@raging545 @Symmaque See this ... :\nhttps://t.co/KDKEuAFj9G",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@cmsNetherlands @Symmaque I read that but its not a confirmed or legitimate source,plus there is no confirmation of this happening",
+            "user id": 52003080,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

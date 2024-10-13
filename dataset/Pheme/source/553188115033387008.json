@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Attack that killed policewoman south of Paris being treated as \"terrorist\", French prosecutors say  http://t.co/Dz1HZhy2Ul",
+        "user id": 5402612,
+        "tweet id": "553188115033387008",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Sigh",
+            "user id": 125344265,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking So does that makes it 13 killed?",
+            "user id": 27304360,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCBreaking: Attack that killed policewoman south of Paris being treated as \"terrorist\", French prosecutors say  http://t.co/EaFfkGuEaV",
+            "user id": 23153001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

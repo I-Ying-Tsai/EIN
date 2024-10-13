@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Prince to perform surprise show in Toronto: http://t.co/y57XENHQlb #Prince http://t.co/sOFt4XlNUG",
+        "user id": 18228708,
+        "tweet id": "529679551631089664",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GlobalCalgary Not much of a surprise if you're aware of it beforehand.",
+            "user id": 287238322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@GlobalCalgary: Prince to perform surprise show in Toronto: http://t.co/HFDAt0243i #Prince http://t.co/rCalXnvxyO”come to Calgary",
+            "user id": 394684437,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

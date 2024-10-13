@@ -1,0 +1,202 @@
+{
+    "source": {
+        "content": "If there is surveillance of a robbery why release stills and not the video itself? #Ferguson",
+        "user id": 325076723,
+        "tweet id": "500284699546517505",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "Video manipulation takes time. RT @zellieimani: If there is surveillance of a robbery why release stills and not the video itself? #Ferguson",
+            "user id": 18931723,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@jsmith189 @zellieimani why is that even relevant?!",
+            "user id": 297357336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "“@jsmith189 Video manipulation takes time. RT @zellieimani If there's surveillance of a robbery why release stills &amp; not video? #Ferguson.”",
+            "user id": 28010994,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@zellieimani It's easier to manipulate pictures than a video.",
+            "user id": 116038947,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@zellieimani they did release the video..up to the journalists to post them  @syndicalisms",
+            "user id": 725173022,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@zellieimani is that even him in the stills?",
+            "user id": 829772538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                13
+            ],
+            "content": "@LashawnaTaylor @zellieimani look at the shoes",
+            "user id": 390147741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "To not telegraph their court case “@zellieimani: If there is surveillance of a robbery why release stills and not video itself? #Ferguson”",
+            "user id": 161185849,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@zellieimani That's what you got from those looks like some1 pushing an old lady around.... no?",
+            "user id": 464329417,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@zellieimani maybe they will do like 911 and cut out frames",
+            "user id": 2516782418,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@zellieimani @YourAnonCentral Because it shows Brown negatively. The real issue is: Why did a cop shoot and kill an unarmed man, hands up?",
+            "user id": 18277208,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@zellieimani @YourAnonCentral Where is the video from the cellphone taken from one of the witnesses who saw Brown shot and killed?",
+            "user id": 18277208,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@zellieimani It doesn't matter. The cop shouldn't have killed him. Also, I'd like to see the damn injuries the wussy cop had.",
+            "user id": 1457834712,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 6,
+            "children": [
+                14
+            ],
+            "content": "@gig_42 @zellieimani doesn't justify him getting shot several times.",
+            "user id": 829772538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@LashawnaTaylor @zellieimani got me all wrong the robbery suspect is wearing sandals but michael is wearing tennis shoes- few mins later",
+            "user id": 390147741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

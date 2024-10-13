@@ -1,0 +1,73 @@
+{
+    "source": {
+        "content": "LIVE STREAM: CBC News coverage of the #OttawaShooting http://t.co/fUmPnqI8iW Mobile: http://t.co/KF24bmAjdQ #CBCNN http://t.co/uX7JIgnoWb",
+        "user id": 19000033,
+        "tweet id": "524950321064607744",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@CBCToronto @Christinekorda can anyone get this live stream to work on their computer?",
+            "user id": 32045747,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "the mobile link works on iOS; I don’t know about the other link @LolaTwist @CBCToronto @Christinekorda",
+            "user id": 436351349,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@LolaTwist The link works for me on my computer.",
+            "user id": 18179554,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Christinekorda it must be our servers blocking the feed",
+            "user id": 32045747,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

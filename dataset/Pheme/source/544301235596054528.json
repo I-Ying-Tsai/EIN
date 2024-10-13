@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Map shows Martin Place in Sydney where hostages are being held in a cafe @AFP http://t.co/WQ2vzn1mTU",
+        "user id": 380648579,
+        "tweet id": "544301235596054528",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP DebT WAR is approaching, Jesus Debt Gospel to Seize ALL LAND &amp; Assets globally, Sneaker attack using Category Killers, King GOD Dollar!",
+            "user id": 2460449173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "\"@AFP: Map shows Martin Place in Sydney where hostages are being held in a cafe @AFP http://t.co/lmh67cMUk9\"",
+            "user id": 29664767,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@AFP: Map shows Martin Place in Sydney where hostages are being held in a cafe @AFP http://t.co/UKORlYMzws”",
+            "user id": 1030435626,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP Not really.",
+            "user id": 765476,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "source": {
+        "content": "Every newspaper should publish a free issue of #charliehebdo so we can all see the reason 12 people have died today. http://t.co/XazdjLCAOR",
+        "user id": 634454063,
+        "tweet id": "552808138127446016",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AndyBarnett6 #charliehebdo",
+            "user id": 787511155,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AndyBarnett6 @mkpdavies \n\nThey will, but use the cover insulting Catholics instead",
+            "user id": 47573602,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AndyBarnett6 Three nut job terrorists cost 12 people their lives - not an issue of a paper.",
+            "user id": 95060356,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@iamDarragh Agree 100%. I'm not attacking the paper at all, I would just like everybody to be able to read what they wrote so we can decide.",
+            "user id": 634454063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@AndyBarnett6 @kapsology dont instigate things in name of freedom of press...",
+            "user id": 367766733,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@shahfarhanazfar @kapsology I don't feel comfortable causing offence myself but I defend others' right to do exactly that. #FreeSpeech",
+            "user id": 634454063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": ".@AndyBarnett6 NO! The reason 12 people died is that followers of the terrorist religion of islam believed they must kill @IsakHemmingsson",
+            "user id": 571621476,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "Just in: Canadian soldier killed in #OttawaShooting today is Cpl. Nathan Cirillo Thoughts &amp; prayers to his family http://t.co/fu2eZssBTr",
+        "user id": 22129280,
+        "tweet id": "525058633730891776",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@jimsciutto sooo young!!! RIP",
+            "user id": 363954623,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@soozieQmtl @jimsciutto It is always the young that die in war -it is the wealthy &amp; bigoted old that make it &amp; the poor &amp;  young that suffer",
+            "user id": 23568501,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@jimsciutto connection to sniper den found near chicago?",
+            "user id": 30351538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Addidis @jimsciutto The connection is neo-liberal capitalist economy which fails to address injustice &amp; puts profit before people or ethics",
+            "user id": 23568501,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@jimsciutto Oh God! I'm so sad tonight! I'm asking why this happened to you! All my prayers with you :(",
+            "user id": 358803674,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@Marc_Omran @jimsciutto Your empathy is useful - your prayers are not - dogma and myth is a major part of the problem",
+            "user id": 23568501,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@jimsciutto I feel sad for his family! I have a knot in my stomach that hurts I feel so sad!!!!",
+            "user id": 2189599459,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "With great respect, pride and sorrow, I honor CAN Cpl Nathan Cirillo whose sacrifice makes his country stronger.\n@jimsciutto @tomforemancnn",
+            "user id": 143608097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jimsciutto RIP dear Soldier",
+            "user id": 2301638123,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@jimsciutto @LennaLeprena Prayers will achieve nothing.  Dismissing Harper &amp; all the warmongers like him, might save some future citizens",
+            "user id": 23568501,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@jimsciutto So sad.  RIP Nathan xo",
+            "user id": 765035604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@jimsciutto @kisscraycray such a waste of a human life. My thoughts and prayers are with the family.",
+            "user id": 2440465051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

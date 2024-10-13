@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Banksy's illustrated response to the Charlie Hebdo attack isn't by Banksy. But it is striking http://t.co/NQueBlmfOt http://t.co/HedHlyB24X",
+        "user id": 16973333,
+        "tweet id": "553115236992290816",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @abahcekapili 👆",
+            "user id": 74262274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent you take the broken ends and sharpen them into another pencil. we are now stronger because we are sharp at both ends",
+            "user id": 573550199,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent simple and effective",
+            "user id": 2924747729,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Independent @BBC_CReidy It took more than a pen to defeat Hitler and it will take more than pens to crush these savages !",
+            "user id": 132494834,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

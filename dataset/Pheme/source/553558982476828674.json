@@ -1,0 +1,177 @@
+{
+    "source": {
+        "content": "On Israeli TV, an Israeli woman speaks of her nephew,a mother with 6 month old baby, held hostage in the supermarket in Paris. #JeSuisJuif",
+        "user id": 328967731,
+        "tweet id": "553558982476828674",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@avitalleibovich link?",
+            "user id": 9554732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@talziv @Channel2News",
+            "user id": 328967731,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AvitalLeibovich do you have a link?",
+            "user id": 16513349,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@jessicaelgot @Channel2News - it was just live",
+            "user id": 328967731,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AvitalLeibovich omg",
+            "user id": 56709136,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AvitalLeibovich @RavDK http://t.co/vjy5WsmhkW",
+            "user id": 24875893,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AvitalLeibovich @tcwittes oh no, prayers for them.",
+            "user id": 2461166612,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AvitalLeibovich Praying.",
+            "user id": 468461679,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@AvitalLeibovich I assume you mean niece?",
+            "user id": 18580155,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@letsgoskatepool yes",
+            "user id": 328967731,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "If I were Jewish, I won't go to the demo beside Hamas' friends.\n@AvitalLeibovich @sbenayoun",
+            "user id": 235519831,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "@avitalleibovich @channel2news actually, http://t.co/zjIFaCvNoJ",
+            "user id": 9554732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [],
+            "content": "@AvitalLeibovich @Channel2News thanks!",
+            "user id": 16513349,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

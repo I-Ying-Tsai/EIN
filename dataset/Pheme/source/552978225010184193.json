@@ -1,0 +1,163 @@
+{
+    "source": {
+        "content": "Reports coming out from Paris say the policeman murdered on the pavement was Ahmed Merabet. A French muslim. #JeSuisCharlie",
+        "user id": 433584049,
+        "tweet id": "552978225010184193",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nthurlbeck @theJeremyVine  Just shows how ridiculous these killings are - they murder their own :-(",
+            "user id": 623834045,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@nthurlbeck @theJeremyVine I wonder if that fact will cause the killers any regret 😥",
+            "user id": 181956696,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "Psychopaths don't do \"regret\" @chowellz @theJeremyVine",
+            "user id": 433584049,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@nthurlbeck @theJeremyVine we have no evidence the killers are Psychopaths, in fact research would suggest it's unlikely x",
+            "user id": 181956696,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT @nthurlbeck: Reports coming out from Paris say the policeman murdered on the pavement was Ahmed Merabet. A French muslim. #JeSuisCharlie",
+            "user id": 68451121,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nthurlbeck @theJeremyVine and why do we need to know that. I notice each time Muslims kill we need to feel sorry",
+            "user id": 460637495,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nthurlbeck @theJeremyVine terrorists killing Muslims, do not suggest that it's Muslims killing Muslims.",
+            "user id": 26583150,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@nthurlbeck @theJeremyVine These people don't discriminate between Muslims/Christians/Piccaninnies - they know only hatred/evil deeds...",
+            "user id": 14675676,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@nthurlbeck @theJeremyVine they take no prisoners and have no distinction if you are wearing a uniform #murderers",
+            "user id": 468743456,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "“@nthurlbeck: Reports coming out from Paris say the policeman murdered on the pavement was Ahmed Merabet. A French muslim. #JeSuisCharlie”",
+            "user id": 1374631898,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@PANDEVONIUMCOM Why #isis still consider themselves religious? Read here: http://t.co/WnFoxPmjTI",
+            "user id": 2858149972,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "Hi @IslamRevisited3,thank you for the article...it makes sence and confirms my understanding about the problem:(Keep spreading the word!",
+            "user id": 1374631898,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

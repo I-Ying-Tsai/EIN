@@ -1,0 +1,196 @@
+{
+    "source": {
+        "content": "It's a shame that Australians gave up all their guns on orders of the government. Now only ISIS lunatics are armed. #sydneysiege",
+        "user id": 18643437,
+        "tweet id": "544465934149513216",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": ".@PrisonPlanet how many amercan civilians stopped terrorists on amercan soil with their guns ?",
+            "user id": 7227522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@tristanmf @PrisonPlanet As opposed to Israel where civilians actually stop terrorists",
+            "user id": 190624477,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet You might want to sort out gun related deaths in your own country before you worry about ours. :-)",
+            "user id": 582390700,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet It wasn't on the order of the government, the people wanted it...",
+            "user id": 557444087,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet guns are still available to purchase...on internet even  @Partisangirl http://t.co/a6Q3SbvuAR",
+            "user id": 181873706,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet Its a shame @BarackObama is planning on killing us the same way.  12/24/14 marks the end of America.  All these weak people",
+            "user id": 28849371,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet @RTylerMartin the way things are going taking guns from people is plane stupid",
+            "user id": 2179916998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet @Mike_USPatriot but some how the world don't see it that way liberty for all not victims are us",
+            "user id": 474054440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@PrisonPlanet Australian cops carry guns!",
+            "user id": 443516364,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "@ResistanceAxis @PrisonPlanet lol 'cops' they are spooked brave",
+            "user id": 1007845926,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@PrisonPlanet moron",
+            "user id": 624557599,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                12
+            ],
+            "content": "@BadKidRebeling @PrisonPlanet what's spooked brave mean?",
+            "user id": 443516364,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "content": "@ResistanceAxis @PrisonPlanet **so",
+            "user id": 1007845926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@BadKidRebeling @PrisonPlanet ok...",
+            "user id": 443516364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

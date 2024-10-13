@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#Ferguson Police Chief Thomas Jackson: “I’m not going anywhere, I’m going to stay and see this through.” #NewDay http://t.co/ZFH4Hh0ty7",
+        "user id": 1375289149,
+        "tweet id": "500254671337193474",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NewDay Thanks so much for sharing. Just added it to my @CouchSurfingEa http://t.co/uqH9i2EQxN",
+            "user id": 28103908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NewDay @CNN I say tell the public what happened? Why police called to area, foot patrol cops need to know community relations, you think?",
+            "user id": 28406464,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NewDay @CNN the Officer who did it is like, \"DON'T TELL THEM MY NAME!\" \"I'm still packing to leave\"",
+            "user id": 223707653,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

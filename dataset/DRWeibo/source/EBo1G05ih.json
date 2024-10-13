@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "#韩冰碎碎念#有关吉林市春芽中东幼儿园事件，看看@热门叔叔 @法医秦明 @辟谣与真相 @江苏网警 都咋说 ",
+        "time": "17-3-25 08:34",
+        "user id": "1640537924",
+        "tweet id": "EBo1G05ih",
+        "label": 0,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5694463602",
+            "user name": "种牙匠黄建生",
+            "content": "玩了一年多微博，发现一种现象，如果博主喜欢暴粗，粉丝大多爱骂娘，博主斯文，粉丝大多有教养，博主客观，粉丝大多理性。山猫兄着实为医疗界和自媒体树了个好榜样。",
+            "time": "17-3-25 09:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "1640537924",
+            "user name": "韩冰马球",
+            "content": "大概就是粉丝粘性的体现",
+            "time": "17-3-25 13:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "2119450834",
+            "user name": "偶尔迷失的我",
+            "content": "找了半天，我觉得这个是我比较可以接受的事情真相，我还是接受就是那个实验室的问题，刚才看了一眼已经封停了，这件事最开始我的怀疑动机就很明显，在食物安全和药品投放这件事上我觉得前者的可能性更大",
+            "time": "17-3-25 15:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [],
+            "user id": "1640537924",
+            "user name": "韩冰马球",
+            "content": "嗯  有些话不好说，但是我个人觉得有些幼儿园的餐以及食材确实很有问题。而这个方面似乎监管力度不是很强。",
+            "time": "17-3-28 11:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [
+                3
+            ],
+            "user id": "2119450834",
+            "user name": "偶尔迷失的我",
+            "content": "靠谱，从食物获取渠道，食物清晰过程，后面厨房卫生加工工序，一百多人的厨房怎么也要用餐厅的标准来参考.我也觉得以后看幼儿园可以考虑看完教室后在去看看厨房",
+            "time": "17-3-28 10:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "1640537924",
+            "user name": "韩冰马球",
+            "content": "如果我是在职的记者，我会做一篇幼儿园食品安全的深度调查报道。 我觉得幼儿园食品安全可能是个很值得追的话题。",
+            "time": "17-3-27 11:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "1075088234",
+            "user name": "路过寻经湖",
+            "content": "首先法医秦明和白衣山猫作为检方和第三方检测机构在职专业人士，其专业性和品行非常值得信任，是否鼠药已经定性。其次，吉林政府以最慢发布和最快速处理治病机构处理了此事。最后，某些水军其非专业性和倾向性明显，不评论其品德。个人观点。@白衣山猫 @法医秦明 ",
+            "time": "17-3-25 08:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "5206876425",
+            "user name": "77Rebirth",
+            "content": "造谣一张嘴，辟谣跑断腿 孩子平安就好",
+            "time": "17-3-25 08:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "3785836887",
+            "user name": "最美张大爷",
+            "content": "子弹飞了几天，现在大致清楚了。",
+            "time": "17-3-28 16:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "2246822337",
+            "user name": "大直子__",
+            "content": "转发微博",
+            "time": "17-3-26 00:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

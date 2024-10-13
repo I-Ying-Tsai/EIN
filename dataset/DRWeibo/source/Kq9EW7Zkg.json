@@ -1,0 +1,546 @@
+{
+    "source": {
+        "content": "南京疫情抓的挺严呀，菜市场、各种小吃店铺统统关闭，出租车、大客车已经停运，出入小区测体温，已经做了两次核酸检测了，期待早点好起来。  ",
+        "time": "21-7-24 04:12",
+        "user id": "6359891981",
+        "tweet id": "Kq9EW7Zkg",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "2687912204",
+            "user name": "椰汁葡葡",
+            "content": "赶紧删了，不然要被举报了",
+            "time": "21-7-25 01:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "我在南京禄口",
+            "time": "21-7-25 18:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4,
+                5
+            ],
+            "user id": "2203177452",
+            "user name": "心灵小雨滴",
+            "content": "这这是江宁吧！南京一切正常。",
+            "time": "21-7-24 07:29",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "对",
+            "time": "21-7-25 16:00",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "user id": "6576120907",
+            "user name": "法外狂徒nxkb",
+            "content": "不，是江宁的少数几个街道和村子，其他区域依然很正常",
+            "time": "21-7-24 08:19",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "user id": "2146521270",
+            "user name": "Medina_six",
+            "content": "江宁也没有，只有高风险区域管控最严格",
+            "time": "21-7-24 07:30",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8,
+                9
+            ],
+            "user id": "2939954037",
+            "user name": "JAY锁忆",
+            "content": "造谣是犯法的，除了几个重点区域，其他一切正常",
+            "time": "21-7-24 08:27",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "对，是我没说清楚",
+            "time": "21-7-25 19:06",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "我没造谣呀，发生在我身边呀",
+            "time": "21-7-25 18:55",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [],
+            "user id": "1130145423",
+            "user name": "月半影Pisces",
+            "content": "奥斯博恩在江宁禄口",
+            "time": "21-7-24 08:36",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "1830297470",
+            "user name": "黑色的手工布鞋",
+            "content": "你恐怕不是在南京吧",
+            "time": "21-7-24 07:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "南京禄口，离机场很近",
+            "time": "21-7-25 18:56",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "5718445267",
+            "user name": "河马GG幸福",
+            "content": "你说的是南京吗我这咋什么影响没有，除了孩子早教停课了",
+            "time": "21-7-24 11:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "我在禄口，离机场近",
+            "time": "21-7-25 19:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "5409550871",
+            "user name": "喜欢是有且仅有",
+            "content": "你是奥斯博恩的么？",
+            "time": "21-7-24 05:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "对",
+            "time": "21-7-25 19:08",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "1061528905",
+            "user name": "神经内科小医生",
+            "content": "一点都不严，江宁的人也到处乱跑",
+            "time": "21-7-24 08:34",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "我在江宁禄口，离机场近",
+            "time": "21-7-25 19:09",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "user id": "6369900058",
+            "user name": "tangsicheng31",
+            "content": "胡说八道！除了高风险的禄口街道，其他地方一切正常",
+            "time": "21-7-24 10:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "6359891981",
+            "user name": "蛇精娟",
+            "content": "是我没说清楚，我在禄口",
+            "time": "21-7-25 19:08",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "6974573184",
+            "user name": "软乎仔猪",
+            "content": "你讲清楚你是禄口街道，别开口就是南京",
+            "time": "21-7-24 09:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "5261570279",
+            "user name": "Hello大冯",
+            "content": "你已被网警监控",
+            "time": "21-7-24 08:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "6083267691",
+            "user name": "上野恋人",
+            "content": "你在禄口，基本上都封了。除禄口外，其他地方一切正常。",
+            "time": "21-7-24 10:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "5021957819",
+            "user name": "从容Catherine",
+            "content": "菜市场封了怎么买菜吃什么？",
+            "time": "21-7-24 06:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "7071640028",
+            "user name": "Harvey-Bao鸣谦",
+            "content": "带啥节奏啊？ZF给你钱？",
+            "time": "21-7-25 01:07",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "3336149550",
+            "user name": "包大人人",
+            "content": "一切正常呀",
+            "time": "21-7-24 13:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "3315213435",
+            "user name": "是你的培培啊",
+            "content": "能不能不要这么夸张 就是你这样的搞得人心惶惶 实在不行 你要是打听不到真实情况 你就多刷微博行不",
+            "time": "21-7-24 11:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "1797388687",
+            "user name": "La_confiserie",
+            "content": "造谣会被抓的",
+            "time": "21-7-24 11:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "1777127111",
+            "user name": "王小蜜miel",
+            "content": "不要制造恐慌！南京市区一切照旧",
+            "time": "21-7-24 11:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "1101654292",
+            "user name": "猫先生爱吃肉",
+            "content": "你是南京市江宁区，其它地方都正常。",
+            "time": "21-7-24 09:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "2013243360",
+            "user name": "圆脸小妞不在家",
+            "content": "？？？？？好像没有吧？",
+            "time": "21-7-24 09:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "3024195832",
+            "user name": "新宠小熊",
+            "content": "你外地",
+            "time": "21-7-24 09:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "1080981457",
+            "user name": "青青子衿",
+            "content": "那是高风险区的江宁吧？我们江北新区这里生活一切正常",
+            "time": "21-7-24 08:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "1949944622",
+            "user name": "蟹小壳壳壳",
+            "content": "麻烦把地点说清楚 不要胡说误导 南京哪儿菜市场小吃店关门了 你怕是在高风险去吧",
+            "time": "21-7-24 08:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "1414887574",
+            "user name": "红星铁翼SWAT",
+            "content": "别瞎讲，网警找你哦",
+            "time": "21-7-24 08:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "2791825645",
+            "user name": "Latuie",
+            "content": "额？哪里停运了？不能乱发",
+            "time": "21-7-24 07:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "7387755083",
+            "user name": "王大美人202002",
+            "content": "你说的是禄口吧！别瞎传，我们都正常生活，除了戴口罩查健康码核酸三件套，没有什么影响！",
+            "time": "21-7-24 07:12",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "5409550871",
+            "user name": "喜欢是有且仅有",
+            "content": "我早上4点进来 保安和我讲今天开始封小区",
+            "time": "21-7-24 05:41",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "1716617325",
+            "user name": "紫极幻",
+            "content": "现在发微博言语要谨慎了",
+            "time": "21-7-24 19:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "1149275331",
+            "user name": "agnes零",
+            "content": "不要不负责任的乱说，除了江宁区个别地方，其他区都是正常的",
+            "time": "21-7-24 11:25",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "6803955453",
+            "user name": "滴答滴198201",
+            "content": "@南京网警",
+            "time": "21-7-24 08:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "1373546445",
+            "user name": "wknicks2002",
+            "content": "没有啊，一切正常",
+            "time": "21-7-24 08:18",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 13,
+            "state_1": 17
+        },
+        "2-hop": {
+            "state_0": 6,
+            "state_1": 6
+        }
+    }
+}

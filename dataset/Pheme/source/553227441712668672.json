@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "And do it GoT style, please RT @GRRM: Life advice. #JeSuisCharlie http://t.co/riVYZW5ZIh",
+        "user id": 7993262,
+        "tweet id": "553227441712668672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@LamHua @GRRM this is so so so true. Brilliant!",
+            "user id": 2737018487,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "I love this “@LamHua: And do it GoT style, please RT @GRRM: Life advice. #JeSuisCharlie http://t.co/0zqqihYcGZ”",
+            "user id": 463605499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@LamHua @GRRM Isn't that called a suicide bomber?",
+            "user id": 1856127781,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@LastMyLoveHas__ @LamHua @GRRM exactly what I was thinking, albeit a split second before they kill everyone else.",
+            "user id": 57282606,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

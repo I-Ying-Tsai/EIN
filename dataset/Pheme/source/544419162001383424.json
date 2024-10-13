@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "RT @newscomauHQ: Every Australian should be very proud of their police force today. #sydneysiege http://t.co/v7O6yunJNS",
+        "user id": 2868975307,
+        "tweet id": "544419162001383424",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@kids6538 @newscomauHQ  not only aussiss but also the world",
+            "user id": 363000239,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

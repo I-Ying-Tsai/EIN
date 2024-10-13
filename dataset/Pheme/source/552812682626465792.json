@@ -1,0 +1,185 @@
+{
+    "source": {
+        "content": "LIVE: Paris on alert as gunmen kill twelve in massacre at #CharlieHebdo magazine office: http://t.co/q0K4AorQmJ http://t.co/rb4DycPVeC",
+        "user id": 1630896181,
+        "tweet id": "552812682626465792",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews what did they think was going to happen after 80 Thousand jihadis &amp; supporters marched screaming \"kill the jews\" in Paris?",
+            "user id": 25206663,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews This is heartbreaking.",
+            "user id": 581942293,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews .....cowards",
+            "user id": 395711027,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews \"russian world\" come.",
+            "user id": 2952859347,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@vicenews Please remove the YouTube Video. It is disrespectful towards the victims family to show how their loved one is being killed!",
+            "user id": 32349735,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                10
+            ],
+            "content": "@christinah84 @vicenews news cannot be censored to make certain families more comfortable.",
+            "user id": 200319021,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "Horrific. RT “@vicenews: LIVE: Paris on alert as gunmen kill twelve in massacre at #CharlieHebdo magazine office: http://t.co/YzvDeHfM6I",
+            "user id": 142071772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@TheNakedCellist @vicenews Did you juste wake up ? :D",
+            "user id": 1131873528,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews #INKnLIGHT",
+            "user id": 2932422959,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@vicenews + grenade and firearm attacks on a few mosques all over France.\n+ one policewoman killed in this morning's attack in Paris",
+            "user id": 2932422959,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 5,
+            "children": [
+                11
+            ],
+            "content": "@_tatianarmrz @vicenews They don´t need to censor the news, just the video. Its unnecessary.",
+            "user id": 32349735,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@christinah84 @vicenews the video is news content...",
+            "user id": 200319021,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@_tatianarmrz @vicenews Its not news content. We don´t need to see this.",
+            "user id": 32349735,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

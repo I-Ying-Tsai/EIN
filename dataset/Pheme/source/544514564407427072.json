@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Police seem relaxed, suggesting all hostages are out and gunman no longer a threat http://t.co/xheuclMCmj #sydneysiege",
+        "user id": 1960878613,
+        "tweet id": "544514564407427072",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@DailyMailAU @MailOnline Hopefully \"neutralized\"!",
+            "user id": 17700085,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU @MailOnline http://t.co/67miotqS6O",
+            "user id": 853484738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU @MailOnline hopefully the terrorist got a bullet to his hand.",
+            "user id": 2530450641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@DailyMailAU hmm",
+            "user id": 113655459,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

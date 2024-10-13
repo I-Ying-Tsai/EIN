@@ -1,0 +1,161 @@
+{
+    "source": {
+        "content": "Only the soldiers of Islam have the guts to bravely face women armed with coffee mugs.  #sydneysiege  #SydneyHostageCrisis",
+        "user id": 1934989190,
+        "tweet id": "544330542871633920",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia @PatriciaEggett2 Such a bunch of cowards!",
+            "user id": 2770504122,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia Islamites are the greatest cowards. Semites have ALWAYS lived in war and now they blame The West for their disgrace.",
+            "user id": 21161061,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": ".@GodlessUtopia Kinda like cops shooting innocent black kids armed with skittles. #sydneysiege #sydneyhostagecrisis",
+            "user id": 2497874076,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@WeShall0vercome @GodlessUtopia Why is Cheney free and he's not?\n\nRT\nhttp://t.co/iP4gJ1Ae1v  \nIf he should be free",
+            "user id": 254809254,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": "@WeShall0vercome @GodlessUtopia Hijack the thread? Mike Brown was more into handguns and forty pounders. http://t.co/XL2N0KopTZ",
+            "user id": 19111502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia And shoot a 14 y/o schoolgirl in the head #MalalaYousafzai",
+            "user id": 21131522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia #SydneyHostageCrisis #sydneysiege &amp; they preach peace with AK-47 right in head,saying theirs' is religion of peace. shitheads",
+            "user id": 892884318,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia dangerous sensationalism because someone says he is does not make him so.",
+            "user id": 254767849,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia Stupid attempt to tarnish the image of Islam stopped lied",
+            "user id": 2869579500,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia @Welsh58 #I'llgrieveforthem",
+            "user id": 175243720,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@GodlessUtopia @mickymantell So brave aren't they...",
+            "user id": 2351162450,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@GTMGQ @GodlessUtopia We execute people for that.  No trial.  Just like the Taliban. America! F yeah!",
+            "user id": 2497874076,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

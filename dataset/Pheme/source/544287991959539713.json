@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "ABC understands the national security committee of cabinet has just wrapped up a meeting about the #sydneysiege http://t.co/7NdqPYhwcY",
+        "user id": 2768501,
+        "tweet id": "544287991959539713",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews ABC understands sweet FA. You promote jihadis every week. Rack off you treacherous scum #auspol #sydneysiege @TurnbullMalcolm",
+            "user id": 2833701362,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews    The threat of terrorism  in this country grows stronger every day. We are now part of the big world!!!",
+            "user id": 462665315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

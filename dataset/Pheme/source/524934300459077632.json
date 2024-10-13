@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "RCMP advises people to stay away from Parliament Hill due to ongoing police incident.",
+        "user id": 203123011,
+        "tweet id": "524934300459077632",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: RCMP advises people to stay away from Parliament Hill due to ongoing police incident.”",
+            "user id": 17758398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews get this loser!! Shooting soldiers... Be safe but end this guy!! @OttawaPolice @rcmpgrcpolice",
+            "user id": 607764831,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Stay safe #Ottawa. Our thoughts and prayers are with those injured. RT @CTVNews: RCMP advises people to stay away from Parliament Hill",
+            "user id": 523653205,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Stay safe, #Ottawa RT @CTVNews: RCMP advises people to stay away from Parliament Hill due to ongoing police incident.",
+            "user id": 43552739,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

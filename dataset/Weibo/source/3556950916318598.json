@@ -1,0 +1,962 @@
+{
+    "source": {
+        "content": "果然把最后一句删了……",
+        "user id": 1408722714,
+        "tweet id": "3556950916318598",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                39
+            ],
+            "content": "大家明白了吗？又反转了。",
+            "user id": 1197197733,
+            "user name": "云飞扬2046",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "妥了",
+            "user id": 1879865763,
+            "user name": "渔盆是神父老爷的",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                6,
+                16,
+                24,
+                27,
+                35
+            ],
+            "content": "高潮一波接一波啊，跟黄易小说似的[嘻嘻]",
+            "user id": 1400158657,
+            "user name": "欧阳梦粥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "助理真牛逼",
+            "user id": 1708491133,
+            "user name": "小狗TA爸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "果然把最后一句删掉了[哈哈][哈哈][哈哈]拙计啊，",
+            "user id": 2491723672,
+            "user name": "sura_SDC_王达还是有点凶",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                38
+            ],
+            "content": "[哈哈][哈哈][哈哈]",
+            "user id": 1519141624,
+            "user name": "熊猫佳子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [],
+            "content": "噗！",
+            "user id": 1689031010,
+            "user name": "AyeLENEEEEE",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "[懒得理你]",
+            "user id": 1947420903,
+            "user name": "qqqmeng",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "[嘻嘻]",
+            "user id": 2551328190,
+            "user name": "没医保的猴子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@微博辟谣 求辟谣",
+            "user id": 1567807784,
+            "user name": "QingSong2010",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "何哥这次摊上大事了[偷笑]",
+            "user id": 1894845342,
+            "user name": "我們會愛很乆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的？[吃惊][吃惊][吃惊][吃惊][吃惊]",
+            "user id": 1448065110,
+            "user name": "祁咩咩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "这也行？",
+            "user id": 1892311300,
+            "user name": "DC围着风铃打转的猫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的？",
+            "user id": 1680208441,
+            "user name": "Tony_7th",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                20,
+                22,
+                23,
+                29,
+                34,
+                36,
+                37,
+                43,
+                71,
+                76
+            ],
+            "content": "难以置信。",
+            "user id": 1432482114,
+            "user name": "老金曰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "content": "[偷笑][偷笑][偷笑]",
+            "user id": 1823023300,
+            "user name": "杨大强在奋斗",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": 2,
+            "children": [
+                59
+            ],
+            "content": "看来这地是没法洗了[哈哈]",
+            "user id": 1315267820,
+            "user name": "LK老王_毁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "圈内人阿",
+            "user id": 2295892210,
+            "user name": "LAUPANNG",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 2886419974,
+            "user name": "爱夏的茄子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "content": "@AplusDolphinny @丸子遇小媛 ... 替小何同学的智商捉鸡.",
+            "user id": 1992899117,
+            "user name": "scorpio_sakya",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": 14,
+            "children": [
+                41
+            ],
+            "content": "明白！妥了。",
+            "user id": 1158518402,
+            "user name": "花马千里",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "content": "哈哈",
+            "user id": 1315192994,
+            "user name": "高七五微博",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": 14,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 1958824197,
+            "user name": "星空首望者",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 23,
+            "parent": 14,
+            "children": [],
+            "content": "造谣，鉴定完毕。",
+            "user id": 1300230441,
+            "user name": "汐爻",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 24,
+            "parent": 2,
+            "children": [],
+            "content": "笑死了。换我也只删最后一句。[嘻嘻]",
+            "user id": 1460005575,
+            "user name": "水底小鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "content": "就是这个@策也不爷 ",
+            "user id": 1139787484,
+            "user name": "恰是波滔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "content": "我有些不明白了哈！这些东西你从哪里弄来的。你弄的可是何润东的助理手机哦。你跟孙助理是什么关系。难不成是你跟何润东的助理想弄死何润东？",
+            "user id": 3205206937,
+            "user name": "時尚de夢想",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": 2,
+            "children": [],
+            "content": "好玩！",
+            "user id": 1658682494,
+            "user name": "a-huuu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "content": " @EUXAIX-",
+            "user id": 2151718271,
+            "user name": "嘻嘻哈哈發",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": 14,
+            "children": [],
+            "content": "",
+            "user id": 1819193641,
+            "user name": "山佳无寻cyf",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                54
+            ],
+            "content": "谁让你八点二十两句间用逗号哒？[哼]",
+            "user id": 1745047820,
+            "user name": "恶少恶言",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "真有此事，那就不仅仅是作假，是卑鄙无耻！",
+            "user id": 2690749734,
+            "user name": "阿Q后人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "content": "这事都成罗生门了",
+            "user id": 1650962741,
+            "user name": "优雅的lemon",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "content": "我记得又一次，我的一个男生朋友的女朋友。怀疑我跟他男朋友有问题。然后用qq的电话通信。来污蔑我给他发短信。就是这样的做法哈哈。太假了。问题是我从来不知道他手机号码。我又怎么会输入他的电话号码来发短信呢？",
+            "user id": 3205206937,
+            "user name": "時尚de夢想",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": 14,
+            "children": [
+                70
+            ],
+            "content": "次奥。。。这要是真的 智商该多捉急。。。真的只删了最后一句。。。",
+            "user id": 1353459067,
+            "user name": "徒斐的Emma",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 35,
+            "parent": 2,
+            "children": [
+                51
+            ],
+            "content": "@Kurama @关注公安微博 @呆二 @Dfsdsdfsds",
+            "user id": 1497013182,
+            "user name": "水墨精神",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 36,
+            "parent": 14,
+            "children": [],
+            "content": "[酷]",
+            "user id": 1156422907,
+            "user name": "6Speed",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 37,
+            "parent": 14,
+            "children": [],
+            "content": "[围观]",
+            "user id": 2326023781,
+            "user name": "Ziky_Q",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": 5,
+            "children": [],
+            "content": "...",
+            "user id": 1141957930,
+            "user name": "idon2thinkso",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 39,
+            "parent": 0,
+            "children": [
+                72
+            ],
+            "content": "果然把最后一句删掉了！何润东是冤枉的……",
+            "user id": 1303505340,
+            "user name": "刘小青",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "content": "说真的就算转发一下能给多少稿费啊O(∩_∩)O哈哈~。何润东是身价是多少啊。把别人当成是傻瓜。顶上去让博主陷入法律责任也好。看他还敢污蔑弄假不",
+            "user id": 3205206937,
+            "user name": "時尚de夢想",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": 20,
+            "children": [],
+            "content": "这东东在，@何润东 还不认，发声明，说向警方报案了，摊大事了!",
+            "user id": 2153302690,
+            "user name": "xiaoleelee围脖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                45
+            ],
+            "content": "果然删掉了最后一句哈哈哈...",
+            "user id": 2053675507,
+            "user name": "怎么那么多致远",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": 14,
+            "children": [],
+            "content": "不是吧，这智商…项羽啊，我们下次一定换个智商高点的演你哈[嘻嘻]",
+            "user id": 2011298887,
+            "user name": "生理盐水19781224",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "content": "还有啊。何润东助理不是台湾的吗？什么时候用简体字了哈哈。造假也不查清楚",
+            "user id": 3205206937,
+            "user name": "時尚de夢想",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": 42,
+            "children": [],
+            "content": "哈哈哈哈哈",
+            "user id": 2176893614,
+            "user name": "做一个沉着的葫芦娃",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "content": "好玩",
+            "user id": 1631373930,
+            "user name": "杳辰公",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [
+                53
+            ],
+            "content": "哈哈[哈哈][哈哈][哈哈]",
+            "user id": 1211619924,
+            "user name": "无绪先生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "content": "高级黑编的段子就是高级 哈哈 大家感受下啊",
+            "user id": 1205675023,
+            "user name": "Mr老刘不老",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "content": "CCAV果然牛X！",
+            "user id": 1018481414,
+            "user name": "平原风2012",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "content": "有造假嫌疑！",
+            "user id": 1662653023,
+            "user name": "这个ID没人用",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": 35,
+            "children": [
+                63
+            ],
+            "content": "我相信何润东不会这么脑残吧？？？",
+            "user id": 1449921193,
+            "user name": "Kurama",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [],
+            "content": "Repost Weibo",
+            "user id": 1683115587,
+            "user name": "矩阵年轮",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": 47,
+            "children": [],
+            "content": "智商太高了[偷笑]",
+            "user id": 1723478532,
+            "user name": "佛山老菠菜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 54,
+            "parent": 30,
+            "children": [
+                68
+            ],
+            "content": "写掉一个字，应该是“不用逗号”，呵呵",
+            "user id": 1745047820,
+            "user name": "恶少恶言",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [
+                74
+            ],
+            "content": "[哈哈]",
+            "user id": 1675551783,
+            "user name": "一个小米卡",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [],
+            "content": "何哥做的没错啊，冤不冤呐你说~~~哇哈哈哈哈@VicodinAddiction",
+            "user id": 2177121275,
+            "user name": "葉蜀黍_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "content": "这绝对是恶搞的。。。助理要稿费啊？？狗胆那么大？",
+            "user id": 1744942731,
+            "user name": "無忧樹丅",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [],
+            "content": "何生没有错，把最后一句删了[偷笑]",
+            "user id": 1596203531,
+            "user name": "Switch南蠻鴨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 59,
+            "parent": 16,
+            "children": [],
+            "content": "[疑问]",
+            "user id": 1838893882,
+            "user name": "宁静致远的淡泊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [],
+            "content": "苹果也不是啥好鸟，苍蝇叮臭鸡蛋",
+            "user id": 1457533430,
+            "user name": "清水煮麻鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "content": "果然把最后一句删了@山东001在线一雪 @无瓷不雅 @Darling灵儿一号 @黄灯记 @上汤靓面 @1061左晴右雨 @黄渤 @人民网 @开奔驰修宝马 @吴必虎 @政协委员韩志鹏",
+            "user id": 2539658084,
+            "user name": "感觉李的Feel",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": -1,
+            "children": [],
+            "content": "真真假假",
+            "user id": 1434256963,
+            "user name": "木果家园",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 63,
+            "parent": 51,
+            "children": [],
+            "content": "每当这种时候，总抱着坐等好戏的心情...让剧情来得更猛烈些吧！",
+            "user id": 1237965503,
+            "user name": "肉猫盼盼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 64,
+            "parent": -1,
+            "children": [],
+            "content": "好欢乐",
+            "user id": 2105952724,
+            "user name": "羅_Tiny",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 65,
+            "parent": -1,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 2034078330,
+            "user name": "2011的坚决",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [],
+            "content": "艾玛雅，就这智商[哈哈][哈哈]",
+            "user id": 1651697162,
+            "user name": "闪闪121",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [],
+            "content": "笑死了@哈雷朝圣",
+            "user id": 1670256007,
+            "user name": "17朵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 68,
+            "parent": 54,
+            "children": [],
+            "content": "哈哈",
+            "user id": 1745054303,
+            "user name": "Yvonne-八卦要小声说",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [],
+            "content": " @中环大道的Moriarty @俺是劉大官人 @低调di小男人 @郭俊啊",
+            "user id": 2060566527,
+            "user name": "鷹擊長空P-40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 70,
+            "parent": 34,
+            "children": [],
+            "content": "[睡觉]",
+            "user id": 1690878927,
+            "user name": "一回首的范儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 71,
+            "parent": 14,
+            "children": [],
+            "content": "这是恶搞么。。。果然删了。。。",
+            "user id": 1167240474,
+            "user name": "仆从贼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 72,
+            "parent": 39,
+            "children": [],
+            "content": "哈哈哈哈哈",
+            "user id": 1700195610,
+            "user name": "没有前途的胖子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 73,
+            "parent": -1,
+            "children": [],
+            "content": " @瓦恁 那些年我们一起遇到的弱智明星",
+            "user id": 1709064817,
+            "user name": "罗十一",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 74,
+            "parent": 55,
+            "children": [],
+            "content": "[哈哈]",
+            "user id": 2011252322,
+            "user name": "九命小夭",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 75,
+            "parent": -1,
+            "children": [],
+            "content": "果然亮了。",
+            "user id": 1497228763,
+            "user name": "Tang在织围脖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 76,
+            "parent": 14,
+            "children": [],
+            "content": "[哈哈][哈哈][哈哈]",
+            "user id": 1061633154,
+            "user name": "刘振顶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 77,
+            "parent": -1,
+            "children": [
+                78
+            ],
+            "content": "真的？",
+            "user id": 1740241031,
+            "user name": "五更ENTP",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 78,
+            "parent": 77,
+            "children": [
+                79
+            ],
+            "content": "果然把最后一句删了……",
+            "user id": 1729347230,
+            "user name": "点_火",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 79,
+            "parent": 78,
+            "children": [],
+            "content": "这个也能翻出来？",
+            "user id": 2161766744,
+            "user name": "SlayerJ",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 37,
+            "state_1": 11
+        },
+        "2-hop": {
+            "state_0": 16,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

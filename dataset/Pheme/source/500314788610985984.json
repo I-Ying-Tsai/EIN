@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Thoughts are with #Ferguson. We need 2 collectively take a stand against senseless violence that confronts our youth. http://t.co/skxSjMHzF8",
+        "user id": 1381926373,
+        "tweet id": "500314788610985984",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @YourAnonGlobal: Thoughts are with #Ferguson. We need 2 collectively take a stand against senseless violence that confronts our youth. h…",
+            "user id": 2192541366,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@YourAnonGlobal we also need to take a stand against people who think it's ok to rob others.",
+            "user id": 251923894,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

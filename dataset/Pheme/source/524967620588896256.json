@@ -1,0 +1,202 @@
+{
+    "source": {
+        "content": "Ottawa Hospital has received 3 patients, 2 of whom are in stable condition. Won't give update on soldier, deferring to DND. #cbcOTT #OTTnews",
+        "user id": 18999969,
+        "tweet id": "524967620588896256",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@CBCOttawa @CBCNews reports now soldier has died from injuries",
+            "user id": 278653258,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@QueenofSheba1 @CBCOttawa @CBCNews for real? That's so sad. I was hoping he would make it #PrayForOttawa",
+            "user id": 585467965,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@CBCOttawa @craignorriscbc Jason Kenney stating that the soldier has passed away",
+            "user id": 248815543,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@CBCOttawa @craignorriscbc grain of salt as always though as we have heard nothing from DND",
+            "user id": 248815543,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews  Reports are stating that the solider passed away  :(",
+            "user id": 25497997,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews thoughts and wishes go out to Ottawa this morning. *shocking*",
+            "user id": 487951794,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews Just confirmed that the soldier has died in hospital. Very sad news.",
+            "user id": 22593411,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews Sky News is reporting soldier has died. http://t.co/YFwlxgPR0N . Such a sad day for everyone.",
+            "user id": 29453773,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews",
+            "user id": 2762159938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa : prayers to the vıctıms and theır famılıes. Well wıshes for theır quıck recovery. Prayıng for dt soldıer and soldıer's famıly.",
+            "user id": 921267164,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @CBCNews very sad is that the soldier died, hope they will find the culprits",
+            "user id": 389728707,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCOttawa @saveusrepublic2 my thoughts and prayers to the people of Ottawa so sorry u have to go through this",
+            "user id": 2179916998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [],
+            "content": "@irrellenphant Indeed. Which is why we're not reporting it.",
+            "user id": 16220179,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [
+                14
+            ],
+            "content": "@irrellenphant Well, now we are.",
+            "user id": 16220179,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "content": "@craignorriscbc I was just going to say. \nVery tense downtown here. uOttawa is having all flaws in lockdown procedure revealed. Not good.",
+            "user id": 248815543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

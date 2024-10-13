@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "R.I.P. My sincere condolences to @germanwings colleagues and families. http://t.co/Ht8srgXkZ2",
+        "user id": 215258085,
+        "tweet id": "580328302939889664",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@aeroboqueron @germanwings Una autentica desgracia.",
+            "user id": 563492690,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@aeroboqueron: R.I.P. My sincere condolences to @germanwings colleagues and families. http://t.co/wMLdU1GM50” #PrayForGermanWings",
+            "user id": 1518702625,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

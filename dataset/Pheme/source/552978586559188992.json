@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Proud of France #JeSuisCharlie http://t.co/n2yWzeRYXZ",
+        "user id": 7779462,
+        "tweet id": "552978586559188992",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@eriiiic @raglanhall formidable !!!!!",
+            "user id": 362383070,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@antan44 @eriiiic Merci Beaucoup",
+            "user id": 25300494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@eriiiic Now u know it ? But when it happens in Egypt you ACCUSE  the VICTIMS  and support the TERRORISTS AND KILLERS !! copied",
+            "user id": 235718053,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@eriiiic Me too.",
+            "user id": 14545837,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@eriiiic: Proud of France #JeSuisCharlie http://t.co/qkO68XvVeE” me too 4 continuing European roman history.Cartoon so not funny me more",
+            "user id": 191459444,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@eriiiic so proud of French people- nous sommes avec vous!",
+            "user id": 534308567,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

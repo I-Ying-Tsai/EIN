@@ -1,0 +1,411 @@
+{
+    "source": {
+        "content": "Reports of shots fired north-east of Paris as French police pursue two suspected Charlie Hebdo gunmen in car chase http://t.co/FbUYubJDOY",
+        "user id": 5402612,
+        "tweet id": "553469523945590784",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking JeSuisCharlie http://t.co/qSzd1yYHe4",
+            "user id": 1503342588,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "content": "@BBCBreaking Can we please stop reporting every single firefight until it's really verified that it has something to do with #CharlieHebdo?",
+            "user id": 18376398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@prashantqc @BBCBreaking Yeah, nothing to see her people...move along.",
+            "user id": 19806962,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@prashantqc @BBCBreaking breaking news is breaking news. When it's over its no longer breaking news",
+            "user id": 2562156394,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@prashantqc they have been identifyed and got an hostage",
+            "user id": 614326571,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [
+                14
+            ],
+            "content": "@prashantqc @BBCBreaking Hey guys,  put away the pens. It's just another one of those routine French \"firefights\" that happen so often",
+            "user id": 919998853,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking It's a bit pointless and only contributes to an atmosphere of panic. You don't have to reproduce everything from FR media.",
+            "user id": 18376398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Scary",
+            "user id": 1531558520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@BBCBreaking the French police better subdue the perps  with wishes..and unicorn horns. Do french police at least carry, candy? Fags",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@snake_strike @BBCBreaking Twat. French police routinely carry arms. It's made no difference.",
+            "user id": 605443736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Breaking; french police ditch bicycles for unicycles, in order to bungle any attempt to be taken seriously.",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking a policeman without a gun is a suggestion.",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking NE of CDG Apt",
+            "user id": 35128272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [
+                17,
+                18
+            ],
+            "content": "@trying365 @BBCBreaking Journalists should exercise discretion in what they report, rather than just jumping to conclusions.",
+            "user id": 18376398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 5,
+            "children": [],
+            "content": "@masanf01 @BBCBreaking No need for mockery, Mark. I was merely arguing against the permanent need to \"break\" news before verifying the facts",
+            "user id": 18376398,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 9,
+            "children": [],
+            "content": "@timwhistles @BBCBreaking why yes, you are right...made no difference at all. Dead.",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 9,
+            "children": [
+                19
+            ],
+            "content": "@timwhistles @BBCBreaking worthless, and sorry. Sorry as hell.",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 13,
+            "children": [],
+            "content": "@prashantqc @trying365 @BBCBreaking whether Charlie Hebdo suspects or not helicopters chase with gunmen firing is worthy of breaking news!",
+            "user id": 1063347440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 13,
+            "children": [
+                20
+            ],
+            "content": "@prashantqc @trying365 @BBCBreaking It has",
+            "user id": 614326571,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [
+                21,
+                22
+            ],
+            "content": "@snake_strike @BBCBreaking Twats like you (Pussies in Americee) feel the false fear enough to let their citizens carry arms. Your kids die.",
+            "user id": 605443736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 20,
+            "parent": 18,
+            "children": [],
+            "content": "@quillou1 @trying365 @BBCBreaking Right, just saw a tweet about the Interior Ministry confirming it. My bad!",
+            "user id": 18376398,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 21,
+            "parent": 19,
+            "children": [],
+            "content": "@timwhistles @BBCBreaking my kids live and learn weapons training..your kids suck muzzie dick. Thanks for playing. Next.",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 22,
+            "parent": 19,
+            "children": [
+                23
+            ],
+            "content": "@snake_strike\nFor every U.S. soldier killed in Afghanistan during 11 years of war, at least 13 children were shot and killed in America.",
+            "user id": 605443736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [
+                24
+            ],
+            "content": "@timwhistles mostly trash in inner cities, that's a self-cleaning oven. Next",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [
+                25
+            ],
+            "content": "@snake_strike Have you had yourself tested on the sociopath scale? For your families sake please do. Seek help.",
+            "user id": 605443736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [
+                26
+            ],
+            "content": "@timwhistles get fucked, you could die of stomach cancer, could care less. Good day, sir.",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [
+                27
+            ],
+            "content": "@snake_strike Sorry, no, you're obviously a psychopath. God help your family.",
+            "user id": 605443736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 27,
+            "parent": 26,
+            "children": [
+                28
+            ],
+            "content": "@timwhistles I have 3 boys, a daughter, and a wife of 28 years. 2 are in college, ones in the military. Wtf do you have? Nothing. Get bent.",
+            "user id": 896137904,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [],
+            "content": "@snake_strike Humanity, peace of mind, happiness. Thanks for reminding me!",
+            "user id": 605443736,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

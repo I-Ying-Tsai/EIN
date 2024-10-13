@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "Watch as bullets fly inside hallways of Parliament Hill http://t.co/R8BUhfrvX2 #Ottawa",
+        "user id": 203123011,
+        "tweet id": "524949069945634816",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews This isn't a movie, have some respect.",
+            "user id": 532817383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Watch as bullets fly inside hallways of Parliament Hill http://t.co/WVB9xb2E82 #Ottawa” BE SAFE W EVERYONE IF YOU ARE DOWNTOWN!",
+            "user id": 450243058,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews Nice tone, jerks",
+            "user id": 991544468,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Watch as bullets fly inside hallways of Parliament Hill http://t.co/Y97b8RyfjE #Ottawa” unbelievably terrifying #OttawaShooting",
+            "user id": 810739160,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@CTVNews Please don't glamorize the situation to get clicks. Your tweet is completely inappropriate. This isn't a video game description.",
+            "user id": 109051829,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@caitlinquarry @CTVNews Could not agree more.",
+            "user id": 36829889,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews really offensive tone here. Try to have some compassion for the people subjected to the trauma.",
+            "user id": 831528542,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews \"watch bullets fly \" don't think appropriate title by CTV.",
+            "user id": 154797103,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVNews: Watch as bullets fly inside hallways of Parliament Hill http://t.co/pNTCVTzk6S #Ottawa”. 🙈This doesn't happen in Canada!!!!",
+            "user id": 74892988,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews that is not the way to tweet about this event. Incredibly unimpressed.",
+            "user id": 262003922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews @Gary_Archibald no thanks.",
+            "user id": 29490342,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@MatthewPerry @CTVNews: Watch as bullets fly inside hallways of Parliament Hill http://t.co/mloARQQWO0 #Ottawa”",
+            "user id": 34601263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

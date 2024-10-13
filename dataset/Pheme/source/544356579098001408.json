@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Update: Several people have emerged from the building where hostages in Sydney are being held http://t.co/tguHAkbs5T http://t.co/EBf9WkJIEl",
+        "user id": 972651,
+        "tweet id": "544356579098001408",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable thank God",
+            "user id": 139038691,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable Several hostages have emerged from building in Sydney http://t.co/2e8ATG0FlO  ¿əʇɐɯ'ʎɹɐssəɔəu ʎllɐəɹ ɐɾuıu əɥʇ sı",
+            "user id": 1590592436,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

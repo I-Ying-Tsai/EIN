@@ -1,0 +1,390 @@
+{
+    "source": {
+        "content": "Reports police have now identified the hostage taker at #SydneySiege. Five hostages have escaped, 15 people are believed still being held.",
+        "user id": 205242337,
+        "tweet id": "544384394337611776",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Lisa_Wilkinson awesome work. Now let's fumigate that roach outta Australia. We don't want him here.",
+            "user id": 25172734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Lisa_Wilkinson #sydneysiege they should behead the terrorist fucker in public",
+            "user id": 559687195,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Lisa_Wilkinson @TheTodayShow hoping everyone stays safe... :(",
+            "user id": 176618024,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5,
+                6,
+                7,
+                8
+            ],
+            "content": "@Lisa_Wilkinson @TheTodayShow He is not a hostage taker, he is Muslim terrorist for chrissake.",
+            "user id": 249895981,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@roamingaussie @Lisa_Wilkinson @TheTodayShow he is definitely not a muslim, sir",
+            "user id": 181949837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@roamingaussie @SharonUren @Lisa_Wilkinson @TheTodayShow  Muslims are calling him a terrorist and he is Muslim so that is a Muslim Terrorist",
+            "user id": 300233998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@roamingaussie @SharonUren @Lisa_Wilkinson @TheTodayShow  or shall we call him a Rainbow Terrorist like Baa Baa Black oops Rainbow sheep",
+            "user id": 300233998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                14
+            ],
+            "content": "@roamingaussie @disloik @Lisa_Wilkinson @TheTodayShow A muslim terrorist to us, to them he's just a loyal jihadist defending his faith #tcot",
+            "user id": 15957148,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 3,
+            "children": [],
+            "content": "@roamingaussie @Lisa_Wilkinson @TheTodayShow al your bloody book you all adhere too teaches violence against non believers so yes you do",
+            "user id": 343396047,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Lisa_Wilkinson some outlets are saying he took the wrong flag by mistake. Any word on that being true? #SydneySiege",
+            "user id": 182656883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Lisa_Wilkinson why is he a hostage taker, should him what he is, he is a terrorist by any definition of the word!",
+            "user id": 1634918790,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Lisa_Wilkinson it definitely wasn't the day to visit Sephora today...home safe &amp; hoping the 15 follow #sydneysiege",
+            "user id": 260677385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@bruisedkinks @roamingaussie @Lisa_Wilkinson @TheTodayShow if he goes by your poxy book he is a Muslim, your book is the problem",
+            "user id": 343396047,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 5,
+            "children": [
+                15,
+                16,
+                17,
+                18,
+                19
+            ],
+            "content": "@doingit26 @roamingaussie @SharonUren he is not a muslim, he is a fucking extremist, our religion never teach people to do any harm",
+            "user id": 181949837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 7,
+            "children": [
+                20
+            ],
+            "content": "@jackieaus @roamingaussie @disloik @Lisa_Wilkinson @TheTodayShow hopefully the majority of Muslims see him as a terrorist !",
+            "user id": 1412768808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "content": "@bruisedkinks @doingit26 @roamingaussie @SharonUren He's Muslim. Over 200 million people consider themselves Muslim and agree with him.",
+            "user id": 443194544,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [
+                21
+            ],
+            "content": "@bruisedkinks @doingit26 @roamingaussie You mean you haven't read your Koran????? Unfknbelievable, you Moslems!",
+            "user id": 496762984,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 13,
+            "children": [
+                22
+            ],
+            "content": "@bruisedkinks @SharonUren @roamingaussie  he's still Muslim whether you like it or not.",
+            "user id": 300233998,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 18,
+            "parent": 13,
+            "children": [
+                23
+            ],
+            "content": "@bruisedkinks @doingit26 @roamingaussie @SharonUren religion? # cult",
+            "user id": 2534066732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 19,
+            "parent": 13,
+            "children": [
+                24
+            ],
+            "content": "@bruisedkinks @SharonUren  are you sure you haven't been brainwashed ..",
+            "user id": 470799787,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 20,
+            "parent": 14,
+            "children": [
+                25
+            ],
+            "content": "@thetassiesnipe @jackieaus @disloik @Lisa_Wilkinson @TheTodayShow Not so sure about that",
+            "user id": 249895981,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 21,
+            "parent": 16,
+            "children": [
+                26,
+                27
+            ],
+            "content": "@SharonUren @doingit26 @roamingaussie you fucking idiot, blaming it all on islam and you didnt have a clue what islam is...",
+            "user id": 181949837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 22,
+            "parent": 17,
+            "children": [],
+            "content": "@doingit26 @SharonUren @roamingaussie but he is not a good one",
+            "user id": 181949837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 23,
+            "parent": 18,
+            "children": [
+                28
+            ],
+            "content": "@BoazPillar @doingit26 @roamingaussie @SharonUren you're a fucking disgusting human being, you're a short minded",
+            "user id": 181949837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 24,
+            "parent": 19,
+            "children": [],
+            "content": "@itsmeejbee @SharonUren it's my fucking religion you are talking about and of fucking course my religion never teachs anything about harming",
+            "user id": 181949837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 25,
+            "parent": 20,
+            "children": [],
+            "content": "@roamingaussie @jackieaus @disloik @Lisa_Wilkinson @TheTodayShow well it is well overdue they did",
+            "user id": 1412768808,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 26,
+            "parent": 21,
+            "children": [],
+            "content": "@bruisedkinks @doingit26 @roamingaussie You called me what??? Give me your address and I'll show you how to swallow your teeth.",
+            "user id": 496762984,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 27,
+            "parent": 21,
+            "children": [],
+            "content": "@bruisedkinks @doingit26 @roamingaussie Yells abuse and then blocks me. Typical BIG MOUTH Muslim. #cowards &amp; #terrorists",
+            "user id": 496762984,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 28,
+            "parent": 23,
+            "children": [],
+            "content": "@bruisedkinks @doingit26 @roamingaussie @SharonUren better shortminded than without a brain like u cult members",
+            "user id": 2534066732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "5-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

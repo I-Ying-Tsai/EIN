@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Paris #CharlieHebdo attack: This is the worst act of terrorism in France for 50 years http://t.co/JO1hyB4vjj http://t.co/GPrxnlMx7a",
+        "user id": 14138785,
+        "tweet id": "552834623944671232",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews I am wondering anybody would ride with them this time",
+            "user id": 66504345,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews Terrible...",
+            "user id": 2781850756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TelegraphNews Failed to protect, could have been hired?",
+            "user id": 2528078443,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

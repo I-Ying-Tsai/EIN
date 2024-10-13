@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Unconfirmed reports gunmen asked for people by name before killing editor and cartoonist http://t.co/26GC840I9k #CharlieHebdo",
+        "user id": 15438913,
+        "tweet id": "552810138114195456",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@MailOnline: Unconfirmed reports gunmen asked for people by name before killing editor and cartoonist http://t.co/1FMPSH2EgS #CharlieHebdo”",
+            "user id": 22582096,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline After the 1962 Cuban Missile Crisis, then came: http://t.co/sh5mFenFTK … and http://t.co/K120Lr0lUN …",
+            "user id": 2933943867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@MailOnline @Hilda0414 Too bad they werent smart enough to arm themselves.",
+            "user id": 55986798,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@jerrytitus @MailOnline And the police on bikes had to retreat because they CHOSE not to be armed! http://t.co/JxNmFezeSm",
+            "user id": 21626816,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

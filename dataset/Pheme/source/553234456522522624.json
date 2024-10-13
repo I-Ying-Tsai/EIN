@@ -1,0 +1,232 @@
+{
+    "source": {
+        "content": "What we do and don't know about the aftermath of the Charlie Hebdo shooting http://t.co/DQXNUUydgW http://t.co/oPg60iEnZT",
+        "user id": 807095,
+        "tweet id": "553234456522522624",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@nytimes ....and gun control didn't work.",
+            "user id": 317041794,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@jedimarkus77 @nytimes Uh France's murder rate is 1/4th that of the US, so . . .",
+            "user id": 70275677,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes The hunt for the #Kouachi brothers is currently happening near Villers-Cotterêts by the #RAID and the #GIGN. #CharlieHebdo",
+            "user id": 22290941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes \"What We Know\" seems to be missing once important thing. I wonder why that is?",
+            "user id": 26302594,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes Also known: this was yet ANOTHER terrorist attack committed by Muslims on unarmed innocent people in the name of Islam...",
+            "user id": 95530817,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes Sounds as a self-perpetrated attack. Hard to believe it! http://t.co/QYYhKIkN8l",
+            "user id": 75057635,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes",
+            "user id": 19580070,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@nytimes Sharia law must be banned in the US.",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [
+                9,
+                10,
+                11
+            ],
+            "content": "@JackDaBeanstalk @jedimarkus77 @nytimes Size of US vs France, hello?",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@Nancywillask @JackDaBeanstalk @nytimes I bet those dead people don't give a damn about your statistics nor false \"solutions\"",
+            "user id": 317041794,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@Nancywillask @JackDaBeanstalk @nytimes I  have a simple policy.  When someone is shooting at me I shoot back.",
+            "user id": 317041794,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [
+                13
+            ],
+            "content": "@Nancywillask @jedimarkus77 @nytimes That's on a per capita basis, silly!",
+            "user id": 70275677,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@jedimarkus77 @JackDaBeanstalk @nytimes I believe someone is going to kill me, I kill first.",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [
+                14
+            ],
+            "content": "@JackDaBeanstalk @jedimarkus77 @nytimes Silly doesn't  want the right to protect himself.",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "@Nancywillask @JackDaBeanstalk @nytimes not our problem.",
+            "user id": 317041794,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "@jedimarkus77 @JackDaBeanstalk @nytimes  Ant-gun enthusiasts are the first to call the cops to bring their guns.",
+            "user id": 2912429401,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

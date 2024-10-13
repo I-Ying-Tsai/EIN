@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "Update from Ottawa:\n-Cdn soldier dies from shooting\n-Parliamentary guard wounded\n-Parliament Hill still in lockdown\nhttp://t.co/chbTWxVN0q",
+        "user id": 12848262,
+        "tweet id": "524968205690089472",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@TorontoStar the civic hospital has not released any information on the status of the injured soldier.",
+            "user id": 532352922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@KristineHartlin @TorontoStar It looks like confirmations are coming in now.",
+            "user id": 293445832,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar no confirmation on the solider.  As far as anyone knows, he is still fighting.  Statement was been retracted",
+            "user id": 67001126,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar Where is confirmation coming from? Jason Kenney posted about but Global said it was false, who's right?",
+            "user id": 346949390,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar Soldiers death is UNCONFIRMED",
+            "user id": 245915466,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar I don't think the soldier is dead. You guys are mistaking the soldier from Monday in Quebec",
+            "user id": 2188635618,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "#AttackInOttawa\n@TorontoStar: Update\n-Cdn soldier dies \n-ParliamentGuard wounded\n-ParliamentHill still in lockdown\nhttp://t.co/31Pkg1wKsx",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar I am so sorry to hear that Ottawa is going through this. My prayers are with all of you for the wounded and the capture of shts",
+            "user id": 2184191511,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar Jason Kenney removes tweet @CBCNews",
+            "user id": 482257509,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TorontoStar @CTVNationalNews",
+            "user id": 449974639,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "Hope all my friends and colleagues in Ottawa are safe. Terrible that this is happening in Canada...@TorontoStar \nhttp://t.co/8dNjGhMpcx",
+            "user id": 887887338,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@TorontoStar Ok, time to take it to the fucking muslims. Look out Allah, here comes the revenge. KILL MUSLIMS, KILL MUSLIMS.",
+            "user id": 138000783,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@bazmeg6969 @torontostar @rrrrnessa Come to the battlefield we will deliver you to the hellfire",
+            "user id": 2790570579,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@Bazmeg6969 @Rrrrnessa @TorontoStar damn this asses",
+            "user id": 2287848585,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "source": {
+        "content": "New vid of Paris attack on #CharlieHebdo filmed by a witness. Gunmen on street shout \"Allahu Akbar\" http://t.co/TaZEDtGFlW @akhbar",
+        "user id": 148653311,
+        "tweet id": "552799591255384065",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@jenanmoussa @akhbar Well, France supported and nurtured Islamic terrorists in Syria. Just like Turkey, they are also facing the blowback.",
+            "user id": 2269093039,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                9
+            ],
+            "content": "@Sunil_John123 @jenanmoussa @akhbar Of course, blame the west... #idiot",
+            "user id": 185192570,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@jenanmoussa @akhbar So sick. This religion is becoming a pest to humanity. It either needs cleaned up or thrown away. I am sick of animals.",
+            "user id": 2662813495,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@jenanmoussa @chrislhayes @akhbar   We need to round up all muslims now!",
+            "user id": 1225414310,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jenanmoussa @akhbar i think the video is banned from the authorities temporary",
+            "user id": 101589791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@jenanmoussa: New vid of Paris attack on #CharlieHebdo filmed by a witness. Gunmen on street shout \"Allahu Akbar\" http://t.co/bV8EP7vaLm @",
+            "user id": 2346957501,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@jenanmoussa @chrislhayes @akhbar Islam. Multiculturalism. Good mix.",
+            "user id": 90888044,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@jenanmoussa @akhbar Will Akbar help?",
+            "user id": 955970244,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jenanmoussa if I kill a dozen people while shouting Jesus Jesus will I be labeled as terrorist or a random murderer. #TypicalStereotyping.",
+            "user id": 495888667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [],
+            "content": "@PhRoose @jenanmoussa @akhbar Is Turkey part of the \"West\"???",
+            "user id": 2269093039,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

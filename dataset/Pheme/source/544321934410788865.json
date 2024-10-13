@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "Uber Is Allegedly Charging Passengers $100 Minimum During Sydney Siege http://t.co/6GYtqylMUt via @braddybb",
+        "user id": 1855737487,
+        "tweet id": "544321934410788865",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @braddybb that's the Australia tax lol",
+            "user id": 107225558,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "👀 RT @BuzzFeedOz: Uber Is Allegedly Charging Passengers $100 Minimum During Sydney Siege http://t.co/SWbmtmnUZy via @braddybb",
+            "user id": 38082860,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ". @BuzzFeedOz @BuzzFeedNews @braddybb The pricing is a computer-controlled algorithm that just looks at supply/demand. #Uber",
+            "user id": 18455693,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@BuzzFeedOz @uber_sydney how about free rides to get people home safely? Come on, guys. Use some common sense.",
+            "user id": 84357593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@staychad @BuzzFeedOz @Uber_Sydney its a business not a charity. maybe police cld give rides free- they r paid by citizens",
+            "user id": 47617232,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": ". @BuzzFeedOz @BuzzFeedNews @braddybb The computer doesn't know or care why demand spiked and supply failed to rise to meet it. #Uber",
+            "user id": 18455693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "RT @BuzzFeedOz: Uber Is Allegedly Charging Passengers $100 Minimum During Sydney Siege http://t.co/sYsESMdfDH via @braddybb",
+            "user id": 60911464,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @husainhaqqani @braddybb it's probably the only way they can get drivers to work- I dont blame them for a second.",
+            "user id": 47617232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @Lindsaybkk @braddybb Most places have laws about price gouging in a crisis situation no matter the cause. Criminals.",
+            "user id": 2180292072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @NewsBreaker @braddybb In the future, texbooks for PR classes will have a whole chapter on Uber",
+            "user id": 103714709,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "Boooo “@BuzzFeedOz: Uber Is Allegedly Charging Passengers $100 Minimum During Sydney Siege http://t.co/nHDpRJ80Qv via @braddybb”",
+            "user id": 257610727,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @braddybb @MarkLewisLawyer ‘allegedly ’ &amp; no true source . Bull I’d say . Effort to discredit .",
+            "user id": 18363234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @saradhruvmom @braddybb again, do you hear that? #societygoingdownthedrain",
+            "user id": 1138297880,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeedOz @LouiseMensch @braddybb Does any one need sny more excuses not to use #Uber? Apart from safety that is!",
+            "user id": 2388691841,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

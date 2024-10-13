@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Security forces storm Sydney cafe where hostages held, gunman identified as Man Haron Monis: http://t.co/fOqqI5UpsO http://t.co/nlVYwmOpGJ",
+        "user id": 1652541,
+        "tweet id": "544520802339917824",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters",
+            "user id": 2888034375,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters does not matter whoever... No one has rights to kill anyone...",
+            "user id": 452711049,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters good for them",
+            "user id": 1547659670,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@Reuters @harshagems Now Islamic terrorism is not the problem of India. It is an international problem. Time for global action on terrorism.",
+            "user id": 2625755323,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@Madhavji7 @Reuters @harshagems I beg to differ - India has been a lesser victim relatively !",
+            "user id": 81019662,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters such a shame already convicted taking name of Islam for his heinous crime",
+            "user id": 113666095,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters Allow ppl of such ilk, who preach &amp;/or act violent 2 B free in your society, &amp; this will continue 2 occur-it's common sense",
+            "user id": 255062000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters hi gusess wht cn i do",
+            "user id": 2915297052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters",
+            "user id": 42334423,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters It will happen again, In your country? my country?, anyway, Please take care of your loved one💋💕👪🌹",
+            "user id": 131416090,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

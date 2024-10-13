@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#sydneysiege is over. 2 confirmed dead, #PrayForSydney #PrayForSydneyHostages #Sydney #hostages",
+        "user id": 442653867,
+        "tweet id": "544520042810200064",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@timsullivan23 Hey Tim was up",
+            "user id": 2832805923,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "No. Please no. “@timsullivan23: #sydneysiege is over. 2 confirmed dead, #PrayForSydney #PrayForSydneyHostages #Sydney #hostages”",
+            "user id": 2485349550,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

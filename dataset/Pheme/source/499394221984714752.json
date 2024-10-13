@@ -1,0 +1,112 @@
+{
+    "source": {
+        "content": "#BREAKING: A man just advanced on police. A red laser immediately was painted on his shirt. He threw his hands up. #Ferguson #MichaelBrown",
+        "user id": 2611766492,
+        "tweet id": "499394221984714752",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@EliKMBC Unfortunately, putting your hands up has become an international symbol for \"Shoot me\". Stand with the people of #Ferguson",
+            "user id": 112040405,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "What are #Ferguson cops trying to accomplish at this point?\n@EliKMBC @Asher_Wolf",
+            "user id": 1615736210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "Is goal of #Ferguson cops to provoke a sufficiently bloody confrontation that it overshadows murder of #MikeBrown?\n@EliKMBC @Asher_Wolf",
+            "user id": 1615736210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@EliKMBC @Asher_Wolf can not mess with obama's police nation! Under his admin cops have been turned into military units that kill",
+            "user id": 239317927,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "Are #Ferguson cops looking to prove Blacks don't show Whites enough respect? So it's ok to shoot Blacks?\n@EliKMBC @Asher_Wolf",
+            "user id": 1615736210,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@CarlNyberg312 @EliKMBC @Asher_Wolf \nI will say yes. They want to change the perception.",
+            "user id": 116504222,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "@CarlNyberg312 @EliKMBC @Asher_Wolf Maybe the Ferguson cops are angling for a Hillary endorsement.  Worked for Israel.",
+            "user id": 1700316024,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

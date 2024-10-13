@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Prince in Toronto cancelled! WTF!!",
+        "user id": 202922157,
+        "tweet id": "529722264615673856",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Azifikare I'm so sorry for you Alexa! :-(",
+            "user id": 210174831,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Azifikare What? Why? Was there ever an official announcement? Perhaps he needs a manager",
+            "user id": 278034475,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "source": {
+        "content": "求扩散，有人在上海地铁见到的一幕。救救这小孩吧。@阿婆网 @大鹏看天下 @徐昕",
+        "user id": 1830106804,
+        "tweet id": "3489472027325168",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "发微薄干什么？报警啊！！",
+            "user id": 1712974725,
+            "user name": "无敌小正太端哥的悲观主义猫妈妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "转",
+            "user id": 2616972070,
+            "user name": "咬舌再说点",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "转",
+            "user id": 1827317281,
+            "user name": "户外探险白家琳",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": " @",
+            "user id": 1822009805,
+            "user name": "一土竹金二十月",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "那个所谓的老师有时间拍照干嘛不上前询问并制止！！！！！！",
+            "user id": 1763803794,
+            "user name": "lemon小悦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2513466223,
+            "user name": "小雅青花",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@土財主有百宝袋 @鱼岛和日本是中国的",
+            "user id": 2534664354,
+            "user name": "Samantha_yuan_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "哎!",
+            "user id": 1069442235,
+            "user name": "kitty矢车菊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "这个好像以前发过啊？？？",
+            "user id": 1731970490,
+            "user name": "萝-丝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                10,
+                11
+            ],
+            "content": "每个母亲都看不得这个，太残忍了",
+            "user id": 1814834191,
+            "user name": "lasia729",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                12
+            ],
+            "content": "无助的眼神",
+            "user id": 1040135673,
+            "user name": "larry1055",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "content": "地铁上的人为什么有时间拍照么时间报警啊，先报了再说啊。。。",
+            "user id": 1708710124,
+            "user name": "什么丸意",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "content": "",
+            "user id": 2049834252,
+            "user name": "Joice开心妈妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14,
+                16
+            ],
+            "content": "",
+            "user id": 2301625302,
+            "user name": "言言的暴躁妈妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "content": "",
+            "user id": 1931722443,
+            "user name": "selinawang723",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "content": "不是说这个小孩证实是那个男的孩子吗",
+            "user id": 2465126394,
+            "user name": "美女可爱的胖子妈妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [],
+            "content": "",
+            "user id": 2191033483,
+            "user name": "伊伊二二",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

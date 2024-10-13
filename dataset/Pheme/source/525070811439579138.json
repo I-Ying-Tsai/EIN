@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Watching Peter Mansbridge on CBC. Canadian journalism is calm, factual, not fear-mongering. The way it should be. #ottawashooting @cbc",
+        "user id": 16957390,
+        "tweet id": "525070811439579138",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@ElisabethBucci That's one of the privileges of having a taxpayer-funded, independent national broadcaster.",
+            "user id": 963145339,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ElisabethBucci @CBC Yes but one of the hosts is Muslim. I guess to defend his community! Not buying it! We shall never forget!",
+            "user id": 56600653,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ElisabethBucci @CBC OMG YES!!!!",
+            "user id": 219527624,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

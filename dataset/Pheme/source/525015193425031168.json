@@ -1,0 +1,181 @@
+{
+    "source": {
+        "content": "Still huge security presence in #Ottawa as police search buildings - follow our coverage: http://t.co/56i9vexztv http://t.co/R7Qw78IEcP",
+        "user id": 742143,
+        "tweet id": "525015193425031168",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT@BBCWorld Still huge security presence in #Ottawa as police search buildings - follow our coverage: http://t.co/h3N0stwkF0 #Canada #FB",
+            "user id": 81873794,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld Moderate Muslims not turning-in radical Islamists in their midst are guilty of complicity when acts of terror are committed.",
+            "user id": 2815652701,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld FALSE FLAG?#OttawaShooting",
+            "user id": 1592530428,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@BBCWorld Y search buildings? #Chemtrails R using mind control 2 cause active shooters!  Y not search #DOD #Chemtrails aircraft &amp; ground em?",
+            "user id": 197083967,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                10,
+                11
+            ],
+            "content": "Are You For Real?~&gt;@ARCahill: #Chemtrails R using mind control 2 cause active shooters!  Y not search #DOD #Chemtrails aircraft...@BBCWorld",
+            "user id": 2605916636,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld an official just confirmed there is definately at least 1 more shooter. But why no more shootings occurring?",
+            "user id": 2750309806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "content": "WTH! MT @BBCWorld: Still huge security presence in #Ottawa as police search buildings - http://t.co/eJXeWAU0hT http://t.co/dRrF1INfhR",
+            "user id": 309656268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@kamalfizazi @BBCWorld The world is about to see what will truly set Canadians apart from the rest of us. It's horrible this happened.",
+            "user id": 374246336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@kamalfizazi @BBCWorld Especially given Canada's history of never declaring wars or dropping the first bomb or firing the first bullet.",
+            "user id": 374246336,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld So this is what it takes for #Canada to get #Britain's attention?\nA one-man #ISIL terrorist attack? Never mind Afghanistan.",
+            "user id": 48958586,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [
+                12
+            ],
+            "content": "@Naughty_Pundit @BBCWorld Yep - way sick of my country attacking me &amp; thinking victims of #Chemtrails psycho losers r assets 2 them!",
+            "user id": 197083967,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@Naughty_Pundit yeah, @ARCahill is one of the looniest members of the already loony #chemtrails crowd.",
+            "user id": 8432682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "OoooKayyyy...@ARCahill:...way sick of my country attacking me &amp; thinking victims of #Chemtrails psycho losers r assets 2 them! @BBCWorld",
+            "user id": 2605916636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

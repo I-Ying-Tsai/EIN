@@ -1,0 +1,191 @@
+{
+    "source": {
+        "content": "Paris #CharlieHebdo attack: 'This is the worst act of terrorism in France for 50 years' http://t.co/XyARpX72q7 http://t.co/HrxLhw9H4V",
+        "user id": 16343974,
+        "tweet id": "552831266945794048",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph nononononononon you don't remember 1995",
+            "user id": 277678549,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph After the 1962 Cuban Missile Crisis, then came: http://t.co/sh5mFenFTK … … and http://t.co/K120Lr0lUN … …",
+            "user id": 2933943867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Just to Muslims.",
+            "user id": 29784999,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Pls contact the @WhiteHouse and let them know it was terrorism. They are still looking into it. Possible work place violence.",
+            "user id": 21027167,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph @birrdytalk maybe the French people will now understand that muslims are SAVAGES + should throw them out of France. All of them!",
+            "user id": 16132734,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph #Sure 63 Drills Since 93 Where #Drill = Actual Terrorist #Attack #Waco Explosion  https://t.co/jDraBaijhj",
+            "user id": 2875761863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@Telegraph how are your socialist multiculturalism policies coming along France? Really? What a shame",
+            "user id": 2753139956,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                11,
+                12
+            ],
+            "content": ".@WilliamDFoster9 hatred, such as yours, caused this violence. Multiculturalism, which is based on acceptance, did not. @Telegraph",
+            "user id": 270328651,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Happens in Israel almost daily. No outcry it occurs there?! Maybe the world will see now...",
+            "user id": 216582313,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "Liberal French Immigration &amp; Lack of Crackdown Paris http://t.co/9OZRzPFhBc http://t.co/cciXkatFPF @BBCWorld @Telegraph @AFP @UN @FoxNews",
+            "user id": 318044919,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@JoeTurner212 @BBCWorld @Telegraph @AFP @UN @FoxNews America, Wake- UP! This shit is on your door step, bring home, America's Armed Forces!",
+            "user id": 574031250,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 7,
+            "children": [
+                13
+            ],
+            "content": "@rcp_8 @Telegraph your flag on your picture sums you up you champagne socialist . I hope they behead you first",
+            "user id": 2753139956,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "content": "@rcp_8 @Telegraph in your case I don't need  to but thanks for your wisdom .",
+            "user id": 2753139956,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": ".@WilliamDFoster9 irrational hate is rooted in ignorance. Learn the facts before you open your mouth.",
+            "user id": 270328651,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

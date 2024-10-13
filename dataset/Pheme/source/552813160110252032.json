@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "You can twist and turn it as you like: Publishing cartoons is not a crime. Using them as an excuse for religious fascism is. #CharlieHebdo",
+        "user id": 431969214,
+        "tweet id": "552813160110252032",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MsIntervention Aaaaaand cue the 'lone wolf' brigade #CharlieHebdo #france #shooting",
+            "user id": 164412024,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@MsIntervention They have never come out the dark ages mentality",
+            "user id": 30616006,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@indergopal @MsIntervention Exactly. The Koran is read literally today but is stuck in 6th century. Rest of us have MOVED ON. Can they?",
+            "user id": 1151095778,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MsIntervention @A_Liberty_Rebel It IS a crime to blind ourselves to the root of these horrors - Islam. @islamlie @DCorleone60 @UKInfidel",
+            "user id": 1151095778,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MsIntervention @vbsingh60 \nLet's set this as our DP, http://t.co/ztvwLj3waM",
+            "user id": 2563671595,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MsIntervention #CharlieHebdo http://t.co/uJix2bX5FO",
+            "user id": 2877276800,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MsIntervention @SilverFoxesRule Exactly!!! Free speech/thought/expression has to be defended against the Nazis of 21st Century",
+            "user id": 51732573,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MsIntervention #twistlickdunk #turnafilmkinky",
+            "user id": 62749173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

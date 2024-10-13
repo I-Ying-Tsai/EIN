@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "'Stupidity will not win', says surviving Charlie Hebdo journalist who confirms to @AFP  that newspaper will come out next week.",
+        "user id": 19178965,
+        "tweet id": "553148339160907776",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ADAMPLOW @AFP do you have a link to confirmation that it will be released??",
+            "user id": 375687601,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT @ADAMPLOW: ‘Stupidity will not win’, says surviving Charlie Hebdo journalist who confirms 2 @AFP  that newspaper will come out next week.",
+            "user id": 52263991,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

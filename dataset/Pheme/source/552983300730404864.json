@@ -1,0 +1,89 @@
+{
+    "source": {
+        "content": "Cowards~ Liberal Media Refuses To Show #CharlieHebdo Cartoons! But #RedNationRising Is NOT! #IslamIsTheProblem http://t.co/IXTbsRlNaU",
+        "user id": 940368062,
+        "tweet id": "552983300730404864",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@RedNationRising or \"Blame The Gun Culture\" since France has truly draconian gun control",
+            "user id": 75391501,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@kgouverneur @RedNationRising even police unarmed",
+            "user id": 628120930,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@kgouverneur @RedNationRising How many times do the French have to be over run by foreigners to learn??? We won't save you this time!!!",
+            "user id": 590180745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RedNationRising Liberal media can't handle actual Liberty and freedom when the heat is on, RedNationRising only gets stronger.",
+            "user id": 2251286285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RedNationRising me either !! http://t.co/ustTHJwe53 http://t.co/ppyy7voeYu",
+            "user id": 1729770470,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@kckccasey @RedNationRising http://t.co/HfD5m5Mexa",
+            "user id": 1619742066,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

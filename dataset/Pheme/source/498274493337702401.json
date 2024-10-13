@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": ": Teenager #MikeBrown won't start college on Monday because he was shot ten times by a #Ferguson police officer. http://t.co/dCFmzlkFRD”",
+        "user id": 1865386620,
+        "tweet id": "498274493337702401",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@LocaFMCGB @thepoliticalcat How to set filters on your tweeted media so that people are warned before they see this.  http://t.co/qSaAnq9Riz",
+            "user id": 523142305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@LocaFMCGB I love my bullet lol #NutriBullet #nutrition #health #smoothieswithapurpose http://t.co/xIKHKCKGJD",
+            "user id": 1865386620,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@LocaFMCGB @BlueDuPage what happened?!",
+            "user id": 1636111441,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@melissa_lavery http://t.co/xIRartnpP5",
+            "user id": 41186732,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@LocaFMCGB @jblack501c3 unreal talk about excessive force !",
+            "user id": 1611189120,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@LocaFMCGB sad.",
+            "user id": 64120230,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

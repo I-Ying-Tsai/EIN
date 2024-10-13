@@ -1,0 +1,44 @@
+{
+    "source": {
+        "content": "RT @LatuffCartoons: So now let's talk seriously about #CharlieHebdo and Western double standard on freedom of speech http://t.co/w01kqWJqFb",
+        "user id": 2883734737,
+        "tweet id": "553131557892804609",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@MiscSewing @LatuffCartoons That *is* indeed a double-standard. It should be just as acceptable to mock jews than it is to mock anybody else",
+            "user id": 510008351,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@o_scheeck @MiscSewing EXACTLY!",
+            "user id": 1571428436,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

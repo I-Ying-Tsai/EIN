@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "BREAKING: At least 20 shots have been fired in the Canadian parliament in Ottawa, according to witnesses.",
+        "user id": 20639175,
+        "tweet id": "524932056560963584",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@JFXM: BREAKING: At least 20 shots have been fired in the Canadian parliament in Ottawa, according to witnesses.",
+            "user id": 219815274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JFXM wats happening?@AbuSaalihah1",
+            "user id": 2416084189,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@jfxm @locustiya may secularism thrive! Order more investigations against those oppose terrorism",
+            "user id": 147438072,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

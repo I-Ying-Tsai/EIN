@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Sydney siege ends as police storm Lindt Cafe and hostages run out http://t.co/ek1EyHbJxA",
+        "user id": 87818409,
+        "tweet id": "544521260840267776",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian mới nhất like, share nha ĐIỀU HÒA TỦ ĐỨNG LG http://t.co/1kmGIzuzVT",
+            "user id": 2821577173,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@guardian and what are you lot worried about the Muslims",
+            "user id": 1324362289,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@guardian #illridewithyou",
+            "user id": 1324362289,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Prince at Massey Hall? Will. Be. Bonkers. http://t.co/IecAWY53du",
+        "user id": 21889069,
+        "tweet id": "529674135098900481",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@mattgallowaycbc: Prince at Massey Hall? Will. Be. Bonkers. http://t.co/zsCAy04eZu” damn! He looks good!!!!",
+            "user id": 823383325,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mattgallowaycbc How do I get a ticket??? #Prince",
+            "user id": 798623144,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Evidence of sheer power of music @mattgallowaycbc TO has it all, Gr8 venues like @masseyhall + Gr8 fans musicians want 2 get in front of!",
+            "user id": 57761168,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@mattgallowaycbc  I'll give you a first hand review Matt!",
+            "user id": 19710962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@TomBeyer7 please do for those of us who have to get up dark and early.",
+            "user id": 21889069,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@mattgallowaycbc agreed",
+            "user id": 360693589,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@mattgallowaycbc Saw him at the Guvernment years ago, best show I have ever seen. He gave it his all after audience sang him Happy Birthday.",
+            "user id": 237728810,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

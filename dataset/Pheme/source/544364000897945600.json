@@ -1,0 +1,179 @@
+{
+    "source": {
+        "content": "#SYDNEYSIEGE: Contact made with gunman – police report http://t.co/H0SlBNPHG6 http://t.co/1ZlzKDjvSf",
+        "user id": 64643056,
+        "tweet id": "544364000897945600",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@RT_com: #SYDNEYSIEGE: Contact made with gunman – police report http://t.co/77wc2XU0qc http://t.co/qgrQuElIwl” lol relax terminator",
+            "user id": 842830795,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com is this all to justify more Aussy troops to Iraq or tightening up immigration? FALSE FLAG",
+            "user id": 2820211315,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@RT_com: #SYDNEYSIEGE: Contact made w gunman – police report http://t.co/TyMwKhAM8O http://t.co/RkIqnbr1CK” Close to you, @bettiwettiwoo?",
+            "user id": 110694564,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@madnbold It's in CBD (Central Business District) so not really; it's relatively close (say, 0.5-1 km) to where dr woo works, obviously.",
+            "user id": 49485604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com @Maiwwo heavy boys are in ! Thats one dead man #prediction",
+            "user id": 1047778986,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@RT_com: #SYDNEYSIEGE: Contact made with gunman – police report http://t.co/R650fC0jZJ http://t.co/W8DV7z9m56”",
+            "user id": 2564986392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@rt_com do we have to live like this, not knowing when the next muslim will get radicalised and attack us?",
+            "user id": 2864140683,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@bettiwettiwoo Nervewrecking :(",
+            "user id": 110694564,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@madnbold Yes.",
+            "user id": 49485604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                10
+            ],
+            "content": "@madnbold Alltså, om man vill jämföra: som om någon tagit gisslan i café vid Gustav Adolfs Torg i Gbg; samma typ av byggnader runt om.",
+            "user id": 49485604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "content": "@bettiwettiwoo Förstår. Hatar sånt här för det finns bara förlorare. Även om man klarar livhanken är det pts i bakvattnet..",
+            "user id": 110694564,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@madnbold Ja. Väldigt obehagligt.",
+            "user id": 49485604,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

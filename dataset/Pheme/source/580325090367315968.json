@@ -1,0 +1,608 @@
+{
+    "source": {
+        "content": "Flight #4U9525 initially climbed to 38,000 feet before before it started to descend and lost signal at 6,800 feet. http://t.co/MthXQ232Hn",
+        "user id": 134196350,
+        "tweet id": "580325090367315968",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 any idea why it'd flight so high?  It's a short flight, usually planes go at ~ 33,000 feet",
+            "user id": 22069271,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@flightradar24 But no emergency call made? Or emergency squawk? @isobelroe",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe Sent Mayday through radio. I suppose he had other things to do than adjust the Squawk",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @flightradar24 #A320 #4U9525 initially climbed to 38k ft before starting to descend and lost signal at 6.8k ft http://t.co/LUWkDrBR9a",
+            "user id": 20159596,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 Sounds like a decent of 2900fpm",
+            "user id": 58449246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 Any ATC available? Strange.....",
+            "user id": 119129371,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@flightradar24 isn’t 38,000ft unusually high?",
+            "user id": 14790135,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@janoschjerman @flightradar24 yes and no depends on other traffic, turbulence... they were 25 mins late so going higher = going quicker",
+            "user id": 345246348,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [
+                10,
+                11
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe Only takes a second to set the squawk code,",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe It turns out there was no distress call made. I'm almost certain this was a hi-jacking now.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "@Minus777 @flightradar24 @isobelroe What's the use when you're crashing?",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@Minus777 @marcepa49 @flightradar24 @isobelroe yes but every second not spent trying to save everyone.....",
+            "user id": 345246348,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [
+                13,
+                14
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe Unless they became rapidly unconcious",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                15,
+                16
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe It looks like someone was flying it manually, all the way into the ground.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@marcepa49 @flightradar24 @isobelroe Anyway. Have to wait and see now.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [
+                17,
+                18
+            ],
+            "content": "@Minus777 @marcepa49 @isobelroe For sure not, it was following exactly the same flight path as day before https://t.co/JoVKD5OHC0",
+            "user id": 134196350,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [
+                19,
+                20
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe No, somebody had just initiated the descent, and might have been unconcious or dead just after that.",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [],
+            "content": "@flightradar24 @Minus777 @marcepa49 @isobelroe Yep, it's follow exactly the route going down, that seems to suggest unconscious pilots.",
+            "user id": 1245499735,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 18,
+            "parent": 15,
+            "children": [],
+            "content": "@flightradar24 @marcepa49 @isobelroe What I'm saying is, I believe it was deliberately crashed. Being controlled all the way into the ground",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [
+                21
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe If someone set the autopilot to fly it into the ground, the descent rate would have been constant.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 20,
+            "parent": 16,
+            "children": [
+                22
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe They're saying what I said, the crash was a deliberate act. Controlled flight all the way down.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 21,
+            "parent": 19,
+            "children": [],
+            "content": "@Minus777 @flightradar24 @isobelroe which seems to be the case.Constant descent, wind variations set aside..",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 22,
+            "parent": 20,
+            "children": [
+                23,
+                24
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe Or autopilot. But sure deliberately set.",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [],
+            "content": "@marcepa49 @flightradar24 @isobelroe I don't think the autopilot was engaged.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 24,
+            "parent": 22,
+            "children": [
+                25
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe They're now saying the co-pilot deliberately crashed the plane.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [
+                26,
+                27
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe That's what they say.",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [
+                28
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe The data from the transponder made it obvious.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 27,
+            "parent": 25,
+            "children": [],
+            "content": "@marcepa49 @flightradar24 @isobelroe Would be good to get the data from the Flight Data Recorder though.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 11
+        },
+        {
+            "comment id": 28,
+            "parent": 26,
+            "children": [
+                29,
+                30,
+                31,
+                32
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe The transponder did not say anything. No sqwak 7700.",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 12
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "content": "@marcepa49 @flightradar24 @isobelroe It was obvious it was being manually controlled by the changes in descent rate. Also no",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [],
+            "content": "@marcepa49 @flightradar24 @isobelroe distress call. I thought it was hi-jacked and being flown by then. If it's true that the co-pilot did",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 31,
+            "parent": 28,
+            "children": [],
+            "content": "@marcepa49 @flightradar24 @isobelroe crash it deliberately, the whole industry needs a shake-up.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 32,
+            "parent": 28,
+            "children": [
+                33
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe It only takes a moment to enter 7700 into the transponder. I've worked on these systems before.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 13
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [
+                34,
+                35,
+                36,
+                37
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe Autopilot was manually changed from 38,000 to 100 ft at 09:30:55 (Flightradar24 says)",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 14
+        },
+        {
+            "comment id": 34,
+            "parent": 33,
+            "children": [],
+            "content": "@marcepa49 The autopilot wasn't set to 100 feet. It was flown manually. FlightRadar24 has made that up.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 15
+        },
+        {
+            "comment id": 35,
+            "parent": 33,
+            "children": [],
+            "content": "@marcepa49 Have you operated a flight mqnagement computer before? I used to test them. What FlightRadar24 is ahowing is changes made",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 15
+        },
+        {
+            "comment id": 36,
+            "parent": 33,
+            "children": [],
+            "content": "@marcepa49 the flight profile. That doesn't indicate that the autopilot was set to 100 feet. I've worked on these systems, tested them",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 15
+        },
+        {
+            "comment id": 37,
+            "parent": 33,
+            "children": [
+                38
+            ],
+            "content": "@marcepa49 @flightradar24 @isobelroe and have operated them in sumulators. Also on actual flights when I've been in the flight deck.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 15
+        },
+        {
+            "comment id": 38,
+            "parent": 37,
+            "children": [
+                39
+            ],
+            "content": "@Minus777 @flightradar24 @isobelroe Look at the time on each line. The altitudes are requested not achieved.",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 16
+        },
+        {
+            "comment id": 39,
+            "parent": 38,
+            "children": [
+                40
+            ],
+            "content": "@marcepa49 But that's the FMC, doesn't mean autopilot was engaged.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 17
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [
+                41
+            ],
+            "content": "@Minus777 what's the use of changing FMC if autopilot not engaged?",
+            "user id": 476243412,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 18
+        },
+        {
+            "comment id": 41,
+            "parent": 40,
+            "children": [],
+            "content": "@marcepa49 It changes the flight profile and cuts out the warnings and some of the protection.",
+            "user id": 139631790,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 19
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "12-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "13-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "14-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "15-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "16-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "17-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "18-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "19-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

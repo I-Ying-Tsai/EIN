@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Police have thrown something at the crowd. Not sure what tho. Protester says \"they have enough bullets for everybody down here #Ferguson",
+        "user id": 1291770157,
+        "tweet id": "499407248427188224",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa Oh shit",
+            "user id": 2172756740,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "FUCK. Don't let the cops BAIT the crowd. #myNYPD uses that trick to have excuse to disburse crowds. they want a reaction  @Nettaaaaaaaa",
+            "user id": 187396018,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

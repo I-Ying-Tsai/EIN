@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "PHOTO: Arrivals board in Dusseldorf Airport shows information for Germanwings plane that crashed in French Alps http://t.co/dymPQUJEHx",
+        "user id": 28785486,
+        "tweet id": "580345253179342848",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC So terrible!",
+            "user id": 2588155512,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "SAD -&gt;“@ABC Arrivals board in Dusseldorf Airport shows information for Germanwings plane that crashed in French Alps http://t.co/8L5Lgx6ifL”",
+            "user id": 144356139,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

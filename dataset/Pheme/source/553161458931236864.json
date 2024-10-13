@@ -1,0 +1,193 @@
+{
+    "source": {
+        "content": "We stand with Charlie Hebdo in rejecting oppression and violence in all its forms. \nhttp://t.co/cDL1yKX1wo http://t.co/Nu6KlDe0e6",
+        "user id": 357584312,
+        "tweet id": "553161458931236864",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "content": "Damn, you guys just compared terrorism to eating meat? Please go lobotomize yourself. @PETAUK",
+            "user id": 1349989992,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@DestroTheNoble @PETAUK \nI don't think they said that did they?",
+            "user id": 303431305,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@DestroTheNoble @PETAUK Cabu actually died in the shooting yesterday and this was one of the last drawing he worked on.",
+            "user id": 262850570,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "@DestroTheNoble @PETAUK Plus, being Vegan is not only about eating meat, please go inform yourself.",
+            "user id": 262850570,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PETAUK Do YOU @StandforMaya \nWhy?\nPETA Steals &amp; Kills a Child’s Dog\nhttps://t.co/OqFbakstbF\nFB - UnEdit Video\nhttps://t.co/GsLqN8vQpS",
+            "user id": 2565524322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PETAUK Well said , Peta. You speak for us all.",
+            "user id": 303431305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PETAUK  Well said PETA-we all support you.",
+            "user id": 303431305,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PETAUK @peta In the USA there is debate on the cia and torture but in france there will be a debate on foie gras",
+            "user id": 1958553691,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@PETAUK @peta The website said that they are cage free and they believe in reducing stress. They force feed! That is stress!!",
+            "user id": 162245235,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@PETAUK @peta for now and always",
+            "user id": 2456373276,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [
+                12,
+                13
+            ],
+            "content": "They said they stand with Charlie against violence. Then show a pic of geese. They're idiots. @sybilfifi @PETAUK",
+            "user id": 1349989992,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [],
+            "content": "thought it was a peta drawing, my bad. @_daniessi @PETAUK",
+            "user id": 1349989992,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "@DestroTheNoble @sybilfifi @PETAUK  they are not idiots-they are an animal charity, but they stood up against violence and support Charlie.",
+            "user id": 303431305,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "@DestroTheNoble @PETAUK You have to click to view the picture to se the geese-you need not see it-just read their message. Stupid comment.",
+            "user id": 303431305,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

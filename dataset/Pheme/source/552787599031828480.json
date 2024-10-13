@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "'It's a massacre. There are dead!' employee of Charlie Hebdo tells French media outlet before call disconnects http://t.co/Q27XnP3AS3",
+        "user id": 64643056,
+        "tweet id": "552787599031828480",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com moderates.... Great job France the rest of the world should wake up!",
+            "user id": 392958028,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com that's what happens.",
+            "user id": 280012815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com What a shame. Where was the armed security to deal with 3 assailants?",
+            "user id": 166320569,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com What's up with the security at that moment?",
+            "user id": 2915660732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com too many sad things happening all around the globe",
+            "user id": 236837623,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        }
+    }
+}

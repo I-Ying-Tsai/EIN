@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "LIVE: Sydney Opera House cancels performances in light of #sydneysiege events http://t.co/IKfAR0Z7HL http://t.co/jbL5Ngauvp",
+        "user id": 2799960092,
+        "tweet id": "544367862211952641",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCNewsAus: LIVE: Sydney Opera House cancels performances in light of #sydneysiege events http://t.co/7wcD6DXXsm http://t.co/bXG87dMH5v”",
+            "user id": 1030435626,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@BBCNewsAus Why close the Opera House? Oh yeah, patriarchy can't function without people living in fear #sydneysiege @rustyrockets",
+            "user id": 536980961,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@2squig something to do with a mysterious package",
+            "user id": 2372964864,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus  terrorism is a global issue Australians impose travel advisories to Kenya ,no one is safe unless we work together",
+            "user id": 2851672980,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus why wat happened please keep us  informed your the best informant we have please",
+            "user id": 2669081715,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus @BBCWorld",
+            "user id": 156943464,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus @BBCWorld",
+            "user id": 937224325,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "@TWEETF4KNTWEET That was 7 hours ago. Sniffer dogs on strike?",
+            "user id": 536980961,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@2squig it's close enough to Christmas that any excuse for an early knock off is acceptable. All the staff are at the pub.",
+            "user id": 2372964864,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

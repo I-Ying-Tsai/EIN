@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Paris terror attacks: six explosions heard at kosher supermarket in Paris – live updates http://t.co/mtPv1mMS0D",
+        "user id": 87818409,
+        "tweet id": "553587278564823041",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian http://t.co/KsPMq6pIh4",
+            "user id": 1407027576,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@guardian The Kouachi brothers are dead while the terrorist cornered in the supermarket has been apprehended. Don't know if dead or alive.",
+            "user id": 873168950,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

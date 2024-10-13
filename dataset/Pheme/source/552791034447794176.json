@@ -1,0 +1,116 @@
+{
+    "source": {
+        "content": "BREAKING UPDATE: 11 dead, 10 wounded in Charlie Hebdo HQ shooting - Paris police  http://t.co/Q27XnP3AS3",
+        "user id": 64643056,
+        "tweet id": "552791034447794176",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RT_com thought France trying to keep the peace",
+            "user id": 1038235795,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                7
+            ],
+            "content": "@mackaysuzie @RT_com Yeah, trying!",
+            "user id": 434512121,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com As simple as 1-2-3. http://t.co/t6fWjEMvXe",
+            "user id": 2180434818,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com Seems like someone didn't like their jokes.",
+            "user id": 1499044742,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": ":( RT @RT_com: BREAKING UPDATE: 11 dead, 10 wounded in Charlie Hebdo HQ shooting - Paris police  http://t.co/6iAtQk9qjp",
+            "user id": 253517139,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RT_com a reasonable response was to reply with satirical sketches about Christianity..not go on a rampage against innocent civilians..",
+            "user id": 70638153,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Mierda “@RT_com: BREAKING UPDATE: 11 dead, 10 wounded in Charlie Hebdo HQ shooting - Paris police  http://t.co/gBGbT0EnQL”",
+            "user id": 97322041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 1,
+            "children": [],
+            "content": "@benbendito @RT_com it's all the hating",
+            "user id": 1038235795,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

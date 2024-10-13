@@ -1,0 +1,170 @@
+{
+    "source": {
+        "content": "最近天气太热了，门诊的痛风患者越来越多。再次提醒痛风和高尿酸的朋友们：一定要注意多喝水，有空读一下凌医生这篇原创科普文章。#随手医学科普# #痛风门诊手记#\n ",
+        "time": "17-8-3 12:26",
+        "user id": "1400416927",
+        "tweet id": "Ffn4Pkf5b",
+        "label": 0,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "1671181382",
+            "user name": "惠大夫在江湖",
+            "content": "痛风者，要调整饮食结构。比如，不能喝酒，也不能食用太多海鲜。。。和糖尿病一样，嘴表示很吃亏",
+            "time": "17-8-3 12:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "1404914101",
+            "user name": "吴所事事6",
+            "content": "您好，咨询一下我经常手指关节，腕关节肿胀疼痛，膝关节内外侧疼痛，有时非常疼。之前体检尿酸到临界值，但没超。不知道是否是痛风。另外就是发病前一般手腕部位是搬重物，或者手拎重物导致指关节肿痛。膝关节一般是睡觉被另一侧关节压迫。之前给膝关节拍片子就说有轻微关节炎，但我感觉太疼了。谢谢。",
+            "time": "17-8-3 12:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "2358061207",
+            "user name": "郭跃1117",
+            "content": "客气了",
+            "time": "17-8-10 21:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [
+                2
+            ],
+            "user id": "1404914101",
+            "user name": "吴所事事6",
+            "content": "好的，多谢您！",
+            "time": "17-8-10 21:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [
+                3
+            ],
+            "user id": "2358061207",
+            "user name": "郭跃1117",
+            "content": "这个分医院 目前没有痛风专门的科 可以挂风湿免疫科 也可以挂内分泌科。建议你不行挂个急诊 让医生看看 再确认挂哪个科。",
+            "time": "17-8-10 21:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [
+                4
+            ],
+            "user id": "1404914101",
+            "user name": "吴所事事6",
+            "content": "多谢您，再咨询一下我该挂哪个科？谢谢！",
+            "time": "17-8-10 21:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "user id": "2358061207",
+            "user name": "郭跃1117",
+            "content": "建议你还的好好看看 尿酸高只是痛风的重要表现 根据你的情况 应该是轻微痛风",
+            "time": "17-8-10 21:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "5044904317",
+            "user name": "大舌头浪叽",
+            "content": "我爸痛风病史十年，以前痛的时候才治疗，今年春节后开始服用非布司他，服用一个月后，血尿酸降至300μmol/l，现在还是反复",
+            "time": "17-8-3 13:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "2358061207",
+            "user name": "郭跃1117",
+            "content": "非布只能暂时降尿酸 西药不能总吃 伤肾",
+            "time": "17-8-10 21:23",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "2115823067",
+            "user name": "乔知夭夭",
+            "content": "柠檬酸或白醋调节PH值到弱碱性，没理解，这不是酸性的嘛，加到水里可以让水变碱性吗？",
+            "time": "17-8-28 10:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

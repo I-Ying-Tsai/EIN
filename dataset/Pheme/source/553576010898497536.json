@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "Breaking: Gunman at Paris store threatens to kill hostages if #CharlieHebdo suspects are harmed. http://t.co/YPIlwckuuw",
+        "user id": 3108351,
+        "tweet id": "553576010898497536",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Sounds familiar... Les habitants de #Boston se tiennent avec la #France. #FranceStrong #BostonStrong",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Well that guys a nut.",
+            "user id": 509601309,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ \n#StopKillingInnocentPeople\n#FreePalestine\n#freeBurma\n#FreeSyria \n#FreeKashmir\nhttp://t.co/ggBNiIa9fq",
+            "user id": 2370908751,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: Breaking: Gunman at Paris store threatens to kill hostages if #CharlieHebdo suspects are harmed. http://t.co/4blh1gZURk”",
+            "user id": 20527491,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@WSJ Before attack, French began ceding control of neighborhoods to Islamists...",
+            "user id": 701094366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@duesouth22 the terrorist had meeting with président #Sarkozy in 2009 http://t.co/wZPuxpvqqq @WSJ",
+            "user id": 2208746299,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ seems it would behoove police to kill that particular gunman first then.",
+            "user id": 930970945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ how would they know if they are harmed or not? Is there some kind of communication between the suspects?",
+            "user id": 229482248,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ @slone #Gunman had meeting with former president #Sarkozy in 2009 http://t.co/wZPuxpvqqq",
+            "user id": 2208746299,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: Breaking: Gunman at Paris store threatens to kill hostages if #CharlieHebdo suspects are harmed. http://t.co/nIq5BLGTDQ” smh",
+            "user id": 38233752,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: Breaking: Gunman at Paris store threatens to kill hostages if #CharlieHebdo suspects are harmed. http://t.co/qYsOJ2sA1o” What a mess",
+            "user id": 277264910,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "Omg “@WSJ: Breaking: Gunman at Paris store threatens to kill hostages if #CharlieHebdo suspects are harmed. http://t.co/lU1MwlyKs5”",
+            "user id": 36226017,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: Breaking: Gunman at Paris store threatens to kill hostages if #CharlieHebdo suspects are harmed. http://t.co/nIq5BLGTDQ” smfh",
+            "user id": 38233752,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Remember: do NOT tweet location of police in #Ottawa #OttawaShooting",
+        "user id": 736798032,
+        "tweet id": "524952005157347328",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Canadagentleman @bebird yawn",
+            "user id": 244209009,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Canadagentleman OBEY OR BE LABELED",
+            "user id": 2655239317,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@Canadagentleman: Remember: do NOT tweet location of police in #Ottawa #OttawaShooting”@averymorin",
+            "user id": 256270667,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

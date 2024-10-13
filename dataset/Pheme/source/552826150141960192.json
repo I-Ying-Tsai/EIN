@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Editor of Charlie Hebdo has been liberal &amp; righteous. Salute to all the cartoonists martyred at the terrorist attack. http://t.co/Yk3PgHkz4S",
+        "user id": 1664343276,
+        "tweet id": "552826150141960192",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SuvalagnaC  Please give for Destitute, Orphan, Very poor, Old age, so their life as human being like us... http://t.co/1qBqjKsgZS",
+            "user id": 2450832409,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SuvalagnaC That which cant stand to its criticism is weakest\nHere, a Hindu toon famous and loved among the followers http://t.co/Vl11xQBZKh",
+            "user id": 112423078,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SuvalagnaC You are absolutely right and your statement is justifiable.\nThanks for upholding the ethics of journalism.",
+            "user id": 2202744048,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SuvalagnaC @Nisha_Hindu He died believing French Laws would .",
+            "user id": 468433547,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@SuvalagnaC @re_ve_ng_er @sraithatha30 @NeelakshiGswm @Nir_27 Freedom of speech?\nAllow me to create a page on the holocaust &amp; make fun of it",
+            "user id": 2691961784,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@zahedullah9 Go on.. make a page on it.. 1 thing for sure, u won't be killed. Thats d difference @SuvalagnaC @sraithatha30 @NeelakshiGswm",
+            "user id": 157016660,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

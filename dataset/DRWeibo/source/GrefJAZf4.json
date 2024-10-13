@@ -1,0 +1,177 @@
+{
+    "source": {
+        "content": "我的钱什么时候能提出来？#斐讯联壁# 我6月17号办的，然后才发现人家6月19号就被调查了！我在@中国电信  @中国电信山东客服  营业厅办宽带，推荐我用这个路由器，然后交的钱。所以说，这个399应该问谁要回来？ ",
+        "time": "18-7-23 10:47",
+        "user id": "3995726731",
+        "tweet id": "GrefJAZf4",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "user id": "5754401381",
+            "user name": "Mr_Sev1",
+            "content": "艾特错了@中国电信山东客服",
+            "time": "18-7-23 10:48",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5754401381",
+            "user name": "Mr_Sev1",
+            "content": "拼单买的便宜了十多块钱",
+            "time": "18-7-23 11:01",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "3995726731",
+            "user name": "左手写字右手拿刀",
+            "content": "我看你只花了95",
+            "time": "18-7-23 10:58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "5754401381",
+            "user name": "Mr_Sev1",
+            "content": "是109要运费的",
+            "time": "18-7-23 10:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "3995726731",
+            "user name": "左手写字右手拿刀",
+            "content": "嗯，带了，想带你小米99的，结果发现你已经带走了",
+            "time": "18-7-23 10:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "user id": "5754401381",
+            "user name": "Mr_Sev1",
+            "content": "你上课去了吗，今天下雨带伞了吗",
+            "time": "18-7-23 10:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 0,
+            "children": [],
+            "user id": "3995726731",
+            "user name": "左手写字右手拿刀",
+            "content": "可以了",
+            "time": "18-7-23 10:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9,
+                10
+            ],
+            "user id": "3721566010",
+            "user name": "森林味的曲奇泡芙",
+            "content": "退了吗，我是6.15办的",
+            "time": "18-7-25 13:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "3995726731",
+            "user name": "左手写字右手拿刀",
+            "content": "待审核",
+            "time": "18-7-26 09:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "user id": "3721566010",
+            "user name": "森林味的曲奇泡芙",
+            "content": "那你申请了怎么样了啊",
+            "time": "18-7-25 20:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "user id": "3995726731",
+            "user name": "左手写字右手拿刀",
+            "content": "还没有，说是到斐讯官网上申请",
+            "time": "18-7-25 20:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "2004408777",
+            "user name": "中国电信山东客服",
+            "content": "您好，请您私信小编具体描述您需要反映的问题",
+            "time": "18-7-23 11:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 9,
+            "state_1": 0
+        }
+    }
+}

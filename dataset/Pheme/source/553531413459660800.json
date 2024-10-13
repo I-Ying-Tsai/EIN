@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "Update - AFP says gunman who has taken a hostage at kosher supermarket in Paris believed to be suspect in killing of policewoman on Thursday",
+        "user id": 87416722,
+        "tweet id": "553531413459660800",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak Does he have a script to take away more freedoms.",
+            "user id": 155187280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak Doesnt sound like he has thought this one through",
+            "user id": 235865079,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@fernandocarnota @LongobardiM @nelsonalcastro @SkyNewsBreak: AFP says gunman who has taken a hostage at kosher supermarket in Paris",
+            "user id": 2898256383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak looks like a deliberate attempt to split the French police action an cause confusion.",
+            "user id": 2960490339,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak Presume they wanted a #Jewish #hostage. So much for martyrdom. Why a kosher deli particularly?",
+            "user id": 264125211,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak @_DarkMavis U haven't sent Queen Bee Burley to France have u,if so it's only a matter of time be4 she comes out with a classic",
+            "user id": 310265421,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@skynewsbreak hostage taken at kosher supermarket ,HyperCacher Vincennnes",
+            "user id": 24282590,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@SkyNewsBreak Why would someone leave their ID-card? Thereafter allegedly seen at a gas station. Now hostage sit. Reports of",
+            "user id": 2432870707,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@SkyNewsBreak a 3rd shooting at present\n\nDivert Operatons?",
+            "user id": 2432870707,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak Why state kosher grocery? You, nor any other news agency say Christian grocery if it would of been the case",
+            "user id": 2960490339,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak Hunted Down, excellent police work, hope the other two follow soon",
+            "user id": 1201839704,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak which means the phsyco is ruthless and will shoot all. Attack is best defence.",
+            "user id": 2654320636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak  really sad situation",
+            "user id": 1437948078,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

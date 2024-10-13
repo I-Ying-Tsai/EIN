@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "北京出了这号畜生，百度车牌前仨字自动出来了。 http://t.cn/zTPVuz4",
+        "user id": 2174847535,
+        "tweet id": "3560196150182168",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "[围观]",
+            "user id": 1400515853,
+            "user name": "红黑骑士ing",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "这组照片曾经被新浪小便删除过，现在百度也出来了，有种贵公司小便继续删啊[弱]@黑镜白针 @陈秋雨 @陈法付 @禁言的逻辑 @老徐时评 @刘胜军改革 @长江直播 @袁裕来律师",
+            "user id": 2294979920,
+            "user name": "有病了就要吃药",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "丢人现眼怂人",
+            "user id": 2780263753,
+            "user name": "浪迹天涯0871",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "垃圾",
+            "user id": 2997212881,
+            "user name": "误改人生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[群体围观]",
+            "user id": 1855681951,
+            "user name": "血雪31114",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "无",
+            "user id": 1574694200,
+            "user name": "肖栋阳",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "帮这厮出出名",
+            "user id": 2279601165,
+            "user name": "天使之翼亮糖糖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "机动车上非机动车道，什么时候能狠罚啊~~哎",
+            "user id": 1850617871,
+            "user name": "角门V杰子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "转发微博",
+            "user id": 1871911424,
+            "user name": "绿豆摊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "",
+            "user id": 1984815573,
+            "user name": "犀地的世界",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "猪呀!",
+            "user id": 2671578151,
+            "user name": "我爱一其儒",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "这种不要脸 没教养 哪都有  耻辱 开一现代就不知道北在哪了 要换了10万以上的车没准真以为自己是进驻中南海的人",
+            "user id": 2234305785,
+            "user name": "无语屁民",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "[鄙视]",
+            "user id": 1734100514,
+            "user name": "郭小妞522",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

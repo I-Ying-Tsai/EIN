@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "A reliable source has confirmed to the BBC that Cherif and Said Kouachi were on the UK Warnings Index “and had been for some time.”",
+        "user id": 331658004,
+        "tweet id": "553571432475951105",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS But so are thousands of people.",
+            "user id": 39498918,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS @JJCarafano A lot of good that did.",
+            "user id": 418867782,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS Do they have a Russian background?",
+            "user id": 309334144,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS @BBCWorld sorry but all the story is a set up \nno talk",
+            "user id": 2675604559,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@BBCDanielS how reliable is that source?",
+            "user id": 125150508,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                10
+            ],
+            "content": "@sir_cas Reliable.",
+            "user id": 331658004,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS Might be a good time for them to round up some of the other people on that list for a little chat?",
+            "user id": 64430687,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS on a scale from Colin-Powel-at-the-UN to Mother Teresa, how reliable is your source?",
+            "user id": 597789064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS so what did Kuachi say?",
+            "user id": 419423030,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCDanielS @BBCBreaking uh ohh 🐝🐝🐝",
+            "user id": 2449982929,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 5,
+            "children": [],
+            "content": "@BBCDanielS I trust you as you've been very consistent in all your reporting since your #Russian days.",
+            "user id": 125150508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

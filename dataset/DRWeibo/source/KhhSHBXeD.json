@@ -1,0 +1,969 @@
+{
+    "source": {
+        "content": "#黑科技教室# 我朋友说女生跳楼了，男生被开除了，这俩人也是够惨的了 ",
+        "time": "21-5-26 20:35",
+        "user id": "5032724558",
+        "tweet id": "KhhSHBXeD",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                8,
+                12,
+                13
+            ],
+            "user id": "6806124587",
+            "user name": "你他妈说话客气点啊",
+            "content": "不是说跳楼是假的嘛",
+            "time": "21-5-26 20:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "6466403084",
+            "user name": "蛇界猛男l",
+            "content": "我说一定了？？？只是听别人说的，到你这里就我盼着别人跳搞笑",
+            "time": "21-5-29 17:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "5320887851",
+            "user name": "Epiphappy",
+            "content": "别瞎说，你是恨不得别人跳？",
+            "time": "21-5-28 20:06",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 9,
+            "children": [],
+            "user id": "6466403084",
+            "user name": "蛇界猛男l",
+            "content": "好像真跳了",
+            "time": "21-5-28 19:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 4,
+            "parent": 10,
+            "children": [],
+            "user id": "6368593442",
+            "user name": "从新开始_110",
+            "content": "朋友真是个万能词，这样就不用担责任了是吧",
+            "time": "21-5-27 14:56",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 5,
+            "parent": 10,
+            "children": [],
+            "user id": "6806124587",
+            "user name": "你他妈说话客气点啊",
+            "content": "那建议你删帖，根本没有证据的事情就别发了",
+            "time": "21-5-27 09:34",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 6,
+            "parent": 10,
+            "children": [],
+            "user id": "7113042795",
+            "user name": "LIHey_911",
+            "content": "笑死 朋友说的",
+            "time": "21-5-27 08:39",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 7,
+            "parent": 9,
+            "children": [],
+            "user id": "6895694987",
+            "user name": "月亮下山了CHZY",
+            "content": "这么凶？？？",
+            "time": "21-5-27 07:21",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [],
+            "user id": "7556578127",
+            "user name": "混浊的小肉团198409",
+            "content": "现在知道是假的，还不删了。无语",
+            "time": "21-5-27 01:18",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 10,
+            "children": [
+                3,
+                7
+            ],
+            "user id": "5320887851",
+            "user name": "Epiphappy",
+            "content": "删了去，你朋友真多",
+            "time": "21-5-27 00:14",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [
+                4,
+                5,
+                6,
+                9
+            ],
+            "user id": "5032724558",
+            "user name": "中二系少女豆瓣酱",
+            "content": "对不起啊，我朋友说的",
+            "time": "21-5-27 00:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 13,
+            "children": [
+                10
+            ],
+            "user id": "5320887851",
+            "user name": "Epiphappy",
+            "content": "不知道你他妈乱逼逼什么？",
+            "time": "21-5-27 00:02",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 0,
+            "children": [],
+            "user id": "7176124843",
+            "user name": "知南茶温暖198401",
+            "content": "图片救护车是低血糖的",
+            "time": "21-5-26 23:24",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "user id": "5032724558",
+            "user name": "中二系少女豆瓣酱",
+            "content": "不知道啊，我看到图片了",
+            "time": "21-5-26 20:38",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "2454181171",
+            "user name": "你猜不到我名字有多温顺",
+            "content": "说是合唱团女生晕倒了来的救护车，吓传真可怕",
+            "time": "21-5-26 22:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "5032724558",
+            "user name": "中二系少女豆瓣酱",
+            "content": "可能是吧",
+            "time": "21-5-27 00:07",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "5533589242",
+            "user name": "小南不喝酒",
+            "content": "真的假的",
+            "time": "21-5-26 20:35",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "5032724558",
+            "user name": "中二系少女豆瓣酱",
+            "content": "有图片，救护车都来了盖着白布抬走的",
+            "time": "21-5-26 20:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                25,
+                26,
+                29,
+                30,
+                31
+            ],
+            "user id": "6112678554",
+            "user name": "壹月拾Yi",
+            "content": "本黑科技都没听说跳楼",
+            "time": "21-5-26 21:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 20,
+            "children": [],
+            "user id": "5529199934",
+            "user name": "周阴婷在你身边",
+            "content": "漂亮你也操不到啊",
+            "time": "21-5-28 03:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 20,
+            "parent": 21,
+            "children": [
+                19
+            ],
+            "user id": "6187572349",
+            "user name": "百分之三十一点六",
+            "content": "女的漂亮吗",
+            "time": "21-5-27 17:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 21,
+            "parent": 22,
+            "children": [
+                20
+            ],
+            "user id": "6112678554",
+            "user name": "壹月拾Yi",
+            "content": "是啊",
+            "time": "21-5-27 14:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 22,
+            "parent": 24,
+            "children": [
+                21
+            ],
+            "user id": "5544962520",
+            "user name": "多茵莱",
+            "content": "你还在意这个，所以他俩是不是情侣啊好弟弟",
+            "time": "21-5-27 14:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 30,
+            "children": [],
+            "user id": "6572534403",
+            "user name": "小小皮卡丘1",
+            "content": "相比之下更应该着重处理的是传播和录像这件事情的人",
+            "time": "21-5-27 14:20",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 24,
+            "parent": 26,
+            "children": [
+                22
+            ],
+            "user id": "6112678554",
+            "user name": "壹月拾Yi",
+            "content": "我男的姐姐",
+            "time": "21-5-27 14:16",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 25,
+            "parent": 18,
+            "children": [],
+            "user id": "6112678554",
+            "user name": "壹月拾Yi",
+            "content": "h h h",
+            "time": "21-5-27 14:16",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 26,
+            "parent": 18,
+            "children": [
+                24
+            ],
+            "user id": "5544962520",
+            "user name": "多茵莱",
+            "content": "姐妹这俩人到底是不是情侣啊",
+            "time": "21-5-27 12:51",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": 29,
+            "children": [],
+            "user id": "6112678554",
+            "user name": "壹月拾Yi",
+            "content": "没有公布",
+            "time": "21-5-27 09:43",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 28,
+            "parent": 30,
+            "children": [],
+            "user id": "6112678554",
+            "user name": "壹月拾Yi",
+            "content": "没公布",
+            "time": "21-5-27 09:42",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 29,
+            "parent": 18,
+            "children": [
+                27
+            ],
+            "user id": "6631165627",
+            "user name": "抗压背锅",
+            "content": "男女主退学了吗",
+            "time": "21-5-27 09:27",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": 18,
+            "children": [
+                23,
+                28
+            ],
+            "user id": "1307249427",
+            "user name": "Talanctscout",
+            "content": "学校是怎么处理俩人的",
+            "time": "21-5-27 07:36",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 31,
+            "parent": 18,
+            "children": [],
+            "user id": "6058882640",
+            "user name": "Hermes丶阿生",
+            "content": "没跳楼就行，这种事风头避一避就过去了",
+            "time": "21-5-27 00:03",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [
+                39,
+                40,
+                41
+            ],
+            "user id": "5993557280",
+            "user name": "闲情逸致市场",
+            "content": "啥瓜啊啥视频啊啥跳楼啊，我像只在瓜田上蹿下跳的猹",
+            "time": "21-5-26 21:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": 39,
+            "children": [],
+            "user id": "6530403101",
+            "user name": "祁七孑",
+            "content": "求资源",
+            "time": "21-5-27 12:11",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 34,
+            "parent": 39,
+            "children": [],
+            "user id": "5780438759",
+            "user name": "许慕黎YC",
+            "content": "求私！！",
+            "time": "21-5-27 11:22",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 35,
+            "parent": 36,
+            "children": [],
+            "user id": "7388174916",
+            "user name": "木属性65080",
+            "content": "没啥好看的，女生也想看啊🙈🙈",
+            "time": "21-5-27 11:21",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 36,
+            "parent": 39,
+            "children": [
+                35
+            ],
+            "user id": "5915638251",
+            "user name": "吃可爱多长大的渣渣灰",
+            "content": "求视频啊姐妹",
+            "time": "21-5-27 11:03",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 37,
+            "parent": 39,
+            "children": [],
+            "user id": "6366067751",
+            "user name": "不要走远0",
+            "content": "求私",
+            "time": "21-5-27 08:55",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 38,
+            "parent": 39,
+            "children": [],
+            "user id": "3738821131",
+            "user name": "Fuckme工作室",
+            "content": "求私",
+            "time": "21-5-27 02:19",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 39,
+            "parent": 32,
+            "children": [
+                33,
+                34,
+                36,
+                37,
+                38
+            ],
+            "user id": "5984966093",
+            "user name": "慧慧要天天开心吖",
+            "content": "doi。我有视频保存了。女主身材good",
+            "time": "21-5-27 01:17",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 40,
+            "parent": 32,
+            "children": [],
+            "user id": "7376877644",
+            "user name": "菜祖贤",
+            "content": "黑龙江科大的一男一女在阶梯教室doi被自己会转的监控拍到了",
+            "time": "21-5-26 23:33",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": 32,
+            "children": [],
+            "user id": "6058006368",
+            "user name": "嘚比呵呵",
+            "content": "别吃了 ",
+            "time": "21-5-26 21:29",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [],
+            "user id": "5320887851",
+            "user name": "Epiphappy",
+            "content": "他妈就看了什么照片就搁这哔哔乌合之众",
+            "time": "21-5-26 23:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [
+                44
+            ],
+            "user id": "2906244861",
+            "user name": "问题回归",
+            "content": "怎么可能开除，又没违法犯罪。不在适当场合进行x生活而已，说的好像全世界就他们两个有x生活似的。被人背后八卦一段时间谁还记得这种事",
+            "time": "21-5-27 13:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": 43,
+            "children": [
+                45
+            ],
+            "user id": "2709738047",
+            "user name": "往日似酒",
+            "content": "如果你身边朋友做这事被公布了，你会忘记了？只是我们不认识这对男女的人会忘记，他们身边认识的绝对不会忘记这件事的",
+            "time": "21-5-27 13:54",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [],
+            "user id": "2906244861",
+            "user name": "问题回归",
+            "content": "是不会忘记，但也不在意。我09年大二隔壁班女同学跟男朋友分手了，因为新师妹来了，男的找师妹了，她在宿舍自杀，幸好下课有人回去了救她一命。十多年过去了，有人问xx在哪上班。有人说:哪个？我们说:自杀那个啊！同理，大家说起就是:哪个啊？在教室左爱被拍那个。哦哦。在岁月的长河中这都不是事",
+            "time": "21-5-27 14:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [
+                47,
+                48
+            ],
+            "user id": "5880874163",
+            "user name": "怡怡美子",
+            "content": "没跳楼 听说学校还不劝退这两个人 就很无语了 这种事劝退不应该很正常吗 给学校带来了那么大的影响",
+            "time": "21-5-27 11:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": 46,
+            "children": [],
+            "user id": "2709738047",
+            "user name": "往日似酒",
+            "content": "这是多好的招生简章",
+            "time": "21-5-27 13:54",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": 46,
+            "children": [],
+            "user id": "6444272432",
+            "user name": "小草莓6444272432",
+            "content": "真劝退了，人家就该破罐子破摔追责了，视频流出，学校有责任的",
+            "time": "21-5-27 12:10",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 49,
+            "parent": -1,
+            "children": [],
+            "user id": "5995947040",
+            "user name": "我不拉粑粑",
+            "content": "你觉得他俩真的惨吗姐妹",
+            "time": "21-5-27 02:34",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "user id": "2959793771",
+            "user name": "_____Yuki-Q",
+            "content": "假的好么 合唱团女生晕倒",
+            "time": "21-5-27 09:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [],
+            "user id": "6431145690",
+            "user name": "今天82斤了没",
+            "content": "惨？？活该好吧",
+            "time": "21-5-27 07:48",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [],
+            "user id": "5714732144",
+            "user name": "半日残阳",
+            "content": "好家伙，官方都提示为不实消息了",
+            "time": "21-5-28 15:11",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [],
+            "user id": "5468024878",
+            "user name": "Null0000111",
+            "content": "你盆友说你🐴也跳了",
+            "time": "21-5-28 08:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 54,
+            "parent": -1,
+            "children": [],
+            "user id": "5462358643",
+            "user name": "万众一心众志成城007",
+            "content": "你看到了啥图片，发出来啊",
+            "time": "21-5-27 14:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [],
+            "user id": "7142489164",
+            "user name": "罗一舟你逃不掉的",
+            "content": "滚吧，别传谣了",
+            "time": "21-5-27 12:48",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [],
+            "user id": "6049898513",
+            "user name": "Bassanio丶",
+            "content": "造谣真恶心，我给你联系下网警",
+            "time": "21-5-27 10:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "user id": "7480835316",
+            "user name": "让我不挂科就好",
+            "content": "既然是假的就删帖",
+            "time": "21-5-27 10:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [],
+            "user id": "5270635099",
+            "user name": "野原向日葵J",
+            "content": "没跳楼  别传谣了",
+            "time": "21-5-27 09:47",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 59,
+            "parent": -1,
+            "children": [],
+            "user id": "5320887851",
+            "user name": "Epiphappy",
+            "content": "还不删居心叵测辣鸡",
+            "time": "21-5-27 09:07",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [],
+            "user id": "2620596317",
+            "user name": "sece迷",
+            "content": "不信谣不传谣",
+            "time": "21-5-27 08:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "user id": "6075814146",
+            "user name": "小爱同学的真爱粉",
+            "content": "假的",
+            "time": "21-5-27 02:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": -1,
+            "children": [],
+            "user id": "6120934511",
+            "user name": "咸鱼一吨",
+            "content": "不可能这么快就开除，想处理都得一个月半个月的，再说二人心理素质强大，怎么可能跳",
+            "time": "21-5-27 01:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [],
+            "user id": "6293760129",
+            "user name": "小晴南阙呀",
+            "content": "是假的 别造谣吧 以讹传讹不好",
+            "time": "21-5-26 21:31",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 64,
+            "parent": -1,
+            "children": [],
+            "user id": "6491173588",
+            "user name": "R-不露声色",
+            "content": "不知道 不清楚 就别瞎造谣",
+            "time": "21-5-26 21:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 65,
+            "parent": -1,
+            "children": [],
+            "user id": "6603909060",
+            "user name": "小雨软糖糖",
+            "content": "不信谣不传谣，没跳楼我朋友说的",
+            "time": "21-5-26 20:53",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [],
+            "user id": "3289592924",
+            "user name": "微笑的豌豆尖",
+            "content": "没跳吧？",
+            "time": "21-5-27 10:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [],
+            "user id": "5253528139",
+            "user name": "螃蟹小一啊",
+            "content": "不知道就别几把瞎说，脑子有泡",
+            "time": "21-5-26 23:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 68,
+            "parent": -1,
+            "children": [],
+            "user id": "6696090805",
+            "user name": "当代卧龙是也",
+            "content": "看完了没啥感觉《5分钟》",
+            "time": "21-5-27 09:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [],
+            "user id": "5891060248",
+            "user name": "阳光和你呼呼呼",
+            "content": "@要有理想吖 评论",
+            "time": "21-5-27 01:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 70,
+            "parent": -1,
+            "children": [],
+            "user id": "5976951809",
+            "user name": "花样年华faye",
+            "content": "惨个几把，自己他妈的不检点，在教室搞？",
+            "time": "21-5-27 00:19",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 71,
+            "parent": -1,
+            "children": [],
+            "user id": "7611982378",
+            "user name": "随隋变变OK",
+            "content": "他们这种行为肯定不止一次了，早就做好了被发现的准备。脸皮那么厚，怎么可能跳楼？",
+            "time": "21-5-26 22:58",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 25
+        },
+        "2-hop": {
+            "state_0": 6,
+            "state_1": 11
+        },
+        "3-hop": {
+            "state_0": 4,
+            "state_1": 8
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

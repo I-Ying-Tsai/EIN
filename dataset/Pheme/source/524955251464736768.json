@@ -1,0 +1,157 @@
+{
+    "source": {
+        "content": "Canada will remain the true North, strong and free, after today. These events can't, and won't, break our spirit. #cdnpoli #OttawaShooting",
+        "user id": 1702119050,
+        "tweet id": "524955251464736768",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@RDSimper This will unify all right minded Canadians.",
+            "user id": 884724134,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                9
+            ],
+            "content": "I can't see it. 9/11 didn't unify. @KarenCrate1: @RDSimper This will unify all right minded Canadians.",
+            "user id": 344297915,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@RDSimper well said!",
+            "user id": 1603800133,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@RDSimper what will the gun grabbers say now",
+            "user id": 2747319607,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@GtoPmd Not the time.",
+            "user id": 1702119050,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@RDSimper my thoughts with everyone in Ottawa at this time.",
+            "user id": 1944916712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@RDSimper dam straight",
+            "user id": 61232629,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@RDSimper you're the best",
+            "user id": 2728348611,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@RDSimper: Canada will remain the true North, strong and free, after today. These events can't, and won't, break our spirit#OttawaShooting",
+            "user id": 1480739101,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@rj630 @RDSimper Maybe it's just wishful thinking on my part but I hope not.",
+            "user id": 884724134,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@KarenCrate1 @RDSimper I wish we could but everything becomes political in no time.",
+            "user id": 344297915,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "NEWS #Germanwings co-pilot Andreas Lubitz had serious depressive episode (Bild newspaper) #4U9525 http://t.co/BV21WXdxdb",
+        "user id": 2280470022,
+        "tweet id": "581387966125248512",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@airlivenet Correction: \"@BILD\" is not a newspaper, it's barely comfortable toilet paper at best.",
+            "user id": 2482271094,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@BlarryOfficial @airlivenet absolutely! Well said....",
+            "user id": 31129083,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet Bild newspaper is yellow press and not a source of reliable information.",
+            "user id": 158054450,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet If you want to be reliable never requote \"Bild\". NEVER EVER!",
+            "user id": 2653328672,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet Was he a gamer?",
+            "user id": 2285933645,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet Never trust @BILD",
+            "user id": 1038003991,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

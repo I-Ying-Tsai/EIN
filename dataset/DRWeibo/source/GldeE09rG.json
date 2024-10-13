@@ -1,0 +1,297 @@
+{
+    "source": {
+        "content": "扩散，网爆12306密码可能泄露，虽然官方还没证实，但是赶紧改一下总不吃亏，毕竟里面太多个人信息了！ ",
+        "time": "18-6-13 21:09",
+        "user id": "3554444773",
+        "tweet id": "GldeE09rG",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "3554444773",
+            "user name": "爱搞机的小nv孩",
+            "content": "官方已发布声明，不存在密码泄露，提醒大家注意安全！ ",
+            "time": "18-6-14 19:41",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "5651152773",
+            "user name": "那一抹红哦",
+            "content": "好像我都没有这个帐号",
+            "time": "18-6-13 21:11",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "3554444773",
+            "user name": "爱搞机的小nv孩",
+            "content": "不买票吗",
+            "time": "18-6-13 21:11",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "5651152773",
+            "user name": "那一抹红哦",
+            "content": "没坐过火车高铁坐过两次轻轨，还是人工售票",
+            "time": "18-6-13 21:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                7
+            ],
+            "user id": "5578203931",
+            "user name": "相信雪",
+            "content": "终于能知道小女孩几几年生的了",
+            "time": "18-6-13 21:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "5578203931",
+            "user name": "相信雪",
+            "content": "你要被拉黑了",
+            "time": "18-6-13 21:57",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [],
+            "user id": "5578203931",
+            "user name": "相信雪",
+            "content": "",
+            "time": "18-6-13 21:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "3554444773",
+            "user name": "爱搞机的小nv孩",
+            "content": "我今年8岁了",
+            "time": "18-6-13 21:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                11,
+                12
+            ],
+            "user id": "6511219864",
+            "user name": "波波同学zZ",
+            "content": "改了有啥用吗？该丢的都丢了...登录12306又能干啥呢...又没钱。",
+            "time": "18-6-13 21:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 11,
+            "children": [],
+            "user id": "1584562662",
+            "user name": "无聊的大人类",
+            "content": "有的不用手机验证码，直接回答密保问题和身份证",
+            "time": "18-6-14 09:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [],
+            "user id": "5174576189",
+            "user name": "TMachineC",
+            "content": "额。。应该是利用泄露出来的用户名和密码去撞库，毕竟很多人的密码都是相同的。。",
+            "time": "18-6-13 23:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [
+                9,
+                10
+            ],
+            "user id": "6511219864",
+            "user name": "波波同学zZ",
+            "content": "回复 @无聊的人类plus:要手机验证码，没有想象那么脆弱",
+            "time": "18-6-13 23:08",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [],
+            "user id": "1584562662",
+            "user name": "无聊的大人类",
+            "content": "意思不是这个吧，里面的身份证信息以及手机密保问题相关，利用这些信息更改支付宝微信密码",
+            "time": "18-6-13 23:01",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "2876072604",
+            "user name": "美味深海塘鱼",
+            "content": "又尼玛泄露？我记得三年前的时候就泄露过一次了",
+            "time": "18-6-13 21:28",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "3221419427",
+            "user name": "俞锐同学",
+            "content": "没注册过12306",
+            "time": "18-6-13 21:12",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "2960655201",
+            "user name": "向上的小八同学",
+            "content": "又来一次",
+            "time": "18-6-14 08:11",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17,
+                18,
+                19
+            ],
+            "user id": "5450602987",
+            "user name": "过于喧嚣的孤独中",
+            "content": "修改密码失败？修改不了",
+            "time": "18-6-13 21:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "2673676760",
+            "user name": "宇宙其实一点都不大",
+            "content": "我也是",
+            "time": "18-6-13 23:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [],
+            "user id": "2196181650",
+            "user name": "lennonwtq",
+            "content": "试试忘记密码那里呢",
+            "time": "18-6-13 22:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [],
+            "user id": "6396604680",
+            "user name": "冒烟之湾",
+            "content": "我也是",
+            "time": "18-6-13 21:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5188259093",
+            "user name": "Bony25",
+            "content": "图片评论 ",
+            "time": "18-6-14 01:53",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "Police are demanding protesters disperse. \"this is not up for discussion. Return to your vehicles. Return to your homes.\" #Ferguson",
+        "user id": 1716581,
+        "tweet id": "499690323883589632",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@elonjames @SeauxCocoa but wouldn't that violate their first amendment rights?",
+            "user id": 1442202037,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@theeroyalblue @elonjames @SeauxCocoa Yes, a couple of them!",
+            "user id": 792926154,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@elonjames the #FergusonPoliceDepartment really need to take their own advice",
+            "user id": 477930052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Does DOJ consider these threats of arrest legal? Or are they threats to violate civil rights?\n@elonjames",
+            "user id": 1615736210,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames oh, don't worry, I'm sure the GOP will also sue for this \"constitutional violation\".  Right, GOP guys? Guys???",
+            "user id": 2241731208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "And yet we saw the police chief say they could protest earlier today. They're setting people up. @elonjames",
+            "user id": 87244851,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#BREAKING: Shooting reported at the War Memorial in Ottawa",
+        "user id": 203123011,
+        "tweet id": "524924987774631936",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews omg! no! this is too close to home!",
+            "user id": 2784322060,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVNews as if your refuring to the \"officers of the law\" as COPS. Professionnel reporters here lol only in Canada.",
+            "user id": 869638356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

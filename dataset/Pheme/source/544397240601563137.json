@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "this photo speaks a thousand words, praying for all people being held hostage #sydneysiege #SydneyHostageCrisis http://t.co/Pk3wwqd8FS",
+        "user id": 908996244,
+        "tweet id": "544397240601563137",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@teenqueenhemmo photo of the year.",
+            "user id": 2280371372,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@teenqueenhemmo alll in our prayers",
+            "user id": 1348875085,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

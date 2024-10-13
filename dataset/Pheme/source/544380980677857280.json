@@ -1,0 +1,144 @@
+{
+    "source": {
+        "content": "Five Hostages Escape Sydney Cafe Siege — Live Updates From @BuzzFeedOz http://t.co/LP6ciOWv59 http://t.co/XC6fJKCg4S",
+        "user id": 5695632,
+        "tweet id": "544380980677857280",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeed @BuzzFeedOz poor people. So terrifying.",
+            "user id": 43840492,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeed @BuzzFeedOz this is actually a very good compilation.",
+            "user id": 144042156,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeed @BuzzFeedOz #HandsUpDontShoot",
+            "user id": 2742828972,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@BuzzFeed: Five Hostages Escape Sydney Cafe Siege — Live Updates From @BuzzFeedOz http://t.co/VYucLWlRFJ http://t.co/s93jkR5acE” @KatCorny",
+            "user id": 473190968,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@mirandadollface well shit",
+            "user id": 519465808,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@BuzzFeed: Five Hostages Escape Sydney Cafe Siege — Live Updates From @BuzzFeedOz http://t.co/Bbwg3HUw44 http://t.co/1e8HGLj4rn”",
+            "user id": 2571780841,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Some profile picture that's going to be @BuzzFeed @BuzzFeedOz",
+            "user id": 97285519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BuzzFeed hate too see when a real terrorist attack occurs here in Australia,\nOver the top, It's not 9/11 you idiots",
+            "user id": 62420909,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9
+            ],
+            "content": "@KatCorny I promised chippie you'd come home safe.",
+            "user id": 473190968,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@mirandadollface I'll come back in one piece. (probably)",
+            "user id": 519465808,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

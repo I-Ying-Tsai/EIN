@@ -1,0 +1,166 @@
+{
+    "source": {
+        "content": "A witness describes the use of tear gas tonight. #Ferguson http://t.co/B6vi7M10ck",
+        "user id": 14090948,
+        "tweet id": "499439550029381632",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench video is unavailable",
+            "user id": 2354103552,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@AntonioFrench not playing for me.",
+            "user id": 161957204,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                10
+            ],
+            "content": "@adamleopard12 @AntonioFrench @EurekaCal @MyNameIsDelont3 You have to watch it on Youtube to see the video so click the link.",
+            "user id": 782708185,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Don't rub it into your skin and especially your eyes, it makes it worse.",
+            "user id": 2677864122,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench police scanner just reported another police shooting. Police advised to be on \"high alert\"",
+            "user id": 2723303856,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench for every action there's an equal an opposite'reaction'This chaos needs to be under control and sometimes this has to be done",
+            "user id": 2740472051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench  This is unreal. The police is crazy as hell.",
+            "user id": 237606548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench  Police just see any black man walk by and it's....get on the ground...you're dead!",
+            "user id": 237606548,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench https://t.co/BdIdMLkVgs",
+            "user id": 377440844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@antoniofrench check this out. trying to catalogue some of the best #ferguson coverage (including yours!): http://t.co/SENVaaI1uz",
+            "user id": 1191321,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                11
+            ],
+            "content": "@Myke612 @adamleopard12 @AntonioFrench @EurekaCal oh thanks",
+            "user id": 2354103552,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "content": "@MyNameIsDelont3 no prob.",
+            "user id": 782708185,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

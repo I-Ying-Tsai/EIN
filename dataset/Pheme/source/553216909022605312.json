@@ -1,0 +1,138 @@
+{
+    "source": {
+        "content": "Police seen in Longpont, a village near to a petrol station reportedly robbed by the two #CharlieHebdo suspects. http://t.co/cQsXx2q9PT",
+        "user id": 2190056023,
+        "tweet id": "553216909022605312",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@bbcos This is getting ridiculous - are there NEVER police personnel there? Send us news, not #excitoes @ougasam",
+            "user id": 19792878,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@BBCOS Keep doing Mossad/CIA work by churning out fake news.",
+            "user id": 612879485,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "content": "@AllanHuse @BBCOS In your own little world.",
+            "user id": 2781956756,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCWorld Baby photo contest are involved, you voted offline publications Tweet\nthank you\nhttp://t.co/Cf3z3jOxyx",
+            "user id": 2961649574,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCWorld I pray for a peaceful world and positive energy to all.",
+            "user id": 2368270256,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @BBCWorld http://t.co/iHrB3NLi0U",
+            "user id": 220731517,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS @ #charliehebdo\nMost documented false flag shooter\nhttp://t.co/B5my3mLkul\n Secret service Intelligence\nhttps://t.co/oxXVe3WcaR",
+            "user id": 538765846,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS Get those suckers!",
+            "user id": 69032114,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCOS Stand in solidarity with Paris. Fight for free speech. #JeSuisCharlie #CharlieHebdo buy this t shirt now http://t.co/nUkWWXMoyl",
+            "user id": 1963662985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [],
+            "content": "@ClearSeer @BBCOS Really? Why no blood or mess from the officers head when shot at point blank?",
+            "user id": 612879485,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

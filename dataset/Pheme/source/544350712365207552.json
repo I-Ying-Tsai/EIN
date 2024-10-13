@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#BREAKING Reports two customers and an employee have escaped the #SydneySiege http://t.co/fSLeobzxHh",
+        "user id": 9235982,
+        "tweet id": "544350712365207552",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@dailytelegraph You're reporting a report? What's your source?",
+            "user id": 48586543,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@dailytelegraph here's to all the hostages getting safe passage on this day! @ChangeTip #SydneySeige",
+            "user id": 2371415304,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@dailytelegraph: #BREAKING Reports two customers and an employee have escaped the #SydneySiege http://t.co/tk39jmFHSL #2GB @2GB873",
+            "user id": 338015532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "source": {
+        "content": "#CharlieHebdo's lawyer says the magazine's editor-in-chief was killed in the attack. More on this developing story: http://t.co/ryZaVLR6mM",
+        "user id": 18424289,
+        "tweet id": "552813494345940992",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AJENews: #CharlieHebdo's lawyer says the magazine's editor-in-chief was killed in the attack. developing story: http://t.co/V2BwsCmb8F”",
+            "user id": 27715194,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews An attack on Charlie Hebdo is an attack on All journalist &amp; free press. Now more people will know about cartoons. Backfire!",
+            "user id": 28415140,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AJENews. How can someone justify killing innocent people in the name Of God?  Surely they are referring to a god.",
+            "user id": 83644445,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@akuaks @AJENews Very very easily it happens all the time, since people first came up with the idea of god/s it's been happening.",
+            "user id": 1949272500,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "Everyone should publish #ISIS spoofs. Criminals. “@AJENews #CharlieHebdo's ..editor-in-chief was killed in the attack http://t.co/AEqdW241aw",
+            "user id": 179085106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@ZackieAchmat @AJENews \n\n“je suis Charlie.",
+            "user id": 1377275815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AJENews @garretpustay Islam is a political death cult that uses religion for power and violence to hold onto it. ISLAM should be banned.",
+            "user id": 100482942,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,157 @@
+{
+    "source": {
+        "content": "Minute's silence at Guardian office for #CharlieHebdo http://t.co/H4FQcR33uy",
+        "user id": 15170194,
+        "tweet id": "553144889811402752",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ianprior so you took a photo instead of just observing it?",
+            "user id": 21114190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                5
+            ],
+            "content": "#JeSuisCharlie RT @ianprior: Minute's silence at Guardian office for #CharlieHebdo http://t.co/UPUz84sHhH",
+            "user id": 168828976,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "“@Claire_Phipps: #JeSuisCharlie RT @ianprior: Minute's silence at Guardian office for #CharlieHebdo http://t.co/jGtrGfQewY”",
+            "user id": 104865933,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": ".@Claire_Phipps @ianprior How about not censoring the cartoons when you publish them instead? *That* would be the brave, respectful thing.",
+            "user id": 48903,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@Claire_Phipps @ianprior Note that your readers can follow developments...#UK (and #Ireland ) on Sky 796 UPC 825 (still called Virgin in UK)",
+            "user id": 214134466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@Claire_Phipps @ianprior on #TV5MONDE",
+            "user id": 214134466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "If only they also left the CH cartoons uncropped RT @ianprior Minute's silence at @guardian office for #CharlieHebdo http://t.co/8CeMqd1cPo",
+            "user id": 18693863,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": ".@ianprior A minute's silence as a mark of respect and there you are taking photos? You couldn't just not for a minute? Shame on you.",
+            "user id": 14196790,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ianprior UN GRAND MERCI pour les familles des victimes..Ils voulaient mettre la France à genoux, ils l'ont mise debout. #JeSuisCharlie",
+            "user id": 2782265546,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@ianprior @jeffjarvis Publishing the cartoons would have been a batter tribute, cowards.",
+            "user id": 22403315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@ianprior Thank you !",
+            "user id": 1001874408,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@ianprior Long Lists of Terrorist attacks &amp; Rampage Killings: We Are Running Out Of Commemorative Silence https://t.co/U2BziiijNX",
+            "user id": 2791521870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

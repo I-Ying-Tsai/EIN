@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "Hostage-taker at kosher market in #Paris said to be killed. Mayor confirms 2 brothers killed at separate hostage-taking. #CharlieHebdo",
+        "user id": 19038934,
+        "tweet id": "553590529548886016",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts win win all around!",
+            "user id": 27285496,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts The Kouachi brothers are with their Virgin goats now.",
+            "user id": 587807917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts hope the hostages and police are ok now.",
+            "user id": 96832045,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@CBCAlerts Too bad that they won't face justice.",
+            "user id": 2158900458,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@C_G_Walker @CBCAlerts I disagree, they won't be able to preform Islamic Jihad Terrorist Attacks anymore.",
+            "user id": 187081193,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts",
+            "user id": 732910694,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Information on state of hostages?",
+            "user id": 424418661,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts http://t.co/rlzJjCmRJm",
+            "user id": 732910694,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts @CBCNews Excuse my naivety but what was the point of all of this?#hostagetakers killed",
+            "user id": 2175074641,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Thank God it's finally over. #JeSuisCharlie #NousSommesCharlie",
+            "user id": 66647950,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@CBCAlerts Would the 2 brothers be linked to the Islamic Jihad attackers in Paris or are they unrelated to Islamic Jihad terrorism?",
+            "user id": 187081193,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

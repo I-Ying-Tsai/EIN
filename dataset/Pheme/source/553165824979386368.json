@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "This is how France’s top sports newspaper covered the #CharlieHebdo killings. http://t.co/hC19VeONRS http://t.co/6yV9V5nDT9",
+        "user id": 14940354,
+        "tweet id": "553165824979386368",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim Freedom of speech !!!!!  http://t.co/rTuk7BdFEw",
+            "user id": 2403111176,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nycjim  so not funny !!",
+            "user id": 2383954135,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

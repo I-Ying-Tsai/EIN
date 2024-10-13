@@ -1,0 +1,1559 @@
+{
+    "source": {
+        "content": "北京地铁2号线有人卧轨！",
+        "user id": 2350609007,
+        "tweet id": "3486168438022990",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                3,
+                7,
+                8,
+                89
+            ],
+            "content": "[吃驚]这个社会啊 ..现在如何了?",
+            "user id": 1404921724,
+            "user name": "Vlann_VE",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                12
+            ],
+            "content": "[吃惊]",
+            "user id": 1422601685,
+            "user name": "寻岸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "这样子睡估计不是想死，是脚不想要了而已。",
+            "user id": 1680533204,
+            "user name": "FANJASON",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "刚刚吗？吓人啊。",
+            "user id": 1729786477,
+            "user name": "魔兽璇",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "这是需要多大的勇气啊",
+            "user id": 2569464550,
+            "user name": "番茄冰冰冰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "我靠 这得完蛋了吧",
+            "user id": 1643072545,
+            "user name": "VINCENTQS",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "content": "真心想死的话只需要脚踏地铁两条轨道就行了",
+            "user id": 2675727232,
+            "user name": "奥拓凯德",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "[吃惊]",
+            "user id": 1325713782,
+            "user name": "wnaaaa",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [
+                123
+            ],
+            "content": "现实生活太压抑了[可怜]，我也想卧一个",
+            "user id": 2782969222,
+            "user name": "郑胖子007",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "吓人,想救都来不及,为何不装屏蔽门",
+            "user id": 1858393972,
+            "user name": "敖敏辉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [
+                13
+            ],
+            "content": "真佩服这个时候还敢拍照的人，要是我就转身跑开，没胆看[衰]",
+            "user id": 2803995363,
+            "user name": "露西娅ikc",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "人没事就行。",
+            "user id": 2323302315,
+            "user name": "110_法律咨询网",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [],
+            "content": "[吃惊]我没力气救人，也没胆量围观！",
+            "user id": 1712518700,
+            "user name": "MyLadies盛开微光的洋仔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [
+                18
+            ],
+            "content": "什么想不开的啊，多疼啊",
+            "user id": 1413750882,
+            "user name": "夏日玩雪",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                32,
+                34
+            ],
+            "content": "上海聪明，安装屏蔽门！",
+            "user id": 1678844014,
+            "user name": "李克Mac",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                26,
+                37
+            ],
+            "content": "非常明显不是北京，又是造谣贴",
+            "user id": 1283442002,
+            "user name": "阿呆小猪猪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "content": "别放屁了。。这你妈不是地铁2号线。。",
+            "user id": 1258374883,
+            "user name": "李晨与黑白键",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "content": "非常明显不是北京的二号线 @平安北京，有人在造谣",
+            "user id": 1904986833,
+            "user name": "爱新觉罗课代表v",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": 13,
+            "children": [],
+            "content": "1号线、2号线、八通线候车的地方连个安全护栏都没有，我是从来不敢站在最前面，怕来车了后面一拥，站不稳掉下去，被压死了人家还说我要自杀[衰]",
+            "user id": 2803995363,
+            "user name": "露西娅ikc",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "content": "很想知道。。shi了没",
+            "user id": 2873489774,
+            "user name": "净罪之颜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "content": "皮皮时光机+上海地铁=炒作，一帮SB。",
+            "user id": 1794014651,
+            "user name": "Te_Lee",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "content": "还特么用皮皮时光机定时发，真特么能个儿",
+            "user id": 1098456440,
+            "user name": "Moon龐",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "这人不知道有没有事、、、",
+            "user id": 2971977470,
+            "user name": "瘦西蒙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                75
+            ],
+            "content": "天啊，不知道这人现在如何了？前些天有篇分析的文章说，实际上很多人都不是主动想卧轨，而是被电流击昏了……",
+            "user id": 1076016392,
+            "user name": "克克章",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 21,
+            "children": [
+                49
+            ],
+            "content": "这发出来也都晚了吧",
+            "user id": 1674394172,
+            "user name": "无敌璐璐",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                33
+            ],
+            "content": ".............. 后来呢...................",
+            "user id": 1732013401,
+            "user name": "anyo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 15,
+            "children": [],
+            "content": "哥们儿躺得还挺舒服",
+            "user id": 1435695853,
+            "user name": "快乐小猪蓓蓓",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [
+                30
+            ],
+            "content": "还好吗？",
+            "user id": 1851632981,
+            "user name": "哈哈哈哈哈蛤哈哈哈哈哈哈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "content": "这是为了迎接XX大吗？？地铁还是装屏蔽门的好啊",
+            "user id": 1749010890,
+            "user name": "jevonscoffee",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "可以死的方式有很多，为什么不拿这条命去为人民服务呢？你也可以成为英雄的。",
+            "user id": 1697207704,
+            "user name": "苏西坡V",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": 27,
+            "children": [
+                53
+            ],
+            "content": "",
+            "user id": 1720090823,
+            "user name": "飞鸟不知倦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "车头根本不一样！确定是2号线？确定是北京？",
+            "user id": 2257168495,
+            "user name": "我有宝贝闺女丶砚乔",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": 14,
+            "children": [],
+            "content": "幸好列车刹住了",
+            "user id": 1863682143,
+            "user name": "东方网黄佳",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 33,
+            "parent": 25,
+            "children": [],
+            "content": "这。。",
+            "user id": 2090599212,
+            "user name": "早饭吃凉面",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": 14,
+            "children": [],
+            "content": "惊！",
+            "user id": 1847199951,
+            "user name": "Frank阿斌",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "content": "最新消息？",
+            "user id": 1923351603,
+            "user name": "江苏卫视蒋勇",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "content": "关注二号线情况",
+            "user id": 2705907493,
+            "user name": "搜狐V新闻",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": 15,
+            "children": [],
+            "content": "非常明显不是北京,难道是上海吗？",
+            "user id": 2283980021,
+            "user name": "w浮傷年華",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1894957895,
+            "user name": "miss-miss熊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [
+                55
+            ],
+            "content": "[蜡烛]",
+            "user id": 1863457823,
+            "user name": "喵呜喵呜005",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "content": "这样死不了痛苦一辈子啊!我住北京磁器口火车道边见过一个女孩卧轨自杀的头部切断像一个模特的头部滚在铁道边,大腿处整齐切断.可惜了!",
+            "user id": 1662350927,
+            "user name": "张荣奎",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "content": "造谣！",
+            "user id": 1238848515,
+            "user name": "河东四爷",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                47,
+                48,
+                51
+            ],
+            "content": "转发微博",
+            "user id": 1258817754,
+            "user name": "期待你涅槃重生的那一天",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊]最后怎么样呢？",
+            "user id": 1752708971,
+            "user name": "Ann-song",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "content": "偶滴妈诶",
+            "user id": 2064738084,
+            "user name": "NordicArchitect",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [
+                63,
+                80,
+                119
+            ],
+            "content": "不是雍和宫站，根本不像",
+            "user id": 2466399673,
+            "user name": "博学调皮小胖子_北京",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [
+                50,
+                52
+            ],
+            "content": "能不造谣吗！！！北京地铁二号线，是这种车型吗？[怒]@微博小秘书",
+            "user id": 1464851883,
+            "user name": "涛xiao宝是没溜儿青年",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": 42,
+            "children": [],
+            "content": "卧轨。找个没人的地方死去多好。",
+            "user id": 2765361201,
+            "user name": "莫愁莫愁要开森",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": 42,
+            "children": [],
+            "content": "肯定不是北京的",
+            "user id": 2199680805,
+            "user name": "北京小才",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 49,
+            "parent": 24,
+            "children": [],
+            "content": "这。。[衰]",
+            "user id": 1880227922,
+            "user name": "Cri_Manny曼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 50,
+            "parent": 46,
+            "children": [],
+            "content": "皮皮时光机发的，2333333",
+            "user id": 1700369107,
+            "user name": "Mizunoki",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 51,
+            "parent": 42,
+            "children": [],
+            "content": "特瞧不起这样的，纯粹耽误别人",
+            "user id": 1089262321,
+            "user name": "bulldog_iniu",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 52,
+            "parent": 46,
+            "children": [
+                78,
+                122
+            ],
+            "content": "没电死？",
+            "user id": 1970447317,
+            "user name": "大北京的徐家少爷",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 53,
+            "parent": 30,
+            "children": [],
+            "content": "这是要维权吗？又有什么不公？这可太危险了！",
+            "user id": 2865416162,
+            "user name": "新生堂果果",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 54,
+            "parent": -1,
+            "children": [
+                107
+            ],
+            "content": "造谣死一户口本儿~~",
+            "user id": 1911870643,
+            "user name": "不二杀手KIRA",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 55,
+            "parent": 39,
+            "children": [
+                56,
+                57
+            ],
+            "content": "[吃惊][吃惊]",
+            "user id": 2195921255,
+            "user name": "婵猫YONI",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 56,
+            "parent": 55,
+            "children": [
+                58,
+                61,
+                70,
+                71,
+                76,
+                82,
+                90
+            ],
+            "content": "",
+            "user id": 2354166213,
+            "user name": "Harry2354166213-抵制玉林狗肉节",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 57,
+            "parent": 55,
+            "children": [],
+            "content": "呃",
+            "user id": 2438869603,
+            "user name": "坏男人隐私",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 58,
+            "parent": 56,
+            "children": [
+                59
+            ],
+            "content": "[吃惊]",
+            "user id": 2391694032,
+            "user name": "京妞儿琬丽",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 59,
+            "parent": 58,
+            "children": [],
+            "content": "要死死远一点嘛",
+            "user id": 1572945224,
+            "user name": "可惜我是水瓶zuo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [
+                64,
+                65,
+                94
+            ],
+            "content": "公民，请珍惜你自己的生命吧！[吃惊][思考][围观][微风]",
+            "user id": 1891475345,
+            "user name": "meinaidong",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 61,
+            "parent": 56,
+            "children": [],
+            "content": "我说1号线怎么没车呢",
+            "user id": 1142114105,
+            "user name": "愈漫愈美丽",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 62,
+            "parent": -1,
+            "children": [],
+            "content": "[晕]这车是北京地铁吗？怎么看有点象是上海地铁呀呀。",
+            "user id": 1863457823,
+            "user name": "喵呜喵呜005",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 63,
+            "parent": 45,
+            "children": [
+                66
+            ],
+            "content": "[吃惊]",
+            "user id": 1068834971,
+            "user name": "我是陈思霖",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 64,
+            "parent": 60,
+            "children": [],
+            "content": "珍惜生命[吃惊]",
+            "user id": 1149501395,
+            "user name": "君馨6648",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 65,
+            "parent": 60,
+            "children": [],
+            "content": "那铁定死了.....",
+            "user id": 1877656335,
+            "user name": "已婚的闹心闹死的",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 66,
+            "parent": 63,
+            "children": [
+                67
+            ],
+            "content": "自助锯腿?[吃惊]",
+            "user id": 1988591643,
+            "user name": "密史特龙累",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 67,
+            "parent": 66,
+            "children": [],
+            "content": "[囧]",
+            "user id": 1268865523,
+            "user name": "嘉人网编辑Faith_Song",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 68,
+            "parent": -1,
+            "children": [],
+            "content": "这不是北京地铁吧，北京2号线不这样",
+            "user id": 2712665087,
+            "user name": "2014转运",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [
+                74,
+                97
+            ],
+            "content": "转发微博",
+            "user id": 2683676563,
+            "user name": "新新新新新新新的大迁仔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 70,
+            "parent": 56,
+            "children": [],
+            "content": "这么近了还没停下？人呢？",
+            "user id": 1601306021,
+            "user name": "关爱流浪动物-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 71,
+            "parent": 56,
+            "children": [],
+            "content": "牛逼",
+            "user id": 2516217695,
+            "user name": "白色的顺大大大大大",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 72,
+            "parent": -1,
+            "children": [],
+            "content": "我艹艹艹艹艹艹艹艹艹艹艹艹艹艹艹艹",
+            "user id": 1349739301,
+            "user name": "刘可达",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 73,
+            "parent": -1,
+            "children": [
+                84
+            ],
+            "content": "[吃惊]停下了吗？",
+            "user id": 1821459487,
+            "user name": "抽屉新热榜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 74,
+            "parent": 69,
+            "children": [
+                83
+            ],
+            "content": "",
+            "user id": 1819315697,
+            "user name": "南娜护肤aa妞妞5201413",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 75,
+            "parent": 23,
+            "children": [
+                81
+            ],
+            "content": "我晕，太吓人了。",
+            "user id": 1756762885,
+            "user name": "Beijing_Vicky",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 76,
+            "parent": 56,
+            "children": [
+                77
+            ],
+            "content": "[疑问]",
+            "user id": 1435913515,
+            "user name": "Leon__爱谁谁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 77,
+            "parent": 76,
+            "children": [
+                85
+            ],
+            "content": "这是啥情况[吃惊]",
+            "user id": 1685477784,
+            "user name": "1039我爱姚健",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 78,
+            "parent": 52,
+            "children": [],
+            "content": "不是北京吧",
+            "user id": 1868312210,
+            "user name": "hum_xper",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 79,
+            "parent": -1,
+            "children": [],
+            "content": "不要停车，直接压死，这么想死就送他一程好了~",
+            "user id": 1577378007,
+            "user name": "00清蒸鱼00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 80,
+            "parent": 45,
+            "children": [
+                91,
+                126
+            ],
+            "content": "卧完了你正好给他整整容。",
+            "user id": 2191497375,
+            "user name": "二哋子",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 81,
+            "parent": 75,
+            "children": [],
+            "content": "2号线没有玻璃屏障，每次乘坐都害怕被人挤下去",
+            "user id": 2272633490,
+            "user name": "李超-NoSQL",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 82,
+            "parent": 56,
+            "children": [
+                86,
+                87
+            ],
+            "content": "",
+            "user id": 1369125950,
+            "user name": "KuKu_陈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 83,
+            "parent": 74,
+            "children": [],
+            "content": "这是肿么回事",
+            "user id": 2256852253,
+            "user name": "麦子爷爷kk",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 84,
+            "parent": 73,
+            "children": [
+                93
+            ],
+            "content": "[吃惊]",
+            "user id": 1409092175,
+            "user name": "Horace_zhao",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 85,
+            "parent": 77,
+            "children": [],
+            "content": "好霸气的姿势啊 哈哈",
+            "user id": 1702217455,
+            "user name": "亲你小嘴TOK",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 86,
+            "parent": 82,
+            "children": [
+                88
+            ],
+            "content": "",
+            "user id": 1246553042,
+            "user name": "超级无敌大喜乐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 87,
+            "parent": 82,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 1289084380,
+            "user name": "LuLu_萌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 88,
+            "parent": 86,
+            "children": [],
+            "content": "这是2号线？？？",
+            "user id": 1217375462,
+            "user name": "那敢情美了",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 89,
+            "parent": 0,
+            "children": [],
+            "content": "额、、、之前在北京的时候每次做地铁都想会不会有人不小心掉下去或者卧轨神马的、结果===",
+            "user id": 2392149575,
+            "user name": "小小泡沫沫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 90,
+            "parent": 56,
+            "children": [],
+            "content": "后续如何？",
+            "user id": 1962190803,
+            "user name": "魔迪儿_NoMaltreat",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 91,
+            "parent": 80,
+            "children": [],
+            "content": "求轧完的照片",
+            "user id": 1972602845,
+            "user name": "还是DK",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 92,
+            "parent": -1,
+            "children": [
+                118
+            ],
+            "content": "转发微博",
+            "user id": 1870345285,
+            "user name": "郭-旭",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 93,
+            "parent": 84,
+            "children": [
+                98
+            ],
+            "content": "这人最后咋样呢？[疑问]",
+            "user id": 1418052043,
+            "user name": "爱yoyo一万年",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 94,
+            "parent": 60,
+            "children": [
+                99
+            ],
+            "content": "是北京，时间不详。[吃惊][话筒]",
+            "user id": 1891475345,
+            "user name": "meinaidong",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 95,
+            "parent": -1,
+            "children": [],
+            "content": "什么情况~",
+            "user id": 1945235252,
+            "user name": "滇藏线上的蚂蚁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 96,
+            "parent": -1,
+            "children": [],
+            "content": "sin..........",
+            "user id": 1843007521,
+            "user name": "诱导主任",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 97,
+            "parent": 69,
+            "children": [],
+            "content": "服毒自杀 比这个快！",
+            "user id": 1551567654,
+            "user name": "三槐堂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 98,
+            "parent": 93,
+            "children": [
+                106,
+                111,
+                112,
+                113,
+                117
+            ],
+            "content": "[吃惊]",
+            "user id": 1414749901,
+            "user name": "一笑倾城小微微",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 99,
+            "parent": 94,
+            "children": [
+                102,
+                109
+            ],
+            "content": "",
+            "user id": 1950863425,
+            "user name": "快乐的猪-星哥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 100,
+            "parent": -1,
+            "children": [],
+            "content": "怎么了，这是！？",
+            "user id": 2399060461,
+            "user name": "moreandmore111",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 101,
+            "parent": -1,
+            "children": [
+                105
+            ],
+            "content": "明明不是北京，为什么非要说是北京呢？",
+            "user id": 1709937700,
+            "user name": "根儿在北京-牛震",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 102,
+            "parent": 99,
+            "children": [],
+            "content": "救她时间不够了吗？[吃惊]",
+            "user id": 1915051133,
+            "user name": "晨萌园艺",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 103,
+            "parent": -1,
+            "children": [
+                104
+            ],
+            "content": "这是北京吗？什么时候换车了",
+            "user id": 1159391450,
+            "user name": "东城四爷",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 104,
+            "parent": 103,
+            "children": [],
+            "content": "？？惊叹",
+            "user id": 1841556297,
+            "user name": "峨嵋散仙儿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 105,
+            "parent": 101,
+            "children": [],
+            "content": "造谣者死全家！[鄙视]",
+            "user id": 1903787705,
+            "user name": "牤牛屯二柱子",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 106,
+            "parent": 98,
+            "children": [],
+            "content": "有什么事至于这么想不开呢",
+            "user id": 1887216541,
+            "user name": "开心懒企鹅",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 107,
+            "parent": 54,
+            "children": [],
+            "content": "压了吗？",
+            "user id": 1883907013,
+            "user name": "北纬-七-度",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 108,
+            "parent": -1,
+            "children": [],
+            "content": "这是桑害好伐！",
+            "user id": 1971319261,
+            "user name": "張旭東0403",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 109,
+            "parent": 99,
+            "children": [],
+            "content": "我的小心脏啊！彭彭的",
+            "user id": 2010510351,
+            "user name": "VictoriasSecretSLK",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 110,
+            "parent": -1,
+            "children": [],
+            "content": "造谣真TM可耻http://weibo.com/2534416830/yA8mszeH9",
+            "user id": 1829441567,
+            "user name": "Arsenal_Kun",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 111,
+            "parent": 98,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 1083429141,
+            "user name": "浑身脑袋疼的瓶子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 112,
+            "parent": 98,
+            "children": [],
+            "content": "[吃惊][吃惊]",
+            "user id": 1405899457,
+            "user name": "super大洋洋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 113,
+            "parent": 98,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 1064357292,
+            "user name": "八卦快递员",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 114,
+            "parent": -1,
+            "children": [
+                115
+            ],
+            "content": "据说是上海某火车站，一位老人不慎摔下铁路。",
+            "user id": 2186132960,
+            "user name": "秋收正午时",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 115,
+            "parent": 114,
+            "children": [
+                116
+            ],
+            "content": "人怎么样了？",
+            "user id": 1941557454,
+            "user name": "singelily",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 116,
+            "parent": 115,
+            "children": [],
+            "content": "还没有消息呢。",
+            "user id": 2186132960,
+            "user name": "秋收正午时",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 117,
+            "parent": 98,
+            "children": [],
+            "content": "电车卧轨？怕是得先电死吧？！",
+            "user id": 2827493554,
+            "user name": "刘胖贼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 118,
+            "parent": 92,
+            "children": [],
+            "content": "想不开的人真多啊",
+            "user id": 1900787751,
+            "user name": "郝瑞冬",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 119,
+            "parent": 45,
+            "children": [],
+            "content": "看这情形，貌似不像卧轨，倒像是截腿！",
+            "user id": 1930875621,
+            "user name": "硕硕-志龙家小表妹",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 120,
+            "parent": -1,
+            "children": [],
+            "content": "造谣秀智商！",
+            "user id": 1493106691,
+            "user name": "山樱树8038",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 121,
+            "parent": -1,
+            "children": [],
+            "content": "好吓人！",
+            "user id": 2191004074,
+            "user name": "Minnie小九",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 122,
+            "parent": 52,
+            "children": [],
+            "content": "明显就不是北京地铁二号线，造谣可耻",
+            "user id": 1781259853,
+            "user name": "bianjingreat",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 123,
+            "parent": 8,
+            "children": [
+                124,
+                125
+            ],
+            "content": "[汗]滚特么淡，你个小屁崽子卧什么卧！！！你才经了多少风浪生死啊，自残的都是懦夫，活着的才是勇者，而且要笑着活，大声的笑！！！懂bie，就这么...啊哈哈哈哈哈哈哈哈",
+            "user id": 1880594380,
+            "user name": "禍醢_Dean",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 124,
+            "parent": 123,
+            "children": [],
+            "content": "呜呜呜呜呜呜呜",
+            "user id": 2782969222,
+            "user name": "郑胖子007",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 125,
+            "parent": 123,
+            "children": [],
+            "content": "有理！悲催地死去不如疯癫地活着！[嘻嘻]",
+            "user id": 2020532443,
+            "user name": "大大卷_是高速IE",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 126,
+            "parent": 80,
+            "children": [],
+            "content": "北京地铁什么时候变这么破了？",
+            "user id": 1851260491,
+            "user name": "820-927-1222",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 30,
+            "state_1": 19
+        },
+        "2-hop": {
+            "state_0": 22,
+            "state_1": 13
+        },
+        "3-hop": {
+            "state_0": 8,
+            "state_1": 9
+        },
+        "4-hop": {
+            "state_0": 9,
+            "state_1": 5
+        },
+        "5-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

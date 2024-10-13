@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "A look at the cockpit-security measures that prevented Germanwings pilot from reentering: http://t.co/vRv13M66Ez http://t.co/CXROfyWrBH",
+        "user id": 16664681,
+        "tweet id": "581295422414680065",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes scary!",
+            "user id": 86457463,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes it is time to know your pilot's religion first before you board",
+            "user id": 1574277745,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@latimes 11/09 was a false flag. Dying for a false flag. crétins d américains.",
+            "user id": 2834121230,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

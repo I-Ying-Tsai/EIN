@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Last position Germanwings A320 via @flightradar24 http://t.co/kJ5F9vlNQs",
+        "user id": 95747671,
+        "tweet id": "580323152103911424",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@ReutersAero: Last position Germanwings A320 via @flightradar24 http://t.co/m0v2tuyos2”\n\nやはりアルプスに突っ込んでいますね。\n6700ftらしいので、ううむ。",
+            "user id": 157310916,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@ReutersAero: Last position Germanwings A320 via @flightradar24 http://t.co/wLPDJptkHw” ✈️",
+            "user id": 2339351,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersAero @KianiKress @flightradar24 6,800ft is extremely low.",
+            "user id": 158865228,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

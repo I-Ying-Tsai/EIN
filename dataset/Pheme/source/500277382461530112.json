@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "#Ferguson, Mo., police identify Darren Wilson as the officer who killed Michael Brown last week.",
+        "user id": 33391760,
+        "tweet id": "500277382461530112",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@alanblinder @nytimes no medals for Darren then .",
+            "user id": 568564628,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ". @alanblinder  charge w murder, #2nd degree, never work on a police force again . Investigate every officer on that force. Federal takeover",
+            "user id": 406665273,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@alanblinder You guys reported 18 days ago yesterday.",
+            "user id": 130736405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@alanblinder: #Ferguson, Mo., police identify Darren Wilson as the officer who killed Michael Brown last week.” @GermanC90 @luisred",
+            "user id": 2564576430,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@yoyeska I think at this point its useless to know his name. Things might b worse Cuz of the animosity against cops RN. Too much speculation",
+            "user id": 22857132,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@alanblinder @nytimes",
+            "user id": 24369639,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": ".@alanblinder @nytimes I knew it was him all along! Well, it's been fun. #caseclosed #showsover #Ferguson",
+            "user id": 2215138511,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@alanblinder @nytimes Michael Brown also identified as a person who was involved in a 'strong armed robbery' before the encounter.",
+            "user id": 1129989367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [],
+            "content": "@luisred I was just sharing cause what I posted before was wrong. Although that guy is a racist Ferguson PO.",
+            "user id": 2564576430,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

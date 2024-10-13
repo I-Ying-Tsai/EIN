@@ -1,0 +1,144 @@
+{
+    "source": {
+        "content": "It Turns Out Policing Is Better Than Occupying http://t.co/ZuSmhXf9To via @HuffPostPol #Ferguson #Leadership http://t.co/YxG9KVfnJH",
+        "user id": 53503202,
+        "tweet id": "500255282757632000",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@kharyp: Turns Out #PolicingIsBetter Than Occupying http://t.co/I1BKSJmlaV via @HuffPostPol #Ferguson #Leadership http://t.co/88LZscLVeM”",
+            "user id": 44618911,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@kharyp @HuffPostPol @Marmel  Amen!",
+            "user id": 44618911,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@kharyp @GailSimone @HuffPostPol LOL, who knew?",
+            "user id": 408483952,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@kharyp @HuffPostPol: HUGS are BETTER than TEAR GAS.",
+            "user id": 1431651026,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT@kharyp: Turns Out Policing Is Better Than Occupying http://t.co/bu9tNL0afM via @HuffPostPol #Ferguson #Leadership http://t.co/xIHo6mCJiV",
+            "user id": 1056718994,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@kharyp @GailSimone @HuffPostPol @Marmel such an inspiring image",
+            "user id": 63045652,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@kharyp @wessmith123 @HuffPostPol @Marmel will we now see police officers hugging thru neighborhood or is this a drama for tv",
+            "user id": 2312377620,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@kharyp Ty for this...not all cops are bad cops. My problem, today, is that many are taking these jobs, bkz they can't get another one.",
+            "user id": 1549231957,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@k8sietoo @kharyp  Good point.",
+            "user id": 111138246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@k8sietoo @kharyp \nWhy Oh Why do the Good Cops always feel they have protect the Bad Cops?!!!\n\nWHY?",
+            "user id": 47743735,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@kharyp @dsawyer @HuffPostPol Hugs trump hate. Talk beats tear gas. #Ferguson",
+            "user id": 1126811989,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

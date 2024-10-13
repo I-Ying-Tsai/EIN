@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "Tell @TheJusticeDept to rigorously investigate &amp; prosecute all #Ferguson police involved in execution of #MikeBrown http://t.co/Z6PmH1EBdX",
+        "user id": 27793335,
+        "tweet id": "499345023721537536",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ColorOfChange @TheJusticeDept https://t.co/ugxMqmISyM",
+            "user id": 377440844,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@ColorOfChange @corruptcopsTX @TheJusticeDept fuk the United States Justice Department I saw no proof of an execution there was no execution",
+            "user id": 34822048,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@martydrinksbeer oh, okay...you didn't see it, so it must not have happened.",
+            "user id": 1426406143,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@ColorOfChange @TherealTaraji @TheJusticeDept they are out of hand ! They just killed another innocent man in California . When will it end",
+            "user id": 23769962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@ColorOfChange @TherealTaraji @TheJusticeDept Police your own damn land Native adult fools!",
+            "user id": 2303905082,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@corruptcopsTX an execution? No I saw no execution and if you say you did your a freaking liar.",
+            "user id": 34822048,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [],
+            "content": "@corruptcopsTX aren't you an organization that wants the truth or are you just here to spread rumors innuendos and lies?",
+            "user id": 34822048,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@martydrinksbeer drinking early this morning are you?  Needing a little attention?",
+            "user id": 1426406143,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

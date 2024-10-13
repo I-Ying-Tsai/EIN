@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Breaking: Shots were fired at three separate locations in Ottawa, say Ottawa police  http://t.co/64ryfqadX1",
+        "user id": 3108351,
+        "tweet id": "524961362448240642",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ I THINK POWER STRUGGLE,BETWEEN GENERALS/ARMY SOLDIERS,GET ANGRY QUICK",
+            "user id": 426453747,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ question Drake !?!",
+            "user id": 135394878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ #Absent2032 is a story about a global pandemic, mandatory vaccines,1st Grade at Freedom Elementary http://t.co/2Nrl9PouCo",
+            "user id": 2795931064,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

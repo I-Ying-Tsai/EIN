@@ -1,0 +1,932 @@
+{
+    "source": {
+        "content": "网传最恐怖的新闻。严重求证！",
+        "user id": 1686766147,
+        "tweet id": "3564960288706640",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                5,
+                7,
+                8,
+                11,
+                12,
+                13,
+                14,
+                15,
+                17,
+                20,
+                23,
+                24,
+                26,
+                29,
+                32,
+                33,
+                35,
+                37,
+                38,
+                40,
+                42,
+                50,
+                55,
+                72
+            ],
+            "content": "实在是有点骇人听闻，极不可能，跟死畜油比，这个造价太高了。",
+            "user id": 1867099473,
+            "user name": "张洲",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                22,
+                39
+            ],
+            "content": "啥？？？不可能吧？？？？？？",
+            "user id": 2165340353,
+            "user name": "徐莹-二世",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 2796505993,
+            "user name": "黔山鹰",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                9
+            ],
+            "content": "我想尝尝！！！",
+            "user id": 1930312843,
+            "user name": "阿斯猴",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "[生病]",
+            "user id": 1679256284,
+            "user name": "-热包子-",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [],
+            "content": "听过广西柳州前两年就有过尸油流入早点市场的说法",
+            "user id": 1722234652,
+            "user name": "半人马的Panda",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "真的假的??/卧槽...",
+            "user id": 1202150843,
+            "user name": "Sith_v",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [],
+            "content": "扯几巴蛋~知道火葬厂的焚化炉的炉温是多少度吗？暂不吝这个，烤羊肉串总见过吧？把肥膘搁火上是什么状况都看的见吧？拿尸体熬油得用锅。",
+            "user id": 1401862410,
+            "user name": "阳光牛三斤",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 0,
+            "children": [
+                60,
+                70
+            ],
+            "content": "[吐][吐][吐][吐]",
+            "user id": 2203020420,
+            "user name": "董Carolyn",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 3,
+            "children": [
+                21,
+                25
+            ],
+            "content": "[吃驚][吐]",
+            "user id": 2240034952,
+            "user name": "Helen_海倫海",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                28,
+                48
+            ],
+            "content": "表吓人",
+            "user id": 2176920252,
+            "user name": "大梁-",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 0,
+            "children": [],
+            "content": "太扯谈了吧？这么昂贵的估计特供了，P民无缘了！[吐]",
+            "user id": 2099787681,
+            "user name": "张大妞她爸",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 0,
+            "children": [],
+            "content": "这个绝对不靠谱，唯恐天下不乱[愤怒]",
+            "user id": 2896458145,
+            "user name": "笨鸟_要快飞",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 0,
+            "children": [
+                16
+            ],
+            "content": "绝不可能，800度以上高温所有油脂都会变成焦炭",
+            "user id": 3107170707,
+            "user name": "林傻X五世",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 0,
+            "children": [],
+            "content": "难怪如今人种突变[悲催]",
+            "user id": 1241851643,
+            "user name": "东野曼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 0,
+            "children": [],
+            "content": "妈哟",
+            "user id": 1748049604,
+            "user name": "高举自由",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [],
+            "content": "八十年代也有谣言说月饼是尸油做的……呵呵",
+            "user id": 2159577662,
+            "user name": "古道Block5",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 0,
+            "children": [],
+            "content": "[吃惊][衰][吐]",
+            "user id": 2115726940,
+            "user name": "腦子糊了",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "传说南方某市",
+            "user id": 1359625241,
+            "user name": "焦点坊",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                56
+            ],
+            "content": "半夜三更哈紧道怪格。",
+            "user id": 1466550980,
+            "user name": "图说诸暨",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": 0,
+            "children": [
+                27
+            ],
+            "content": "恐怖片。",
+            "user id": 1236556291,
+            "user name": "一支江南铁笛",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": 9,
+            "children": [
+                34
+            ],
+            "content": "放他妈的狗屁！",
+            "user id": 1842225921,
+            "user name": "魔都310土匪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 22,
+            "parent": 1,
+            "children": [],
+            "content": "[吃惊][吃惊]",
+            "user id": 1218957257,
+            "user name": "心若在_6658",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 23,
+            "parent": 0,
+            "children": [],
+            "content": " @比猪还笨740 日哦",
+            "user id": 2951065975,
+            "user name": "金爸爸_",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 24,
+            "parent": 0,
+            "children": [],
+            "content": "这可能吗？[吃惊]",
+            "user id": 2469211764,
+            "user name": "味-道清",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": 9,
+            "children": [],
+            "content": "[吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊]",
+            "user id": 1846144924,
+            "user name": "美人咪咪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": 0,
+            "children": [],
+            "content": "MD 求验证~ 这个太TMD恶心了",
+            "user id": 1823313894,
+            "user name": "D___C",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 27,
+            "parent": 20,
+            "children": [],
+            "content": "严重求证！",
+            "user id": 1284099170,
+            "user name": "光头疾风",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 28,
+            "parent": 10,
+            "children": [],
+            "content": "[衰]",
+            "user id": 2567502483,
+            "user name": "骑友网老a",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 29,
+            "parent": 0,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1839842477,
+            "user name": "妄语浆糊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "content": "它们在考验我们想象力的最高极限！ [围观]",
+            "user id": 3214404662,
+            "user name": "公倔先生",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊][吃惊][吃惊][吐][吐][吐][吐][吐][吐]",
+            "user id": 1890886473,
+            "user name": "我是大刘啊",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": 0,
+            "children": [],
+            "content": "去年就辟谣过的谣言，又来了。。。莫非觉得去年没成气候，今年卷土重来？",
+            "user id": 1734420834,
+            "user name": "I我不是流氓",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 33,
+            "parent": 0,
+            "children": [],
+            "content": "太恐怖了[抓狂]",
+            "user id": 2281479662,
+            "user name": "都市末班车的微博",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": 21,
+            "children": [
+                44
+            ],
+            "content": "考验智商的时刻到了",
+            "user id": 1043666677,
+            "user name": "kds-发条天使",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 35,
+            "parent": 0,
+            "children": [
+                36,
+                41,
+                69
+            ],
+            "content": "好歹也是油啊",
+            "user id": 2311501687,
+            "user name": "疯癫的唐寅",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [],
+            "content": "",
+            "user id": 2957670401,
+            "user name": "眼镜小飞2957670401",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 37,
+            "parent": 0,
+            "children": [
+                57
+            ],
+            "content": "沃3G啊。。。",
+            "user id": 1694472113,
+            "user name": "有本事来和我决斗啊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": 0,
+            "children": [],
+            "content": "那个北京女医生报的料很隐晦是不是就说的这个",
+            "user id": 1785432924,
+            "user name": "大妈有颗少女心_yi",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 39,
+            "parent": 1,
+            "children": [],
+            "content": "人肉叉烧包?[伤心][蜡烛]",
+            "user id": 1909440667,
+            "user name": "无座doner在路上",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 40,
+            "parent": 0,
+            "children": [
+                64
+            ],
+            "content": "假如，假如，假如真有其事，只能说明这个国度已经被诅咒了。求辟谣。[抓狂]",
+            "user id": 2489339940,
+            "user name": "后知后觉的jane",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 41,
+            "parent": 35,
+            "children": [],
+            "content": "听说过，南方某地",
+            "user id": 2108514300,
+            "user name": "苦逼锅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 42,
+            "parent": 0,
+            "children": [],
+            "content": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!??????????????????????????????",
+            "user id": 1416475821,
+            "user name": "六毛66",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "content": "同求证！@乐观的大智 @聂芒种 老聂你常在外吃，小心点！你说你近年来钻研八卦风水啥的，是不是被迷怔了？",
+            "user id": 2041471351,
+            "user name": "盎然小妖",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": 34,
+            "children": [
+                45,
+                52
+            ],
+            "content": "还想怎样恶心人啊[抓狂]",
+            "user id": 28092308,
+            "user name": "平淡的静儿",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [
+                71
+            ],
+            "content": "不会吧[抓狂][抓狂][衰]",
+            "user id": 3060296465,
+            "user name": "麻小杀手",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [
+                47,
+                49
+            ],
+            "content": "长脑子分析分析好不好？你可以弄块猪肉烧下试试不就知道了，还求什么证！",
+            "user id": 1706277297,
+            "user name": "腾灵",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": 46,
+            "children": [],
+            "content": "[偷笑]",
+            "user id": 1426773210,
+            "user name": "海腚",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": 10,
+            "children": [],
+            "content": "这也太恶心了[吃惊]",
+            "user id": 1678526602,
+            "user name": "一个劲儿随便",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 49,
+            "parent": 46,
+            "children": [
+                53
+            ],
+            "content": "百度万能 现在的火化炉是从200度开始升温，第一阶段是烧纸棺和人体衣物和脂肪，这个阶段的最佳燃烧温度是400-500度，第二阶段是燃烧人体的肌肉，脏器和血液，最佳燃烧温度是600度左右，第三阶段是燃烧骨骼，这个阶段我们将温度调到800-1000度。这种火化是最经济省燃料的火化模式。",
+            "user id": 1744048847,
+            "user name": "大连苞米",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 50,
+            "parent": 0,
+            "children": [
+                67
+            ],
+            "content": "好恐怖，求辟谣。。。",
+            "user id": 1794823977,
+            "user name": "最近萌萌帅帅嗒",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [
+                54
+            ],
+            "content": "一早就看见这么恶心的事。。。",
+            "user id": 2347566142,
+            "user name": "你在烦恼什么啊芋仔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 52,
+            "parent": 44,
+            "children": [],
+            "content": "看不见。。。看不见。。。",
+            "user id": 1872156090,
+            "user name": "Lia_小美",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 53,
+            "parent": 49,
+            "children": [],
+            "content": "原博主有如此牛逼的想象力，不踢中超可惜了。[晕]",
+            "user id": 1734775481,
+            "user name": "山寨虾",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 54,
+            "parent": 51,
+            "children": [],
+            "content": "[吐]",
+            "user id": 2608602134,
+            "user name": "HaruOrange",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 55,
+            "parent": 0,
+            "children": [],
+            "content": "[晕]",
+            "user id": 2296189625,
+            "user name": "rs18",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 56,
+            "parent": 19,
+            "children": [
+                58,
+                59
+            ],
+            "content": "宁好件!",
+            "user id": 1737834637,
+            "user name": "诸暨说",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 57,
+            "parent": 37,
+            "children": [],
+            "content": "我去啊！简直就是重口味啊[衰][衰]",
+            "user id": 2076242123,
+            "user name": "玛塔的潘",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 58,
+            "parent": 56,
+            "children": [],
+            "content": "额",
+            "user id": 1240514731,
+            "user name": "小黏黏糕",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 59,
+            "parent": 56,
+            "children": [],
+            "content": "这谣造得有点邪乎！",
+            "user id": 2132937995,
+            "user name": "老鈺",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 60,
+            "parent": 8,
+            "children": [
+                62
+            ],
+            "content": "[吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊]",
+            "user id": 2706186993,
+            "user name": "黄七盼",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [],
+            "content": "[衰][衰]",
+            "user id": 2428584023,
+            "user name": "瓜瓜拉妈",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 62,
+            "parent": 60,
+            "children": [
+                63
+            ],
+            "content": "我都没有吃惊，只有恶心，因为在这个没有道德底线的国度，啥事都能发生。",
+            "user id": 2203020420,
+            "user name": "董Carolyn",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 63,
+            "parent": 62,
+            "children": [
+                65
+            ],
+            "content": "[抓狂]严重变态的国度啊~！啥事都可以发生",
+            "user id": 2427064724,
+            "user name": "冷调优雅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 64,
+            "parent": 40,
+            "children": [],
+            "content": "[吃惊][衰][抓狂]",
+            "user id": 2184891822,
+            "user name": "她叫田仔飞爸爸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 65,
+            "parent": 63,
+            "children": [
+                66
+            ],
+            "content": "以后烧菜油省了[鼓掌]@Babe假装很S @彼岸无崖回头是岸 @嚎叫的小狼 @開1裆2褲切糕有个约会 @Mm大先生 @平扎传奇 @听着情歌哼着小曲 @VIvi-佳佳 @资优白领 @crowley晶 @冷调优雅 @Prince寞陌 @Elaine_JXC",
+            "user id": 3135794771,
+            "user name": "--冷水魚",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 66,
+            "parent": 65,
+            "children": [],
+            "content": "小夏你每次都要艾特好多人吗？",
+            "user id": 2427064724,
+            "user name": "冷调优雅",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 67,
+            "parent": 50,
+            "children": [],
+            "content": "瞬间让我没胃口。。刚好减肥[汗][汗]",
+            "user id": 2698895880,
+            "user name": "MU-懒散堕落闲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 68,
+            "parent": -1,
+            "children": [],
+            "content": "某地？哪里啊。",
+            "user id": 2207205622,
+            "user name": "DoDoMao_104",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 69,
+            "parent": 35,
+            "children": [],
+            "content": "这个油更香[吐]",
+            "user id": 1750705974,
+            "user name": "幸福的女妖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 70,
+            "parent": 8,
+            "children": [],
+            "content": "[哈哈][哈哈]太挫了",
+            "user id": 2203020420,
+            "user name": "董Carolyn",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 71,
+            "parent": 45,
+            "children": [],
+            "content": "变态吧！[抓狂][衰]",
+            "user id": 2918574742,
+            "user name": "懿yvonne2012",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 72,
+            "parent": 0,
+            "children": [],
+            "content": "哎哟我操了！！！！干！！！麻痹操蛋，",
+            "user id": 2687537973,
+            "user name": "苏格兰驻华大使馆微博",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 10
+        },
+        "2-hop": {
+            "state_0": 14,
+            "state_1": 19
+        },
+        "3-hop": {
+            "state_0": 8,
+            "state_1": 8
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

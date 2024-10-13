@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "#France update: Car on fire in at synagogue in Paris is an accident, not related w/#CharlieHebdo - #Sarcelles Mayor http://t.co/zk3EY3XHxY",
+        "user id": 25999072,
+        "tweet id": "552837086425128961",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "パリのシナゴーグ前で自動車が炎上、オフィス襲撃事件とは関係無い事故のもようとの情報。 RT @jmsardo  http://t.co/GvZMoCEJDR",
+            "user id": 57184966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@gloomynews @jmsardo え",
+            "user id": 171027142,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "無関係なのか。よかった。“@gloomynews: パリのシナゴーグ前で自動車が炎上、オフィス襲撃事件とは関係無い事故のもようとの情報。 RT @jmsardo  http://t.co/OUAuHSKb9M”",
+            "user id": 9081792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@jmsardo le devant une synagogue me fait rire vous êtes fort",
+            "user id": 502283668,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@jmsardo @sheeraf Lets hope an accident with terrorists driving car",
+            "user id": 2877276800,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@jmsardo @OldManRivers999 If I were mayor of a town in a country that had just been hit by an islamic attack. I'd be saying that, too.",
+            "user id": 382159047,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@jmsardo @grasswire - hmmmm",
+            "user id": 390756366,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@jmsardo another false flag no doubt. #JewishSupremacists",
+            "user id": 197499997,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jmsardo Very Sad",
+            "user id": 143362318,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

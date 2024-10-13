@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#Banksy's take on #CharlieHebdo. #JeSuisCharlie #NousSommesCharlie http://t.co/f6Y07d9fJ1",
+        "user id": 20159596,
+        "tweet id": "552978184413921281",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@juliamacfarlane http://t.co/zHekINcQjJ",
+            "user id": 266309584,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Banksy gets it right. “@juliamacfarlane: #Banksy's take on #CharlieHebdo. #JeSuisCharlie #NousSommesCharlie http://t.co/Y51AAQ6DRm”",
+            "user id": 352953768,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

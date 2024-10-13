@@ -1,0 +1,190 @@
+{
+    "source": {
+        "content": "#BREAKING More than 40 Australian Muslim groups condemn Sydney cafe siege",
+        "user id": 380648579,
+        "tweet id": "544429514525507585",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@AFP @harryfear the *way* to do it but they need a massive poster/t-shirt campaign, uniformly recognisable, condemning #extremism #isis etc",
+            "user id": 99337454,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "“@AFP: #BREAKING More than 40 Australian Muslim groups condemn Sydney cafe siege”",
+            "user id": 2163076560,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@KhaledBeydoun @AFP Because the actions of one are unfortunately and incorrectly assumed to reflect all.",
+            "user id": 420890823,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@KhaledBeydoun @AFP Good that they have; sad that they have to. Imagine \"40 Christian groups condemn bombing of abortion clinic.\"",
+            "user id": 23787867,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Will we count Australian non-Muslim groups condemning it? RT @AFP: #BREAKING More than 40 Australian Muslim groups condemn Sydney cafe siege",
+            "user id": 128712259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @chriskkenny that's bullshit. They will not change there ways. We are infidels &amp; they hate us.",
+            "user id": 490097102,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @chriskkenny Well they would say that, wouldn't they!",
+            "user id": 175243720,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @AbouDjaffar Et la mosquée de Lunel ?",
+            "user id": 532299353,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @harryfear why they didn't condemn Australia bombing Iraq and Syria you bomb us its okay if we reply we are terrorists \nWe don't care!",
+            "user id": 871591850,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@AFP You know muslims are allowed to lie to non-muslims, right? They may have condemned it outwardly, but internally, they'd be celebrating!",
+            "user id": 316288394,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@iAmMusicxx @AFP yes you are right, bravo",
+            "user id": 871591850,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP \nDingo dog says hostage-taking is not religion But the bombing of the Australian aircraft on Muslims is basis of religion",
+            "user id": 871591850,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AFP @harryfear it's not the first siege, we had few in the past months, it is treated as a 'terror' act not ISIS terrorism, 2different",
+            "user id": 1001127668,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@AFP: #BREAKING More than 40 Australian Muslim groups condemn Sydney cafe siege”",
+            "user id": 30676826,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "@afp if terrorism is a coin, then terrorist attack and condeming it. Is the two face of the same coin. It depends on what is shown to you",
+            "user id": 2440645811,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

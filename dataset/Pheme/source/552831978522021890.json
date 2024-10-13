@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "I may not agree with what you say but will defend your right to say it - Voltaire #JeSuisCharlie #LibertéDexpression http://t.co/rSbYpPGyfq",
+        "user id": 32677883,
+        "tweet id": "552831978522021890",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@tobiaslehr @PaulThompsonLdn Apparently Voltaire never uttered or wrote those words, but he no doubt would have liked the sentiment",
+            "user id": 259625864,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@CharlesOppenh @tobiaslehr Yes, true. Apparantly it was Evelyn Beatrice Hall - http://t.co/rS4mOAV8iI - his biographer.",
+            "user id": 62489309,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@tobiaslehr @wikileaks_forum nous sommes tous Charlie aujourd'hui Condoléance aux familles des personnes décédés",
+            "user id": 1851677838,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@tobiaslehr @miepsja Evelyn Beatrice Hall (a woman!) said it, not Voltaire",
+            "user id": 195289729,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

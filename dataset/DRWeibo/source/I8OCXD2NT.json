@@ -1,0 +1,337 @@
+{
+    "source": {
+        "content": "我的妈哎…昨晚睡着了发生这么恐怖的事情吗\n我大溧阳不是最安全的地方嘛\n洪水发不到地震震不到台风刮不到\n这是怎么了\n溧阳天目湖那边服务区爆炸十几辆大卡车烧了\n唉  T-MyWD的微博视频 ",
+        "time": "19-9-27 05:55",
+        "user id": "2809690892",
+        "tweet id": "I8OCXD2NT",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                3,
+                4,
+                7
+            ],
+            "user id": "2678533920",
+            "user name": "意识决定未来",
+            "content": "而且没有通报",
+            "time": "19-9-27 07:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "2816095461",
+            "user name": "-什么紫薯芋泥",
+            "content": "所以啊，网络这东西发出来了就难免会有人来关注",
+            "time": "19-9-30 07:30",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "你这个我自己也看到了啊 我也发了 我本来准备删微博了结果被举报了 还不能删不能改",
+            "time": "19-9-30 07:03",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "我醉了 无意间发个微博",
+            "time": "19-9-30 07:02",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "2816095461",
+            "user name": "-什么紫薯芋泥",
+            "content": "辟谣了 查看图片",
+            "time": "19-9-29 14:43",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 7,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "原因出来了吗？我这条微博还被举报了 尼玛 以后听说的事情还不敢发微博 杠精真tm多",
+            "time": "19-9-27 16:18",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 7,
+            "children": [],
+            "user id": "2678533920",
+            "user name": "意识决定未来",
+            "content": "也有说是输油车爆炸",
+            "time": "19-9-27 13:10",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 0,
+            "children": [
+                5,
+                6
+            ],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "出来了 警方 还好没有人受伤 货车不知道什么原因自燃",
+            "time": "19-9-27 09:57",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                10
+            ],
+            "user id": "5935860056",
+            "user name": "森屿未央0502",
+            "content": "超过两百天转发是不是就算造谣了...官方都辟谣了",
+            "time": "19-9-27 18:08",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "本来我能删掉的 现在删都删不掉",
+            "time": "19-10-8 06:52",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "我这也算造谣？",
+            "time": "19-9-28 06:06",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "我的妈耶 发条微博还有杠精出来举报哦",
+            "time": "19-9-27 16:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "本来通告出来我删掉就是咯 现在好了 还删不掉了 毛病",
+            "time": "19-9-27 16:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14,
+                15
+            ],
+            "user id": "3626119980",
+            "user name": "Jiang__ST",
+            "content": "听到这个哎呦喂就知道是溧阳无疑了",
+            "time": "19-9-27 07:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "人家的视频 不是我拍的 早上起来都被刷爆了",
+            "time": "19-9-27 09:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "user id": "6619122202",
+            "user name": "别有用心细胞",
+            "content": "我也是",
+            "time": "19-10-2 17:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17,
+                18
+            ],
+            "user id": "2398202931",
+            "user name": "helloaivan",
+            "content": "十几辆？你说话负责任吗？",
+            "time": "19-9-27 09:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "杠精 有空就举报？",
+            "time": "19-9-27 16:04",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": 16,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "6辆货车",
+            "time": "19-9-27 09:56",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "2536981562",
+            "user name": "chocolate_king",
+            "content": "我昨天晚上听到的，还以为干嘛的",
+            "time": "19-9-27 08:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "我啊早就睡了 没听到 早上起来被刷爆了",
+            "time": "19-9-27 09:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "2809690892",
+            "user name": "T-MyWD",
+            "content": "图片评论 网页链接",
+            "time": "19-9-27 09:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "2816095461",
+            "user name": "-什么紫薯芋泥",
+            "content": "可能别人举报的原因是：你微博写的是十几辆车爆炸",
+            "time": "19-9-29 14:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "5889099653",
+            "user name": "山中的焰火",
+            "content": "夜里12点多",
+            "time": "19-9-27 07:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 8,
+            "state_1": 4
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 3
+        }
+    }
+}

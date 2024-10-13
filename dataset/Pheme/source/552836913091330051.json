@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "Charlie Hebdo editor Stéphane Charbonnier, killed today, on the \"dead or alive\" list of AQAP (Inspire, March 1 2013) http://t.co/MptFsbYWEz",
+        "user id": 130184065,
+        "tweet id": "552836913091330051",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Lone wolf attack or part of a wider plot? @DanieleRaineri",
+            "user id": 114909461,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mmfeezo @FIRREV http://t.co/z5elc0nd0A\n\"@DanieleRaineri: احد المقتولين اليوم كان من المطلوبين حيا أو ميتا في اصدار مجلة انسباير عام 2013\"",
+            "user id": 286482530,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@DanieleRaineri @dhahiri2 I hope that idiot pastor will receive the same thing",
+            "user id": 2839462006,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@DanieleRaineri mh soo are them terrorists Yankees iki",
+            "user id": 25058617,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@DanieleRaineri which issue?\n10th or 11th",
+            "user id": 313942370,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@playerz_rulz 10, page 9",
+            "user id": 130184065,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@DanieleRaineri thnx",
+            "user id": 313942370,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

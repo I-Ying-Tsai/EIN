@@ -1,0 +1,219 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Germanwings flight GWI18G crashes in French Alps: http://t.co/v8yssTEbHR http://t.co/GA8ZdGUq30",
+        "user id": 330826792,
+        "tweet id": "580327576218046464",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "Whaaaat is happening “@rapplerdotcom: Germanwings flight GWI18G crashes in French Alps: http://t.co/sLnA3Uo6PB http://t.co/ApRXwJonM5”",
+            "user id": 37898009,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@samrazon :(",
+            "user id": 12706742,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "148 on board and all are feared dead.\n\nBREAKING NEWS: Germanwings flight GWI18G crashes in French Alps: http://t.co/v8yssTmAjh",
+            "user id": 330826792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@rapplerdotcom sad",
+            "user id": 1706924707,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "content": "Plane debris had already been found\n\nJUST IN: Germanwings flight GWI18G crashes in French Alps http://t.co/v8yssTmAjh http://t.co/KSLax7Ks18",
+            "user id": 330826792,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Omg another plane? \"@rapplerdotcom: BREAKING NEWS: Germanwings flight GWI18G crashes in French Alps: http://t.co/7fRfI1OBVE",
+            "user id": 63472387,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Oh my :( “@rapplerdotcom: BREAKING NEWS: Germanwings flight GWI18G crashes in French Alps: http://t.co/Z323tcVR5U http://t.co/uCvIQaj1bK”",
+            "user id": 62561460,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@rapplerdotcom sad news. My prayers for them",
+            "user id": 3047008711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9,
+                10
+            ],
+            "content": "\"There are not thought to be any survivors.\"\n\nUPDATED: Germanwings flight GWI18G crashes in French Alps http://t.co/v8yssTmAjh",
+            "user id": 330826792,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                11
+            ],
+            "content": "@rapplerdotcom Its actually flight 4U9525 because the GWI18G is a plane registration no.",
+            "user id": 242109314,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "Follow the live blog within the page for up-to-the-minute updates on crashed flight #4U9525: http://t.co/v8yssTmAjh http://t.co/RpsaUyMlCd",
+            "user id": 330826792,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@francisryanc Hi Ryan! You're correct. The GWI was the earlier given number as the story developed, but we'll correct it. Thank you!",
+            "user id": 330826792,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                14
+            ],
+            "content": "\"We don't know the reasons for the crash.\"\n\nStay tuned for updates on crashed flight #4U9525: http://t.co/v8yssTmAjh",
+            "user id": 330826792,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": 11,
+            "children": [],
+            "content": "@rapplerdotcom wow, thanks for replying :)",
+            "user id": 242109314,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@rapplerdotcom #4U9525 Here we go again. My prayers.",
+            "user id": 572318926,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

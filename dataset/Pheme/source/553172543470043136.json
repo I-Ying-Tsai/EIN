@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "\"To kill someone for making fun of you is a tacit confession of your own impotence\"  http://t.co/M8UXYm5N4e #CharlieHebdo #JeSuisCharlie",
+        "user id": 16955991,
+        "tweet id": "553172543470043136",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Salon",
+            "user id": 46902019,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Salon This",
+            "user id": 180902640,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": ".@Salon : \"To kill for making fun of you is a tacit confession of your own impotence\"  http://t.co/Idklj9aS9Y #CharlieHebdo #JeSuisCharlie",
+            "user id": 259526020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

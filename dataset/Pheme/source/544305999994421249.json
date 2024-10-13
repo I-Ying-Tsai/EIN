@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "Crucial things to consider when watching breaking news. http://t.co/HjQjv209s3 #Sydney http://t.co/aeMn0dp5qL",
+        "user id": 156123647,
+        "tweet id": "544305999994421249",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye time to see if the australians have a Peter Mansbridge of their own.",
+            "user id": 282340727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "So true RT @sladurantaye: Crucial things to consider when watching breaking news. http://t.co/PKSwjuplq3 #Sydney http://t.co/vAZJmpfflW",
+            "user id": 19216594,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@sladurantaye @JFBegin What about the media giving out strategic information? Where's that?",
+            "user id": 2917213538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                13
+            ],
+            "content": "@LaLadyMarquis1 @JFBegin I think that one’s a bit overdone., honestly.",
+            "user id": 156123647,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye \"Reliable Sources tell us....\"",
+            "user id": 23608974,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye Channel 7 is broadcasting cautious/informed reports. \"Here's what we know\" not \"let's speculate about what we could know\"",
+            "user id": 302053300,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "THIS ! “@sladurantaye: Crucial things to consider when watching breaking news. http://t.co/0Kp3UYDN6C #Sydney http://t.co/4dD7um5Noi” #ygk",
+            "user id": 374545627,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @InklessPW Doesn't number one say it all? The rest are window dressing.",
+            "user id": 407729904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @InklessPW Ahh. Memories of October 22.",
+            "user id": 2369517908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye CNN showing a dinosaur movie.",
+            "user id": 79242025,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye @ExumAM well chosen post!",
+            "user id": 1520296801,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@sladurantaye militants = Islamic terrorists",
+            "user id": 2434717220,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "Truth! #speculation MT @sladurantaye: Crucial things to consider when watching breaking news. http://t.co/FtUCsDKUFm http://t.co/w4nwbNCL6G",
+            "user id": 283501294,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 3,
+            "children": [],
+            "content": "@sladurantaye @JFBegin What do you mean? I can't gauge tone.",
+            "user id": 2917213538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

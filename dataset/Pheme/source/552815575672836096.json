@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "George Orwell: “If liberty means anything at all, it means the right to tell people what they do not want to hear.\" #CharlieHebdo",
+        "user id": 17383707,
+        "tweet id": "552815575672836096",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@birgittaj and do you think the followers of Muhammed wielding AK47s like to read Orwell? High time to call out their humbuggery!!",
+            "user id": 113725102,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@kundunium @birgittaj Hats off to you sir. Great word. #Humbuggery",
+            "user id": 1067999394,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@birgittaj Well, he is wrong. Free speech is something &amp; \"offensive\" speech is something else. #CharlieHebdo",
+            "user id": 187925593,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@HappyHeureuse @birgittaj Free speech is often the excuse to be offensive &amp; disrespectful. Sadly.",
+            "user id": 15852453,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@birgittaj @Revolutioni5t The problem is, they refuse to listen anyway.",
+            "user id": 2917704052,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Yes \"@birgittaj: Orwell: “If liberty means anything at all, it means the right to tell people what they do not want to hear.\" #CharlieHebdo”",
+            "user id": 121568833,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@EUEXIT @birgittaj woops!!",
+            "user id": 113725102,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@icblues @HappyHeureuse @birgittaj True. But still not a reason to murder... (at least in my opinion)",
+            "user id": 1645178179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "content": "@Musorky @HappyHeureuse @birgittaj Nope, nope at all. But the pen can be as vile as a gun. Emotional pain can be as bad as physical pain.",
+            "user id": 15852453,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "@icblues @HappyHeureuse @birgittaj Agree with the sentiment, but I rather be \"killed with a pen\".",
+            "user id": 1645178179,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@Musorky @HappyHeureuse @birgittaj I'd rather die old in my bed in a peaceful world where everyone loves each other ;)",
+            "user id": 15852453,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

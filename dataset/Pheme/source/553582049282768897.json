@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Smoke seen coming from building where Charlie Hebdo attack suspects located. WATCH LIVE: http://t.co/bcZryCQxuV",
+        "user id": 15108702,
+        "tweet id": "553582049282768897",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Shots heard from area of French siege: “@ReutersLive: Smoke seen coming from building where Charlie Hebdo attack suspects located.”",
+            "user id": 23189508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ReutersLive @Reuters there is a Lot of paper. Maybe they wanna burn the place down.",
+            "user id": 1246640292,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

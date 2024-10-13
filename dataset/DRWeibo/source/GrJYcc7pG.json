@@ -1,0 +1,169 @@
+{
+    "source": {
+        "content": "为什么疫苗的事儿不管，武汉生物制药的四十万支疫苗怎么处理，为什么不公开罚款数额？哦，对，武汉生物制品百分百控股的是中国生物技术股份有限公司，而中国生物技术的95％控股的是中国医药集团有限公司，中国医药集团百分百控股的，自己去百度下吧，到时候你们就有答案了 ",
+        "time": "18-7-26 19:31",
+        "user id": "6196533166",
+        "tweet id": "GrJYcc7pG",
+        "label": 0,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "6456771367",
+            "user name": "放学别走了啊",
+            "content": "你的图已经打不开了我给你文字补充吧，最顶层的是guo物院国资委的央企",
+            "time": "18-7-26 19:39",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "6575335156",
+            "user name": "疯子馨Cherry",
+            "content": "什么图？",
+            "time": "18-7-29 09:44",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "6196533166",
+            "user name": "鹿上天杨",
+            "content": "打不开了吗，果然渣浪在某些方面特别干净利落",
+            "time": "18-7-26 19:46",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "6196533166",
+            "user name": "鹿上天杨",
+            "content": "我不想说什么别的，我爱我的国家，也只局限爱我的国家",
+            "time": "18-7-26 19:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "6163696583",
+            "user name": "不卡可以莎",
+            "content": "别吵，打扰到我做中国梦了",
+            "time": "18-7-27 16:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "2027428255",
+            "user name": "yiyecanfeng",
+            "content": "呵呵",
+            "time": "18-7-27 14:24",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "5059043346",
+            "user name": "蕞羙流年",
+            "content": "我们这提都不提武汉生物，可能武汉生物背景太强大了！",
+            "time": "18-7-27 00:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "3263002332",
+            "user name": "Lee垚垚_",
+            "content": "厉害了 我的国",
+            "time": "18-7-31 10:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "2167537610",
+            "user name": "HAPPYHUMOUS",
+            "content": "第二张图都打不开了，呵呵哒，老百姓的发声都被制止啊",
+            "time": "18-7-27 15:19",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5544842840",
+            "user name": "清风晓昊",
+            "content": "厉害了我的国",
+            "time": "18-7-27 14:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "2648204617",
+            "user name": "一直不停地跑下去",
+            "content": "武汉生物",
+            "time": "18-7-26 23:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "6435473609",
+            "user name": "反思小能手",
+            "content": "过去了，",
+            "time": "18-7-27 15:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

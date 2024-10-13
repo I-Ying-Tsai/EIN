@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "#message RT @brennamuncy: Someone please remind me what year it is again? #ferguson http://t.co/vI4tDnvT1W",
+        "user id": 52154385,
+        "tweet id": "498292628455034882",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@budLightVillain @ALBDamn @brennamuncy the year we fight back",
+            "user id": 288082938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "WOOW “@budLightVillain: #message RT @brennamuncy: Someone please remind me what year it is again? #ferguson http://t.co/NopH91QdBg”",
+            "user id": 114251756,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@budLightVillain: #message RT @brennamuncy: Someone please remind me what year it is again? #ferguson http://t.co/BhKJzdFsMP”",
+            "user id": 517170259,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

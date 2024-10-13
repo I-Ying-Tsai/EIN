@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#illridewithyou is the best thing to come out of all the shit that happened in Sydney today. Proud to see Aussies looking after eachother.",
+        "user id": 136191905,
+        "tweet id": "544436279442546688",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ruckuslike you're honestly the most compassionate person I know Brianne. You always know what to say and when 👍✌️",
+            "user id": 602554618,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ruckuslike why arent you the prime minister yet?",
+            "user id": 905452908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

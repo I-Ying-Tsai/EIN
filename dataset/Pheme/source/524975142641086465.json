@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight in Ottawa has been postponed, the NHL says.",
+        "user id": 19636948,
+        "tweet id": "524975142641086465",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 good idea better safe then sorry!",
+            "user id": 360042106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 What took them so long. #StaySafeOttawa",
+            "user id": 600617800,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT @CP24: The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight in Ottawa has been postponed, the NHL says.",
+            "user id": 21923301,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 good idea",
+            "user id": 2843838703,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight has been postponed\" that's probably a good idea.",
+            "user id": 2390092718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight in Ottawa has been postponed, the NHL says.”Wowww",
+            "user id": 335500613,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@CP24 @HouseCracka Hotel is on LOCKED Down, as shots were fired inside Hotel where MapleLeafs are staying, they are inside their Rooms,..",
+            "user id": 201295178,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@sueinwny Wow! How did you get that info?",
+            "user id": 115785635,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 @TheCamMurphy",
+            "user id": 1240220082,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight in Ottawa has been postponed, the NHL says.”",
+            "user id": 1424334847,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight in Ottawa has been postponed, the NHL says.”",
+            "user id": 26759726,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: The game between the Toronto Maple Leafs and Ottawa Senators scheduled for tonight in Ottawa has been postponed, the NHL says.”",
+            "user id": 42981443,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "content": "@Newsgirly On Local Reporters in OTTAWA LIVE News.Hotel is on Lock down with Maple Leafs being told to stay in their ROOMS.",
+            "user id": 201295178,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 10,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

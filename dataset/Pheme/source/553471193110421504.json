@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Hostages have reportedly been taken as police pursue gunmen responsible for the #ParisAttack http://t.co/RkQMx9cijy http://t.co/CilbwL4ewF",
+        "user id": 7587032,
+        "tweet id": "553471193110421504",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews @Colin_Bloom no one wants to solve middles trouble so the hate by israel goes on .obama scared of israel",
+            "user id": 2884577892,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNews can't believe the motorway hasn't been closed.",
+            "user id": 2919712403,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

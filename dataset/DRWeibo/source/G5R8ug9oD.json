@@ -1,0 +1,367 @@
+{
+    "source": {
+        "content": "#天气正发生# 雷雨云团离南昌越来越近了。  北面的雷暴云团1 强度明显减弱，但是南面的雷暴云团2 强度有所加强。 继续关注！ #南昌天气# ",
+        "time": "18-3-4 21:19",
+        "user id": "2394939682",
+        "tweet id": "G5R8ug9oD",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "5972347995",
+            "user name": "华中气象爱好者",
+            "content": "真够密集的雷",
+            "time": "18-3-4 21:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "2394939682",
+            "user name": "南昌天气",
+            "content": "很是吓人",
+            "time": "18-3-4 21:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "1236602412",
+            "user name": "yaoyao33",
+            "content": "",
+            "time": "18-3-4 22:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "1801423291",
+            "user name": "阳光阳光三号",
+            "content": "一个小时会到南昌么？",
+            "time": "18-3-4 21:28",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "2394939682",
+            "user name": "南昌天气",
+            "content": "会哦",
+            "time": "18-3-4 21:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                7
+            ],
+            "user id": "2744637193",
+            "user name": "肥肉它不爱我了",
+            "content": "一个小时后到南昌",
+            "time": "18-3-4 21:31",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "2394939682",
+            "user name": "南昌天气",
+            "content": "要注意防范雷电危害",
+            "time": "18-3-4 21:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "user id": "2744637193",
+            "user name": "肥肉它不爱我了",
+            "content": "下午那波没有身临其境也是吓到了",
+            "time": "18-3-4 21:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "5945107282",
+            "user name": "WuchuaZh86",
+            "content": "雷在回波里怎么看的出？",
+            "time": "18-3-4 21:36",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "2394939682",
+            "user name": "南昌天气",
+            "content": "有雷电监测信息",
+            "time": "18-3-4 21:44",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                13,
+                14
+            ],
+            "user id": "2975833917",
+            "user name": "DU_WENXIN",
+            "content": "怎么办。我现在想去洗头洗澡。太阳能的。刚刚听到雷声了",
+            "time": "18-3-4 21:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "2744637193",
+            "user name": "肥肉它不爱我了",
+            "content": "忍一忍，明天可以去理发店洗头",
+            "time": "18-3-4 21:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 13,
+            "children": [],
+            "user id": "2975833917",
+            "user name": "DU_WENXIN",
+            "content": "明天要出门的…怎么见人",
+            "time": "18-3-4 21:52",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "user id": "2744637193",
+            "user name": "肥肉它不爱我了",
+            "content": "雷雨天气不要淋浴",
+            "time": "18-3-4 21:51",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [],
+            "user id": "2975833917",
+            "user name": "DU_WENXIN",
+            "content": "洗不洗…来个人回答我一下…咬手哭泣",
+            "time": "18-3-4 21:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "1852109377",
+            "user name": "胡骏0826",
+            "content": "这条微博，新浪推送过来，我以为马上又来了，看下是昨晚的信息。",
+            "time": "18-3-5 16:06",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "5972709163",
+            "user name": "我-不下雪",
+            "content": "这个完全看不懂",
+            "time": "18-3-4 22:13",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "2105849295",
+            "user name": "阿呆在笑耶",
+            "content": "打雷了",
+            "time": "18-3-4 22:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "5053766688",
+            "user name": "小杨生活志",
+            "content": "这么黑",
+            "time": "18-3-4 22:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "5053766688",
+            "user name": "小杨生活志",
+            "content": "吓死我了",
+            "time": "18-3-4 21:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5053766688",
+            "user name": "小杨生活志",
+            "content": "今天下午吓到我了",
+            "time": "18-3-4 21:59",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "1884016674",
+            "user name": "天心月圆满",
+            "content": "青云谱这边己经听到雷声了。",
+            "time": "18-3-4 21:46",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "5215701884",
+            "user name": "黑色风暴2022",
+            "content": "开始了，坐标樟树",
+            "time": "18-3-4 21:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "3149049097",
+            "user name": "芦苇荡了个寂寞",
+            "content": "开始打雷了",
+            "time": "18-3-4 22:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "1790600531",
+            "user name": "chattyminiogre",
+            "content": "明天早上天气如何哇",
+            "time": "18-3-4 21:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                26
+            ],
+            "user id": "3856604880",
+            "user name": "嘉R艺H",
+            "content": "青山湖区上海路属于哪面？",
+            "time": "18-3-4 21:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "user id": "5426543490",
+            "user name": "Dontloseit",
+            "content": "上北下南左西右东  东面啊兄弟",
+            "time": "18-3-4 22:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 14,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

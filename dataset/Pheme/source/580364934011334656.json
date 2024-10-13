@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "Germanwings Airbus A320 climbed to 38,000 feet before starting to descend and lose signal http://t.co/4xRU5mICvz",
+        "user id": 14293310,
+        "tweet id": "580364934011334656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@TIME: Germanwings Airbus A320 climbed to 38,000 feet before starting to descend and lose signal http://t.co/oTq868F8cG”",
+            "user id": 29177565,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@TIME: Germanwings Airbus A320 climbed to 38,000 feet before starting to descend and lose signal http://t.co/LbFuG0y9Rs”",
+            "user id": 246458133,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@TIME Same scenario with AF447 Rio-Paris ?",
+            "user id": 2874821464,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@merchezu43 @TIME that was my thought too",
+            "user id": 165452438,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@TIME: Germanwings Airbus A320 climbed to 38,000 feet before starting to descend and lose signal http://t.co/qUqhpXmW3d” #4U9525",
+            "user id": 35174226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TIME And who is to blame??? Russia??? I wouldn't be surprised if Psak say......",
+            "user id": 2456785898,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@The_DoD_89 @TIME  Can't describe my sadness ..flight 447 was already a shock .",
+            "user id": 2874821464,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "#BREAKING: Australian police confirm Sydney siege is over",
+        "user id": 380648579,
+        "tweet id": "544520344976232449",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@AFP: #BREAKING: Australian police confirm Sydney siege is over”",
+            "user id": 21962518,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

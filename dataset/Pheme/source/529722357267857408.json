@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Security at Massey Hall say there will be no Prince concert tonight #cbcto",
+        "user id": 17909653,
+        "tweet id": "529722357267857408",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@trevorjdunn @CBCToronto Hope I can find the guy I paid $200 a ticket for the 4 I bought from him. Boy is he going to be embarrassed.",
+            "user id": 2510315041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@trevorjdunn @CBCToronto So glad I didn't go stand in the cold and rain for nothing.",
+            "user id": 24266957,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@trevorjdunn @CBCToronto Sure, that's what they WANT you to think -- until the surprise concert like the Stones at the El Mocambo....",
+            "user id": 157077618,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

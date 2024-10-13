@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "RUMORS about #Putin started with a stroke, then he's sick, and now this http://t.co/yHU98WAdxQ What's next... #Russia #cdnpoli #dirtydeeds",
+        "user id": 190224295,
+        "tweet id": "576349360767807488",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@bradcabana Quote: Pg 2 of #Forbes #propaganda: \"The president is healthy… his hand shake is so strong he breaks hands with it\". #Putin",
+            "user id": 405452883,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@bradcabana When #Forbes tells me #Putin is fine, I worry about his health. But at least I know there's no coup ;-)",
+            "user id": 405452883,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BradCabana another rumor is that his gf gave birth.http://t.co/LWFSu4PjNU",
+            "user id": 193903481,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@BradCabana plenty of wishful thinking but would they really want a hardliner instead of Putin?",
+            "user id": 236872671,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@helgy2 What people don't seem to understand about #Russia is Putin runs the oligarchs, not the other way around.",
+            "user id": 190224295,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@BradCabana I have seen how they are replaced and binned when out of favour.Seems to be a lack of understanding how Russia works not good.",
+            "user id": 236872671,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

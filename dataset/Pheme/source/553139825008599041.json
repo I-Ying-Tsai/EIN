@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Who are the two brothers suspected of launching #CharlieHebdo attack? We explain: http://t.co/WqmrAaIfCU (Pic: AFP) http://t.co/3mzxBh5gkH",
+        "user id": 16343974,
+        "tweet id": "553139825008599041",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Telegraph Have the extremists forgotten about the iconoclasm they have committed against the Jews over the centuries?",
+            "user id": 476764926,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@jamesmillman1 @Telegraph Yeah but its ok when THEY do it, duh.",
+            "user id": 2828640809,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph u jesu ruzni...?",
+            "user id": 2605661089,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@Telegraph: Who are the two brothers suspected of launching #CharlieHebdo attack? http://t.co/7sHxPR3iOy.         These evil B###ards",
+            "user id": 2855561001,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph Its a hoax folks please do some homework and READ --",
+            "user id": 2885348567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph #XalapaDice",
+            "user id": 393136967,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph It is quite unsettling to see how ordinary the face of hatred can look like.",
+            "user id": 1854935118,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Telegraph चार्ली एब्डे पत्रिका व्दारा पैगम्बर के खिलाफ ब्यंग छापना गलत था उसका हिंसक बिरोध उससे भी ज्यादा गलत एवं खतर्नाक है निन्दनीय है ।।",
+            "user id": 1130186383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

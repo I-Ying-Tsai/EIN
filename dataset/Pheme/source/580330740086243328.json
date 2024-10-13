@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "The French president has said he believed none of the 148 people on board #Germanwings flight #4U9525 plane survived http://t.co/KC9NBcEzSV",
+        "user id": 2768501,
+        "tweet id": "580330740086243328",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews Sad news 😔 may they all rest in peace. Thoughts and prayers for the families of all the deceased. #Germanwings #4U925",
+            "user id": 183211791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews wow France is having a shocker of a year",
+            "user id": 86506709,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews http://t.co/ezqDfe9ZOK",
+            "user id": 2989139874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews 20 000 people march all over Australia to stop closing aboriginal communities and where were all media and you ABC?? Sleeping......",
+            "user id": 2989139874,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        }
+    }
+}

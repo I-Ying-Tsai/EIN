@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "“If our fears are confirmed, this is a dark day for Lufthansa,” says CEO of Germanwings' parent company after crash http://t.co/tJVCCJSY4G",
+        "user id": 3108351,
+        "tweet id": "580336341080260608",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "If our fears are confirmed, this is a dark day for Lufthansa,” CEO of Germanwings' parent company after crash http://t.co/HLNJRCASNL @WSJ",
+            "user id": 543529717,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

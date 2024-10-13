@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "Yesterday, today, tomorrow #JeSuisCharlie http://t.co/bBS9WH7fnh",
+        "user id": 265504987,
+        "tweet id": "553110780745629696",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@illibraio Join my hand 4 #Charlie http://t.co/2bILdMPZ1u",
+            "user id": 2967365878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@illibraio @EdenRiiver #JeSuisCharlie",
+            "user id": 2319996789,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@illibraio @EdenRiiver #J eSuisCharlie all becos u think u have freedom of speech but with dat freedom who have u tied up for ur freedom",
+            "user id": 2319996789,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                10
+            ],
+            "content": "@FaizilArnold @illibraio offending someone is never a reason to kill.",
+            "user id": 1428634741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@illibraio And the day after tomorrow WAR, because stupid fucks won't stop illustrating Muhammad.",
+            "user id": 321888119,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@illibraio @JessicaCaban Thanks so much Jessica...It's means a lot for us!❤️🇫🇷 ❤️#JeSuisCharlie✏️ 🙏 http://t.co/z20iWwBkQH",
+            "user id": 2336704099,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@illibraio @JessicaCaban thank´s Jessica ! Thank you for your support for us French. #JeSuisCharlie",
+            "user id": 960631128,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@illibraio: Yesterday, today, tomorrow #JeSuisCharlie http://t.co/clkvrXHeDo”love it",
+            "user id": 405158251,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@illibraio @JessicaCaban so sad for my country #JeSuisCharlie",
+            "user id": 417275146,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "Yesterday, today, tomorrow #JeSuisCharlie http://t.co/qCZOPZRTes RT @illibraio @MylifeinwordsUK",
+            "user id": 16476911,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 3,
+            "children": [],
+            "content": "@EdenRiiver @illibraio true dat there is neva a reason to kill but peeps do it for much less and freedom of speech giv u the right to offend",
+            "user id": 2319996789,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "source": {
+        "content": "Dear editors: every time your media organization censors a #CharlieHebdo cartoon, you are enabling and justifying mass murder. Love, Josh",
+        "user id": 16900353,
+        "tweet id": "552841006799159296",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@joshuafoust Good stuff on that here. http://t.co/1xfenEGnqK",
+            "user id": 13023332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@KatMcKinley Ironically, the @Telegraph is censoring #CharlieHebdo cartoons right now.",
+            "user id": 16900353,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@joshuafoust every newspaper on Planet Earth should print their cartoons tomorrow. Full-page. Color. Suitable for framing.",
+            "user id": 49605303,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@HerbCarmen @instapundit @joshuafoust Extortion works.",
+            "user id": 227333373,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@HerbCarmen @instapundit @joshuafoust http://t.co/jRD9TUg3zx",
+            "user id": 115125517,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": ".@joshuafoust Dear Josh, read @guardian to keep up with already ongoing apologia for #CharlieHebdo terrorists: http://t.co/R0cR8bSAyx",
+            "user id": 416296194,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@joshuafoust it's a really simple relationship. Give the dane his gold and you'll never be rid of the dane.",
+            "user id": 81752418,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@joshuafoust @KatMcKinley They fear for their lives... plus it takes away from their time bashing Christians...",
+            "user id": 2195436055,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@joshuafoust agreed, cartoonist Rayma understood well this risk http://t.co/fadsWQ6phi",
+            "user id": 560993900,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@joshuafoust @Beautyon_  Media is usually justifying mass murder like repeating lies abut WMDs in Iraq and so on. Thats their job.",
+            "user id": 371429816,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@joshuafoust @binarybits Or you're acknowledging their right to speak and live, while acknowledging that some of their speech was racist.",
+            "user id": 4059101,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "@joshuafoust @Telegraph smh",
+            "user id": 13023332,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "source": {
+        "content": "The crowd has forced the police car to reverse. #ferguson https://t.co/B9YqGhq0hZ",
+        "user id": 14090948,
+        "tweet id": "498281812821803008",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: The crowd has forced the police car to reverse. #ferguson https://t.co/DEhhIqhxqM” Man...",
+            "user id": 1339961599,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench is there any information on the officer involved? such as a name",
+            "user id": 2651148499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@AntonioFrench @Mystics_Blues it could get very ugly tonite  in STL....",
+            "user id": 32331458,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@BluMystic @AntonioFrench Hope not but who could blame them.  I'm angry in NY...",
+            "user id": 29400182,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "Wow “@AntonioFrench: The crowd has forced the police car to reverse. #ferguson https://t.co/pTvuQiaEuf”",
+            "user id": 27965177,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@BpopeTV @AntonioFrench @goldietaylor gettn intense..they should of held news conference",
+            "user id": 909434454,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [],
+            "content": "@Mystics_Blues @AntonioFrench no doubt.....at some point a stand has to be made.",
+            "user id": 32331458,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

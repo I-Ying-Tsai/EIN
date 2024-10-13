@@ -1,0 +1,88 @@
+{
+    "source": {
+        "content": "PHOTOS: We love #Ottawa: http://t.co/zyzpx4DUqH http://t.co/UUt2FLfjoW",
+        "user id": 18638090,
+        "tweet id": "525070461936222208",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@weathernetwork more than ever!!",
+            "user id": 25217615,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@weathernetwork: PHOTOS: We love #Ottawa: http://t.co/HzAnWmswYh http://t.co/JPS6BpZq4b” #OttawaStrong 🍁",
+            "user id": 16828243,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@weathernetwork: PHOTOS: We love #Ottawa: http://t.co/K3iKxWQYpt http://t.co/GLvuFVRMss”\n🍁🍁🍁🍁\n#FuckYouISIS",
+            "user id": 272112035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@weathernetwork @sluuby #OttawaStrong 🍁",
+            "user id": 853270471,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": ".@LehnerFaithful @weathernetwork @sluuby for sure! #Ottawa",
+            "user id": 1418188664,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@weathernetwork yes indeed! #Ottawa 🍁",
+            "user id": 808954322,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

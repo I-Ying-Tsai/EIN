@@ -1,0 +1,374 @@
+{
+    "source": {
+        "content": "天朝违法成本太低，现在吃什么都得小心翼翼。 秒拍视频 . ",
+        "time": "17-3-30 21:38",
+        "user id": "1727156022",
+        "tweet id": "ECeiDmjmf",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                5
+            ],
+            "user id": "2950356621",
+            "user name": "小鱼鱼鱼798",
+            "content": "假鸡蛋",
+            "time": "17-4-3 14:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5608884356",
+            "user name": "涵檀28560",
+            "content": "三块钱一斤的鸡蛋做个蛋蛋假",
+            "time": "17-5-1 00:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "是呀，做的玩具蛋。然后我朋友给我发了一堆假蛋的照片，松花蛋、咸鸭蛋、水煮蛋，都是卖给人吃的那种，蛋白蛋黄根本咬不动",
+            "time": "17-4-12 13:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "举报你妹啊？！姑奶奶都跟朋友说了这是玩具蛋，但是国内也有很多做假蛋的，智商呢？",
+            "time": "17-4-12 13:50",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [
+                3
+            ],
+            "user id": "2002225257",
+            "user name": "林镇辉-囧",
+            "content": "是啊个屁！这是玩具蛋，别再造谣了，已经举报",
+            "time": "17-4-10 23:52",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "是呀",
+            "time": "17-4-4 03:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7,
+                8
+            ],
+            "user id": "1764763333",
+            "user name": "董_三石",
+            "content": "SB",
+            "time": "17-4-11 18:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "SB你全家！",
+            "time": "17-4-12 13:48",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "user id": "2861005530",
+            "user name": "Xianghanjiejie",
+            "content": "他可能在骂那些做假鸡蛋的",
+            "time": "17-4-25 13:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                11
+            ],
+            "user id": "5324364295",
+            "user name": "二两小面少辣椒",
+            "content": "这是什么东东",
+            "time": "17-4-2 19:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "做玩具蛋。很像吧？",
+            "time": "17-4-2 22:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "user id": "2950356621",
+            "user name": "小鱼鱼鱼798",
+            "content": "是假鸡蛋",
+            "time": "17-4-3 14:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "1942622823",
+            "user name": "是个杠精网友",
+            "content": "鸡蛋的售价值得造价吗？你看到的片段就是你所谓的真相吗？你是煞笔吗？答案都不是，我是喷子，",
+            "time": "17-5-10 21:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "滚",
+            "time": "17-5-13 17:44",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "3275675413",
+            "user name": "无聊_93252",
+            "content": "玩具而已",
+            "time": "17-5-2 11:42",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "是的。由这个玩具蛋联想到了之前看到央视报道的造假鸡蛋、松花蛋和咸鸭蛋，那种的真心害人。很多人没看下面我评论，还说我造谣，笑死了",
+            "time": "17-5-2 14:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "2645648741",
+            "user name": "婉婷-并非全能",
+            "content": "@Cindy仔- 好恐怖",
+            "time": "17-4-12 17:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "1727156022",
+            "user name": "沙特阿拉伯公主",
+            "content": "做玩具呢哈。不过看过制作假的蛋买给人食用的纪录片，那是真缺德。",
+            "time": "17-4-13 03:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "5488555746",
+            "user name": "秦大叔R",
+            "content": "这是做玩具蛋，你这样造谣我可要报警了！等转发过500看网警找不找你！",
+            "time": "17-4-24 14:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "5875221202",
+            "user name": "蜡笔小新超爱大屁股",
+            "content": "造谣很有意思对吧",
+            "time": "17-4-24 18:28",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "5585110968",
+            "user name": "浆糊975",
+            "content": "脑残才相信，超市里鸡蛋卖3块4一斤。这明明是玩具。",
+            "time": "17-4-24 12:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "2100868240",
+            "user name": "每天都有新flag的蜻蜓",
+            "content": "这是玩具蛋。。。我家狗子咬着玩的那种，好几块一个，一个养殖场的蛋收了才几毛钱，这个成本会低？你当造假是干福利造福社会呢？",
+            "time": "17-5-1 10:28",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "1850018247",
+            "user name": "我想要的名字都被取完了",
+            "content": "假鸡蛋成本高，而且容易被识破，谁无聊做假鸡蛋卖，我怕他亏的家都不认识！",
+            "time": "17-5-1 14:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "5327758023",
+            "user name": "HawkYanThinker",
+            "content": "呵呵，假鸡蛋成本比真鸡蛋高的",
+            "time": "17-5-1 14:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "1963035545",
+            "user name": "江左一城",
+            "content": "造谣死全家",
+            "time": "17-5-9 22:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "2802604595",
+            "user name": "珞棠不是糖1640",
+            "content": "这只是玩具啊",
+            "time": "17-5-4 13:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "3017736895",
+            "user name": "oRa橙橙橙子",
+            "content": "@七謹彌鹿花城",
+            "time": "17-5-1 12:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 9,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

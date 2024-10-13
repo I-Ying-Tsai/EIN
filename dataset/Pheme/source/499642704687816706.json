@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "Don't feel hopeless if you are far from #Ferguson. Organize your block or your hood. Unite tenants, support ex-offenders, #FilmThePolice.",
+        "user id": 116625196,
+        "tweet id": "499642704687816706",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Copwatch And most importantly: VOTE. The 60% of the citizens who are black in that town can vote in a representative govt and police chief!",
+            "user id": 18346135,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@CharlesHokanson @Copwatch Amen. We have 2 do something about some of these laws. They want blacks in the judicial system so they can't vote",
+            "user id": 2413490192,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch The cops are similar to the troops being used to fight the illegal wars. This is normal for a country where 1% control the money.",
+            "user id": 362555146,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @SharonMelendes   Are any black bloc in #Ferguson? They're really needed there.",
+            "user id": 881396383,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Copwatch @NegronDoc Join community cop walk &amp;/or find out about the APP called NextDoor. Join crime watch &amp; most importantly cameras ON cop",
+            "user id": 445996563,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

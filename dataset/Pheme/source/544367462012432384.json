@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "MORE: Police confirm 3 hostages escape Sydney cafe, unknown number remain inside http://t.co/pcAt91LIdS #Sydneysiege",
+        "user id": 1367531,
+        "tweet id": "544367462012432384",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews \n\nKaty &amp; Bieber embrace Islam: http://t.co/VWPGkmeXLy\n\nThe Bible &amp; NASA embrace Islam: http://t.co/NpPT6HimrS;",
+            "user id": 2215260181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Thoughts with 27 hostages and their families and prayers for good news to emerge soon",
+            "user id": 359015191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Thoughts and prayers are with the hostages. 🙏",
+            "user id": 59237343,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews hope the baddies don’t have social media or they’re gonna start locking the side doors people escaped from.",
+            "user id": 2191889226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews the only way they gonna survive is if they convert to Isis",
+            "user id": 207368777,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews I wonder if other terrorist are gonna help the gunman escape after all this... better be on the look out for other terrorist",
+            "user id": 207368777,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Receiving news from @7NewsSydney",
+            "user id": 24728591,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews Not cool Yo! My Prayerz hope that hostages make it out safe",
+            "user id": 239065112,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@FoxNews cc @viswanth183",
+            "user id": 542754811,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "“@FoxNews: MORE: Police confirm 3 hostages escape Sydney cafe, unknown number remain http://t.co/Hq11La8bQ0 #Sydneysiege” #MartinPlace",
+            "user id": 20686232,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@JordanSekulow @FoxNews and yet they won't cover it like the foreign media.",
+            "user id": 153876973,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@FoxNews: MORE: Police confirm 3 hostages escape Sydney cafe, unknown number remain inside http://t.co/rDZmvtkkb4 #Sydneysiege”",
+            "user id": 75592503,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Something being talked about tonight is the makeup of the #Ferguson Police Dept. Here's a breakdown: #MichaelBrown http://t.co/gYd5qgJh5M",
+        "user id": 341908197,
+        "tweet id": "499381917490237440",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob @KitOConnell I bet they put the black ones on the front lines too, so that the photo ops are more positive.",
+            "user id": 14404725,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@occupythemob @OccupyAustin The Black ones aren't much better.In fact often worse. Like women.",
+            "user id": 818969215,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

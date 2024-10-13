@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Indeed ....#charliehebdo http://t.co/uG68bncPDP",
+        "user id": 220081875,
+        "tweet id": "553200552142983168",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Tazeenahmad @frasereC4 Muhammad, who doesn't even exist anymore. Hasn't done so for a looooooooong time. If ever..",
+            "user id": 96977991,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@tazeenahmad that's muslims! #CartoonPhobia",
+            "user id": 2457682945,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

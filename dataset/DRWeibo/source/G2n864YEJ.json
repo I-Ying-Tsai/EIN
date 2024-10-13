@@ -1,0 +1,389 @@
+{
+    "source": {
+        "content": "【地震快讯】中国地震台网正式测定：02月09日22时58分在云南西双版纳州景洪市（北纬22.32度，东经100.89度）发生4.9级地震，震源深度12千米。@中国地震台网速报 ",
+        "time": "18-2-9 23:25",
+        "user id": "1699540307",
+        "tweet id": "G2n864YEJ",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "user id": "5246104114",
+            "user name": "不会怀孕的夜夜",
+            "content": "吓死我了 震感很强烈",
+            "time": "18-2-9 23:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "5246104114",
+            "user name": "不会怀孕的夜夜",
+            "content": "没有余震！来版纳可以放心玩！",
+            "time": "18-2-10 11:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "2973836407",
+            "user name": "DDeng21",
+            "content": "还有余震吗？预计明天就到版纳！担心单鞋",
+            "time": "18-2-10 11:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "2162081723",
+            "user name": "奇迹__消防员",
+            "content": "嗯",
+            "time": "18-2-10 00:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                6,
+                7
+            ],
+            "user id": "3070268721",
+            "user name": "asdcgtree",
+            "content": "台湾震了河南震，河南震了云南震，这个春节是咋地了",
+            "time": "18-2-9 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "3070268721",
+            "user name": "asdcgtree",
+            "content": "南阳",
+            "time": "18-2-10 07:47",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                5
+            ],
+            "user id": "3225526644",
+            "user name": "顺奇自然林哲",
+            "content": "河南哪震了?",
+            "time": "18-2-10 05:19",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "user id": "6033107911",
+            "user name": "小人要学习",
+            "content": "环太平洋地壳运动呗。",
+            "time": "18-2-9 23:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5574928306",
+            "user name": "望舒kqxs",
+            "content": "愿一切平安",
+            "time": "18-2-9 23:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "3129419197",
+            "user name": "胜利-li",
+            "content": "希望同胞平安，",
+            "time": "18-2-9 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "5209755527",
+            "user name": "XINYUAN下雨啦",
+            "content": "害怕 不会再震了吧 不敢睡",
+            "time": "18-2-9 23:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "user id": "2973836407",
+            "user name": "DDeng21",
+            "content": "还有余震吗？预计明天就到版纳！担心😓",
+            "time": "18-2-10 11:39",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "5209755527",
+            "user name": "XINYUAN下雨啦",
+            "content": "应该没有了吧 你可以下一个地震预警",
+            "time": "18-2-10 12:10",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "3828687406",
+            "user name": "走出山凹",
+            "content": "转发微博",
+            "time": "18-2-10 08:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "2101231602",
+            "user name": "探行记",
+            "content": "西双版纳——景洪4.9级地震。",
+            "time": "18-2-10 00:50",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "1712264417",
+            "user name": "国防战士段金华",
+            "content": "到底是几级?",
+            "time": "18-2-9 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "1068288413",
+            "user name": "盛健Nedved",
+            "content": "快过年了，祝一切安好！最近地震有点活跃",
+            "time": "18-2-9 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "2880728640",
+            "user name": "独秀SEA",
+            "content": "祈福中国",
+            "time": "18-2-10 09:16",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "6266878484",
+            "user name": "深山清纯",
+            "content": "转发微博",
+            "time": "18-2-10 08:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "1923215537",
+            "user name": "Hhh_Kary",
+            "content": "希望没事🙏",
+            "time": "18-2-10 00:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "6186429171",
+            "user name": "iloveice-cream",
+            "content": "平安🙏🙏🙏",
+            "time": "18-2-9 23:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "2894838797",
+            "user name": "好好明天要变更好呀",
+            "content": "担心快过年了",
+            "time": "18-2-9 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "1882716230",
+            "user name": "南昌铁路",
+            "content": "【地震快讯】中国地震台网正式测定：02月09日22时58分在云南西双版纳州景洪市（北纬22.32度，东经100.89度）发生4.9级地震，震源深度12千米。",
+            "time": "18-2-9 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "2072751944",
+            "user name": "南昌火车站",
+            "content": "//@南昌铁路: 【地震快讯】中国地震台网正式测定：02月09日22时58分在云南西双版纳州景洪市（北纬22.32度，东经100.89度）发生4.9级地震，震源深度12千米。",
+            "time": "18-2-10 07:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [
+                25
+            ],
+            "user id": "2946459803",
+            "user name": "傣阿妹",
+            "content": "天佑我大云南一切平安",
+            "time": "18-2-9 23:49",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [],
+            "user id": "2162081723",
+            "user name": "奇迹__消防员",
+            "content": "肯定会",
+            "time": "18-2-10 00:27",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "5450143819",
+            "user name": "Huhabsjxkn",
+            "content": "正好是我们这里 有明显震感 ，窗户在抖动 ，房间的吊灯也在晃动！",
+            "time": "18-2-9 23:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "1735261763",
+            "user name": "爱夏天的夏沫",
+            "content": "还有普洱市跟宁洱县",
+            "time": "18-2-9 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "2590130827",
+            "user name": "天涯风行者",
+            "content": "股市引起的",
+            "time": "18-2-9 23:38",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 20,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

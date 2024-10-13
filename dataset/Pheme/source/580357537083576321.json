@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "#4U9525 - The Airbus 320 plunged at a rate of 5,000 feet per minute before crashing.  - @PollyR_Aviation",
+        "user id": 2280470022,
+        "tweet id": "580357537083576321",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @zerohedge @PollyR_Aviation CERNed.  A new verb.",
+            "user id": 582562920,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @zerohedge @PollyR_Aviation profile looks like a constant ROD, suggestive of cabin press/fire/smoke, OP DESC w/ speed brakes",
+            "user id": 277034268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @zerohedge @PollyR_Aviation Who needs terrorists?",
+            "user id": 582562920,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @zerohedge @PollyR_Aviation not true... descend didnt exceed the 3500 ft/m. Normal descend speed.",
+            "user id": 2593928917,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @JulesSunbeam @PollyR_Aviation terrible loss",
+            "user id": 1125769999,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        }
+    }
+}

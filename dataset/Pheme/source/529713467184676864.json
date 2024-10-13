@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "Secret Prince show rumored for Toronto tonight http://t.co/GE2DFcFKLJ",
+        "user id": 9695312,
+        "tweet id": "529713467184676864",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@billboard: Secret Prince show rumored for Toronto tonight http://t.co/5Wvo9cdOkD” why does no one ever do secret shows in Ohio? 😔",
+            "user id": 2775563841,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@billboard: Secret Prince show rumored for Toronto tonight http://t.co/03P4JFAC8R” @TheBruun",
+            "user id": 29145540,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": "@Rachelle_JL I think it sold out in minus 4 minutes.",
+            "user id": 245957977,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@billboard: Secret Prince show rumored for Toronto tonight http://t.co/90Qxxfa6w7” Wishing this was NYC @pdubfunk",
+            "user id": 21221054,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@TheBruun noooooo!",
+            "user id": 29145540,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

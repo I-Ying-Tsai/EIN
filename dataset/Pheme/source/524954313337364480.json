@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "#RCMP asking for assistance if you have any photos or videos from #ottawa shooting send to: NatDiv_Media_DivNat@rcmp-grc.gc.ca",
+        "user id": 2786147872,
+        "tweet id": "524954313337364480",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@OPP_COMM_ER: #RCMP asking for assistance if you have photos/videos fm #ottawa shooting send to: NatDiv_Media_DivNat@rcmp-grc.gc.ca”",
+            "user id": 96464367,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OPP_COMM_ER #RCMP asking for assistance if you have any photos or videos from #ottawa shooting send to: NatDiv_Media_DivNat@rcmp-grc.gc.ca",
+            "user id": 39547278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

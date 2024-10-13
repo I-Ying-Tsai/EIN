@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Source says ONE suspect shot and killed inside PARLIAMENT HILL - security sweep still underway. #ottnews #BREAKING",
+        "user id": 49654153,
+        "tweet id": "524931752725585921",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CFRAOttawa @StuntmanStu @cnnbrk",
+            "user id": 437879583,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@CFRAOttawa\n\nHas the suspect been caught",
+            "user id": 752296526,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

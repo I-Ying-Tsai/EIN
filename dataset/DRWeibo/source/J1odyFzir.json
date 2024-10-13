@@ -1,0 +1,164 @@
+{
+    "source": {
+        "content": "#虎门大桥发生异常抖动#的原因找到：38号吊索钢丝绳断裂！发生于钢箱梁内侧锚头处，旧索从内面外发生锈蚀，目前已经拆除吊索，又发现多根出现锈蚀。主缆开揽检查发现中跨跨中位置均有3-4层腐蚀严重的钢索。 据@高铁见闻 #物理# ",
+        "time": "20-5-11 08:34",
+        "user id": "1155439107",
+        "tweet id": "J1odyFzir",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "1837423884",
+            "user name": "妇女之友的桃木",
+            "content": "这个原因靠谱，之前水马说太玄乎了，谁敢走。",
+            "time": "20-5-11 11:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "2867970284",
+            "user name": "容我再嗦一碗粉",
+            "content": "你敢不盖住新闻时间吧，这是去年4月份的消息……",
+            "time": "20-5-12 10:56",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [
+                1
+            ],
+            "user id": "1155439107",
+            "user name": "王自荣",
+            "content": "我也不敢",
+            "time": "20-5-11 11:48",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 3,
+            "parent": 4,
+            "children": [
+                2
+            ],
+            "user id": "1837423884",
+            "user name": "妇女之友的桃木",
+            "content": "对，早上看到了，说是可以通行，反正我是不敢走。",
+            "time": "20-5-11 11:47",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "user id": "1155439107",
+            "user name": "王自荣",
+            "content": "但有微博说，还是以前那个原因。可笑",
+            "time": "20-5-11 11:46",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "2867970284",
+            "user name": "容我再嗦一碗粉",
+            "content": "你这条消息是去年4月12号的事了……修38号钢索，现在搞事真是太方便了，编造都不需要了，只需要截图少截一点就行了……",
+            "time": "20-5-12 10:59",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "1155439107",
+            "user name": "王自荣",
+            "content": "谢谢，我已经重新发了条微博了",
+            "time": "20-5-12 11:05",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "1177985924",
+            "user name": "一曲彩虹k",
+            "content": "早上好",
+            "time": "20-5-11 08:40",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "5693723398",
+            "user name": "知名男鸽手",
+            "content": "来生，想做一朵蒲公英，无牵无挂，无欲无求，起风而行，风静而安",
+            "time": "20-5-11 08:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "1228119560",
+            "user name": "金子来自沙子",
+            "content": "之前某著名砖家表示撤掉水马即可，如今砖家又出了用重物加压的方案，后来，数量满载重物的渣土车整齐列队准备开上虎门大桥，路专家解释是要用重物给大桥主体加压以用来减少晃动。修复和找原因，方案也是来回变化！希望要走虎门大桥的这些司机平安归来。",
+            "time": "20-5-11 16:43",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "source": {
+        "content": "Cartoonist Stephane Charbonnier was critically injured in the attack (LeFigaro) #CharlieHebdo http://t.co/fHMfUmQffo",
+        "user id": 220416676,
+        "tweet id": "552801880812691456",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AllawziSalim someone on my TL said he died. Is it true?",
+            "user id": 404249705,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@ZokLara بعد ما طلع شي !",
+            "user id": 220416676,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AllawziSalim @Dputamadre a critic didnt like his cartoon?",
+            "user id": 2686106365,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": "@AllawziSalim https://t.co/NSzKii8Mp2",
+            "user id": 404249705,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@ZokLara صح !شكله هيك !",
+            "user id": 220416676,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

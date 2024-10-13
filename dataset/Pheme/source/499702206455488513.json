@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The #Ferguson police are STILL on the tv LYING about wanting peace and there's military guns and amour trucks here in broad daylight",
+        "user id": 1291770157,
+        "tweet id": "499702206455488513",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa STILL lying!",
+            "user id": 158244715,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa Because people are looting, burning down buildings and shooting/killing people. There is a reason that they are armed.",
+            "user id": 2511739878,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Nettaaaaaaaa i'm praying for you and everyone there. so proud of you",
+            "user id": 39344350,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

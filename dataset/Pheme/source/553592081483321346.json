@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "Respect to the French Police #JeSuisCharlie http://t.co/51rRu2PDyJ",
+        "user id": 383685824,
+        "tweet id": "553592081483321346",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@Parazhit @AzusaPD @covinapd @WestCovinaPD  YOYou all need one of these,just incase!!!! The bad guys are getting crazier!!!!",
+            "user id": 17520908,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                11
+            ],
+            "content": "@derlesu @Parazhit @AzusaPD @covinapd @WestCovinaPD no we don't.",
+            "user id": 96971125,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@Parazhit Les habitants de #Boston se tiennent avec la #France. #FranceStrong",
+            "user id": 18142983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@brm90 @Parazhit Merci !",
+            "user id": 560894263,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit @gallet81127917 spécial djihadiste 100% pur porc",
+            "user id": 176875821,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit it sure took a long time to get the bastards,I think eventually that will be discussed",
+            "user id": 262062797,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit @SezNCoD merci thanks",
+            "user id": 2785087875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit @SezNCoD je suis un français i am french",
+            "user id": 2785087875,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit @maxime7 aussi pour la french gendarmerie http://t.co/3UGLIuOAYY",
+            "user id": 1943773440,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit @slaviank please do not forget #GIGN and #BRI ;)",
+            "user id": 388175861,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Parazhit God bless them.",
+            "user id": 293089998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 1,
+            "children": [],
+            "content": "@Guillome_fr @Parazhit @AzusaPD @covinapd @WestCovinaPD lol (reading between the lines). I'm praying for all of you. God help us all!",
+            "user id": 17520908,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

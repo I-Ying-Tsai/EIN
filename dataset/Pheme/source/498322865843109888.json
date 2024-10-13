@@ -1,0 +1,78 @@
+{
+    "source": {
+        "content": "White-privilege apologist internet trolls saying, \"Wait for details before you jump to conclusions.\" You need more details? #Ferguson",
+        "user id": 65860206,
+        "tweet id": "498322865843109888",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown @TheBlackVoice They need to shut the freak up. Details? Tell me what justifies 10 damn bullets and body out for four hrs",
+            "user id": 25209469,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "They've confirmed he was unarmed. He was a teen, shot multiple times, by a cop. Those are enough details for me. #Ferguson",
+            "user id": 65860206,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@capetownbrown I agree, Im starting to think they are bringing back lynch mobs however, lets avoid the white guilt rhetoric.",
+            "user id": 143169070,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@capetownbrown @GrooveSDC God I'm sick of this. If I was a mother of a black son I'd worry every time he went out.",
+            "user id": 388479343,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown I agree this is an injustice but are you also say we should form opinions before we know the facts",
+            "user id": 26524833,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

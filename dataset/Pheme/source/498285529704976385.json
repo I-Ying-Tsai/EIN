@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "The only reason those cops haven't gone all Selma on the people in #Ferguson is because the cameras are rolling. That's it.",
+        "user id": 19209645,
+        "tweet id": "498285529704976385",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PlayVicious yup, and shit would be around the world in 80 secs.",
+            "user id": 343571392,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PlayVicious VIPHYA USA - (HIRING) MALE/FEMALE (MODELS) - PETITE/PLUS SIZE - CELEBRITY EVENTS http://t.co/f1v8tBVhQ2  404-860-2171",
+            "user id": 431153095,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PlayVicious  check out copblock http://t.co/VCblqbGs54",
+            "user id": 49791543,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

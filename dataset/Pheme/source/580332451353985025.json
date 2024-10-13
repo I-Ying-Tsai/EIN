@@ -1,0 +1,100 @@
+{
+    "source": {
+        "content": "Last position data of flight #4U9525 directly from Flightradar24 database http://t.co/Cig7OGxQM8",
+        "user id": 134196350,
+        "tweet id": "580332451353985025",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@flightradar24 funny how there wasn't much heading change during descent - is there an airport anywhere on that heading?",
+            "user id": 7432222,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@filchambers @flightradar24 first they gained alt then dropping but steady speed... it's like something was damaged but still quite OK.",
+            "user id": 389539490,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@filchambers @flightradar24 From what I see this is past Nice and Marseilles",
+            "user id": 43553304,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 looks like #Airbus computer problem like #LH1829 few month ago",
+            "user id": 51575486,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@flightradar24 -3904 ft/min is more than just a steep decent.",
+            "user id": 19067011,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@flightradar24: Ultima posicion geografica del vuelo #Germanwings #4U9525 desde base de datos de #Flightradar24 http://t.co/F5cOCfZS1W”",
+            "user id": 190624049,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@flightradar24: Last position data of flight #4U9525 directly from Flightradar24 database http://t.co/VWSthExuuJ”",
+            "user id": 416352474,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

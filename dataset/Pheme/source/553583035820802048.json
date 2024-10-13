@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Smoke is emerging from building at site of hostage situation. Gunshots, loud blasts heard. http://t.co/IZoucAQgFi #CharlieHebdo",
+        "user id": 3108351,
+        "tweet id": "553583035820802048",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ .......http://t.co/BWKnKZEzNX",
+            "user id": 442691734,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ",
+            "user id": 289383524,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ http://t.co/GY7c4sXOSV",
+            "user id": 1656511472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ France may want to rethink their stance on an armed citizenry. An armed society is a polite society. #CharlieHebdo #carryon",
+            "user id": 26867040,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ i told u theyd not tolerate it! @pogleigh",
+            "user id": 2814701906,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

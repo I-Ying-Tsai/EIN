@@ -1,0 +1,732 @@
+{
+    "source": {
+        "content": "愚蠢的风者，没大脑。",
+        "user id": 1662121980,
+        "tweet id": "3491568721987017",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                33
+            ],
+            "content": "剧情更丰富了",
+            "user id": 1651472562,
+            "user name": "蝶舞卿影",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "电视连续剧哦",
+            "user id": 2288170162,
+            "user name": "鸡汤馄饨面",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                4,
+                5,
+                6,
+                7,
+                9,
+                22
+            ],
+            "content": "爬上花园酒店顶棚的女子已经被证明是樱桃小丸子。",
+            "user id": 1495090737,
+            "user name": "李玩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "content": "开始各种黑了",
+            "user id": 1735944200,
+            "user name": "泡在雨水里的木鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "捞头暴民+东瀛特务",
+            "user id": 2160929282,
+            "user name": "梁上君子1217",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [
+                8,
+                11,
+                41
+            ],
+            "content": "广州警方已经正式辟谣并无此事，并表示对各类造谣行为，警方将依法查处。向@广州公安 举报造谣者。",
+            "user id": 1641468051,
+            "user name": "孙雪东",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [
+                10,
+                16,
+                30
+            ],
+            "content": "剧情曲折离奇。。。。",
+            "user id": 1767811407,
+            "user name": "诺汐深陷厨房不能自拔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [
+                14,
+                27
+            ],
+            "content": "回覆@卡住度门:多啦a梦被拒绝入境了，爬佳能招牌的是忍者乱太郎。",
+            "user id": 1495090737,
+            "user name": "李玩",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [
+                12,
+                15,
+                17,
+                24
+            ],
+            "content": "砸酒店的其实是路飞。。。",
+            "user id": 1665531682,
+            "user name": "北京五洲皇冠国际酒店",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 2,
+            "children": [
+                23
+            ],
+            "content": "这都多少年前的照片了，整容杀人犯，谁tm老造谣啊唯恐天下不乱！",
+            "user id": 1280687943,
+            "user name": "小竹子殿下",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 10,
+            "parent": 6,
+            "children": [],
+            "content": "爆料！！916抢花园酒店月饼的是多啦A梦，他以为是豆沙包！快把这个日本鬼子足拿归案！",
+            "user id": 1744945425,
+            "user name": "Sugizo_shu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 5,
+            "children": [
+                19
+            ],
+            "content": "狗日的",
+            "user id": 1840470193,
+            "user name": "KaMinTT",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [
+                35
+            ],
+            "content": "瞎掰，这张是杀死英国人的日本通缉犯，早就抓起来了。",
+            "user id": 2034757772,
+            "user name": "真的不代购",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "据说是技安和大雄策划的",
+            "user id": 2097094233,
+            "user name": "弹指神通",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 7,
+            "children": [],
+            "content": "[汗]",
+            "user id": 1983031743,
+            "user name": "坚强的李懿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 8,
+            "children": [],
+            "content": "@医生哥波子 @李静雯GDTV播霸 @广州区伯 @李艳1008 @南方日报 @人民日报 @Linda王馨平 @KonaPrinceCoffee",
+            "user id": 1734292540,
+            "user name": "少见波",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 16,
+            "parent": 6,
+            "children": [],
+            "content": "[衰]",
+            "user id": 1757202007,
+            "user name": "JC起床困难户想冬眠",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 17,
+            "parent": 8,
+            "children": [],
+            "content": "@微天下@人民网 @王挺 @彭澎 @我系彭彭 @拍案官方微博 @今日最新闻官方微博",
+            "user id": 1734292540,
+            "user name": "少见波",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "假的",
+            "user id": 1748835503,
+            "user name": "根红苗歪",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": 11,
+            "children": [
+                54
+            ],
+            "content": "",
+            "user id": 1729010867,
+            "user name": "西街仔V",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                29
+            ],
+            "content": "这是2011年在日本抓到的整容杀人犯市侨达也呢！",
+            "user id": 2336057001,
+            "user name": "sailouhei",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "content": "这类造谣很容易识破，将两个头像截图，上传谷歌图片，马上能知道头像人物的出处",
+            "user id": 1496298304,
+            "user name": "此昵称每次都被人抢",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": 2,
+            "children": [],
+            "content": "现实远比小说精彩",
+            "user id": 2367450581,
+            "user name": "笔头风月时时过",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 23,
+            "parent": 9,
+            "children": [],
+            "content": "间谍天堂",
+            "user id": 1041264742,
+            "user name": "lorence1971",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 24,
+            "parent": 8,
+            "children": [
+                26
+            ],
+            "content": "大盗贼呀",
+            "user id": 1435458825,
+            "user name": "Dennis鬼冢",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "content": "我们不能受骗啊！",
+            "user id": 2199110670,
+            "user name": "allicialin",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": 24,
+            "children": [],
+            "content": "@张晋之windy 你什么时候来广州的？也不告诉我们一声？",
+            "user id": 1761134073,
+            "user name": "影享生活",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 27,
+            "parent": 7,
+            "children": [],
+            "content": "打砸抢明显是腊肉的风范！日本人学的来，太抬举小日本了吧！",
+            "user id": 1165274577,
+            "user name": "King_Heart",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [
+                44
+            ],
+            "content": "转发微博",
+            "user id": 1730076494,
+            "user name": "化妝師Rainbow_Yip",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": 20,
+            "children": [],
+            "content": "辟谣",
+            "user id": 1741209762,
+            "user name": "茶海叔",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 30,
+            "parent": 6,
+            "children": [],
+            "content": "可以拍部谍战剧了吧。。。这是将矛头引向在华的日本人，用心有点明显吧。。。",
+            "user id": 2891516657,
+            "user name": "悟空-正派",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "政府做野可唔可以唔好甘俹簁啊",
+            "user id": 1745871967,
+            "user name": "邹少泷S",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "content": "忽悠！谁信啊~",
+            "user id": 2092998044,
+            "user name": "wangchuknaga",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": 0,
+            "children": [
+                36,
+                48
+            ],
+            "content": "[黑线]",
+            "user id": 1429809215,
+            "user name": "小常笑笑",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "content": "晕s，搞甘多也做咩姐，抵制咪算咯~人家当笑话啦，游行，筛时间又阻路喔，系游行都去日本啦~~",
+            "user id": 2041418893,
+            "user name": "啉Windy林",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": 12,
+            "children": [
+                38
+            ],
+            "content": "表再瞎闹了。。",
+            "user id": 2391451031,
+            "user name": "奔跑的ayaka",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 36,
+            "parent": 33,
+            "children": [
+                37
+            ],
+            "content": "",
+            "user id": 1095425051,
+            "user name": "守门人harry",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 37,
+            "parent": 36,
+            "children": [
+                40
+            ],
+            "content": "",
+            "user id": 1886394585,
+            "user name": "奥特曼老爹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 38,
+            "parent": 35,
+            "children": [],
+            "content": "不是假就是假的国家够可怜了。这个时候可以去重翻尊敬的鲁迅先生的“阿Q正传”，阿Q是不是很像这段时间在哪看过的谁",
+            "user id": 2051211785,
+            "user name": "Katsu_Alano_N",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "content": "留学的\"罗卜头\"真聪明,混入华人中带头搞事破坏中国人治安秩序,破坏中国人的财产",
+            "user id": 2265584737,
+            "user name": "粤北行-蔡能强",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": 37,
+            "children": [],
+            "content": "一看就是小日本~",
+            "user id": 2253599883,
+            "user name": "麻辣葱油小鸡丝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 41,
+            "parent": 5,
+            "children": [
+                45
+            ],
+            "content": "看，带头打砸的那个矮胖的家伙就是日本黑社会大当家，人称“伸手不见五指”的黑暗魔王——多拉A梦！",
+            "user id": 1172142272,
+            "user name": "麦兜兜虍戨",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                47
+            ],
+            "content": "NND[怒]",
+            "user id": 1890148942,
+            "user name": "晓不点眼镜妹",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [],
+            "content": "日本人就是这样无耻！",
+            "user id": 2651096833,
+            "user name": "广州快乐人生",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": 28,
+            "children": [
+                46,
+                52
+            ],
+            "content": "可恨",
+            "user id": 1771372457,
+            "user name": "钟小V",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 45,
+            "parent": 41,
+            "children": [],
+            "content": "好吧～用来放火的绝招是动感光波～",
+            "user id": 1599585721,
+            "user name": "四叶de馒头_Joy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 46,
+            "parent": 44,
+            "children": [],
+            "content": "可恨",
+            "user id": 2509190894,
+            "user name": "好好活着感恩幸福",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 47,
+            "parent": 42,
+            "children": [
+                49
+            ],
+            "content": "介是日本一犯人，估计人还在日本监狱呢[挖鼻屎]",
+            "user id": 2357236005,
+            "user name": "噗甫噗甫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": 33,
+            "children": [],
+            "content": "这长的够日的~~~",
+            "user id": 2186918602,
+            "user name": "Lily陈小町",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 49,
+            "parent": 47,
+            "children": [],
+            "content": "真够坏的，不过跟着闹事的也是脑残！",
+            "user id": 1741629592,
+            "user name": "水纪行",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [
+                51,
+                53
+            ],
+            "content": "像我？",
+            "user id": 1870478700,
+            "user name": "张晋之windy",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": 50,
+            "children": [],
+            "content": "有眼。",
+            "user id": 1894515020,
+            "user name": "Kyle_海上",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 52,
+            "parent": 44,
+            "children": [],
+            "content": "超好恨~~",
+            "user id": 1364147964,
+            "user name": "红红细细界",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 53,
+            "parent": 50,
+            "children": [
+                55
+            ],
+            "content": "你像華少[偷笑]",
+            "user id": 1653741840,
+            "user name": "吳雯潔Mini",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 54,
+            "parent": 19,
+            "children": [],
+            "content": "",
+            "user id": 1729549617,
+            "user name": "LYinYin",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 55,
+            "parent": 53,
+            "children": [],
+            "content": "这两个一看就是岛国脸。。。",
+            "user id": 1130331211,
+            "user name": "不戴花儿的四姨",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 56,
+            "parent": -1,
+            "children": [],
+            "content": "卑鄙的小日本儿！！！[怒]",
+            "user id": 1928872973,
+            "user name": "flora-zjy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 11
+        },
+        "2-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 7,
+            "state_1": 5
+        },
+        "4-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "5-hop": {
+            "state_0": 3,
+            "state_1": 4
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

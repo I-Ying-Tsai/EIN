@@ -1,0 +1,183 @@
+{
+    "source": {
+        "content": "Shot ten times.\nUnarmed.\nWhat else is there to talk about?\n#StopTheSmear #Ferguson",
+        "user id": 5513002,
+        "tweet id": "500421926079066112",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel 👏",
+            "user id": 898260326,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel, 25 Favs! Your tweet has been favorited by 25 people. http://t.co/wAg8Z7sl6Q",
+            "user id": 34129851,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel Ten times!?! Has that been announced? They are so screwed! #Ferguson",
+            "user id": 20294446,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel @Politics_PR Apparently it’s all okay because he was allegedly involved in a robbery. #Ferguson police are allowed to do that.",
+            "user id": 16633799,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel, 50 Favs! Your tweet has been favorited by 50 people. http://t.co/VV1Xlscnk9",
+            "user id": 108146158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel @Politics_PR 10 times.. are you sure?, I thought it was 4-6 times",
+            "user id": 586176110,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@Marmel @FurbleScout Do we know for a fact that he was shot 10 times?",
+            "user id": 282543498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12,
+                13
+            ],
+            "content": "@Super_Shinobi @Marmel You're right. We still don't have all the facts. Let's say he was shot \"multiple\" times. That make everything better?",
+            "user id": 581209308,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel, 100 Favs! Your tweet has been favorited by 100 people. http://t.co/EQP2d70b2r",
+            "user id": 17875457,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@Marmel: Shot ten times.\nUnarmed.\nWhat else is there to talk about?\n#StopTheSmear #Ferguson”",
+            "user id": 1601342389,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "RT @Marmel: Shot ten times.\nUnarmed.\nWhat else is there to talk about?\n#StopTheSmear #Ferguson",
+            "user id": 199908404,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Marmel @tovangar2 The fact that the killer is on the loose, and neither the local police nor the FBI are looking for him.",
+            "user id": 19729358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [],
+            "content": "@FurbleScout @Marmel Based on the information regarding have, it doesn't look like a justified shooting.",
+            "user id": 282543498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 7,
+            "children": [],
+            "content": "@FurbleScout @Marmel But I don't think spreading unproven facts is the way to go.",
+            "user id": 282543498,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

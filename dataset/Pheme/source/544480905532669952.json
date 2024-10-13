@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "Our hearts go out to the people of Australia and all those affected by the #SydneySiege.",
+        "user id": 14260960,
+        "tweet id": "544480905532669952",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "No one is dead, yet - “@JustinTrudeau: Our hearts go out to the people of Australia and all those affected by the #SydneySiege.”",
+            "user id": 148508453,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau We disagree a lot Mr. Trudeau. But not today ... Well said  Justin. well said...",
+            "user id": 361456549,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau http://t.co/gxMRjvL3dZ",
+            "user id": 1029611648,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau I agree, so scary for the hostages. Terrible!",
+            "user id": 2314092451,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@JustinTrudeau should we search for the root causes?",
+            "user id": 565978620,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@stefs8 @Banks_Todd @JustinTrudeau   Maybe Terrorist just wants a Parka &amp; Winter Mittens!",
+            "user id": 2209557522,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau #SydneySiege ... But of course, the most important thing is to understand the injustice that led to this misunderstanding.",
+            "user id": 2284428180,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau the flag apparently the same flag of #ISIS ! #Canada must be watchful of #ISIS",
+            "user id": 165382079,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau and you so like Muslims!  This is their true face! This is Islam! Admit the truth don't blind yourself!",
+            "user id": 2370392006,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau $25,000.00 REWARD For Public Assistance Seeking Criminal Investigation http://t.co/dQ6pGhOF28 http://t.co/zMDNbh3Lk4",
+            "user id": 2888321602,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau",
+            "user id": 2823431555,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau @think_secular are we buying them North Face jackets?",
+            "user id": 576539791,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau @CTVMercedes You suck Justin.  Please go away.",
+            "user id": 429936555,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@JustinTrudeau @Can_ada seems like an ugly double-standard that people of Australia r worthy of ur sympathy, but people of #Gaza r not.",
+            "user id": 2650967767,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

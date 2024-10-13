@@ -1,0 +1,171 @@
+{
+    "source": {
+        "content": "This morning in France, anti-Muslim terrorists threw 2 or 3 grenades into a mosque\nNo injuries\nhttp://t.co/8WKHxSO92b http://t.co/LJiPciR6Hm",
+        "user id": 852269288,
+        "tweet id": "553232531827740672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton Charlie Hebdo: This Attack Was Nothing To Do With Free Speech — It Was About War https://t.co/odHoHQB11a",
+            "user id": 190280139,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton @Witness99_ a damn doubt is there christian, jewish teror attacks in west hypocracy Dictionaries?\n#parisMosqueAttack",
+            "user id": 2856694188,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton @DavidRomeiPHD thank goodness no injuries, enough bloodshed.",
+            "user id": 794172158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton #JeSuisAhmed",
+            "user id": 1884326047,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton @AsgharBukhari shame that",
+            "user id": 2283318616,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@BenjaminNorton @HajjajYousef kolla vad de som hände igår resluterats med? Det blev bara värre för muslimerna i Paris",
+            "user id": 2593880796,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                12
+            ],
+            "content": "@Allanabdisson @BenjaminNorton vu får se vad de kallar det nu på median",
+            "user id": 705778718,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@halee217 @benjaminnorton Paris attackers not 'Muslim terrorists' http://t.co/b4Nd7q4rqx",
+            "user id": 70593494,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton @semzyxx whats that supposed to do?",
+            "user id": 187298666,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton @semzyxx America kills so much innocent people so that means we supposed to kill american citizens?",
+            "user id": 187298666,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton Will they be charged with terrorism if &amp; when arrested? Won't hold my breath 😴",
+            "user id": 827352452,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BenjaminNorton @RAJKUMARINDIA1 #Feku 's Army in India does this daily to SCARE people of Kashmir to SUBMISSION...#TamilNadu #AIADMK",
+            "user id": 187422294,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 6,
+            "children": [],
+            "content": "@HajjajYousef @BenjaminNorton dom kmr säga \"en grupp mentalt sjuka människor kastade granat på moské\"",
+            "user id": 2593880796,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

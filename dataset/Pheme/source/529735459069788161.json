@@ -1,0 +1,150 @@
+{
+    "source": {
+        "content": "Inside Massey Hall in Toronto. Pretty legit. Wish I were there! @3RDEYEGIRL #Prince http://t.co/Z8vRZTSx5W",
+        "user id": 526528241,
+        "tweet id": "529735459069788161",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": ".@SaraSavoy They just reported it as cancelled! Where is this photo from? @3RDEYEGIRL",
+            "user id": 19329568,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@ChezRobb @3RDEYEGIRL Someone sent it to me. As with all things Prince, you never know what might happen. Good luck!",
+            "user id": 526528241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@SaraSavoy @3RDEYEGIRL what happened?",
+            "user id": 527064557,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                7
+            ],
+            "content": "@LainieTowell @3RDEYEGIRL No clue Lainie.",
+            "user id": 526528241,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@SaraSavoy that's why we lined up for hours. Everything we saw/heard was today was pretty legit except for Prince :(",
+            "user id": 202922157,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@SaraSavoy we got EFFED!",
+            "user id": 202922157,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                8
+            ],
+            "content": "@Azifikare It happens. I'm sorry for you. 💜",
+            "user id": 526528241,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [],
+            "content": "@SaraSavoy @3RDEYEGIRL eye think it's the CDN media and their reports that focus on the past not the now",
+            "user id": 527064557,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [
+                9
+            ],
+            "content": "@SaraSavoy So close and yet so far from @3RDEYEGIRL today felt like a kick in the ovaries!",
+            "user id": 202922157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@Azifikare @3RDEYEGIRL 😞💜😞💜",
+            "user id": 526528241,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

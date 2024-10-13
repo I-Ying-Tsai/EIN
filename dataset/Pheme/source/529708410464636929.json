@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Prince to perform surprise show tonight at Massey Hall http://t.co/J6NJFodRcX",
+        "user id": 1523681,
+        "tweet id": "529708410464636929",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Toronto I just saw Shake, Rattle, and Roll",
+            "user id": 2820340494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

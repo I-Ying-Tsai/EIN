@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "MT @Paris The Eiffel tower to switch off the lights at 20h in tribute to #CharlieHebdo victims http://t.co/s0yWX90f2L",
+        "user id": 438355707,
+        "tweet id": "553160213839486976",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "❤️ “@francediplo_EN: MT @Paris The Eiffel tower to switch off the lights at 20h in tribute to #CharlieHebdo victims http://t.co/mF3dOHbOca”",
+            "user id": 224073039,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@francediplo_EN @Paris @BnCormier  I love the \"Lady\" and saw her in June. Hugs to Paris!",
+            "user id": 39914724,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@francediplo_EN @keeptalkingGR @Paris but keep the #chemtrails",
+            "user id": 778023733,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "BREAKING: Peter Mansbridge now reporting one suspect shot dead inside Parliament Hill",
+        "user id": 115514485,
+        "tweet id": "524942946765131776",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@cbcsteve @HuffPostCanada is it confirmed?",
+            "user id": 28410618,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@LaComtess @HuffPostCanada yes",
+            "user id": 115514485,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsteve @HuffPostCanada Good.",
+            "user id": 197994096,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@cbcsteve My niece works there. Hope she's oke. @jrdevrije",
+            "user id": 2419450998,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "source": {
+        "content": "I would rather die standing up, than live life on my knees. #JeSuisCharlie #IamCharlie http://t.co/VekwGbshpq",
+        "user id": 87012901,
+        "tweet id": "552823829333291010",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "Jesus is in the name 'JeSuis' !\n@Benoit_CR @gegco",
+            "user id": 35216399,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Patriotic_Me @Benoit_CR @gegco Jesus = Iēsous ee-ay-sooce' . That caught my eye when you posted it. Wonder if it is pronounced similar.",
+            "user id": 1324067964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                7,
+                8
+            ],
+            "content": "@Patriotic_Me @Benoit_CR That is so interesting",
+            "user id": 24293233,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Benoit_CR Je Suis Charlie: Islam, Obama, &amp; The Muslim Brotherhood, has America, on her knees. Charlie, give Americans a backbone to rise up",
+            "user id": 574031250,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Benoit_CR @Patriotic_Me and he is a hero",
+            "user id": 1901945432,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Benoit_CR @Shirleystopirs I C this man N my mind-then a pic of Boehner blubbering comes 2 mind-2 many on their knees",
+            "user id": 2186286104,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@Benoit_CR https://t.co/ciuEFRMTpB",
+            "user id": 164193368,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@gegco @Patriotic_Me @Benoit_CR that's why they were attacked.  Not cartoons.  Like Benghazi.  Not the video.",
+            "user id": 774719010,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 2,
+            "children": [],
+            "content": "@gegco I know, right? @Benoit_CR",
+            "user id": 35216399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

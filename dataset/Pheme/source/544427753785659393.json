@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "#illridewithyou . Sydney, you're amazing",
+        "user id": 22595904,
+        "tweet id": "544427753785659393",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@shortstackband this just shows how our country can stand together throughout anything. I'm proud to be australian tonight",
+            "user id": 554916509,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@laurenb_lauren fuck. Oath.",
+            "user id": 22595904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@shortstackband reflection of what the Australian people are really about. Such an awesome communal initiative 👍",
+            "user id": 124617910,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@bropalstyles oath!!!",
+            "user id": 22595904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@shortstackband amen",
+            "user id": 2444029231,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@shortstackband @HeyASIO The first thing I've ever seen that suggests you're not a pack of tight-jean'ed cunts. Onya lads!",
+            "user id": 346355741,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@shortstackband This is honestly amazing. Even through the ups and downs we still stick together. #illridewithyou",
+            "user id": 631008786,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@shortstackband yes Sydney you are.",
+            "user id": 30863653,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@shortstackband: #illridewithyou . Sydney, you're amazing”",
+            "user id": 408265091,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@shortstackband @Noise11Tweets Kathy McCabe started it",
+            "user id": 106584099,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@shortstackband it's terrifying but it's amazing to see a country stand together. United we stand, divided we fall.",
+            "user id": 554916509,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

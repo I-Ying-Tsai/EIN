@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Where is Putin? Here is the answer! He has opened a pub on Jaffa street in Jerusalem! #putindead #Putin #putinumer http://t.co/eBhvyDTNLS",
+        "user id": 147508131,
+        "tweet id": "576806702454075392",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@johanromin He is running Netanyahu's reelection campaign",
+            "user id": 260848405,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "Armed gunmen shoot local man as part of their reign of terror in Iraq. Oops! Nope, that was police in #Ferguson. My mistake.",
+        "user id": 27754737,
+        "tweet id": "499568802267672576",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TeaPartyCat Police were on combat operations. What did you expect?",
+            "user id": 16633799,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TeaPartyCat Police officer is tried and convicted in the court of public opinion prior to ACTUAL investigation. #AnotherDayOnTwitter",
+            "user id": 492952633,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "armed to better than the army compliments of Obams #DHS .@TeaPartyCat #Ferguson",
+            "user id": 118953812,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TeaPartyCat Why does this phenomenon continue? There needs to be a national discourse to revert. Black cops shooting unarmed Black kids?",
+            "user id": 2695884114,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@TeaPartyCat: Armed gunmen shoot local man as part of their reign of terror in Iraq. Oops! Nope, that was police in #Ferguson. My mistake.”",
+            "user id": 273737173,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TeaPartyCat @kharyp and LA",
+            "user id": 1488378090,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": ".@TeaPartyCat @EnigmaNetxx - check out this pix of militarized #Ferguson police approaching a citizen http://t.co/XSyUJRGBWW",
+            "user id": 15792333,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@TariAkpodiete @TeaPartyCat   Thank You, TARI! Enjoy Your Day, TweetHEART!",
+            "user id": 166001916,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "Iraqi terrorism, #Ferguson-style: http://t.co/WruuIHtto9 @TeaPartyCat @Veresapiens @PettyVendetta @j4k061n  @nagoul1 @mikearchy @theantigov",
+            "user id": 290720646,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "content": "Was occupation Iraq a dystopian training mission all along? @VicPopuli @TeaPartyCat @PettyVendetta @j4k061n @nagoul1 @mikearchy @theantigov",
+            "user id": 99407203,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@Veresapiens yes, it was @VicPopuli @TeaPartyCat @PettyVendetta @j4k061n @nagoul1 @mikearchy @theantigov",
+            "user id": 36752364,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

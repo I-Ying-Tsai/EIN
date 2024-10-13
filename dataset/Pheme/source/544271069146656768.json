@@ -1,0 +1,162 @@
+{
+    "source": {
+        "content": "We understand there are two gunmen and up to a dozen hostages inside the cafe under siege at Sydney.. ISIS flags remain on display #7News",
+        "user id": 258627226,
+        "tweet id": "544271069146656768",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@KristyMayr7 @theleadernews not ISIS flags",
+            "user id": 1038235795,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@KristyMayr7 @worstbloke sorry - how do you know it's an ISIS flag? Can you actually confirm that?",
+            "user id": 22470244,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Julia_Why @KristyMayr7 @worstbloke no she can't cos it's actually not",
+            "user id": 347883924,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "MT @KristyMayr7: We understand there are two gunmen and up to a dozen hostages inside the cafe under siege at Sydney.. ISIS flags on display",
+            "user id": 15382667,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@DianneG More on situation at Martin Place in Sydney, AU http://t.co/MWMQsw0IHB\n\n @KristyMayr7",
+            "user id": 511276619,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@KristyMayr7 @maddychipendale Have you actually confirmed its an ISIS flag or are you talking shit",
+            "user id": 1928866418,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@KristyMayr7 @7NewsAdelaide not ISIS flags. Shahada flags.",
+            "user id": 35742815,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@KristyMayr7; several of your tweets are either wrong or misleading. Please hold yourself to higher journalism standards!",
+            "user id": 25019964,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@KristyMayr7  Journalists report facts - reporters bleat out crap they hear. ISIS my arse.",
+            "user id": 177153496,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@KristyMayr7 Flag in #Sydney hostage situation shows the Islamic profession of faith ('shahada'). Not an IS flag despite the same wording",
+            "user id": 1622751547,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@KristyMayr7 This is not true. As you have made a lot of Tweets you may have forgotten this one. Do the right thing and remove it.",
+            "user id": 176044310,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@ALGANCTNwx yeah. That's her station",
+            "user id": 15382667,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

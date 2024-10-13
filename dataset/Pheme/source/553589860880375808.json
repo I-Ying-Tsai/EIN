@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "Dual hostage crisis ends: #CharlieHebdo suspects killed, ‘several hostages freed’ at supermkt http://t.co/LdSF5QeCiv http://t.co/Gm5z8owfhP",
+        "user id": 1994321,
+        "tweet id": "553589860880375808",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 anonymous to launch #OpCharlieHebdo in 1 day: http://t.co/KwyCsznElk",
+            "user id": 2571833844,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": ".@FRANCE24 not that they didn't deserve it,but I wished they could have been captured alive. This way, it was an easy way out. #CharlieHebdo",
+            "user id": 45380208,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@thomin @FRANCE24 Islamic terrorist,  prefer death over capture.",
+            "user id": 85949980,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @BFMTV @itele\nUne pensée pour les reporters sur place qui ne savent rien, qui ne voient rien et qui causent, qui causent ...",
+            "user id": 1337014554,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 @StenoJenny Would that a woman sniper could be the one killing them wearing the full armor of God and singing Amazing Grace",
+            "user id": 1206445651,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 they never make it out alive. Would like to hear their motives and mindset directly, rather than constructed narratives.",
+            "user id": 289120241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@FRANCE24 No surprise: http://t.co/EXda4iaLZJ",
+            "user id": 305924577,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

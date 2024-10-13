@@ -1,0 +1,185 @@
+{
+    "source": {
+        "content": "十万火急-----请帮忙转一下：一个湖南打工者，22岁，叫吴云飞，不知道在什么地方，请他速回湖南邵阳，直接到邵阳市中心医院。家中失火，父母双亡，妹妹伤势很严重，想见他最后一面。舅舅：15377396306 ——爱心接力。这个不转对不起自己的良心 （湖南省邵阳市邵东县两市镇红土岭派出所 )@陈远忠2004",
+        "user id": 2626327383,
+        "tweet id": "3517835907208784",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "转发微博",
+            "user id": 1596590865,
+            "user name": "王琛视界",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "",
+            "user id": 2806525150,
+            "user name": "EasyXie",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "转发微博。",
+            "user id": 1173513281,
+            "user name": "露露__涵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "content": "",
+            "user id": 2189586584,
+            "user name": "jacky豆腐佬",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "晓敏知道这个人吗？你们湖南邵阳老乡",
+            "user id": 2934507070,
+            "user name": "风陵剑语",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "[爱心传递]",
+            "user id": 2616197343,
+            "user name": "感谢有你baby",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "转发微博",
+            "user id": 2507436872,
+            "user name": "郭卫群律师",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                10
+            ],
+            "content": "",
+            "user id": 1914315154,
+            "user name": "阿非的低语",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "十万火急，急转！",
+            "user id": 2498308233,
+            "user name": "碎月风尘",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "",
+            "user id": 1463913483,
+            "user name": "孩儿爸_ghs",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "content": "上天保佑 ！",
+            "user id": 1654083223,
+            "user name": "Less-Is_More",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 2,
+            "children": [],
+            "content": "",
+            "user id": 1421826931,
+            "user name": "胡紫凝",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1990560094,
+            "user name": "向往神光",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

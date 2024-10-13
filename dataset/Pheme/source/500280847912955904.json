@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Hold on while Chief Jackson sprinkles a little crack on that Mike Brown crime scene ... #Ferguson",
+        "user id": 160241472,
+        "tweet id": "500280847912955904",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ThroatChopU Lawdt. And an unregistered firearm too. I'm just /waiting/",
+            "user id": 169775701,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "#StayWoke “@ThroatChopU: Hold on while Chief Jackson sprinkles a little crack on that Mike Brown crime scene ... #Ferguson”",
+            "user id": 30681549,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

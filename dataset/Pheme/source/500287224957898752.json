@@ -1,0 +1,146 @@
+{
+    "source": {
+        "content": "Being shot 10 times in the street for stealing cigars is due process? No arrest. No trial. No conviction―just immediate execution. #Ferguson",
+        "user id": 65860206,
+        "tweet id": "500287224957898752",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown @MsGetty preach it.",
+            "user id": 197184097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@capetownbrown @Themiscyra It's MURICAN Process",
+            "user id": 59346212,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@capetownbrown @alexachula Mike Brown was wearing pants and gym shoes, not shorts and sandals.",
+            "user id": 37339807,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@buffblkwell @alexachula I'm not saying that's him in the video, I'm just playing off the ridiculousness of the allegations. It's tragic.",
+            "user id": 65860206,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                6
+            ],
+            "content": "@capetownbrown I agree, it's senseless.",
+            "user id": 43448399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@capetownbrown @alexachula It's tragic. Why did it take Twitter 10 mins to debunk that lie. The media should be held accountable.",
+            "user id": 37339807,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                7
+            ],
+            "content": "@alexachula it is. And I'm so tired of trying to make sense of these senseless situations, because they will never make sense. Has to stop.",
+            "user id": 65860206,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "content": "@capetownbrown it's so disheartening because I was already prepared for an outcome that would vindicate &amp; justify. 4 days of spinning facts.",
+            "user id": 43448399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@alexachula truly. Makes me so sick.",
+            "user id": 65860206,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

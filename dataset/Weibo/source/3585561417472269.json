@@ -1,0 +1,186 @@
+{
+    "source": {
+        "content": "#每日一帖#[生活百科][生活常识]牙膏底部的短线，绿色天然的。蓝色天然加药物，红色药物加化学，黑色纯化学。今后购买要记得好好看看了，真心有用！转！",
+        "user id": 2395439813,
+        "tweet id": "3585561417472269",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 3305941593,
+            "user name": "yichangws",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "扩散  都回家看牙膏吧",
+            "user id": 2775700775,
+            "user name": "1225啄木鸟",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "[衰][衰]还有这一说呐？！",
+            "user id": 2743725973,
+            "user name": "江南沃智能手机广场",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Dragon_X3X @胡乱找的卡塞蒂 @柒捌__叁",
+            "user id": 2085094997,
+            "user name": "萌多宠物阿拉_雪梨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "分享给大家",
+            "user id": 1761706270,
+            "user name": "像草一样生长--",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "转发微博",
+            "user id": 1243684972,
+            "user name": "简小姐改名叫卡门",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[震惊]",
+            "user id": 2646685763,
+            "user name": "XXX羽巷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [
+                13
+            ],
+            "content": " @Yidahot",
+            "user id": 1882535860,
+            "user name": "Dr水母君",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                10,
+                12
+            ],
+            "content": "😱😱😱⚡",
+            "user id": 1822889502,
+            "user name": "o0Peach0o",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "真的假的啊[晕]",
+            "user id": 1963598413,
+            "user name": "最不喜歡冬天的龘龘兔",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "真的呀！",
+            "user id": 2390166145,
+            "user name": "华小小妹儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "[思考]",
+            "user id": 1641817762,
+            "user name": "HuA_美丽",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 8,
+            "children": [],
+            "content": "[衰][衰]",
+            "user id": 1410565570,
+            "user name": "泡沫起堆堆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 7,
+            "children": [],
+            "content": "这个以前都没留心过。。。",
+            "user id": 1895419893,
+            "user name": "YSYS--",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

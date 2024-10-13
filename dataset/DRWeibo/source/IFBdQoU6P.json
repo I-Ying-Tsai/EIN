@@ -1,0 +1,192 @@
+{
+    "source": {
+        "content": "由於義大利疫情嚴重禁足已久，威尼斯水下的蓮花都長滿水面以上了！美得一塌糊塗！ ",
+        "time": "20-4-29 20:28",
+        "user id": "2643477111",
+        "tweet id": "IFBdQoU6P",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "6422307293",
+            "user name": "用户朱增荣",
+            "content": "假的吧？海水里有莲花？",
+            "time": "20-4-29 20:30",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "1406945680",
+            "user name": "灰锤部落",
+            "content": "P的吧",
+            "time": "20-4-29 21:52",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "7236932438",
+            "user name": "恩赐灵魂解脱",
+            "content": "我第一次听说海水能养莲花。。",
+            "time": "20-4-29 22:53",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "7083365276",
+            "user name": "大千杰森",
+            "content": "肯定假的呀",
+            "time": "20-4-29 22:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "7357505776",
+            "user name": "小乌龟tortoise爬呀爬爬呀爬",
+            "content": "这他妈荷塘月色都出来了",
+            "time": "20-4-29 20:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "1419010500",
+            "user name": "世界之大Point",
+            "content": "海莲花？",
+            "time": "20-4-29 21:37",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "6869641555",
+            "user name": "海里游泳的螃蟹哥86",
+            "content": "",
+            "time": "20-4-29 21:05",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "1400793765",
+            "user name": "我自有干将镆铘",
+            "content": "偶要画她",
+            "time": "20-4-29 20:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "2697843155",
+            "user name": "天堂鸟的遐想",
+            "content": "扯，海莲吗",
+            "time": "20-4-29 20:32",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "6769214443",
+            "user name": "红泥小火炉泡芙",
+            "content": "这还是我认识的那个威尼斯吗",
+            "time": "20-5-1 07:24",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "1700053901",
+            "user name": "戈壁花房",
+            "content": "这是去年的作品",
+            "time": "20-4-30 09:45",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "1707269630",
+            "user name": "威伯的投资",
+            "content": "扯淡，威尼斯的海水能长荷花？",
+            "time": "20-4-29 20:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "7193490149",
+            "user name": "馥芮白热的",
+            "content": "海水种莲花？sure？",
+            "time": "20-4-30 00:05",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "1865562994",
+            "user name": "南河边的探花",
+            "content": "蓝莲花",
+            "time": "20-4-29 21:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

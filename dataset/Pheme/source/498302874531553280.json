@@ -1,0 +1,151 @@
+{
+    "source": {
+        "content": "Unarmed teen killed by cops isn't the headline but calling black people \"ANGRY MOB!\" is, that tells you everything about the media #Ferguson",
+        "user id": 325265073,
+        "tweet id": "498302874531553280",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@NerdyWonka They're both being covered, would you like the media to ignore the shots being fired &amp; \"kill the police\" chants?",
+            "user id": 224484865,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": ".@RayPureface @NerdyWonka You should be able to understand anger Blacks have about this needless likely racially motivated police shooting.",
+            "user id": 52230962,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka @Donna_West watch the white trolls come out now",
+            "user id": 737304938,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka @ClevelandWard5 This is terrible. What can be done -training, psychological support - to stop the perpetrators of this violence?",
+            "user id": 93552105,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka  whoever says the US has socially evolved beyond racism knows nothing of The US. Damn, I hate this stuff.",
+            "user id": 2610183074,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@NerdyWonka @Wary12 America has a long history of denying the black people rights, especially the right to be angry.",
+            "user id": 760337274,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": ".@lacadri34 @NerdyWonka @Wary12 Did you see the report about #voterdiscrimination, esp in the South? It's damning. http://t.co/GwI23l4eA6",
+            "user id": 52230962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": ".@NerdyWonka @FoL2009 Unless they were violent, they were not a mob. St. Louis White racism is all over this cop shooting &amp; reactions.",
+            "user id": 52230962,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka @LauraKMM  Go Listen To Tavo \"NoJusticeNoPeace\" https://t.co/apZYyvi7EG 🙏🙏🙏🙏🙏🙏",
+            "user id": 800722550,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@NerdyWonka @taiping2 agreed POLICE Chief must go .. Violence erupts  #Missouri teen pics http://t.co/6DhRe87iOc http://t.co/PgDqkEChxm",
+            "user id": 38218247,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@PoliticalAnt @NerdyWonka I do understand the anger, I don't understand firing off shots &amp; chanting \"kill the cops\".",
+            "user id": 224484865,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

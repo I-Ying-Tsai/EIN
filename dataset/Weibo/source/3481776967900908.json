@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "重庆银行门前再曝枪击案 造成1死2伤 http://t.cn/zWl4HIu  （分享自 @酷6网）",
+        "user id": 1574647051,
+        "tweet id": "3481776967900908",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "周克华真的还没死…",
+            "user id": 2917338410,
+            "user name": "斯派克林",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "这是前几天枪击案的视频吧？",
+            "user id": 1871836530,
+            "user name": "老头吉祥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "?",
+            "user id": 1610957492,
+            "user name": "老万不老8888",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "又将耗时八年？",
+            "user id": 1888556597,
+            "user name": "铜管乐队",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": " @微博小秘书 这这算不算居心叵测扰乱公共秩序罪",
+            "user id": 2675932875,
+            "user name": "弯弯9696",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "谣诼吧",
+            "user id": 1733558403,
+            "user name": "李乡长",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[汗]不看链接只看文，微博许多糊涂人。。。",
+            "user id": 1421804340,
+            "user name": "梦晨伤",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "[怒]制造谣言，发以前的视频，你妹的，安的什么心？",
+            "user id": 1272439694,
+            "user name": "纯洁的_Demon",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "这是上次的视频 大家别被这个人忽悠了 你是何居心啊",
+            "user id": 1680061973,
+            "user name": "小皮匠加鲁鲁",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "造谣者出门被爆头…",
+            "user id": 1863854900,
+            "user name": "清小欢_",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "又是谁？公布一下视频吧",
+            "user id": 1863407465,
+            "user name": "聆听一369",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}

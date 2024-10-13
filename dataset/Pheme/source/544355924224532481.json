@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "JUST IN: Police: 3 people were able to run from Sydney cafe during ongoing hostage situation - @9NewsAUS http://t.co/wFfwbG9Gg6",
+        "user id": 28785486,
+        "tweet id": "544355924224532481",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Howcome not live on @CNN @FoxNews @ABC? “@ABC: JUST IN: Police: 3 people were able to run from Sydney cafe during ongoing hostage situation\"",
+            "user id": 21003013,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC @9NewsAUS ofrezco y soluciono.",
+            "user id": 2199743879,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

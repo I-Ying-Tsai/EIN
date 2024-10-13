@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "Update - AFP: Aviation official says #Germanwings crew did not send a distress signal",
+        "user id": 87416722,
+        "tweet id": "580364656608428032",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak @BBCwestcott so there was no signal sent. What a shame.",
+            "user id": 83421448,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SkyNewsBreak BBC NEWS just said they did?",
+            "user id": 429930033,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@SkyNewsBreak that changes things if true. Explosive decompression, unconscious crew?",
+            "user id": 156668129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                6
+            ],
+            "content": "@Dakeb_MCFC if it was an explosive decompression then it means that everyone on board was unconscious?",
+            "user id": 312348051,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsBreak: Update - AFP: Aviation official says #Germanwings crew did not send a distress signal” so was there or wasn't there one? :/",
+            "user id": 53880536,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@SkyNewsBreak: Update - AFP: Aviation official says #Germanwings crew did not send a distress signal”",
+            "user id": 50671243,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@missanemixx could be. It flew 69 miles during its descent, 3000ft/min drop, constant 460mph, descent slope 5deg.",
+            "user id": 156668129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@missanemixx so lots of time without oxygen and freezing temperatures, -50deg C. Hard to survive.",
+            "user id": 156668129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

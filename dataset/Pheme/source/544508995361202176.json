@@ -1,0 +1,77 @@
+{
+    "source": {
+        "content": "#BREAKING: Another four or five hostages have escaped from the café in #MartinPl. #SydneySiege #9News",
+        "user id": 171802941,
+        "tweet id": "544508995361202176",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd @9NewsAUS YAY",
+            "user id": 1376034798,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@9NewsSyd: #BREAKING: Another four or five hostages have escaped from the café in #MartinPl. #SydneySiege #9News” YES YES YESSSS",
+            "user id": 384848931,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@9NewsSyd: #BREAKING: Another four or five hostages have escaped from the café in #MartinPl. #SydneySiege #9News” @poptartharry bro!!!!",
+            "user id": 2401293000,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@tayleralmighty OH MY GOD THATS AMAZING!!!!",
+            "user id": 1603599324,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@9NewsSyd Can you tell them hostages to go back and pick up as many chocolate boxes they can before escaping please.",
+            "user id": 2512752272,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

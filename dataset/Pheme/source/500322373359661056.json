@@ -1,0 +1,198 @@
+{
+    "source": {
+        "content": "This is what they call \"justice\" in #Ferguson http://t.co/mKnPV1LU4J",
+        "user id": 225235528,
+        "tweet id": "500322373359661056",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AnonyOps: This is what they call \"justice\" in #Ferguson http://t.co/WIHNDc4qRF”",
+            "user id": 1663314774,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@AnonyOps umm 2/3 of Ferguson population is black. So statistically more blacks will be stopped by cops.",
+            "user id": 30319431,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@pdawg43 @AnonyOps 2/3 does not equal 92%",
+            "user id": 14793837,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@AnonyOps look at the demographics of the community..and quit posting misleading shit..you're making things worse.",
+            "user id": 60701902,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11,
+                12,
+                13,
+                14
+            ],
+            "content": "Well then @SeanJ0nes. Feel free to file a complaint w/ the MO Attorney General's office, i.e. the source of this \"misleading shit\" @AnonyOps",
+            "user id": 935015863,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps I agree with @Samurai_Lucy still callin bs on those numbers though",
+            "user id": 593937264,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps Ferguson is over 70% black! Besides that point, ever consider that they are just committing more crimes?",
+            "user id": 1361446477,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps All of you criticizing the percentages are correct.  However, try putting the two slides together.",
+            "user id": 246909484,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps 92% seems too high even with the pop makeup, it does seem u have to look really wrong to get searched if you are white there",
+            "user id": 17054538,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps Capt Ron Johnson is a puppet, he said minorities in that state were treated equally.",
+            "user id": 2414457033,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AnonyOps Silly nigger Anonymous. You IDd the wrong guy. Faggots.",
+            "user id": 2554712246,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@bryancrumpler @AnonyOps it's misleading to compare the two, blacks almost out number whites 2:1 If you compare the numbers it's pretty even",
+            "user id": 60701902,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "@bryancrumpler @AnonyOps it's also statistically proven that black people commit more crimes..so of course they get arrested more..",
+            "user id": 60701902,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 4,
+            "children": [],
+            "content": "@bryancrumpler @AnonyOps but it does no good to mention that..how does it help?",
+            "user id": 60701902,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 4,
+            "children": [],
+            "content": "@bryancrumpler @AnonyOps do nothing or help fix the proble..",
+            "user id": 60701902,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 9
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 4
+        }
+    }
+}

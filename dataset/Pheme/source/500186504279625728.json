@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "4 arrested in Times Square after march supporting #Ferguson http://t.co/I40SlR3Jbm #NMOS14 http://t.co/QRT7VzEiRe",
+        "user id": 2884771,
+        "tweet id": "500186504279625728",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@Newsweek: 4 arrested in Times Square after march supporting #Ferguson http://t.co/ehufx1GmaA #NMOS14 http://t.co/02u29txWFO”",
+            "user id": 73770059,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Newsweek I hope they were released w/ journalist.  If not I Have faith you journalists will assure the release of all #ferguson residents",
+            "user id": 1053271752,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@Newsweek: 4 arrested in Times Square after march supporting #Ferguson http://t.co/xVrdY1coIm #NMOS14 http://t.co/dKJSsPdeAq” #sadforusall!",
+            "user id": 35099964,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

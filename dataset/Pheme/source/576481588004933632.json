@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "Not seeing #Putin-bots on #Putindead, #Путин, #ПутинУмер hashtags and in comments. No money or no message? Kremlin confusion?",
+        "user id": 16263655,
+        "tweet id": "576481588004933632",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Mary_Mycio @raging545 For all they know they've got a new boss. Don't want to say anything out of line until new orders received.",
+            "user id": 2867359884,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Mary_Mycio that is interesting, since they are always quick to respond",
+            "user id": 807824654,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@DougiepuggiePug Exactly. They're not there. I've been watching.",
+            "user id": 16263655,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

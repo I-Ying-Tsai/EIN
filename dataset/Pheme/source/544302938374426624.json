@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "JUST IN: Lindt's CEO says there could be as many as 50 hostages inside the cafe in #Sydney \nhttp://t.co/FlxRZYOxWA http://t.co/eKFi9smVGh",
+        "user id": 37874853,
+        "tweet id": "544302938374426624",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@STcom Proof there's no such thing as bad publicity #sydneysiege",
+            "user id": 1689560450,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@STcom @MimoKSA \n\nمانتهت او أعلنوا عن مطالبهم يا مهاوي ؟؟\n\nماشوف في ردة فعل او انتشار عن الموضوع في تويتر",
+            "user id": 296369787,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@mzn985 لا تو رئس وزرائهم في المؤتمر يقول انه شكلها حادثه اجرامية مو  تابعه لمنظمات ارهابية",
+            "user id": 218490666,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@STcom @weeteck Only 13 lah.",
+            "user id": 346638576,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

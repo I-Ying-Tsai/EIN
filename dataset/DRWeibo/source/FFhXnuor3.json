@@ -1,0 +1,401 @@
+{
+    "source": {
+        "content": "#新疆乌鲁木齐4.8级地震# 这次地震震中位于乌鲁木齐市南部山区离市区29公里，震中烈度不会超过Ⅵ度，对乌鲁木齐市区的影响不会超过Ⅴ度，而我市正规建筑物的抗震设防烈度为8度，所以此次地震对乌鲁木齐影响不大，请大家安心休息。 ",
+        "time": "18-1-20 23:12",
+        "user id": "2404615911",
+        "tweet id": "FFhXnuor3",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "1976106420",
+            "user name": "娜娜820",
+            "content": "如果有余震，会比4.8大吗？不敢睡啊",
+            "time": "18-1-20 23:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "5933865989",
+            "user name": "记得最美的时光",
+            "content": "不会，余震要小于主震",
+            "time": "18-1-20 23:19",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "1976106420",
+            "user name": "娜娜820",
+            "content": "哦，好的，谢谢你",
+            "time": "18-1-20 23:23",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "1582805207",
+            "user name": "辉卷尾",
+            "content": "😂可以安心睡么，好怕啊",
+            "time": "18-1-20 23:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "2404615911",
+            "user name": "新疆地震局",
+            "content": "安心睡觉",
+            "time": "18-1-20 23:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "3888995285",
+            "user name": "九七三_",
+            "content": "住沙依巴克区 不敢睡",
+            "time": "18-1-20 23:17",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "user id": "5933865989",
+            "user name": "记得最美的时光",
+            "content": "余震大不了的，安睡",
+            "time": "18-1-20 23:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "3888995285",
+            "user name": "九七三_",
+            "content": "谢谢",
+            "time": "18-1-20 23:29",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9,
+                11
+            ],
+            "user id": "2104976395",
+            "user name": "璺路wenlu",
+            "content": "以前的房子也是能抗八级的吗",
+            "time": "18-1-20 23:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "5933865989",
+            "user name": "记得最美的时光",
+            "content": "这个八度，是地震烈度，浅源6级地震，震中区烈度可以达到7~8度，理论上八度设防的房子6级地震不会整体倒塌",
+            "time": "18-1-21 05:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 11,
+            "children": [],
+            "user id": "2213312241",
+            "user name": "Arguill",
+            "content": "八度设防是什么意思？一直以为是抗八级地震…",
+            "time": "18-1-21 02:23",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "5933865989",
+            "user name": "记得最美的时光",
+            "content": "是八度设防，和八级地震是两个概念",
+            "time": "18-1-20 23:20",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "5051278850",
+            "user name": "宅柒玥",
+            "content": "震源那么浅，会不会有更大的震了？",
+            "time": "18-1-20 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "1692238192",
+            "user name": "Cappuccino_198705",
+            "content": "这才是最有用最为有效的播报",
+            "time": "18-1-21 03:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "1927038834",
+            "user name": "只想做1条小咸鱼",
+            "content": "我先美美的吃一顿再睡",
+            "time": "18-1-20 23:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "2409129294",
+            "user name": "芝麻馅的甜包拢",
+            "content": "放心去睡觉了，网络也不太好",
+            "time": "18-1-20 23:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "2476047622",
+            "user name": "Simon橙",
+            "content": "晚安！表骗我！",
+            "time": "18-1-20 23:19",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "3032536041",
+            "user name": "Skiwing",
+            "content": "@Stevenblue小飞飞同学",
+            "time": "18-1-21 00:34",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "1784815001",
+            "user name": "每个人心里都有一个大英雄",
+            "content": "每次一地震 准时来抱你的大腿，不看根本不敢继续睡觉",
+            "time": "18-1-21 00:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "1050436970",
+            "user name": "yjx欧阳莹",
+            "content": "当时吓得心脏砰砰直跳",
+            "time": "18-1-21 00:18",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "2812548594",
+            "user name": "新疆杨坏蛋",
+            "content": "老旧小区怎么办？",
+            "time": "18-1-20 23:57",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "2494794620",
+            "user name": "从军梦晨",
+            "content": "真的能睡觉吗",
+            "time": "18-1-20 23:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "1186619145",
+            "user name": "天山刀郎",
+            "content": "还有会更大的地震吗?",
+            "time": "18-1-20 23:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "5874481612",
+            "user name": "xzwiXuziwEi",
+            "content": "确定不会再震了嘛",
+            "time": "18-1-20 23:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "3038126711",
+            "user name": "l桀骜不驯l",
+            "content": "有余震吗？楼主",
+            "time": "18-1-20 23:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "3297217773",
+            "user name": "你能哈哈哈没",
+            "content": "谢谢谢谢",
+            "time": "18-1-20 23:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "1976106420",
+            "user name": "娜娜820",
+            "content": "这一会儿功夫停了两次电了，能不这个时候停电吗",
+            "time": "18-1-20 23:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "1870228080",
+            "user name": "柴犬火锅滴玛姆",
+            "content": "@伯虎大人-",
+            "time": "18-1-21 09:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "2698400365",
+            "user name": "小歌歌是大哥",
+            "content": "整栋楼摇晃的时候大脑一片空白，接着灯饰掉了下来砸在地上，我以为家要塌了，我要死了。 希望大家安好，人在天灾面前真的是无助的。 不是矫情，这种恐惧感是第一次，不想体会第二次了。",
+            "time": "18-1-21 02:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "2168256503",
+            "user name": "时节12",
+            "content": "感谢发布消息，辛苦了",
+            "time": "18-1-20 23:26",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 19,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

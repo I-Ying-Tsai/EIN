@@ -1,0 +1,188 @@
+{
+    "source": {
+        "content": "\"I saw a long gun, I heard one shot\" - eye witness to #OttawaShooting at Canadian Parliament http://t.co/509yRD4iCn http://t.co/YmMtvZDLom",
+        "user id": 742143,
+        "tweet id": "524987107081977856",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld Lies and propaganda are traditionally the tools of theocracy, fascism, and totalitarianism. #ISIS CANCER #US #SYRIA #IRAQ #KOBANI",
+            "user id": 2434406185,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld BBC calls it a \"shooting\" until they know it was brown people, then it will be a \"terrorist attack\"! #OttawaShooting",
+            "user id": 469699513,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@BBCWorld @TwistAnonymous canada dont play",
+            "user id": 118619214,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                12
+            ],
+            "content": "@MastaOfMp3s @BBCWorld not a lot of people know Canada was involved in the wars in the middle east. #Ottawa #OttawaShooting #PrayForOttawa",
+            "user id": 2414457033,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld Republic of Korea, Seoul citizens 122 minutes massacred. Please help. http://t.co/wpZZQetYi3",
+            "user id": 226299861,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld our scary world 😩",
+            "user id": 23523876,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld Stayed in Ottawa 3 years ago lovely city terrible to see what is happening",
+            "user id": 976583954,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld",
+            "user id": 2529190431,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld Moslems attack our Sacred Place, Our War Memorial\n#OttawaShooting #CanadaStrong Time to Nuke Mecca and Madina\nX-terimanate Moslems",
+            "user id": 201631665,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld HI THERE. IT'S SUZIQ. REMEMBER 6MOS AGO,SUZIQ PREDICTED ISIS WAS ALREADY HERE!ANOTHER TRUE FOR SUZIQ, AGAIN! GODBLESSAMERICA SUZIQ",
+            "user id": 2161859750,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld I saw a big gun to, maybe was the guy dick, fuckkk the world is coming to a and?",
+            "user id": 2681160897,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCWorld #OttawaShooting #ATerroristIsATerrorist  #StephenHarper no liberal #WorkplaceViolence excuses http://t.co/0ajGZMXlvR",
+            "user id": 1109685884,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 3,
+            "children": [
+                13
+            ],
+            "content": "@TwistAnonymous yea the us gov drags them into alot lol i just find the reaction to shootings different then in the us",
+            "user id": 118619214,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "@MastaOfMp3s it's sad, not just in Canada, but in the US, mass shootings will initially be seen and linked to terrorism at first glance.",
+            "user id": 2414457033,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

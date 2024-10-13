@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Developing: Police in #Ferguson expected to announce the name of the officer who killed unarmed teen Michael Brown within the hour.",
+        "user id": 972651,
+        "tweet id": "500260514807947264",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable #FergusonShooting #Ferguson I mean really why all the secrecy all this time?",
+            "user id": 531617111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable Please, like http://t.co/f3wlkSzHfg",
+            "user id": 2418899281,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable I'm assuming they've given him time to flee town before he is the target, until this is all properly ironed out.",
+            "user id": 20777381,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Holy shit 2: MT @mashable Police in #Ferguson police to announce name of officer who killed unarmed #MichaelBrown within the hour.",
+            "user id": 40653508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        }
+    }
+}

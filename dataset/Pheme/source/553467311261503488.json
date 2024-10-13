@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Reports of shooting at  Dammartin en Goele on route N2 north east of Paris - French media says car chase under way",
+        "user id": 95148130,
+        "tweet id": "553467311261503488",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCChrisMorris Sounds like theirs multiple terrorists acting or the Two hebdo attackers manage to stay step ahead of 80,000 cops one of two",
+            "user id": 2750309806,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCChrisMorris take them alive so they can suffer",
+            "user id": 28521711,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "source": {
+        "content": "Milan release official statement on their site saying that the reports of Michael Essien having Ebola are false. http://t.co/qYDG0RcOZh",
+        "user id": 315113964,
+        "tweet id": "521359863884967936",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Better \"@FutbolSergi: Milan release official statement on their site saying that the reports of Michael Essien having Ebola are false.",
+            "user id": 99484020,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "content": "@FutbolSergi Who even starts those kinda rumors? Sickening.",
+            "user id": 92377901,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@LeahVdc hi",
+            "user id": 2610726109,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                5,
+                6
+            ],
+            "content": "@LeahVdc A racist Russian journalist tweeted that Milan spokesman confirmed that Essien has Ebola. Disgraceful.",
+            "user id": 315113964,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@FutbolSergi @Goaldobin",
+            "user id": 2284520032,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": "@FutbolSergi I sincerely hope they sue him. It's disgusting.",
+            "user id": 92377901,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "Disgusting &gt; “@FutbolSergi: @LeahVdc A racist Russian journalist tweeted that Milan spokesman confirmed that Essien has Ebola. Disgraceful.”",
+            "user id": 2418466636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@LeahVdc @FutbolSergi That's just horrible. Sickening to say.",
+            "user id": 2418466636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 8,
+            "parent": 6,
+            "children": [],
+            "content": "@BlancoStats @FutbolSergi @LeahVdc WHAT. THE. FUCK.",
+            "user id": 2785984851,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

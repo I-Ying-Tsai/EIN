@@ -1,0 +1,83 @@
+{
+    "source": {
+        "content": "A Prince rep, accompanied by a Massey Hall staffer, just told us all in line that there is indeed no show. What a bust! #Prince #Toronto",
+        "user id": 575994658,
+        "tweet id": "529763954231607297",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@DaleGago any confirmation or denial about tomorrow?",
+            "user id": 131217768,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "content": "@MattThomasTO They said nothing for tomorrow as well. It would be great though. She said Prince felt bad we were all waiting in the rain...",
+            "user id": 575994658,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@DaleGago He wasn't feeling it. Must be the not so purple rain.",
+            "user id": 2431109358,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@DaleGago Must be a huge disappointment for those who had faith that there would be a show. Am in Vancouver, considered even flying east.",
+            "user id": 342313862,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [],
+            "content": "@DaleGago How can he leave us standing here. Alone in a world that's so cold. Maybe we're just too demanding.",
+            "user id": 131217768,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

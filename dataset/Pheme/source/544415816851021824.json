@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "Every non-muslim in the world must watch this video https://t.co/sZdyhISoVh &amp; show it every other non-muslim! #sydneysiege",
+        "user id": 1513504760,
+        "tweet id": "544415816851021824",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": ".@HDL_Global we've got enough problems with our own disgusting \"defense league\". Go away &amp; shut up. You're bigotory not wanted. #sydneysiege",
+            "user id": 24496093,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@HDL_Global Please piss off and don't highjack an event that has nothing to do with Right Wing Hinduism",
+            "user id": 1439606671,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@HDL_Global The 1st name that comes to my mind abt Taqiyya is Aamir khan &amp; his \"Satyameva Jayate\". Others - shahid siddiqui, saba naqvi etc.",
+            "user id": 146360181,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@HDL_Global jai Hindustan jai Sri ram",
+            "user id": 2346130584,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@HDL_Global take a minute to read the #truth about #islam #Religion and #Quran cont. http://t.co/paIWCVNko2",
+            "user id": 937522063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@HDL_Global  take a minute to read the #truth about #islam #Religion and #Quran .. http://t.co/JVmkflUxxs",
+            "user id": 937522063,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@HDL_Global 2) the second point these punishments is not immediately applied ! It can't be applied until there are witness .. #islam #Quran",
+            "user id": 937522063,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

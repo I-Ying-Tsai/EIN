@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "Paris, London, Madrid, San Francisco, New York. Video footage from #JeSuisCharlie gatherings around the world: http://t.co/IDEN8LHSEE",
+        "user id": 3108351,
+        "tweet id": "553174607604482048",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "America stands with France. @WSJ #JeSuisCharlie #CharlieHebdo #ParisShooting #tcot",
+            "user id": 49864302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ http://t.co/A4GK0uDtZo",
+            "user id": 2945865278,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ One solid&amp;loving voice drowning out the prehistoric hate of toxic religious  centrism&amp;dogma that humans use as an excuse2kill others",
+            "user id": 1596737431,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@WSJ A complete GIF guide to Muslims Denouncing terrorism. http://t.co/s9rGMNFzda",
+            "user id": 234912898,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@razormind @WSJ Thanks for sharing. JAK",
+            "user id": 18788135,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ No Charlie in Latin America?",
+            "user id": 224426162,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: Paris, London, Madrid, San Francisco, New York. Video footage from #JeSuisCharlie gatherings around the world: http://t.co/oxXQJG9bLx",
+            "user id": 121176980,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Please do not buy chips off zynga poker it is rigged for you to lose so you buy more chips it's a scam stock buyers beware",
+            "user id": 476853918,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@WSJ: #JeSuisCharlie gatherings around the world: http://t.co/jRBF1WzrzM\" \nStand together. Ths is wht shld hv happnd aftr #PeshawarAttack",
+            "user id": 2958801627,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ https://t.co/kvj71lxQ8i in 14 #languages &amp; #Greek #dialects @vallance22 #Canada &amp; retweeted BRAVO! http://t.co/7EnGVsj7cR",
+            "user id": 240114180,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Stop Lying This Attack Was Nothing To Do With Free Speech  https://t.co/odHoHQB11a",
+            "user id": 190280139,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

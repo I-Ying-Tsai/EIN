@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "French President François Hollande says he does not believe there will be any survivors of #germanwings crash http://t.co/ZBX37Z3Jbw",
+        "user id": 972651,
+        "tweet id": "580337327677026304",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@mashable: French President Hollande says he does not believe there will be any survivors of #germanwings crash http://t.co/Zrnb2aPtRk”",
+            "user id": 488232923,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "RT@mashable: French President Hollande says he does not believe there will be any survivors of #germanwings crash http://t.co/vZRvPmvhp9”",
+            "user id": 1577710783,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable The question again, WHO was onboard?",
+            "user id": 2365959960,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable http://t.co/ZFrY1C1XsF",
+            "user id": 3041579847,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@mashable @republikein_na",
+            "user id": 3087187654,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

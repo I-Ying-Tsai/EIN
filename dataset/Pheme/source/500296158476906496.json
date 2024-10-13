@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "Witness to #Ferguson shooting atty confirms Brown took cigars from store.  Client told FBI he \"did take cigarillos\" http://t.co/j9BARBU0c7",
+        "user id": 2836421,
+        "tweet id": "500296158476906496",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@msnbc  Not a justification for death penalty. Arrests are also not made through car doors.",
+            "user id": 542947234,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@DorothyKidd1 @msnbc Killed 4 J-walking either. If facts R that: Brown was shot w/ hands in the air &amp; at a distance, Cop needs 2 serve time.",
+            "user id": 415196079,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc so, a thief, mugger got shot. Damn the truth shall set you free",
+            "user id": 903143731,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc That can't be true. He was just an innocent kid who was about to start college. He was just minding his own business. Oops.",
+            "user id": 739517756,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@msnbc if this is true, the fact remains that Michael had his hands up  no weapon with his back to officer. Wilson shoots him several times.",
+            "user id": 611058482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@DrJP2011 fact is, he was nothing more than a thief &amp; attacked a store clerk, not the innocent one across the board",
+            "user id": 903143731,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc Funny how things develop. How can some minorities cry racism &amp; then justify it with looting &amp; committing other crimes?",
+            "user id": 2493557479,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc I don't care if he took a pack of condoms. It wasn't armed robbery and it didn't require a gun to be used",
+            "user id": 77929537,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc So the \"community\" goes nuts for a thug?",
+            "user id": 954723132,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc @MichaelSkolnik Anything can be said. The dead cannot speak for himself. Well that wasn't said before now the blame game is on. Why??",
+            "user id": 2250301062,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc @MichaelSkolnik so what?",
+            "user id": 24439506,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc @MichaelSkolnik This is really moving forward now that the officer is named. Well can we now see justice for thefatal shooting. Truth",
+            "user id": 2250301062,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc Your question at the end requires evidence, asking if excessive force was justified depends on the circumstances and probable cause.",
+            "user id": 82901787,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "@msnbc @MichaelSkolnik this disgusting... Stop it's alleged.",
+            "user id": 312248392,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

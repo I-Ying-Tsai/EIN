@@ -1,0 +1,94 @@
+{
+    "source": {
+        "content": "Breaking: Reports that the Sydney Opera House has now been evacuated due to findings of a suspicious package. More to come.",
+        "user id": 48626190,
+        "tweet id": "544281014768795649",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@nswincidents: Breaking: Reports that the Sydney Opera House has now been evacuated due to findings of a suspicious package. More to come.”",
+            "user id": 117633536,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@nswincidents: Breaking: Reports that the Sydney Opera House has now been evacuated due to findings of a suspicious package.",
+            "user id": 1906543326,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@nswincidents nnngh, also reports that it is just security training. Please check your sources.",
+            "user id": 14112718,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                5
+            ],
+            "content": "@Jackitsdotcom @nswincidents Bad timing for such training, LOL!",
+            "user id": 169660103,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nswincidents @sharnaarkaporky",
+            "user id": 588093676,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@dennis_dw @nswincidents indeed",
+            "user id": 14112718,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

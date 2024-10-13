@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Awful. RT @AntonioFrench #Ferguson Police have dogs and shotguns. The unarmed crowd is raising their hands. https://t.co/OFXxJLuDtj",
+        "user id": 47475039,
+        "tweet id": "498285782512050176",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@sarahkendzior @AntonioFrench This is what the country's come to. God dammit.",
+            "user id": 2531374434,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@sarahkendzior @photogramel @AntonioFrench St Louis=Southern;Mark Twain learned racism there. Monsanto HQ, corp Darth Vader funds So.elite",
+            "user id": 85729788,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Appalling. RT @sarahkendzior Awful. RT @AntonioFrench #Ferguson Police have dogs and shotguns. The unarmed crowd is raising their hands.",
+            "user id": 342629240,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

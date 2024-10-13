@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "And a cartoon for today by @davpope \n(via @BklynMiddleton &amp; @DAaronovitch)\n#CharlieHebdo #JeSuisCharlie http://t.co/1FUwGkwqvP",
+        "user id": 403576718,
+        "tweet id": "552849116280393728",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@mrjohnofarrell @BenaimValerie @davpope @BklynMiddleton @DAaronovitch En hommage à #Cabu http://t.co/zxvdCRy3Yd",
+            "user id": 2543791628,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@mrjohnofarrell @davpope @BklynMiddleton @DAaronovitch Freedom of expression is essential. Islam is pushing the West too far.",
+            "user id": 142165701,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@mrjohnofarrell @BenaimValerie @davpope @BklynMiddleton @DAaronovitch",
+            "user id": 424805400,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "Despicable cowardice via @mrjohnofarrell \n#CharlieHebdo #JeSuisCharlie http://t.co/vQlB2b3zE9”",
+            "user id": 581929508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@mariamcerlane @mrjohnofarrell Why is it dated for tomorrow",
+            "user id": 17793068,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@mrjohnofarrell @BenaimValerie @davpope @BklynMiddleton @DAaronovitch @davemorrissey64",
+            "user id": 1864398656,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@mrjohnofarrell @carltonreid Quick on the Draw. #JeSuisCharlie",
+            "user id": 2855732477,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@mrjohnofarrell @BenaimValerie @davpope @BklynMiddleton @DAaronovitch",
+            "user id": 1583700733,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@mrjohnofarrell @apochieng @davpope @BklynMiddleton @DAaronovitch tnxz 4 da add",
+            "user id": 2761584586,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

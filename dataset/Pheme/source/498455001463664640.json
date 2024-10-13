@@ -1,0 +1,89 @@
+{
+    "source": {
+        "content": "More coverage from Europe - http://t.co/Ipkmn3Zq45 #Ferguson #MikeBrown http://t.co/vbZSHAvmxK",
+        "user id": 14090948,
+        "tweet id": "498455001463664640",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "@AntonioFrench Sir, were there actually \"kill the police\" chants? I only heard \"no justice/no peace\" but see AP's headline spreading.",
+            "user id": 16634486,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@Nartist @AntonioFrench  https://t.co/IPI4SM4kLu cc: .@AP",
+            "user id": 16046979,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@Nartist @AntonioFrench The Videos I Saw Last Night &amp; Today People Were Saying \" No Justice, No Peace\" &amp; It Was Misheard As Kill The Police",
+            "user id": 113349253,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: More coverage from Europe - http://t.co/b7LgK3K1Sj #Ferguson #MikeBrown http://t.co/6mzcL9F9aw”",
+            "user id": 252578331,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "What's name of murder Cop?! “@AntonioFrench: More coverage from Europe - http://t.co/tDbEAFTu0w #Ferguson #MikeBrown http://t.co/zvumxb52wF”",
+            "user id": 38836499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Great headline .@ap take notice. «@Negrointellect «@AntonioFrench More coverage from Europe - ... http://t.co/T7GMXjEr8p",
+            "user id": 345996538,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

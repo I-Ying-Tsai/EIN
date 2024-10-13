@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "There were about 100 families… close enough to see the helicopters - @NicRobertsonCNN on #Germanwings memorial http://t.co/4rsPH7Ke3h",
+        "user id": 227837742,
+        "tweet id": "581256046448111616",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @NicRobertsonCNN Tremendously sad.\nCan't imagine how the loved ones must be feeling after today's news.",
+            "user id": 1396855940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AC360 @NicRobertsonCNN Aren't all Germans depressed? Whats happening in Yemen?",
+            "user id": 394072560,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

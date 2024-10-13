@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "Snipers now on top of Ottawa's National Art Gallery after gunfire at parliament http://t.co/bEFu7HisyW (@dmatthewmillar pic)",
+        "user id": 292777349,
+        "tweet id": "524935345998422016",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Wait, wat? Canada?  Must be an American tourist! @PzFeed @dmatthewmillar",
+            "user id": 23485619,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @dmatthewmillar Please don't tweet police positions at this time.",
+            "user id": 18139939,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "New Canadian reality. “@PzFeed: Snipers now on top of Ottawa's National Art Gallery after gunfire at parliament http://t.co/cI2fY8qQar”",
+            "user id": 117658347,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@MapleLeafsHH @PzFeed Harper's justification for increasing military spending :(",
+            "user id": 330470425,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @dmatthewmillar DO NOT tweet locations of police officers! Your compromising security!",
+            "user id": 224512449,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Dope “@PzFeed: Snipers now on top of Ottawa's National Art Gallery after gunfire at parliament http://t.co/Up8woGPh5A (@dmatthewmillar pic)”",
+            "user id": 353415324,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@PzFeed: Snipers now on top of Ottawa's National Art Gallery after gunfire at parliament http://t.co/lTBXjXX92q (@dmatthewmillar pic)\"",
+            "user id": 1020333475,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @dmatthewmillar stop tweeting positions, how ab a little thing called opsec to help members end this",
+            "user id": 2546977356,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @xinfamousjoe",
+            "user id": 1662653299,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @AaronWorthing @dmatthewmillar isn't a glass roof a really dumb place to hang out if you're worried about gunfire?",
+            "user id": 268649182,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

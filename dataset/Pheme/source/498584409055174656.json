@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Protestors have blocked West Florissant, a major street in St. Louis County. #Ferguson http://t.co/S15XpF4f9E",
+        "user id": 14090948,
+        "tweet id": "498584409055174656",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @GrooveSDC Heart heavy here. Home ground.",
+            "user id": 154958685,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @drpatsyp Protesting demonstrate anger, concern, however voting is power!",
+            "user id": 17713302,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @JustSikko TIME 4 A revolutuon FUKKN WHITE DEVIL COPS ...",
+            "user id": 30905878,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

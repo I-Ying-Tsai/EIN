@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "13 hostages are being held in a Sydney store by apparent jihadist supporters http://t.co/XqhQB8SeyN",
+        "user id": 2884771,
+        "tweet id": "544285194815942657",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Newsweek :(",
+            "user id": 225018629,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@Newsweek FOLLOW LIVE @WilliamsJon Siege Sydney Center. Watch our friends @9NewsSyd http://t.co/kOZ5W33ldx http://t.co/pS2KOG0624 JC Wash",
+            "user id": 16737566,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“13 hostages are being held in a Sydney store by apparent jihadist supporters http://t.co/qFMy4C9rRN” rt@Newsweek",
+            "user id": 62591883,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "BREAKING NEWS: RT @Newsweek: 13 hostages being held in a #Sydney store by apparent jihadist supporters http://t.co/YYjB2NG2f1 @DaynaRoselli",
+            "user id": 82217826,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Bir jihadist rehine olayıyla günü kapatıyoruz “@Newsweek: 13 hostages are being held in a Sydney store http://t.co/Z1HKfkFvEE”",
+            "user id": 15126924,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@Debwilker BREAKING NEWS: RT @Newsweek: 13 hostages are being held in a #Sydney store by apparent jihadist supporters http://t.co/YYjB2NG2f1",
+            "user id": 82217826,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Apparent presumes unconfirmed. RT @Newsweek 13 hostages being held in a Sydney store by apparent jihadist supporters http://t.co/nXmtvUNiYB",
+            "user id": 114115853,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@Newsweek I can only hope that SASR kills them all.",
+            "user id": 462304488,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "“@Newsweek: 13 hostages are being held in a Sydney store by apparent jihadist supporters http://t.co/HsbGMj2189”",
+            "user id": 168820035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "content": "@mahsawho @newsweek lets see if the MSM really covers this",
+            "user id": 96440634,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@Newsweek #Franchisemafiosi. Too long these all too apparent criminals have managed to deceive with their phoney creeds and false faith.",
+            "user id": 2214510864,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@Newsweek @sallykohn God keep them safe",
+            "user id": 2862601911,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@Newsweek why are some reports say 40 customers and ten employees.",
+            "user id": 22603238,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

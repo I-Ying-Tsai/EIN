@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "This is not a \"black\" loss. This is a loss for America, and everyone should be concerned, outraged &amp; involved. #Ferguson",
+        "user id": 283235743,
+        "tweet id": "498267196833808384",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@QuiltingMuriel Muriel, don't detract from what the real problem is with those words. This is institutional, militarised racism.",
+            "user id": 36638680,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@QuiltingMuriel sorry ms Muriel, but this is indeed a black lost..they're not killing 'American boys', they're killing black boys",
+            "user id": 28842014,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "content": "@aannddYOUare @inch2high @QuiltingMuriel But those black boys are just as American as white boys and they've a right to life, Liberty ...",
+            "user id": 43178616,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Nawl this is a black loss as usual fuck America it's been happening 2 long and 2 much America don't care @QuiltingMuriel @kiaaXO",
+            "user id": 32436824,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": ".@QuiltingMuriel @calatayud7 America turned it's back on the slaughter of brwn ppl  in Gaza &amp; theyre doing same here &amp; it will get worse",
+            "user id": 124227622,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@PoliticsPeach @QuiltingMuriel @calatayud7 It was only natural that as a nation they ignored the Gaze situation. They did it to the Natives",
+            "user id": 547002258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@QuiltingMuriel unfortunately many people including #Ferguson will try to justify this and blame the victim",
+            "user id": 351319035,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@QuiltingMuriel @sherrilee7 Respect on your perspective, but yes this is a Black loss b/c this kind of murder doesn't happen to white youth",
+            "user id": 547002258,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@BWorthingtonIII @QuiltingMuriel True. Still our hearts are broken.",
+            "user id": 31403779,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@BWorthingtonIII @QuiltingMuriel Like I stated in my earlier tweet, white folks need to be listening more &amp; speaking less.",
+            "user id": 31403779,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@QuiltingMuriel not it's definitely a black loss.",
+            "user id": 330652689,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "“@QuiltingMuriel: This is not a \"black\" loss. This is a loss for America, everyone should be concerned, outraged &amp; involved. #Ferguson” 😒✋",
+            "user id": 1468503144,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "MT “@QuiltingMuriel: This is not JUST a \"black\" loss. This is a loss for America, and everyone should be concerned, outraged &amp; involved.\"",
+            "user id": 2421328472,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 2,
+            "children": [],
+            "content": "@animaltalker_8 @inch2high @QuiltingMuriel bye.",
+            "user id": 28842014,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

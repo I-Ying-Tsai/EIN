@@ -1,0 +1,187 @@
+{
+    "source": {
+        "content": "押注三百W德國🇩🇪戰車的江蘇賭波客，車毀人亡！ 网页链接 ",
+        "time": "18-6-23 21:59",
+        "user id": "2432230913",
+        "tweet id": "GmJPDyqEq",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "user id": "3144700667",
+            "user name": "柠檬树888888",
+            "content": "真假的可怕",
+            "time": "18-6-23 22:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "2432230913",
+            "user name": "TonyCheng777",
+            "content": "轉發了沒有證實的「新聞」，不知道為什麽刪除不了？不過天朝造謠要坐牢，打死我也不相信，你看老崔@崔永元  經常被刑事恐嚇那麽嚴重了，那些恐嚇人的有坐牢的嗎？",
+            "time": "18-7-7 17:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                1
+            ],
+            "user id": "5828392723",
+            "user name": "墨鱼非鱼-H",
+            "content": "造谣是要坐牢的",
+            "time": "18-7-7 12:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "2432230913",
+            "user name": "TonyCheng777",
+            "content": "德國🇩🇪戰車也砸碎了我2W大元",
+            "time": "18-6-23 22:19",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "2464657811",
+            "user name": "罗涛4",
+            "content": "成都双流温哥华小区的去年的事，打牌输了钱",
+            "time": "18-7-4 02:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "2326260131",
+            "user name": "ln小五哥",
+            "content": "开局一视频，故事全靠编",
+            "time": "18-7-5 12:22",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "5379725726",
+            "user name": "蜜桃她妈-",
+            "content": "服了，其他国家踢世界杯，中国不上场，中国人还搭上了命",
+            "time": "18-7-25 13:45",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "2453742813",
+            "user name": "佳峻TOP",
+            "content": "疼不疼",
+            "time": "18-7-2 17:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "6315188561",
+            "user name": "血飲狂龍35936",
+            "content": "你这人真不要脸，拿人这种事做段子。",
+            "time": "18-7-8 09:17",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "5989655142",
+            "user name": "奔途小馬o",
+            "content": "跳楼真的，赌球假的",
+            "time": "18-6-28 20:30",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "6430539149",
+            "user name": "99999狠狠活99999",
+            "content": "肝脑涂地",
+            "time": "18-7-5 20:54",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "5351972567",
+            "user name": "霹雳毛绒兔",
+            "content": "@程凯睿",
+            "time": "18-7-3 13:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "3144700667",
+            "user name": "柠檬树888888",
+            "content": "真假的",
+            "time": "18-6-23 22:04",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

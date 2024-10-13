@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "basically #Ferguson PD did an opposition research dump on mike brown, and not their jobs",
+        "user id": 3497941,
+        "tweet id": "500288263320768512",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Exactly. As they always do. @owillis",
+            "user id": 15693172,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@owillis Opposition research is for MMFA bloggers.",
+            "user id": 2370421626,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@realmyiq2xu2 @owillis  Because law enforcement officers and political bloggers are exactly the same thing?",
+            "user id": 1959594163,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@owillis So very true. Character assassination at its finest. Do these ppl think they will have jobs after this? Fire the racist chief!",
+            "user id": 1680813811,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@owillis @allanbrauer It's a #CoverUp if the Chief tries 2 conflate the robbery w/ The Killing of Brown. Chief ridden w/anxiety, can't speak",
+            "user id": 2514045312,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@owillis @TeacherSabrina were brown &amp; his friend in this store",
+            "user id": 414396340,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@owillis we have just witnessed the Fox Newsification of an entire police department",
+            "user id": 558203520,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

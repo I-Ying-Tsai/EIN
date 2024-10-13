@@ -1,0 +1,1189 @@
+{
+    "source": {
+        "content": "首尔、台北、北京的公务车数量分别是：47辆、20辆、70万辆。",
+        "user id": 3516336622,
+        "tweet id": "3664886960066812",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                11,
+                15
+            ],
+            "content": "公仆要用，我们不差钱!",
+            "user id": 1982282797,
+            "user name": "重庆雷登峰律师",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6,
+                13,
+                16,
+                18
+            ],
+            "content": "",
+            "user id": 2768265314,
+            "user name": "行走长江唐云",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "就多了几十辆，多乎哉？不多也。[挖鼻屎]",
+            "user id": 3556710867,
+            "user name": "马达_168",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                21
+            ],
+            "content": "又见灵车[蜡烛]",
+            "user id": 2282808082,
+            "user name": "罗府罗唯一",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8,
+                12,
+                17,
+                19,
+                25,
+                47
+            ],
+            "content": "",
+            "user id": 2312330067,
+            "user name": "謙女時評",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "取消公务车，道路肯定畅通不少。",
+            "user id": 2122260267,
+            "user name": "福州新人",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "伦敦自行车一辆",
+            "user id": 1817466707,
+            "user name": "一土立早",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "草泥马哦，屙血的坏东西们！",
+            "user id": 1418737457,
+            "user name": "河畔牧羊",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                74
+            ],
+            "content": "转发微博",
+            "user id": 1403978492,
+            "user name": "支点心声",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "转发微博",
+            "user id": 2309012394,
+            "user name": "沙漠里的曝光台",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "",
+            "user id": 1254340930,
+            "user name": "加勒比海风",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 0,
+            "children": [],
+            "content": "为人民公仆服务！",
+            "user id": 1051871922,
+            "user name": "叶炜先生",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 4,
+            "children": [],
+            "content": "",
+            "user id": 3082101275,
+            "user name": "玉石上的鹤",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 1,
+            "children": [
+                75
+            ],
+            "content": "这才是制度自信",
+            "user id": 1594726193,
+            "user name": "行者老陈",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "content": "不太可能吧，除非警车也不算公车~",
+            "user id": 2702382153,
+            "user name": "清韵瓷苑",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 0,
+            "children": [],
+            "content": "地大、人多，应该多。",
+            "user id": 3612673145,
+            "user name": "落叶不知秋啊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 1,
+            "children": [],
+            "content": "差别太大了吧！",
+            "user id": 1773126845,
+            "user name": "编辑阿飞",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 4,
+            "children": [],
+            "content": "TMD",
+            "user id": 1756766391,
+            "user name": "甄选",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 1,
+            "children": [
+                20,
+                24,
+                27,
+                68
+            ],
+            "content": "",
+            "user id": 3009585231,
+            "user name": "胖牛姐5",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 4,
+            "children": [],
+            "content": "公车比较",
+            "user id": 1197218445,
+            "user name": "好兵帅好",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 18,
+            "children": [
+                35,
+                49,
+                93
+            ],
+            "content": "[汗]",
+            "user id": 1245775290,
+            "user name": "陈-信滔",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 21,
+            "parent": 3,
+            "children": [],
+            "content": "有航母的派头。",
+            "user id": 2677109903,
+            "user name": "梦在江湖人",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "content": "[衰][衰][衰][衰][衰][衰]",
+            "user id": 3312136683,
+            "user name": "私奔在路上_",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "content": "天朝",
+            "user id": 2798830427,
+            "user name": "永康怡丰电器",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 18,
+            "children": [],
+            "content": "还是我们武汉的威武：领导行驶在社会主义的康庄大道上",
+            "user id": 2176269510,
+            "user name": "渣打money",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 4,
+            "children": [],
+            "content": "真的吗？",
+            "user id": 1908214841,
+            "user name": "真士见仁",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "content": "社会主义好@司马南 ",
+            "user id": 2330987542,
+            "user name": "chenyunx",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": 18,
+            "children": [],
+            "content": "威武、肃静的超级传承！[黑线]",
+            "user id": 3181625805,
+            "user name": "东方砚",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊][吃惊]",
+            "user id": 2929065397,
+            "user name": "yummy爆米花",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1731897100,
+            "user name": "Gillannas",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "content": "呵呵。",
+            "user id": 2265598823,
+            "user name": "nowgoodLD",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "为神马陪韩国电视剧的图？！明明是《》",
+            "user id": 1879575727,
+            "user name": "曹曹曹_曹小琳",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "content": "万",
+            "user id": 2632600761,
+            "user name": "乐事高园",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "content": "中国人多啊！",
+            "user id": 2661838391,
+            "user name": "欣悦zy",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "content": "结论是：社会主义好！[神马]",
+            "user id": 1622654143,
+            "user name": "月老在线",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 35,
+            "parent": 20,
+            "children": [
+                36,
+                39,
+                40,
+                41
+            ],
+            "content": "",
+            "user id": 3646173124,
+            "user name": "常州姚宝华家属",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [],
+            "content": "共产党说是人民选择了他们，不过那是60多年前的事了，应该再选一次了吧？",
+            "user id": 1497773554,
+            "user name": "楚天遥的微博",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "content": "我们帝都，你管得着吗？[怒]",
+            "user id": 1729866695,
+            "user name": "bitatom",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "content": "这些小国家能和我天朝比",
+            "user id": 1738432350,
+            "user name": "CoCo蛋挞蛋",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": 35,
+            "children": [],
+            "content": "北京领导太多！用车的地方也多！大家要理解！",
+            "user id": 3566829173,
+            "user name": "SS第二帝国装甲师",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 40,
+            "parent": 35,
+            "children": [
+                42
+            ],
+            "content": "为什么GDP超过它们，收入与生活水平却比过它们？现在懂了。。",
+            "user id": 3146387364,
+            "user name": "一叶无眠mini",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 41,
+            "parent": 35,
+            "children": [],
+            "content": "吓死奥巴马",
+            "user id": 2288237705,
+            "user name": "天生胆小1971",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 42,
+            "parent": 40,
+            "children": [],
+            "content": "",
+            "user id": 3630611755,
+            "user name": "舟山民宿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 43,
+            "parent": -1,
+            "children": [
+                78
+            ],
+            "content": "转发微博",
+            "user id": 1898525151,
+            "user name": "南漂007",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "content": "这个数据来源？杭州大约7.8m人口，按3口之家，得出110w车辆，大约每家1-2辆的数据，和实际也符合。北京的私车保有率不会高过长三角吧… 那么按照人口，有个机动车220-300w辆，其中不算外地牌。70w辆居然要1/3-1/4规模，太骇人听闻…",
+            "user id": 1652381431,
+            "user name": "Gracchus",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [
+                56
+            ],
+            "content": "差不太多。",
+            "user id": 2967325510,
+            "user name": "在海一方网",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "content": "高丽棒子哪能跟我们天朝比啊",
+            "user id": 1922237635,
+            "user name": "一日三博",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": 4,
+            "children": [],
+            "content": "[蜡烛]一路走好！",
+            "user id": 2337507652,
+            "user name": "草莓榴莲一锅出",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2286838353,
+            "user name": "比熊灰灰飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 49,
+            "parent": 20,
+            "children": [],
+            "content": "",
+            "user id": 2284861872,
+            "user name": "尼玛的奇迹",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [],
+            "content": "R u kidding me ?????????!!!!!!!!!!",
+            "user id": 2546104554,
+            "user name": "大提琴与推土机",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [
+                79
+            ],
+            "content": "转发微博",
+            "user id": 2467355381,
+            "user name": "九月好秋雨微微凉风",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 52,
+            "parent": -1,
+            "children": [
+                57
+            ],
+            "content": "党要用，谁敢管",
+            "user id": 2075575913,
+            "user name": "走向民主",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [
+                54
+            ],
+            "content": "无语",
+            "user id": 2831314990,
+            "user name": "众神起立",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 54,
+            "parent": 53,
+            "children": [
+                55,
+                60,
+                64,
+                70
+            ],
+            "content": "",
+            "user id": 2802886761,
+            "user name": "Pig_of_life",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 55,
+            "parent": 54,
+            "children": [
+                58,
+                62,
+                71
+            ],
+            "content": "",
+            "user id": 1621162800,
+            "user name": "飞的无限",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 56,
+            "parent": 45,
+            "children": [],
+            "content": "北京地大，部门大，官多，官大。这点儿不算啥。。",
+            "user id": 1993861437,
+            "user name": "豆芽芽滴美麻麻",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 57,
+            "parent": 52,
+            "children": [],
+            "content": "",
+            "user id": 1898082473,
+            "user name": "丹东多啦",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 58,
+            "parent": 55,
+            "children": [
+                61
+            ],
+            "content": "[吃惊]",
+            "user id": 1689557694,
+            "user name": "绿叶竹竹",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 59,
+            "parent": -1,
+            "children": [
+                76
+            ],
+            "content": "[钟]",
+            "user id": 2247227184,
+            "user name": "Smilense_J",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 60,
+            "parent": 54,
+            "children": [],
+            "content": "",
+            "user id": 1583736325,
+            "user name": "轻雨2010",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 61,
+            "parent": 58,
+            "children": [],
+            "content": "[晕]",
+            "user id": 1962746865,
+            "user name": "追梦--小白",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 62,
+            "parent": 55,
+            "children": [],
+            "content": "总和[怒]",
+            "user id": 3146122807,
+            "user name": "心远sjx",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1592112162,
+            "user name": "问月生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 64,
+            "parent": 54,
+            "children": [
+                65,
+                69,
+                73
+            ],
+            "content": "",
+            "user id": 1928871137,
+            "user name": "无畏剃DAO",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 65,
+            "parent": 64,
+            "children": [
+                66
+            ],
+            "content": "大锅风范",
+            "user id": 3539126807,
+            "user name": "春风小号",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 66,
+            "parent": 65,
+            "children": [],
+            "content": "天朝就是拽!",
+            "user id": 3248607707,
+            "user name": "Promise大昊昊",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [],
+            "content": "证明他们穷，我们有钱！",
+            "user id": 3178273727,
+            "user name": "快乐老yu",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 68,
+            "parent": 18,
+            "children": [],
+            "content": "所以北京车最长",
+            "user id": 2143130857,
+            "user name": "真事不隐",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 69,
+            "parent": 64,
+            "children": [
+                72
+            ],
+            "content": "",
+            "user id": 1805544227,
+            "user name": "任运9",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 70,
+            "parent": 54,
+            "children": [],
+            "content": "转《官方日报》（现名《人民日报》）一阅。",
+            "user id": 3196293210,
+            "user name": "清江黄坚",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 71,
+            "parent": 55,
+            "children": [],
+            "content": "高级",
+            "user id": 3246909071,
+            "user name": "好汉的天使",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 72,
+            "parent": 69,
+            "children": [],
+            "content": "",
+            "user id": 1426909602,
+            "user name": "郎哩个郎",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 73,
+            "parent": 64,
+            "children": [
+                90
+            ],
+            "content": "",
+            "user id": 3631288217,
+            "user name": "亮剑不死",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 74,
+            "parent": 8,
+            "children": [],
+            "content": "这说明了一切。。。",
+            "user id": 3283315204,
+            "user name": "疯小佈",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 75,
+            "parent": 13,
+            "children": [],
+            "content": "",
+            "user id": 2085917391,
+            "user name": "长安老陈BH4BYP",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 76,
+            "parent": 59,
+            "children": [],
+            "content": "天朝威武[威武]",
+            "user id": 3546700351,
+            "user name": "Mio宇达电通中国",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 77,
+            "parent": -1,
+            "children": [],
+            "content": "中国现状堪忧，近平责任重大",
+            "user id": 3753417574,
+            "user name": "杰杰475",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 78,
+            "parent": 43,
+            "children": [],
+            "content": "天朝，地大物博公车多~",
+            "user id": 1936010271,
+            "user name": "Ryo_Luo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 79,
+            "parent": 51,
+            "children": [],
+            "content": "能比吗，大国心脏跟你个小首都，小省会，这个可以有，不是什么都腐败，人多才能官多",
+            "user id": 2350237941,
+            "user name": "然若者",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 80,
+            "parent": -1,
+            "children": [],
+            "content": "首尔、台北太穷了，尼玛连公务车都配不齐，北京不差钱[鄙视]",
+            "user id": 2273665224,
+            "user name": "xiaowei-218",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 81,
+            "parent": -1,
+            "children": [],
+            "content": "！",
+            "user id": 1685717872,
+            "user name": "我知谁知",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 82,
+            "parent": -1,
+            "children": [],
+            "content": "Repost",
+            "user id": 2727598344,
+            "user name": "秃顶张",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 83,
+            "parent": -1,
+            "children": [],
+            "content": "啥也不说了",
+            "user id": 1829035920,
+            "user name": "于是乎淡定",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 84,
+            "parent": -1,
+            "children": [],
+            "content": "70万辆公务小轿车应该还是2006年北京中非论坛限行部分公车推算出来的数据。仅仅只是2006年哦！这是堵车的重要原因呢！[泪]",
+            "user id": 1319102385,
+            "user name": "俱胝老衲",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 85,
+            "parent": -1,
+            "children": [
+                88
+            ],
+            "content": "台北和首尔的公务员谁稀罕。",
+            "user id": 2096127703,
+            "user name": "职业女巫wicca",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 86,
+            "parent": -1,
+            "children": [],
+            "content": "我不信！",
+            "user id": 1713543680,
+            "user name": "翼嘉翼",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 87,
+            "parent": -1,
+            "children": [],
+            "content": "[吃惊]",
+            "user id": 1923584195,
+            "user name": "贱仁丨贱智",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 88,
+            "parent": 85,
+            "children": [],
+            "content": "[偷笑]还真是不比不知道",
+            "user id": 2997401262,
+            "user name": "小白喜欢529",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 89,
+            "parent": -1,
+            "children": [],
+            "content": "@陈里 @华生2010 @百度 @华尔街日报中文网 @美國駐港總領事館",
+            "user id": 2557580344,
+            "user name": "刚刚029",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 90,
+            "parent": 73,
+            "children": [
+                92
+            ],
+            "content": "[挖鼻屎]",
+            "user id": 3212311363,
+            "user name": "东_方_黛",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 91,
+            "parent": -1,
+            "children": [],
+            "content": "嘿嘿，非此则难证大国撅起",
+            "user id": 2118799390,
+            "user name": "梁非v",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 92,
+            "parent": 90,
+            "children": [],
+            "content": "天朝威武！",
+            "user id": 1494779220,
+            "user name": "叮当abcde",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 93,
+            "parent": 20,
+            "children": [
+                94
+            ],
+            "content": "认为不实，可否告知实际数量？！",
+            "user id": 1632648697,
+            "user name": "广州黄义杰",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 94,
+            "parent": 93,
+            "children": [],
+            "content": "实际情况咋样？",
+            "user id": 2485487027,
+            "user name": "谭振华--人口生态",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 95,
+            "parent": -1,
+            "children": [
+                96
+            ],
+            "content": "转发微博",
+            "user id": 2687131082,
+            "user name": "爱能遮掩许多的罪2012",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 96,
+            "parent": 95,
+            "children": [],
+            "content": "真实的是多少",
+            "user id": 2687131082,
+            "user name": "爱能遮掩许多的罪2012",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 9,
+            "state_1": 34
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 10
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 14
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 12
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 6
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 5
+        },
+        "7-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

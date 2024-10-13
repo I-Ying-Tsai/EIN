@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "Police line moving towards peaceful protesters in #ferguson",
+        "user id": 183341278,
+        "tweet id": "499699107615997952",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta are they jamming cell comms????",
+            "user id": 1137292190,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta peaceful for now!",
+            "user id": 2321272902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "“@BmoreConetta: Police line moving towards peaceful protesters in #ferguson”",
+            "user id": 2321272902,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@TrotAlex @BmoreConetta  are these the same \"peaceful protesters\" that have been burning an looting for two nights?",
+            "user id": 2678349290,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta @mattdpearce Are cops moving on the protesters who are on the sidewalk? Not seeing clear reports",
+            "user id": 14471411,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta @AntonioFrench It's gonna get dark soon.. The militay,I mean police are going to get scared..",
+            "user id": 260290494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@BmoreConetta: Police line moving towards peaceful protesters in #ferguson”",
+            "user id": 269611109,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta @AntonioFrench There is a phone app where u can listen live to the Police/ambulance radios...",
+            "user id": 2608956567,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta @AntonioFrench ridiculous",
+            "user id": 342492012,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta @AntonioFrench Police radio is quiet...",
+            "user id": 2608956567,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@BmoreConetta: Police line moving towards peaceful protesters in #ferguson” get up stand up. #dontgiveupthefight #StandWithFerguson",
+            "user id": 289164542,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BmoreConetta @ScienTece_ Dreamer - What You Know (Official Music Video) http://t.co/jMh9ZYOLKe",
+            "user id": 81873616,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "“@BmoreConetta: Police line moving towards peaceful protesters in #ferguson”",
+            "user id": 27757064,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

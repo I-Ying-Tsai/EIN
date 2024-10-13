@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "Al Qaeda added #CharlieHebdo editor to Most Wanted List for publishing Prophet Muhammad cartoons http://t.co/VrMJ6AXDrt",
+        "user id": 15438913,
+        "tweet id": "552823198484819969",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline time for more cartoons",
+            "user id": 2964775983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline but i thought theirs was a religion of peace and understanding?! #lies #cowards #islam",
+            "user id": 20005071,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@MailOnline I think my parish had recently added the #CharlieHebdo editor to their Most Wanted list as well, or do I have the wrong guy?",
+            "user id": 481295316,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Bad_Mayo @MailOnline You do, in the sense mudscums want to kill EVERYBODY!",
+            "user id": 2952726741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline What a World we live in. The Elec Gov Publishes the List Of Most Wanted &amp; leave.On the Other hand the same ppl pursue 2 see End.",
+            "user id": 232481166,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline Why do him the honour of calling him'Prophet'?",
+            "user id": 558525106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline If only these terrorists took out the Daily Mail, then everyone would be happy.",
+            "user id": 2838188061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline no surprise after all we are all on their list anyway for being non believers! Backwards",
+            "user id": 624726246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@mailonline At least 12 killed in shooting at office of French satirical: http://t.co/dTrEfTWyLp #paris Charlie Hebdo",
+            "user id": 2780648743,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline \nWhy dtill refer to him as 'prophet?'",
+            "user id": 2964775983,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @1959greenarrow Really? is mohamad the 'prophet' of Paul Dacre and the Daily Mail?",
+            "user id": 2952726741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline  The 'Prophet' Muhammed?  Do you ever write The 'Lord' Jesus?",
+            "user id": 117510407,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

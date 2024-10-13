@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "PHOTOS: New Yorkers write their thoughts in peaceful protest: http://t.co/mC0M9xbWG3  (Victor Mirontschuk) #Ferguson http://t.co/4JKxvjr6Ln",
+        "user id": 15764415,
+        "tweet id": "500349993539358720",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "THIS--&gt; \"@yourtake: NYers write thoughts in peaceful protest: http://t.co/BNmHrkgUbP  (Victor Mirontschuk) #Ferguson http://t.co/cYhc2NoE6b”",
+            "user id": 295723593,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@yourtake @USATODAY This is where you want to make a difference so there will be no threat- Spread kindness everywhere!",
+            "user id": 2198241673,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

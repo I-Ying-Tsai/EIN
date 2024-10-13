@@ -1,0 +1,132 @@
+{
+    "source": {
+        "content": "BREAKING: One gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV News.",
+        "user id": 19636948,
+        "tweet id": "524948264148160513",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: BREAKING: One gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV News.”",
+            "user id": 53359301,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: BREAKING: One gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV News.”",
+            "user id": 1615786508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: BREAKING: One gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV News.”",
+            "user id": 93046663,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @CP24: BREAKING: One gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV News.",
+            "user id": 21923301,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@CP24 @globalnewsto \nWhy would anyone let the World know that the Guns held by Soldiers at Memorial are Symbolic only?\nTime to load them!",
+            "user id": 63463165,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@CP24 @globalnewsto @CSIS \nJournalist on CNN who witnessed scene telling the world that Soldiers Guns are for show only @ Memorial???",
+            "user id": 63463165,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 what are the chances his name has an Ahmed/Mohammed in it?",
+            "user id": 20267673,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "Thoughts w #Ottawa peeps RT @CP24: BREAKING: 1 gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV News.",
+            "user id": 34404941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@CP24 thoughts and prayers  to everyone in Ottawa. Very tragic :(",
+            "user id": 220077246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "“@CP24: One gunman has been killed following a shooting on Parliament Hill, sources confirm to CTV..” What the fuck is wrong with the world",
+            "user id": 22584331,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "#Germanwings #CoPilot was a recent Muslim convert as well as a psychiatric patient. #ISIS is lauding him as a hero. http://t.co/J29Y3tDjOP",
+        "user id": 76453835,
+        "tweet id": "581460720900050945",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Zone6Combat Noooooooooooooooo. Who would have EVER thought.",
+            "user id": 2734291692,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@Zone6Combat great fact checking there you idiots.",
+            "user id": 30228275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                5,
+                6
+            ],
+            "content": ".@DanOClunaigh Find the article, complete w/ screenshots of his personal Facebook acct w/ Jihadist rhetoric before calling ppl idiots.",
+            "user id": 76453835,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@ellepuntopi È bellissimo che mettono la foto dove c'è scritto \"not known as terrorist\" asserendo il contrario. @Zone6Combat",
+            "user id": 369980447,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                7
+            ],
+            "content": ".@SimZombie @ellepuntopi Not being a \"known terrorist\" on a watch list doesn't mean he didn't have jihadist sympathies and beliefs.",
+            "user id": 76453835,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "content": "@Zone6Combat better yet, link it with your ridiculous tweet so everyone can read it.",
+            "user id": 30228275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 2,
+            "children": [],
+            "content": "@Zone6Combat The 'Andreas Lubitz Fans' page was set up by some brainless fool of the other variety or an agent provocateur. It's not his.",
+            "user id": 30228275,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "@Zone6Combat As you say. @ellepuntopi",
+            "user id": 369980447,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 2
+        }
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Emergency responders escort VIPs out of a building near Parliament Hill following Ottawa shooting (Photo: Barcroft) http://t.co/wE4GXSqr7d",
+        "user id": 17469289,
+        "tweet id": "524995776578330624",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@nypost @acoyne Looks like General Lawson, CDS.",
+            "user id": 135685204,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@flying_steve @nypost @acoyne Yup.",
+            "user id": 19159352,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost",
+            "user id": 1726242560,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost it's a post office",
+            "user id": 25704795,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost @acoyne that looks like General TJ Lawson, Chief of the Defence Staff!",
+            "user id": 248803369,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Engaging photo “@nypost: Emergency responders escort VIPs following Ottawa shooting (Photo: Barcroft) http://t.co/waN3uApHRk”",
+            "user id": 49692288,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost @m0ff wow",
+            "user id": 260267051,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@nypost @acoyne Violence breeds violence, doesn't it?   http://t.co/JM9pG2gf8U",
+            "user id": 295445727,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

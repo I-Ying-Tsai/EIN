@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "#Ferguson Police apparently has a history of fabrication.  http://t.co/x1d3QTfEBx",
+        "user id": 19948174,
+        "tweet id": "500286805720449025",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@SistahScholar even chief of Ferguson was like am I really reading this to the public.",
+            "user id": 462552106,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "Absolutely. RT @silvarobert718: @SistahScholar even chief of Ferguson was like am I really reading this to the public.",
+            "user id": 19948174,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@SistahScholar What's more disturbing is despite reputations they military vehicles. Protect &amp; serve on vehicles now is protect &amp; Enforce.",
+            "user id": 41375529,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@SistahScholar: #Ferguson Police apparently has a history of fabrication.  http://t.co/jvuGDV0VoN” not shocking",
+            "user id": 776285184,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "Jig is ⬆️“@SistahScholar: #Ferguson Police apparently has a history of fabrication.  http://t.co/yGscLzvlJY”",
+            "user id": 30681549,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@SistahScholar: #Ferguson Police apparently has a history of fabrication.  http://t.co/KovTqgoJy6” \nWOW.",
+            "user id": 253876265,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": ".@SistahScholar @Gryffinator The #FergusonPD chief sure as Hell was standing-up there stuttering &amp; stammering like a bald-face LIAR today.",
+            "user id": 156641280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@SouthernLady328 @SistahScholar Also as someone whose had his balls kicked into the roof of his mouth.",
+            "user id": 21936334,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Ya don't say. “@SistahScholar: #Ferguson Police apparently has a history of fabrication.  http://t.co/G5x09TWjJ8”",
+            "user id": 164799244,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "What in the holy hell??!!! “.@SistahScholar: #Ferguson Police apparently has a history of fabrication.  http://t.co/WlTTRZZDG8”",
+            "user id": 28621943,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "content": "@ShanteParadigm @SistahScholar This sounds like  some KKK shit, they have been taking time to cover up the truth!",
+            "user id": 723176216,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@SistahScholar that story is fabrication unto itself lol",
+            "user id": 338790803,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

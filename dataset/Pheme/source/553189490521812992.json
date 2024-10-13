@@ -1,0 +1,185 @@
+{
+    "source": {
+        "content": "Cartoonists stand in solidarity with #CharlieHebdo victims with these powerful images http://t.co/Tbg2WDiIHF http://t.co/MhPgwnz9gQ",
+        "user id": 18510860,
+        "tweet id": "553189490521812992",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MotherJones Ok I am against violence of all kinds , which is why I cant forgive the cartoonists for being so hateful in there messages.",
+            "user id": 71530832,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@MotherJones: Cartoonists stand in solidarity #CharlieHebdo with these powerful images http://t.co/Ih7HZuWyci http://t.co/zDRN4107Bn”",
+            "user id": 1511224255,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "“@MotherJones: Cartoonists stand in solidarity with #CharlieHebdo victims with these images http://t.co/3HoRNxh2u2 http://t.co/LfJlJcKvee”",
+            "user id": 339312080,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@MotherJones Wake up &amp; smell the coffee, French press.  War profiteers did this, not Islam. BREAKING VIDEO &gt;&gt; http://t.co/d2GGtLsdnJ",
+            "user id": 1849407440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "content": "@Anonomobile @MotherJones  bullshit",
+            "user id": 186860446,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MotherJones #ParisAttack Associated With US 9/11 Cover-Up: Former Intelligence Chairman / Sputnik International http://t.co/rkGK5CzoEZ",
+            "user id": 1849407440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MotherJones @SSG_Echo Je suis Charlie!!!",
+            "user id": 17699061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MotherJones And me too in New Zealand https://t.co/YA1GHxc8vI",
+            "user id": 1191208519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                9,
+                10,
+                11
+            ],
+            "content": "@project9999 Paris Attack Associated With US 9/11 Cover-Up: Former Intelligence Chairman / Sputnik International http://t.co/rkGK5CzoEZ",
+            "user id": 1849407440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                12
+            ],
+            "content": "@Anonomobile  As I said earlier \"bullshit\". This is an act by believers in a fairytale called Islam. Kill a dozen innocents for a cartoon",
+            "user id": 186860446,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "@Anonomobile  Your source for reliable news is http://t.co/asgX8E9dvw.? No wonder you are so uninformed.",
+            "user id": 186860446,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "@Anonomobile http://t.co/asgX8E9dvw is the mouthpiece of Russia. It's laughable you would quote this crap. Aren't you embarrassed",
+            "user id": 186860446,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [],
+            "content": "@project9999 Paris Attack Associated With US 9/11 Cover-Up: Former Intelligence Chairman / Sputnik International http://t.co/rkGK5CzoEZ",
+            "user id": 1849407440,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

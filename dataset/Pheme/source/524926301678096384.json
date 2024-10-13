@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "MORE: @CTVNews reporting second shooting behind Peace Tower on Parliament Hill #ottnews SHOOTER IS ON THE LOOSE.",
+        "user id": 49654153,
+        "tweet id": "524926301678096384",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@CFRAOttawa: MORE: @CTVNews reporting second shooting behind Peace Tower on Parliament Hill #ottnews SHOOTER IS ON THE LOOSE.” @jackl74",
+            "user id": 380088271,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "“@CFRAOttawa: MORE: @CTVNews reporting second shooting behind Peace Tower on Parliament Hill #ottnews SHOOTER IS ON THE LOOSE.” Wtf??",
+            "user id": 2446451162,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

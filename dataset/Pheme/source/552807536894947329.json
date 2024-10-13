@@ -1,0 +1,96 @@
+{
+    "source": {
+        "content": "The attack on Charlie Hebdo is likely to radicalize all sides in the debate about Islam and Islamism. That's what terrorists are aiming for.",
+        "user id": 50295156,
+        "tweet id": "552807536894947329",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@uli_speck Pulease...there's just one side that;s radical. All criticism of any kind has been muzzled by our leaders and #msm @HannibalPim",
+            "user id": 134552828,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                5
+            ],
+            "content": "@Diggrich_ @uli_speck @HannibalPim some people say that attacks in France organized by CIA and MI6 like in september 11th so USA kills peopl",
+            "user id": 1645589528,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@uli_speck @watanis Not necessarily so. What is important is that those who are responsible for this be caught.1/2",
+            "user id": 1451377339,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@uli_speck @hoenselaartje Well 'they' were already radicalised, so 'we' must catch up with them now to defend our freedom ! \n#JeSuisCharlie",
+            "user id": 24959530,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@PWEM @uli_speck i agree",
+            "user id": 1400440008,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 1,
+            "children": [],
+            "content": "@kurolgun ..some say Elvis Presley still lives...@uli_speck @HannibalPim",
+            "user id": 134552828,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

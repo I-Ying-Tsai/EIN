@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "Enter 'Putin' into Twitter search. Look at all the clowns suggesting he's dead/a palace coup. Now, never take any of them seriously again",
+        "user id": 8628872,
+        "tweet id": "576321776424189954",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@27khv It just makes me sick and I have better things to do then read what sick morons tweet.",
+            "user id": 1273247052,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@27khv @Mukha_Kaloev You mean a Little bit like #FoxNews",
+            "user id": 2882743727,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@27khv &amp; to top it off, msm sources these rumors from well known anti Kremlin twitter accounts : https://t.co/K1dKWzOwsX",
+            "user id": 55820781,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@27khv I spoke w one journo @KevinRothrock, who was having fun w #putindead. He said it was his \"right to offend\". http://t.co/J5CcsZutkf",
+            "user id": 129296601,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@27khv of course it's his right, but I couldn't take him seriously anymore",
+            "user id": 129296601,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                6,
+                7
+            ],
+            "content": "@ixaos @KevinRothrock 100% their right. But don't talk shite now &amp; then expect to be taken seriously in future..",
+            "user id": 8628872,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@27khv @KevinRothrock yes,I even mentioned a little bit similar situation w/George R.R. Martin when fans started to speculate abt his health",
+            "user id": 129296601,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 5,
+            "children": [],
+            "content": "@27khv  so he said to them big *fuck* you. In my case I just simply unfollowed @KevinRothrock. No need for verbal abuse",
+            "user id": 129296601,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "NSW Premier Mike Baird says his thoughts and prayers are with the people in the  #sydneysiege. http://t.co/7NdqPYhwcY http://t.co/I71KEcYFIy",
+        "user id": 2768501,
+        "tweet id": "544291966536523776",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews prayers will help",
+            "user id": 16236574,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "Thoughts &amp; prayers ain't much use!  Send SAS  @abcnews: NSW Premier says his thoughts and prayers are with the people in the  #sydneysiege.",
+            "user id": 333353386,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews statements and press releases not enough. Leaders should be out in person giving reassurance, calm and advice.",
+            "user id": 103164985,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@abcnews @abcnewsCanberra Fundamentalist religious wingnut threatening innocent lives. Premier thinks \"prayers\" sensible idea. #facepalm",
+            "user id": 1144660910,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@DocOnSkis @abcnews @abcnewsCanberra Facepalm",
+            "user id": 2885005042,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews # mike baird - my thoughts are with your police snipers. May their aim be true and get the bastards!",
+            "user id": 218434544,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews @petergouldart .  hope everyone will be ok :( .",
+            "user id": 2467903345,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@abcnews Prayers for the hostages would be to Yahweh,  who is also Allah.",
+            "user id": 38814614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "“@abcnews: NSW Premier Mike Baird says his thoughts and prayers are with the people in the  #sydneysiege. AGREE.  ALL HOPE 4 GOOD END.",
+            "user id": 2236848466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

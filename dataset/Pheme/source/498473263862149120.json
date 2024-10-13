@@ -1,0 +1,96 @@
+{
+    "source": {
+        "content": "Protestors outside #Ferguson police dept now http://t.co/VYsGspeKPB",
+        "user id": 14090948,
+        "tweet id": "498473263862149120",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AntonioFrench @BlackXodus wuz goin on FAM..? I've sorta been in a vacuum lately",
+            "user id": 1904707764,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@kco36cpl @AntonioFrench Peace dear brother. Get that spiritual food this morning and tune in to @MosqueMaryam live http://t.co/vgLNnmsZjv",
+            "user id": 287985478,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench @Sttbs73  Ah, the shoot first ask questions later Ferguson police dept.",
+            "user id": 460584206,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "“@AntonioFrench: Protestors outside #Ferguson police dept now http://t.co/r9YCPOkOgW” U.S Police killing black kids must stop.",
+            "user id": 1167824414,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@BudBuddiesFan @AntonioFrench There NOT GOING TO STOP until they're Made To Stop....",
+            "user id": 37796609,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@commonman80 @AntonioFrench for sure.",
+            "user id": 1167824414,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "A320 Germanwings from Barcelona to Dusseldorf has crashed in French Alps near Digne les Bains.",
+        "user id": 14569869,
+        "tweet id": "580320856905269248",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News we hope all passengers are okay and their families have patience in this difficult time #planecrash",
+            "user id": 3091317905,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Channel4News sad news",
+            "user id": 221310328,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

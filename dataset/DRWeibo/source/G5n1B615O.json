@@ -1,0 +1,201 @@
+{
+    "source": {
+        "content": "感谢衡阳市环城南路派出所跟蒸湘北路派出所的民警帮我找回丢失的手机！  警察哥哥们出警速度很快！很负责！很棒棒！@衡阳市公安局 ",
+        "time": "18-3-1 16:40",
+        "user id": "2669260283",
+        "tweet id": "G5n1B615O",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "1886313233",
+            "user name": "有一个小清新",
+            "content": "丢了还能找回来 也是屌了",
+            "time": "18-3-1 20:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 2,
+            "children": [],
+            "user id": "2669260283",
+            "user name": "陈菁茹",
+            "content": "哈哈  主要是提供的线索很足",
+            "time": "18-3-3 00:40",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [
+                1
+            ],
+            "user id": "2992961174",
+            "user name": "许先森feel",
+            "content": "估计你是那十万分之一可以找的回来的人",
+            "time": "18-3-2 20:01",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "2669260283",
+            "user name": "陈菁茹",
+            "content": "报警一个小时就找到了",
+            "time": "18-3-2 04:00",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "5583972237",
+            "user name": "吃鸡少女媛仔",
+            "content": "我也在衡阳！",
+            "time": "18-3-1 18:29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "2669260283",
+            "user name": "陈菁茹",
+            "content": "哈哈很巧啊 有机会一起玩",
+            "time": "18-3-2 03:44",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 6,
+            "parent": 8,
+            "children": [
+                5
+            ],
+            "user id": "5583972237",
+            "user name": "吃鸡少女媛仔",
+            "content": "我对象也衡阳滴，我也来找他滴哈哈哈哈",
+            "time": "18-3-2 03:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 8,
+            "children": [],
+            "user id": "5583972237",
+            "user name": "吃鸡少女媛仔",
+            "content": "这样！",
+            "time": "18-3-2 03:08",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 4,
+            "children": [
+                6,
+                7
+            ],
+            "user id": "2669260283",
+            "user name": "陈菁茹",
+            "content": "我男朋友是衡阳的~  我前几天去他那边玩去了",
+            "time": "18-3-1 20:13",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "3517734047",
+            "user name": "我站在可隨意折疊時代",
+            "content": "玛德 嫉妒",
+            "time": "18-3-1 22:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "2669260283",
+            "user name": "陈菁茹",
+            "content": "嘿嘿  手机有定位",
+            "time": "18-3-2 04:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "2021910305",
+            "user name": "衡阳蒸湘公安",
+            "content": "点赞环城南路派出所、蒸湘北路派出所。",
+            "time": "18-3-2 16:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "2021910305",
+            "user name": "衡阳蒸湘公安",
+            "content": "",
+            "time": "18-3-2 16:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

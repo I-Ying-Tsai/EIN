@@ -1,0 +1,176 @@
+{
+    "source": {
+        "content": "Boko Haram killed 2000 people in Baga over a period of 5 days. No, that won't make news like #CharlieHebdo because this is Africa lad.",
+        "user id": 256413041,
+        "tweet id": "553473559352606720",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@De_Imperial @SamSoleZA nothing stopping Africans from having their own news networks and stop bleating about sky &amp; CNN non coverage! #truth",
+            "user id": 244955057,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@De_Imperial @LucyMbabazi Make it news or the world won't know about it. Stand up and make a ruckus as the French are doing &amp; Pakistanis did",
+            "user id": 18401107,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@De_Imperial but they are re-acting unlike our prez goodluck who's watching boko haram killing his ppl",
+            "user id": 2799382419,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@De_Imperial Africans must establish thier own news network to cover thier issues.",
+            "user id": 595858241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@AlukoloEddy Not while France still plays such a divisive role in African affairs. Won't happen. North &amp; South not in-sync.",
+            "user id": 256413041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "content": "@AlukoloEddy Already have ANN7, SABC News &amp; ENCA in RSA. 24 hour news channels. But accessing some parts of Africa is near impossible.",
+            "user id": 256413041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@De_Imperial The death of 12 people (white)is taking the world waves by storm than that of 2000 Africans is that fair?",
+            "user id": 595858241,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@AlukoloEddy No. Unfair.",
+            "user id": 256413041,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@De_Imperial @WanjikuRevolt I think Africans need to start telling their own stories. No one will tell it for us. Thats the bottom line",
+            "user id": 869563304,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@de_imperial @jackdevero so when black ppl die dan its fine..",
+            "user id": 346763510,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "@De_Imperial @magasman705 20000 plus are killed in NE DRC and nobody knows, and world doesn't care. #BloodDiamonds",
+            "user id": 352182919,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "content": "@LedwabaMaila @De_Imperial how many children are killed in Yemen, Afghan and elsewhere across Africa but they never make news....",
+            "user id": 427459938,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "content": "@magasman705 @De_Imperial that's democracy, remember?",
+            "user id": 352182919,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 7
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

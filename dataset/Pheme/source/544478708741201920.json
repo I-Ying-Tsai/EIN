@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "At least five people have been released or escaped from a Sydney cafe where an armed man is holding hostages: http://t.co/b0e9piKyqm",
+        "user id": 1652541,
+        "tweet id": "544478708741201920",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters My prayers for the safe release of all the hostages &amp; the capture of the terrorists! Please Lord, hear my prayer!",
+            "user id": 1244099858,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters Your tweet makes my page better: http://t.co/Ils8NX1Jjh",
+            "user id": 2543189090,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters We DO NOT WANT hundreds of thousands of Syrian \"refugees\" in the USA!  Say no to Obama's biggest crime of all!!!",
+            "user id": 1852665702,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "“@Reuters: At least 5 people have been released or escaped from Sydney cafe where an armed man is holding hostages: http://t.co/BZQTm80rdn”",
+            "user id": 216495966,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@Reuters\n#German documentary\nregarding #Turkey's #AKP state support for #IslamicState terror &amp; bombing in #Syria \nhttps://t.co/bygxKJ8odL",
+            "user id": 48304732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

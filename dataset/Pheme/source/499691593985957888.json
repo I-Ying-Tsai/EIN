@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "That crowd behind the cops? MORE cops. #ferguson http://t.co/DBmGbd1TUl",
+        "user id": 1716581,
+        "tweet id": "499691593985957888",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @elonjames: That crowd behind the cops? MORE cops. #ferguson http://t.co/EbKMgYLeVs",
+            "user id": 19948174,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@elonjames why the riot gear? Oh right I forgot #dangerousnegroes",
+            "user id": 751221026,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

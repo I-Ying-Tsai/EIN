@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Are you extending a friendly hand on public transport tonight? #illridewithyou is one good thing out of #sydneysiege at least",
+        "user id": 16198940,
+        "tweet id": "544437156505067520",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@702sydney #illridewithyou",
+            "user id": 1184130212,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@702sydney",
+            "user id": 2196864864,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@702sydney traveling from Northmead to city via Parramatta 7.30am. I'll accompany anyone at all who feels overwhelmed #illridewithyou",
+            "user id": 1432597598,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@702sydney In a heartbeat! #illridewithyou Im in Bathurst",
+            "user id": 282062693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

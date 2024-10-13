@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "142 passengers on board GermanWings plane which has crashed in French Alps, according to AFP",
+        "user id": 26738483,
+        "tweet id": "580318938996740096",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Airbus A320. RT @hamishNews: 142 passengers on board GermanWings plane which has crashed in French Alps, according to AFP",
+            "user id": 25475608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@hamishNews geezuz.",
+            "user id": 2733817785,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@hamishNews Oh No not another plane down 😁😳",
+            "user id": 282062693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@hamishNews BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

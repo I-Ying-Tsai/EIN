@@ -1,0 +1,127 @@
+{
+    "source": {
+        "content": "Condolences pour in for family of Cpl. Nathan Cirillo, killed in #OttawaShooting http://t.co/EwHwozM3TU http://t.co/KWWGZLJT0b",
+        "user id": 16534576,
+        "tweet id": "525055052801515521",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@chronicleherald that's how it's done. Please no resuscitation attempts or shooter pics tomorrow. Lead by example.",
+            "user id": 580874917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                8
+            ],
+            "content": "@tchadwyk @chronicleherald Precisely. Only pictures and names of heroes like Cpl. Cirillo and Kevin Vickers should be used.",
+            "user id": 163262954,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@chronicleherald @GillianBauer3 condolences to the #Cirillo family tonight",
+            "user id": 16146535,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "So full of life. It's all so damn senseless. @chronicleherald @Merlyn43",
+            "user id": 50367013,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@chronicleherald @RandiShinder So awful...",
+            "user id": 555526289,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@chronicleherald @karenhensel8 thats a good looking guy",
+            "user id": 1433410674,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@chronicleherald poor guy. Rest in peace guy.",
+            "user id": 1921432614,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@chronicleherald.. on to a better place ...",
+            "user id": 706672887,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [],
+            "content": "@WillyRBeek @chronicleherald agreed. This boy was on guard for us...Our turn for him now. Do the right thing Herald!",
+            "user id": 580874917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

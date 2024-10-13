@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Reports: Crashed #Germanwings plane was carrying 148 people, including 142 passengers, two pilots and four flight attendants.",
+        "user id": 17990493,
+        "tweet id": "580327197921120256",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@SPIEGEL_English: Reports:Crashed #Germanwings plane. 148 people, including 142 passengers, 2 pilots and 4 flight attendants.” Schon wieder",
+            "user id": 52252910,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@SPIEGEL_English BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "source": {
+        "content": "#Ottpolice and @rcmpgrcpolice are asking the public to stay away from the downtown Ottawa area. Ongoing investigation.",
+        "user id": 23937894,
+        "tweet id": "524944978288852992",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @OttawaPolice: #Ottpolice and @rcmpgrcpolice are asking the public to stay away from the downtown Ottawa area. Ongoing investigation.",
+            "user id": 551142028,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @rcmpgrcpolice We are thinking of you during this unfortunate time and hoping you are all safe. Thank you all first responders",
+            "user id": 627354853,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @rcmpgrcpolice  \"God Speed and Salute for your brave efforts\"  #OttawaShooting",
+            "user id": 22873947,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @rcmpgrcpolice Press giving details of where Prime Minister is going today....WHY makes no sence ??",
+            "user id": 2379792696,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @rcmpgrcpolice You are in our thoughts and prayers.  Thank you for your bravery.  Hope you are all safe.",
+            "user id": 328450695,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @rcmpgrcpolice If people downtown want to leave the area by vehicle, are there updates about what roads we can take? Thanks",
+            "user id": 399478922,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@OttawaPolice @rcmpgrcpolice Praying for safety of police officers and others there.",
+            "user id": 67659298,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        }
+    }
+}

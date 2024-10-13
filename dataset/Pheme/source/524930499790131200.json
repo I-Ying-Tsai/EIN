@@ -1,0 +1,145 @@
+{
+    "source": {
+        "content": "The RCMP intervention team members Parliament Hill http://t.co/aO700DweOW http://t.co/6JDil29s3B",
+        "user id": 14216661,
+        "tweet id": "524930499790131200",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost I'm so proud of our intelligence. What a city #Ottawa is !!!",
+            "user id": 2847572610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost @HockeyFanDiva \nwhy are cops better-geared than our soldiers?\nbecause candians are the real enemy of this government.",
+            "user id": 431504592,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Has this become my Canada? “@nationalpost: The RCMP intervention team members Parliament Hill http://t.co/22poz0bvC9 http://t.co/N3FPc8Qf0v”",
+            "user id": 49301532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost Those are cops? Since when do they need Kevlar helmets with NVG mounting points. That's all military gear.",
+            "user id": 169123446,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@nationalpost Calming the intruder down lol RT #RCMP intervention team members Parliament Hill http://t.co/xP0lWGeLS1 http://t.co/vxswyK4R1t",
+            "user id": 80155484,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@nationalpost @KarlWitATwitta isis lonewolf attacks in cannada bro",
+            "user id": 250743738,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "content": "@BNewF @nationalpost I thought it was lonewolf the injun from eski lmaoo",
+            "user id": 1107801499,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@KarlWitATwitta Lonewolf from esk? Ohhhhhh lmao that guy you ground and pounded near gale's.. Forgot all about him.",
+            "user id": 250743738,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@BNewF ohhh c'mon now Blair we all know that was you in one of your rages annnndd also poor Shane on the road that night lmaoo #poorfolks",
+            "user id": 1107801499,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@BNewF Lmaoo hahahha shiiit",
+            "user id": 1107801499,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

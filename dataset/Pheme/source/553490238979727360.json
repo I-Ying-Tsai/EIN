@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "MORE: Massacre suspects believed to have taken hostage and holed up in small industrial town northeast of Paris: http://t.co/lmr2ImJhmr",
+        "user id": 51241574,
+        "tweet id": "553490238979727360",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Heart Breaking MT @AP: MORE: Massacre suspects believed to have taken hostage in small town northeast of Paris: http://t.co/Mf6AyiOOu1",
+            "user id": 15409034,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AP @ABC7Elex @CNN @isaCNN #ParisShootings Motivated by #Israel &amp; Interventions as well: http://t.co/TZuG9tw7Oy #CharlieHebdo #JeSuisCharlie",
+            "user id": 16574787,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

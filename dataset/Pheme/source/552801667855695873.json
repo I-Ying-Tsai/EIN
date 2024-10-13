@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "Masked gunmen pictured near #CharlieHebdo offices http://t.co/Zvfj25EnEc http://t.co/qTWhoLqICk",
+        "user id": 15438913,
+        "tweet id": "552801667855695873",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline Can't believe seems as though it's almost happening every day so much shocking acts of violence around the world",
+            "user id": 124652308,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@MailOnline oh but it's only a small number of dysfunctional individuals",
+            "user id": 2888296032,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@OzDamion @MailOnline small as in about 15% of Islam. Small as 350000000m",
+            "user id": 2827604185,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline Still there will be those that will not accept that Islam is a religion of conquest not of peace.",
+            "user id": 564805917,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@MailOnline: Masked gunmen pictured near #CharlieHebdo offices http://t.co/Am4nUaI21v http://t.co/aYbBQuRuTk”",
+            "user id": 2159049399,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline Another #Woolwich #FalseFlag #DivideAndRule turning us against each other. Get off the chessboard people. #Truth",
+            "user id": 23183433,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline \n#charlesmartellwhereareyou?",
+            "user id": 2964775983,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline \n#bringbackcrusades",
+            "user id": 2964775983,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "Oland double standards: when killed in Paris - is terrorism, in Ukraine - they is rebels @MailOnline @ukrpravda_news",
+            "user id": 302425104,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @ukrpravda_news It's official, Islamic State came to France.",
+            "user id": 2884168344,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@MailOnline @ukrpravda_news а был жёлтый скотч?",
+            "user id": 949918554,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

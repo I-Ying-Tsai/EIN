@@ -1,0 +1,133 @@
+{
+    "source": {
+        "content": "Call out to STL Co police: only can confirm a person shot on Chambers, and is down. No word on alive or dead, or why. #Ferguson",
+        "user id": 15951232,
+        "tweet id": "499430225043009537",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@AllisonBlood where is your info coming from? We are listening to scanners but no news channels are covering. Where should we look/watch",
+            "user id": 21419941,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AllisonBlood @PDPJ what happened ?",
+            "user id": 2338848523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@AllisonBlood @AntonioFrench This seems that it will escalate even further before this is all over",
+            "user id": 1481351467,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@AllisonBlood @AntonioFrench  A woman is said to be shot in the head on Chambers.  Also people wearing masks,",
+            "user id": 511276619,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": ".@AllisonBlood Please keep us in the loop! Want to know if this is CONTINUED #PoliceBrutality in a #PoliceState or random",
+            "user id": 45437611,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@AllisonBlood @AntonioFrench I don't think it was by police, it was apparently a drive by",
+            "user id": 397945865,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AllisonBlood @stltoday naturally assume the police shot. Most if not all of the gunshots fired have been the rioters",
+            "user id": 2553954727,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "content": "@AllisonBlood @BossASmith they attacked a peaceful protest with tanks and 300 military personnel",
+            "user id": 28432642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "“@AllenGatesDope: @AllisonBlood @BossASmith they attacked a peaceful protest with tanks and 300 military personnel” #Ferguson",
+            "user id": 36556473,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [],
+            "content": "@AllenGatesDope bruh get out of their!",
+            "user id": 36556473,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Tomorrow the exclusion zone will stay in place in Sydney - if you work in the area please stay at home. #sydneysiege http://t.co/LMonvzQWIZ",
+        "user id": 109234928,
+        "tweet id": "544422678119981056",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@Andrew_Denney @channeltennews @dominicstellino says to stay home",
+            "user id": 1455683094,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@Andrew_Denney @CAllstadt \nDone. http://t.co/4vfnSKSLES",
+            "user id": 51658661,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@Andrew_Denney What no media blackout and no fly zone what kind of police state is this!",
+            "user id": 2723456510,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@Andrew_Denney @WickedDreamer I don't propose to know what's best for oz but isn't that a victory for the criminal?",
+            "user id": 2439521420,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

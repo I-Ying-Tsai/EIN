@@ -1,0 +1,5045 @@
+{
+    "source": {
+        "content": "#图片里的中国#父子",
+        "user id": 1323756935,
+        "tweet id": "3603163854589304",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@梦里的仰望",
+            "user id": 2617326357,
+            "user name": "二两锅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2866721652,
+            "user name": "向日葵葵长",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "。",
+            "user id": 1757421013,
+            "user name": "刘皇叔是也",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@哈瓦小屋",
+            "user id": 2802203874,
+            "user name": "梅兰竹菊梅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [
+                7,
+                10,
+                49,
+                91
+            ],
+            "content": "[心]",
+            "user id": 1465346477,
+            "user name": "假行僧老巩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                33
+            ],
+            "content": "转发微博",
+            "user id": 1926084342,
+            "user name": "蓑笠翁-寒江雪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "看得人心里酸酸的",
+            "user id": 2785523744,
+            "user name": "-热线观察",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [],
+            "content": "这是一个家庭的励志故事",
+            "user id": 1309075784,
+            "user name": "菡萏初成小屋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                61,
+                163
+            ],
+            "content": "真正的一图千言！",
+            "user id": 2832970622,
+            "user name": "乌克兰拖拉机通史",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "百感交集 百味杂陈 百无一用是书生",
+            "user id": 1373967022,
+            "user name": "闲__丫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [
+                12,
+                13,
+                22,
+                23,
+                208
+            ],
+            "content": "",
+            "user id": 1996238841,
+            "user name": "Kielboat",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "无语！",
+            "user id": 2722694437,
+            "user name": "重慶羅翔",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1915405467,
+            "user name": "Joan1203",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "content": "也算对的起儿子",
+            "user id": 1553780245,
+            "user name": "幽州王崇洋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                17,
+                21,
+                37,
+                55
+            ],
+            "content": "转发微博",
+            "user id": 1570980405,
+            "user name": "牛易之",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                24,
+                34,
+                47,
+                62
+            ],
+            "content": "爸我考上大学了[泪][泪][泪]",
+            "user id": 2823644642,
+            "user name": "寒海神龙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                32
+            ],
+            "content": "转发微博",
+            "user id": 1640187762,
+            "user name": "范否_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 17,
+            "parent": 14,
+            "children": [],
+            "content": "伟大的父亲。",
+            "user id": 1891310317,
+            "user name": "我是亮剑2010",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "content": "哎",
+            "user id": 1669059251,
+            "user name": "合一知行",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "content": "五味杂成！望能过上好日子不要忘了自己的爹啊！",
+            "user id": 1782336462,
+            "user name": "开心的小妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "content": "如果是我，我会把那身破博士服撕掉！烧掉！[泪][泪][泪]",
+            "user id": 2247656025,
+            "user name": "每时茶官博小编",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 14,
+            "children": [],
+            "content": "",
+            "user id": 1409257217,
+            "user name": "kentxm",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": 10,
+            "children": [
+                30
+            ],
+            "content": "",
+            "user id": 1233302737,
+            "user name": "陈初越",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 10,
+            "children": [],
+            "content": "心酸。",
+            "user id": 1593874644,
+            "user name": "脑洞次大次",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 24,
+            "parent": 15,
+            "children": [],
+            "content": "[爱你][晕]",
+            "user id": 2152599671,
+            "user name": "慈溪上林坊啊呗",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                122,
+                169
+            ],
+            "content": "转发微博",
+            "user id": 1769124540,
+            "user name": "雨天catcat",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "content": "辛酸[泪]",
+            "user id": 1409151737,
+            "user name": "红旗下的傻蛋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "content": "这个是现代中国父母含辛茹苦望子成龙的写照！",
+            "user id": 1496840025,
+            "user name": "天平山上",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "content": "不读书又走他父母的路？父母累死累活供他读书为的就是要自己的儿女有遭一日改变命运，跳出龙门。明白？",
+            "user id": 2797224002,
+            "user name": "罗长亮575",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1323801121,
+            "user name": "manmilbar",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": 22,
+            "children": [
+                43
+            ],
+            "content": "",
+            "user id": 1852553041,
+            "user name": "丁青云理财周报",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "content": "#图片里的中国父子#…酸溜溜的心里",
+            "user id": 2907482967,
+            "user name": "苏城狂奔的蜗牛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": 16,
+            "children": [
+                240
+            ],
+            "content": "圖片裡的中國。",
+            "user id": 1642343347,
+            "user name": "QienKuen",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 33,
+            "parent": 5,
+            "children": [],
+            "content": "感动[泪]",
+            "user id": 2108999015,
+            "user name": "俊子blog",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 34,
+            "parent": 15,
+            "children": [],
+            "content": "应该是：爸，我大学毕业了!",
+            "user id": 1979963241,
+            "user name": "邓显才",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "content": "呵呵",
+            "user id": 1937412360,
+            "user name": "昙无",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "content": "心酸，但也实现了父亲的愿望，要加倍报答父爱。",
+            "user id": 2078363252,
+            "user name": "巧克力Q先生",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 37,
+            "parent": 14,
+            "children": [],
+            "content": "父亲",
+            "user id": 1932016914,
+            "user name": "一格子阳光2014",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "content": "爸爸 ！ 真的有点感动！",
+            "user id": 1704696951,
+            "user name": "嘟熊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "content": "然后呢？",
+            "user id": 1792700464,
+            "user name": "易国典",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "content": "中国！！",
+            "user id": 2210179385,
+            "user name": "单车-童童",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [
+                54,
+                198
+            ],
+            "content": "一张图片，可以读出其中的心酸悲哀，也可以读出一段励志故事。就看你怎样读。",
+            "user id": 2606601213,
+            "user name": "扯片阳光做衣衫",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                64
+            ],
+            "content": "心中有一种重击的感觉",
+            "user id": 2554337732,
+            "user name": "泉之玉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 43,
+            "parent": 30,
+            "children": [
+                48,
+                52,
+                68
+            ],
+            "content": "",
+            "user id": 1244778415,
+            "user name": "曾经的yi个人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "content": "不同的角度就会有不同的结论 来自话题#图片里的中国# http://t.cn/zQVIxes",
+            "user id": 3262955234,
+            "user name": "董小编",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [
+                93,
+                109
+            ],
+            "content": "轉發微博",
+            "user id": 2298108113,
+            "user name": "徐家玲3",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [],
+            "content": "这。。。。无比震动。。。",
+            "user id": 1257634382,
+            "user name": "岳爱先森",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 47,
+            "parent": 15,
+            "children": [
+                76,
+                108,
+                130,
+                412
+            ],
+            "content": "",
+            "user id": 1279806283,
+            "user name": "张洪岩Rocky",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 48,
+            "parent": 43,
+            "children": [],
+            "content": "唉",
+            "user id": 2269525365,
+            "user name": "巴林辰砂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 49,
+            "parent": 4,
+            "children": [
+                53,
+                81
+            ],
+            "content": "",
+            "user id": 1218872167,
+            "user name": "月梦梅魂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [
+                51
+            ],
+            "content": "一辈子 一个博士 一个累得颓唐的父亲，畸形人生，心中有一种重击的感觉！",
+            "user id": 2313373271,
+            "user name": "水水蝶恋花dd",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 51,
+            "parent": 50,
+            "children": [
+                56,
+                374
+            ],
+            "content": "如果是我 宁愿不要这个博士",
+            "user id": 2122984137,
+            "user name": "_-瓦力",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 52,
+            "parent": 43,
+            "children": [],
+            "content": "无语？转",
+            "user id": 1046195600,
+            "user name": "土猪壹号1",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 53,
+            "parent": 49,
+            "children": [
+                225
+            ],
+            "content": "知识改变命运。",
+            "user id": 2827227830,
+            "user name": "笑刀醉吼寂如禅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 54,
+            "parent": 41,
+            "children": [
+                59
+            ],
+            "content": "狗屁不懂的儿子",
+            "user id": 2618689184,
+            "user name": "乐粉556",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 55,
+            "parent": 14,
+            "children": [],
+            "content": "伟大的父亲！",
+            "user id": 2074601725,
+            "user name": "笑鱼嫣然",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 56,
+            "parent": 51,
+            "children": [
+                58
+            ],
+            "content": "无以言表，看到这种画面就让人心寒，哪怕自己过的不好也不能让自己父母不好，请把你的鞋给你的父亲穿上！[怒骂]",
+            "user id": 1720153022,
+            "user name": "我们都是丑小鸭伊呀伊呀哟",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "content": "对。",
+            "user id": 1677240102,
+            "user name": "匹夫爱呓语",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 58,
+            "parent": 56,
+            "children": [
+                60
+            ],
+            "content": "殇[伤心]",
+            "user id": 2603410653,
+            "user name": "夜雨-长江头",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 59,
+            "parent": 54,
+            "children": [
+                87
+            ],
+            "content": "",
+            "user id": 1994026205,
+            "user name": "C妈和菲儿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 60,
+            "parent": 58,
+            "children": [
+                80,
+                99,
+                131,
+                270
+            ],
+            "content": "",
+            "user id": 3091508684,
+            "user name": "紫牵微博",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 61,
+            "parent": 8,
+            "children": [
+                65,
+                66,
+                70
+            ],
+            "content": "",
+            "user id": 1370501407,
+            "user name": "释藤",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 62,
+            "parent": 15,
+            "children": [],
+            "content": "心酸",
+            "user id": 2288358804,
+            "user name": "baby麦田",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [],
+            "content": "转吧",
+            "user id": 2706854750,
+            "user name": "金色漫野",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 64,
+            "parent": 42,
+            "children": [],
+            "content": "这是读到什么阶段了？以后就好了",
+            "user id": 1464916037,
+            "user name": "想飞的飞飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 65,
+            "parent": 61,
+            "children": [],
+            "content": "",
+            "user id": 1727019152,
+            "user name": "老树映像馆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 66,
+            "parent": 61,
+            "children": [
+                71,
+                220,
+                263
+            ],
+            "content": "五味杂陈",
+            "user id": 1990149993,
+            "user name": "青岛leicam7",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [],
+            "content": "[悲伤]",
+            "user id": 2445500100,
+            "user name": "古风雅韵V",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 68,
+            "parent": 43,
+            "children": [],
+            "content": "",
+            "user id": 1649400944,
+            "user name": "zhudai2050",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [],
+            "content": "建国64年，不解释",
+            "user id": 2313025262,
+            "user name": "CQ无法忘却",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 70,
+            "parent": 61,
+            "children": [
+                78,
+                83
+            ],
+            "content": "",
+            "user id": 1405803190,
+            "user name": "纳兰晨霁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 71,
+            "parent": 66,
+            "children": [],
+            "content": "心好酸的感觉！",
+            "user id": 1838589905,
+            "user name": "summicron",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 72,
+            "parent": -1,
+            "children": [
+                140
+            ],
+            "content": "[伤心]",
+            "user id": 2128974395,
+            "user name": "南阳方圆快捷南航店",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 73,
+            "parent": -1,
+            "children": [],
+            "content": "中国的变化",
+            "user id": 1201338972,
+            "user name": "黄金真卡卡",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 74,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1161374121,
+            "user name": "陈雅巍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 75,
+            "parent": -1,
+            "children": [],
+            "content": "真心酸…",
+            "user id": 1664072555,
+            "user name": "快乐的羊驼-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 76,
+            "parent": 47,
+            "children": [],
+            "content": "",
+            "user id": 1017447465,
+            "user name": "Sharonyu-yu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 77,
+            "parent": -1,
+            "children": [],
+            "content": "这下子俺家可真的有救了！[吃惊][挤眼][围观]",
+            "user id": 1891475345,
+            "user name": "meinaidong",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 78,
+            "parent": 70,
+            "children": [],
+            "content": "每一张静态画面的背后，都有一个动态故事",
+            "user id": 1403223487,
+            "user name": "刀笔吏吏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 79,
+            "parent": -1,
+            "children": [],
+            "content": "辛酸",
+            "user id": 2064027602,
+            "user name": "淘金岛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 80,
+            "parent": 60,
+            "children": [],
+            "content": "有学问的畜牲太多啦！",
+            "user id": 1673665137,
+            "user name": "散仙建龙",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 81,
+            "parent": 49,
+            "children": [],
+            "content": "[泪]",
+            "user id": 2650673803,
+            "user name": "雁渡寒潭0011",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 82,
+            "parent": -1,
+            "children": [],
+            "content": "心酸，读书真的是唯一的出路么？",
+            "user id": 2296701410,
+            "user name": "喵喵羽毛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 83,
+            "parent": 70,
+            "children": [],
+            "content": "！！",
+            "user id": 2076705397,
+            "user name": "留亿成",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 84,
+            "parent": -1,
+            "children": [],
+            "content": "[泪][泪][泪]",
+            "user id": 2470394567,
+            "user name": "风在枝头落尽白花瓣",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 85,
+            "parent": -1,
+            "children": [
+                110,
+                405
+            ],
+            "content": "[泪]",
+            "user id": 1883137957,
+            "user name": "开心就好156",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 86,
+            "parent": -1,
+            "children": [],
+            "content": "小伙子，给你爹买身好衣服啊",
+            "user id": 2675832162,
+            "user name": "北美派克",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 87,
+            "parent": 59,
+            "children": [],
+            "content": "徒为衣冠",
+            "user id": 2618689184,
+            "user name": "乐粉556",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 88,
+            "parent": -1,
+            "children": [
+                102
+            ],
+            "content": "转发微博",
+            "user id": 1549245195,
+            "user name": "稻丁特训",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 89,
+            "parent": -1,
+            "children": [],
+            "content": "心里难受",
+            "user id": 1084845881,
+            "user name": "汉唐草根",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 90,
+            "parent": -1,
+            "children": [
+                96
+            ],
+            "content": "亲儿子，给爹买双鞋换身衣服吧～",
+            "user id": 1639152262,
+            "user name": "京内麦子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 91,
+            "parent": 4,
+            "children": [],
+            "content": "",
+            "user id": 1426227702,
+            "user name": "向明天撤退",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 92,
+            "parent": -1,
+            "children": [],
+            "content": "昨日在异乡那门前，唏嘘的感慨一年年，但日落日出，永没变迁，这刻 在望著父亲笑容时，竟不知不觉的无言，让日落暮色 ，渗满泪眼[泪]",
+            "user id": 2153509110,
+            "user name": "和风校园网",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 93,
+            "parent": 45,
+            "children": [
+                318
+            ],
+            "content": "",
+            "user id": 1164016662,
+            "user name": "喜悦与宁静_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 94,
+            "parent": -1,
+            "children": [
+                98,
+                100,
+                101,
+                103,
+                104,
+                105,
+                132,
+                149,
+                158,
+                178,
+                351
+            ],
+            "content": "知识改变命运，但有多少人最后改变的仅仅是自己的命运！？贡献！？最该得到你贡献的是你爹妈！而不是某个大城市！",
+            "user id": 1643816284,
+            "user name": "龚小7",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 95,
+            "parent": -1,
+            "children": [],
+            "content": "可怜天下父母，这就是中国梦吗？",
+            "user id": 2869490232,
+            "user name": "杨威望",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 96,
+            "parent": 90,
+            "children": [],
+            "content": "这算炒作吗?儿子有条件租衣服,不给父亲买一身衣服?",
+            "user id": 1847604763,
+            "user name": "Bigbamboo",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 97,
+            "parent": -1,
+            "children": [],
+            "content": "什么都给你，不能忘本。两个优秀的人",
+            "user id": 3340781464,
+            "user name": "知足常乐_66319",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 98,
+            "parent": 94,
+            "children": [
+                159
+            ],
+            "content": "",
+            "user id": 1667161150,
+            "user name": "Kevin-li雷小峰",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 99,
+            "parent": 60,
+            "children": [],
+            "content": "只能说父目的爱很无私，很伟大！父母一直务农支持我和妹妹读书，2010年大学毕业，家里还欠外债几w。好在现在通过全家人的努力，情况改善了很多。其实在很多农村父母心中还是有很深刻的“读书改变命运”的思想，对于见识有限的他们而言这是更是一种无奈之选。作为子女，唯有努力拼搏，将来报答他们。",
+            "user id": 2678259667,
+            "user name": "a绝望的秋裤",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 100,
+            "parent": 94,
+            "children": [],
+            "content": "希望左边能顺利找到工作～",
+            "user id": 1918367891,
+            "user name": "八宝一个周",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 101,
+            "parent": 94,
+            "children": [],
+            "content": "说得好",
+            "user id": 1980834232,
+            "user name": "车魂志",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 102,
+            "parent": 88,
+            "children": [],
+            "content": "",
+            "user id": 1826954291,
+            "user name": "新安魂曲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 103,
+            "parent": 94,
+            "children": [],
+            "content": "[赞]",
+            "user id": 1255651385,
+            "user name": "阳光很浅_刘小七",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 104,
+            "parent": 94,
+            "children": [],
+            "content": "",
+            "user id": 1822224831,
+            "user name": "vesslan_",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 105,
+            "parent": 94,
+            "children": [],
+            "content": "[思考]",
+            "user id": 1077794051,
+            "user name": "吾冊那",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 106,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 1580765137,
+            "user name": "Runnnnnnn",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 107,
+            "parent": -1,
+            "children": [],
+            "content": "震撼之余的心酸...",
+            "user id": 2354620130,
+            "user name": "吴三牛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 108,
+            "parent": 47,
+            "children": [],
+            "content": "容易嘛？谁在说是国家培养的，我跟丫急",
+            "user id": 1430400691,
+            "user name": "film-club",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 109,
+            "parent": 45,
+            "children": [
+                133
+            ],
+            "content": "",
+            "user id": 1823830905,
+            "user name": "齐廷杰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 110,
+            "parent": 85,
+            "children": [
+                175
+            ],
+            "content": "",
+            "user id": 3179334272,
+            "user name": "江鸟一牛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 111,
+            "parent": -1,
+            "children": [
+                112,
+                113,
+                114,
+                115,
+                117,
+                118,
+                120,
+                121,
+                123,
+                125,
+                126,
+                127,
+                128,
+                129,
+                134,
+                135,
+                136,
+                138,
+                139,
+                144,
+                145,
+                146,
+                147,
+                148,
+                151,
+                152,
+                153,
+                155,
+                156,
+                157,
+                164,
+                166,
+                170,
+                173,
+                179,
+                180,
+                184,
+                185,
+                187,
+                188,
+                189,
+                190,
+                191,
+                195,
+                207,
+                210,
+                211,
+                212,
+                214,
+                227,
+                236,
+                238,
+                242,
+                244,
+                246,
+                259,
+                260,
+                267,
+                271,
+                273,
+                274,
+                278,
+                283,
+                285,
+                300,
+                303,
+                306,
+                307,
+                310,
+                313,
+                314,
+                330,
+                333,
+                371,
+                373,
+                377,
+                379,
+                386,
+                389,
+                391,
+                403,
+                415
+            ],
+            "content": "说不出的感受。",
+            "user id": 1371675920,
+            "user name": "安普若-外号安校长",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 112,
+            "parent": 111,
+            "children": [
+                172
+            ],
+            "content": "",
+            "user id": 2393304667,
+            "user name": "-石-磊-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 113,
+            "parent": 111,
+            "children": [],
+            "content": "说不出的感受，说不出的感觉。",
+            "user id": 1963430001,
+            "user name": "公务员常识题一站到底",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 114,
+            "parent": 111,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1709748164,
+            "user name": "修君Hugh",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 115,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 2410108214,
+            "user name": "哈哲67",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 116,
+            "parent": -1,
+            "children": [],
+            "content": "我这心此时此刻绝对酸了",
+            "user id": 1868977407,
+            "user name": "优雅的土豆子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 117,
+            "parent": 111,
+            "children": [],
+            "content": "震撼。",
+            "user id": 1764352537,
+            "user name": "悠然见南墙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 118,
+            "parent": 111,
+            "children": [
+                124,
+                237
+            ],
+            "content": "",
+            "user id": 1088759831,
+            "user name": "雅路朱明份",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 119,
+            "parent": -1,
+            "children": [],
+            "content": "心酸。",
+            "user id": 1633674694,
+            "user name": "温冬雨京秋风",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 120,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1919516731,
+            "user name": "TeslaElon",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 121,
+            "parent": 111,
+            "children": [],
+            "content": "不是滋味",
+            "user id": 2330304705,
+            "user name": "智高气阳",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 122,
+            "parent": 25,
+            "children": [],
+            "content": " 甘感慨",
+            "user id": 1769124540,
+            "user name": "雨天catcat",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 123,
+            "parent": 111,
+            "children": [],
+            "content": "希望知识真能改变他的命运",
+            "user id": 2263844911,
+            "user name": "gamezhaisong",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 124,
+            "parent": 118,
+            "children": [],
+            "content": "中国梦。",
+            "user id": 1644035951,
+            "user name": "破帽萨",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 125,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1616072872,
+            "user name": "OpheliaYang",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 126,
+            "parent": 111,
+            "children": [],
+            "content": "[思考]",
+            "user id": 2159260480,
+            "user name": "王泽勇TFT",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 127,
+            "parent": 111,
+            "children": [],
+            "content": "说不出的感受",
+            "user id": 1748752221,
+            "user name": "我爱-三文鱼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 128,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 2014567095,
+            "user name": "Winson永远29",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 129,
+            "parent": 111,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1712897575,
+            "user name": "邵阳_samsao",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 130,
+            "parent": 47,
+            "children": [],
+            "content": "。。。",
+            "user id": 1751515751,
+            "user name": "Hdjerr",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 131,
+            "parent": 60,
+            "children": [],
+            "content": "父子",
+            "user id": 1913627050,
+            "user name": "罗振杰与佛归来",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 132,
+            "parent": 94,
+            "children": [],
+            "content": "哈哈犀利了[good]",
+            "user id": 1278694172,
+            "user name": "琦琦大掌门",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 133,
+            "parent": 109,
+            "children": [
+                350
+            ],
+            "content": "",
+            "user id": 2174520500,
+            "user name": "老的伍伍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 134,
+            "parent": 111,
+            "children": [],
+            "content": "的确说不出的感受，看着心里居然是悲哀的，而不是欣喜的。",
+            "user id": 2090488030,
+            "user name": "康沙哑控制脾气",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 135,
+            "parent": 111,
+            "children": [
+                272
+            ],
+            "content": "",
+            "user id": 1862588122,
+            "user name": "CaptainIjia",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 136,
+            "parent": 111,
+            "children": [],
+            "content": "不太认同这种表达方式。即使是个目不识丁的老农民，也可以优雅一点。这张照片想表达什么呢。",
+            "user id": 1721939740,
+            "user name": "cjm陈君明",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 137,
+            "parent": -1,
+            "children": [
+                167
+            ],
+            "content": "图片中的中国",
+            "user id": 1242791067,
+            "user name": "王立律师",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 138,
+            "parent": 111,
+            "children": [],
+            "content": "說不出的感受。還突然想到，儿子學到了宇宙真理了！",
+            "user id": 1996013927,
+            "user name": "二兵和奇异小牛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 139,
+            "parent": 111,
+            "children": [],
+            "content": "父子！",
+            "user id": 2687568091,
+            "user name": "上帝爱墨鱼烧",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 140,
+            "parent": 72,
+            "children": [],
+            "content": "",
+            "user id": 2746748351,
+            "user name": "天之缘乔璐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 141,
+            "parent": -1,
+            "children": [],
+            "content": "受不了[泪]",
+            "user id": 1452564955,
+            "user name": "周新杰",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 142,
+            "parent": -1,
+            "children": [],
+            "content": "多少设计师，是否应该考虑下，为你的家乡和乡亲们们做点设计；而不总是为追逐眼前利益而在乏浮躁物欲的世界中迷离～",
+            "user id": 2848647534,
+            "user name": "altplus_design",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 143,
+            "parent": -1,
+            "children": [],
+            "content": "唉，无语。",
+            "user id": 2391851943,
+            "user name": "阿坝牦牛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 144,
+            "parent": 111,
+            "children": [],
+            "content": "就算是假图片，也足够触动人心吧",
+            "user id": 1726811221,
+            "user name": "臻品绿茵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 145,
+            "parent": 111,
+            "children": [],
+            "content": "文明与落后被熬在一锅粥里，落后是米，文明是豆。",
+            "user id": 1658238321,
+            "user name": "陈大葱",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 146,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 3193152797,
+            "user name": "SuperRui北美代购",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 147,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1833760550,
+            "user name": "小庞或小胖",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 148,
+            "parent": 111,
+            "children": [],
+            "content": "感觉这照片有摆拍嫌疑，中国哪个学校能把所谓的学士服发给学生，还能拿回家拍照？标签一看都是什么戏曲服装厂生产的。家长再怎么也知道合影时候穿着差不多光鲜点的，怎么会整个脚不洗鞋不穿就拍照了。",
+            "user id": 2712206412,
+            "user name": "張欣哲-大葱新闻社",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 149,
+            "parent": 94,
+            "children": [],
+            "content": "[赞]",
+            "user id": 1749297493,
+            "user name": "_龙腾",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 150,
+            "parent": -1,
+            "children": [],
+            "content": "父子",
+            "user id": 1676332617,
+            "user name": "让跳动回归平静",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 151,
+            "parent": 111,
+            "children": [],
+            "content": "确实说不出的感受",
+            "user id": 2023862215,
+            "user name": "九筒不是麻匪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 152,
+            "parent": 111,
+            "children": [],
+            "content": "父与子！",
+            "user id": 1609575060,
+            "user name": "横滨之旅",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 153,
+            "parent": 111,
+            "children": [
+                216,
+                308
+            ],
+            "content": "",
+            "user id": 2727693307,
+            "user name": "zzqq9zzz",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 154,
+            "parent": -1,
+            "children": [],
+            "content": "知识能改变命运吗？",
+            "user id": 2076784753,
+            "user name": "sguo2000",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 155,
+            "parent": 111,
+            "children": [],
+            "content": "就算有摆拍嫌疑，还是触动人心",
+            "user id": 1752204707,
+            "user name": "心想事成的曼迪小姐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 156,
+            "parent": 111,
+            "children": [
+                199,
+                329,
+                381
+            ],
+            "content": "向两位敬礼",
+            "user id": 1640395292,
+            "user name": "Richard还是Richard",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 157,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 2423606463,
+            "user name": "SOT麒麟臂SOT",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 158,
+            "parent": 94,
+            "children": [],
+            "content": "悲哀",
+            "user id": 1893349114,
+            "user name": "CNCC不经吃",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 159,
+            "parent": 98,
+            "children": [
+                165,
+                192
+            ],
+            "content": "资源分配不合理，大城市集中太多优质资源，二三线城市糊口而已",
+            "user id": 1921589392,
+            "user name": "庄志强-",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 160,
+            "parent": -1,
+            "children": [],
+            "content": "可以得奖的照片",
+            "user id": 2277266967,
+            "user name": "不论吧",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 161,
+            "parent": -1,
+            "children": [
+                168,
+                293
+            ],
+            "content": "真心酸",
+            "user id": 1722570015,
+            "user name": "郭云柯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 162,
+            "parent": -1,
+            "children": [
+                181
+            ],
+            "content": "辛酸！",
+            "user id": 1984206035,
+            "user name": "古皖老烧包",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 163,
+            "parent": 8,
+            "children": [
+                253
+            ],
+            "content": "",
+            "user id": 1604185684,
+            "user name": "许海涛010",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 164,
+            "parent": 111,
+            "children": [],
+            "content": "说得出的感受。",
+            "user id": 1660008563,
+            "user name": "白错",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 165,
+            "parent": 159,
+            "children": [],
+            "content": "情感复杂，不好说什么",
+            "user id": 1654531144,
+            "user name": "王旭晗Sniper",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 166,
+            "parent": 111,
+            "children": [],
+            "content": "同感",
+            "user id": 1874751725,
+            "user name": "ampm24",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 167,
+            "parent": 137,
+            "children": [],
+            "content": "这是？",
+            "user id": 2726803790,
+            "user name": "姜小小小小勇子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 168,
+            "parent": 161,
+            "children": [
+                364
+            ],
+            "content": "有多少这样的。。。。。",
+            "user id": 1647169510,
+            "user name": "侯侯-侯金益",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 169,
+            "parent": 25,
+            "children": [],
+            "content": " 系啊，不过其实农村生活唔系我地林得甘惨吧，有房有地",
+            "user id": 1769124540,
+            "user name": "雨天catcat",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 170,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1703768157,
+            "user name": "柳月孤星",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 171,
+            "parent": -1,
+            "children": [
+                174,
+                176
+            ],
+            "content": "这就是中国教育之形象？好心酸！好儿女比什么都重要！[伤心]",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 172,
+            "parent": 112,
+            "children": [],
+            "content": "",
+            "user id": 1298435990,
+            "user name": "罗江L",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 173,
+            "parent": 111,
+            "children": [],
+            "content": "中国教育摄影大奖",
+            "user id": 1843987001,
+            "user name": "___Leo_WhitePaper",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 174,
+            "parent": 171,
+            "children": [
+                186,
+                221,
+                255,
+                341
+            ],
+            "content": "",
+            "user id": 1394412883,
+            "user name": "王律师辉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 175,
+            "parent": 110,
+            "children": [
+                177,
+                183
+            ],
+            "content": "",
+            "user id": 1610879063,
+            "user name": "心经圣手胡家喜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 176,
+            "parent": 171,
+            "children": [],
+            "content": "",
+            "user id": 1272674643,
+            "user name": "侯暁辉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 177,
+            "parent": 175,
+            "children": [
+                194,
+                275
+            ],
+            "content": "",
+            "user id": 2255117110,
+            "user name": "黄墨牛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 178,
+            "parent": 94,
+            "children": [],
+            "content": "呵呵！",
+            "user id": 2115438074,
+            "user name": "_莫捉急",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 179,
+            "parent": 111,
+            "children": [],
+            "content": "其实他此时应该是幸福的",
+            "user id": 2636717550,
+            "user name": "张长松FS",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 180,
+            "parent": 111,
+            "children": [
+                356
+            ],
+            "content": "",
+            "user id": 1197541897,
+            "user name": "小草一二三",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 181,
+            "parent": 162,
+            "children": [],
+            "content": "[伤心]",
+            "user id": 1856240175,
+            "user name": "孤寒伊平",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 182,
+            "parent": -1,
+            "children": [],
+            "content": "如今既得利益的不少权贵，都是通过当年公平的社会机会步出寒门，或平步仕途或积累财富或垄断资源。然而，随着社会公平的逐步丧失和道德伦理的逐步沦丧，阶层流动基本停止，寒门孩子要出头的通道越来越狭窄。[下雨]另：图中小伙的学位服似乎有点混搭啊，衣服是文学学士，学位帽则是导师或校长帽。。。",
+            "user id": 2522316874,
+            "user name": "牵牛华华",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 183,
+            "parent": 175,
+            "children": [],
+            "content": "[转发]",
+            "user id": 1189612635,
+            "user name": "李建京摄影师",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 184,
+            "parent": 111,
+            "children": [],
+            "content": "一声叹息",
+            "user id": 2259268594,
+            "user name": "波妞妈",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 185,
+            "parent": 111,
+            "children": [],
+            "content": "[奥特曼]: 说不出的感受。",
+            "user id": 2388755085,
+            "user name": "老爷们阿润",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 186,
+            "parent": 174,
+            "children": [
+                197,
+                202,
+                229,
+                319
+            ],
+            "content": "博士帽不如感恩！[心]",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 187,
+            "parent": 111,
+            "children": [
+                239
+            ],
+            "content": "",
+            "user id": 1881714115,
+            "user name": "ssss_yang",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 188,
+            "parent": 111,
+            "children": [],
+            "content": "很前清时代，很现在。",
+            "user id": 1820563667,
+            "user name": "牛克铜布",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 189,
+            "parent": 111,
+            "children": [],
+            "content": "[可怜]",
+            "user id": 1835786583,
+            "user name": "女王疯女王饭儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 190,
+            "parent": 111,
+            "children": [],
+            "content": "很久没见这样的照片。",
+            "user id": 1323602612,
+            "user name": "classic苹果",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 191,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1739124461,
+            "user name": "Evan-Dong2012",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 192,
+            "parent": 159,
+            "children": [],
+            "content": "太震撼了，但遗憾的是，学士的骨子里依然是农村思想，这是改变不了的",
+            "user id": 1159624234,
+            "user name": "喋血开裆裤",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 193,
+            "parent": -1,
+            "children": [],
+            "content": "说不出的感受",
+            "user id": 2781466082,
+            "user name": "西安中尊建材",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 194,
+            "parent": 177,
+            "children": [
+                204,
+                217,
+                245
+            ],
+            "content": "[泪]",
+            "user id": 2121228085,
+            "user name": "萧山悠悠",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 195,
+            "parent": 111,
+            "children": [],
+            "content": "如果真是父子，这儿子白养了！书也白读了！自己穿皮鞋竟然还让老子光着脚！[抓狂]",
+            "user id": 1945745151,
+            "user name": "青弋江畔老沈",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 196,
+            "parent": -1,
+            "children": [],
+            "content": "一切尽在不言中....",
+            "user id": 1557616317,
+            "user name": "徽gu娘",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 197,
+            "parent": 186,
+            "children": [],
+            "content": "难过....为什么让父亲这样？？？？",
+            "user id": 2128697292,
+            "user name": "西安赵伟华",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 198,
+            "parent": 41,
+            "children": [],
+            "content": "父亲如何培养出儿子肯定非常不容易，看了心酸。",
+            "user id": 1428639685,
+            "user name": "wakinlzy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 199,
+            "parent": 156,
+            "children": [],
+            "content": "心酸还是欣慰",
+            "user id": 1264643311,
+            "user name": "Raymondl8",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 200,
+            "parent": -1,
+            "children": [],
+            "content": "欲哭无泪、欲笑更痛。——这个确实是中国经济、教育、家庭、社会~诸多文化的一个经典缩影。",
+            "user id": 3204502267,
+            "user name": "苍穹大地上",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 201,
+            "parent": -1,
+            "children": [],
+            "content": "无言父子情。",
+            "user id": 1831160474,
+            "user name": "少年hang的奇幻漂流",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 202,
+            "parent": 186,
+            "children": [
+                312
+            ],
+            "content": "",
+            "user id": 2460697617,
+            "user name": "杭州印鸣UV平板喷绘",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 203,
+            "parent": -1,
+            "children": [],
+            "content": "心里好酸啊",
+            "user id": 2311611201,
+            "user name": "无敌妈妈000",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 204,
+            "parent": 194,
+            "children": [
+                226,
+                235,
+                256
+            ],
+            "content": "这样的人今后对社会的危害一定很大的，是一个畜生",
+            "user id": 1620502333,
+            "user name": "Informas",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 205,
+            "parent": -1,
+            "children": [],
+            "content": "[围观][伤心]看的心酸",
+            "user id": 3212857725,
+            "user name": "杜军云",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 206,
+            "parent": -1,
+            "children": [
+                209
+            ],
+            "content": "动动脑：这种状况怪谁？！[伤心]",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 207,
+            "parent": 111,
+            "children": [],
+            "content": "太心酸",
+            "user id": 2018034632,
+            "user name": "YY-Alex",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 208,
+            "parent": 10,
+            "children": [],
+            "content": "",
+            "user id": 2306530294,
+            "user name": "天玺--",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 209,
+            "parent": 206,
+            "children": [
+                228,
+                282
+            ],
+            "content": "看着心酸难受！",
+            "user id": 1284995592,
+            "user name": "中国公民李侃",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 210,
+            "parent": 111,
+            "children": [],
+            "content": "感受非常不好",
+            "user id": 2980841423,
+            "user name": "花房里的小熊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 211,
+            "parent": 111,
+            "children": [
+                231,
+                299
+            ],
+            "content": "",
+            "user id": 1690644717,
+            "user name": "Catherine凯司令",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 212,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 2530400342,
+            "user name": "不想不念不瞒不怨不理不会",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 213,
+            "parent": -1,
+            "children": [
+                288
+            ],
+            "content": "谁这么缺德，做这种对比？唉！",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 214,
+            "parent": 111,
+            "children": [],
+            "content": "说不出的感受。",
+            "user id": 1359631273,
+            "user name": "ai_bin",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 215,
+            "parent": -1,
+            "children": [],
+            "content": "父与子",
+            "user id": 3194998764,
+            "user name": "成都晓玥商贸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 216,
+            "parent": 153,
+            "children": [],
+            "content": "",
+            "user id": 1859282004,
+            "user name": "HerbbreH_修行中",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 217,
+            "parent": 194,
+            "children": [],
+            "content": "如果照片是真实的，这个儿子愿意与父亲拍这张照片，说明他还没有忘本。",
+            "user id": 2129393900,
+            "user name": "立群岛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 218,
+            "parent": -1,
+            "children": [],
+            "content": "这样的对比令人痛彻心扉。",
+            "user id": 1528252027,
+            "user name": "sibadakesi2008",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 219,
+            "parent": -1,
+            "children": [
+                222,
+                224
+            ],
+            "content": "教育，改变了两代人的命运。[心][泪]",
+            "user id": 1098736570,
+            "user name": "周京平",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 220,
+            "parent": 66,
+            "children": [
+                343
+            ],
+            "content": "[泪]含辛茹苦。。。所以说，凤凰男之所以是凤凰男，是有原因的。要理解。",
+            "user id": 1591244324,
+            "user name": "贾小欣",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 221,
+            "parent": 174,
+            "children": [],
+            "content": "做儿子的，把皮鞋脱下，给老爹穿上，这照片就好看得多，和谐得多。",
+            "user id": 2188720930,
+            "user name": "迷醉温柔厢",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 222,
+            "parent": 219,
+            "children": [
+                234
+            ],
+            "content": "后续的故事，会有很多版本",
+            "user id": 1314781444,
+            "user name": "热门语录",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 223,
+            "parent": -1,
+            "children": [],
+            "content": "如何秀得出？[汗]",
+            "user id": 2125576374,
+            "user name": "圣欧亭",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 224,
+            "parent": 219,
+            "children": [],
+            "content": "每每看到这样的图就想起农村的生活！[泪]",
+            "user id": 1315642502,
+            "user name": "小马发光",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 225,
+            "parent": 53,
+            "children": [
+                243
+            ],
+            "content": "",
+            "user id": 2254894114,
+            "user name": "时光未尽",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 226,
+            "parent": 204,
+            "children": [],
+            "content": "我有不同的观点：这种环境成长起来的孩子更能懂得关爱他人，关爱家庭，关爱社会。关键是我们的社会没有更好地去关爱这样的群体！",
+            "user id": 1610879063,
+            "user name": "心经圣手胡家喜",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 227,
+            "parent": 111,
+            "children": [],
+            "content": "五味杂陈",
+            "user id": 1398181907,
+            "user name": "cloud66666",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 228,
+            "parent": 209,
+            "children": [],
+            "content": "。。",
+            "user id": 1905253797,
+            "user name": "远远的yuan",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 229,
+            "parent": 186,
+            "children": [
+                316
+            ],
+            "content": "什么感觉？",
+            "user id": 1315493120,
+            "user name": "话题中国",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 230,
+            "parent": -1,
+            "children": [],
+            "content": "酸",
+            "user id": 1824647945,
+            "user name": "墨默的Zoe",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 231,
+            "parent": 211,
+            "children": [
+                276,
+                393
+            ],
+            "content": "",
+            "user id": 1703518572,
+            "user name": "曾邱雪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 232,
+            "parent": -1,
+            "children": [],
+            "content": "P的？",
+            "user id": 1706219641,
+            "user name": "都铎猫",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 233,
+            "parent": -1,
+            "children": [
+                404
+            ],
+            "content": "我也赞同，别的国家会这样吗？",
+            "user id": 2661674623,
+            "user name": "原书林",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 234,
+            "parent": 222,
+            "children": [
+                257,
+                269
+            ],
+            "content": "老爹",
+            "user id": 1454863854,
+            "user name": "历史的里子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 235,
+            "parent": 204,
+            "children": [],
+            "content": "连父母都不会关爱的人，还会关爱社会！",
+            "user id": 1620502333,
+            "user name": "Informas",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 236,
+            "parent": 111,
+            "children": [
+                297
+            ],
+            "content": "心伤",
+            "user id": 1728237282,
+            "user name": "Sunny打打球球喝喝茶",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 237,
+            "parent": 118,
+            "children": [
+                376
+            ],
+            "content": "所以左边这些人很好控制并且折磨起人来比谁都狠。",
+            "user id": 1760570104,
+            "user name": "船长呀",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 238,
+            "parent": 111,
+            "children": [],
+            "content": "我只有哀傷",
+            "user id": 2147524382,
+            "user name": "S澄SSS",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 239,
+            "parent": 187,
+            "children": [],
+            "content": "哎，心酸~~！",
+            "user id": 1752154902,
+            "user name": "lalanan",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 240,
+            "parent": 32,
+            "children": [],
+            "content": "你的父亲母亲长什么样子？",
+            "user id": 1286835615,
+            "user name": "shilin0127",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 241,
+            "parent": -1,
+            "children": [],
+            "content": "泪[泪]",
+            "user id": 1995695437,
+            "user name": "柒号苏菲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 242,
+            "parent": 111,
+            "children": [],
+            "content": "[good]要好好孝顺父亲啊！",
+            "user id": 1094063441,
+            "user name": "陈娟娟老师",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 243,
+            "parent": 225,
+            "children": [],
+            "content": "太震撼了！",
+            "user id": 2637264033,
+            "user name": "骨科医生庞涛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 244,
+            "parent": 111,
+            "children": [],
+            "content": "心酸。",
+            "user id": 1915457071,
+            "user name": "王转了",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 245,
+            "parent": 194,
+            "children": [
+                361
+            ],
+            "content": "",
+            "user id": 2257705125,
+            "user name": "寒流一缕---2020",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 246,
+            "parent": 111,
+            "children": [],
+            "content": "这张照片具有非凡的意义",
+            "user id": 1296563580,
+            "user name": "一生爱绿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 247,
+            "parent": -1,
+            "children": [
+                378
+            ],
+            "content": "把穷乡僻壤改造好是正道！",
+            "user id": 2247249254,
+            "user name": "希伯来奴隶之歌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 248,
+            "parent": -1,
+            "children": [],
+            "content": "震撼，我们都不是这种人@范一保 @暴走的绿豆饼",
+            "user id": 2007356010,
+            "user name": "杜盛2010",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 249,
+            "parent": -1,
+            "children": [],
+            "content": "震撼、辛酸",
+            "user id": 2092590112,
+            "user name": "未夜不眠",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 250,
+            "parent": -1,
+            "children": [],
+            "content": ".......",
+            "user id": 1724098674,
+            "user name": "见字如面M",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 251,
+            "parent": -1,
+            "children": [
+                280,
+                392
+            ],
+            "content": "转发微博",
+            "user id": 2002818833,
+            "user name": "abizsense",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 252,
+            "parent": -1,
+            "children": [
+                254,
+                332
+            ],
+            "content": "请叫它中国梦",
+            "user id": 1780750321,
+            "user name": "kidultly",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 253,
+            "parent": 163,
+            "children": [
+                286
+            ],
+            "content": "看了想哭！",
+            "user id": 1268161167,
+            "user name": "梁国胜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 254,
+            "parent": 252,
+            "children": [
+                290
+            ],
+            "content": "这就是中国梦",
+            "user id": 1687349183,
+            "user name": "朱万宁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 255,
+            "parent": 174,
+            "children": [],
+            "content": "可怜 教育改变命运的恶毒之殇",
+            "user id": 2954657481,
+            "user name": "鸟观人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 256,
+            "parent": 204,
+            "children": [
+                401
+            ],
+            "content": "这是在对社会显摆，告知社会他在这样无能的家中都能出头，是极端的私利者",
+            "user id": 1620502333,
+            "user name": "Informas",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 257,
+            "parent": 234,
+            "children": [],
+            "content": "看来“上山下乡运动”是对的！知识分子就应该到农村工作，去改变农村的落后面貌。",
+            "user id": 1144315155,
+            "user name": "逃花仙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 258,
+            "parent": -1,
+            "children": [],
+            "content": "想哭",
+            "user id": 1586790482,
+            "user name": "topcolour",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 259,
+            "parent": 111,
+            "children": [],
+            "content": "[失望]",
+            "user id": 1676043325,
+            "user name": "德艺双馨的话工厂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 260,
+            "parent": 111,
+            "children": [],
+            "content": "[泪][泪]",
+            "user id": 3038417813,
+            "user name": "生於1984FK",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 261,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2136002933,
+            "user name": "Ulike1050",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 262,
+            "parent": -1,
+            "children": [],
+            "content": "@让我当绵羊@拨哥__记得微笑 @明武兄 @兰天四夕 @龙鹏-Chrlf-xls @随便的喵小姐 @泰韩日剧 @许雅诗_sharpa",
+            "user id": 2203505172,
+            "user name": "小淡色郑文洁",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 263,
+            "parent": 66,
+            "children": [],
+            "content": "",
+            "user id": 2189669357,
+            "user name": "中国正义石头",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 264,
+            "parent": -1,
+            "children": [],
+            "content": "中国梦",
+            "user id": 1338712892,
+            "user name": "胡旺2010",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 265,
+            "parent": -1,
+            "children": [],
+            "content": "网上脑残多啊。 这他妈的儿子不是脑残 就是畜生 要么是收钱摆拍。 巨大的推手在夸大社会不公 激发社会矛盾。 理智的说 这张照片正说明社会流动性还不错",
+            "user id": 2629437231,
+            "user name": "秋家老六",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 266,
+            "parent": -1,
+            "children": [
+                277
+            ],
+            "content": "最真实中国之写照。",
+            "user id": 1788233257,
+            "user name": "艺术口袋M小飞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 267,
+            "parent": 111,
+            "children": [],
+            "content": "哎",
+            "user id": 1679920901,
+            "user name": "imJJJessie",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 268,
+            "parent": -1,
+            "children": [],
+            "content": "P的吧？",
+            "user id": 1730870707,
+            "user name": "命运马拉松",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 269,
+            "parent": 234,
+            "children": [
+                294,
+                347,
+                383
+            ],
+            "content": "",
+            "user id": 1893530391,
+            "user name": "雄霸716",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 270,
+            "parent": 60,
+            "children": [],
+            "content": ": 无以言表，看到这种画面就让人心寒，哪怕自己过的不好也不能让自己父母不好，请把你的鞋给你的父亲穿上！[怒骂]",
+            "user id": 2855184877,
+            "user name": "梦幻的笑容2012",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 271,
+            "parent": 111,
+            "children": [],
+            "content": "哎，眼泪止不住，这几天特别脆弱~~~",
+            "user id": 1859128355,
+            "user name": "好重的阳光",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 272,
+            "parent": 135,
+            "children": [],
+            "content": "",
+            "user id": 1640332715,
+            "user name": "Yoyo希望自己没有烦恼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 273,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1651511644,
+            "user name": "梁振华",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 274,
+            "parent": 111,
+            "children": [],
+            "content": "……",
+            "user id": 2914701933,
+            "user name": "初衷却是你",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 275,
+            "parent": 177,
+            "children": [],
+            "content": "[衰]黄墨牛好: 車夫子胡家喜書法好: 江鸟一牛好:开心就好156好:",
+            "user id": 2122216103,
+            "user name": "國老1947三窗口",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 276,
+            "parent": 231,
+            "children": [],
+            "content": "说不出来的感觉",
+            "user id": 3114042437,
+            "user name": "梅美3114042437",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 277,
+            "parent": 266,
+            "children": [],
+            "content": "真不知道是该赞呢还是该叹呢？",
+            "user id": 1964925561,
+            "user name": "野原新之助哒",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 278,
+            "parent": 111,
+            "children": [],
+            "content": "希望这孩子能永远记得",
+            "user id": 1914013492,
+            "user name": "食得无厌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 279,
+            "parent": -1,
+            "children": [],
+            "content": "叹息",
+            "user id": 1315831347,
+            "user name": "江左子都",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 280,
+            "parent": 251,
+            "children": [],
+            "content": "不知真假，但直达心底！",
+            "user id": 1713543680,
+            "user name": "翼嘉翼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 281,
+            "parent": -1,
+            "children": [],
+            "content": "@牙签玉轴 @济义 ",
+            "user id": 2638817751,
+            "user name": "持中-秉正",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 282,
+            "parent": 209,
+            "children": [],
+            "content": "唉[失望]",
+            "user id": 1652252480,
+            "user name": "CassieXinxin",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 283,
+            "parent": 111,
+            "children": [
+                320
+            ],
+            "content": "很震撼",
+            "user id": 1817733265,
+            "user name": "豆丁小酒坑儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 284,
+            "parent": -1,
+            "children": [],
+            "content": "如果是靠这父亲赚来的钱读完了书，那这个年轻人必须自责！",
+            "user id": 1406269845,
+            "user name": "方老黑",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 285,
+            "parent": 111,
+            "children": [],
+            "content": "说不出的感受。",
+            "user id": 1695268531,
+            "user name": "辀珘",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 286,
+            "parent": 253,
+            "children": [
+                311,
+                411
+            ],
+            "content": "心酸[悲伤]",
+            "user id": 1407809790,
+            "user name": "罗征1981",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 287,
+            "parent": -1,
+            "children": [],
+            "content": "裆下中国",
+            "user id": 1716169737,
+            "user name": "且听风翎",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 288,
+            "parent": 213,
+            "children": [],
+            "content": "因学致贫，是中国贫困的主要形式之一。这个学生敢这么装束和父亲照相，就是孝顺的一种表现。",
+            "user id": 1358894645,
+            "user name": "观察者吴春波",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 289,
+            "parent": -1,
+            "children": [],
+            "content": "心里酸酸的~~",
+            "user id": 2473994020,
+            "user name": "巫诗小白",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 290,
+            "parent": 254,
+            "children": [],
+            "content": "[泪][good]",
+            "user id": 1986993797,
+            "user name": "博诚别克z曾超",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 291,
+            "parent": -1,
+            "children": [],
+            "content": "父母的一辈子，孩子的一辈子，两辈子，一个未来。",
+            "user id": 1306230784,
+            "user name": "南山九段",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 292,
+            "parent": -1,
+            "children": [
+                344
+            ],
+            "content": "转发微博",
+            "user id": 1246867914,
+            "user name": "枚庸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 293,
+            "parent": 161,
+            "children": [],
+            "content": "[可怜]",
+            "user id": 1247634703,
+            "user name": "飞天妖怪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 294,
+            "parent": 269,
+            "children": [
+                323
+            ],
+            "content": "",
+            "user id": 1279565177,
+            "user name": "tecbus",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 295,
+            "parent": -1,
+            "children": [],
+            "content": "鼻子酸了下",
+            "user id": 2878072292,
+            "user name": "铜钱巴巴",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 296,
+            "parent": -1,
+            "children": [],
+            "content": "确定吗，感觉里面的服装很怪，黄色流苏应该是博士吧？",
+            "user id": 2114062652,
+            "user name": "龙行华夏84",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 297,
+            "parent": 236,
+            "children": [
+                336
+            ],
+            "content": "哎〜只知道付出的父父亲",
+            "user id": 1793750252,
+            "user name": "0_0NINA0_0",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 298,
+            "parent": -1,
+            "children": [],
+            "content": "想想想哭。",
+            "user id": 1651896917,
+            "user name": "杨欧Robin",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 299,
+            "parent": 211,
+            "children": [],
+            "content": "",
+            "user id": 2083070111,
+            "user name": "欧欧不在",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 300,
+            "parent": 111,
+            "children": [],
+            "content": "哎",
+            "user id": 1226813055,
+            "user name": "保蒂尼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 301,
+            "parent": -1,
+            "children": [],
+            "content": "珍惜吧",
+            "user id": 1789792341,
+            "user name": "Jamilah米拉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 302,
+            "parent": -1,
+            "children": [],
+            "content": "不出意外，你也应该是人养大的吧！也有个爹吧！",
+            "user id": 2859850212,
+            "user name": "周汝隆",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 303,
+            "parent": 111,
+            "children": [
+                346
+            ],
+            "content": "还有读书不成的呢？",
+            "user id": 1440010584,
+            "user name": "石油工人2009",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 304,
+            "parent": -1,
+            "children": [],
+            "content": "父与子",
+            "user id": 2159960351,
+            "user name": "寓形宇内",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 305,
+            "parent": -1,
+            "children": [
+                340
+            ],
+            "content": "啊啊啊啊、、、怎么能不让我想起我老爸、",
+            "user id": 1879100784,
+            "user name": "图片民工",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 306,
+            "parent": 111,
+            "children": [],
+            "content": "心酸~",
+            "user id": 2249610457,
+            "user name": "粥手手",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 307,
+            "parent": 111,
+            "children": [],
+            "content": "真难过！",
+            "user id": 1706606382,
+            "user name": "ladybird吉吉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 308,
+            "parent": 153,
+            "children": [
+                349
+            ],
+            "content": "",
+            "user id": 2099139391,
+            "user name": "ivBear夏天的熊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 309,
+            "parent": -1,
+            "children": [],
+            "content": "父与子，那份爱只能藏在心底。",
+            "user id": 1290575851,
+            "user name": "痞子燁Hugo",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 310,
+            "parent": 111,
+            "children": [],
+            "content": "不是中国的",
+            "user id": 2586870442,
+            "user name": "木易蓝0-0呵呵",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 311,
+            "parent": 286,
+            "children": [
+                327,
+                328,
+                339
+            ],
+            "content": "两重天",
+            "user id": 1661496441,
+            "user name": "赵金良",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 312,
+            "parent": 202,
+            "children": [],
+            "content": "看的我好心酸啊 好心酸啊",
+            "user id": 1944312252,
+            "user name": "rainting115",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 313,
+            "parent": 111,
+            "children": [],
+            "content": "诶！",
+            "user id": 2053770261,
+            "user name": "VuuYuu_无语",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 314,
+            "parent": 111,
+            "children": [],
+            "content": "心里难受，有点堵又有点酸酸的。",
+            "user id": 1631408431,
+            "user name": "编辑宋雪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 315,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2216797114,
+            "user name": "葛瓦拉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 316,
+            "parent": 229,
+            "children": [
+                360
+            ],
+            "content": "好心酸，可怜天下父母心[泪][泪][泪]",
+            "user id": 2553490337,
+            "user name": "ZeroChrist",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 317,
+            "parent": -1,
+            "children": [],
+            "content": "拼搏靠自己，不靠拼爹！",
+            "user id": 2077175935,
+            "user name": "洛阳科绿士净水器",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 318,
+            "parent": 93,
+            "children": [],
+            "content": "",
+            "user id": 1834773005,
+            "user name": "陇东子禾",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 319,
+            "parent": 186,
+            "children": [],
+            "content": "感同身受！高兴不起来！教育出“人”才对，而不仅仅是“人才”！",
+            "user id": 1039531174,
+            "user name": "生命可爱极了",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 320,
+            "parent": 283,
+            "children": [],
+            "content": "原来这是一对泰国父子",
+            "user id": 1817733265,
+            "user name": "豆丁小酒坑儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 321,
+            "parent": -1,
+            "children": [],
+            "content": "Forward.",
+            "user id": 3216906981,
+            "user name": "头上二毛",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 322,
+            "parent": -1,
+            "children": [],
+            "content": "@重庆大学 @中国新闻周刊 @虎溪虎-肖铁岩 @刘恋黎 @贵州都市报官方微博 @贵州织金中山小学",
+            "user id": 1680114327,
+            "user name": "虎溪道长",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 323,
+            "parent": 294,
+            "children": [],
+            "content": "",
+            "user id": 2145591157,
+            "user name": "MeditationKon",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 324,
+            "parent": -1,
+            "children": [],
+            "content": "多少父亲心里希望儿子能离开这片土地，不再像自己一样受苦；而很多儿子也真的就此离开了故土和父母，过上了父母不能想象的生活，有的甚至不能理解父母的节衣缩食，或者将父母和故土遗忘。",
+            "user id": 1746665450,
+            "user name": "老K无言",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 325,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2240089070,
+            "user name": "端午兽",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 326,
+            "parent": -1,
+            "children": [
+                337,
+                338
+            ],
+            "content": "孩子，最起码把鞋给你老爸穿上！[伤心]",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 327,
+            "parent": 311,
+            "children": [],
+            "content": "这个父亲是伟大的，这个儿子是幸运的。",
+            "user id": 1288463960,
+            "user name": "华华田",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 328,
+            "parent": 311,
+            "children": [
+                345,
+                370
+            ],
+            "content": "这张图让我在大中午的时候难过了半天，任何文字也无法诉说图中的情感。不过，对于贫穷人家出生的孩子，我是很反感一直读书太多的；于养育之恩而言，早当家就是最大的孝心报答，更何况现在读书多不一定就意味着前程似锦。",
+            "user id": 1627673351,
+            "user name": "朱翊",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 329,
+            "parent": 156,
+            "children": [],
+            "content": "看父亲的眼神有些心痛，想多了解些图片背后的故事。",
+            "user id": 1663950214,
+            "user name": "冯丰啊",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 330,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1574166814,
+            "user name": "王冠中小卷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 331,
+            "parent": -1,
+            "children": [],
+            "content": "悲哀 ",
+            "user id": 3184298950,
+            "user name": "余馗雷",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 332,
+            "parent": 252,
+            "children": [],
+            "content": "哎",
+            "user id": 1766997050,
+            "user name": "夏日凉风juve",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 333,
+            "parent": 111,
+            "children": [],
+            "content": "为什么要读书？不能有更好的平衡？",
+            "user id": 1998294432,
+            "user name": "王东11号",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 334,
+            "parent": -1,
+            "children": [],
+            "content": "心酸",
+            "user id": 1503188965,
+            "user name": "哥斯拉不是我",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 335,
+            "parent": -1,
+            "children": [],
+            "content": "如果是泰国人！我心稍安，不过也是警醒！",
+            "user id": 1657754227,
+            "user name": "我是吉利U",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 336,
+            "parent": 297,
+            "children": [],
+            "content": "心酸",
+            "user id": 1980043454,
+            "user name": "兔子卓一",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 337,
+            "parent": 326,
+            "children": [],
+            "content": "[泪][泪][泪]有用吗？可是我止不住自己的泪水！[泪]@史璞 @何光伟 @徐昕 @丰乳肥臀v @亮冰娜无穷动 @杨锦麟 @杨桐",
+            "user id": 2127277700,
+            "user name": "云台野人",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 338,
+            "parent": 326,
+            "children": [],
+            "content": "",
+            "user id": 1878921783,
+            "user name": "挺哥说事儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 339,
+            "parent": 311,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1607440402,
+            "user name": "沙漏Ida",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 340,
+            "parent": 305,
+            "children": [],
+            "content": "伟大",
+            "user id": 2589499364,
+            "user name": "新闻实习僧",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 341,
+            "parent": 174,
+            "children": [],
+            "content": "麻烦，把鞋子给老爸穿上，哪怕把自己的鞋子脱下来呢！",
+            "user id": 1870618483,
+            "user name": "我的律师",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 342,
+            "parent": -1,
+            "children": [],
+            "content": "哎，父母为我们牺牲太多！！！@黄敏_黄师傅 @灵感之源 @思想聚焦 @手机用户3623025263",
+            "user id": 1402767730,
+            "user name": "optimizer_shang",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 343,
+            "parent": 220,
+            "children": [],
+            "content": "",
+            "user id": 1979846703,
+            "user name": "大脑门青年",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 344,
+            "parent": 292,
+            "children": [],
+            "content": "父与子",
+            "user id": 2200593250,
+            "user name": "景洪吧",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 345,
+            "parent": 328,
+            "children": [],
+            "content": "哎",
+            "user id": 1489536341,
+            "user name": "_瞬间空白_",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 346,
+            "parent": 303,
+            "children": [
+                348,
+                372,
+                382,
+                385
+            ],
+            "content": "",
+            "user id": 1703919130,
+            "user name": "江汉人方圆",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 347,
+            "parent": 269,
+            "children": [],
+            "content": "穷人的孩子很争气",
+            "user id": 62686677,
+            "user name": "申剑飞子",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 348,
+            "parent": 346,
+            "children": [],
+            "content": "说不出的感受",
+            "user id": 3160239460,
+            "user name": "renE220",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 349,
+            "parent": 308,
+            "children": [],
+            "content": "",
+            "user id": 2110794314,
+            "user name": "裴文哲",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 350,
+            "parent": 133,
+            "children": [],
+            "content": "",
+            "user id": 1985853987,
+            "user name": "了不了然",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 351,
+            "parent": 94,
+            "children": [],
+            "content": "被深深的触动到了",
+            "user id": 1987435453,
+            "user name": "高小杆儿",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 352,
+            "parent": -1,
+            "children": [],
+            "content": "不知如何形容。。。",
+            "user id": 1756986041,
+            "user name": "仝tong小屋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 353,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2595831432,
+            "user name": "闹爸NB",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 354,
+            "parent": -1,
+            "children": [],
+            "content": "我想哭。。。",
+            "user id": 2160919803,
+            "user name": "静静的微笑58",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 355,
+            "parent": -1,
+            "children": [],
+            "content": "。",
+            "user id": 2140260562,
+            "user name": "Kobe_发贤毛线咩",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 356,
+            "parent": 180,
+            "children": [],
+            "content": "行路吧，往前方",
+            "user id": 1729680993,
+            "user name": "我有剪刀手",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 357,
+            "parent": -1,
+            "children": [],
+            "content": "令人心酸的图",
+            "user id": 1827937180,
+            "user name": "钟-sir-",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 358,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1491111950,
+            "user name": "阳光的老花眼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 359,
+            "parent": -1,
+            "children": [],
+            "content": "触动",
+            "user id": 2195485737,
+            "user name": "耕夫M",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 360,
+            "parent": 316,
+            "children": [],
+            "content": "爸妈是最无私的！[泪][泪]",
+            "user id": 2629107505,
+            "user name": "坚强的叽里咕噜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 361,
+            "parent": 245,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1293710707,
+            "user name": "eyesu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 362,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 2306129893,
+            "user name": "Ning宁愿多停留一秒",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 363,
+            "parent": -1,
+            "children": [],
+            "content": "[呵呵]不要辜负父母，上大学谈恋爱什么的以外一定要努力读书",
+            "user id": 3264230692,
+            "user name": "户外旅游探险者联盟",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 364,
+            "parent": 168,
+            "children": [],
+            "content": "如是我聞",
+            "user id": 1258365064,
+            "user name": "赏无厌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 365,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1883520212,
+            "user name": "都无畏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 366,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1301196631,
+            "user name": "猷_R",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 367,
+            "parent": -1,
+            "children": [],
+            "content": "#图片里的中国# 看服装略有怀疑，长相东南亚，google图片一下就呵呵后了 详情:http://t.cn/zQVIJPq",
+            "user id": 1651973660,
+            "user name": "苏幕遮马年还顺顺顺顺顺顺",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 368,
+            "parent": -1,
+            "children": [],
+            "content": "这个，，，哎。。。",
+            "user id": 2145702254,
+            "user name": "潮步",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 369,
+            "parent": -1,
+            "children": [],
+            "content": "哎，，",
+            "user id": 2145702254,
+            "user name": "潮步",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 370,
+            "parent": 328,
+            "children": [],
+            "content": "[泪]",
+            "user id": 2565822817,
+            "user name": "笑笑妞1987",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 7
+        },
+        {
+            "comment id": 371,
+            "parent": 111,
+            "children": [],
+            "content": "明明是泰国人[挖鼻屎]",
+            "user id": 1992054975,
+            "user name": "MegaDroid_刑部园外狼",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 372,
+            "parent": 346,
+            "children": [],
+            "content": "",
+            "user id": 2092217701,
+            "user name": "丠城迗街",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 373,
+            "parent": 111,
+            "children": [],
+            "content": "",
+            "user id": 1627291241,
+            "user name": "生姜哥",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 374,
+            "parent": 51,
+            "children": [],
+            "content": "一定要这样吗？拼死拼活供出个博士还要面对这残忍的社会的就业问题，观念很重要！",
+            "user id": 2407375082,
+            "user name": "annie石头",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 375,
+            "parent": -1,
+            "children": [],
+            "content": "转发微博",
+            "user id": 2921057243,
+            "user name": "一球球Nancy",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 376,
+            "parent": 237,
+            "children": [],
+            "content": "恩。",
+            "user id": 1809510362,
+            "user name": "宁小癫儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 377,
+            "parent": 111,
+            "children": [],
+            "content": "说不出的感受。",
+            "user id": 1614332560,
+            "user name": "风雨桐香诗",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 378,
+            "parent": 247,
+            "children": [],
+            "content": "[泪]",
+            "user id": 1671677465,
+            "user name": "巴拿巴冬雪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 379,
+            "parent": 111,
+            "children": [],
+            "content": "中国人的苦难已经够多，不需要用假事实假例子的来说明。假的说多了真的大家也不相信了，这也是我反感现在大多数公知的原因",
+            "user id": 2707041337,
+            "user name": "朗几",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 380,
+            "parent": -1,
+            "children": [
+                388,
+                390,
+                402
+            ],
+            "content": "愚以为，这个孩子比李老将军的儿子要强！[心]",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 381,
+            "parent": 156,
+            "children": [],
+            "content": "",
+            "user id": 1723838933,
+            "user name": "PKU的Minami喜欢鹿晗呦",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 382,
+            "parent": 346,
+            "children": [],
+            "content": "一把辛酸泪",
+            "user id": 1863420963,
+            "user name": "骇浪狂澜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 383,
+            "parent": 269,
+            "children": [],
+            "content": "",
+            "user id": 1657491953,
+            "user name": "吃小乐乐小骨棒浑身是肉",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 384,
+            "parent": -1,
+            "children": [],
+            "content": "[泪]",
+            "user id": 2130677675,
+            "user name": "有家有爱7",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 385,
+            "parent": 346,
+            "children": [],
+            "content": "不愿辜负你的期望",
+            "user id": 2846437297,
+            "user name": "阳光灿烂小肥猪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 386,
+            "parent": 111,
+            "children": [],
+            "content": "不喜欢这样的",
+            "user id": 1591973873,
+            "user name": "奔儿布霸",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 387,
+            "parent": -1,
+            "children": [],
+            "content": "[泪][泪][泪]",
+            "user id": 2443731692,
+            "user name": "王产三",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 388,
+            "parent": 380,
+            "children": [],
+            "content": "肯同[good]",
+            "user id": 2971676875,
+            "user name": "湖南冤魂",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 389,
+            "parent": 111,
+            "children": [],
+            "content": "很难说",
+            "user id": 2432663514,
+            "user name": "Mofayeye",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 390,
+            "parent": 380,
+            "children": [
+                399,
+                419
+            ],
+            "content": "我的理解是：这位同学把学位服带回家与父亲合影，应该是感谢父亲、并表示没有辜负父亲的期望。不该被照片的细节迷惑，他可能是个大孝子。",
+            "user id": 1275167931,
+            "user name": "蝈蝈1968",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 391,
+            "parent": 111,
+            "children": [
+                396
+            ],
+            "content": "转发微博",
+            "user id": 1649192992,
+            "user name": "二吼",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 392,
+            "parent": 251,
+            "children": [],
+            "content": "这个反差也太大了",
+            "user id": 1763453032,
+            "user name": "苏强-大爱清尘",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 393,
+            "parent": 231,
+            "children": [],
+            "content": "芝士改变命运",
+            "user id": 2299334942,
+            "user name": "limin_yin",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 394,
+            "parent": -1,
+            "children": [],
+            "content": "心酸",
+            "user id": 2393031072,
+            "user name": "滁州张孝敏",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 395,
+            "parent": -1,
+            "children": [],
+            "content": "悲哀 ",
+            "user id": 3229975482,
+            "user name": "胧月夜尐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 396,
+            "parent": 391,
+            "children": [
+                407
+            ],
+            "content": "",
+            "user id": 1643965847,
+            "user name": "吴主任",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 397,
+            "parent": -1,
+            "children": [],
+            "content": "震撼",
+            "user id": 1141322651,
+            "user name": "蓝剑十三",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 398,
+            "parent": -1,
+            "children": [],
+            "content": "心酸，",
+            "user id": 2928058073,
+            "user name": "Yuwenchao_",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 399,
+            "parent": 390,
+            "children": [
+                406,
+                413
+            ],
+            "content": "",
+            "user id": 1778542151,
+            "user name": "易富贤",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 400,
+            "parent": -1,
+            "children": [],
+            "content": "孩子，改变父亲和家乡的形象，实现好中国梦，这是你今后应该做的！[心]",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 401,
+            "parent": 256,
+            "children": [
+                409,
+                410
+            ],
+            "content": "你当他是善，他便是善，人人曰善他便向善；你曰他恶，他便是恶，人人唾之他于是从恶。且不管你心里怎么看他，在一个人没有恶行之前，不能说他＂是个畜生＂，就好比我知道你早晚要死、但不可说你不得好死一样。宽容点吧大哥",
+            "user id": 1741092304,
+            "user name": "梵灵袁华",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 402,
+            "parent": 380,
+            "children": [],
+            "content": "他在感谢父亲，用这种方式提醒自己！",
+            "user id": 2029076501,
+            "user name": "郑海峰-江苏银狐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 403,
+            "parent": 111,
+            "children": [],
+            "content": "[失望]",
+            "user id": 1564539042,
+            "user name": "杨树_福晋",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 404,
+            "parent": 233,
+            "children": [],
+            "content": "父亲……",
+            "user id": 2388054762,
+            "user name": "五重檐",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 405,
+            "parent": 85,
+            "children": [],
+            "content": "[泪][泪][泪]",
+            "user id": 2335718595,
+            "user name": "赵洋_JoY",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 406,
+            "parent": 399,
+            "children": [],
+            "content": "",
+            "user id": 1655210615,
+            "user name": "王潇洒",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 407,
+            "parent": 396,
+            "children": [],
+            "content": "",
+            "user id": 1621500692,
+            "user name": "蔚_什_么",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 408,
+            "parent": -1,
+            "children": [],
+            "content": "[赞]",
+            "user id": 2243013972,
+            "user name": "劳赞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 409,
+            "parent": 401,
+            "children": [
+                414
+            ],
+            "content": "混混姐如此犀利[赞]",
+            "user id": 2437184242,
+            "user name": "Bourne-renewable",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 410,
+            "parent": 401,
+            "children": [],
+            "content": "这样调戏他的父亲还善？光伏已经让您恶善不分",
+            "user id": 1620502333,
+            "user name": "Informas",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 411,
+            "parent": 286,
+            "children": [],
+            "content": "话都被哽咽在了喉咙里。。。",
+            "user id": 1736855092,
+            "user name": "山月浅唱",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 412,
+            "parent": 47,
+            "children": [],
+            "content": "",
+            "user id": 1943011791,
+            "user name": "唉豆儿",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 413,
+            "parent": 399,
+            "children": [],
+            "content": "俗话说：百善孝为先",
+            "user id": 2662184061,
+            "user name": "挚心行公益",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 414,
+            "parent": 409,
+            "children": [],
+            "content": "印度咖喱吃多了",
+            "user id": 1620502333,
+            "user name": "Informas",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 10
+        },
+        {
+            "comment id": 415,
+            "parent": 111,
+            "children": [],
+            "content": "无语。",
+            "user id": 1966169947,
+            "user name": "飞翔的云0506",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 416,
+            "parent": -1,
+            "children": [],
+            "content": "心酸。",
+            "user id": 1763847560,
+            "user name": "小白白白同學",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 417,
+            "parent": -1,
+            "children": [],
+            "content": "粉色是文学学士或者硕士的服装，博士学位流苏为红色，硕士学位流苏为深蓝色，校（院、所）长帽流苏为黄色。由此可见，这孩子是穿错了吧？",
+            "user id": 252265104,
+            "user name": "苏晓筱的前世今生",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 418,
+            "parent": -1,
+            "children": [],
+            "content": "这是今天最火的一张图片！[给力][赞]",
+            "user id": 1798209111,
+            "user name": "汶金让",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 419,
+            "parent": 390,
+            "children": [],
+            "content": "震撼",
+            "user id": 1658556722,
+            "user name": "大头虾ist",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 131,
+            "state_1": 20
+        },
+        "2-hop": {
+            "state_0": 123,
+            "state_1": 20
+        },
+        "3-hop": {
+            "state_0": 39,
+            "state_1": 9
+        },
+        "4-hop": {
+            "state_0": 32,
+            "state_1": 6
+        },
+        "5-hop": {
+            "state_0": 12,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 10,
+            "state_1": 4
+        },
+        "7-hop": {
+            "state_0": 4,
+            "state_1": 5
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "9-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

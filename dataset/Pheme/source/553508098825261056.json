@@ -1,0 +1,267 @@
+{
+    "source": {
+        "content": "Police have surrounded this building where the suspected #CharlieHebdo attackers are holed-up http://t.co/B0TRvE2iYs http://t.co/becxNG0Kxi",
+        "user id": 14173315,
+        "tweet id": "553508098825261056",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @Gerson__Souza jihadistas que não querem morrer? Então... Pelos padrões conhecidos esses jihadistas são fruta. Ainda não se mataram",
+            "user id": 1563925562,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews bury them in their hole",
+            "user id": 1663103508,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews @WikileaksTruck didn't the cops ask you NOT to give this kind of detail?  what is wrong with you?",
+            "user id": 556180021,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews Media have surrounded this building. http://t.co/ZVk94YWTIJ",
+            "user id": 112040405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews destroy them and accelerate their trip to hell",
+            "user id": 32165285,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews so much for Local and Int'l Media adhering to a NO Publish of the building. Brilliant idiots as usual NBC",
+            "user id": 2344678944,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@NBCNews #ParisShooting #CharlieHebdo It's time to FINISH THEM!!!",
+            "user id": 1062791150,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                12
+            ],
+            "content": "@kwjpn @NBCNews they want to be killed they want to be martyrs that would fuel them... Capture them and isolate them In prison",
+            "user id": 17366667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews these the same Islamic Terrorists you  claimed were dead a couple days ago?",
+            "user id": 2417374160,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "content": "@NBCNews @Y_I_S_C capture them do not kill they want to be killed",
+            "user id": 17366667,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "content": "@TopoC the only reason why u don't kill them at this point is if u think they have info about future terrorist attacks.",
+            "user id": 324658179,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@NBCNews what cowards . Good will always conquer evil",
+            "user id": 1340721432,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [
+                14
+            ],
+            "content": "@TopoC @NBCNews Well, that's a good idea too. But...they're gonna end up life in prison and that means that they're gonna live on taxes...",
+            "user id": 1062791150,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [
+                15
+            ],
+            "content": "@Y_I_S_C no they want to be martyrs they want to be killed it makes them Heroes to the other terrorists",
+            "user id": 17366667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 12,
+            "children": [],
+            "content": "@kwjpn @NBCNews French taxes... But the French don't treat prisoners as well as we do",
+            "user id": 17366667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [
+                16
+            ],
+            "content": "@TopoC they are heroes to their followers no matter what. Don't give them a way to get out instructions to trigger future attacks.",
+            "user id": 324658179,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [
+                17
+            ],
+            "content": "@Y_I_S_C I don't think they are leaders  the leaders don't do the real terrorism... But I get what you are saying tho",
+            "user id": 17366667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "content": "@TopoC they could be middle managers. They could lead a group.",
+            "user id": 324658179,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "content": "@Y_I_S_C they were sick of the dead end job so they went postal... Zing! Lol sorry",
+            "user id": 17366667,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "6-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

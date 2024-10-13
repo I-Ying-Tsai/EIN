@@ -1,0 +1,122 @@
+{
+    "source": {
+        "content": "PHOTO: Parliament Hill caucus room barricaded with furniture due to active shooter situation - http://t.co/8pVYX8s91t http://t.co/6cHBF5KsME",
+        "user id": 28785486,
+        "tweet id": "524965597793107968",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC so... No one has considered security Evan practice, and if so... That's silly",
+            "user id": 43327554,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC some truth sneak out?",
+            "user id": 563123148,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@ABC \"Look everybody..were're safe now..I put chairs in front of the doors..I saw it in a movie once..\"",
+            "user id": 2821683741,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@WhatIsWrong_US @ABC hahaha",
+            "user id": 260966532,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@WhatIsWrong_US @ABC   A primitive response to fear, but not the best course of action.  Proactive planning is key.  http://t.co/MvQcFWtBCx",
+            "user id": 2364751496,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC really thats all thats protecting them, wow",
+            "user id": 267237983,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC hahahahahahaha really? Concealed carry solves that",
+            "user id": 260966532,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC If the citizens of #Canada were able to be armed, they wouldn't bitch up like their government!",
+            "user id": 1612968180,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@ABC The use of furniture as a barricade system is futile.  Bolo Stick is installed in seconds and provides far greater protection.",
+            "user id": 2364751496,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

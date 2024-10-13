@@ -1,0 +1,154 @@
+{
+    "source": {
+        "content": "LIVE: Police operation underway at Sydney's #MartinPlace; train station also shut http://t.co/YYXZGAVclP http://t.co/5IPTUT3Iih",
+        "user id": 2799960092,
+        "tweet id": "544306732475105283",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus Don't show pics of Police movement here while this operation is going on. Please!",
+            "user id": 252452455,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus harbour bridge shut down for inbound traffic",
+            "user id": 27273584,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus @BBCNewsAsia media should stop posting up photos to protect police ops underway. You're revealing their positions.",
+            "user id": 243953291,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus @BBCWorld",
+            "user id": 1971132385,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@BBCNewsAus:LIVE:Police operation underway at Sydney's #MartinPlace; train station also shut http://t.co/TMh4ZlQhyw http://t.co/dPCvBQqys4”",
+            "user id": 2818826268,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Ya ampun apa lagi ini“@BBCNewsAus LIVE: Police operation underway at Sydney's #MartinPlace; train station also shut http://t.co/kWLLeGLX8w ”",
+            "user id": 1673026008,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@BBCNewsAus @BBCWorld eso pasa cuando gobiernos bajan las manos y son indulgentes con terroristas #PazSiImpunidad",
+            "user id": 152363628,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@MarcelaHolguinM @BBCNewsAus @BBCWorld hubiera preferido vivir mi vida sin tener que haber leído tu tweet tan pésimo",
+            "user id": 472595539,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus @BBCWorld  STAY SAFE SYDNEY!!!!",
+            "user id": 742163059,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "🙏“@BBCNewsAus: LIVE: Police operation underway at Sydney's #MartinPlace http://t.co/n7jORrnKfe http://t.co/Tl5Q17mwQj”",
+            "user id": 2911681225,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus @mrbrown #illridewithyou",
+            "user id": 148970819,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCNewsAus @BBCWorld don't show the position of the police when an operation is going on",
+            "user id": 2341295746,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

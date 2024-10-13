@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Everything we know about the Germanwings plane crash in France http://t.co/o0ZSGb1lQq http://t.co/N4TTbxlOY4",
+        "user id": 2461887810,
+        "tweet id": "580330454869512192",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 You didn't need a link for that. You could have ended it with \":Not a lot yet.\"",
+            "user id": 193667532,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@thei100 BREAKING - Germanwings plane crashes in France, up to 150 believed dead\nhttp://t.co/HWyOPGobie",
+            "user id": 2459278543,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

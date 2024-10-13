@@ -1,0 +1,72 @@
+{
+    "source": {
+        "content": "Moscow police investigating #Putin's #Nemtsov statement for \"extremism.\" Not a coup; just very confused police.  http://t.co/Z5YUfVfcPM",
+        "user id": 275572129,
+        "tweet id": "576453994484252673",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@PeterBDoran Just me or do I get the sinking feeling that as the intelligentsia push back against Putin, they're only empowering Surkov?",
+            "user id": 18036861,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "If #Putin and #Castro met to read the Sun @nytimes on a live TV feed, they save a lot of speculation, @wupton.",
+            "user id": 275572129,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PeterBDoran @wupton Oh that's good.",
+            "user id": 21305315,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "@PeterBDoran HAHAHAHAHAHA @nytimes",
+            "user id": 18036861,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

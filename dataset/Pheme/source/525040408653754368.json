@@ -1,0 +1,149 @@
+{
+    "source": {
+        "content": "BREAKING NEWS: Suspected Ottawa gunman identified as Michael Joseph Hall, an #ISIS sympathizer. #OttawaShooting",
+        "user id": 423662810,
+        "tweet id": "525040408653754368",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@TheAnonMessage Really?",
+            "user id": 993643850,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                10
+            ],
+            "content": "@SkyMineOnline Confirmed by both BBC and NBC News, what more do you need?",
+            "user id": 423662810,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage  Michael Zehaf Bibeau is Canadian born in 1982. He is 32 years old.",
+            "user id": 19815846,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage I see the name Michael Zehaf-Bibeau bandied about, not Hall.  Haven't seen any affiliations reported; speculated Algerian.",
+            "user id": 257712285,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@TheAnonMessage: BREAKING NEWS: Suspected Ottawa gunman identified as Michael Joseph Hall #ISIS sympathizer. #OttawaShooting”\n#nosjournaal",
+            "user id": 215058742,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage Surprise!",
+            "user id": 2686761836,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage @OpIceISIS  ISIS can Suck My Dick you WEAK MINDED pieces of unworthy  Shit  !",
+            "user id": 2267528078,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage Drugs to convict me of the people in the store",
+            "user id": 1878549530,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage @OpIceISIS - correction: WAS an ISIS sympathiser. Now in hell with his Sluts of Satan! 👿😈👹👹👹",
+            "user id": 2725109187,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage @OpIceISIS -BREAKING NEWS GUYS:\nhttp://t.co/tqIoUZsLKz",
+            "user id": 2725109187,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [],
+            "content": "@TheAnonMessage I don't read newspaper.",
+            "user id": 993643850,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

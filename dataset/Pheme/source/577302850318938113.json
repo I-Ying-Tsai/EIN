@@ -1,0 +1,55 @@
+{
+    "source": {
+        "content": "There was no coup in #Ukraine, #Putin now admits he was the one who urged Yanukovych to flee the country. http://t.co/Zx6ZaC5osy",
+        "user id": 104814061,
+        "tweet id": "577302850318938113",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@sbandera \ndo we really want to make the whole planet a propaganda show?",
+            "user id": 1643879654,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@MarkusTop1 My thoughts exactly!",
+            "user id": 104814061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@sbandera @Ashtray_Cowboy  a coup is when a guy rides in on a tank",
+            "user id": 268466245,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

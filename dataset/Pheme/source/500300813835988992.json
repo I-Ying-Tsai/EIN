@@ -1,0 +1,182 @@
+{
+    "source": {
+        "content": "They wanted u 2 believe that #TrayvonMartin was a criminal, #EricGarner a criminal, #RenishaMcBride a thief, &amp; now #MikeBrown #Ferguson",
+        "user id": 36493412,
+        "tweet id": "500300813835988992",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver The stuttering. The nervousness. The incoherency... The truth will set them free. Admit when you're wrong and deal with it.",
+            "user id": 563035157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver my thoughts exactly but the terrorists police and terrorist whit ppl who take the law in their own hands r saints...wth",
+            "user id": 312614428,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver @Dreamdefenders It's Chapter 1 in the murderer's guide to getting away.  Chapter 2 - \"Went for my gun\"",
+            "user id": 557129196,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver @Dreamdefenders Lets Start a real #Organized movement for #Injustice everywhere.Make #BusTourMovement a trending Topic guys.",
+            "user id": 43374004,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver Not having it if the World is Stupid I AM not they have to find things to say or they don't have a Reason to Kill the Child!",
+            "user id": 1567260500,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver @JessSmokin if you’re not law enforcement then you are in the mind of a cop a criminal or other but not above or = to police.",
+            "user id": 40388094,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@PastorSilver @mshindi05 and Capt Coon Johnsin just consigned their BS praising the gov",
+            "user id": 2557599836,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                13
+            ],
+            "content": "@cwebbsplace @PastorSilver If we don't know what time it is, our enemies do. They play the stick &amp; carrot game quite well. #FERGUSON",
+            "user id": 1011860713,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver when you're dead they make you a crimminal. While alive,men of color are given criminal records,so as never to be productive.",
+            "user id": 2339929226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver Zimmerman got away with murder! That set the stage for Copy Cats and it's been an assault on people of color since.",
+            "user id": 2339929226,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver being black has always been a crime in america",
+            "user id": 2732489930,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver @ParadiseGray And a drunk. They said #RenishaMcBride was a drunk. *eyeroll*",
+            "user id": 1625743140,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@PastorSilver @ParadiseGray ..And Oscar Grant..and Amoudou Diallo...and..and..and",
+            "user id": 236637767,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": 7,
+            "children": [],
+            "content": "@mshindi05 @PastorSilver sure do.. Capt Coon is good. When the sis wanted answers he ended the press conf",
+            "user id": 2557599836,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 5
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "source": {
+        "content": "So, to sum up: 1) Darren Wilson KNEW NOTHING of the robbery, 2) shot #MikeBrown over jaywalking, and 3) was allowed to escape #Ferguson.",
+        "user id": 213518581,
+        "tweet id": "500364250461003777",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "content": "Add to that: 4) #FergusonPD engaged St. Louis County police to their dirty work and handle \"crowd control.\"",
+            "user id": 213518581,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "And frosting: 5) There appears to have been no active investigation going on.\n\nThis is NOT how you handle an officer-involved shooting.",
+            "user id": 213518581,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "@NefariousNewt This story just keeps exponentially devolving. O.o",
+            "user id": 30614610,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "@NefariousNewt @Hegemommy And didn't write his own incident report",
+            "user id": 14482396,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "@javimorillo That, too. @Hegemommy",
+            "user id": 213518581,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@NefariousNewt @WithAnM The robbery that wasn't a robbery . . . huh.",
+            "user id": 1931854772,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@NefariousNewt @DJROBBZ_BLOG 4) and on paid vacation curtesy if taxpayer.",
+            "user id": 25588490,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": ".@NefariousNewt WRONG - he shot after Brown pushed him back into car &amp;grabbed4fun &amp; he couldn't get out  &amp; Brown RAN",
+            "user id": 564947756,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "content": "@Dark_Red_Hair So he should have been shot ten times? That narrative is in doubt via the eyewitnesses.",
+            "user id": 213518581,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@NefariousNewt @Roddee",
+            "user id": 1420666639,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

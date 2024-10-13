@@ -1,0 +1,110 @@
+{
+    "source": {
+        "content": "Dramatic video of gunfire from inside Parliament Hill: http://t.co/8xCefbbnZa http://t.co/SYydkfOxAI",
+        "user id": 16313405,
+        "tweet id": "524948264886759424",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVVancouver @ctvedmonton brave RCMP.",
+            "user id": 20247382,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "“@CTVVancouver: Dramatic video of gunfire from inside Parliament Hill: http://t.co/tsWgup6CGN http://t.co/QGFTMMaeSQ” this is scary stuff",
+            "user id": 2327857280,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@Goobleheimen @CTVVancouver",
+            "user id": 2476419657,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVVancouver insane!!",
+            "user id": 108422084,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVVancouver did they at least hit @pmharper ?",
+            "user id": 583304874,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@CTVVancouver @EmaanKazemi @bfinskars @_btomas shots fired for reals",
+            "user id": 403869314,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVVancouver: Dramatic video of gunfire from inside Parliament Hill: http://t.co/4c6Ycg3kvs http://t.co/cNIygBlT7C” wtf",
+            "user id": 307524941,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@CTVVancouver: Dramatic video of gunfire from inside Parliament Hill: http://t.co/9AmXaeGahs http://t.co/nVnzwSgMUk” this is terrifying",
+            "user id": 20645450,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

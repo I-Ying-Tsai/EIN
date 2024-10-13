@@ -1,0 +1,165 @@
+{
+    "source": {
+        "content": "BREAKING: Explosions, gunshots heard at the Paris kosher market where gunman has at least 5 hostages.",
+        "user id": 51241574,
+        "tweet id": "553586523338440704",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@AP AFP has reported that the suspects have been killed",
+            "user id": 97450466,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@OnlyGCX @AP THIS IS OK.",
+            "user id": 97458870,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@AP: BREAKING: Explosions, gunshots heard at the Paris kosher market where gunman has at least 5 hostages.”",
+            "user id": 2494290523,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "RT @AP: BREAKING: Explosions, gunshots heard at the Paris kosher market where gunman has at least 5 hostages.",
+            "user id": 50793235,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "“@AP: BREAKING: Explosions, gunshots heard at the Paris kosher market where gunman has at least 5 hostages.” Just awful",
+            "user id": 24211577,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "“@AP: BREAKING: Explosions, gunshots heard at the Paris kosher market where gunman has at least 5 hostages.” Hope the hostage is rescued.",
+            "user id": 30159948,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@AP .... And????",
+            "user id": 369769807,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "PRAY FOR PARIS! \"@AP: BREAKING: Explosions, gunshots heard at the Paris kosher market where gunman has at least 5 hostages.”",
+            "user id": 266860309,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AP @BBCBreaking @SkyNews So coordinated French Police actions at both sites where hostages held? Closing it down. #ParisShooting",
+            "user id": 533753630,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@AP #remembergoldenbergsdeli #jewishlivesmatter",
+            "user id": 2900148061,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@AP http://t.co/OLyTsSQT6y",
+            "user id": 2945871636,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "City of Lights is at darkest “@AP: BREAKING: Explosions, gunshots heard at the Paris kosher market where gunman has at least 5 hostages.”",
+            "user id": 2966409519,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "@AP @eHardinda 2 locations #French terrorists takedown as if programmed 2 B at same time. Few hostages killed prior 2 #swat police arrival",
+            "user id": 152351502,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 11,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

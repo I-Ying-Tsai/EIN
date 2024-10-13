@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "It's a tragic day for France &amp; for Europe. I want to express solidarity with family &amp; friends of crew &amp; passengers of #4U9525 #Germanwings",
+        "user id": 856010760,
+        "tweet id": "580337320508919808",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@GuyVerhofstadt 42 people from Spain.",
+            "user id": 2256931663,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@guyverhofstadt Incredible crash ! http://t.co/QE8c8qJ7pP how contact CAN be lost ?",
+            "user id": 1348659986,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

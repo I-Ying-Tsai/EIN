@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Stay safe Ottawa.",
+        "user id": 24026321,
+        "tweet id": "524937114539282433",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@gerrydee Gerry its so scary.  I'm freaking out.",
+            "user id": 529025832,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@gerrydee thanks for the support",
+            "user id": 203756330,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@gerrydee  my wife's in Ottawa on business and she's a little shaken by the shooting #gethomesafe",
+            "user id": 537688441,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

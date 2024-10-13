@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "BREAKING: One pilot was 'locked out' of cockpit before Germanwings crash http://t.co/3ZrouZedhX http://t.co/CSUYBYHuAF",
+        "user id": 150246405,
+        "tweet id": "580883864521818112",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "WHAT!!? @thejournal_ie BREAKING: One pilot was 'locked out of cockpit before Germanwings crash http://t.co/YZXYd7OxtF http://t.co/jluUugsNZ0",
+            "user id": 359064121,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "??? @thejournal_ie: BREAKING: One pilot was 'locked out' of cockpit before Germanwings crash http://t.co/goezrKbowl http://t.co/O7oKVYRMnd",
+            "user id": 37421021,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

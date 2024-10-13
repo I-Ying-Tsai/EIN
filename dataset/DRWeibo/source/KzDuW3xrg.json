@@ -1,0 +1,235 @@
+{
+    "source": {
+        "content": "湖北工业大学最近几条微博都关闭评论了。#湖工大研一女生教学楼跳楼身亡# ",
+        "time": "21-9-24 12:42",
+        "user id": "1504328683",
+        "tweet id": "KzDuW3xrg",
+        "label": 1,
+        "theme": null
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "user id": "1504328683",
+            "user name": "飞雪连天追白鹿",
+            "content": "的确是关闭评论了，居然也说是不实信息，举报的那孙子长这样 ",
+            "time": "21-9-25 10:33",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "1504328683",
+            "user name": "飞雪连天追白鹿",
+            "content": "@安徽工程大学 @安徽工程大学团委",
+            "time": "21-9-25 10:51",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "1504328683",
+            "user name": "飞雪连天追白鹿",
+            "content": "图片评论 查看图片",
+            "time": "21-9-25 10:45",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "1504328683",
+            "user name": "飞雪连天追白鹿",
+            "content": "举报者特征：三本，学生，小米用户，长相猥琐",
+            "time": "21-9-25 10:38",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                9,
+                10
+            ],
+            "user id": "1768343742",
+            "user name": "BloodZeng",
+            "content": "现在都不知道到底是男是女的了。。。",
+            "time": "21-9-24 13:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "7685891048",
+            "user name": "语音不懂198011",
+            "content": "女的，真无语，一个生命呀，这么大的事，还压",
+            "time": "21-9-24 18:44",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 10,
+            "children": [],
+            "user id": "5714376318",
+            "user name": "常安常平",
+            "content": "有照片吗，可以发给我吗",
+            "time": "21-9-24 16:11",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": 10,
+            "children": [],
+            "user id": "6189133173",
+            "user name": "Ayanokouji",
+            "content": "求私发照片",
+            "time": "21-9-24 15:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 8,
+            "parent": 9,
+            "children": [],
+            "user id": "5350044120",
+            "user name": "没有名字名字难起",
+            "content": "你看见了是裙子？照片里裤子还是裙子根本就不清楚，只能看清颜色好吗",
+            "time": "21-9-24 14:45",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "user id": "7017209683",
+            "user name": "星語之萧",
+            "content": "哪有男的裸腿穿裙子？",
+            "time": "21-9-24 14:40",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": 4,
+            "children": [
+                6,
+                7
+            ],
+            "user id": "6209450456",
+            "user name": "传武太嘤冲鸭",
+            "content": "女生，我看到照片了",
+            "time": "21-9-24 14:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "5905834596",
+            "user name": "快乐冲浪不要生气",
+            "content": "湖工的账号都是学生操作的 意见到达不了老师那里",
+            "time": "21-9-24 12:47",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "user id": "7213832639",
+            "user name": "达尔杜弗是莫里哀古典",
+            "content": "发生这么大的事肯定是老师操作啊，哪个学生这么大权力",
+            "time": "21-9-24 13:50",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "5905834596",
+            "user name": "快乐冲浪不要生气",
+            "content": "不会的 之前也出过很大的全网骂的事 当时我是在校生 那时候也是学生们操作的 只是老师会过问而已 还有可能会特别授权发什么内容",
+            "time": "21-9-24 15:10",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "6574500213",
+            "user name": "听海听枫_",
+            "content": "都是学生管理的，何必为难，又不是官方老师",
+            "time": "21-9-24 12:51",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "7514897208",
+            "user name": "空你几哇ok",
+            "content": "为了头上的帽子",
+            "time": "21-9-24 13:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 6
+        },
+        "3-hop": {
+            "state_0": 4,
+            "state_1": 0
+        }
+    }
+}

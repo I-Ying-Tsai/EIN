@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "Wow  RT @AntonioFrench: State Senator asks the #Ferguson police chief if she's going to be gassed again. https://t.co/wgnDJbEaGV",
+        "user id": 411780181,
+        "tweet id": "499652256288235521",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@NFLGoodwitch @Hegemommy  \"you ever see a deputy didn't have a fat ass?\" Time to re-read Grapes of Wrath.",
+            "user id": 880456062,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NFLGoodwitch @AntonioFrench he put on that soulless demon smile",
+            "user id": 16067753,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@NFLGoodwitch @Charlie_cat16 @AntonioFrench Wow I'm speechless",
+            "user id": 512350424,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@BlackButta_fly @NFLGoodwitch @AntonioFrench me too! This seems unreal! Gas, shooting, swat team?!! Wth",
+            "user id": 367810627,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

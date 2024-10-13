@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "Airbus A320 #4U9525 crash: \nFlight tracking data here: \nhttp://t.co/9W6hfTGYQV #airbus http://t.co/RchXQsoqdJ",
+        "user id": 16211566,
+        "tweet id": "580322102307373056",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "Estou arrepiada :(( RT @MattNavarra Airbus A320 #4U9525 crash: Flight tracking data here: http://t.co/R65eGUl5bk … #airbus",
+            "user id": 59812246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@MattNavarra graph based on tracking data. Stall, decompression &amp; commanded descent or loss of structural integrity? http://t.co/m6akwotmns",
+            "user id": 40643525,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "RT “@MattNavarra: Airbus A320 #4U9525 crash: \nFlight tracking data here: \nhttp://t.co/YCOK51PHvv #airbus http://t.co/pFEumX3xhQ”",
+            "user id": 97357772,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

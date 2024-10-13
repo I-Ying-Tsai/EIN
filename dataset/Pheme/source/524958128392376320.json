@@ -1,0 +1,178 @@
+{
+    "source": {
+        "content": "Ottawa police confirm that there were multiple suspects in the shooting, saying there were \"possibly 3\" shooters. http://t.co/In9OgOxYXM",
+        "user id": 3108351,
+        "tweet id": "524958128392376320",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ オタワ警察は3人の容疑者をおそらくですが確認しているのでしょうか？銃撃後の様子を写した写真ですね",
+            "user id": 2842658438,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@WSJ Killers go berserk when cornered.  Henceforth, no lapses in security should be there.",
+            "user id": 2513043992,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@studentworks211 @WSJ That's Right!",
+            "user id": 2255785158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "content": "@WSJ @macdonaldajm terrorists in ottawa",
+            "user id": 2863535713,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                11
+            ],
+            "content": "@45_nabeel hahaha, you said far more than you think",
+            "user id": 7905512,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [
+                12
+            ],
+            "content": "@45_nabeel @WSJ @macdonaldajm Correction:  Armed Muslim Terrorists on the loose!",
+            "user id": 2255785158,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "@WSJ @HeyTammyBruce I hope this isn't just a prelude to a bigger attack.",
+            "user id": 2407248410,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "content": "@FreedomBruce @WSJ @HeyTammyBruce I wouldn't put anything past a Muslim!",
+            "user id": 2255785158,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Happy the soldier is not injured seriously. Hope he recovers quickly. You're brave Canada. You can pull through #ottawashooting .",
+            "user id": 197777712,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ Militant Muslims on the Rampage!!!",
+            "user id": 2255785158,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@WSJ when Canadians of all people start shooting, well, \"c'est la fin du monde, non?\"",
+            "user id": 526416183,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 4,
+            "children": [],
+            "content": "@TechHelp maybe",
+            "user id": 2863535713,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 5,
+            "children": [],
+            "content": "@Nan_Imburgia @WSJ @macdonaldajm terrorists all over the world no need for correction",
+            "user id": 2863535713,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

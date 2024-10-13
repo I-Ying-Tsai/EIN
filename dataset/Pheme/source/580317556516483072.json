@@ -1,0 +1,82 @@
+{
+    "source": {
+        "content": "BREAKING We got reports the crash could be an Airbus A320 Germanwings between Barcelona and Dusseldorf.",
+        "user id": 2280470022,
+        "tweet id": "580317556516483072",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet no deutch compagnie flight from Marignane this morning",
+            "user id": 406549143,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet Flightradar shows a gradual descent over the final 10 minutes http://t.co/DxbxCZPE6n",
+            "user id": 546638842,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet 4U9525 flight?",
+            "user id": 21342445,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet Lost height...but speed constant... http://t.co/5H3MAwydIQ",
+            "user id": 19067172,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@airlivenet @KayBurley \nAnother #Airline disaster. What's going wrong?\n@FoxNews @AP @piersmorgan @BBCWorld @LouiseMensch @nytimes @nypost",
+            "user id": 2520839886,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Gadver! “@airlivenet: BREAKING We got reports the crash could be an Airbus A320 Germanwings between Barcelona and Dusseldorf.”",
+            "user id": 14215935,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 2
+        }
+    }
+}

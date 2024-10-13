@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "A Germanwings A320 has crashed en route to Dusseldorf. Flight Radar 24 of the last known position. #4U9525 http://t.co/FrI93NrYFF",
+        "user id": 294379576,
+        "tweet id": "580319968484421633",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@torin The question is. They knew they were descenting and Alps were ahead. Why didn't they turn the plane to the south?",
+            "user id": 231555313,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@torin Our altruistic prime egotist will have an opportunity to raise another $M600 search money to make his ally prissy sweet &amp; clean.",
+            "user id": 92512340,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

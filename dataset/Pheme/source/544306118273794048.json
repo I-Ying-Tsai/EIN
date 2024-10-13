@@ -1,0 +1,99 @@
+{
+    "source": {
+        "content": "The best source for the latest updates on #sydneysiege is @nswpolice. Follow @131500trains, @131500buses &amp; @131500ferries for transport info",
+        "user id": 818212956,
+        "tweet id": "544306118273794048",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TwitterAU @nswpolice @131500trains @131500buses @131500ferries \nMsg here doesn't really make sense @nswpolice Latest is a retweet?",
+            "user id": 2519797904,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "One of our best sources of reliable news is @acarvin He has sources everywhere and knows how to verify news @TwitterAU @nswpolice",
+            "user id": 379708097,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "Twitter promos cops for \"best\" updates over news orgs: \"@TwitterAU: The best source for the latest updates on #sydneysiege is @nswpolice...”",
+            "user id": 14296327,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@TwitterAU @nswpolice @131500trains @131500buses @131500ferries Islam is a gutter superstition that glorifies death and violence!",
+            "user id": 2750347930,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@TwitterAU @nswpolice @131500trains @131500buses @131500ferries #sydneysiege Shutdown all mobile network in the Area. Complete news blackout",
+            "user id": 2404454630,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@TwitterAU @nswpolice #sydneysiege Complete news blackout. Shut down electricity supply to the cafe. Wear him down. Wait till night for ops.",
+            "user id": 2404454630,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@TwitterAU @nswpolice #sydneysiege Cut all TV network inside the cafe. Complete news blackout.",
+            "user id": 2404454630,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 3
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "source": {
+        "content": "I heard #Putin escaped the Kremlin and is on his way to his girl in Switzerland.\n#Putindead #PutinPregnant http://t.co/Yrjxa4cmX7",
+        "user id": 49430686,
+        "tweet id": "576565012086579200",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@cmsNetherlands Kremlin organised a quiz: whats going on on the Red Square ? http://t.co/XZlm2wOc2W.",
+            "user id": 2827853416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "content": "@JanPlusser I hear that's for celebration of annexation of Crimea 18th",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cmsNetherlands  Orthodox Patriarch Kirill says Russion Orthodox People and church-supporters Discredits Putin",
+            "user id": 2827853416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [
+                4
+            ],
+            "content": "@JanPlusser 1 year anniversary",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "content": "@cmsNetherlands Kremlin invites Conchita :  http://t.co/TahNS83PmL    AND All Comrads SING https://t.co/VySU9Q7ZGK …",
+            "user id": 2827853416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "content": "@JanPlusser yuck...!",
+            "user id": 49430686,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "@cmsNetherlands  read the text; very revolutionary for tsarists",
+            "user id": 2827853416,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "6-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

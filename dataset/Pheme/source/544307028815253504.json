@@ -1,0 +1,632 @@
+{
+    "source": {
+        "content": "The CEO of Lindt says there are around 50 people holed up in the cafe in central Sydney #sydneysiege http://t.co/sUKKYMk08y",
+        "user id": 5402612,
+        "tweet id": "544307028815253504",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking \n\nKaty &amp; Bieber embrace Islam: http://t.co/5aZF6v6kxT\n\nThe Bible &amp; NASA embrace Islam: http://t.co/KL7Pm8FQcT.",
+            "user id": 607311691,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@BBCBreaking Are they chocolateers?",
+            "user id": 831573920,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "content": "@bbcbreaking I feel like you might have meant to say 15. Not great fact checking if not. #sydneysiege",
+            "user id": 14112322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                16
+            ],
+            "content": "@benderson @BBCBreaking 50",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "content": "@benderson @BBCBreaking Let's face it the BBC loves to say it's slow because it checks facts,  but it doesn't.",
+            "user id": 17132699,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "content": "@BBCBreaking not that many!!!!!!!!!!!!!!!!!!",
+            "user id": 199184303,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                17
+            ],
+            "content": "@prism555 @BBCBreaking 50",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "content": "@BBCBreaking Holed up, or held up?",
+            "user id": 53987594,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                18
+            ],
+            "content": "“@mflynny: @BBCBreaking Holed up, or held up?”yeah cause grammars what's important right now... Flippin moron",
+            "user id": 181344414,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "RT @BBCBreaking: The CEO of Lindt says there are around 50 people holed up in the cafe in central Sydney #sydneysiege",
+            "user id": 62846638,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "content": "RT @BBCBreaking: The CEO of Lindt says there are around 50 people holed up in the cafe in central Sydney #sydneysiege http://t.co/QtnklPTjyK",
+            "user id": 2420516678,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                19
+            ],
+            "content": "@AsiaNewsWeekly @BBCBreaking  TV news says 13...... what is it? 13, 50, 30, 15???????",
+            "user id": 705123059,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "content": "Australia\n@BBCBreaking: CEO of Lindt says arnd 50 ppl holed up in cafe in central #Sydney\n#sydneysiege\nhttp://t.co/rg7SvcE18r",
+            "user id": 999907196,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "content": "RT @BBCBreaking: The CEO of Lindt says there are around 50 people holed up in the cafe in central Sydney #sydneysiege http://t.co/0E0qBldQ5W",
+            "user id": 14266111,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "content": "El CEO de Lindt dice que hay unas 50 personas retenidas en el #sydneycafesiege @BBCBreaking",
+            "user id": 118682314,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                20
+            ],
+            "content": "@Carolinaabellan qué locura",
+            "user id": 3968,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 16,
+            "parent": 3,
+            "children": [
+                21,
+                22,
+                23,
+                24,
+                25,
+                26
+            ],
+            "content": "@garymason10 @bbcbreaking You're trying to tell me there are 50 people in that cafe and all other news sources are saying 10-13 ppl?",
+            "user id": 14112322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 6,
+            "children": [],
+            "content": "@garymason10 @BBCBreaking we shall see",
+            "user id": 199184303,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 8,
+            "children": [
+                27
+            ],
+            "content": "@kyle_huggins1 @BBCBreaking Not grammar, jackass. There IS a difference. Holed up suggests \"in hiding\". Held up means not at their own will.",
+            "user id": 53987594,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 11,
+            "children": [],
+            "content": "@CherylWevell No hard numbers yet from authorities that I’ve seen. A media outlet said 15. Lindt said there could be up to 40 earlier.",
+            "user id": 2420516678,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 15,
+            "children": [
+                28
+            ],
+            "content": "@earcos Tremenda. Que Dios o quien sea reparta suerte.",
+            "user id": 118682314,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": 16,
+            "children": [
+                29
+            ],
+            "content": "@benderson @BBCBreaking apparently ch 7 report Mgr of store say 50 it's a big shop",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 22,
+            "parent": 16,
+            "children": [],
+            "content": "@benderson @BBCBreaking http://t.co/tUwIsXnfQ1",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 16,
+            "children": [],
+            "content": "@benderson @BBCBreaking http://t.co/T1dYW799eN",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 24,
+            "parent": 16,
+            "children": [],
+            "content": "@benderson @BBCBreaking think of it as the size of a bank",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 16,
+            "children": [],
+            "content": "@benderson @BBCBreaking I just left the scene",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": 16,
+            "children": [
+                30
+            ],
+            "content": "@benderson @BBCBreaking office sent people home as there are reports of devices all over cbd",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 27,
+            "parent": 18,
+            "children": [
+                31
+            ],
+            "content": "@mflynny @BBCBreaking you knew what was meant, you're just being pedantic. For what reason, attention? Retweets?",
+            "user id": 181344414,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 28,
+            "parent": 20,
+            "children": [],
+            "content": "@Carolinaabellan ahí está Tony Abbott hablando",
+            "user id": 3968,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 29,
+            "parent": 21,
+            "children": [
+                32,
+                33,
+                34,
+                35
+            ],
+            "content": "@garymason10 @bbcbreaking Not trying to be inflammatory, but none of those photos or 'facts' you just quoted confirm the numbers.",
+            "user id": 14112322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 30,
+            "parent": 26,
+            "children": [
+                36
+            ],
+            "content": "@garymason10 @benderson @BBCBreaking gary what do you mean by devices? Bomb devices?",
+            "user id": 106330685,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 31,
+            "parent": 27,
+            "children": [],
+            "content": "@kyle_huggins1 @BBCBreaking No, you're being a prick. They need to report accurately. There are others in that vicinity.",
+            "user id": 53987594,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 32,
+            "parent": 29,
+            "children": [],
+            "content": "@benderson @BBCBreaking of course.",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 33,
+            "parent": 29,
+            "children": [
+                37
+            ],
+            "content": "@benderson @BBCBreaking no offense taken",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 34,
+            "parent": 29,
+            "children": [],
+            "content": "@benderson @BBCBreaking but I now believe 50 is a number now being reported more widely. (I'm not a journo)",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 35,
+            "parent": 29,
+            "children": [],
+            "content": "@benderson @BBCBreaking let's hope it's 12",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 36,
+            "parent": 30,
+            "children": [
+                38
+            ],
+            "content": "@masna_bila @benderson @BBCBreaking that's what was reported.",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 37,
+            "parent": 33,
+            "children": [
+                39
+            ],
+            "content": "@garymason10 @bbcbreaking Also, Guardian lists 'up to 12 hostages', as do most other outlets. Seems a big jump to 50 http://t.co/CVxwmHax4Z",
+            "user id": 14112322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 38,
+            "parent": 36,
+            "children": [
+                40
+            ],
+            "content": "@garymason10 @benderson @BBCBreaking bloody hell i hope thats not true.",
+            "user id": 106330685,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 39,
+            "parent": 37,
+            "children": [
+                41,
+                42,
+                43
+            ],
+            "content": "@benderson @garymason10 @BBCBreaking the Lindt ceo said there may be UP TO 50",
+            "user id": 2274808086,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 40,
+            "parent": 38,
+            "children": [
+                44
+            ],
+            "content": "@masna_bila   agree. I just got my car out of the hospital car park and then heard one of the bombs is sposed tbthere",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 8
+        },
+        {
+            "comment id": 41,
+            "parent": 39,
+            "children": [],
+            "content": "@Hollxnd87 @benderson @BBCBreaking ok",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 42,
+            "parent": 39,
+            "children": [],
+            "content": "@Hollxnd87 @benderson @BBCBreaking I took this in martin place last week between Lindt and ch7 http://t.co/51UKoxxvDj",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 43,
+            "parent": 39,
+            "children": [
+                45
+            ],
+            "content": "@Hollxnd87 @benderson @BBCBreaking looks like the number was 12",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 44,
+            "parent": 40,
+            "children": [
+                46
+            ],
+            "content": "@garymason10 obviously planned for a while these scumbags.",
+            "user id": 106330685,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 9
+        },
+        {
+            "comment id": 45,
+            "parent": 43,
+            "children": [],
+            "content": "@garymason10 @hollxnd87 @bbcbreaking Let's hope it's not more. But at the moment seems like even for the police it is pure speculation.",
+            "user id": 14112322,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 46,
+            "parent": 44,
+            "children": [],
+            "content": "@masna_bila mmmm",
+            "user id": 560192642,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 10
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 6,
+            "state_1": 4
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 1
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "5-hop": {
+            "state_0": 0,
+            "state_1": 3
+        },
+        "6-hop": {
+            "state_0": 3,
+            "state_1": 2
+        },
+        "7-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 1,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

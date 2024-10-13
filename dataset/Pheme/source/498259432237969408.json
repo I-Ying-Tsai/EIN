@@ -1,0 +1,121 @@
+{
+    "source": {
+        "content": "People are now matching to the #Ferguson Police Dept headquarters. http://t.co/4KEsby2ZPj",
+        "user id": 14090948,
+        "tweet id": "498259432237969408",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: People are now matching to the #Ferguson Police Dept headquarters. http://t.co/v5WBfic1Q5”",
+            "user id": 377097322,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench Honestly, I hope they tear some shit up. That's the only way we'll get their attention. Civil disobedience.",
+            "user id": 33294987,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "#MikeBrown RT \"@AntonioFrench: People are now matching to the #Ferguson Police Dept headquarters. http://t.co/3SsYJ0VEi2”",
+            "user id": 527496759,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "content": "RT “@AntonioFrench: People are now marching  to the #Ferguson Police Dept headquarters. http://t.co/XTDxZO6veI”",
+            "user id": 495319163,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "content": "I'm scared for these people.  They will use law enforcement to try and kill them all. @BougieLa @blurbette @AntonioFrench",
+            "user id": 133126060,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "Good RT @SheSeauxSaditty RT @AntonioFrench People are now matching to the #Ferguson Police Dept headquarters. http://t.co/dPh9dUwIoK",
+            "user id": 25606162,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Sharpton coming, it won't last RT“@AntonioFrench: People are now matching to the #Ferguson Police Dept headquarters. http://t.co/05ZTwZArxK”",
+            "user id": 172921452,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "“@AntonioFrench: People are now matching to the #Ferguson Police Dept headquarters. http://t.co/uuoKSbSzMa”",
+            "user id": 307417913,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@AntonioFrench May God be with each and everyone of them Blessed in the name of justice. Right on~",
+            "user id": 1112561191,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

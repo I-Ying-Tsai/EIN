@@ -1,0 +1,143 @@
+{
+    "source": {
+        "content": "When you've lost Hezbollah... http://t.co/yUZ2Cf3Xb7 http://t.co/daerTXp4hE",
+        "user id": 2195241,
+        "tweet id": "553590750701551616",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@fmanjoo the leader of the iran-funded religious militant group which has subsumed lebanon's infrastructure has got some fucking brass.",
+            "user id": 47396544,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@fmanjoo @chaseawinter Wow. I mean, Nasrallah certainly has a gripe with ISIS, but he's been \"bipartisan\" before (friendly with Hamas).",
+            "user id": 157468971,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "content": "@fmanjoo @chaseawinter Part of rollout from Hezbollah PR responding to \"Where is the outrage from the Muslim community?\" that I keep seeing?",
+            "user id": 157468971,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "Whoa… if you live long enough you'll see everything “@fmanjoo: When you've lost Hezbollah... http://t.co/b7aughGUSY http://t.co/v0kuEbSE6F”",
+            "user id": 18312282,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@fmanjoo @toasterhead Have the idiots killed him yet? Give them time.",
+            "user id": 15971518,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@fmanjoo @make_trouble Maybe he just doesn't like anyone else being centre of attention?",
+            "user id": 385335334,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "Wow “@fmanjoo: When you've lost Hezbollah... http://t.co/BvUAFIaSWb http://t.co/rBxzNADenp” @BlogsofWar via @faineg",
+            "user id": 543975202,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@fmanjoo @faineg \"Islamic extremists who behead &amp; slaughter people\" lulz ... that could be Hezbollah in Syria",
+            "user id": 16995002,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@fmanjoo we need to hear more of that!",
+            "user id": 2382435914,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@mortengade @fmanjoo Expressions of sorrow and anger after Charlie Hebdo attack http://t.co/LQdgn799Vz",
+            "user id": 70593494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@supareaper @fmanjoo Expressions of sorrow and anger after Charlie Hebdo attack http://t.co/LQdgn799Vz",
+            "user id": 70593494,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 6
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

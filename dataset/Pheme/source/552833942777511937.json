@@ -1,0 +1,66 @@
+{
+    "source": {
+        "content": "You can take offence, disapprove, demonstrate; but not silence or kill. We will not be intimidated. #JeSuisCharlie http://t.co/uil7iv8zaF",
+        "user id": 42371615,
+        "tweet id": "552833942777511937",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@sturdyAlex Printed media: put the 'most offensive' #CharlieHebdo cartoon front page tomorrow in a coordinated world response #JeSuisCharlie",
+            "user id": 84074624,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@solamiga @sturdyAlex exactly this, those comics should be widely spread in print media as a fuck you, you dont get your way to these people",
+            "user id": 866445954,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@sturdyAlex I've noticed the guarded silence of the homophobes today.  I wonder why?",
+            "user id": 1442058246,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@sturdyAlex Charb http://t.co/T2sST4U4a1",
+            "user id": 2526815035,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

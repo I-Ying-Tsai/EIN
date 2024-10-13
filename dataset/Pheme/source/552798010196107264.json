@@ -1,0 +1,105 @@
+{
+    "source": {
+        "content": "BREAKING: French government raises security alert to highest level after deadly attack at magazine Charlie Hebdo. http://t.co/ak9mTVfJdR",
+        "user id": 2097571,
+        "tweet id": "552798010196107264",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@cnni If it's in Nig., they will blame Jonathan. Ignorant Fellows.",
+            "user id": 922859155,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                6
+            ],
+            "content": "@apaemi_davies @cnni Who else if not GEJ..... God will help us.... No salt in my soup at home...it is Jonathan.....",
+            "user id": 271002405,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni Very very emergency situations",
+            "user id": 1919930370,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "French government raises security alert to highest level after deadly attack at magazine Charlie Hebdo. http://t.co/0Bn3q5h1Pm @cnni",
+            "user id": 16186635,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni @opsmedics  Won't surprise me if they threw weapons &amp; balaclavas away &amp; simply boarded underground railway to the UK! #CharlieHebdo",
+            "user id": 1949828624,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "@cnni a sign that many people who appear outwardly and seen as human are likely to be animals within.",
+            "user id": 394050907,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [],
+            "content": "@mikawotor @cnni Even when there is no Isam in the soup, it is Jonathan. My dear, God will help us.",
+            "user id": 922859155,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 1,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

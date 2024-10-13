@@ -1,0 +1,605 @@
+{
+    "source": {
+        "content": "THE TERRORIST ATTACK IN PARIS IS SO SCARY I'M CRYING",
+        "user id": 821689608,
+        "tweet id": "553586305272389632",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "content": "MY THOUGHTS AND PRAYERS ARE WITH EVERYBODY IN PARIS",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                13
+            ],
+            "content": "@cloulessed thank you...i'm so scared...",
+            "user id": 2541942871,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                14
+            ],
+            "content": "@cloulessed I'm not in Paris but I'm so fucking scared",
+            "user id": 449939951,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                15
+            ],
+            "content": "@cloulessed tysm we are so scared",
+            "user id": 623109249,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [
+                16
+            ],
+            "content": "TWO OF THE TERRORISTS ARE SUPPOSEDLY DEAD THANK GOD",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [
+                17
+            ],
+            "content": "@cloulessed @britbritsslave what's happened?😁😁",
+            "user id": 2969932157,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "content": "“@cloulessed: THE TERRORIST ATTACK IN PARIS IS SO SCARY I'M CRYING” THEY DIED FEW MINUTES AGO",
+            "user id": 262300284,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                18
+            ],
+            "content": "@urmalikz YEAH THANK GOD",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "content": "@cloulessed  I'm so scared I live in France and it's horrible",
+            "user id": 450669425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                19
+            ],
+            "content": "@andlarryisreal i'm praying for you babe",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "“@cloulessed: THE TERRORIST ATTACK IN PARIS IS SO SCARY I'M CRYING”",
+            "user id": 139214415,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "content": "@cloulessed THEY DIED",
+            "user id": 1052633340,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                20
+            ],
+            "content": "@hwrys I KNOW THANK GOD",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": 1,
+            "children": [
+                21
+            ],
+            "content": "@drugoflilo stay safe babe",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 14,
+            "parent": 2,
+            "children": [
+                22
+            ],
+            "content": "@twerkonloueh neither am i but i'm terrified",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 15,
+            "parent": 3,
+            "children": [
+                23
+            ],
+            "content": "@hugofnixll stay safe babe i'm thinking of you",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 4,
+            "children": [
+                24
+            ],
+            "content": "HOSTAGES ARE BEING FREED THANK YOU JESUS I AM SO GLAD",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 17,
+            "parent": 5,
+            "children": [
+                25
+            ],
+            "content": "@demi_ashbae there has been a terrorist attack in paris",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 18,
+            "parent": 7,
+            "children": [
+                26
+            ],
+            "content": "@cloulessed U CANT IMAGINE HOW MUCH I WAS SCARED AND EVERYONE AT MY SCHOOL WERE TOO OMG",
+            "user id": 262300284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 19,
+            "parent": 9,
+            "children": [
+                27
+            ],
+            "content": "@cloulessed thank you so much",
+            "user id": 450669425,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 20,
+            "parent": 12,
+            "children": [
+                28
+            ],
+            "content": "@cloulessed IM SO SCARED",
+            "user id": 1052633340,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 21,
+            "parent": 13,
+            "children": [],
+            "content": "@cloulessed yeah thank you !",
+            "user id": 2541942871,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 22,
+            "parent": 14,
+            "children": [
+                29
+            ],
+            "content": "@cloulessed I feel like I'm going to cry, I'm watching the tv and it's so scary",
+            "user id": 449939951,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 23,
+            "parent": 15,
+            "children": [
+                30
+            ],
+            "content": "@cloulessed the terrorists are dead",
+            "user id": 623109249,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 24,
+            "parent": 16,
+            "children": [],
+            "content": "@cloulessed x",
+            "user id": 2532615720,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 25,
+            "parent": 17,
+            "children": [],
+            "content": "@cloulessed Oh...😪 rip 🙏🙏",
+            "user id": 2969932157,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 26,
+            "parent": 18,
+            "children": [
+                31
+            ],
+            "content": "@urmalikz I'M WATCHING THE NEWS AND IT IS SO SCARY I COULDN'T EVEN COMPREHEND HOW SCARY IT IS IN PARIS RN",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 27,
+            "parent": 19,
+            "children": [],
+            "content": "@andlarryisreal no problem stay safe love",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 28,
+            "parent": 20,
+            "children": [
+                32
+            ],
+            "content": "@hwrys ME TOO OH MY GOD",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 4
+        },
+        {
+            "comment id": 29,
+            "parent": 22,
+            "children": [],
+            "content": "@twerkonloueh yeah me too, the explosions freaked me out so much",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 30,
+            "parent": 23,
+            "children": [
+                33
+            ],
+            "content": "@hugofnixll yes i know thank god",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 31,
+            "parent": 26,
+            "children": [
+                34
+            ],
+            "content": "@cloulessed WHERE ARE YOU FROM? OMG",
+            "user id": 262300284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 5
+        },
+        {
+            "comment id": 32,
+            "parent": 28,
+            "children": [
+                35
+            ],
+            "content": "@cloulessed BC I LIVE IN FRANCE 😔😔",
+            "user id": 1052633340,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 5
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [
+                36
+            ],
+            "content": "@cloulessed this is so scary..",
+            "user id": 623109249,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 34,
+            "parent": 31,
+            "children": [
+                37
+            ],
+            "content": "@urmalikz THE UK",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 6
+        },
+        {
+            "comment id": 35,
+            "parent": 32,
+            "children": [],
+            "content": "@hwrys THAT MUST BE SCARY",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 6
+        },
+        {
+            "comment id": 36,
+            "parent": 33,
+            "children": [],
+            "content": "@hugofnixll i know its horrible",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 37,
+            "parent": 34,
+            "children": [
+                38
+            ],
+            "content": "@cloulessed IM FROM FRANCE I LIVE IN NORTH OMG",
+            "user id": 262300284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 7
+        },
+        {
+            "comment id": 38,
+            "parent": 37,
+            "children": [
+                39
+            ],
+            "content": "@urmalikz IT MUST BE SO SCARY TO BE THERE RN",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 8
+        },
+        {
+            "comment id": 39,
+            "parent": 38,
+            "children": [
+                40
+            ],
+            "content": "@cloulessed SO MUCH EVERYONE TALKED ABOUT THAT AT SCHOOL WE WERE ALL SO SCARED",
+            "user id": 262300284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 9
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [
+                41
+            ],
+            "content": "@urmalikz AT LEAST YOU ARE ALL SAFE",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 10
+        },
+        {
+            "comment id": 41,
+            "parent": 40,
+            "children": [
+                42
+            ],
+            "content": "@cloulessed YES YOU CANT IMAGINE HOW MUCH WE ARE ALL THANKFUL FOR THE SUPPORT FROM PEOPLE ALL AROUND THE WORLD",
+            "user id": 262300284,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 11
+        },
+        {
+            "comment id": 42,
+            "parent": 41,
+            "children": [],
+            "content": "@urmalikz I'M SO THANKFUL THAT IT IS OVER",
+            "user id": 821689608,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 12
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 5,
+            "state_1": 3
+        },
+        "4-hop": {
+            "state_0": 4,
+            "state_1": 4
+        },
+        "5-hop": {
+            "state_0": 1,
+            "state_1": 3
+        },
+        "6-hop": {
+            "state_0": 2,
+            "state_1": 1
+        },
+        "7-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "8-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "9-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "10-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "11-hop": {
+            "state_0": 0,
+            "state_1": 1
+        },
+        "12-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

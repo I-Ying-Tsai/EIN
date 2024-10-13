@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "Gunfire and smoke reported at Charlie Hebdo suspect hostage scene http://t.co/rBMh3jpZWx http://t.co/71SjFMZBqh",
+        "user id": 26566469,
+        "tweet id": "553583059761897473",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheWorldPost @HuffingtonPost It is NOT gunfire, it is the fireplace they've lighted on because of the cold weather!! Inform people properly",
+            "user id": 212269909,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

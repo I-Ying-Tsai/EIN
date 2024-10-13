@@ -1,0 +1,486 @@
+{
+    "source": {
+        "content": "#山东高铁晚点#6:52济南西站发车到现在一个多小时我就从济南西站到了济南站？\n谁在火车站告诉我一下D6051到底晚点多久，也给我一点希望，是不是现在只能靠飞机了。  ",
+        "time": "18-8-9 08:12",
+        "user id": "3904336158",
+        "tweet id": "GtNvEzf8G",
+        "label": 0,
+        "theme": "社会生活"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "3684080452",
+            "user name": "狗儿快跑aj",
+            "content": "你可以腿着",
+            "time": "18-8-9 12:03",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "我坐客车去的",
+            "time": "18-8-9 12:04",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "3659544893",
+            "user name": "岩酪鱼籽子",
+            "content": "去烟台做啥鸭",
+            "time": "18-8-9 08:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "去玩啊",
+            "time": "18-8-9 08:17",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "6020340057",
+            "user name": "Reynard_Zhang",
+            "content": "我从青岛到济南火车到高密就趴窝了，不往前走了，说的是线路故障",
+            "time": "18-8-9 08:52",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 6,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "是的",
+            "time": "18-8-9 10:06",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                5
+            ],
+            "user id": "2250181830",
+            "user name": "清秋七_",
+            "content": "昨天晚上从青岛回济南晚了两个半小时 看来算是幸运的了",
+            "time": "18-8-9 09:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                12
+            ],
+            "user id": "3006126631",
+            "user name": "希望每天有好运",
+            "content": "朋友，我也是这班车去烟台，你们现在什么情况啊，我在火车站等得好心焦啊",
+            "time": "18-8-9 08:20",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "没事🙊",
+            "time": "18-8-9 08:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 9,
+            "parent": 10,
+            "children": [],
+            "user id": "3006126631",
+            "user name": "希望每天有好运",
+            "content": "这样哦，希望它快点来吧，谢谢你",
+            "time": "18-8-9 08:32",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 10,
+            "parent": 12,
+            "children": [
+                9
+            ],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "乘务员说已经发出去一些车了，但是前面还有很多更早的车没走，应该多等会就能走了",
+            "time": "18-8-9 08:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 11,
+            "parent": 12,
+            "children": [],
+            "user id": "3006126631",
+            "user name": "希望每天有好运",
+            "content": "我们这显示晚点未定，好多车都停运了",
+            "time": "18-8-9 08:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 12,
+            "parent": 7,
+            "children": [
+                10,
+                11
+            ],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "过一段时间就提醒你一次晚点多久，也不说到底什么时候走，因为什么晚点",
+            "time": "18-8-9 08:21",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "1811995851",
+            "user name": "十日十月Sue",
+            "content": "昨天晚上的不都基本发走了～今天早晨还晚？",
+            "time": "18-8-9 08:17",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 15,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "回不来了，停运了",
+            "time": "18-8-9 10:07",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 4
+        },
+        {
+            "comment id": 15,
+            "parent": 16,
+            "children": [
+                14
+            ],
+            "user id": "1811995851",
+            "user name": "十日十月Sue",
+            "content": "昨天等4个小时，随便一班车回来的～回来晚上12点多了～后续看到好多车都动了，以为今早能好呢",
+            "time": "18-8-9 09:20",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 16,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "今天又不能走了",
+            "time": "18-8-9 08:18",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "6054699391",
+            "user name": "木乘木",
+            "content": "我在济南站待了两小时半了，预计晚点两个小时四十分钟",
+            "time": "18-8-9 10:30",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "没停运就挺好了",
+            "time": "18-8-9 12:04",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "5233776111",
+            "user name": "i小女超人i",
+            "content": "今天不走了吗",
+            "time": "18-8-9 10:00",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "user id": "5266169634",
+            "user name": "楊淑臣小朋友",
+            "content": "现在这个车8点多50多停运了是不是",
+            "time": "18-8-9 09:37",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "是",
+            "time": "18-8-9 10:06",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "1228678235",
+            "user name": "皮皮暖Rachel",
+            "content": "亲6051，淄博站报道停运了，您可以下车退票了",
+            "time": "18-8-9 09:35",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "user id": "2810338633",
+            "user name": "All不完美呀",
+            "content": "现在济南站去青岛方向的普遍晚点吗？",
+            "time": "18-8-9 08:23",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "对",
+            "time": "18-8-9 08:23",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "5537030466",
+            "user name": "卡佩拉就是力量",
+            "content": "飞机……肯定停运",
+            "time": "18-8-9 11:15",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "2162924633",
+            "user name": "木槿阿51",
+            "content": "",
+            "time": "18-8-9 09:56",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "user id": "6173004788",
+            "user name": "用户6173004788",
+            "content": "晚点至少五个小时",
+            "time": "18-8-9 09:10",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "这趟车停运了",
+            "time": "18-8-9 09:12",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [
+                30
+            ],
+            "user id": "3911948749",
+            "user name": "孫鋭",
+            "content": "同车",
+            "time": "18-8-9 08:23",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 30,
+            "parent": 29,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "说不定能偶遇呢",
+            "time": "18-8-9 08:24",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [
+                32
+            ],
+            "user id": "1811995851",
+            "user name": "十日十月Sue",
+            "content": "又晚了？",
+            "time": "18-8-9 08:16",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 32,
+            "parent": 31,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "对的",
+            "time": "18-8-9 08:17",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [
+                34
+            ],
+            "user id": "5080223829",
+            "user name": "你找不到我的啊h",
+            "content": "真巧我6点25发车从青岛站坐到了青岛北",
+            "time": "18-8-9 08:14",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 34,
+            "parent": 33,
+            "children": [],
+            "user id": "3904336158",
+            "user name": "蓝胖子的美味静",
+            "content": "已经晚点一个多小时了，也没说什么时候能走",
+            "time": "18-8-9 08:15",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 5,
+            "state_1": 11
+        },
+        "2-hop": {
+            "state_0": 5,
+            "state_1": 8
+        },
+        "3-hop": {
+            "state_0": 3,
+            "state_1": 1
+        },
+        "4-hop": {
+            "state_0": 2,
+            "state_1": 0
+        }
+    }
+}

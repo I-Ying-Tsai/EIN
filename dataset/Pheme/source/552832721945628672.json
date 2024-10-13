@@ -1,0 +1,49 @@
+{
+    "source": {
+        "content": "\"Our thoughts and prayers are with the victims of this terrorist attack and the people of France\" -Pres. Obama statement on #CharlieHebdo.",
+        "user id": 7744592,
+        "tweet id": "552832721945628672",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow I don't think many of them would have cared for the prayers, but they would appreciate the solidarity.",
+            "user id": 1259122477,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": ".@TODAYshow How long did it take for this PC obsessed Admin to sputter out the word 'terrorism.' @PressSec is pathetic, weak.",
+            "user id": 2654713085,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@TODAYshow fuck religion.god is logic",
+            "user id": 335871995,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

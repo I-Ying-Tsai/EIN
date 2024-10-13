@@ -1,0 +1,71 @@
+{
+    "source": {
+        "content": "Sydney's central business district is under lockdown as gunman takes hostages at a cafe. Live stream as it unfolds: http://t.co/J7YKJcaPqt",
+        "user id": 57945416,
+        "tweet id": "544320992361721856",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "MT @debkhk: Sydney's central business district is under lockdwn as gunman takes hostages at a cafe\nLive: http://t.co/m2WnjRCj0S\n#sydneyseige",
+            "user id": 183296836,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@debkhk @WSJ It has already unfolded. http://t.co/rNjy1FMdws PM of Aus has held his first press conference",
+            "user id": 1925160571,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@debkhk @WSJ Okay, if it's \"one gunman\" wandering around in plain sight, likely time for \"one shot, one kill, no luck, pure skill, etc.\"",
+            "user id": 96233882,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@debkhk @Rezhasan UK Australia  us Europe  has to wake up and stop muslim  immigration  to their  country",
+            "user id": 393332376,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "content": "@debkhk @husainhaqqani Entire Lahore has been locked down by their counterpart. Much bigger achievement.",
+            "user id": 2754645151,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        }
+    }
+}

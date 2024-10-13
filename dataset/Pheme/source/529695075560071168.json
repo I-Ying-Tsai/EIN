@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "Prince loves this city. He fell for the Toronto woman trap. Happens to the best of them.",
+        "user id": 134586361,
+        "tweet id": "529695075560071168",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "“@ellhah: Prince loves this city. He fell for the Toronto woman trap. Happens to the best of them.”",
+            "user id": 62111733,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@ellhah Prince x Red Drink Boutique invite only party will be a story for another day...",
+            "user id": 44644732,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 1
+        }
+    }
+}

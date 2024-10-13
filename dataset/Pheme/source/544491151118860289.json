@@ -1,0 +1,118 @@
+{
+    "source": {
+        "content": "SYDNEY HOSTAGE-TAKER\n- Man Monis, 49\n- Originally from Iran\n- Self-styled sheikh\n- Accused of sexually assaulting 7 women\nDEVELOPING..",
+        "user id": 292777349,
+        "tweet id": "544491151118860289",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @MuhBooLuLu shit tell him to get on Cosby's level",
+            "user id": 54113109,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "content": "@PzFeed @Siren_Six \nLol \"Self Styled Sheikh\" ?\nI think I'll be Prime Minister then",
+            "user id": 1434392514,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "content": "@MuhBooLuLu @PzFeed I also like to see myself as a self-styled billionaire though it doesn't help me with overdraft charges, lol.",
+            "user id": 1206618644,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed @IMYSNI Doxed faggot!",
+            "user id": 1437907688,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@ohK4LEN check @PzFeed",
+            "user id": 2397218818,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@TheDogOG @PzFeed I saw",
+            "user id": 1434582547,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@PzFeed so he's not even muslim? wow this is uh weird",
+            "user id": 2786640289,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [],
+            "content": "@Siren_Six @PzFeed \nLol",
+            "user id": 1434392514,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

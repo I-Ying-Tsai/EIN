@@ -1,0 +1,158 @@
+{
+    "source": {
+        "content": "How can trust the profiling skills of the chief on a boy he never met but couldn't pick up the psychopath he worked with #ferguson",
+        "user id": 18631010,
+        "tweet id": "500289088285863936",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "content": "@jamalhbryant Exactly!!! I smell a cover up!",
+            "user id": 57419415,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "content": "@PrettyTallGirl Time to End Police Militarization Now! https://t.co/JUFy46rOeA",
+            "user id": 601342849,
+            "user name": "",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "@jamalhbryant no information at all released on the actual shooting....instead they chose to release information on the alleged robbery",
+            "user id": 214136242,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "content": "@Honey223344 Time to End Police Militarization Now! https://t.co/JUFy46rOeA",
+            "user id": 601342849,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "@jamalhbryant He's a puppet being told what to say.",
+            "user id": 1244923598,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "content": "@nineyevans Time to End Police Militarization Now! https://t.co/JUFy46rOeA",
+            "user id": 601342849,
+            "user name": "",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "@jamalhbryant Almost all of the police departments cover each other.  But in the end the truth always come out.",
+            "user id": 1244923598,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "@jamalhbryant BOOM!",
+            "user id": 611058482,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@jamalhbryant let freedom ring we all human http://t.co/uZMbyV22UD",
+            "user id": 2741256592,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "@jamalhbryant Time to End Police Militarization Now! https://t.co/JUFy46rOeA",
+            "user id": 601342849,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "@jamalhbryant you're a reverend, aren't you? strong word for a \"not a psychiatrist\".",
+            "user id": 21756261,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "content": "@jamalhbryant Right!!!!!",
+            "user id": 2456581940,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 1,
+            "state_1": 8
+        },
+        "2-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

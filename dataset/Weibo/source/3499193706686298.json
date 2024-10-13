@@ -1,0 +1,192 @@
+{
+    "source": {
+        "content": "十万火急-----谁的群多？请帮忙转一下：一个重庆打工者，22岁，叫吴云飞，不知道在什么地方，请他速回重庆，直接到重庆鱼嘴人民医院。家中失火，父母双亡，妹妹伤势很严重，想见他最后一面。舅舅：15523263869——爱心接力。【新中飞】",
+        "user id": 1312890425,
+        "tweet id": "3499193706686298",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "[飞机]",
+            "user id": 2117522902,
+            "user name": "ellen-张炯",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "[话筒]",
+            "user id": 2705431391,
+            "user name": "零下----零下",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "转起",
+            "user id": 1849891164,
+            "user name": "小雪or晓雪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "求扩散",
+            "user id": 2394130820,
+            "user name": "wAe_thankYou",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "content": "转发微博",
+            "user id": 1880557113,
+            "user name": "kellycope",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6,
+                12
+            ],
+            "content": "",
+            "user id": 2013653444,
+            "user name": "Restart-LX忍",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "content": "扩",
+            "user id": 2090601051,
+            "user name": "枫叶尚江南",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "是不是假的啊……转了才看到你的这条评论……",
+            "user id": 1134001250,
+            "user name": "天使在wx",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                10,
+                11
+            ],
+            "content": "大家多转转！！快！！",
+            "user id": 2160165510,
+            "user name": "曹扬--Yang",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "我觉得电视，广播更好吧，不过不知道收费不！他上网吗？微博吗",
+            "user id": 1827830782,
+            "user name": "无门无派的熬成仙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 8,
+            "children": [],
+            "content": "转",
+            "user id": 2848092970,
+            "user name": "黄山朱丽霞",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "content": "[爱心传递][爱心传递][爱心传递]",
+            "user id": 2017571147,
+            "user name": "欧妈LILY",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 12,
+            "parent": 5,
+            "children": [
+                13
+            ],
+            "content": "一起转发吧！",
+            "user id": 2716231931,
+            "user name": "鸿芯88",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "content": "",
+            "user id": 1581670254,
+            "user name": "倔强的傲雪",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 4
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 7,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 0
+        },
+        "4-hop": {
+            "state_0": 1,
+            "state_1": 0
+        }
+    }
+}

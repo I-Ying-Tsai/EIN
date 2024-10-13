@@ -1,0 +1,224 @@
+{
+    "source": {
+        "content": "NOLA生活探索中🔍\n每天稳定保持4小时睡眠\n时差什么时候才是个头啊……    ",
+        "time": "18-7-30 19:31",
+        "user id": "3850461134",
+        "tweet id": "GslG1f4pC",
+        "label": 0,
+        "theme": "医药健康"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                3,
+                5
+            ],
+            "user id": "5065784152",
+            "user name": "lovepureyu",
+            "content": "这student card是抠图吗。。。",
+            "time": "18-7-30 22:24",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "3850461134",
+            "user name": "Chesna_W",
+            "content": "是的",
+            "time": "18-7-31 02:02",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 2,
+            "parent": 3,
+            "children": [],
+            "user id": "5065784152",
+            "user name": "lovepureyu",
+            "content": "哈哈哈哈哈哈可是感觉人家也是费心扣了 不然直接放长方形照片了",
+            "time": "18-7-31 01:41",
+            "stance_label": 1,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "3850461134",
+            "user name": "Chesna_W",
+            "content": "对 看起来就是上个世纪的artwork…",
+            "time": "18-7-31 01:39",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 5,
+            "children": [],
+            "user id": "5065784152",
+            "user name": "lovepureyu",
+            "content": "不不 我是觉得人挺好看的 就是边上一圈很尴尬",
+            "time": "18-7-31 01:35",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 3
+        },
+        {
+            "comment id": 5,
+            "parent": 0,
+            "children": [
+                4
+            ],
+            "user id": "3850461134",
+            "user name": "Chesna_W",
+            "content": "哈哈哈哈哈是的 还压窄了 丑哭",
+            "time": "18-7-31 01:23",
+            "stance_label": 0,
+            "state": 1,
+            "hop": 2
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "5023492486",
+            "user name": "爱吃烧麦的华盛顿小姐",
+            "content": "哈哈哈终于等到更博",
+            "time": "18-7-30 20:43",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "user id": "3850461134",
+            "user name": "Chesna_W",
+            "content": "诶嘿嘿 因为这几天一直在忙着找房子乱七八糟的事头都炸了实在没心思发",
+            "time": "18-7-30 21:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "5023492486",
+            "user name": "爱吃烧麦的华盛顿小姐",
+            "content": "嗯嗯 加油咯💪🏻",
+            "time": "18-7-31 18:15",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 3
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "5134857228",
+            "user name": "heyu_byebye",
+            "content": "我 这两天听陌生的舞会 满脑子都是你在24k 摇头唱我要参加这个舞会的自信样子 想听你在寝室唱歌",
+            "time": "18-7-30 22:33",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "3850461134",
+            "user name": "Chesna_W",
+            "content": "我也好想你啊狗子 等我搬好家了跟你视频",
+            "time": "18-7-31 01:25",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "2266389751",
+            "user name": "心尖儿放瓶年轻水",
+            "content": "嗨呀你们这吃得好啊",
+            "time": "18-7-31 06:55",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "3850461134",
+            "user name": "Chesna_W",
+            "content": "都是自己在外面吃的哈哈 不是学校的伙食",
+            "time": "18-7-31 07:03",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "2216129852",
+            "user name": "闹钟一响就能起床的小H",
+            "content": "wow",
+            "time": "18-7-30 20:14",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "3850461134",
+            "user name": "Chesna_W",
+            "content": "",
+            "time": "18-7-30 21:22",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 4,
+            "state_1": 1
+        },
+        "2-hop": {
+            "state_0": 4,
+            "state_1": 3
+        },
+        "3-hop": {
+            "state_0": 2,
+            "state_1": 1
+        }
+    }
+}

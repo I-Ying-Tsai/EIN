@@ -1,0 +1,27 @@
+{
+    "source": {
+        "content": "If the dudes who shot up Ottawa are white, are we going to have a conversation about terrorism or is it going to be \"mental illness\"?",
+        "user id": 323967274,
+        "tweet id": "524969415318982657",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@sachinshvrma Don't you know? White people can never do anything wrong",
+            "user id": 59290354,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 1
+        }
+    }
+}

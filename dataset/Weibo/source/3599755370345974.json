@@ -1,0 +1,146 @@
+{
+    "source": {
+        "content": "帮朋友转发！ 求扩散，今天上午她同事的女儿在新塘大润发超市附近被人拐走了，小女孩三岁多，能准确说出她爸爸的手机号码，这是她同事女儿的照片，从监控上看是被一个四十多岁男人抱走了，现大人都急疯了，有知情者请告之，万分感谢！",
+        "user id": 1841885212,
+        "tweet id": "3599755370345974",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                2,
+                4
+            ],
+            "content": "帮忙啊！",
+            "user id": 1733642720,
+            "user name": "南方卫视美丽大变身",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "content": "转发微博",
+            "user id": 1784098980,
+            "user name": "阮东强TONY",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "content": "[爱心传递]",
+            "user id": 2122820817,
+            "user name": "Thina欣想",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "content": "急，求转！",
+            "user id": 1784098980,
+            "user name": "阮东强TONY",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "content": "",
+            "user id": 1047400625,
+            "user name": "冼其炜",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 2
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "content": "速度速度",
+            "user id": 1808268022,
+            "user name": "爆裂橙",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "content": "[话筒][话筒][话筒][话筒][话筒][话筒][话筒]",
+            "user id": 2722970517,
+            "user name": "李茉语",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "content": "帮帮忙",
+            "user id": 1755415775,
+            "user name": "joejoe乌",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "content": "@及时雨张姐",
+            "user id": 1912032074,
+            "user name": "BIU-BIU-Lai-Bu",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "content": "[伤心][伤心][伤心]好朋友们，帮帮他们！[话筒][话筒][话筒]",
+            "user id": 2520572127,
+            "user name": "naimin500",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "content": "快",
+            "user id": 2067329893,
+            "user name": "小官宝宝007",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 8,
+            "state_1": 0
+        },
+        "2-hop": {
+            "state_0": 3,
+            "state_1": 0
+        }
+    }
+}

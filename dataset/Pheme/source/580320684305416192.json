@@ -1,0 +1,60 @@
+{
+    "source": {
+        "content": "Accident aircraft looks to be Germanwings (Airline code 4U or GWI) flight 9525, Barcelona to Dusseldorf. #4U9525 http://t.co/TIZc1N1ZrK",
+        "user id": 51381252,
+        "tweet id": "580320684305416192",
+        "label": 1
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "RT @NYCAviation: Accident aircraft looks to be Germanwings (Airline code 4U or GWI) flight 9525, Barcelona to Dusseldorf. #4U9525",
+            "user id": 18455693,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@NYCAviation terrible news.",
+            "user id": 48336972,
+            "user name": "",
+            "stance_label": 0,
+            "state": 0,
+            "hop": 1
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "content": "@NYCAviation the 1st and only tweet I've seen referencing the ICAO identifier http://t.co/CsYdDzJtnE",
+            "user id": 464141682,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "content": "@NYCAviation http://t.co/83ghI9xHbi \"Ich dachte es wären wie so oft hier Kampfjets",
+            "user id": 2163438643,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 2,
+            "state_1": 2
+        }
+    }
+}

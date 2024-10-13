@@ -1,0 +1,38 @@
+{
+    "source": {
+        "content": "No matter what we do, it won't be as bad as killing a kid and leaving him to die on the street, covered with his own blood. #Ferguson",
+        "user id": 2725579568,
+        "tweet id": "500212911856295940",
+        "label": 0
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage2 right, because putting the wrong persons life in danger is way better.",
+            "user id": 284808058,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "content": "@TheAnonMessage2 so if Bryan and his family were killed it’d be ok? You’d have blood on YOUR hands and you wouldn’t be any better than DW.",
+            "user id": 38310819,
+            "user name": "",
+            "stance_label": 1,
+            "state": 1,
+            "hop": 1
+        }
+    ],
+    "state": {
+        "1-hop": {
+            "state_0": 0,
+            "state_1": 2
+        }
+    }
+}
