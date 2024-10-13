@@ -8,7 +8,6 @@ from utils.tools import *
 from torch_geometric.data import Data, InMemoryDataset
 from torch.utils.data import Dataset
 from torch_geometric.utils import to_undirected
-from utils.bert import get_sent_embedding
 
 
 
