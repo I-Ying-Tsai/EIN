@@ -227,11 +227,10 @@ class ResGCN(torch.nn.Module):
 
     @property
     def alpha(self):
-        return torch.sigmoid(self.raw_alpha)  # 通过sigmoid保证输出在0到1之间
-    
+        return torch.sigmoid(self.raw_alpha) 
     @property
     def beta(self):
-        return torch.sigmoid(self.raw_beta)  # 通过sigmoid保证输出在0到1之间
+        return torch.sigmoid(self.raw_beta)  
 
     def forward(self, data):
         x, edge_index, batch, user_state, n_hop = data.x, data.edge_index, data.batch, data.user_state, data.num_hop

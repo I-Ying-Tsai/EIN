@@ -115,11 +115,11 @@ class BiGCN(torch.nn.Module):
     
     @property
     def alpha(self):
-        return torch.sigmoid(self.raw_alpha)  # 通过sigmoid保证输出在0到1之间
+        return torch.sigmoid(self.raw_alpha)  
     
     @property
     def beta(self):
-        return torch.sigmoid(self.raw_beta)  # 通过sigmoid保证输出在0到1之间
+        return torch.sigmoid(self.raw_beta)  
 
 
     def physics_loss(self, U, S, D, true_state):
