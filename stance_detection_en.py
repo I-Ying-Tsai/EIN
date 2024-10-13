@@ -28,8 +28,6 @@ def clean_sentence(text):
 
 def stance_detection(model, tokenizer, source_sentence, response_sentence, parent):
     
-    # message_template_stage1 = f"源句子：'{source_sentence}' \n 回应句子：'{response_sentence}' \n 检查回应句子是否与源句子相关，如果相关则输出 '0'，如果不相关则输出 '1'。你只需要从上述选项中选择一个标签作为最终结果，不需要额外的文字。"
-
     # postive:0 negative:1
     if parent == -1:
         message_template_stage2 = f"""Source post: '{source_sentence}' \n Response comment: '{response_sentence}' \n Based on the content of the response comment, determine its attitude towards the source post and choose one of the following options: The response comment believes the source post:0, The response comment do not believes (or doubts) the source post:1. \n If the response comment only contains '@' someone(s) without any other content, then you can consider that the response is believing the source post. \n You only need to select one label from the options above as the final result, no additional text is required."""

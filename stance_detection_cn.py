@@ -28,8 +28,6 @@ def clean_sentence(text):
 
 def stance_detection(model, tokenizer, source_sentence, response_sentence, parent):
     
-    # message_template_stage1 = f"源句子：'{source_sentence}' \n 回应句子：'{response_sentence}' \n 检查回应句子是否与源句子相关，如果相关则输出 '0'，如果不相关则输出 '1'。你只需要从上述选项中选择一个标签作为最终结果，不需要额外的文字。"
-
     if parent == -1:
         message_template_stage2 = f"""源帖子：'{source_sentence}' \n 回应评论：'{response_sentence}' \n 根据回应评论的内容，鉴定其对源帖子的态度，并选择以下选项之一：回应评论是相信源帖子的：0，回应评论是不相信（或质疑）源帖子的：1。\n 如果回应评论仅仅包含 （'转发微博', '转发微博。', '轉發微博', '轉發微博。'） 或者是只@了某人而没有其他内容，则就认为回应评论是相信源帖子的。\n 你只需要从上述选项中选择一个标签作为最终结果，不需要额外的文字。"""
     else:
