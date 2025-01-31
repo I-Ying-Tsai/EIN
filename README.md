@@ -1,6 +1,6 @@
 # EIN
 
-This repository is the implementation of The Web Conference 2025 (WWW'25) paper: Physics-guided Active Sample Reweighting for Urban Flow Prediction
+This repository is the implementation of The Web Conference 2025 (WWW'25) paper: Epidemiology-informed Network for Robust Rumor Detection
 
 ![SNS](EIN.png)
 
