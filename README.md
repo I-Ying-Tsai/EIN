@@ -1,5 +1,9 @@
 # EIN
- 
+
+This repository is the implementation of CIKM'24 paper: Physics-guided Active Sample Reweighting for Urban Flow Prediction
+
+![SNS](EIN.png)
+
 run main.py to train and test the model.
 
 ## Requirements:
