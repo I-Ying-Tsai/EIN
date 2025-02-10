@@ -2,7 +2,7 @@
 
 This repository is the implementation of The Web Conference 2025 (WWW'25) paper: Epidemiology-informed Network for Robust Rumor Detection
 
-![SNS](EIN.png)
+![SNS](EIN.jpg)
 
 run main.py to train and test the model.
 
