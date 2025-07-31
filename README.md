@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EIN
 
 This repository is the implementation of The Web Conference 2025 (WWW'25) paper: Epidemiology-informed Network for Robust Rumor Detection
@@ -20,3 +21,6 @@ run main.py to train and test the model.
 - gensim==4.3.2
 - transformers==4.42.3
 - yaml==0.2.5
+=======
+# EIN
+>>>>>>> b2d34e98a53b709aa420c70cb3dffe790801638d
