@@ -13,6 +13,8 @@ from utils.logger import (
     get_log_dir,
 )
 
+import pandas as pd
+import matplotlib.pyplot as plt
 
 class EINTrainer(object):
     def __init__(self, datasets, model, optimizer, args, device):
@@ -40,7 +42,14 @@ class EINTrainer(object):
         self.logger.info('Experiment log path in: {}'.format(args.log_dir))
         self.logger.info('Experiment configs are: {}'.format(args))
 
-    
+        ##record
+        self.raw_alpha_history = []
+        self.alpha_history = []
+        self.raw_beta_history = []
+        self.beta_history = []
+        self.train_loss_history = [] 
+
+
     def train_epoch(self, epoch):
         self.model.train()
         train_loss = 0
@@ -57,6 +66,13 @@ class EINTrainer(object):
             self.optimizer.step()
 
         train_epoch_loss = train_loss/self.train_per_epoch
+
+        ##record
+        self.raw_alpha_history.append(self.model.raw_alpha.item())
+        self.raw_beta_history.append(self.model.raw_beta.item())
+        self.alpha_history.append(self.model.alpha.item())
+        self.beta_history.append(self.model.beta.item())
+
 
         self.logger.info('*******Traininig Epoch {}: averaged Loss : {:.6f}'.format(epoch, train_epoch_loss))
 
@@ -76,6 +92,9 @@ class EINTrainer(object):
         val_loss = np.mean(val_losses)
         self.logger.info('*******Val Epoch {}: averaged Loss : {:.6f}'.format(epoch, val_loss))
         
+        ##record
+        self.train_loss_history.append(val_loss)
+
         return val_loss
     
     def test(self):
@@ -101,6 +120,45 @@ class EINTrainer(object):
             self.logger.info("Test Acc: {:.4f} | AUC: {:.4f} | F1 {:.4f}".format(acc, auc, f1))
   
         
+    def plot_parameters(self):
+        # 创建一个 DataFrame 来存储参数
+        data = {
+            'Epochs': range(len(self.raw_alpha_history)),
+            'raw_alpha': self.raw_alpha_history,
+            'sigmoid_alpha': self.alpha_history,
+            'raw_beta': self.raw_beta_history,
+            'sigmoid_beta': self.beta_history,
+            'average_loss': self.train_loss_history,
+        }
+        
+        df = pd.DataFrame(data)
+
+        # 使用 args.dataset 生成文件名
+        csv_filename = f'parameters_table_{self.args.dataset}.csv'
+        img_filename = f'parameters_table_{self.args.dataset}.png'
+
+        # 保存为 CSV 文件
+        df.to_csv(csv_filename, index=False)
+
+        # 创建表格并保存为图片
+        fig, ax = plt.subplots(figsize=(10, 4))  # 设置图形大小
+        ax.axis('tight')
+        ax.axis('off')
+        table_data = df.values
+        column_labels = df.columns
+        table = ax.table(cellText=table_data, colLabels=column_labels, cellLoc='center', loc='center')
+        
+        # 调整表格样式
+        table.auto_set_font_size(False)
+        table.set_fontsize(10)
+        table.scale(1.2, 1.2)  # 调整表格大小
+
+        # 保存为图片
+        plt.savefig(img_filename, bbox_inches='tight', dpi=300)
+        plt.show()
+  
+
+
     def train_process(self):
 
         start_time = time.time()
