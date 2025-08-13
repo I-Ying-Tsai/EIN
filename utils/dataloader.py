@@ -86,9 +86,28 @@ class ResGCNTreeDataset(InMemoryDataset):
             user_state = user_state.unsqueeze(0) # to (1, n, 2)
             
 
-            one_data = Data(x=x, y=y, edge_index=edge_index, no_root_edge_index=no_root_edge_index, user_state=user_state, num_hop=num_hop) if 'label' in post['source'].keys() else \
+            '''one_data = Data(x=x, y=y, edge_index=edge_index, no_root_edge_index=no_root_edge_index, user_state=user_state, num_hop=num_hop) if 'label' in post['source'].keys() else \
                 Data(x=x, edge_index=edge_index, no_root_edge_index=no_root_edge_index, user_state=user_state, num_hop=num_hop)
+            data_list.append(one_data)'''
+
+            one_data = Data(
+                x=x,
+                y=y,
+                edge_index=edge_index,
+                no_root_edge_index=no_root_edge_index,
+                user_state=user_state,
+                num_hop=num_hop,
+                original_file=filename  # 添加原始檔案名
+            ) if 'label' in post['source'].keys() else Data(
+                x=x,
+                edge_index=edge_index,
+                no_root_edge_index=no_root_edge_index,
+                user_state=user_state,
+                num_hop=num_hop,
+                original_file=filename  # 添加原始檔案名
+            )
             data_list.append(one_data)
+
 
         if self.pre_filter is not None:
             data_list = [data for data in data_list if self.pre_filter(data)]
@@ -163,9 +182,27 @@ class TreeDataset(InMemoryDataset):
             user_state = torch.tensor(user_state, dtype=torch.float32)
             user_state = user_state.unsqueeze(0) # to (1, n, 2)
 
-            one_data = Data(x=x, y=y, edge_index=edge_index, user_state=user_state, num_hop=num_hop) if 'label' in post['source'].keys() else \
+            '''one_data = Data(x=x, y=y, edge_index=edge_index, user_state=user_state, num_hop=num_hop) if 'label' in post['source'].keys() else \
                 Data(x=x, edge_index=edge_index, user_state=user_state, num_hop=num_hop)
+            data_list.append(one_data)'''
+
+            one_data = Data(
+                x=x,
+                y=y,
+                edge_index=edge_index,
+                user_state=user_state,
+                num_hop=num_hop,
+                original_file=filename  # 添加原始檔案名
+            ) if 'label' in post['source'].keys() else Data(
+                x=x,
+                edge_index=edge_index,
+                user_state=user_state,
+                num_hop=num_hop,
+                original_file=filename  # 添加原始檔案名
+            )
             data_list.append(one_data)
+            
+
 
         if self.pre_filter is not None:
             data_list = [data for data in data_list if self.pre_filter(data)]
