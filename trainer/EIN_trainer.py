@@ -16,6 +16,7 @@ from utils.logger import (
 import pandas as pd
 import matplotlib.pyplot as plt
 
+
 class EINTrainer(object):
     def __init__(self, datasets, model, optimizer, args, device):
         super(EINTrainer, self).__init__()
@@ -50,6 +51,7 @@ class EINTrainer(object):
         self.train_loss_history = [] 
 
 
+    
     def train_epoch(self, epoch):
         self.model.train()
         train_loss = 0
@@ -72,7 +74,6 @@ class EINTrainer(object):
         self.raw_beta_history.append(self.model.raw_beta.item())
         self.alpha_history.append(self.model.alpha.item())
         self.beta_history.append(self.model.beta.item())
-
 
         self.logger.info('*******Traininig Epoch {}: averaged Loss : {:.6f}'.format(epoch, train_epoch_loss))
 
@@ -101,6 +102,11 @@ class EINTrainer(object):
         # test
         y_true = []
         y_pred = []
+        all_confidence_scores = []  # 儲存所有信心度
+        original_files = []  # 儲存原始檔案名
+
+        print("test_loader.dataset size:", len(self.test_loader.dataset))
+
         self.model.eval()
         with torch.no_grad():
             for batch_idx, data in enumerate(self.test_loader):
@@ -110,16 +116,29 @@ class EINTrainer(object):
                 y_true += data.y.tolist()
                 y_pred += test_out.max(1).indices.tolist()
 
+                # 獲取信心度
+                scores, preds, reviews = self.evaluate_confidence(data)
+                all_confidence_scores.extend(scores.cpu().numpy().tolist())  # 儲存信心度
+
+                # 提取原始檔案名，這裡需要確保正確提取
+                original_files.extend(data.original_file)  # 將原始檔案名添加到列表中
+
+                
             y_true = np.array(y_true)
             y_pred = np.array(y_pred)
+
+            
+
 
             acc = accuracy_score(y_true, y_pred)
             auc = roc_auc_score(y_true, y_pred)
             f1 = f1_score(y_true, y_pred)
 
             self.logger.info("Test Acc: {:.4f} | AUC: {:.4f} | F1 {:.4f}".format(acc, auc, f1))
+
+            return all_confidence_scores, original_files  # 返回所有信心度和原始檔案名
   
-        
+
     def plot_parameters(self):
         # 创建一个 DataFrame 来存储参数
         data = {
@@ -156,9 +175,8 @@ class EINTrainer(object):
         # 保存为图片
         plt.savefig(img_filename, bbox_inches='tight', dpi=300)
         plt.show()
-  
 
-
+        
     def train_process(self):
 
         start_time = time.time()
@@ -192,4 +210,25 @@ class EINTrainer(object):
                         -early_stopping.best_score, 
                         early_stopping.best_epoch))
 
-        self.test()
+        #self.test()
+
+        # 獲取信心度和原始檔案名
+        confidence_scores, original_files = self.test()  # 更新為返回原始檔案名
+
+        # 儲存信心度和原始檔案名
+        self.save_confidence_scores(confidence_scores, original_files)
+
+    def evaluate_confidence(self, data):
+        self.model.eval()
+        with torch.no_grad():
+            data.to(self.device)
+            outputs, _, _, _ = self.model(data)
+            probabilities = F.softmax(outputs, dim=1)
+            confidence_scores, predicted_classes = torch.max(probabilities, dim=1)
+
+        return confidence_scores, predicted_classes, data  # 確保返回三個值
+
+    def save_confidence_scores(self, confidence_scores, original_files, filename='confidence_scores.csv'):
+        df = pd.DataFrame({'Original File': original_files, 'Confidence': confidence_scores})
+        df.to_csv(filename, index=False)
+        self.logger.info(f"Confidence scores saved to {filename}")
