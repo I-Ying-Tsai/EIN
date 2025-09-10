@@ -31,18 +31,24 @@ def EIN_ResGCN_supervisor(args):
     word2vec = Embedding(model_path, args.language, args.tokenize_mode) if args.word_embedding == 'word2vec' else None
 
     # load data
-
     split_dataset(label_source_path, label_dataset_path, k_shot=args.k, split=args.split)
 
     train_path = os.path.join(label_dataset_path, 'train')
     val_path = os.path.join(label_dataset_path, 'val')
     test_path = os.path.join(label_dataset_path, 'test')
+     # 增加使用篩選後的資料集use_filtered_data與否
+
+    # 使用篩選後的資料路徑
+    #filtered_test_path = os.path.join('dataset', 'DRWeibo', 'high_confidence_files')
 
     undirected = args.undirected
     
     train_dataset = ResGCNTreeDataset(train_path, args.word_embedding, word2vec, undirected, args=args)
     val_dataset = ResGCNTreeDataset(val_path, args.word_embedding, word2vec, undirected, args=args)
+
+     # 增加使用篩選後的資料集use_filtered_data與否，直接註解test_path這一行
     test_dataset = ResGCNTreeDataset(test_path, args.word_embedding, word2vec, undirected, args=args)
+    #test_dataset = ResGCNTreeDataset(filtered_test_path, args.word_embedding, word2vec, undirected, args=args)
     
     base_model =  ResGCN(dataset=train_dataset, num_classes=args.num_classes, hidden=args.hidden_dim,
                             num_feat_layers=args.n_layers_feat, num_conv_layers=args.n_layers_conv,
@@ -55,9 +61,14 @@ def EIN_ResGCN_supervisor(args):
 
     datasets = [train_dataset, val_dataset, test_dataset]
 
-    trainer = EINTrainer(datasets, base_model, optimizer, args, device)
+    # 增加使用篩選後的資料集use_filtered_data 布林值
+    #trainer = EINTrainer(datasets, base_model, optimizer, args, device)
+    trainer = EINTrainer(datasets, base_model, optimizer, args, device, False)
 
     trainer.train_process()
+
+    ##draw
+    trainer.plot_parameters()
 
 
 
@@ -93,6 +104,8 @@ def EIN_BiGCN_supervisor(args):
     val_dataset = TreeDataset(val_path, args.word_embedding, word2vec, args=args)
     test_dataset = TreeDataset(test_path, args.word_embedding, word2vec, args=args)
 
+
+
     base_model = BiGCN(args.in_feats, args.hidden_dim, args.hidden_dim, args.num_classes, args, device).to(device)
 
 
@@ -103,4 +116,7 @@ def EIN_BiGCN_supervisor(args):
     trainer = EINTrainer(datasets, base_model, optimizer, args, device)
 
     trainer.train_process()
+
+    ##draw
+    trainer.plot_parameters()
 
