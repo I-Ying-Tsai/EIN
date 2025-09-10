@@ -22,5 +22,14 @@ run main.py to train and test the model.
 - transformers==4.42.3
 - yaml==0.2.5
 =======
-# EIN
->>>>>>> b2d34e98a53b709aa420c70cb3dffe790801638d
+
+# 在DRWeibo增加資料夾high_confidence_files，建立processed和raw資料夾
+DRWeibo
+│
+├── high_confidence_files
+│   ├── processed
+│   │   ├── data.pt
+│   │   ├── pre_filter.pt
+│   │   └── pre_transform.pt
+│   └── raw
+│       └── [圖片檔案]
