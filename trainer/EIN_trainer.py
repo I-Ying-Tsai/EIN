@@ -18,7 +18,9 @@ import matplotlib.pyplot as plt
 
 
 class EINTrainer(object):
-    def __init__(self, datasets, model, optimizer, args, device):
+    # 增加使用篩選後的資料集use_filtered_data 布林值
+    def __init__(self, datasets, model, optimizer, args, device, use_filtered_data):
+    #def __init__(self, datasets, model, optimizer, args, device):
         super(EINTrainer, self).__init__()
         self.model = model 
         self.optimizer = optimizer
@@ -27,9 +29,25 @@ class EINTrainer(object):
 
         train_dataset, val_dataset, test_dataset = datasets
 
+        # 宣告 filtered_test_data_path
+        # self.filtered_test_data_path = 'C:/Users/c1411/OneDrive/桌面/School/資訊專題/try/EIN/dataset/DRWeibo/test/high_confidence_files'
+        # 宣告 filtered_test_data_path
+        self.filtered_test_data_path = os.path.join(
+            os.path.dirname(__file__),  # 取得當前檔案的路徑
+            '..',                      # 返回上一層目錄 (EIN)
+            'dataset',                 # 進入 dataset 目錄
+            'DRWeibo',                 # 進入 DRWeibo 目錄
+            'high_confidence_files'    # 最終目錄
+        )
+
+
         self.train_loader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True)
         self.val_loader = DataLoader(val_dataset, batch_size=args.batch_size)
-        self.test_loader = DataLoader(test_dataset, batch_size=args.batch_size)
+        #self.test_loader = DataLoader(test_dataset, batch_size=args.batch_size)
+        if use_filtered_data:
+            self.test_loader = self.load_filtered_test_data(self.filtered_test_data_path)
+        else:
+            self.test_loader = DataLoader(test_dataset, batch_size=args.batch_size)
         
         self.train_per_epoch = len(self.train_loader)
 
@@ -49,6 +67,11 @@ class EINTrainer(object):
         self.raw_beta_history = []
         self.beta_history = []
         self.train_loss_history = [] 
+
+    def load_filtered_test_data(self, folder_path):
+        undirected = self.args.undirected
+        filtered_dataset = ResGCNTreeDataset(folder_path, self.args.word_embedding, None, undirected, args=self.args)
+        return DataLoader(filtered_dataset, batch_size=self.args.batch_size)
 
 
     
@@ -123,12 +146,8 @@ class EINTrainer(object):
                 # 提取原始檔案名，這裡需要確保正確提取
                 original_files.extend(data.original_file)  # 將原始檔案名添加到列表中
 
-                
             y_true = np.array(y_true)
             y_pred = np.array(y_pred)
-
-            
-
 
             acc = accuracy_score(y_true, y_pred)
             auc = roc_auc_score(y_true, y_pred)
