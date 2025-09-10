@@ -24,6 +24,7 @@ run main.py to train and test the model.
 =======
 
 # 在DRWeibo增加資料夾high_confidence_files，建立processed和raw資料夾
+"""
 DRWeibo
 │
 ├── high_confidence_files
@@ -32,4 +33,5 @@ DRWeibo
 │   │   ├── pre_filter.pt
 │   │   └── pre_transform.pt
 │   └── raw
-│       └── [圖片檔案]
+│       └── [篩選過後的檔案]
+"""
